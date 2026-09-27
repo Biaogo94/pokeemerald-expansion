@@ -63,7 +63,7 @@ static struct CompressedSpriteSheet GetSinglesOpponentHealthbox(void)
         return (struct CompressedSpriteSheet){ gHealthboxSinglesOpponentGfxGen3, 0x1000, TAG_HEALTHBOX_OPPONENT1_TILE };
 }
 
-static struct CompressedSpriteSheet GetSinglesPlayerHealthboxFrontier(void)
+static struct CompressedSpriteSheet UNUSED GetSinglesPlayerHealthboxFrontier(void)
 {
     if (UseGen4BattleUI())
         return (struct CompressedSpriteSheet){ gHealthboxSinglesPlayerGfx_FrontierGen4, 0x1000, TAG_HEALTHBOX_PLAYER1_TILE };
