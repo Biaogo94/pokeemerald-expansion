@@ -79,7 +79,7 @@ Text_PlayersMadeDifferentSelections:
 	.string "made different selections.$"
 
 CableClub_Text_PleaseVisitAgain:
-	.string "Please do visit again.$"
+	.string "欢迎再来。$"
 
 CableClub_Text_IncorrectNumberOfParticipants:
 	.string "The number of participants is\n"

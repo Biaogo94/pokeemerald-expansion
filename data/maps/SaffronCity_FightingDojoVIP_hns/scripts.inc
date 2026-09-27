@@ -23,7 +23,7 @@ SaffronCity_FightingDojoVIP_Text_Nurse1:
 	.string "I will heal your POKéMON.$"
 
 SaffronCity_FightingDojoVIP_Text_Nurse2:
-	.string "We hope to see you again!$"
+	.string "欢迎下次再来！$"
 
 
 SaffronCity_FightingDojoVIP_EventScript_Declined::

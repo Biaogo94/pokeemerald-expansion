@@ -657,20 +657,17 @@ NewBarkTown_Lab_Text_ShouldntTouch:
 	.string "Probably shouldn't touch!$"
 
 NewBarkTown_Lab_Text_ElmIntro:
-	.string "ELM: {PLAYER}! There you are!\p"
-	.string "I needed to ask you a favor.\p"
-	.string "I'm conducting new POKéMON\n"
-	.string "research right now. I was\l"
-	.string "wondering if you could help\l"
-	.string "me with it, {PLAYER}.\p"
-	.string "You see…\p"
-	.string "I'm writing a paper that I\n"
-	.string "want to present at a conference.\p"
-	.string "But there are some things I\n"
-	.string "don't quite understand yet.\p"
-	.string "So!\p"
-	.string "I'd like you to raise a\n"
-	.string "POKéMON that I recently caught.$"
+	.string "空木：{PLAYER}！你来啦！\p"
+	.string "我有件事想拜托你。\p"
+	.string "我正在做新的宝可梦研究，想请你帮\n"
+	.string "帮忙，{PLAYER}。\p"
+	.string "你看……\p"
+	.string "我正在写一篇论文，想在学会上发表\n"
+	.string "。\p"
+	.string "但还有些地方我怎么也想不明白。\p"
+	.string "所以！\p"
+	.string "我想请你培育一只我最近刚捉到的宝\n"
+	.string "可梦。$"
 
 NewBarkTown_Lab_Text_ElmAccepted:
 	.string "Thanks, {PLAYER}!\n"
@@ -717,28 +714,29 @@ NewBarkTown_Lab_Text_ElmChooseAPokemon:
 	.string "Go on. Pick one!$"
 
 NewBarkTown_Lab_Text_ElmWhereGoing:
-	.string "ELM: Wait! Where are you\n"
-	.string "going?$"
+	.string "空木：等等！你要去哪里？$"
 
 NewBarkTown_Lab_Text_ChooseCyndaquil:
-	.string "ELM: You'll take {STR_VAR_1},\n"
-	.string "the {STR_VAR_2} POKéMON?$"
+	.string "空木：你要选\n"
+	.string "{STR_VAR_1}，那只\l"
+	.string "{STR_VAR_2}宝可梦吗？$"
 
 NewBarkTown_Lab_Text_ChooseTotodile:
-	.string "ELM: Do you want {STR_VAR_1},\n"
-	.string "the {STR_VAR_2} POKéMON?$"
+	.string "空木：你想要\n"
+	.string "{STR_VAR_1}，那只\l"
+	.string "{STR_VAR_2}宝可梦吗？$"
 
 NewBarkTown_Lab_Text_ChooseChikorita:
-	.string "ELM: So, you like {STR_VAR_1},\n"
-	.string "the {STR_VAR_2} POKéMON?$"
+	.string "空木：这么说，你喜欢\n"
+	.string "{STR_VAR_1}，那只\l"
+	.string "{STR_VAR_2}宝可梦？$"
 
 NewBarkTown_Lab_Text_DidntChooseStarter:
-	.string "ELM: Think it over carefully.\p"
-	.string "Your partner is important.$"
+	.string "空木：好好考虑吧。\p"
+	.string "你的伙伴很重要。$"
 
 NewBarkTown_Lab_Text_ChoseStarter:
-	.string "ELM: I think that's a great\n"
-	.string "POKéMON too!$"
+	.string "空木：我觉得那只宝可梦也很棒！$"
 
 NewBarkTown_Lab_Text_ReceivedStarter:
 	.string "{PLAYER} received {STR_VAR_1}!$"
@@ -810,7 +808,7 @@ NewBarkTown_Lab_Text_ElmAfterTheft2:
 	.string "to PROF.ELM.$"
 
 NewBarkTown_Lab_Text_ElmAfterTheft3:
-	.string "ELM: This?$"
+	.string "空木：这个？$"
 
 NewBarkTown_Lab_Text_ElmAfterTheft4:
 	.string "But… Is it a POKéMON EGG?\p"
@@ -836,9 +834,8 @@ NewBarkTown_Lab_Text_ElmAfterTheft4:
 	.string "that you talk to your mom.$"
 
 NewBarkTown_Lab_Text_ElmStudyingEgg:
-	.string "ELM: Don't give up!\n"
-	.string "I'll call if I learn anything\l"
-	.string "about that EGG!$"
+	.string "空木：别放弃！那枚蛋要是有什么消\n"
+	.string "息，我会打电话给你的！$"
 
 NewBarkTown_Lab_Text_ElmAideHasEgg:
 	.string "ELM: {PLAYER}? Didn't you meet\n"
@@ -850,8 +847,7 @@ NewBarkTown_Lab_Text_ElmAideHasEgg:
 	.string "Try to catch him there.$"
 
 NewBarkTown_Lab_Text_ElmWaitingEggHatch:
-	.string "ELM: Hey, has that EGG changed\n"
-	.string "any?$"
+	.string "空木：那枚蛋有什么变化吗？$"
 
 NewBarkTown_Lab_Text_ElmThoughtEggHatched:
 	.string "{PLAYER}? I thought the EGG\n"

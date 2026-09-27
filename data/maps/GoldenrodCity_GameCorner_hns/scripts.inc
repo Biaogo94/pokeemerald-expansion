@@ -599,7 +599,7 @@ GoldenrodCity_GameCorner_Text_PrizeVendorWhichPrize:
     .string "Which prize would you like?$"
 
 GoldenrodCity_GameCorner_Text_PrizeVendorHereYouGo:
-    .string "Here you go!$"
+    .string "给你！$"
 
 GoldenrodCity_GameCorner_Text_PrizeVendorNeedMoreCoins:
     .string "Sorry! You need more coins.$"

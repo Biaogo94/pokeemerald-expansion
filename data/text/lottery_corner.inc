@@ -12,7 +12,7 @@ LilycoveCity_DepartmentStore_1F_Text_ComeBackTomorrow:
 	.string "Please come back tomorrow.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PleaseVisitAgain:
-	.string "Please do visit again.$"
+	.string "欢迎再来。$"
 
 LilycoveCity_DepartmentStore_1F_Text_PleasePickTicket:
 	.string "Please pick a LOTO TICKET.\n"
@@ -74,4 +74,4 @@ LilycoveCity_DepartmentStore_1F_Text_PrizeWeveBeenHolding:
 	.string "for you.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PleaseVisitAgain2:
-	.string "Please do visit again.$"
+	.string "欢迎再来。$"

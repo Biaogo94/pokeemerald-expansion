@@ -449,16 +449,13 @@ PalletTown_EventScript_SignLadyStartShowSign::
 	end
 
 PalletTown_Text_OakDontGoOut::
-	.string "OAK: Hey! Wait!\n"
-	.string "Don't go out!$"
+	.string "大木：喂！等一下！别出去！$"
 
 PalletTown_Text_OakGrassUnsafeNeedMon::
-	.string "OAK: It's unsafe!\n"
-	.string "Wild POKéMON live in tall grass!\p"
-	.string "You need your own POKéMON for\n"
-	.string "your protection.\p"
-	.string "I know!\n"
-	.string "Here, come with me!$"
+	.string "大木：外面很危险！草丛里住着野生\n"
+	.string "宝可梦！\p"
+	.string "你需要有自己的宝可梦来保护自己。\p"
+	.string "我知道了！跟我来吧！$"
 
 PalletTown_Text_RaisingMonsToo::
 	.string "I'm raising POKéMON, too.\p"
@@ -471,7 +468,7 @@ PalletTown_Text_CanStoreItemsAndMonsInPC::
 	.string "and POKéMON as data via PC.$"
 
 PalletTown_Text_OakPokemonResearchLab::
-	.string "OAK POKéMON RESEARCH LAB$"
+	.string "大木宝可梦研究所$"
 
 PalletTown_Text_PlayersHouse::
 	.string "{PLAYER}'s house$"
@@ -484,12 +481,11 @@ PalletTown_Text_TownSign::
 	.string "Shades of your journey await!$"
 
 PalletTown_Text_OakLetMeSeePokedex::
-	.string "OAK: Ah, {PLAYER}!\n"
-	.string "You're back, are you?\p"
-	.string "How much have you filled in your\n"
-	.string "POKéDEX?\p"
-	.string "May I see it?\p"
-	.string "Let's see…$"
+	.string "大木：啊，{PLAYER}！你回\n"
+	.string "来啦？\p"
+	.string "你的宝可梦图鉴填了多少了？\p"
+	.string "能让我看看吗？\p"
+	.string "我看看……$"
 
 PalletTown_Text_CaughtXPuttingInHonestEffort::
 	.string "You've caught {STR_VAR_2}…\p"

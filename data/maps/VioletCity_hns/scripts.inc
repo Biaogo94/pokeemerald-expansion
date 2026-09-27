@@ -466,7 +466,7 @@ VioletCity_Text_Rattata:
 	.string "RATTATA: RATTATARATTA!$"
 
 VioletCity_Text_ElmName:
-	.string "PROF.ELM$"
+	.string "空木博士$"
 
 VioletCity_Text_Elm_Call:
 	.string "PROF.ELM: Hello, {PLAYER}? We\n"

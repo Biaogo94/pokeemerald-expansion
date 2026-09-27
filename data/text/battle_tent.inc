@@ -296,7 +296,7 @@ SlateportCity_BattleTentLobby_Text_HoldMonsForSafekeeping:
 	.string "safekeeping while you compete.$"
 
 SlateportCity_BattleTentLobby_Text_StepThisWay:
-	.string "Please step this way.$"
+	.string "这边请。$"
 
 SlateportCity_BattleTentLobby_Text_ReturnRentalMonsSaveResults:
 	.string "Thank you for participating!\p"

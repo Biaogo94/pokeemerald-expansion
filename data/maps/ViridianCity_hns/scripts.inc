@@ -22,7 +22,7 @@ ViridianCity_EventScript_OakCall::
 	end
 
 ViridianCity_Text_OakName:
-	.string "OAK$"
+	.string "大木$"
 
 ViridianCity_Text_OakCall:
 	.string "OAK: Ah, {PLAYER}!\p"

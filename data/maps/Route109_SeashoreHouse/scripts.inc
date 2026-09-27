@@ -134,7 +134,7 @@ Route109_SeashoreHouse_Text_WantToBuySodaPop:
 	.string "Buy some!$"
 
 Route109_SeashoreHouse_Text_HereYouGo:
-	.string "Here you go!$"
+	.string "给你！$"
 
 Route109_SeashoreHouse_Text_NotEnoughMoney:
 	.string "You don't have the money.$"

@@ -379,7 +379,7 @@ GoldenrodCity_RadioTower_1F_Text_ComeBackTomorrow:
 	.string "Please come back tomorrow.$"
 
 GoldenrodCity_RadioTower_1F_Text_PleaseVisitAgain:
-	.string "Please do visit again.$"
+	.string "欢迎再来。$"
 
 GoldenrodCity_RadioTower_1F_Text_PleasePickTicket:
 	.string "Please pick a LOTO TICKET.\n"
@@ -441,6 +441,6 @@ GoldenrodCity_RadioTower_1F_Text_PrizeWeveBeenHolding:
 	.string "for you.$"
 
 GoldenrodCity_RadioTower_1F_Text_PleaseVisitAgain2:
-	.string "Please do visit again.$"
+	.string "欢迎再来。$"
 
 

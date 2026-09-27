@@ -648,7 +648,7 @@ Alola_Ulaula_Text_TutorMove_Confide:
 	.string "CONFIDE$"
 
 Alola_Ulaula_Text_TutorMove_DazzlingGleam:
-	.string "DAZZLING GLEAM$"
+	.string "魔法闪耀$"
 
 Alola_Ulaula_Text_TutorMove_DragonTail:
 	.string "DRAGON TAIL$"
@@ -666,7 +666,7 @@ Alola_Ulaula_Text_TutorMove_Infestation:
 	.string "INFESTATION$"
 
 Alola_Ulaula_Text_TutorMove_LeechLife:
-	.string "LEECH LIFE$"
+	.string "吸血$"
 
 Alola_Ulaula_Text_TutorMove_LowSweep:
 	.string "LOW SWEEP$"
@@ -702,14 +702,14 @@ Alola_Ulaula_Text_TutorMove_Venoshock:
 	.string "VENOSHOCK$"
 
 Alola_Ulaula_Text_TutorMove_VoltSwitch:
-	.string "VOLT SWITCH$"
+	.string "伏特替换$"
 
 Alola_Ulaula_Text_TutorMove_WildCharge:
-	.string "WILD CHARGE$"
+	.string "疯狂伏特$"
 
 Alola_Ulaula_Text_TutorMove_WorkUp:
 	.string "WORK UP$"
 
 Alola_Ulaula_Text_TutorMove_Cancel:
-	.string "CANCEL$"
+	.string "取消$"
 

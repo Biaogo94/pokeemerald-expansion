@@ -355,7 +355,7 @@ TrainerHill_Entrance_hns_Text_MovedReceptionHereForSwitch:
 	.string "I'm sorry for the inconvenience.$"
 
 TrainerHill_Entrance_hns_Text_ThankYouForPlaying:
-	.string "Thank you for playing!$"
+	.string "感谢您的游玩！$"
 
 TrainerHill_Entrance_hns_Text_ExplainTrainerHill:
 	.string "Here at the TRAINER HILL, we conduct\n"

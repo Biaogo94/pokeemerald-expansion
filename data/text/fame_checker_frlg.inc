@@ -810,7 +810,7 @@ gFameCheckerFlavorTextOriginLocation_ProfOak3::
 	.string "VIRIDIAN CITY$"
 
 gFameCheckerFlavorTextOriginLocation_ProfOak4::
-	.string "POKéMON LEAGUE$"
+	.string "宝可梦联盟$"
 
 gFameCheckerFlavorTextOriginLocation_ProfOak5::
 	.string "RESEARCH LAB$"
@@ -852,7 +852,7 @@ gFameCheckerFlavorTextOriginLocation_Brock5::
 	.string "PEWTER MUSEUM$"
 
 gFameCheckerFlavorTextOriginLocation_Misty0::
-	.string "CERULEAN CITY$"
+	.string "华蓝市$"
 
 gFameCheckerFlavorTextOriginLocation_Misty1::
 	.string "CERULEAN GYM$"
@@ -867,22 +867,22 @@ gFameCheckerFlavorTextOriginLocation_Misty4::
 	.string "CERULEAN CAPE$"
 
 gFameCheckerFlavorTextOriginLocation_Misty5::
-	.string "CERULEAN CITY$"
+	.string "华蓝市$"
 
 gFameCheckerFlavorTextOriginLocation_LtSurge0::
 	.string "VERMILION CITY$"
 
 gFameCheckerFlavorTextOriginLocation_LtSurge1::
-	.string "VERMILION GYM$"
+	.string "枯叶道馆$"
 
 gFameCheckerFlavorTextOriginLocation_LtSurge2::
-	.string "VERMILION GYM$"
+	.string "枯叶道馆$"
 
 gFameCheckerFlavorTextOriginLocation_LtSurge3::
-	.string "VERMILION GYM$"
+	.string "枯叶道馆$"
 
 gFameCheckerFlavorTextOriginLocation_LtSurge4::
-	.string "VERMILION GYM$"
+	.string "枯叶道馆$"
 
 gFameCheckerFlavorTextOriginLocation_LtSurge5::
 	.string "VERMILION CITY$"
@@ -921,7 +921,7 @@ gFameCheckerFlavorTextOriginLocation_Koga4::
 	.string "FUCHSIA CITY$"
 
 gFameCheckerFlavorTextOriginLocation_Koga5::
-	.string "SAFARI ZONE$"
+	.string "狩猎地带$"
 
 gFameCheckerFlavorTextOriginLocation_Sabrina0::
 	.string "SAFFRON CITY$"
@@ -960,10 +960,10 @@ gFameCheckerFlavorTextOriginLocation_Blaine5::
 	.string "RESORT GORGEOUS$"
 
 gFameCheckerFlavorTextOriginLocation_Lorelei0::
-	.string "POKéMON LEAGUE$"
+	.string "宝可梦联盟$"
 
 gFameCheckerFlavorTextOriginLocation_Lorelei1::
-	.string "POKéMON LEAGUE$"
+	.string "宝可梦联盟$"
 
 gFameCheckerFlavorTextOriginLocation_Lorelei2::
 	.string "FOUR ISLAND$"
@@ -978,10 +978,10 @@ gFameCheckerFlavorTextOriginLocation_Lorelei5::
 	.string "FOUR ISLAND$"
 
 gFameCheckerFlavorTextOriginLocation_Bruno0::
-	.string "POKéMON LEAGUE$"
+	.string "宝可梦联盟$"
 
 gFameCheckerFlavorTextOriginLocation_Bruno1::
-	.string "POKéMON LEAGUE$"
+	.string "宝可梦联盟$"
 
 gFameCheckerFlavorTextOriginLocation_Bruno2::
 	.string "SAFFRON CITY$"
@@ -996,28 +996,28 @@ gFameCheckerFlavorTextOriginLocation_Bruno5::
 	.string "SEVAULT CANYON$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha0::
-	.string "POKéMON LEAGUE$"
+	.string "宝可梦联盟$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha1::
-	.string "INDIGO PLATEAU$"
+	.string "石英高原$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha2::
-	.string "INDIGO PLATEAU$"
+	.string "石英高原$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha3::
 	.string "SEVEN ISLAND$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha4::
-	.string "POKéMON LEAGUE$"
+	.string "宝可梦联盟$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha5::
 	.string "SIX ISLAND$"
 
 gFameCheckerFlavorTextOriginLocation_Lance0::
-	.string "POKéMON LEAGUE$"
+	.string "宝可梦联盟$"
 
 gFameCheckerFlavorTextOriginLocation_Lance1::
-	.string "POKéMON LEAGUE$"
+	.string "宝可梦联盟$"
 
 gFameCheckerFlavorTextOriginLocation_Lance2::
 	.string "SAFFRON CITY$"
@@ -1026,16 +1026,16 @@ gFameCheckerFlavorTextOriginLocation_Lance3::
 	.string "CELADON DEPT.$"
 
 gFameCheckerFlavorTextOriginLocation_Lance4::
-	.string "INDIGO PLATEAU$"
+	.string "石英高原$"
 
 gFameCheckerFlavorTextOriginLocation_Lance5::
-	.string "INDIGO PLATEAU$"
+	.string "石英高原$"
 
 gFameCheckerFlavorTextOriginLocation_Bill0::
-	.string "CERULEAN CITY$"
+	.string "华蓝市$"
 
 gFameCheckerFlavorTextOriginLocation_Bill1::
-	.string "CERULEAN CITY$"
+	.string "华蓝市$"
 
 gFameCheckerFlavorTextOriginLocation_Bill2::
 	.string "FUCHSIA CITY$"
@@ -1086,16 +1086,16 @@ gFameCheckerFlavorTextOriginLocation_Giovanni5::
 	.string "ROCKET WAREHOUSE$"
 
 gFameCheckerFlavorTextOriginObjectName_ProfOak0::
-	.string "SIGN$"
+	.string "告示牌$"
 
 gFameCheckerFlavorTextOriginObjectName_ProfOak1::
-	.string "PROF. OAK$"
+	.string "大木博士$"
 
 gFameCheckerFlavorTextOriginObjectName_ProfOak2::
 	.string "AIDE$"
 
 gFameCheckerFlavorTextOriginObjectName_ProfOak3::
-	.string "POKéMON JOURNAL$"
+	.string "宝可梦周刊$"
 
 gFameCheckerFlavorTextOriginObjectName_ProfOak4::
 	.string "AGATHA$"
@@ -1113,16 +1113,16 @@ gFameCheckerFlavorTextOriginObjectName_Daisy2::
 	.string "MAN$"
 
 gFameCheckerFlavorTextOriginObjectName_Daisy3::
-	.string "POKéMON JOURNAL$"
+	.string "宝可梦周刊$"
 
 gFameCheckerFlavorTextOriginObjectName_Daisy4::
 	.string "OLD LADY$"
 
 gFameCheckerFlavorTextOriginObjectName_Daisy5::
-	.string "POKéMON JOURNAL$"
+	.string "宝可梦周刊$"
 
 gFameCheckerFlavorTextOriginObjectName_Brock0::
-	.string "SIGN$"
+	.string "告示牌$"
 
 gFameCheckerFlavorTextOriginObjectName_Brock1::
 	.string "BROCK$"
@@ -1137,10 +1137,10 @@ gFameCheckerFlavorTextOriginObjectName_Brock4::
 	.string "MAN$"
 
 gFameCheckerFlavorTextOriginObjectName_Brock5::
-	.string "POKéMON JOURNAL$"
+	.string "宝可梦周刊$"
 
 gFameCheckerFlavorTextOriginObjectName_Misty0::
-	.string "SIGN$"
+	.string "告示牌$"
 
 gFameCheckerFlavorTextOriginObjectName_Misty1::
 	.string "MISTY$"
@@ -1155,10 +1155,10 @@ gFameCheckerFlavorTextOriginObjectName_Misty4::
 	.string "DAME$"
 
 gFameCheckerFlavorTextOriginObjectName_Misty5::
-	.string "POKéMON JOURNAL$"
+	.string "宝可梦周刊$"
 
 gFameCheckerFlavorTextOriginObjectName_LtSurge0::
-	.string "SIGN$"
+	.string "告示牌$"
 
 gFameCheckerFlavorTextOriginObjectName_LtSurge1::
 	.string "LT. SURGE$"
@@ -1173,10 +1173,10 @@ gFameCheckerFlavorTextOriginObjectName_LtSurge4::
 	.string "DWAYNE$"
 
 gFameCheckerFlavorTextOriginObjectName_LtSurge5::
-	.string "POKéMON JOURNAL$"
+	.string "宝可梦周刊$"
 
 gFameCheckerFlavorTextOriginObjectName_Erika0::
-	.string "SIGN$"
+	.string "告示牌$"
 
 gFameCheckerFlavorTextOriginObjectName_Erika1::
 	.string "ERIKA$"
@@ -1191,10 +1191,10 @@ gFameCheckerFlavorTextOriginObjectName_Erika4::
 	.string "ERIKA$"
 
 gFameCheckerFlavorTextOriginObjectName_Erika5::
-	.string "POKéMON JOURNAL$"
+	.string "宝可梦周刊$"
 
 gFameCheckerFlavorTextOriginObjectName_Koga0::
-	.string "SIGN$"
+	.string "告示牌$"
 
 gFameCheckerFlavorTextOriginObjectName_Koga1::
 	.string "KOGA$"
@@ -1206,13 +1206,13 @@ gFameCheckerFlavorTextOriginObjectName_Koga3::
 	.string "CHARINE$"
 
 gFameCheckerFlavorTextOriginObjectName_Koga4::
-	.string "POKéMON JOURNAL$"
+	.string "宝可梦周刊$"
 
 gFameCheckerFlavorTextOriginObjectName_Koga5::
 	.string "MAN$"
 
 gFameCheckerFlavorTextOriginObjectName_Sabrina0::
-	.string "SIGN$"
+	.string "告示牌$"
 
 gFameCheckerFlavorTextOriginObjectName_Sabrina1::
 	.string "YOUNG MAN$"
@@ -1224,13 +1224,13 @@ gFameCheckerFlavorTextOriginObjectName_Sabrina3::
 	.string "SABRINA$"
 
 gFameCheckerFlavorTextOriginObjectName_Sabrina4::
-	.string "POKéMON JOURNAL$"
+	.string "宝可梦周刊$"
 
 gFameCheckerFlavorTextOriginObjectName_Sabrina5::
 	.string "TYRON$"
 
 gFameCheckerFlavorTextOriginObjectName_Blaine0::
-	.string "SIGN$"
+	.string "告示牌$"
 
 gFameCheckerFlavorTextOriginObjectName_Blaine1::
 	.string "BLAINE$"
@@ -1245,7 +1245,7 @@ gFameCheckerFlavorTextOriginObjectName_Blaine4::
 	.string "PHOTO$"
 
 gFameCheckerFlavorTextOriginObjectName_Blaine5::
-	.string "POKéMON JOURNAL$"
+	.string "宝可梦周刊$"
 
 gFameCheckerFlavorTextOriginObjectName_Lorelei0::
 	.string "LORELEI$"
@@ -1257,7 +1257,7 @@ gFameCheckerFlavorTextOriginObjectName_Lorelei2::
 	.string "OLD MAN$"
 
 gFameCheckerFlavorTextOriginObjectName_Lorelei3::
-	.string "POKéMON JOURNAL$"
+	.string "宝可梦周刊$"
 
 gFameCheckerFlavorTextOriginObjectName_Lorelei4::
 	.string "LITTLE GIRL$"
@@ -1272,7 +1272,7 @@ gFameCheckerFlavorTextOriginObjectName_Bruno1::
 	.string "BRUNO$"
 
 gFameCheckerFlavorTextOriginObjectName_Bruno2::
-	.string "POKéMON JOURNAL$"
+	.string "宝可梦周刊$"
 
 gFameCheckerFlavorTextOriginObjectName_Bruno3::
 	.string "CRUSHER$"
@@ -1293,7 +1293,7 @@ gFameCheckerFlavorTextOriginObjectName_Agatha2::
 	.string "CRUSHER$"
 
 gFameCheckerFlavorTextOriginObjectName_Agatha3::
-	.string "POKéMON JOURNAL$"
+	.string "宝可梦周刊$"
 
 gFameCheckerFlavorTextOriginObjectName_Agatha4::
 	.string "AGATHA$"
@@ -1314,7 +1314,7 @@ gFameCheckerFlavorTextOriginObjectName_Lance3::
 	.string "LITTLE GIRL$"
 
 gFameCheckerFlavorTextOriginObjectName_Lance4::
-	.string "POKéMON JOURNAL$"
+	.string "宝可梦周刊$"
 
 gFameCheckerFlavorTextOriginObjectName_Lance5::
 	.string "YOUNG MAN$"
@@ -1341,7 +1341,7 @@ gFameCheckerFlavorTextOriginObjectName_MrFuji0::
 	.string "LITTLE GIRL$"
 
 gFameCheckerFlavorTextOriginObjectName_MrFuji1::
-	.string "TEAM ROCKET$"
+	.string "火箭队$"
 
 gFameCheckerFlavorTextOriginObjectName_MrFuji2::
 	.string "MAGAZINE$"
@@ -1353,7 +1353,7 @@ gFameCheckerFlavorTextOriginObjectName_MrFuji4::
 	.string "PHOTO$"
 
 gFameCheckerFlavorTextOriginObjectName_MrFuji5::
-	.string "POKéMON JOURNAL$"
+	.string "宝可梦周刊$"
 
 gFameCheckerFlavorTextOriginObjectName_Giovanni0::
 	.string "GIOVANNI$"

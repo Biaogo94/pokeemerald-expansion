@@ -316,22 +316,22 @@ Route25_BillsHouse_Movement_ShowPlayer:
 	step_end
 
 Route25_BillsHouse_hns_Text_Meowth:
-	.string "MEOWTH$"
+	.string "喵喵$"
 
 Route25_BillsHouse_hns_Text_Ponyta:
-	.string "PONYTA$"
+	.string "小火马$"
 
 Route25_BillsHouse_hns_Text_Rapidash:
-	.string "RAPIDASH$"
+	.string "烈焰马$"
 
 Route25_BillsHouse_hns_Text_Slowpoke:
-	.string "SLOWPOKE$"
+	.string "呆呆兽$"
 
 Route25_BillsHouse_hns_Text_Slowbro:
-	.string "SLOWBRO$"
+	.string "呆壳兽$"
 
 Route25_BillsHouse_hns_Text_Slowking:
-	.string "SLOWKING$"
+	.string "呆呆王$"
 
 Route25_BillsHouse_hns_Text_Farfetchd:
 	.string "FARFETCH'D$"
@@ -340,19 +340,19 @@ Route25_BillsHouse_hns_Text_Weezing:
 	.string "WEEZING$"
 
 Route25_BillsHouse_hns_Text_MrMime:
-	.string "MR. MIME$"
+	.string "魔墙人偶$"
 
 Route25_BillsHouse_hns_Text_Articuno:
-	.string "ARTICUNO$"
+	.string "急冻鸟$"
 
 Route25_BillsHouse_hns_Text_Zapdos:
-	.string "ZAPDOS$"
+	.string "闪电鸟$"
 
 Route25_BillsHouse_hns_Text_Moltres:
-	.string "MOLTRES$"
+	.string "火焰鸟$"
 
 Route25_BillsHouse_hns_Text_Corsola:
-	.string "CORSOLA$"
+	.string "太阳珊瑚$"
 
 Route25_BillsHouse_hns_Text_Zigzagoon:
 	.string "ZIGZAGOON$"
@@ -361,7 +361,7 @@ Route25_BillsHouse_hns_Text_Linoone:
 	.string "LINOONE$"
 
 Route25_BillsHouse_hns_Text_Cancel:
-	.string "CANCEL$"
+	.string "取消$"
 
 Route25_BillsHouse_hns_Text_NotInParty:
 	.string "POKéMON NOT DETECTED.$"

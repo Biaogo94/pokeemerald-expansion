@@ -207,7 +207,7 @@ static const u8 *const sRadioText_PnP_PeopleAdj[] =
 // Rocket Radio
 // ==========================================================
 
-static const u8 sRadioStationName_Rocket[] = _("TEAM ROCKET");
+static const u8 sRadioStationName_Rocket[] = _("火箭队");
 static const u8 sRadioText_Rocket1[]  = _("… …Ahem, we are");
 static const u8 sRadioText_Rocket2[]  = _("TEAM ROCKET!");
 static const u8 sRadioText_Rocket3[]  = _("After three years");

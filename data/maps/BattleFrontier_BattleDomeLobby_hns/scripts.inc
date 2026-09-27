@@ -536,7 +536,7 @@ BattleFrontier_BattleDomeLobby_Text_BagFullMakeRoom_hns:
 	.string "see me.$"
 
 BattleFrontier_BattleDomeLobby_Text_ThankYouForPlaying_hns:
-	.string "Thank you for playing!$"
+	.string "感谢您的游玩！$"
 
 BattleFrontier_BattleDomeLobby_Text_RecordWillBeSaved_hns:
 	.string "Your record will be saved.\n"

@@ -316,7 +316,7 @@ GoldenrodCity_Text_MrMime:
 	.string "............................$"
 
 GoldenrodCity_Text_ElmName:
-	.string "PROF.ELM$"
+	.string "空木博士$"
 
 GoldenrodCity_Text_ElmCall:
 	.string "PROF.ELM: Hello, {PLAYER}?\n"

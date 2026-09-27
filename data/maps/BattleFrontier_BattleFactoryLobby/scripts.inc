@@ -368,7 +368,7 @@ BattleFrontier_BattleFactoryLobby_Text_WillHoldMonsForSafekeeping:
 	.string "safekeeping while you compete.$"
 
 BattleFrontier_BattleFactoryLobby_Text_StepThisWay:
-	.string "Please step this way.$"
+	.string "这边请。$"
 
 BattleFrontier_BattleFactoryLobby_Text_ReturnMonsSaveResults:
 	.string "Thank you for participating!\p"

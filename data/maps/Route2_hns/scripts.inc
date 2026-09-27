@@ -75,5 +75,5 @@ Route2_Text_Sign:
 	.string "VIRIDIAN CITY - PEWTER CITY$"
 
 Route2_Text_DiglettsCaveSign:
-	.string "DIGLETT'S CAVE$"
+	.string "地鼠洞$"
 

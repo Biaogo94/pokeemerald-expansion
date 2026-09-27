@@ -197,7 +197,7 @@ VermilionPort_Text_AskTicket:
     .string "May I see your S.S.TICKET?$"
 
 VermilionPort_Text_ComeAgain:
-    .string "We hope to see you again!$"
+    .string "欢迎下次再来！$"
 
 VermilionPort_Text_FlashTicket:
     .string "{PLAYER} flashed the S.S.TICKET.\p"

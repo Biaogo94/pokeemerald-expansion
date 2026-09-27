@@ -201,7 +201,7 @@ PewterCity_Museum_1F_Text_Right50YThankYou::
 	.string "Thank you!$"
 
 PewterCity_Museum_1F_Text_DontHaveEnoughMoney::
-	.string "You don't have enough money.$"
+	.string "你的钱不够。$"
 
 PewterCity_Museum_1F_Text_PleaseEnjoyYourself::
 	.string "Please enjoy yourself.$"

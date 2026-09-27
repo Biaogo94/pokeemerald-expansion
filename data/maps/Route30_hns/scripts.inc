@@ -241,7 +241,7 @@ Route30_Text_YoungsterJoeyGiveHPUp:
 	.string "I'm going to get tougher too.$"
 
 Route30_Text_ElmName:
-	.string "PROF.ELM$"
+	.string "空木博士$"
 
 Route30_Text_Elm_Disaster:
 	.string "PROF.ELM: H-hello? {PLAYER}? It's\n"

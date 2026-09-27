@@ -307,7 +307,7 @@ SaffronMagnetTrainStation_Text_OfficerNoRailPass:
     .string "Sorry. You don't have a rail PASS.$"
 
 SaffronMagnetTrainStation_Text_OfficerHopeToSeeYouAgain:
-    .string "We hope to see you again!$"
+    .string "欢迎下次再来！$"
 
 SaffronMagnetTrainStation_Text_OfficerArrivedInSaffron:
     .string "We have arrived in SAFFRON.\p"

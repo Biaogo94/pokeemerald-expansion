@@ -36,7 +36,7 @@ BlackthornCity_EventScript_Call::
 	end
 
 BlackthornCity_Text_ElmName:
-	.string "PROF.ELM$"
+	.string "空木博士$"
 
 BlackthornCity_Text_BaobaCall:
 	.string "WARDEN BAOBA: {PLAYER}!\p"

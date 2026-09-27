@@ -44,8 +44,7 @@ PalletTown_Text_RedsHouseSign:
 	.string "RED'S HOUSE$"
 
 PalletTown_Text_OaksLabSign:
-	.string "OAK POKéMON\n"
-	.string "RESEARCH LAB$"
+	.string "大木宝可梦研究所$"
 
 PalletTown_Text_BluesHouseSign:
 	.string "BLUE'S HOUSE$"

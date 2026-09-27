@@ -279,7 +279,7 @@ OlivinePort_Text_AskTicket:
     .string "May I see your S.S.TICKET?$"
 
 OlivinePort_Text_ComeAgain:
-    .string "We hope to see you again!$"
+    .string "欢迎下次再来！$"
 
 OlivinePort_Text_FlashTicket:
     .string "{PLAYER} flashed the S.S.TICKET.\p"

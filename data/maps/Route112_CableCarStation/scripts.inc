@@ -89,7 +89,7 @@ Route112_CableCarStation_Text_CableCarReadyGetOn:
 	.string "Would you like to be on it?$"
 
 Route112_CableCarStation_Text_StepThisWay:
-	.string "Please step this way.$"
+	.string "这边请。$"
 
 Route112_CableCarStation_Text_RideAnotherTime:
 	.string "Please ride with us another time.$"
