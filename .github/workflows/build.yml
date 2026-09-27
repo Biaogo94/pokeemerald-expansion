@@ -1,9 +1,12 @@
 name: CI
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
+      - hns-chinese
+      - hns-upstream
       - upcoming
   pull_request:
 
@@ -51,6 +54,12 @@ jobs:
         env:
           GAME_VERSION: EMERALD
         run: make -j$(nproc) -O all
+      - name: Upload Heart & Soul ROM
+        uses: actions/upload-artifact@v4
+        with:
+          name: pokemon-heart-and-soul-2.0.6-rom
+          path: pokeemerald.gba
+          retention-days: 7
 
   build-firered:
     if: github.actor != 'allcontributors[bot]'
