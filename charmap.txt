@@ -54,6 +54,7 @@ ZWS         = 3A
 PK          = 53
 PKMN        = 53 54
 POKEBLOCK   = 55 56 57 58 59
+POKE        = 55 56
 'Í'         = 5A
 '%'         = 5B
 '('         = 5C
@@ -425,6 +426,7 @@ B_PARTNER_NAME_WITH_CLASS = FD 44
 B_ATK_TRAINER_NAME_WITH_CLASS = FD 45
 B_EFF_TEAM1 = FD 46
 B_EFF_TEAM2 = FD 47
+B_RIVAL_NAME = FD 48
 
 @ indicates the end of a town/city name (before " TOWN" or " CITY")
 NAME_END = FC 00
