@@ -255514,5 +255514,622 @@
     "match_type": "zh_fork",
     "matched_key": "src/data/pokemon/species_info/shared_dex_text.h:gOgerponCornerstoneMaskPokedexText:0",
     "confidence": 0.98
+  },
+  {
+    "id": "./data/text/oak_speech_hns.inc:gText_Oak_Welcome:0",
+    "file": "./data/text/oak_speech_hns.inc",
+    "label": "gText_Oak_Welcome",
+    "index": 0,
+    "source": "Hi! Sorry to keep you waiting!\\pWelcome to the world of POKéMON!\\pMy name is OAK.\\pPeople call me the POKéMON\\nPROFESSOR.\\p$",
+    "category": "text_data",
+    "translation": "让你久等了！\\p欢迎来到宝可梦的世界！\\p我叫大木。\\p大家都叫我\\n宝可梦博士。\\p$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "POKéMON",
+        "宝可梦"
+      ],
+      [
+        "OAK",
+        "大木"
+      ],
+      [
+        "PROFESSOR",
+        "博士"
+      ]
+    ]
+  },
+  {
+    "id": "./data/text/oak_speech_hns.inc:gText_Oak_Pokemon:0",
+    "file": "./data/text/oak_speech_hns.inc",
+    "label": "gText_Oak_Pokemon",
+    "index": 0,
+    "source": "This is what we call a “POKéMON.”\\p\\n$",
+    "category": "text_data",
+    "translation": "这就是我们所说的“宝可梦”。\\p\\n$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "POKéMON",
+        "宝可梦"
+      ]
+    ]
+  },
+  {
+    "id": "./data/text/oak_speech_hns.inc:gText_Oak_MainSpeech:0",
+    "file": "./data/text/oak_speech_hns.inc",
+    "label": "gText_Oak_MainSpeech",
+    "index": 0,
+    "source": "This world is widely inhabited by\\ncreatures known as POKéMON.\\pPeople and POKéMON live together,\\nby supporting each other.\\pSome people play with POKéMON,\\nsome battle with them. \\pBut we don't know everything about\\nPOKéMON yet. \\pThere are still many mysteries\\nto solve. That's why I study\\lPOKéMON every day.\\p$",
+    "category": "text_data",
+    "translation": "这个世界上广泛生活着\\n被称为宝可梦的生物。\\p人类和宝可梦互相支持，\\n生活在一起。\\p有人和宝可梦玩耍，\\n有人和它们一起对战。\\p但关于宝可梦，\\n我们还未全知全晓。\\p还有许多未解之谜\\n等待解开。这就是我每天\\l研究宝可梦的原因。\\p$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "POKéMON",
+        "宝可梦"
+      ]
+    ]
+  },
+  {
+    "id": "./data/text/oak_speech_hns.inc:gText_Oak_AndYouAre:0",
+    "file": "./data/text/oak_speech_hns.inc",
+    "label": "gText_Oak_AndYouAre",
+    "index": 0,
+    "source": "And you are?$",
+    "category": "text_data",
+    "translation": "那么你是？$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH"
+  },
+  {
+    "id": "./data/text/oak_speech_hns.inc:gText_Oak_BoyOrGirl:0",
+    "file": "./data/text/oak_speech_hns.inc",
+    "label": "gText_Oak_BoyOrGirl",
+    "index": 0,
+    "source": "Are you a boy?\\nOr are you a girl?$",
+    "category": "text_data",
+    "translation": "你是男孩？\\n还是女孩？$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH"
+  },
+  {
+    "id": "./data/text/oak_speech_hns.inc:gText_Oak_WhatChallenge:0",
+    "file": "./data/text/oak_speech_hns.inc",
+    "label": "gText_Oak_WhatChallenge",
+    "index": 0,
+    "source": "What challenge are you\\nexpecting?$",
+    "category": "text_data",
+    "translation": "你期待怎样的\\n挑战？$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH"
+  },
+  {
+    "id": "./data/text/oak_speech_hns.inc:gText_Oak_ChallengeSelected:0",
+    "file": "./data/text/oak_speech_hns.inc",
+    "label": "gText_Oak_ChallengeSelected",
+    "index": 0,
+    "source": "That sounds like the right\\nlevel of challenge to me!$",
+    "category": "text_data",
+    "translation": "听起来是个很适合你的\\n挑战难度！$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "LEVEL",
+        "等级"
+      ]
+    ]
+  },
+  {
+    "id": "./data/text/oak_speech_hns.inc:gText_Oak_WhatsYourName:0",
+    "file": "./data/text/oak_speech_hns.inc",
+    "label": "gText_Oak_WhatsYourName",
+    "index": 0,
+    "source": "And what's your name?$",
+    "category": "text_data",
+    "translation": "你叫什么名字？$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH"
+  },
+  {
+    "id": "./data/text/oak_speech_hns.inc:gText_Oak_SoItsPlayer:0",
+    "file": "./data/text/oak_speech_hns.inc",
+    "label": "gText_Oak_SoItsPlayer",
+    "index": 0,
+    "source": "Oh! So you're {PLAYER}{KUN}?$",
+    "category": "text_data",
+    "translation": "哦！所以你是{PLAYER}{KUN}？$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH"
+  },
+  {
+    "id": "./data/text/oak_speech_hns.inc:gText_Oak_YourePlayer:0",
+    "file": "./data/text/oak_speech_hns.inc",
+    "label": "gText_Oak_YourePlayer",
+    "index": 0,
+    "source": "{PLAYER}{KUN}, are you ready?\\pYour very own adventure is about\\nto unfold.\\p$",
+    "category": "text_data",
+    "translation": "{PLAYER}{KUN}，准备好了吗？\\p属于你自己的冒险之旅\\n即将展开。\\p$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH"
+  },
+  {
+    "id": "./data/text/oak_speech_hns.inc:gText_Oak_AreYouReady:0",
+    "file": "./data/text/oak_speech_hns.inc",
+    "label": "gText_Oak_AreYouReady",
+    "index": 0,
+    "source": "You'll face fun times and tough\\nchallenges.\\pA world of dreams and adventures\\nwith POKéMON awaits! Let's go!\\pI'll be seeing you later!\\p$",
+    "category": "text_data",
+    "translation": "你将经历欢乐的时光\\n与严峻的挑战。\\p与宝可梦共度的梦想与冒险之旅\\n在等着你！出发吧！\\p待会儿见！\\p$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "POKéMON",
+        "宝可梦"
+      ]
+    ]
+  },
+  {
+    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmAideIsWaiting:0",
+    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
+    "label": "NewBarkTown_Lab_Text_ElmAideIsWaiting",
+    "index": 0,
+    "source": "{PLAYER}!\\pWhat are you doing here?\\pMy aide is still waiting for you\\nIn VIOLET CITY!$",
+    "category": "map_script",
+    "translation": "{PLAYER}！\\p你在这里做什么？\\p我的助手还在等着\\n给你精灵球呢！$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH"
+  },
+  {
+    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ShouldntTouch:0",
+    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
+    "label": "NewBarkTown_Lab_Text_ShouldntTouch",
+    "index": 0,
+    "source": "Probably shouldn't touch!$",
+    "category": "map_script",
+    "translation": "最好不要随便乱碰！$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH"
+  },
+  {
+    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmAccepted:0",
+    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
+    "label": "NewBarkTown_Lab_Text_ElmAccepted",
+    "index": 0,
+    "source": "Thanks, {PLAYER}!\\nYou're a great help!$",
+    "category": "map_script",
+    "translation": "谢谢你，{PLAYER}！\\n帮了我大忙了！$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH"
+  },
+  {
+    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmRefused:0",
+    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
+    "label": "NewBarkTown_Lab_Text_ElmRefused",
+    "index": 0,
+    "source": "But… Please, I need your\\nhelp!$",
+    "category": "map_script",
+    "translation": "可是……拜托了，我真的很需要\\n你的帮助！$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH"
+  },
+  {
+    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmResearchAmbitions:0",
+    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
+    "label": "NewBarkTown_Lab_Text_ElmResearchAmbitions",
+    "index": 0,
+    "source": "When I announce my findings,\\nI'm sure we'll delve deeper\\pinto the many mysteries of\\nPOKéMON.\\pYou can count on it!$",
+    "category": "map_script",
+    "translation": "当我公布我的研究成果时，\\n我相信我们一定能更深入地\\p了解宝可梦进化的诸多\\n未解之谜！\\p相信我准没错！$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "POKéMON",
+        "宝可梦"
+      ]
+    ]
+  },
+  {
+    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmGotAnEmail:0",
+    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
+    "label": "NewBarkTown_Lab_Text_ElmGotAnEmail",
+    "index": 0,
+    "source": "Oh, hey! I got an e-mail!\\p… … … … … … … …\\nHm… Uh-huh…\\pOkay…$",
+    "category": "map_script",
+    "translation": "哎呀！我收到了一封邮件！\\p…… …… …… …… …… …… …… ……\\n嗯…… 原来如此……\\p好的！$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "HM",
+        "秘传学习器"
+      ]
+    ]
+  },
+  {
+    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmMissionFromMrPokemon:0",
+    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
+    "label": "NewBarkTown_Lab_Text_ElmMissionFromMrPokemon",
+    "index": 0,
+    "source": "Hey, listen.\\pI have an acquaintance called\\nMR. POKéMON.\\pHe keeps finding weird things and\\nraving about his discoveries.\\pAnyway, I just got an e-mail\\nfrom him saying that this\\ltime it's real.\\pIt is intriguing, but we're\\nbusy with our POKéMON research...\\pWait!\\nI know!\\p{PLAYER}, can you go in our\\nplace?$",
+    "category": "map_script",
+    "translation": "嘿，听我说。\\p我有一个熟人，大家都叫他\\n宝可梦爷爷。\\p他经常在各地跑，能发现\\n各种奇特的珍贵之物。\\p就在刚才，他又发邮件过来说\\n这次发现的绝对是真家伙，\\l肯定不会有假。\\p这很不可思议，但我们现在\\n忙着进行宝可梦的研究……\\p等等！\\n我想到了！\\p{PLAYER}，能不能替我\\n走这一趟？$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "MR. POKéMON",
+        "宝可梦先生"
+      ],
+      [
+        "POKéMON",
+        "宝可梦"
+      ]
+    ]
+  },
+  {
+    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmChooseAPokemon:0",
+    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
+    "label": "NewBarkTown_Lab_Text_ElmChooseAPokemon",
+    "index": 0,
+    "source": "I want you to raise one of\\nthe POKéMON contained in these BALLS.\\pYou'll be that POKéMON's\\nfirst partner, {PLAYER}!\\pGo on. Pick one!$",
+    "category": "map_script",
+    "translation": "我想请你带上一只精灵球里的宝可梦\\n作为同伴！\\p你将成为它的\\n第一位伙伴，{PLAYER}！\\p去吧，挑一只你最中意的吧！$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "POKéMON",
+        "宝可梦"
+      ]
+    ]
+  },
+  {
+    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ReceivedStarter:0",
+    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
+    "label": "NewBarkTown_Lab_Text_ReceivedStarter",
+    "index": 0,
+    "source": "{PLAYER} received {STR_VAR_1}!$",
+    "category": "map_script",
+    "translation": "{PLAYER}获得了{STR_VAR_1}！$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH"
+  },
+  {
+    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_Nickname:0",
+    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
+    "label": "NewBarkTown_Lab_Text_Nickname",
+    "index": 0,
+    "source": "Would you like to give your\\n{STR_VAR_1} a nickname?$",
+    "category": "map_script",
+    "translation": "想给你的{STR_VAR_1}\\n起一个昵称吗？$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH"
+  },
+  {
+    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_RegisteredElm:0",
+    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
+    "label": "NewBarkTown_Lab_Text_RegisteredElm",
+    "index": 0,
+    "source": "Registered PROF.ELM\\nin the POKéGEAR.$",
+    "category": "map_script",
+    "translation": "在宝可梦齿轮中\\n登记了空木博士。$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "ELM",
+        "空木"
+      ],
+      [
+        "POKéGEAR",
+        "宝可装置"
+      ]
+    ]
+  },
+  {
+    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmLetYourMonBattle:0",
+    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
+    "label": "NewBarkTown_Lab_Text_ElmLetYourMonBattle",
+    "index": 0,
+    "source": "If a wild POKéMON appears,\\nlet your POKéMON battle it!$",
+    "category": "map_script",
+    "translation": "如果有野生宝可梦出现，\\n就让你的宝可梦去对战吧！$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "WILD POKéMON",
+        "野生宝可梦"
+      ],
+      [
+        "POKéMON",
+        "宝可梦"
+      ]
+    ]
+  },
+  {
+    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_GotElmsNumber:0",
+    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
+    "label": "NewBarkTown_Lab_Text_GotElmsNumber",
+    "index": 0,
+    "source": "{PLAYER} got ELM's phone\\nnumber.$",
+    "category": "map_script",
+    "translation": "{PLAYER}记下了空木博士的\\n电话号码。$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "ELM",
+        "空木"
+      ]
+    ]
+  },
+  {
+    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_AideSave:0",
+    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
+    "label": "NewBarkTown_Lab_Text_AideSave",
+    "index": 0,
+    "source": "Don't forget to save your game\\nregularly!\\pPress the START button, then\\nSAVE the game!$",
+    "category": "map_script",
+    "translation": "平时一定要记得\\n多存档！\\p按下START键打开菜单，\\n然后选择“记录”即可保存游戏！$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "SAVE",
+        "保存"
+      ]
+    ]
+  },
+  {
+    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_AideGiveBalls:0",
+    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
+    "label": "NewBarkTown_Lab_Text_AideGiveBalls",
+    "index": 0,
+    "source": "{PLAYER}!\\pUse these on your POKéDEX\\nquest!$",
+    "category": "map_script",
+    "translation": "{PLAYER}！\\p这些给你，在你的宝可梦图鉴\\n冒险路上一定会用得上的！$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "POKéDEX",
+        "宝可梦图鉴"
+      ]
+    ]
+  },
+  {
+    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_AideExplainBalls:0",
+    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
+    "label": "NewBarkTown_Lab_Text_AideExplainBalls",
+    "index": 0,
+    "source": "To add to your POKéDEX, you\\nhave to catch POKéMON.\\pThrow POKé BALLS at wild\\nPOKéMON to get them.$",
+    "category": "map_script",
+    "translation": "要完成宝可梦图鉴，\\n你就必须去捕捉宝可梦。\\p在遇到野生宝可梦时，\\n向它们投掷精灵球就能捉到它们。$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "POKéDEX",
+        "宝可梦图鉴"
+      ],
+      [
+        "POKéMON",
+        "宝可梦"
+      ]
+    ]
+  },
+  {
+    "id": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc:NewBarkTown_PlayersHouse_1F_Text_ElmsLookingForYou:0",
+    "file": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc",
+    "label": "NewBarkTown_PlayersHouse_1F_Text_ElmsLookingForYou",
+    "index": 0,
+    "source": "Oh, {PLAYER}…! Our neighbor,\\nPROF.ELM, was looking for you.\\pHe said he wanted you to do\\nsomething for him.\\pOh! I almost forgot! Your POKéGEAR\\nis back from the repair shop.\\pHere you go!$",
+    "category": "map_script",
+    "translation": "哎呀，{PLAYER}！邻居\\n空木博士正在找你呢。\\p他说有件事想拜托你\\n帮个忙。\\p啊！差点忘了！你的宝可梦齿轮\\n已经从修理店送回来了。\\p给你！$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "ELM",
+        "空木"
+      ],
+      [
+        "POKéGEAR",
+        "宝可装置"
+      ]
+    ]
+  },
+  {
+    "id": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc:NewBarkTown_PlayersHouse_1F_Text_ObtainedPokeGear:0",
+    "file": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc",
+    "label": "NewBarkTown_PlayersHouse_1F_Text_ObtainedPokeGear",
+    "index": 0,
+    "source": "{PLAYER} obtained the POKéGEAR.$",
+    "category": "map_script",
+    "translation": "{PLAYER}获得了宝可梦齿轮。$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "POKéGEAR",
+        "宝可装置"
+      ]
+    ]
+  },
+  {
+    "id": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc:NewBarkTown_PlayersHouse_1F_Text_ExplainPokeGear:0",
+    "file": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc",
+    "label": "NewBarkTown_PlayersHouse_1F_Text_ExplainPokeGear",
+    "index": 0,
+    "source": "MOM: Phone numbers are stored\\nin memory.\\pJust choose a name you want to call.\\nI've already registered my number.\\pGee, isn't that convenient?$",
+    "category": "map_script",
+    "translation": "妈妈：电话号码都储存在\\n内存里面。\\p只要选你想联系的名字就行。\\n我已经把我的号码存进去了。\\p哎呀，真是太方便了不是吗？$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "MOM",
+        "妈妈"
+      ]
+    ]
+  },
+  {
+    "id": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc:NewBarkTown_PlayersHouse_1F_Text_WearTheseRunningShoes:0",
+    "file": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc",
+    "label": "NewBarkTown_PlayersHouse_1F_Text_WearTheseRunningShoes",
+    "index": 0,
+    "source": "Oh, and don't forget your\\nRUNNING SHOES!$",
+    "category": "map_script",
+    "translation": "哦，还有别忘了带上\\n跑步鞋！$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH"
+  },
+  {
+    "id": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc:NewBarkTown_PlayersHouse_1F_Text_SwitchShoesWithRunningShoes:0",
+    "file": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc",
+    "label": "NewBarkTown_PlayersHouse_1F_Text_SwitchShoesWithRunningShoes",
+    "index": 0,
+    "source": "{PLAYER} switched shoes with the\\nRUNNING SHOES.$",
+    "category": "map_script",
+    "translation": "{PLAYER}换上了\\n跑步鞋。$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH"
+  },
+  {
+    "id": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc:NewBarkTown_PlayersHouse_1F_Text_ExplainRunningShoes:0",
+    "file": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc",
+    "label": "NewBarkTown_PlayersHouse_1F_Text_ExplainRunningShoes",
+    "index": 0,
+    "source": "MOM: {PLAYER}, press the B Button\\nwhile wearing these to run fast!$",
+    "category": "map_script",
+    "translation": "妈妈：{PLAYER}，穿上这双鞋按住B键\\n就可以飞快地奔跑了！$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "MOM",
+        "妈妈"
+      ]
+    ]
+  },
+  {
+    "id": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc:NewBarkTown_PlayersHouse_1F_Text_MomHurryUpElmIsWaiting:0",
+    "file": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc",
+    "label": "NewBarkTown_PlayersHouse_1F_Text_MomHurryUpElmIsWaiting",
+    "index": 0,
+    "source": "MOM: PROF.ELM is waiting for you.\\pHurry up, baby!$",
+    "category": "map_script",
+    "translation": "妈妈：空木博士还在等你呢。\\p快去吧，宝贝！$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "MOM",
+        "妈妈"
+      ],
+      [
+        "ELM",
+        "空木"
+      ]
+    ]
+  },
+  {
+    "id": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc:NewBarkTown_PlayersHouse_1F_Text_MomLeaving:0",
+    "file": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc",
+    "label": "NewBarkTown_PlayersHouse_1F_Text_MomLeaving",
+    "index": 0,
+    "source": "MOM: Wow, that's a cute POKéMON.\\nWhere did you get it?\\p…\\pSo, you're leaving on an adventure...\\nThat does sound challenging...\\pJust be careful.\\pPOKéMON are your friends.\\nYou need to work as a team.\\pNow, go on!\\nI'm behind you all the way!$",
+    "category": "map_script",
+    "translation": "妈妈：哇，好可爱的宝可梦。\\n是从哪里得到的？\\p……\\p所以，你准备出发去冒险了……\\n听起来真的很有挑战性呢……\\p路上一定要小心。\\p宝可梦是你的伙伴。\\n你们必须像团队一样互相合作。\\p好了，快出发吧！\\n妈妈会一直支持你的！$",
+    "match_type": "curated_story",
+    "matched_key": null,
+    "confidence": null,
+    "reason": "NO_MATCH",
+    "term_hints": [
+      [
+        "MOM",
+        "妈妈"
+      ],
+      [
+        "POKéMON",
+        "宝可梦"
+      ]
+    ]
   }
 ]

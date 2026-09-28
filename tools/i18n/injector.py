@@ -137,7 +137,7 @@ TERMINATOR = "$"
 #: string (e.g. ``"CANCEL$"`` -> ``"取消$"``); ``"zh_fork"`` is the Chinese
 #: expansion fork's translation of the very same ``(file, label, index)``, so
 #: it is a complete translation by construction.
-INJECTABLE_MATCH_TYPES: Tuple[str, ...] = ("exact", "term", "zh_fork")
+INJECTABLE_MATCH_TYPES: Tuple[str, ...] = ("exact", "term", "zh_fork", "curated_story")
 
 _HERE = os.path.dirname(os.path.abspath(__file__))
 _DATA_DIR = os.path.join(_HERE, "data")

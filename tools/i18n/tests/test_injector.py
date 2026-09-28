@@ -342,11 +342,11 @@ class TestInjectionFilterOnRealCorpora(unittest.TestCase):
         cls.plan = build_plan(cls.aligned, cls.translated)
 
     def test_corpus_sizes(self):
-        self.assertEqual(len(self.aligned), 21293)
+        self.assertEqual(len(self.aligned), 21328)
         self.assertEqual(len(self.translated), 17286)
 
     def test_aligned_corpus_is_entirely_injectable(self):
-        self.assertEqual(self.plan.injectable, 21293)
+        self.assertEqual(self.plan.injectable, 21328)
 
     def test_all_dictionary_entries_are_filtered_out(self):
         dictionaries = [e for e in self.translated if e.get("match_type") == "dictionary"]
@@ -783,7 +783,7 @@ class TestCli(InjectorTestBase):
             load_corpus(ALIGNED_CORPUS_PATH), load_corpus(TRANSLATED_CORPUS_PATH)
         )
         self.assertIsInstance(plan, InjectionPlan)
-        self.assertEqual(plan.injectable, 21293)
+        self.assertEqual(plan.injectable, 21328)
 
 
 # ---------------------------------------------------------------------------

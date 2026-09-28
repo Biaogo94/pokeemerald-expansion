@@ -53499,32 +53499,6 @@
     ]
   },
   {
-    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmAideIsWaiting:0",
-    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
-    "label": "NewBarkTown_Lab_Text_ElmAideIsWaiting",
-    "index": 0,
-    "source": "{PLAYER}!\\pWhat are you doing here?\\pMy aide is still waiting for you\\nIn VIOLET CITY!$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH"
-  },
-  {
-    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ShouldntTouch:0",
-    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
-    "label": "NewBarkTown_Lab_Text_ShouldntTouch",
-    "index": 0,
-    "source": "Probably shouldn't touch!$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH"
-  },
-  {
     "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmIntro:0",
     "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
     "label": "NewBarkTown_Lab_Text_ElmIntro",
@@ -53536,112 +53510,6 @@
     "matched_key": null,
     "confidence": null,
     "reason": "NO_MATCH"
-  },
-  {
-    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmAccepted:0",
-    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
-    "label": "NewBarkTown_Lab_Text_ElmAccepted",
-    "index": 0,
-    "source": "Thanks, {PLAYER}!\\nYou're a great help!$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH"
-  },
-  {
-    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmRefused:0",
-    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
-    "label": "NewBarkTown_Lab_Text_ElmRefused",
-    "index": 0,
-    "source": "But… Please, I need your\\nhelp!$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH"
-  },
-  {
-    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmResearchAmbitions:0",
-    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
-    "label": "NewBarkTown_Lab_Text_ElmResearchAmbitions",
-    "index": 0,
-    "source": "When I announce my findings,\\nI'm sure we'll delve deeper\\pinto the many mysteries of\\nPOKéMON.\\pYou can count on it!$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "POKéMON",
-        "宝可梦"
-      ]
-    ]
-  },
-  {
-    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmGotAnEmail:0",
-    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
-    "label": "NewBarkTown_Lab_Text_ElmGotAnEmail",
-    "index": 0,
-    "source": "Oh, hey! I got an e-mail!\\p… … … … … … … …\\nHm… Uh-huh…\\pOkay…$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "HM",
-        "秘传学习器"
-      ]
-    ]
-  },
-  {
-    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmMissionFromMrPokemon:0",
-    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
-    "label": "NewBarkTown_Lab_Text_ElmMissionFromMrPokemon",
-    "index": 0,
-    "source": "Hey, listen.\\pI have an acquaintance called\\nMR. POKéMON.\\pHe keeps finding weird things and\\nraving about his discoveries.\\pAnyway, I just got an e-mail\\nfrom him saying that this\\ltime it's real.\\pIt is intriguing, but we're\\nbusy with our POKéMON research...\\pWait!\\nI know!\\p{PLAYER}, can you go in our\\nplace?$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "MR. POKéMON",
-        "宝可梦先生"
-      ],
-      [
-        "POKéMON",
-        "宝可梦"
-      ]
-    ]
-  },
-  {
-    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmChooseAPokemon:0",
-    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
-    "label": "NewBarkTown_Lab_Text_ElmChooseAPokemon",
-    "index": 0,
-    "source": "I want you to raise one of\\nthe POKéMON contained in these BALLS.\\pYou'll be that POKéMON's\\nfirst partner, {PLAYER}!\\pGo on. Pick one!$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "POKéMON",
-        "宝可梦"
-      ]
-    ]
   },
   {
     "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmWhereGoing:0",
@@ -53722,32 +53590,6 @@
     "reason": "NO_MATCH"
   },
   {
-    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ReceivedStarter:0",
-    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
-    "label": "NewBarkTown_Lab_Text_ReceivedStarter",
-    "index": 0,
-    "source": "{PLAYER} received {STR_VAR_1}!$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH"
-  },
-  {
-    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_Nickname:0",
-    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
-    "label": "NewBarkTown_Lab_Text_Nickname",
-    "index": 0,
-    "source": "Would you like to give your\\n{STR_VAR_1} a nickname?$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH"
-  },
-  {
     "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmDirections1:0",
     "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
     "label": "NewBarkTown_Lab_Text_ElmDirections1",
@@ -53786,52 +53628,6 @@
     ]
   },
   {
-    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_RegisteredElm:0",
-    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
-    "label": "NewBarkTown_Lab_Text_RegisteredElm",
-    "index": 0,
-    "source": "Registered PROF.ELM\\nin the POKéGEAR.$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "ELM",
-        "空木"
-      ],
-      [
-        "POKéGEAR",
-        "宝可装置"
-      ]
-    ]
-  },
-  {
-    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmLetYourMonBattle:0",
-    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
-    "label": "NewBarkTown_Lab_Text_ElmLetYourMonBattle",
-    "index": 0,
-    "source": "If a wild POKéMON appears,\\nlet your POKéMON battle it!$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "WILD POKéMON",
-        "野生宝可梦"
-      ],
-      [
-        "POKéMON",
-        "宝可梦"
-      ]
-    ]
-  },
-  {
     "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_ElmDirections2:0",
     "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
     "label": "NewBarkTown_Lab_Text_ElmDirections2",
@@ -53851,25 +53647,6 @@
       [
         "POKéMON",
         "宝可梦"
-      ]
-    ]
-  },
-  {
-    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_GotElmsNumber:0",
-    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
-    "label": "NewBarkTown_Lab_Text_GotElmsNumber",
-    "index": 0,
-    "source": "{PLAYER} got ELM's phone\\nnumber.$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "ELM",
-        "空木"
       ]
     ]
   },
@@ -54449,25 +54226,6 @@
     "reason": "NO_MATCH"
   },
   {
-    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_AideSave:0",
-    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
-    "label": "NewBarkTown_Lab_Text_AideSave",
-    "index": 0,
-    "source": "Don't forget to save your game\\nregularly!\\pPress the START button, then\\nSAVE the game!$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "SAVE",
-        "保存"
-      ]
-    ]
-  },
-  {
     "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_AideTheftTestimony:0",
     "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
     "label": "NewBarkTown_Lab_Text_AideTheftTestimony",
@@ -54480,48 +54238,6 @@
     "confidence": null,
     "reason": "NO_MATCH",
     "term_hints": [
-      [
-        "POKéMON",
-        "宝可梦"
-      ]
-    ]
-  },
-  {
-    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_AideGiveBalls:0",
-    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
-    "label": "NewBarkTown_Lab_Text_AideGiveBalls",
-    "index": 0,
-    "source": "{PLAYER}!\\pUse these on your POKéDEX\\nquest!$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "POKéDEX",
-        "宝可梦图鉴"
-      ]
-    ]
-  },
-  {
-    "id": "./data/maps/NewBarkTown_Lab_hns/scripts.inc:NewBarkTown_Lab_Text_AideExplainBalls:0",
-    "file": "./data/maps/NewBarkTown_Lab_hns/scripts.inc",
-    "label": "NewBarkTown_Lab_Text_AideExplainBalls",
-    "index": 0,
-    "source": "To add to your POKéDEX, you\\nhave to catch POKéMON.\\pThrow POKé BALLS at wild\\nPOKéMON to get them.$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "POKéDEX",
-        "宝可梦图鉴"
-      ],
       [
         "POKéMON",
         "宝可梦"
@@ -54815,135 +54531,6 @@
     ]
   },
   {
-    "id": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc:NewBarkTown_PlayersHouse_1F_Text_ElmsLookingForYou:0",
-    "file": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc",
-    "label": "NewBarkTown_PlayersHouse_1F_Text_ElmsLookingForYou",
-    "index": 0,
-    "source": "Oh, {PLAYER}…! Our neighbor,\\nPROF.ELM, was looking for you.\\pHe said he wanted you to do\\nsomething for him.\\pOh! I almost forgot! Your POKéGEAR\\nis back from the repair shop.\\pHere you go!$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "ELM",
-        "空木"
-      ],
-      [
-        "POKéGEAR",
-        "宝可装置"
-      ]
-    ]
-  },
-  {
-    "id": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc:NewBarkTown_PlayersHouse_1F_Text_ObtainedPokeGear:0",
-    "file": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc",
-    "label": "NewBarkTown_PlayersHouse_1F_Text_ObtainedPokeGear",
-    "index": 0,
-    "source": "{PLAYER} obtained the POKéGEAR.$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "POKéGEAR",
-        "宝可装置"
-      ]
-    ]
-  },
-  {
-    "id": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc:NewBarkTown_PlayersHouse_1F_Text_ExplainPokeGear:0",
-    "file": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc",
-    "label": "NewBarkTown_PlayersHouse_1F_Text_ExplainPokeGear",
-    "index": 0,
-    "source": "MOM: Phone numbers are stored\\nin memory.\\pJust choose a name you want to call.\\nI've already registered my number.\\pGee, isn't that convenient?$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "MOM",
-        "妈妈"
-      ]
-    ]
-  },
-  {
-    "id": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc:NewBarkTown_PlayersHouse_1F_Text_WearTheseRunningShoes:0",
-    "file": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc",
-    "label": "NewBarkTown_PlayersHouse_1F_Text_WearTheseRunningShoes",
-    "index": 0,
-    "source": "Oh, and don't forget your\\nRUNNING SHOES!$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH"
-  },
-  {
-    "id": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc:NewBarkTown_PlayersHouse_1F_Text_SwitchShoesWithRunningShoes:0",
-    "file": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc",
-    "label": "NewBarkTown_PlayersHouse_1F_Text_SwitchShoesWithRunningShoes",
-    "index": 0,
-    "source": "{PLAYER} switched shoes with the\\nRUNNING SHOES.$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH"
-  },
-  {
-    "id": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc:NewBarkTown_PlayersHouse_1F_Text_ExplainRunningShoes:0",
-    "file": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc",
-    "label": "NewBarkTown_PlayersHouse_1F_Text_ExplainRunningShoes",
-    "index": 0,
-    "source": "MOM: {PLAYER}, press the B Button\\nwhile wearing these to run fast!$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "MOM",
-        "妈妈"
-      ]
-    ]
-  },
-  {
-    "id": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc:NewBarkTown_PlayersHouse_1F_Text_MomHurryUpElmIsWaiting:0",
-    "file": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc",
-    "label": "NewBarkTown_PlayersHouse_1F_Text_MomHurryUpElmIsWaiting",
-    "index": 0,
-    "source": "MOM: PROF.ELM is waiting for you.\\pHurry up, baby!$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "MOM",
-        "妈妈"
-      ],
-      [
-        "ELM",
-        "空木"
-      ]
-    ]
-  },
-  {
     "id": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc:NewBarkTown_PlayersHouse_1F_Text_MomsFriend:0",
     "file": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc",
     "label": "NewBarkTown_PlayersHouse_1F_Text_MomsFriend",
@@ -54959,29 +54546,6 @@
       [
         "ELM",
         "空木"
-      ],
-      [
-        "POKéMON",
-        "宝可梦"
-      ]
-    ]
-  },
-  {
-    "id": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc:NewBarkTown_PlayersHouse_1F_Text_MomLeaving:0",
-    "file": "./data/maps/NewBarkTown_PlayersHouse_1F_hns/scripts.inc",
-    "label": "NewBarkTown_PlayersHouse_1F_Text_MomLeaving",
-    "index": 0,
-    "source": "MOM: Wow, that's a cute POKéMON.\\nWhere did you get it?\\p…\\pSo, you're leaving on an adventure...\\nThat does sound challenging...\\pJust be careful.\\pPOKéMON are your friends.\\nYou need to work as a team.\\pNow, go on!\\nI'm behind you all the way!$",
-    "category": "map_script",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "MOM",
-        "妈妈"
       ],
       [
         "POKéMON",
@@ -109330,187 +108894,6 @@
     "label": "gOakSpeech_Text_LetsGo",
     "index": 0,
     "source": "{PLAYER}!\\pYour very own POKéMON legend is\\nabout to unfold!\\pA world of dreams and adventures\\nwith POKéMON awaits! Let's go!$",
-    "category": "text_data",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "POKéMON",
-        "宝可梦"
-      ]
-    ]
-  },
-  {
-    "id": "./data/text/oak_speech_hns.inc:gText_Oak_Welcome:0",
-    "file": "./data/text/oak_speech_hns.inc",
-    "label": "gText_Oak_Welcome",
-    "index": 0,
-    "source": "Hi! Sorry to keep you waiting!\\pWelcome to the world of POKéMON!\\pMy name is OAK.\\pPeople call me the POKéMON\\nPROFESSOR.\\p$",
-    "category": "text_data",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "POKéMON",
-        "宝可梦"
-      ],
-      [
-        "OAK",
-        "大木"
-      ],
-      [
-        "PROFESSOR",
-        "博士"
-      ]
-    ]
-  },
-  {
-    "id": "./data/text/oak_speech_hns.inc:gText_Oak_Pokemon:0",
-    "file": "./data/text/oak_speech_hns.inc",
-    "label": "gText_Oak_Pokemon",
-    "index": 0,
-    "source": "This is what we call a “POKéMON.”\\p\\n$",
-    "category": "text_data",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "POKéMON",
-        "宝可梦"
-      ]
-    ]
-  },
-  {
-    "id": "./data/text/oak_speech_hns.inc:gText_Oak_MainSpeech:0",
-    "file": "./data/text/oak_speech_hns.inc",
-    "label": "gText_Oak_MainSpeech",
-    "index": 0,
-    "source": "This world is widely inhabited by\\ncreatures known as POKéMON.\\pPeople and POKéMON live together,\\nby supporting each other.\\pSome people play with POKéMON,\\nsome battle with them. \\pBut we don't know everything about\\nPOKéMON yet. \\pThere are still many mysteries\\nto solve. That's why I study\\lPOKéMON every day.\\p$",
-    "category": "text_data",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "POKéMON",
-        "宝可梦"
-      ]
-    ]
-  },
-  {
-    "id": "./data/text/oak_speech_hns.inc:gText_Oak_AndYouAre:0",
-    "file": "./data/text/oak_speech_hns.inc",
-    "label": "gText_Oak_AndYouAre",
-    "index": 0,
-    "source": "And you are?$",
-    "category": "text_data",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH"
-  },
-  {
-    "id": "./data/text/oak_speech_hns.inc:gText_Oak_BoyOrGirl:0",
-    "file": "./data/text/oak_speech_hns.inc",
-    "label": "gText_Oak_BoyOrGirl",
-    "index": 0,
-    "source": "Are you a boy?\\nOr are you a girl?$",
-    "category": "text_data",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH"
-  },
-  {
-    "id": "./data/text/oak_speech_hns.inc:gText_Oak_WhatChallenge:0",
-    "file": "./data/text/oak_speech_hns.inc",
-    "label": "gText_Oak_WhatChallenge",
-    "index": 0,
-    "source": "What challenge are you\\nexpecting?$",
-    "category": "text_data",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH"
-  },
-  {
-    "id": "./data/text/oak_speech_hns.inc:gText_Oak_ChallengeSelected:0",
-    "file": "./data/text/oak_speech_hns.inc",
-    "label": "gText_Oak_ChallengeSelected",
-    "index": 0,
-    "source": "That sounds like the right\\nlevel of challenge to me!$",
-    "category": "text_data",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH",
-    "term_hints": [
-      [
-        "LEVEL",
-        "等级"
-      ]
-    ]
-  },
-  {
-    "id": "./data/text/oak_speech_hns.inc:gText_Oak_WhatsYourName:0",
-    "file": "./data/text/oak_speech_hns.inc",
-    "label": "gText_Oak_WhatsYourName",
-    "index": 0,
-    "source": "And what's your name?$",
-    "category": "text_data",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH"
-  },
-  {
-    "id": "./data/text/oak_speech_hns.inc:gText_Oak_SoItsPlayer:0",
-    "file": "./data/text/oak_speech_hns.inc",
-    "label": "gText_Oak_SoItsPlayer",
-    "index": 0,
-    "source": "Oh! So you're {PLAYER}{KUN}?$",
-    "category": "text_data",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH"
-  },
-  {
-    "id": "./data/text/oak_speech_hns.inc:gText_Oak_YourePlayer:0",
-    "file": "./data/text/oak_speech_hns.inc",
-    "label": "gText_Oak_YourePlayer",
-    "index": 0,
-    "source": "{PLAYER}{KUN}, are you ready?\\pYour very own adventure is about\\nto unfold.\\p$",
-    "category": "text_data",
-    "translation": null,
-    "match_type": null,
-    "matched_key": null,
-    "confidence": null,
-    "reason": "NO_MATCH"
-  },
-  {
-    "id": "./data/text/oak_speech_hns.inc:gText_Oak_AreYouReady:0",
-    "file": "./data/text/oak_speech_hns.inc",
-    "label": "gText_Oak_AreYouReady",
-    "index": 0,
-    "source": "You'll face fun times and tough\\nchallenges.\\pA world of dreams and adventures\\nwith POKéMON awaits! Let's go!\\pI'll be seeing you later!\\p$",
     "category": "text_data",
     "translation": null,
     "match_type": null,
