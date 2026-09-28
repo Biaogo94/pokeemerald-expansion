@@ -375,7 +375,9 @@ class TestCorpusAlignmentIntegration(unittest.TestCase):
         cls.aligned, cls.unmatched = cls.engine.align_corpus(cls.corpus)
 
     def test_corpus_was_loaded(self):
-        self.assertEqual(len(self.corpus), 17414)
+        # Change-detector for the extractor: update it whenever the scan roots
+        # or the C macro set in ``tools/i18n/extractor.py`` change.
+        self.assertEqual(len(self.corpus), 30012)
 
     def test_every_entry_is_accounted_for(self):
         self.assertEqual(len(self.aligned) + len(self.unmatched), len(self.corpus))

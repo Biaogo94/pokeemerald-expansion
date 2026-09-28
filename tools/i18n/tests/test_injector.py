@@ -36,6 +36,7 @@ from tools.i18n.injector import (
     TRANSLATED_CORPUS_PATH,
     InjectionPlan,
     InjectionResult,
+    _parse_inc_blocks,
     build_plan,
     emit_string_lines,
     filter_entries,
@@ -908,18 +909,32 @@ class TestPreprocessorBlocks(InjectorTestBase):
 
 
 class TestExtractorInjectorBoundary(InjectorTestBase):
-    """Finding 2: the extractor merges across ``#if``; the injector must not guess."""
+    """Finding 2, resolved: extractor and injector agree on where blocks stop.
+
+    The extractor used to concatenate a label's strings across an ``#if``, so
+    ``(label, index)`` addressed a different string for the injector than for
+    the extractor.  It now stops at the directive, exactly like
+    :func:`injector._parse_inc_blocks`; the guarded blocks still are not
+    injected, because rewriting a conditional branch is not a safe guess.
+    """
 
     def setUp(self):
         super().setUp()
         self.path = self.write("data/text/divergent.inc", DIVERGENT_INC)
 
-    def test_extractor_merges_the_branches_into_one_entry(self):
+    def test_extractor_splits_the_branches_into_the_injector_blocks(self):
         entries = extract_strings_from_inc("divergent.inc", DIVERGENT_INC)
-        self.assertEqual(len(entries), 1)
-        self.assertIn("ARENA", entries[0].source)
-        self.assertIn("FALLARBOR", entries[0].source)
-        self.assertTrue(entries[0].source.endswith("Set KO Tourney." + END))
+        self.assertEqual(len(entries), 3)
+        self.assertEqual([entry.index for entry in entries], [0, 1, 2])
+        self.assertEqual(entries[0].source, "In the ARENA BATTLE TENT," + NL)
+        self.assertEqual(entries[1].source, "In the FALLARBOR BATTLE TENT," + NL)
+        self.assertEqual(entries[2].source, "we undertake the Set KO Tourney." + END)
+        # The same blocks the injector sees, in the same order.
+        blocks = _parse_inc_blocks(DIVERGENT_INC.split("\n"))
+        self.assertEqual(
+            [(entry.label, entry.index, entry.source) for entry in entries],
+            [(block.label, block.index, block.text) for block in blocks],
+        )
 
     def test_divergent_entry_is_skipped_rather_than_written_to_the_wrong_block(self):
         entries = extract_strings_from_inc("divergent.inc", DIVERGENT_INC)
