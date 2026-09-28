@@ -17,8 +17,19 @@ Three responsibilities:
 
 ``inject_into_file``
     Replaces the ``.string "..."`` block belonging to a label (``.inc``) or the
-    literal inside ``_("...")`` for an array (``.h``/``.c``), touching nothing
-    else.  Idempotent: re-running on already-injected content is a no-op.
+    text macro invocation belonging to a ``(label, index)`` (``.h``/``.c``),
+    touching nothing else.  Idempotent: re-running on already-injected content
+    is a no-op.
+
+    On the C side every form ``extractor.extract_strings_from_c`` recognises is
+    writable: ``NAME[] = _("...")``, adjacent literals concatenated across
+    lines, ``COMPOUND_STRING``, ``ITEM_NAME`` / ``ITEM_PLURAL_NAME``, a
+    ``#define X COMPOUND_STRING(...)`` body written with backslash
+    continuations, and struct-field entries the extractor labels
+    ``ITEM_STRANGE_BALL.description``.  The block's own prefix, separators and
+    suffix are reused verbatim, and the splitter never emits more literals than
+    the file already used, so a rewrite cannot introduce a line break -- which
+    inside a ``#define`` would need a continuation the file does not have.
 
 ``build_plan`` / ``main``
     Selects which corpus entries may be injected and reports the rest.
@@ -39,9 +50,19 @@ else is *skipped and reported*, never guessed:
 4. the block currently holds either the entry's ``source`` (fresh injection) or
    exactly the text this run would write (a re-run: idempotence);
 5. the block neither spans nor abuts a ``#if``/``#ifdef``/``#ifndef``/
-   ``#elif``/``#else``/``#endif`` line.  The extractor concatenates across those
-   directives while this module's parser stops at them, so the two disagree
-   about block boundaries; where they can disagree, nothing is written.
+   ``#elif``/``#else``/``#endif`` line.  ``.inc``: the extractor concatenated
+   across those directives while this module's parser stops at them, so the two
+   could disagree about block boundaries.  C: a label an ``#if`` redefines gets
+   its index from this tree's ordering, and a corpus joined from another tree
+   (Step 2's Chinese fork) may order the branches the other way round.  Where
+   either can disagree, nothing is written;
+6. (C only) the label is not defined more than once in the file, for the same
+   reason: a repeated label means the index, not the label, carries the
+   identity, and the index is a property of one file's ordering;
+7. (C only) only whitespace, continuations and comments sit between the block's
+   literals.  ``"for "BINDING_TURNS" turns."`` is one string to the compiler but
+   two literals to the extractor, so its ``source`` is missing the macro: the
+   entry is refused rather than rewritten without it.
 
 Injection filter (MANDATORY)
 ----------------------------
@@ -84,6 +105,15 @@ from tools.i18n.ai_translator import (  # noqa: E402  (import after sys.path boo
 )
 from tools.i18n.aligner import (  # noqa: E402  (import after sys.path bootstrap)
     validate_control_codes_preserved,
+)
+from tools.i18n.extractor import (  # noqa: E402  (import after sys.path bootstrap)
+    _C_MACRO_RE,
+    _close_paren,
+    _default_c_category,
+    _mask_comments,
+    _splice_continuations,
+    extract_strings_from_c,
+    is_meaningful_string,
 )
 
 # --------------------------------------------------------------------------
@@ -140,16 +170,28 @@ _INC_SINGLE_LABEL_RE = re.compile(r"^([A-Za-z0-9_]+):")
 _INC_STRING_RE = re.compile(r'^\s*\.string\s+"(.*)"\s*$')
 _INC_INDENT_RE = re.compile(r"^([ \t]*)")
 
-#: Preprocessor conditionals.  ``.string`` blocks wrapped in these cannot be
-#: injected: the extractor concatenates across the directives (see
-#: ``extract_strings_from_inc``) while :func:`_parse_inc_blocks` stops at them,
-#: so ``(label, index)`` means different things to the two modules.
+#: Preprocessor conditionals.  A block that spans or abuts one of these is never
+#: written: a conditional branch may be redefined in the other branch (the same
+#: ``MOVE_HAIL.description`` in an ``#if`` and its ``#else``), and the index that
+#: separates the two is an artefact of this tree's ordering -- another tree may
+#: order the branches the other way round, and a corpus joined across trees
+#: would then bind the wrong translation to the wrong branch.  Refusing costs a
+#: handful of entries; guessing corrupts the game.  ``_PREPROC_RE`` matches the
+#: directive itself, ``_preprocessor_guarded_lines`` the whole region it opens.
 _PREPROC_RE = re.compile(r"^\s*#\s*(if|ifdef|ifndef|elif|else|endif)\b")
 _PREPROC_OPENERS = ("if", "ifdef", "ifndef")
 
-_C_ARRAY_RE = re.compile(
-    r'(?:static\s+)?(?:const\s+)?(?:u8|char)\s+([A-Za-z0-9_]+)\s*\[\]\s*=\s*_\(\s*"([^"]*)"\s*\);'
-)
+#: C translation phase 2: a backslash-newline is deleted before anything else
+#: sees the text.  Splitting, not :func:`re.sub`, so the offset of every
+#: surviving character can be recorded as it is kept (see
+#: :func:`_splice_with_index_map`).
+_C_CONTINUATION_RE = re.compile(r"\\\r?\n")
+
+#: What may sit between two literals of one macro invocation: whitespace, the
+#: line continuations that join them, and comments.  Anything else -- an
+#: identifier in particular -- is code the compiler splices into the string, so
+#: the concatenated source and a rewritten block would both be wrong.
+_C_GAP_LAYOUT_RE = re.compile(r"(?:[ \t\r\n\\]|//[^\n]*|/\*.*?\*/)*\Z", re.S)
 
 
 # --------------------------------------------------------------------------
@@ -693,10 +735,349 @@ def _inject_inc(content: str, updates: Sequence[dict], path: str = "") -> Tuple[
     return "\n".join(lines), applied, len(unique) - applied
 
 
+# --------------------------------------------------------------------------
+# C sources: the forms the extractor recognises, written back
+# --------------------------------------------------------------------------
+#
+# ``extractor`` owns the C parse: which macro invocations become corpus entries,
+# what text they hold, and what ``(label, index)`` addresses each one.  A second
+# parser here is exactly how ``(label, index)`` came to mean different strings
+# to the two modules, so the injector reuses the extractor's scanner
+# (``_C_MACRO_RE``, ``_close_paren``, the literal scanner, the concatenation
+# rule and ``is_meaningful_string``) and adds only two things: *where* each
+# entry sits in the file, and the layout needed to rewrite it in place.
+#
+# Everything the extractor recognises is covered by that one scanner -- adjacent
+# literal concatenation, ``COMPOUND_STRING`` (including across lines),
+# ``ITEM_NAME`` / ``ITEM_PLURAL_NAME``, ``#define X COMPOUND_STRING(...)`` bodies
+# with backslash continuations, and struct-field forms the extractor labels
+# ``ITEM_STRANGE_BALL.description``.  The label is never derived here; it is
+# read back from ``extract_strings_from_c``, so the two can never drift.
+
+
+def _splice_with_index_map(content: str) -> Tuple[str, List[int]]:
+    """Apply C phase 2, keeping the offset each surviving character came from.
+
+    ``extractor._splice_continuations`` deletes every backslash-newline, so its
+    offsets cannot be used to edit the file on disk; ``index_map[i]`` is the
+    offset in ``content`` of character ``i`` of the spliced text.  Comment
+    masking (``extractor._mask_comments``) replaces characters one for one and
+    therefore preserves those offsets.
+    """
+    spliced: List[str] = []
+    index_map: List[int] = []
+    position = 0
+    length = len(content)
+    while position < length:
+        continuation = _C_CONTINUATION_RE.match(content, position)
+        if continuation:
+            position = continuation.end()
+            continue
+        spliced.append(content[position])
+        index_map.append(position)
+        position += 1
+    return "".join(spliced), index_map
+
+
+def _skip_literal(text: str, index: int, end: int) -> int:
+    """Index just past the literal starting at ``index``, bounded by ``end``."""
+    quote = text[index]
+    position = index + 1
+    while position < end:
+        if text[position] == "\\":
+            position += 2
+            continue
+        if text[position] == quote:
+            return position + 1
+        position += 1
+    return end
+
+
+def _literal_bodies(text: str, start: int, end: int) -> List[Tuple[int, int]]:
+    """``(body_start, body_end)`` of every string literal in ``text[start:end]``.
+
+    Mirrors ``extractor._string_literals`` (which is what produced the corpus
+    text) but reports positions, so the pieces can be laid out again where the
+    file already had them.
+    """
+    bodies: List[Tuple[int, int]] = []
+    position = start
+    while position < end:
+        character = text[position]
+        if character == "'":
+            position = _skip_literal(text, position, end)
+            continue
+        if character == '"':
+            body_start = position + 1
+            position = _skip_literal(text, position, end)
+            bodies.append((body_start, position - 1))
+            continue
+        position += 1
+    return bodies
+
+
+def _locate_c_macros(text: str) -> List[Tuple[int, int, int]]:
+    """Locate every text macro invocation that becomes a corpus entry.
+
+    ``(macro_start, open_paren, close_paren)`` in the order
+    ``extractor.extract_strings_from_c`` emits its entries -- that 1:1 order is
+    what lets a corpus entry be addressed without re-deriving a label here.
+    The filter is the extractor's, restated: an unbalanced ``(``, a call with no
+    string literal, and a string with no alphanumeric character are not entries.
+    """
+    located: List[Tuple[int, int, int]] = []
+    for match in _C_MACRO_RE.finditer(text):
+        open_paren = match.end() - 1
+        close = _close_paren(text, open_paren)
+        if close == -1:
+            continue
+        bodies = _literal_bodies(text, open_paren + 1, close - 1)
+        if not bodies:
+            continue
+        if not is_meaningful_string("".join(text[start:end] for start, end in bodies)):
+            continue
+        located.append((match.start(), open_paren, close))
+    return located
+
+
+@dataclass
+class _CLayout:
+    """Where a macro's literals sit, so a rewrite can keep the same shape.
+
+    ``prefix``/``gaps``/``suffix`` are the file's own text between the brackets
+    and between the literals -- reusing them verbatim is what keeps a
+    ``#define`` body's backslash continuations, a struct field's indentation and
+    a one-line ``ITEM_NAME("...")`` byte-identical around the new text.
+
+    There are always at least ``len(pieces) - 1`` gaps, and the splitter never
+    emits more pieces than the file had, so a rewrite never needs a separator
+    the file did not already contain.
+    """
+
+    prefix: str
+    pieces: List[str]
+    gaps: List[str]
+    suffix: str
+
+    def gap(self, index: int) -> str:
+        """The separator that belongs before the ``index``-th following literal."""
+        return self.gaps[index]
+
+
+@dataclass
+class _CBlock:
+    """One text-macro invocation, addressed by the extractor's ``(label, index)``."""
+
+    label: str
+    index: int
+    start: int
+    end: int
+    text: str
+    layout: _CLayout
+    #: Why this block must not be rewritten, or ``""`` when it may be.
+    refusal: str = ""
+
+
+def _parse_c_blocks(path: str, content: str, category: str) -> List[_CBlock]:
+    """Locate every corpus-addressable text block in a C file.
+
+    Labels and indices are not recomputed here: they are taken from
+    :func:`extractor.extract_strings_from_c`, which owns that contract (per-label
+    indices for engine text, the file-global macro ordinal for the legacy
+    ``src/data/text`` roots).  The spans are zipped onto its entries in source
+    order; if the two lists ever disagree the file is refused outright rather
+    than edited with offsets that might belong to another string.
+    """
+    spliced, index_map = _splice_with_index_map(content)
+    if spliced != _splice_continuations(content):  # pragma: no cover - invariant
+        print(
+            "warning: refusing to inject %s: continuation splice disagrees with "
+            "the extractor's" % (path,),
+            file=sys.stderr,
+        )
+        return []
+
+    masked = _mask_comments(spliced)
+    located = _locate_c_macros(masked)
+    entries = extract_strings_from_c(path, content, category)
+    if len(entries) != len(located):
+        print(
+            "warning: refusing to inject %s: located %d text macros but the "
+            "extractor reports %d entries" % (path, len(located), len(entries)),
+            file=sys.stderr,
+        )
+        return []
+
+    lines = content.split("\n")
+    directive_lines = [bool(_PREPROC_RE.match(line)) for line in lines]
+
+    blocks: List[_CBlock] = []
+    for entry, (macro_start, open_paren, close) in zip(entries, located):
+        start = index_map[open_paren]
+        end = index_map[close - 1]
+        bodies = _literal_bodies(masked, open_paren + 1, close - 1)
+        # ``(quote, one past the closing quote)`` in offsets of ``content``.
+        spans = [
+            (index_map[body_start - 1], index_map[body_end] + 1)
+            for body_start, body_end in bodies
+        ]
+
+        layout = _CLayout(
+            prefix=content[start:spans[0][0]],
+            pieces=[content[first + 1:last - 1] for first, last in spans],
+            gaps=[content[spans[i][1]:spans[i + 1][0]] for i in range(len(spans) - 1)],
+            suffix=content[spans[-1][1]:end],
+        )
+
+        start_line = content.count("\n", 0, index_map[macro_start])
+        end_line = content.count("\n", 0, end)
+        refusal = ""
+        if _is_guarded_block(directive_lines, start_line, start_line, end_line + 1):
+            refusal = "block spans or abuts a #if/#else/#endif preprocessor block"
+        elif not all(_C_GAP_LAYOUT_RE.match(gap) for gap in layout.gaps):
+            # ``"for "BINDING_TURNS" turns."`` -- a macro is spliced between two
+            # literals.  The extractor concatenates the literals only, so the
+            # entry's ``source`` is not the string the ROM builds, and rewriting
+            # the block would drop the macro from the compiled text.
+            refusal = (
+                "a macro or expression sits between this block's literals, so "
+                "the extracted source is not the whole string"
+            )
+        blocks.append(_CBlock(entry.label, entry.index, start, end, entry.source, layout, refusal))
+
+    return blocks
+
+
+def _c_chunk_boundaries(text: str) -> List[int]:
+    """Offsets just past every ``\\n``/``\\l``/``\\p``/``$`` in ``text``.
+
+    These are the only places a C literal may be split: an escape pair and a
+    multi-byte character are never torn.  Unlike :func:`split_chunks` a boundary
+    is kept even when the text ends unterminated, so a translation with two
+    lines but no ``$`` still splits into two literals.
+    """
+    boundaries: List[int] = []
+    position = 0
+    length = len(text)
+    while position < length:
+        character = text[position]
+        if character == "\\" and position + 1 < length:
+            code = text[position + 1]
+            position += 2
+            if code in "nlp" and position < length:
+                boundaries.append(position)
+            continue
+        if character == TERMINATOR:
+            position += 1
+            if position < length:
+                boundaries.append(position)
+            continue
+        position += 1
+    return boundaries
+
+
+def _split_at(text: str, boundaries: Sequence[int]) -> List[str]:
+    """Cut ``text`` at ``boundaries``; the pieces re-join to ``text`` exactly."""
+    pieces: List[str] = []
+    previous = 0
+    for boundary in boundaries:
+        pieces.append(text[previous:boundary])
+        previous = boundary
+    pieces.append(text[previous:])
+    return pieces
+
+
+def _split_c_text(text: str, lengths: Sequence[int]) -> List[str]:
+    """Split ``text`` into literals, never growing the file's block.
+
+    The file already decided how many literals this string is written as -- one
+    for ``ITEM_NAME("...")`` and a short ``_("...")``, three for the descriptions
+    in ``items.h`` -- and that count is kept whenever the text has the line
+    boundaries to reach it.  A translation that re-flows to fewer lines collapses
+    (three literals become one holding two ``\\n``), which is what the upstream
+    Chinese fork does too; a translation that re-flows to more lines is spread
+    over the same literals rather than growing new ones.  Growing is what would
+    need a synthesised separator, and inside a ``#define`` a synthesised line
+    break without a backslash would end the macro.
+
+    Boundaries are picked proportionally to the original pieces when a choice
+    exists, which makes the split a fixed point: a second run sees pieces with
+    exactly those proportions and picks the same boundaries again.
+    """
+    wanted = len(lengths)
+    if wanted <= 1:
+        return [text]
+
+    boundaries = _c_chunk_boundaries(text)
+    if not boundaries:
+        return [text]
+    if len(boundaries) < wanted - 1:
+        # Fewer lines than the file used literals: one literal per line is the
+        # closest the text can get to that shape, and it is stable -- the next
+        # run sees exactly these pieces and no longer needs to choose.
+        return _split_at(text, boundaries)
+
+    total = sum(lengths)
+    if total <= 0:  # pragma: no cover - a block with only empty literals
+        return _split_at(text, boundaries)
+
+    targets: List[int] = []
+    cumulative = 0
+    for length in lengths[:-1]:
+        cumulative += length
+        targets.append((len(text) * cumulative) // total)
+
+    chosen: List[int] = []
+    previous = -1
+    for position, target in enumerate(targets):
+        # Keep room for the picks still to come, so the selection stays strictly
+        # increasing and produces exactly ``wanted`` pieces.
+        remaining = wanted - 2 - position
+        low = previous + 1
+        high = len(boundaries) - 1 - remaining
+        if low > high:  # pragma: no cover - guarded by the length check above
+            return _split_at(text, boundaries)
+        pick = min(range(low, high + 1), key=lambda index: (abs(boundaries[index] - target), index))
+        chosen.append(boundaries[pick])
+        previous = pick
+    return _split_at(text, chosen)
+
+
+def _c_literal(text: str) -> str:
+    """Render ``text`` as one C string literal, or raise ``ValueError``."""
+    if '"' in text or "\n" in text or "\r" in text:
+        raise ValueError("refusing to emit text containing a quote or raw newline: %r" % (text,))
+    if (len(text) - len(text.rstrip("\\"))) % 2:
+        raise ValueError("refusing to emit text ending in an unescaped backslash: %r" % (text,))
+    return '"%s"' % (text,)
+
+
+def _render_c_block(block: _CBlock, text: str) -> str:
+    """Lay ``text`` out inside ``block``'s brackets in the file's own style."""
+    layout = block.layout
+    pieces = _split_c_text(text, [len(piece) for piece in layout.pieces])
+    parts = [layout.prefix]
+    for index, piece in enumerate(pieces):
+        if index:
+            parts.append(layout.gap(index - 1))
+        parts.append(_c_literal(piece))
+    parts.append(layout.suffix)
+    return "".join(parts)
+
+
 def _inject_c(content: str, updates: Sequence[dict], path: str = "") -> Tuple[str, int, int]:
-    by_label: Dict[str, List[Tuple[int, re.Match]]] = {}
-    for position, match in enumerate(_C_ARRAY_RE.finditer(content)):
-        by_label.setdefault(match.group(1), []).append((position, match))
+    category = _default_c_category(path)
+    blocks = _parse_c_blocks(path, content, category)
+
+    by_key: Dict[Tuple[str, int], List[_CBlock]] = {}
+    for block in blocks:
+        by_key.setdefault((block.label, block.index), []).append(block)
+    # A repeated label means the index carries the identity, and the index is a
+    # property of one file's ordering: it may be a table row (``sFavorLady``'s
+    # six ``.request`` strings) or a branch of an ``#if`` (``ITEM_EXP_SHARE``).
+    # In both cases another tree need not number them the same way, so none of
+    # them are written.
+    redefined = {label for label, count in Counter(block.label for block in blocks).items() if count > 1}
 
     unique = _dedupe_updates(updates)
     edits: List[Tuple[int, int, str]] = []
@@ -706,32 +1087,47 @@ def _inject_c(content: str, updates: Sequence[dict], path: str = "") -> Tuple[st
         if translation is None:
             continue
 
-        label = update.get("label")
-        index = update.get("index")
-        candidates = [match for position, match in by_label.get(label, []) if position == index]
-        if len(candidates) != 1:
-            # Falling back to the first array with this label would overwrite an
-            # unrelated string and report success; the .inc path skips here too.
+        matches = by_key.get((update.get("label"), update.get("index")), [])
+        if len(matches) != 1:
+            # Falling back to the first macro with this label would rewrite an
+            # unrelated string and report success; never guess.
             _report_skip(
                 path, update,
-                'expected exactly one _("...") array at this index, found %d'
-                % (len(candidates),),
+                "expected exactly one text macro at this (label, index), found %d"
+                % (len(matches),),
             )
             continue
-        match = candidates[0]
+        block = matches[0]
+
+        if block.refusal:
+            _report_skip(path, update, block.refusal)
+            continue
+        if block.label in redefined:
+            _report_skip(
+                path, update,
+                "label %r is defined more than once in this file, so its index is "
+                "not a stable identity" % (block.label,),
+            )
+            continue
 
         wrapped = _wrapped_or_skip(path, update, translation)
         if wrapped is None:
             continue
-        if match.group(2) != update.get("source") and match.group(2) != wrapped:
+        if block.text != update.get("source") and block.text != wrapped:
             _report_skip(
                 path, update,
-                'array literal does not match the corpus source (found %r)'
-                % (match.group(2)[:60],),
+                "macro literal does not match the corpus source (found %r)"
+                % (block.text[:60],),
             )
             continue
 
-        edits.append((match.start(2), match.end(2), wrapped))
+        try:
+            rendered = _render_c_block(block, wrapped)
+        except ValueError as exc:
+            _report_skip(path, update, "refusing to emit the translation (%s)" % exc)
+            continue
+
+        edits.append((block.start, block.end, rendered))
         applied += 1
 
     for start, end, replacement in sorted(edits, key=lambda item: item[0], reverse=True):
@@ -749,8 +1145,9 @@ def inject_into_file(
 
     ``updates`` are corpus entries; ``label``, ``index``, ``source`` and
     ``translation`` are used.  ``.inc`` files get their ``.string`` block
-    rewritten; ``.h`` and ``.c`` files get the literal inside ``_("...")``
-    replaced.  Nothing outside the matched block is touched.
+    rewritten; ``.h`` and ``.c`` files get the invocation of a text macro
+    (``_(...)``, ``COMPOUND_STRING(...)``, ``ITEM_NAME(...)``, ...) rewritten
+    around its own literals.  Nothing outside the matched block is touched.
 
     Every update is verified before it is written (see the module docstring):
     an entry whose source, index or translation cannot be trusted is *skipped*

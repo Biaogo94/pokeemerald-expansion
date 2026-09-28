@@ -29,7 +29,7 @@ import shutil
 import tempfile
 import unittest
 
-from tools.i18n.extractor import extract_strings_from_inc
+from tools.i18n.extractor import extract_strings_from_c, extract_strings_from_inc
 from tools.i18n.injector import (
     DEFAULT_MAX_CHARS,
     ALIGNED_CORPUS_PATH,
@@ -1250,6 +1250,469 @@ class TestCliReportsSkips(InjectorTestBase):
             )
         self.assertEqual(code, 0)
         self.assertEqual(self.read(self.inc), before)
+
+
+# --------------------------------------------------------------------------
+# C write-back for the engine forms the extractor recognises (Step 1.5)
+# --------------------------------------------------------------------------
+
+#: One file holding every shape ``extract_strings_from_c`` reads out of
+#: ``src/``: adjacent literals split across lines, ``COMPOUND_STRING`` in a
+#: struct field, ``ITEM_NAME`` / ``ITEM_PLURAL_NAME``, and a ``#define`` body
+#: whose literals are joined by backslash continuations.
+ENGINE_C_H = (
+    "static const u8 sGMaxOneBlowDescription[] = _(\n"
+    '    "G-max Urshifu attack.' + NL + '"\n'
+    '    "Ignores Max Guard.");\n'
+    "\n"
+    "static const struct ItemInfo sEngineItems[] =\n"
+    "{\n"
+    "    [ITEM_STRANGE_BALL] =\n"
+    "    {\n"
+    '        .name = ITEM_NAME("STRANGE BALL"),\n'
+    "        .description = COMPOUND_STRING(\n"
+    '            "An unusual Ball' + NL + '"\n'
+    '            "warped through' + NL + '"\n'
+    '            "space and time."),\n'
+    "    },\n"
+    "    [ITEM_POKE_BALL] =\n"
+    "    {\n"
+    '        .name = ITEM_NAME("POKE BALL"),\n'
+    '        .pluralName = ITEM_PLURAL_NAME("POKE BALLS"),\n'
+    "    },\n"
+    "};\n"
+    "\n"
+    "#define ENGINE_BALL_DESCRIPTION \\\n"
+    '    COMPOUND_STRING("A device for' + NL + '" \\\n'
+    '                    "catching wild' + NL + '" \\\n'
+    '                    "POKeMON.")\n'
+)
+
+#: A ``#define`` whose body holds a *single* literal: a translation that wraps
+#: has to grow a literal, and inside a ``#define`` that line must be continued
+#: with a backslash or the macro ends there.
+DEFINE_SINGLE_LITERAL_H = (
+    "#define TEST_MOVE_NAME \\\n"
+    '    static const u8 sTestMoveName[] = _("TACKLE")\n'
+)
+
+#: ``MOVE_HAIL`` redefined in both arms of an ``#if``.  ``.name`` is unique but
+#: sits on the line directly above the directive; the two ``.description``
+#: blocks are separated from theirs by other fields, so only the redefinition
+#: itself makes them unsafe.
+GUARDED_C_H = (
+    "static const struct MoveInfo sEngineMoves[] =\n"
+    "{\n"
+    "    [MOVE_HAIL] =\n"
+    "    {\n"
+    '        .name = COMPOUND_STRING("HAIL"),\n'
+    "        #if B_PREFERRED_ICE_WEATHER == B_ICE_WEATHER_SNOW\n"
+    "            .description = COMPOUND_STRING(\n"
+    '                "Summons a snowstorm."),\n'
+    "        #else\n"
+    "            .description = COMPOUND_STRING(\n"
+    '                "Summons hail."),\n'
+    "        #endif\n"
+    "    },\n"
+    "    [MOVE_TACKLE] =\n"
+    "    {\n"
+    '        .name = COMPOUND_STRING("TACKLE"),\n'
+    "    },\n"
+    "};\n"
+)
+
+#: The ``ITEM_EXP_SHARE`` shape: the same field defined in both arms of an
+#: ``#if``, with enough fields around it that neither block touches a
+#: directive.  The branch that is compiled in depends on a config macro, so
+#: writing one translation to both -- or trusting the index to mean the same
+#: thing in another tree -- is not a safe guess.
+REDEFINED_C_H = (
+    "static const struct ItemInfo sEngineItems[] =\n"
+    "{\n"
+    "    [ITEM_EXP_SHARE] =\n"
+    "    {\n"
+    "    #if I_EXP_SHARE_ITEM >= GEN_6\n"
+    "        .importance = 1,\n"
+    "        .description = COMPOUND_STRING(\n"
+    '            "Gives exp. to' + NL + '"\n'
+    '            "other members."),\n'
+    "        .pocket = POCKET_KEY_ITEMS,\n"
+    "    #else\n"
+    "        .price = 3000,\n"
+    "        .description = COMPOUND_STRING(\n"
+    '            "A hold item that' + NL + '"\n'
+    '            "gets Exp. points."),\n'
+    "        .pocket = POCKET_ITEMS,\n"
+    "    #endif\n"
+    "    },\n"
+    "};\n"
+)
+
+#: ``"for "BINDING_TURNS" turns."`` -- the compiler splices a macro into the
+#: string, so the extractor's concatenation of the literals alone is not the
+#: text the ROM builds.  Rewriting the block would delete the macro.
+SPLICED_MACRO_C_H = (
+    "static const struct MoveInfo sEngineMoves[] =\n"
+    "{\n"
+    "    [MOVE_BIND] =\n"
+    "    {\n"
+    "        .description = COMPOUND_STRING(\n"
+    '            "Binds and squeezes the foe' + NL + '"\n'
+    '            "for "BINDING_TURNS" turns."),\n'
+    "    },\n"
+    "};\n"
+)
+
+
+class TestInjectCEngineForms(InjectorTestBase):
+    """Every C form the engine extractor emits must be writable back."""
+
+    def setUp(self):
+        super().setUp()
+        self.path = self.write("src/data/items.h", ENGINE_C_H)
+        self.entries = {
+            (entry.label, entry.index): entry
+            for entry in extract_strings_from_c("src/data/items.h", ENGINE_C_H, "engine_c")
+        }
+
+    def update(self, label, index, translation, **overrides):
+        entry = self.entries[(label, index)]
+        base = {
+            "id": entry.id,
+            "file": "./src/data/items.h",
+            "label": entry.label,
+            "index": entry.index,
+            "source": entry.source,
+            "translation": translation,
+            "match_type": "exact",
+        }
+        base.update(overrides)
+        return base
+
+    def all_updates(self):
+        return [
+            self.update("sGMaxOneBlowDescription", 0, "超极巨化武道熊师的攻击。" + NL + "无视极巨防壁。"),
+            self.update("ITEM_STRANGE_BALL.name", 0, "奇异球"),
+            self.update(
+                "ITEM_STRANGE_BALL.description", 0,
+                "一颗不寻常的球，它穿越了时空，" + NL + "来到了这里。",
+            ),
+            self.update("ITEM_POKE_BALL.pluralName", 0, "精灵球们"),
+            self.update(
+                "ENGINE_BALL_DESCRIPTION", 0,
+                "这是一个用来捕捉野生宝可梦的" + NL + "装置，非常方便实用。",
+            ),
+        ]
+
+    def test_the_fixture_covers_the_synthesised_labels(self):
+        # The extractor's labelling is the contract the injector reads back:
+        # struct fields are addressed ``ITEM_STRANGE_BALL.description``, macros
+        # outside a container by their own name, an array by its declarator.
+        self.assertEqual(
+            sorted(self.entries),
+            [
+                ("ENGINE_BALL_DESCRIPTION", 0),
+                ("ITEM_POKE_BALL.name", 0),
+                ("ITEM_POKE_BALL.pluralName", 0),
+                ("ITEM_STRANGE_BALL.description", 0),
+                ("ITEM_STRANGE_BALL.name", 0),
+                ("sGMaxOneBlowDescription", 0),
+            ],
+        )
+        self.assertEqual(
+            self.entries[("ITEM_STRANGE_BALL.description", 0)].source,
+            "An unusual Ball" + NL + "warped through" + NL + "space and time.",
+        )
+
+    def test_adjacent_literals_keep_their_multi_line_layout(self):
+        translation = "超极巨化武道熊师的攻击。" + NL + "无视极巨防壁。"
+        result = inject_into_file(
+            self.path, [self.update("sGMaxOneBlowDescription", 0, translation)]
+        )
+        self.assertEqual(result.applied, 1)
+        self.assertEqual(result.skipped, 0)
+
+        content = self.read(self.path)
+        head, tail = wrap_chinese(translation).split(NL, 1)
+        # The block is still several literals, one per line, indented as before.
+        self.assertIn('= _(\n    "' + head + NL + '"\n', content)
+        self.assertIn('    "' + tail + '");', content)
+        self.assertNotIn("G-max Urshifu attack.", content)
+
+    def test_struct_field_compound_string_keeps_its_indent(self):
+        translation = "一颗不寻常的球，它穿越了时空，" + NL + "来到了这里。"
+        result = inject_into_file(
+            self.path, [self.update("ITEM_STRANGE_BALL.description", 0, translation)]
+        )
+        self.assertEqual(result.applied, 1)
+
+        content = self.read(self.path)
+        head, tail = wrap_chinese(translation).split(NL, 1)
+        self.assertIn("        .description = COMPOUND_STRING(\n", content)
+        self.assertIn('            "' + head + NL + '"\n', content)
+        self.assertIn('            "' + tail + '"),', content)
+        self.assertNotIn("An unusual Ball", content)
+
+    def test_item_name_forms_stay_inline(self):
+        result = inject_into_file(
+            self.path,
+            [
+                self.update("ITEM_STRANGE_BALL.name", 0, "奇异球"),
+                self.update("ITEM_POKE_BALL.pluralName", 0, "精灵球们"),
+            ],
+        )
+        self.assertEqual(result.applied, 2)
+        content = self.read(self.path)
+        self.assertIn('.name = ITEM_NAME("奇异球"),', content)
+        self.assertIn('.pluralName = ITEM_PLURAL_NAME("精灵球们"),', content)
+        self.assertNotIn("STRANGE BALL", content)
+        # The neighbouring item was not the target and keeps its English.
+        self.assertIn('.name = ITEM_NAME("POKE BALL"),', content)
+
+    def test_define_body_keeps_its_backslash_continuations(self):
+        translation = "这是一个用来捕捉野生宝可梦的" + NL + "装置，非常方便实用。"
+        result = inject_into_file(
+            self.path, [self.update("ENGINE_BALL_DESCRIPTION", 0, translation)]
+        )
+        self.assertEqual(result.applied, 1)
+
+        content = self.read(self.path)
+        head, tail = wrap_chinese(translation).split(NL, 1)
+        self.assertIn('    COMPOUND_STRING("' + head + NL + '" \\\n', content)
+        self.assertIn('                    "' + tail + '")', content)
+        self.assertNotIn("A device for", content)
+
+    def test_engine_write_back_is_idempotent(self):
+        updates = self.all_updates()
+        first_result = inject_into_file(self.path, updates)
+        self.assertEqual(first_result.applied, len(updates))
+        self.assertEqual(first_result.skipped, 0)
+        first = self.read(self.path)
+
+        second_result = inject_into_file(self.path, updates)
+        self.assertEqual(self.read(self.path), first)
+        self.assertFalse(second_result.changed)
+        self.assertEqual(second_result.skipped, 0)
+
+    def test_a_crlf_engine_file_keeps_one_line_ending(self):
+        # Git on Windows may hand the injector CRLF sources; injecting must not
+        # convert the file, lose the block, or mix endings.
+        path = self.write("src/data/items.h", ENGINE_C_H.replace("\n", "\r\n"))
+        updates = self.all_updates()
+        result = inject_into_file(path, updates)
+        self.assertEqual(result.applied, len(updates))
+
+        with open(path, "rb") as handle:
+            raw = handle.read().decode("utf-8")
+        self.assertIn("奇异球", raw)
+        head, tail = wrap_chinese(
+            "一颗不寻常的球，它穿越了时空，" + NL + "来到了这里。"
+        ).split(NL, 1)
+        self.assertIn('"' + head + NL + '"', raw)
+        self.assertIn('"' + tail + '"', raw)
+        self.assertNotIn("An unusual Ball", raw)
+        # Every newline is CRLF -- never a mixture.
+        self.assertEqual(raw.count("\r\n"), raw.count("\n"))
+        self.assertNotIn("\n", raw.replace("\r\n", ""))
+
+        inject_into_file(path, updates)
+        with open(path, "rb") as handle:
+            self.assertEqual(handle.read().decode("utf-8"), raw)
+
+    def test_a_stale_source_is_skipped_not_written(self):
+        before = self.read(self.path)
+        stale = self.update(
+            "sGMaxOneBlowDescription", 0, "短译。",
+            source="G-max Urshifu attack.",  # one literal, not the concatenation
+        )
+        result, err = run_capturing_stderr(inject_into_file, self.path, [stale])
+        self.assertEqual(result.applied, 0)
+        self.assertEqual(result.skipped, 1)
+        self.assertEqual(self.read(self.path), before)
+        self.assertIn("sGMaxOneBlowDescription", err)
+
+    def test_an_unknown_label_is_skipped(self):
+        before = self.read(self.path)
+        update = self.update("sGMaxOneBlowDescription", 0, "短译。")
+        update["label"] = "NotInThisFile"
+        result, err = run_capturing_stderr(inject_into_file, self.path, [update])
+        self.assertEqual(result.applied, 0)
+        self.assertEqual(result.skipped, 1)
+        self.assertEqual(self.read(self.path), before)
+        self.assertIn("NotInThisFile", err)
+
+
+class TestInjectCDefineContinuation(InjectorTestBase):
+    """A macro inside a ``#define`` is never given a line the file did not have."""
+
+    def setUp(self):
+        super().setUp()
+        self.path = self.write("src/data/moves_info.h", DEFINE_SINGLE_LITERAL_H)
+        self.update = {
+            "id": "z:sTestMoveName:0",
+            "file": "./src/data/moves_info.h",
+            "label": "sTestMoveName",
+            "index": 0,
+            "source": "TACKLE",
+            "translation": "用整个身体撞向对手，进行强力的攻击。",
+            "match_type": "exact",
+        }
+
+    def test_a_one_literal_macro_stays_on_one_line(self):
+        result = inject_into_file(self.path, [self.update])
+        self.assertEqual(result.applied, 1)
+
+        content = self.read(self.path)
+        head, tail = wrap_chinese(self.update["translation"]).split(NL, 1)
+        self.assertIn('= _("' + head + NL + tail + '")', content)
+        # No invented line break: a new one inside a #define would need a
+        # backslash continuation the file does not have, and without it the
+        # macro would simply end there.
+        self.assertEqual(len(content.split("\n")), len(DEFINE_SINGLE_LITERAL_H.split("\n")))
+
+    def test_the_injected_file_still_extracts_to_one_entry(self):
+        inject_into_file(self.path, [self.update])
+        entries = extract_strings_from_c(
+            "src/data/moves_info.h", self.read(self.path), "engine_c"
+        )
+        self.assertEqual([entry.label for entry in entries], ["sTestMoveName"])
+        self.assertEqual(entries[0].source, wrap_chinese(self.update["translation"]))
+
+    def test_the_rewrite_is_idempotent(self):
+        inject_into_file(self.path, [self.update])
+        first = self.read(self.path)
+        result = inject_into_file(self.path, [self.update])
+        self.assertEqual(self.read(self.path), first)
+        self.assertFalse(result.changed)
+
+
+class TestInjectCPreprocessorGuard(InjectorTestBase):
+    """A conditional branch is never written, and neither is a shared label."""
+
+    def setUp(self):
+        super().setUp()
+        self.path = self.write("src/data/moves_info.h", GUARDED_C_H)
+
+    def update(self, label, source, translation, index=0, path=""):
+        return {
+            "id": "z:%s:%d" % (label, index),
+            "file": path or "./src/data/moves_info.h",
+            "label": label,
+            "index": index,
+            "source": source,
+            "translation": translation,
+            "match_type": "exact",
+        }
+
+    def test_a_block_abutting_an_if_is_refused(self):
+        before = self.read(self.path)
+        result, err = run_capturing_stderr(
+            inject_into_file, self.path, [self.update("MOVE_HAIL.name", "HAIL", "冰雹")]
+        )
+        self.assertEqual(result.applied, 0)
+        self.assertEqual(result.skipped, 1)
+        self.assertEqual(self.read(self.path), before)
+        self.assertIn("MOVE_HAIL.name", err)
+        self.assertIn("#if", err)
+
+    def test_both_branches_of_a_redefinition_are_refused(self):
+        before = self.read(self.path)
+        updates = [
+            self.update("MOVE_HAIL.description", "Summons a snowstorm.", "引起暴风雪。", index=0),
+            self.update("MOVE_HAIL.description", "Summons hail.", "引起冰雹。", index=1),
+        ]
+        result, err = run_capturing_stderr(inject_into_file, self.path, updates)
+        self.assertEqual(result.applied, 0)
+        self.assertEqual(result.skipped, 2)
+        self.assertEqual(self.read(self.path), before)
+        # Both the English branches and the directives survive untouched.
+        self.assertIn('"Summons a snowstorm."', self.read(self.path))
+        self.assertIn('"Summons hail."', self.read(self.path))
+        self.assertIn("#else", self.read(self.path))
+
+    def test_an_unrelated_move_is_still_injected(self):
+        result = inject_into_file(
+            self.path, [self.update("MOVE_TACKLE.name", "TACKLE", "撞击")]
+        )
+        self.assertEqual(result.applied, 1)
+        self.assertEqual(result.skipped, 0)
+        content = self.read(self.path)
+        self.assertIn('COMPOUND_STRING("撞击")', content)
+        self.assertIn('COMPOUND_STRING("HAIL")', content)
+
+    def test_a_label_defined_twice_far_from_its_directives_is_refused(self):
+        path = self.write("src/data/items.h", REDEFINED_C_H)
+        # The two branches are three fields apart from their directives, so the
+        # adjacency rule alone would let both through.
+        before = self.read(path)
+        updates = [
+            self.update(
+                "ITEM_EXP_SHARE.description", "Gives exp. to" + NL + "other members.",
+                "把经验值分给队伍里" + NL + "其他的宝可梦。", index=0,
+                path="./src/data/items.h",
+            ),
+            self.update(
+                "ITEM_EXP_SHARE.description", "A hold item that" + NL + "gets Exp. points.",
+                "从战斗中获取经验值" + NL + "的携带道具。", index=1,
+                path="./src/data/items.h",
+            ),
+        ]
+        result, err = run_capturing_stderr(inject_into_file, path, updates)
+        self.assertEqual(result.applied, 0)
+        self.assertEqual(result.skipped, 2)
+        self.assertEqual(self.read(path), before)
+        self.assertIn("ITEM_EXP_SHARE.description", err)
+        self.assertIn("more than once", err)
+
+    def test_dry_run_writes_nothing_for_a_guarded_block(self):
+        before = self.read(self.path)
+        result = inject_into_file(
+            self.path,
+            [self.update("MOVE_HAIL.name", "HAIL", "冰雹")],
+            dry_run=True,
+        )
+        self.assertFalse(result.changed)
+        self.assertEqual(result.applied, 0)
+        self.assertEqual(self.read(self.path), before)
+
+
+class TestInjectCSplicedMacroGuard(InjectorTestBase):
+    """A macro between two literals is code, not layout: never rewrite over it."""
+
+    def setUp(self):
+        super().setUp()
+        self.path = self.write("src/data/moves_info.h", SPLICED_MACRO_C_H)
+        # The extractor concatenates the literals only, so its ``source`` shows
+        # a double space where ``BINDING_TURNS`` sits in the real string.
+        self.entry = extract_strings_from_c(
+            "src/data/moves_info.h", SPLICED_MACRO_C_H, "engine_c"
+        )[0]
+
+    def test_the_extracted_source_is_missing_the_macro(self):
+        self.assertEqual(
+            self.entry.source,
+            "Binds and squeezes the foe" + NL + "for  turns.",
+        )
+
+    def test_the_block_is_refused_rather_than_reflowed(self):
+        before = self.read(self.path)
+        update = {
+            "file": "./src/data/moves_info.h",
+            "label": self.entry.label,
+            "index": self.entry.index,
+            "source": self.entry.source,
+            "translation": "绑紧对手，" + NL + "持续 回合。",
+            "match_type": "exact",
+        }
+        result, err = run_capturing_stderr(inject_into_file, self.path, [update])
+        self.assertEqual(result.applied, 0)
+        self.assertEqual(result.skipped, 1)
+        self.assertEqual(self.read(self.path), before)
+        self.assertIn("BINDING_TURNS", "".join(
+            line for line in self.read(self.path).split("\n") if "BINDING_TURNS" in line
+        ))
+        self.assertIn(self.entry.label, err)
+        self.assertIn("between this block's literals", err)
 
 
 if __name__ == "__main__":
