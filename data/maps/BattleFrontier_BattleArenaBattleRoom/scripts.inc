@@ -484,146 +484,129 @@ BattleFrontier_BattleArenaBattleRoom_Movement_GretaWalkBackToCenter:
 	step_end
 
 BattleFrontier_BattleArenaBattleRoom_Text_PlayerStepForward:
-	.string "REFEREE: TRAINER {PLAYER}!\n"
-	.string "Step forward, please!$"
+	.string "裁判：训练家{PLAYER}！请\n"
+	.string "上前一步！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_OpponentStepForward:
-	.string "REFEREE: TRAINER {STR_VAR_1}!\n"
-	.string "Step forward, please!$"
+	.string "裁判：训练家\n"
+	.string "{STR_VAR_1}！请上前一\l"
+	.string "步！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SetKOTourneyBegin:
-	.string "REFEREE: Set KO Tourney!\n"
-	.string "Begin!$"
+	.string "裁判：三回合定胜负锦标赛！开始！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsPlayer:
-	.string "REFEREE: The winner is {PLAYER}!$"
+	.string "裁判：胜者是{PLAYER}！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsOpponent:
-	.string "REFEREE: The winner is {STR_VAR_1}!$"
+	.string "裁判：胜者是\n"
+	.string "{STR_VAR_1}！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_MonsWillBeRestored:
-	.string "Your POKéMON will be restored to\n"
-	.string "full health.$"
+	.string "我来帮您的宝可梦回复体力。$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor2ndOpponent:
-	.string "Next up, your second opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "接下来是您的第2个对手！准备好开\n"
+	.string "始了吗？$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor3rdOpponent:
-	.string "Next up, your third opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "接下来是您的第3个对手！准备好开\n"
+	.string "始了吗？$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor4thOpponent:
-	.string "Next up, your fourth opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "接下来是您的第4个对手！准备好开\n"
+	.string "始了吗？$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor5thOpponent:
-	.string "Next up, your fifth opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "接下来是您的第5个对手！准备好开\n"
+	.string "始了吗？$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor6thOpponent:
-	.string "Next up, your sixth opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "接下来是您的第6个对手！准备好开\n"
+	.string "始了吗？$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor7thOpponent:
-	.string "Next up, your seventh opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "接下来是您的第7个对手！准备好开\n"
+	.string "始了吗？$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SaveAndShutDown:
-	.string "Would you like to save the game and\n"
-	.string "shut down now?$"
+	.string "要写入记录并且暂停吗？$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_RetireFromChallenge:
-	.string "Would you like to retire from your\n"
-	.string "Set KO Tourney challenge?$"
+	.string "要结束三回合定胜负锦标赛的挑战吗\n"
+	.string "？$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SavingPleaseWait:
-	.string "I am saving your game data.\n"
-	.string "Please wait.$"
+	.string "正在写入记录……请稍等。$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_RecordLastBattle:
-	.string "Would you like to record your last\n"
-	.string "battle on your FRONTIER PASS?$"
+	.string "您要把您上次的对战记录在您的开拓\n"
+	.string "通行证吗？$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_NowFaceTycoon:
-	.string "My dear challenger!\p"
-	.string "Your skill level is truly astounding!\p"
-	.string "We now would like you to face our\n"
-	.string "leader, the ARENA TYCOON!$"
+	.string "尊敬的挑战者！\p"
+	.string "您的实力十分惊人！\p"
+	.string "希望您能见见我们的大将，竞技场主\n"
+	.string "将！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_PreparedForTycoon:
-	.string "A battle with the ARENA TYCOON!\n"
-	.string "Are you prepared?$"
+	.string "同竞技场主将的对战！准备好了吗？$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_MakeWayForGreta:
-	.string "REFEREE: The ARENA TYCOON!\n"
-	.string "Make way for GRETA!$"
+	.string "裁判：竞技场主将！给黄瓜香让路！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureChallenger:
-	.string "GRETA: Hey!\n"
-	.string "Howdy!\p"
-	.string "…Wait, are you the challenger?$"
+	.string "黄瓜香：嗨哟！你好！\p"
+	.string "……等等，你就是挑战者？$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_IsThatRight:
-	.string "Is that right? Hmm…\n"
-	.string "Hmhm…$"
+	.string "没有搞错吗？哈……哈哈……$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_YouLookWeakTakeThingsEasy:
-	.string "I don't know how to say it, but…\n"
-	.string "To put it bluntly, you look pretty weak.\l"
-	.string "Are you sure you're up for me?\p"
-	.string "Hmm…\p"
-	.string "Well, all right!\n"
-	.string "We'll take things easy to start with!$"
+	.string "但该怎么说呢……老实说，我觉得你\n"
+	.string "好像非常弱哎。你确定你招架得住吗\l"
+	.string "？\p"
+	.string "哈……\p"
+	.string "那么，好吧！我们慢慢来！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_IgniteMyPassionForBattle:
-	.string "Okay! Let's see you ignite my passion\n"
-	.string "for battle!$"
+	.string "好！看你能不能点燃我的斗志！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureToughAfterAll:
-	.string "GRETA: Ow, wait a second!\n"
-	.string "You are tough after all!\p"
-	.string "I like you!\n"
-	.string "Let's see your FRONTIER PASS.$"
+	.string "哦，等一下！你还挺强的！\p"
+	.string "我喜欢你！把你的开拓通行证给我吧\n"
+	.string "！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReceivedGutsSymbol:
-	.string "The Guts Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "毅力象征被印在了开拓通行证上！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GoingToBeFunNextTime:
-	.string "Hmm…\p"
-	.string "It's going to be fun the next time!\n"
-	.string "I'm looking forward to it!$"
+	.string "哈……\p"
+	.string "下次会更有趣！我很期待！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaLookingForwardToSeeingAgain:
-	.string "GRETA: Hey! Howdy!\n"
-	.string "You finally won your way up to me!\p"
-	.string "I was getting worried waiting for you!\n"
-	.string "I was really looking forward to seeing\l"
-	.string "you again!$"
+	.string "黄瓜香：嗨哟！你好！你终于赢得了\n"
+	.string "我对你的考验！\p"
+	.string "你来得还真慢，让我好担心啊！我很\n"
+	.string "期待能再见到你喔！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SoAreYouReady:
-	.string "… … …\n"
-	.string "So, are you ready?$"
+	.string "…… ……那么，你准备好了吗？$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WontAllowHalfheartedEffort:
-	.string "I won't allow a halfhearted effort!\n"
-	.string "Be ready for a thrashing!$"
+	.string "我决不允许三心二意！准备接招吧！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_LetsGetThisStarted:
-	.string "Come on, REFEREE!\n"
-	.string "Let's get this started!$"
+	.string "来吧，裁判！让我们开始吧！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaBlownAway:
-	.string "GRETA: Gaaah! Blown away!\n"
-	.string "Let's see your FRONTIER PASS!$"
+	.string "黄瓜香：嘎啊！被击倒了！把你的开\n"
+	.string "拓通行证给我吧！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GutsSymbolTookGoldenShine:
-	.string "The Guts Symbol took on\n"
-	.string "a golden shine!$"
+	.string "毅力象征闪耀着金色的光芒！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_IfWeBattleAgainWontLose:
-	.string "Arrrgh!\n"
-	.string "This is so infuriating!\p"
-	.string "If we ever battle again, I won't lose!\n"
-	.string "Don't you forget it! Bye-bye!$"
+	.string "啊！好气啊！真不甘心！\p"
+	.string "如果下次再交手，到时候我绝对不会\n"
+	.string "输的！你要记好了！再见！$"

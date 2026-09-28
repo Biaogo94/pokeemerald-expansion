@@ -269,167 +269,138 @@ SlateportCity_OceanicMuseum_2F_EventScript_MuseumPatron3::
 	end
 
 SlateportCity_OceanicMuseum_2F_Text_ThankYouForTheParts:
-	.string "Yes? If you're looking for STERN,\n"
-	.string "that would be me.\p"
-	.string "Ah! Those must be the parts I ordered\n"
-	.string "from MR. STONE of DEVON.\p"
-	.string "Thank you! That's great!\n"
-	.string "We can prepare for our expedition now.$"
+	.string "嗯，你找楠木吗？我就是。\p"
+	.string "啊！那就是我向得文的兹伏奇社长订\n"
+	.string "购的部件吧？\p"
+	.string "非常感谢！这样我们就能开始为勘探\n"
+	.string "做准备了。$"
 
 SlateportCity_OceanicMuseum_2F_Text_WellTakeThoseParts:
-	.string "Hehehe, hold it!\n"
-	.string "We'll take those parts!$"
+	.string "嘿嘿嘿，别急！那些部件归我们了！$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternWhoAreYou:
-	.string "CAPT. STERN: Wh-what?\n"
-	.string "Who are you people?$"
+	.string "楠木馆长：什——什么？你们是什么\n"
+	.string "人？$"
 
 SlateportCity_OceanicMuseum_2F_Text_WereTeamAqua:
-	.string "We're TEAM AQUA!\p"
-	.string "Our BOSS wants those parts!\n"
-	.string "Shut your yap and fork them over!$"
+	.string "我们是海洋队！\p"
+	.string "我们老大想要那些部件！闭上嘴，乖\n"
+	.string "乖把东西交出来！$"
 
 SlateportCity_OceanicMuseum_2F_Text_Grunt1Defeat:
-	.string "Awaaaah!\n"
-	.string "A kid beat me!$"
+	.string "啊啊！竟然被小孩打败了！$"
 
 SlateportCity_OceanicMuseum_2F_Text_BossGoingToBeFurious:
-	.string "Oh, man, what a disaster…\n"
-	.string "The BOSS is going to be furious…$"
+	.string "完了，惨了……老大会大发雷霆的…\n"
+	.string "…$"
 
 SlateportCity_OceanicMuseum_2F_Text_LetMeTakeCareOfThis:
-	.string "Humph, sniveling wimp!\n"
-	.string "Let me take care of this!$"
+	.string "哼，没用的家伙！放着我来！$"
 
 SlateportCity_OceanicMuseum_2F_Text_Grunt2Defeat:
-	.string "What?!\n"
-	.string "I lost, too!$"
+	.string "什么？！连我也输了！$"
 
 SlateportCity_OceanicMuseum_2F_Text_MeddlingKid:
-	.string "Now what? If we don't get the parts,\n"
-	.string "we're in for it!\p"
-	.string "Arrgh, I didn't count on being meddled\n"
-	.string "with by some meddling kid!$"
+	.string "这下怎么办？要是不拿到部件，我们\n"
+	.string "可就麻烦大了！\p"
+	.string "可恶，想不到会栽在多管闲事的小鬼\n"
+	.string "手里！$"
 
 SlateportCity_OceanicMuseum_2F_Text_CameToSeeWhatsTakingSoLong:
-	.string "I came to see what was taking so\n"
-	.string "long to snatch some parts, and you\l"
-	.string "simps are held up by a mere child?$"
+	.string "我来看看你们抢个部件怎么能磨蹭那\n"
+	.string "么久——结果你们几个废物被个小鬼\l"
+	.string "头给拦住了？$"
 
 SlateportCity_OceanicMuseum_2F_Text_ArchieWarning:
-	.string "We are TEAM AQUA,\n"
-	.string "and we love the sea!\p"
-	.string "And I am TEAM AQUA's leader,\n"
-	.string "ARCHIE!\p"
-	.string "What makes you interfere with us?\p"
-	.string "…No! You can't be!\n"
-	.string "You're not one of TEAM MAGMA?\p"
-	.string "Wait, that can't be right.\n"
-	.string "You're not dressed for the part.\p"
-	.string "… … … … … …\n"
-	.string "… … … … … …\p"
-	.string "POKéMON, people… All life depends on\n"
-	.string "the sea.\p"
-	.string "So, TEAM AQUA is dedicated to\n"
-	.string "the expansion of the sea.\p"
-	.string "Don't you agree? What we are doing\n"
-	.string "is a magnificent undertaking.\p"
-	.string "Ah, fine…\n"
-	.string "You're still too young to understand\l"
-	.string "our noble objective.\p"
-	.string "But, I warn you, don't even consider\n"
-	.string "interfering with our plans again.\p"
-	.string "The consequences will cost you\n"
-	.string "dearly!\p"
-	.string "And don't you forget it!$"
+	.string "我们是热爱大海的海洋队！\p"
+	.string "而我就是海洋队的首领水梧桐！\p"
+	.string "你为什么妨碍我们？\p"
+	.string "……难，难道说！你是熔岩队的人？\p"
+	.string "等等，不对，你穿得和他们不一样。\p"
+	.string "…… …… ……\n"
+	.string "…… …… ……\p"
+	.string "宝可梦、人类……所有的生命都源自\n"
+	.string "海洋，\p"
+	.string "因此我们海洋队致力于扩张海洋。\p"
+	.string "你不觉得吗？我们在进行着一项崇高\n"
+	.string "的事业。\p"
+	.string "算了……以你这个年纪还没法理解我\n"
+	.string "们的伟大理想。\p"
+	.string "但我警告你，如果敢再妨碍我们的计\n"
+	.string "划，\p"
+	.string "我决不会轻易放过你！\p"
+	.string "给我好好记住！$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternThankYouForSavingUs:
-	.string "CAPT. STERN: You're…\n"
-	.string "Ah, okay, you're {PLAYER}{KUN}…\p"
-	.string "Anyway, that was a tense situation!\n"
-	.string "Thank you for saving us!\p"
-	.string "Oh, yes, I almost forgot that you\n"
-	.string "even brought the parts from DEVON!$"
+	.string "楠木馆长：你是……啊，对了，你是\n"
+	.string "{PLAYER}{KUN}……\p"
+	.string "刚才真是千钧一发！多亏你救了我！\p"
+	.string "噢，对了，我差点忘了你还带着得文\n"
+	.string "送来的零件！$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternIveGotToGo:
-	.string "CAPT. STERN: Whoops!\n"
-	.string "There's no time to lose!\p"
-	.string "We have to set out on our ocean-floor\n"
-	.string "expedition really soon.\p"
-	.string "Thanks again, but now I've got\n"
-	.string "to go!\p"
-	.string "Feel free to wander around and check\n"
-	.string "out our facilities, though.$"
+	.string "楠木馆长：糟糕！没时间耽搁了！\p"
+	.string "我们得赶快开始我们的海底勘探了。\p"
+	.string "再次谢谢你，不过我得先失陪了！\p"
+	.string "随便参观一下我们的展品吧。$"
 
 SlateportCity_OceanicMuseum_2F_Text_RemindsMeOfAbandonedShip:
-	.string "I saw a model of a ship here.\p"
-	.string "It reminded me of the ABANDONED SHIP\n"
-	.string "near DEWFORD TOWN…$"
+	.string "我在这儿看到了一艘模型船，\p"
+	.string "这让我想起了武斗镇附近的那艘被遗\n"
+	.string "弃的海船……$"
 
 SlateportCity_OceanicMuseum_2F_Text_DontRunInMuseum:
-	.string "Don't you dare run around inside\n"
-	.string "the MUSEUM!$"
+	.string "别在博物馆里面到处乱跑！$"
 
 SlateportCity_OceanicMuseum_2F_Text_WantToRideSubmarine:
-	.string "Wow, the submarine's awesome!\n"
-	.string "I want to go for a ride!$"
+	.string "哇，潜水艇真棒！我也想进里面看一\n"
+	.string "看！$"
 
 SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample1:
-	.string "“WATER QUALITY SAMPLE 1,” the\n"
-	.string "label says.\p"
-	.string "The sea is all connected, but the\n"
-	.string "water seems to differ by region.$"
+	.string "牌子上写着“水质样本 1”。\p"
+	.string "海洋是连成一片的，但不同地域的海\n"
+	.string "水并不相同。$"
 
 SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample2:
-	.string "“WATER QUALITY SAMPLE 2,” the\n"
-	.string "label says.\p"
-	.string "Does the saltiness of seawater differ\n"
-	.string "by region, too?$"
+	.string "牌子上写着“水质样本 2”。\p"
+	.string "不同地域的海水含盐量也不同吗？$"
 
 SlateportCity_OceanicMuseum_2F_Text_PressureExperiment:
-	.string "A rubber ball is expanding and\n"
-	.string "shrinking.\p"
-	.string "“In the sea, the weight of water itself\n"
-	.string "exerts pressure.\p"
-	.string "“In shallow water, the pressure is not\n"
-	.string "very heavy.\p"
-	.string "“However, in extremely deep water,\n"
-	.string "the pressure can reach even tens of\l"
-	.string "thousands of tons on a small area.”$"
+	.string "一个橡皮球不断地收缩，扩张。\p"
+	.string "“在大海中，水由于自身重量形成内\n"
+	.string "部的压力。\p"
+	.string "浅水中这一压力并不明显，\p"
+	.string "但在非常深的水里，一小片地方的水\n"
+	.string "压甚至可以达到上万吨。”$"
 
 SlateportCity_OceanicMuseum_2F_Text_HoennModel:
-	.string "“MODEL OF HOENN REGION”\p"
-	.string "It's a miniature diorama of the\n"
-	.string "HOENN region.\p"
-	.string "Where is LITTLEROOT TOWN on this?$"
+	.string "“丰缘地区模型”\p"
+	.string "是丰缘地区的微缩景观。\p"
+	.string "未白镇在哪儿呢？$"
 
 SlateportCity_OceanicMuseum_2F_Text_DeepSeawaterDisplay:
-	.string "It's a display on the flow of seawater.\p"
-	.string "“Near the bottom of the sea, water\n"
-	.string "flows due to differences in such\l"
-	.string "factors as temperature and salinity.”$"
+	.string "海水循环的演示。\p"
+	.string "“在海地附近，海水由于温度和含盐\n"
+	.string "量的不同，形成了环流。”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SurfaceSeawaterDisplay:
-	.string "It's a display on the flow of seawater.\p"
-	.string "“Toward the surface, seawater flows\n"
-	.string "as currents driven by the winds.”$"
+	.string "海水循环的演示。\p"
+	.string "“在洋面上，海水被风吹动，形成洋\n"
+	.string "流。”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SSTidalReplica:
-	.string "“THE FERRY S.S. TIDAL\p"
-	.string "“A scale replica of the ship under\n"
-	.string "construction at STERN'S SHIPYARD.”$"
+	.string "“正在楠木造船厂建造的\p"
+	.string "破浪号渡轮的等比例模型。”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SubmarineReplica:
-	.string "“SUBMARINE EXPLORER 1\p"
-	.string "“A replica of the high-performance\n"
-	.string "ocean floor exploration submarine.”$"
+	.string "“潜艇海渊1号\p"
+	.string "洋底勘探用高级潜水艇的模型。”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SumbersibleReplica:
-	.string "“SUBMERSIBLE POD\p"
-	.string "“A replica of a compact, unmanned\n"
-	.string "pod for seafloor exploration.”$"
+	.string "“潜水者\p"
+	.string "海底勘探用的坚固的无人探测器的模\n"
+	.string "型。”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SSAnneReplica:
-	.string "“S.S. ANNE\p"
-	.string "“A replica of the luxury liner that\n"
-	.string "circles the globe.”$"
+	.string "“环游世界的\p"
+	.string "豪华定期船圣特安努号的模型。”$"

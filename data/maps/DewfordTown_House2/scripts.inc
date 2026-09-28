@@ -27,31 +27,26 @@ DewfordTown_House2_EventScript_Boy::
 	end
 
 DewfordTown_House2_Text_WantYouToHaveSilkScarf:
-	.string "Gorge your eyes on this!\p"
-	.string "It's a SILK SCARF. It's right at the\n"
-	.string "cutting edge of fashion, yeah!\p"
-	.string "Oh, I can see your eyes twinkling!\n"
-	.string "You appreciate my dazzling style!\p"
-	.string "Oh, you're a delight!\n"
-	.string "Here you go. I want you to have it!$"
+	.string "来一饱眼福吧！\p"
+	.string "这是丝绸围巾，是正流行的款式！\p"
+	.string "啊，你的眼睛兴奋地发光了！你欣赏\n"
+	.string "我这眩目的款式！\p"
+	.string "啊，真高兴！给你吧，送给你了！$"
 
 DewfordTown_House2_Text_NoRoom:
-	.string "Oh, you don't have room?\p"
-	.string "Now, listen tight, this SCARF is a must-\n"
-	.string "have! Why, I would sell all my items\l"
-	.string "in order to get it!$"
+	.string "呀，你没地方装了？\p"
+	.string "那，听好，这个围巾是你的必备品！\n"
+	.string "哎，我要是你，我会卖掉我的一切来\l"
+	.string "得到它！$"
 
 DewfordTown_House2_Text_ExplainSilkScarf:
-	.string "The SILK SCARF raises the power of\n"
-	.string "NORMAL-type moves.\p"
-	.string "It's a marvelous SCARF that will go\n"
-	.string "with almost all POKéMON!$"
+	.string "丝绸围巾能提升一般属性招式的威力\n"
+	.string "，\p"
+	.string "是对几乎所有宝可梦都有极大用处的\n"
+	.string "头巾！$"
 
 DewfordTown_House2_Text_BrawlySoCool:
-	.string "Wow, you bothered to cross the sea\n"
-	.string "to visit DEWFORD?\p"
-	.string "Did you maybe come here because you\n"
-	.string "heard about BRAWLY?\p"
-	.string "He's so cool…\n"
-	.string "Everyone idolizes him.$"
+	.string "哇，你是渡海来到武斗镇的吗？\p"
+	.string "是因为听说藤树而来的吗？\p"
+	.string "他真的很棒……大家都很崇敬他。$"
 

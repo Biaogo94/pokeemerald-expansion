@@ -45,75 +45,70 @@ SaffronCity_CopycatsHouse_2F_EventScript_Game::
 	end
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
-	.string "{PLAYER}: Hi!\n"
-	.string "Do you like POKéMON?\p"
-	.string "{PLAYER}: Uh, no, I just asked you.\p"
-	.string "{PLAYER}: Huh?\n"
-	.string "You're strange!\p"
-	.string "COPYCAT: Hmm? Quit mimicking?\n"
-	.string "But, that's my favorite hobby!$"
+	.string "{PLAYER}：嗨！你喜欢宝可\n"
+	.string "梦吗？\p"
+	.string "{PLAYER}：喔，不，我只是\n"
+	.string "问问你罢了。\p"
+	.string "{PLAYER}：嗯？你确实很厉\n"
+	.string "害！\p"
+	.string "模仿少女：嗯？快速模仿？对，那是\n"
+	.string "我的爱好！$"
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
-	.string "{PLAYER}: Hi.\n"
-	.string "You must like POKéMON.\p"
-	.string "{PLAYER}: No, not me.\n"
-	.string "I asked you.\p"
-	.string "{PLAYER}: Pardon?\n"
-	.string "You're weird!\l"
-	.string " \l"
-	.string "COPYCAT: Hmm? Quit mimicking?\l"
-	.string "But that's my favorite hobby!$"
+	.string "{PLAYER}：嗨。你一定热爱\n"
+	.string "着宝可梦\p"
+	.string "{PLAYER}：不，不是问我。\n"
+	.string "我是在问你。\p"
+	.string "{PLAYER}：再说一遍？你真\n"
+	.string "古怪！模仿少女：嗯？快速模仿？那\l"
+	.string "是我的最爱！$"
 
 Text_MimicTeach::
-	.string "Oh wow!\n"
-	.string "A POKé DOLL!\p"
-	.string "For me?\n"
-	.string "Thank you!\p"
-	.string "You know what?\n"
-	.string "I can teach the move MIMIC.$"
+	.string "哇塞！皮皮玩偶\p"
+	.string "给我的？谢谢你！\p"
+	.string "你想要什么？我能教给你模仿这个技\n"
+	.string "能。$"
 
 Text_MimicDeclined::
-	.string "Don't you like MIMIC?$"
+	.string "你不喜欢模仿？$"
 
 Text_MimicWhichMon::
-	.string "I really love MIMIC!\n"
-	.string "Who's going to learn it?$"
+	.string "我真的很喜欢模仿！谁想要来学会这\n"
+	.string "个技能？$"
 
 Text_MimicTaughtMale::
-	.string "{PLAYER}: Hi!\n"
-	.string "Thanks for earlier!\p"
-	.string "{PLAYER}: Pardon?\p"
-	.string "{PLAYER}: Is it that fun to mimic my\n"
-	.string "every move?\p"
-	.string "COPYCAT: You bet!\n"
-	.string "It's a scream!$"
+	.string "{PLAYER}：嗨！首先要谢谢\n"
+	.string "你！\p"
+	.string "{PLAYER}：再说一遍？\p"
+	.string "{PLAYER}：模仿我的动作很\n"
+	.string "有意思吗？\p"
+	.string "模仿少女：你敢打赌的吧！那真是太\n"
+	.string "有意思了！$"
 
 Text_MimicTaughtFemale::
-	.string "{PLAYER}: Hi!\n"
-	.string "Thanks for what you did for us.\p"
-	.string "{PLAYER}: Pardon?\p"
-	.string "{PLAYER}: Is it really that fun to\n"
-	.string "copy what I say and do?\p"
-	.string "COPYCAT: You bet!\n"
-	.string "It's a scream!$"
+	.string "{PLAYER}：嗨谢谢你为我做\n"
+	.string "的一切！\p"
+	.string "{PLAYER}：再说一遍？\p"
+	.string "{PLAYER}：学我说话很有意\n"
+	.string "思吗？\p"
+	.string "模仿达人：你敢打赌吗？那真是太有\n"
+	.string "意思了！$"
 
 SaffronCity_CopycatsHouse_2F_Text_Doduo::
-	.string "DODUO: Giiih!\p"
-	.string "PRETTY MIRROR LOOK AT ME,\n"
-	.string "SEE HOW PRETTY I CAN BE?$"
+	.string "嘟嘟：嘻嘻！\p"
+	.string "魔镜魔镜告诉我，谁是这个世界上最\n"
+	.string "漂亮的人？$"
 
 SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll::
-	.string "This is a rare POKéMON!\n"
-	.string "Huh? It's only a doll!$"
+	.string "这真是少见的宝可梦啊！嗯？这只是\n"
+	.string "个玩偶！$"
 
 SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucket::
-	.string "A game with MARIO wearing a bucket\n"
-	.string "on his head!$"
+	.string "游戏里马力欧正在用头顶蘑菇！$"
 
 SaffronCity_CopycatsHouse_2F_Text_MySecrets::
-	.string "…\p"
-	.string "My Secrets!\p"
-	.string "Skill: Mimicry!\n"
-	.string "Hobby: Collecting dolls!\l"
-	.string "Favorite POKéMON: CLEFAIRY!$"
+	.string "……\p"
+	.string "我的秘密！\p"
+	.string "我的特长：模仿！我的爱好：收集玩\n"
+	.string "偶！我最喜欢的宝可梦：皮皮！$"
 

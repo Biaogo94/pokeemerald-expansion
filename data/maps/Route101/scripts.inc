@@ -258,42 +258,39 @@ Route101_Movement_BirchApproachPlayer:
 	step_end
 
 Route101_Text_HelpMe:
-	.string "H-help me!$"
+	.string "救、救命——！！$"
 
 Route101_Text_PleaseHelp:
-	.string "Hello! You over there!\n"
-	.string "Please! Help!\p"
-	.string "In my BAG!\n"
-	.string "There's a POKé BALL!$"
+	.string "喂！那边的你！拜托！救救我！\p"
+	.string "在那边的包里面里面有精灵球！$"
 
 Route101_Text_DontLeaveMe:
-	.string "Wh-Where are you going?!\n"
-	.string "Don't leave me like this!$"
+	.string "你、你要去哪儿？！别丢下我啊——\n"
+	.string "！$"
 
 Route101_Text_YouSavedMe:
-	.string "PROF. BIRCH: Whew…\p"
-	.string "I was in the tall grass studying wild\n"
-	.string "POKéMON when I was jumped.\p"
-	.string "You saved me.\n"
-	.string "Thanks a lot!\p"
-	.string "Oh?\p"
-	.string "Hi, you're {PLAYER}{KUN}!\p"
-	.string "This is not the place to chat, so come\n"
-	.string "by my POKéMON LAB later, okay?$"
+	.string "小田卷博士：哈啊哈啊……\p"
+	.string "我刚想在草丛做调查，就被野生的宝\n"
+	.string "可梦袭击了……\p"
+	.string "总之得救了，谢谢你！\p"
+	.string "咦？\p"
+	.string "你不是{PLAYER}{KUN}\n"
+	.string "吗？\p"
+	.string "这儿不是聊天的地方，跟我来宝可梦\n"
+	.string "研究所吧？$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter:
-	.string "If POKéMON get tired, take them to\n"
-	.string "a POKéMON CENTER.\p"
-	.string "There's a POKéMON CENTER in OLDALE\n"
-	.string "TOWN right close by.$"
+	.string "宝可梦累了的话，就要带它们去宝可\n"
+	.string "梦中心。\p"
+	.string "附近的古玫镇里就有个宝可梦中心。$"
 
 Route101_Text_WildPokemonInTallGrass:
-	.string "Wild POKéMON will jump out at you in\n"
-	.string "tall grass.\p"
-	.string "If you want to catch POKéMON, you have\n"
-	.string "to go into the tall grass and search.$"
+	.string "在草丛中行走时野生宝可梦有可能跳\n"
+	.string "出来袭击。\p"
+	.string "如果想捕捉宝可梦的话，就得去草丛\n"
+	.string "里寻找。$"
 
 Route101_Text_RouteSign:
-	.string "ROUTE 101\n"
-	.string "{UP_ARROW} OLDALE TOWN$"
+	.string "101号道路{UP_ARROW}\n"
+	.string "古玫镇$"
 

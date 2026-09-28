@@ -1,28 +1,23 @@
 gText_WouldYouLikeToRestYourPkmn::
-	.string "Hello, and welcome to\n"
-	.string "the POKéMON CENTER.\p"
-	.string "We restore your tired POKéMON\n"
-	.string "to full health.\p"
-	.string "Would you like to rest your POKéMON?$"
+	.string "辛苦了！这里是宝可梦中心。\p"
+	.string "在这里可以回复宝可梦的体力。\p"
+	.string "要让您的宝可梦休息一下吗？$"
 
 gText_IllTakeYourPkmn::
-	.string "Okay, I'll take your POKéMON\n"
-	.string "for a few seconds.$"
+	.string "那么，就交给我吧！$"
 
 gText_RestoredPkmnToFullHealth::
-	.string "Thank you for waiting.\p"
-	.string "We've restored your POKéMON\n"
-	.string "to full health.$"
+	.string "久等了！\p"
+	.string "交给我的宝可梦们全都变得精力充沛\n"
+	.string "了哦！$"
 
 gText_WeHopeToSeeYouAgain::
 	.string "欢迎下次再来！$"
 
 gText_WelcomeCutShort::
-	.string "Hello, and welcome to\n"
-	.string "the POKéMON CENTER.\p"
-	.string "We restore your tired POKéMON\n"
-	.string "to full health.\p"
-	.string "Would you like to…$"
+	.string "辛苦了！这里是宝可梦中心。\p"
+	.string "在这里，可以回复宝可梦的体力。\p"
+	.string "要让您的宝可梦……$"
 
 gText_NoticesGoldCard::
 	.string "Th-that card…\n"
@@ -41,14 +36,13 @@ gText_YouWantTheUsual::
 	.string "You want the usual, am I right?$"
 
 gText_IllTakeYourPkmn2::
-	.string "Okay, I'll take your POKéMON\n"
-	.string "for a few seconds.$"
+	.string "那就交给我吧！$"
 
 gText_ThankYouForWaiting::
-	.string "Thank you for waiting.$"
+	.string "让您久等了！$"
 
 gText_WeHopeToSeeYouAgain2::
-	.string "欢迎下次再来！$"
+	.string "欢迎您随时再来！$"
 
 gText_PkmnCenterChallenge_NoVisitsLeft:: @ tx_difficulty_challenge
     .string "Sorry, but you are playing with\n"

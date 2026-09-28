@@ -47,12 +47,12 @@ NewMauville_Entrance_EventScript_DontOpenDoor::
 	end
 
 NewMauville_Entrance_Text_DoorIsLocked:
-	.string "The door is locked.$"
+	.string "门锁住了。$"
 
 NewMauville_Entrance_Text_UseBasementKey:
-	.string "Use the BASEMENT KEY?$"
+	.string "使用地下钥匙吗？$"
 
 NewMauville_Entrance_Text_UsedBasementKey:
-	.string "{PLAYER} used the BASEMENT KEY.\p"
-	.string "The door opened!$"
+	.string "{PLAYER}使用了地下钥匙。\p"
+	.string "门打开了！$"
 

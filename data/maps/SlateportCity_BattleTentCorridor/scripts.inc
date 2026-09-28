@@ -154,122 +154,112 @@ SlateportCity_BattleTentCorridor_Movement_AttendantExit:
 @ Leftover text from when this was a Contest Hall in R/S
 @ Unused
 SlateportCity_ContestHall_Text_AdviceForContests:
-	.string "Want a tasty little bit of advice\n"
-	.string "for CONTESTS?\p"
-	.string "Using a certain move after another\n"
-	.string "certain kind of move sometimes gets\l"
-	.string "you extra attention.\p"
-	.string "If you know what you're doing,\n"
-	.string "you can score big in appeal.\p"
-	.string "Of course, your opponents might try\n"
-	.string "disrupting your POKéMON's showing.$"
+	.string "需要一点点关于华丽大赛的建议吗？\p"
+	.string "在某些特定种类的招式后使用特定招\n"
+	.string "式可以给你带来额外的注视度。\p"
+	.string "如果你知道该怎么做，你可以获得更\n"
+	.string "高的吸引力。\p"
+	.string "当然，你的对手会试着干扰你宝可梦\n"
+	.string "的表演。$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MyPapaIsContestJudge:
-	.string "My papa, he's a CONTEST JUDGE.\p"
-	.string "I wonder what I should be when I\n"
-	.string "grow up, a JUDGE or a GYM LEADER?$"
+	.string "我的爸爸，是华丽大赛裁判\p"
+	.string "我不知道长大后做什么裁判还是道馆\n"
+	.string "馆主呢？$"
 
 @ Unused
 SlateportCity_ContestHall_Text_ImLikeMajorlyCheesed:
-	.string "Hey, man, I'm like majorly cheesed,\n"
-	.string "you know. Like, you know, I just\l"
-	.string "wanted to know why my POKéMON\l"
-	.string "never won, you know, like, hey?\p"
-	.string "So, like, I gave the JUDGE my two\n"
-	.string "cents, you know, they're free.\p"
-	.string "And he wouldn't hear me out, like, hey!\n"
-	.string "So, like, total bummer, man!\p"
-	.string "Hey, like, you! Zip it, you know?\n"
-	.string "Just, you know, take this!$"
+	.string "那个，兄弟，你能理解偶有多毛么！\n"
+	.string "你知道么！那个，我就想不通了，我\l"
+	.string "想不通为啥偶的宝可梦\p"
+	.string "从来没赢过？你知道么？！所以，那\n"
+	.string "个，偶向裁判抱怨，\p"
+	.string "但他们根本不鸟我，真那啥的。\p"
+	.string "所以那个，说你呢！闭嘴行不？那个\n"
+	.string "，偶说，这个拿去！$"
 
 @ Unused
 SlateportCity_ContestHall_Text_ExplainTorment:
-	.string "That's, like, TM41, you know?\n"
-	.string "Hey, it's TORMENT, you hearing me?\p"
-	.string "Like, it won't let the other guy\n"
-	.string "use the same move twice in a row, see?\p"
-	.string "Hey, now, you listen here, like,\n"
-	.string "I'm not laying a torment on you!$"
+	.string "拿着，TM41，嘿，就是无理取闹\n"
+	.string "，你在听我说吗？\p"
+	.string "就像是，它不允许同一场中使用2次\n"
+	.string "同样的的招式，了解？\p"
+	.string "嘿，现在，听好，就像是希望我并没\n"
+	.string "有给你带来麻烦！$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MCStepUpTakePartInContest:
-	.string "MC: Oh, my, my!\n"
-	.string "Now isn't that a dandy of a POKéMON?\p"
-	.string "Please! Do step right up and take\n"
-	.string "part in our splendid CONTESTS!\p"
-	.string "You'll do well! I'm sure of it!\n"
-	.string "My eyes have never failed me!$"
+	.string "主持人：天啊，天啊！它难道不是宝\n"
+	.string "可梦中的花花公子？\p"
+	.string "请一定快点来参加我们完美的华丽大\n"
+	.string "赛！\p"
+	.string "你会做得很好的！我相信你！我看好\n"
+	.string "你哟！$"
 
 @ Unused
 SlateportCity_ContestHall_Text_JudgeWouldntDoToMissContest:
-	.string "JUDGE: Well, hello there!\n"
-	.string "I see that you're a TRAINER!\p"
-	.string "Then, it just wouldn't do for you\n"
-	.string "to miss a POKéMON CONTEST!\p"
-	.string "Get a CONTEST PASS in VERDANTURF\n"
-	.string "CITY and enter anytime!$"
+	.string "裁判：你好啊！看来你是个训练家！\p"
+	.string "那么，对你来说千万不要错过华丽大\n"
+	.string "赛！\p"
+	.string "获得绿茵镇的华丽大赛通行证并且随\n"
+	.string "时可以再来！$"
 
 @ Unused
 SlateportCity_ContestHall_Text_ItsAppealTime:
-	.string "It's appeal time!\n"
-	.string "What should I lead with?$"
+	.string "吸引力时间！有什么我可以报导的呢\n"
+	.string "？$"
 
 @ Unused
 SlateportCity_ContestHall_Text_DidntPayAttentionToAppeal:
-	.string "They didn't pay much attention to\n"
-	.string "my POKéMON's appeal…\p"
-	.string "Humph, that JUDGE, he doesn't know\n"
-	.string "a good thing when he sees it.$"
+	.string "他们没有太注意我的宝可梦的吸引力\n"
+	.string "……\p"
+	.string "哼，那个裁判，他根本就不懂得欣赏\n"
+	.string "。$"
 
 @ Unused
 SlateportCity_ContestHall_Text_RewardWithSageAdvice:
-	.string "Oh, hi! You must be a serious fan to get\n"
-	.string "this close to the action.\p"
-	.string "I'll reward your enthusiasm with\n"
-	.string "this sage advice.\p"
-	.string "If a move goes over really well,\n"
-	.string "the audience will get excited.\p"
-	.string "The POKéMON that makes its appeal\n"
-	.string "right when everyone's excited…\p"
-	.string "Well, you'd think something good has\n"
-	.string "to happen!$"
+	.string "你好！你一定是追求此项活动的狂热\n"
+	.string "爱好者。\p"
+	.string "为了奖励你的热情给你一条忠告吧。\p"
+	.string "如果一个招式表现的非常好，观众会\n"
+	.string "变得很激动。\p"
+	.string "当观众变得激动时做出这个招式的宝\n"
+	.string "可梦吸引力就会……\p"
+	.string "好了，会发生什么好事你应该可以想\n"
+	.string "象得到吧！$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MoreFreakedOutThanMon:
-	.string "I can't do this! I'm more freaked out\n"
-	.string "than my POKéMON.\p"
-	.string "I'm shivering and my heart is racing!$"
+	.string "我不能这么做！我比我的宝可梦还要\n"
+	.string "紧张。\p"
+	.string "我的心脏跳得很厉害以至于发抖了！$"
 
 @ Unused
 SlateportCity_ContestHall_Text_BattleAndContestAlike:
-	.string "A battle and a CONTEST aren't the\n"
-	.string "same, but they are alike, too.\p"
-	.string "You need to work hard and believe\n"
-	.string "in the POKéMON you've raised.$"
+	.string "虽然对战和华丽大赛并不一样但它们\n"
+	.string "也有相似之处。\p"
+	.string "你需要更努力并且要相信你所培育的\n"
+	.string "宝可梦。$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MonLooksOnTopOfGame:
-	.string "That POKéMON looks like it's on top\n"
-	.string "of its game, huh?\p"
-	.string "A POKéMON that does good in the\n"
-	.string "secondary judging seems to be more\l"
-	.string "relaxed when it's doing appeals.$"
+	.string "那只宝可梦看起来像是比赛中的高手\n"
+	.string "，嗯？\p"
+	.string "宝可梦在评判比赛中做得好的话会比\n"
+	.string "在吸引力比赛中看起来更放松。$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MyMonBetterThanThatLot:
-	.string "Will you look at that sorry sight?\p"
-	.string "Heh, my POKéMON's absolutely better\n"
-	.string "than that lot!$"
+	.string "你看起来怎么那么难过？\p"
+	.string "嘿，我的宝可梦绝对是最棒的！$"
 
 @ Unused
 SlateportCity_ContestHall_Text_GetUrgeToMoveWithMon:
-	.string "Don't you get the urge to move with\n"
-	.string "POKéMON if they're putting on an\l"
-	.string "energetic appeal?$"
+	.string "你是不是一直渴望宝可梦在吸引力比\n"
+	.string "赛中有精神的表演带来的感动呢？$"
 
 @ Unused
 SlateportCity_ContestHall_Text_HyperRankStage:
-	.string "POKéMON CONTESTS\n"
-	.string "HYPER RANK STAGE!$"
+	.string "宝可梦华丽大赛特级会场！$"
 

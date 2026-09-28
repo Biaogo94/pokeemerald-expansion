@@ -386,92 +386,81 @@ ThreeIsland_EventScript_Biker6::
 	end
 
 ThreeIsland_Text_IslandSign::
-	.string "THREE ISLAND\n"
-	.string "Kin Island of Family Bonding$"
+	.string "三之岛大小一同的家庭之岛$"
 
 ThreeIsland_Text_IslandBelongsToUs::
-	.string "Hyahoo!\p"
-	.string "From this day on, this island\n"
-	.string "belongs to us!$"
+	.string "呀呼！\p"
+	.string "从今天起，这个岛就是我们的了！$"
 
 ThreeIsland_Text_GoBackToKanto::
-	.string "We don't need you people bringing\n"
-	.string "your noise and trouble here!\p"
-	.string "We're asking you to go back to\n"
-	.string "KANTO!$"
+	.string "我们不欢迎你们这些制造噪音和麻烦\n"
+	.string "的家伙！\p"
+	.string "滚回你们的关都去！$"
 
 ThreeIsland_Text_BossIsOnHisWay::
-	.string "Hey, go cry somewhere else.\n"
-	.string "Our boss is on his way.\p"
-	.string "When he gets here, we'll give you\n"
-	.string "a k-rad motorbike show you won't\l"
-	.string "soon forget!$"
+	.string "喂，喂，吵死了。我们的老大正在路\n"
+	.string "上。\p"
+	.string "等他到了这里，我们会表演一场让你\n"
+	.string "终身难忘的机车秀！$"
 
 ThreeIsland_Text_GetOffIslandNow::
-	.string "W-what!? Not on your life!\n"
-	.string "Get off the island now!$"
+	.string "什，什么！？想都别想！给我马上滚\n"
+	.string "！$"
 
 ThreeIsland_Text_WhosGonnaMakeMe::
-	.string "Who's gonna make me?$"
+	.string "谁想让我滚？$"
 
 ThreeIsland_Text_AreYouBossGoBackToKanto::
-	.string "Are you the boss?\n"
-	.string "Go back to KANTO right now!$"
+	.string "你就是老大？滚回你的关都去！$"
 
 ThreeIsland_Text_JustGotHerePal::
-	.string "Hah?\p"
-	.string "I just got here, pal.\p"
-	.string "What's with the hostile attitude?\n"
-	.string "It's mighty cold of you!$"
+	.string "啊？\p"
+	.string "我刚刚才到这里，朋友。\p"
+	.string "你们的态度怎么这么恶劣？实在太冷\n"
+	.string "淡了！$"
 
 ThreeIsland_Text_FollowersRaisingHavoc::
-	.string "Your gang of followers have been\n"
-	.string "raising havoc on their bikes.\p"
-	.string "Do you have any idea how much\n"
-	.string "trouble they've caused us on the\l"
-	.string "island?$"
+	.string "你的这群手下骑着车四处胡闹。\p"
+	.string "你能想象他们给岛上的居民带来了多\n"
+	.string "少麻烦吗？$"
 
 ThreeIsland_Text_OughtToBeThankingUs::
-	.string "No, man, I don't get it at all.\p"
-	.string "Look at this place.\n"
-	.string "What do you do for entertainment?\p"
-	.string "You ought to be thanking us for\n"
-	.string "livening up this sleepy village.\p"
-	.string "But hey, if you insist, you can try\n"
-	.string "making us leave.$"
+	.string "我可一点不同意你的说法。\p"
+	.string "你自己看看你这地方。你们有什么娱\n"
+	.string "乐活动啊？\p"
+	.string "你该感谢我们给这个沉闷的村庄带来\n"
+	.string "了活力才对啊。\p"
+	.string "不过，如果你硬要坚持的话，你可以\n"
+	.string "试试赶我们走。$"
 
 ThreeIsland_Text_YouCowardsToughInPack::
-	.string "Grr… You cowards…\n"
-	.string "So tough in a pack…$"
+	.string "呃……你们这些废物……他们组队还\n"
+	.string "真厉害……$"
 
 ThreeIsland_Text_WannaMakeSomethingOfYourStaring::
-	.string "You, what are you staring at?\n"
-	.string "Don't you know it's not polite?\p"
-	.string "You wanna make something of it\n"
-	.string "or what?$"
+	.string "你，干嘛盯着我看？你不知道这不礼\n"
+	.string "貌吗？\p"
+	.string "你想找我们茬儿吗？$"
 
 ThreeIsland_Text_ThatsSmart::
-	.string "That's smart.\n"
-	.string "Keep your nose out of this.$"
+	.string "聪明。别多管闲事。$"
 
 ThreeIsland_Text_Biker1Intro::
-	.string "Heh, I like your guts.\n"
-	.string "You'll be losing money to me, but…$"
+	.string "嘿，我欣赏你的胆量。明知会败给我\n"
+	.string "，还……$"
 
 ThreeIsland_Text_Biker1Defeat::
-	.string "Wha…\n"
-	.string "What is this kid?!$"
+	.string "哇……这孩子是什么来头？！$"
 
 ThreeIsland_Text_Biker1PostBattle::
-	.string "Aww, man…\n"
-	.string "Don't you dare laugh!$"
+	.string "嗷，你……你敢再笑！$"
 
 ThreeIsland_Text_Biker2Intro::
-	.string "Aren't you from KANTO?\n"
-	.string "You should be on our side!$"
+	.string "你不是关都人吗？你应该站我们这边\n"
+	.string "才对！$"
 
 ThreeIsland_Text_Biker2Defeat::
-	.string "Stop fooling around!$"
+	.string "别胡闹了！$"
 
 ThreeIsland_Text_Biker2PostBattle::
 	.string "What's the matter with you,\n"
@@ -479,76 +468,65 @@ ThreeIsland_Text_Biker2PostBattle::
 	.string "Totally uncool, man!$"
 
 ThreeIsland_Text_Biker3Intro::
-	.string "We invited the boss out here,\n"
-	.string "but you had to mess it up!\p"
-	.string "You embarrassed us, man!$"
+	.string "我们把老大请来这里，可竟然全被你\n"
+	.string "搞砸了！\p"
+	.string "你让我们很不爽啊，小子！$"
 
 ThreeIsland_Text_Biker3Defeat::
 	.string "… … …   … … …$"
 
 ThreeIsland_Text_Biker3PostBattle::
-	.string "Boss, I'm telling you, you've gotta\n"
-	.string "do something about this kid!$"
+	.string "老大，你一定要好好教训下这小子！$"
 
 ThreeIsland_Text_PaxtonIntro::
-	.string "I've been watching you, and I'd say\n"
-	.string "you've done enough.\p"
-	.string "What are you, their friend or\n"
-	.string "something?\p"
-	.string "Then I guess you'll be battling me\n"
-	.string "in their place.$"
+	.string "我观察你很久了，你有些过分了哦。\p"
+	.string "你和他们是什么关系？朋友还是别的\n"
+	.string "什么？\p"
+	.string "我猜你是准备好为了他们跟我宣战了\n"
+	.string "。$"
 
 ThreeIsland_Text_PaxtonDefeat::
-	.string "All right, enough!\n"
-	.string "We'll leave like you wanted!\p"
-	.string "We'll be happy to see the last of\n"
-	.string "this boring island!$"
+	.string "好吧！如你们所愿，我们会走的！\p"
+	.string "我们很高兴和这个无趣的岛说再见！$"
 
 ThreeIsland_Text_PaxtonPostBattle::
-	.string "Humph! Yeah, go right on hanging\n"
-	.string "around with these hayseeds!$"
+	.string "哼！好吧，你就继续和这些乡巴佬混\n"
+	.string "一起吧！$"
 
 ThreeIsland_Text_ThankYouOhYourMonGotHurt::
-	.string "Thank you! Those goons were\n"
-	.string "nothing but bad trouble.\p"
-	.string "Oh, look, your POKéMON got hurt\n"
-	.string "on my account.$"
+	.string "谢谢！那些暴徒真是麻烦。\p"
+	.string "噢，看啊，你的宝可梦因为我受伤了\n"
+	.string "。$"
 
 ThreeIsland_Text_GivenFullRestore::
-	.string "{PLAYER} was given\n"
-	.string "a FULL RESTORE.$"
+	.string "{PLAYER}获得了一个全复药\n"
+	.string "。$"
 
 ThreeIsland_Text_OhYourBagIsFull::
-	.string "Oh?\n"
-	.string "Your BAG is full.$"
+	.string "喔？你的背包满了。$"
 
 ThreeIsland_Text_YouveGotImpressiveMons::
-	.string "You've got seriously impressive\n"
-	.string "POKéMON with you.$"
+	.string "你的宝可梦令人印象非常深刻。$"
 
 ThreeIsland_Text_LostelleWentOffTowardsBondBridge::
-	.string "It'd be fantastic if someone as\n"
-	.string "strong as you lived here.\p"
-	.string "I hope you'll at least stay here\n"
-	.string "a while.\p"
-	.string "…I beg your pardon?\n"
-	.string "You're looking for LOSTELLE?\p"
-	.string "LOSTELLE went off towards BOND\n"
-	.string "BRIDGE a while ago.$"
+	.string "如果有个像你这么厉害的人常住在这\n"
+	.string "里可就好了。\p"
+	.string "我希望你至少能多待上一会儿。\p"
+	.string "……你说什么？你在找小迷？\p"
+	.string "小迷不久前朝着索桥的方向去了。$"
 
 ThreeIsland_Text_WouldntWantToSeeBikersHereAgain::
-	.string "THREE ISLAND is actually the most\n"
-	.string "populous of the islands here.\p"
-	.string "Still, it could be less sleepy.\p"
-	.string "But I wouldn't want to see goons\n"
-	.string "like those BIKERS here again.$"
+	.string "三之岛实际上是这里的岛屿中人口最\n"
+	.string "多的一个。\p"
+	.string "当然，可能是有点沉闷。\p"
+	.string "但我不想再看到像那些飙车族一样的\n"
+	.string "笨蛋到这里来了。$"
 
 ThreeIsland_Text_WhenDodouEvolvesGoingToPlayGame::
-	.string "I'm going to train my DODUO in the\n"
-	.string "BERRY FOREST.\p"
-	.string "When it evolves, I'm going to play\n"
-	.string "a game on TWO ISLAND.$"
+	.string "我打算在树果森林训练我的嘟嘟。\p"
+	.string "等它进化后，我打算带它去二之岛参\n"
+	.string "加越野比赛。$"
 
 ThreeIsland_Text_Doduo::
-	.string "DODUO: Gigiih!$"
+	.string "嘟嘟：唧唧！$"
 

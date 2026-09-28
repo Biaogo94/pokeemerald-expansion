@@ -28,28 +28,22 @@ FortreeCity_PokemonCenter_1F_EventScript_Boy::
 	end
 
 FortreeCity_PokemonCenter_1F_Text_GoToSafariZone:
-	.string "Listen, kid, are you working\n"
-	.string "on a POKéDEX?\p"
-	.string "Hmm… Go to the SAFARI ZONE.\n"
-	.string "That's my suggestion.$"
+	.string "孩子，我问你，你在收集宝可梦图鉴\n"
+	.string "吗？\p"
+	.string "唔……那么听我的，到狩猎地带去。$"
 
 FortreeCity_PokemonCenter_1F_Text_RecordCornerIsNeat:
-	.string "Have you done anything at\n"
-	.string "the RECORD CORNER?\p"
-	.string "It's pretty neat. It mixes and matches\n"
-	.string "the records of TRAINERS.\p"
-	.string "I don't know quite how it works,\n"
-	.string "but it's cool. It's exciting, even!$"
+	.string "你去过记录角吗？\p"
+	.string "那里超有意思的，可以混合训练家的\n"
+	.string "记录。\p"
+	.string "虽然搞不懂具体原理，但它很棒，甚\n"
+	.string "至令人吃惊！$"
 
 FortreeCity_PokemonCenter_1F_Text_DoYouKnowAboutPokenav:
-	.string "Oh, wow, you have a POKéNAV!\n"
-	.string "And it's just like mine!\p"
-	.string "Do you know about POKéNAV's\n"
-	.string "MATCH CALL system?\p"
-	.string "Access it, and you can chat with\n"
-	.string "registered TRAINERS anytime.\p"
-	.string "It also shows you which TRAINERS\n"
-	.string "want a rematch with you.\p"
-	.string "It's really nifty! Those DEVON guys\n"
-	.string "sure know what they're doing!$"
+	.string "哇，你有宝可导航！就和我的一样！\p"
+	.string "你知道宝可导航的对战寻呼系统吗？\p"
+	.string "用它能随时跟登记的训练家联系，\p"
+	.string "同时也能显示出哪个训练家想跟你对\n"
+	.string "战。\p"
+	.string "这太方便了！得文的人真的很优秀！$"
 

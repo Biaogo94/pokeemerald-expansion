@@ -63,42 +63,38 @@ VerdanturfTown_FriendshipRatersHouse_EventScript_Pikachu::
 	end
 
 VerdanturfTown_FriendshipRatersHouse_Text_SeeHowMuchPokemonLikesYou:
-	.string "Let me see your POKéMON.\n"
-	.string "I'll check to see how much it likes you.\p"
-	.string "Oh.\n"
-	.string "Your POKéMON…$"
+	.string "让我看看你的宝可梦，我能看出它对\n"
+	.string "你的感情如何。\p"
+	.string "哎，你的宝可梦……$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_AdoresYou:
-	.string "It adores you.\n"
-	.string "It can't possibly love you any more.\l"
-	.string "I even feel happy seeing it.$"
+	.string "它很敬仰你，非常非常喜欢你。看着\n"
+	.string "它，我也很开心。$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_VeryHappy:
-	.string "It seems to be very happy.\n"
-	.string "It obviously likes you a whole lot.$"
+	.string "它看上去很高兴，明显很喜欢你。$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_LikesYouQuiteALot:
-	.string "It likes you quite a lot.\n"
-	.string "It seems to want to be babied a little.$"
+	.string "它挺喜欢你的，看上去还想再被宠一\n"
+	.string "些。$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_GettingUsedToYou:
-	.string "It's getting used to you.\n"
-	.string "It seems to believe in you.$"
+	.string "它开始习惯和你相处了，好像已经开\n"
+	.string "始相信你。$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_NotUsedToYou:
-	.string "It's not very used to you yet.\n"
-	.string "It neither loves nor hates you.$"
+	.string "它还不太习惯和你相处，很难说是喜\n"
+	.string "欢你还是讨厌你。$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_VeryWary:
-	.string "It's very wary.\n"
-	.string "It has scary viciousness in its eyes.\l"
-	.string "It doesn't like you much at all.$"
+	.string "它的警惕心很强，眼神特别吓人。它\n"
+	.string "一点也不喜欢你。$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_DetestsYou:
-	.string "This is a little hard for me to say…\p"
-	.string "Your POKéMON simply detests you.\n"
-	.string "Doesn't that make you uncomfortable?$"
+	.string "有些遗憾……\p"
+	.string "你的宝可梦非常厌恶你。这没让你感\n"
+	.string "到愧疚吗？$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_Pikachu:
-	.string "PIKACHU: Pika pika!$"
+	.string "皮卡丘：皮卡！皮卡！$"
 

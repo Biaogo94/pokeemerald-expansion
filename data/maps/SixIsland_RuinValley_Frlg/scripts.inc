@@ -42,89 +42,77 @@ SixIsland_RuinValley_EventScript_IgnoreDottedHoleDoor::
 	end
 
 SixIsland_RuinValley_Text_CantFigureOutHowToGetInside::
-	.string "I can't figure out how I'm supposed\n"
-	.string "to get inside.$"
+	.string "我弄不明白我是怎样进来的。$"
 
 SixIsland_RuinValley_Text_IFoundThisPlace::
-	.string "Let me tell you, I found this\n"
-	.string "place.\p"
-	.string "Don't look so envious, will you?$"
+	.string "告诉你吧，是我找到了这个地方。\p"
+	.string "别一脸嫉妒地看着我，好吗？$"
 
 SixIsland_RuinValley_Text_CheckDoorMoreThoroughly::
-	.string "The door doesn't budge at all.\n"
-	.string "Check it more thoroughly?$"
+	.string "这扇门动都没动一下。再认真检查一\n"
+	.string "遍吧？$"
 
 SixIsland_RuinValley_Text_LeftDoorAlone::
-	.string "{PLAYER} left the door alone.$"
+	.string "{PLAYER}不管这扇门了。$"
 
 SixIsland_RuinValley_Text_SeveralDotsOnTheDoor::
-	.string "On closer inspection, there are\n"
-	.string "several dots on the door…$"
+	.string "仔细观察，发现门上有几个代码。$"
 
 SixIsland_RuinValley_Text_DoorIsOpen::
-	.string "The door is open.$"
+	.string "门打开了。$"
 
 SixIsland_RuinValley_Text_StanlyIntro::
-	.string "There appear to be many secrets\n"
-	.string "still unsolved in this world.$"
+	.string "在这个世界上显然还有很多秘密是没\n"
+	.string "有解开的。$"
 
 SixIsland_RuinValley_Text_StanlyDefeat::
-	.string "Hmm…$"
+	.string "嗯……$"
 
 SixIsland_RuinValley_Text_StanlyPostBattle::
-	.string "I suggest to you that you, too,\n"
-	.string "give a thought to the secrets and\l"
-	.string "mysteries of our world once a day.$"
+	.string "我建议你在某一天也来思考一下这个\n"
+	.string "世界的未解之谜。$"
 
 SixIsland_RuinValley_Text_FosterIntro::
-	.string "I'm curious, what compelled you to\n"
-	.string "come here?$"
+	.string "我很好奇，是什么驱使你来这儿的？$"
 
 SixIsland_RuinValley_Text_FosterDefeat::
-	.string "It's been so long since I battled,\n"
-	.string "my instincts are off.$"
+	.string "离上次战斗已经过去很久了，我的直\n"
+	.string "觉早没了。$"
 
 SixIsland_RuinValley_Text_FosterPostBattle::
-	.string "There are several ruins on the\n"
-	.string "SEVII ISLANDS.\p"
-	.string "The majority of them date back\n"
-	.string "a long way.$"
+	.string "在七岛有几个遗址\p"
+	.string "大部分都可以追溯至很久很久以前了\n"
+	.string "。$"
 
 SixIsland_RuinValley_Text_LarryIntro::
-	.string "It's been said that there are\n"
-	.string "mysterious stones on this island.\p"
-	.string "I suspect it has something to do\n"
-	.string "with the ruins here.$"
+	.string "据说在这座岛上有一些神秘的石头。\p"
+	.string "我怀疑它们与这些遗址有关$"
 
 SixIsland_RuinValley_Text_LarryDefeat::
-	.string "Oh, interesting.$"
+	.string "噢，太有趣了。$"
 
 SixIsland_RuinValley_Text_LarryPostBattle::
-	.string "Those ruins over there…\p"
-	.string "I haven't had any luck in finding\n"
-	.string "how I can get inside.$"
+	.string "那些遗址……\p"
+	.string "我想我没有这个运气找到方法进去。$"
 
 SixIsland_RuinValley_Text_DarylIntro::
-	.string "A battle with you, so high up!$"
+	.string "和你战斗一场，太兴奋了！$"
 
 SixIsland_RuinValley_Text_DarylDefeat::
-	.string "Oh, the heartbreak of losing so\n"
-	.string "easily to you!$"
+	.string "噢，失败太容易换来心碎的感觉了！$"
 
 SixIsland_RuinValley_Text_DarylPostBattle::
-	.string "Experience the joy of climbing!$"
+	.string "体验攀岩的乐趣！$"
 
 SixIsland_RuinValley_Text_HectorIntro::
-	.string "I'm pretty familiar with the land\n"
-	.string "around these parts.$"
+	.string "在这个地区我对这块陆地实在太熟悉\n"
+	.string "了。$"
 
 SixIsland_RuinValley_Text_HectorDefeat::
-	.string "You don't need to be so pushy.\n"
-	.string "I'll be happy to tell you.$"
+	.string "你不需要这么上进。我很高兴地告诉\n"
+	.string "你。$"
 
 SixIsland_RuinValley_Text_HectorPostBattle::
-	.string "The door to the ruins…\n"
-	.string "It has these strange patterns\l"
-	.string "engraved on the outside.\p"
-	.string "I don't know what they mean,\n"
-	.string "though.$"
+	.string "通往遗址的门……在外面有一些奇怪\n"
+	.string "的花纹刻在上面。\p"
+	.string "不过，我不知道它们代表什么。$"

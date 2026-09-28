@@ -262,106 +262,88 @@ BattleFrontier_BattlePikeThreePathRoom_Movement_HintGiverReturnToPos:
 	step_end
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom1:
-	.string "You are currently in\n"
-	.string "the 1st room…$"
+	.string "您现在在1号房间……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom3:
-	.string "You are currently in\n"
-	.string "the 3rd room…$"
+	.string "您现在在3号房间……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom5:
-	.string "You are currently in\n"
-	.string "the 5th room…$"
+	.string "您现在在5号房间……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom7:
-	.string "You are currently in\n"
-	.string "the 7th room…$"
+	.string "您现在在7号房间……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom9:
-	.string "You are currently in\n"
-	.string "the 9th room…$"
+	.string "您现在在9号房间……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom11:
-	.string "You are currently in\n"
-	.string "the 11th room…$"
+	.string "您现在在11号房间……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom13:
-	.string "You are currently in\n"
-	.string "the 13th room…$"
+	.string "您现在在13号房间……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_ContinueWithChallenge:
-	.string "Will you continue with\n"
-	.string "your challenge?$"
+	.string "您要继续您的挑战吗？$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SaveChallengeAndQuit:
-	.string "Would you like to save your challenge\n"
-	.string "and quit the game for now?$"
+	.string "要写入记录并且暂停吗？$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_RetireFromChallenge:
-	.string "Do you wish to retire from your\n"
-	.string "Battle Choice challenge?$"
+	.string "要结束选择式对战的挑战吗？$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_AwaitingReturnSaveBeforeResume:
-	.string "We've been awaiting your return…\p"
-	.string "Before resuming your Battle Choice\n"
-	.string "challenge, let me save the game…$"
+	.string "我们已经恭候多时……\p"
+	.string "在继续您的选择式对战挑战前，请让\n"
+	.string "我先写入记录……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_PleaseEnjoyChallenge:
-	.string "Please do enjoy your Battle Choice\n"
-	.string "challenge…$"
+	.string "请好好享受您的选择式对战挑战吧…\n"
+	.string "…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SavingYourData:
-	.string "I am saving your data…\n"
-	.string "A little time, please…$"
+	.string "正在写入记录……请稍等……$"
 
 BattleFrontier_BattlePike_Text_PathBlockedNoTurningBack:
-	.string "The path is blocked!\n"
-	.string "And there is no turning back…$"
+	.string "道路被阻断了！没有退路了……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_FindingItDifficultToChoose:
-	.string "I beg your pardon, but…\p"
-	.string "Are you perhaps finding it difficult\n"
-	.string "to choose your path?$"
+	.string "冒昧打扰，但……\p"
+	.string "您是否觉得有些难以选择道路？$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_ApologizeForImpertinence:
-	.string "I see…\n"
-	.string "I apologize for my impertinence…$"
+	.string "原来如此……抱歉失礼了……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutRightPath:
-	.string "Ah, let me see… There is something\n"
-	.string "about the path on the right…$"
+	.string "哦，让我看看……有一些关于右边道\n"
+	.string "路的事……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutCenterPath:
-	.string "Ah, let me see… There is something\n"
-	.string "about the path in the center…$"
+	.string "哦，让我看看……有一些关于中间道\n"
+	.string "路的事……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutLeftPath:
-	.string "Ah, let me see… There is something\n"
-	.string "about the path on the left…$"
+	.string "哦，让我看看……有一些关于左边道\n"
+	.string "路的事……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_AromaOfPokemon:
-	.string "It seems to have the distinct aroma\n"
-	.string "of POKéMON wafting around it…$"
+	.string "似乎有宝可梦在里面的感觉……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_PresenceOfPeople:
-	.string "Is it… A TRAINER?\n"
-	.string "I sense the presence of people…$"
+	.string "是……训练家吗？感觉到好像有人在\n"
+	.string "里面……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_HeardWhispering:
-	.string "I seem to have heard something…\n"
-	.string "It may have been whispering…$"
+	.string "好像听得到轻声细语般的声音……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_WaveOfNostaliga:
-	.string "For some odd reason, I felt a wave\n"
-	.string "of nostalgia coming from it…$"
+	.string "不知道为什么，有股熟悉的氛围……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_TerrifyingEvent:
-	.string "I am sorry to say…\p"
-	.string "A terrifying event, yes, a horrible one,\n"
-	.string "is about to befall you…\p"
-	.string "I urge you to pay the utmost care\n"
-	.string "and prepare for the worst…$"
+	.string "我很抱歉地说……\p"
+	.string "一件可怕的事，没错，一件恐怖的事\n"
+	.string "，将要降临到您头上……\p"
+	.string "我劝您要万分小心做好最坏的打算。$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_DreadfulPresence:
-	.string "From every path I sense a dreadful\n"
-	.string "presence…$"
+	.string "无论哪道门后都有一股很可怕的感觉\n"
+	.string "……$"

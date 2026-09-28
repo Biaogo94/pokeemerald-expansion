@@ -285,38 +285,36 @@ CinnabarIsland_PokemonLab_ExperimentRoom_EventScript_CheckRevivedDome::
 	return
 
 Text_MetronomeTeach::
-	.string "Tch-tch-tch!\n"
-	.string "I'll teach you a nifty move.\p"
-	.string "Teach it to a POKéMON, and watch\n"
-	.string "the fun unfold!\p"
-	.string "It's a move called METRONOME.\n"
-	.string "Does it strike your fancy?$"
+	.string "喔嚯嚯嚯！我想要教你一个有趣的技\n"
+	.string "能！\p"
+	.string "把它教给宝可梦，然后开心地看着它\n"
+	.string "用出来的那一刻！\p"
+	.string "这个技能的大名叫做挥指。你心动了\n"
+	.string "吗？$"
 
 Text_MetronomeDeclined::
-	.string "I tell you, it's a lot of fun!$"
+	.string "我告诉你，真的很有趣！$"
 
 Text_MetronomeWhichMon::
-	.string "Okay!\n"
-	.string "Which POKéMON should I teach?$"
+	.string "很好！哪只宝可梦想要学会这个技能\n"
+	.string "？$"
 
 Text_MetronomeTaught::
-	.string "Tch-tch-tch!\n"
-	.string "That's the sound of a METRONOME.\p"
-	.string "It tweaks your POKéMON's brain into\n"
-	.string "using moves it doesn't even know.$"
+	.string "喔嚯嚯嚯！我来告诉你挥指的原理吧\n"
+	.string "！\p"
+	.string "它能刺激宝可梦的大脑来用出它并不\n"
+	.string "会的技能！$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HaveYouAFossilForMe::
-	.string "Hiya!\p"
-	.string "I am important doctor.\n"
-	.string "Yes, very much so, indeed.\p"
-	.string "Here, I study rare POKéMON fossils.\n"
-	.string "All the time, I study.\p"
-	.string "You!\n"
-	.string "Have you a fossil for me?$"
+	.string "嘿！\p"
+	.string "我是一个十二分重要的研究员。没错\n"
+	.string "，十二分的重要。\p"
+	.string "看，我在研究宝可梦的化石。每时每\n"
+	.string "刻，我都在进行研究。\p"
+	.string "你！有化石带给我吗？$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoIsTooBad::
-	.string "No!\n"
-	.string "Is too bad!$"
+	.string "噢！太不好了！$"
 
 @ Unused
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalkJP::
@@ -325,39 +323,39 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalkJP::
 	.string "ブラブラ　してくると　よろしー！$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_FossilMonBackToLife::
-	.string "You late.\n"
-	.string "Where were you?\p"
-	.string "Your fossil is back to life!\n"
-	.string "It was {STR_VAR_1} like I think!$"
+	.string "你来晚了。你跑哪儿去了？\p"
+	.string "你的化石复活了！正如我所预料的那\n"
+	.string "样，是一只{STR_VAR_1}\l"
+	.string "！$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_ReceivedMonFromDoctor::
-	.string "{PLAYER} received the {STR_VAR_1}\n"
-	.string "from the doctor.$"
+	.string "{PLAYER}从研究员的手中得\n"
+	.string "到了{STR_VAR_1}。$"
 
 @ Unused
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoRoomForPokemon::
 	.string "ポケモン　いっぱいで　もてないね！$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_ThatFossilIsOfMonMakeItLiveAgain::
-	.string "Oh!\n"
-	.string "That is {STR_VAR_2}, it is!\p"
-	.string "It is fossil of {STR_VAR_1},\n"
-	.string "a POKéMON that is already extinct!\p"
-	.string "My Resurrection Machine will make\n"
-	.string "that POKéMON live again!$"
+	.string "喔！那正是{STR_VAR_2}\n"
+	.string "，我没看错！\p"
+	.string "那是{STR_VAR_1}的化石\n"
+	.string "，一种被认为灭绝了的宝可梦！\p"
+	.string "我研制的复活机器能让那只宝可梦回\n"
+	.string "到这个世界！$"
 
 @ TODO: Resolve text dump error below?
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HandedFossilToWeirdDoctor::
-	.string "So!\n"
-	.string "You hurry and give me that!\p"
-	.string "{FONT_NORMAL}{PLAYER} handed over the\n"
-	.string "{STR_VAR_2} to the weird doctor.$"
+	.string "所以呢！你得快点把它交给我！\p"
+	.string "{FONT_NORMAL}\n"
+	.string "{PLAYER}把\l"
+	.string "{STR_VAR_2}交给了这个\l"
+	.string "奇怪的研究员$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalk::
-	.string "I take a little time!\n"
-	.string "You go for walk a little while!$"
+	.string "我只需要一点点时间！现在你可以出\n"
+	.string "去走走！$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_YouComeAgain::
-	.string "Aiyah!\n"
-	.string "You come again!$"
+	.string "哎哎！你又来了！$"
 

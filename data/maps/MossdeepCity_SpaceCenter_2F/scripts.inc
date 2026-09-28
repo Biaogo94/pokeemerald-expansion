@@ -342,151 +342,129 @@ MossdeepCity_SpaceCenter_2F_EventScript_BrendanRayquazaCall::
 	return
 
 MossdeepCity_SpaceCenter_2F_Text_MossdeepIdealForRockets:
-	.string "MOSSDEEP has mainly sunny weather,\n"
-	.string "and its winds are stable.\p"
-	.string "It's an ideal location for launching\n"
-	.string "rockets.$"
+	.string "绿岭市的天气通常很晴朗，也没什么\n"
+	.string "风，\p"
+	.string "简直就是完美的火箭发射地。$"
 
 MossdeepCity_SpaceCenter_2F_Text_WhyWouldMagmaStealRocketFuel:
-	.string "Why would TEAM MAGMA want to steal\n"
-	.string "our rocket fuel in the first place?$"
+	.string "究竟熔岩队为什么想要我们的火箭燃\n"
+	.string "料？$"
 
 MossdeepCity_SpaceCenter_2F_Text_WouldveLikedToBeAstronaut:
-	.string "If only I was a little younger, I would\n"
-	.string "have liked being an astronaut…\p"
-	.string "No… It's not too late!\n"
-	.string "I can and will try!$"
+	.string "如果我再年轻一点，我希望能成为一\n"
+	.string "个宇航员……\p"
+	.string "不……现在还不算太晚！我依然可以\n"
+	.string "试试！$"
 
 MossdeepCity_SpaceCenter_2F_Text_MagmaCantGetAwayWithThis:
-	.string "If TEAM MAGMA takes the rocket fuel,\n"
-	.string "I won't be able to go to space!\p"
-	.string "They can't be allowed to get away\n"
-	.string "with such an outrage!$"
+	.string "让熔岩队抢走火箭燃料的话我就去不\n"
+	.string "了宇宙了！\p"
+	.string "不能让他们就这样跑掉！$"
 
 MossdeepCity_SpaceCenter_2F_Text_WishOrdinaryPeopleCouldGoIntoSpace:
-	.string "I wish ordinary people could go into\n"
-	.string "space one day…$"
+	.string "希望某一天普通人也能去宇宙旅行…\n"
+	.string "…$"
 
 MossdeepCity_SpaceCenter_2F_Text_DoesMagmaWantToGoToSpace:
-	.string "TEAM MAGMA…\n"
-	.string "Do they want to go to space, too?$"
+	.string "熔岩队……他们也想去宇宙吗？$"
 
 MossdeepCity_SpaceCenter_2F_Text_YoureOutnumberedTakeUsOn:
-	.string "What's wrong with you?\p"
-	.string "You're outnumbered three to one,\n"
-	.string "but you still want to take us on?$"
+	.string "你怎么了？\p"
+	.string "即使是3对1，你也想跟我们较量一\n"
+	.string "番吗？$"
 
 MossdeepCity_SpaceCenter_2F_Text_GoodAnswer:
-	.string "Good answer!\n"
-	.string "That's what a smart person'll do!$"
+	.string "说得好！这才是聪明人！$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5Intro:
-	.string "A reckless go-getter, are you?\n"
-	.string "Okay, I'll go first!$"
+	.string "真是个冲动草率的家伙。好吧，我先\n"
+	.string "上了！$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5Defeat:
-	.string "I lost!\n"
-	.string "But!$"
+	.string "我输了，但是！$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6Intro:
-	.string "It's too soon to be relieved!\n"
-	.string "I'm up next!$"
+	.string "要放松还太早！下面是我！$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6Defeat:
-	.string "I lost, too!\n"
-	.string "But!$"
+	.string "我也输了！但是！$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7Intro:
-	.string "I bet you want to take a break.\n"
-	.string "But I'm not about to let you do that!$"
+	.string "我想你已经很累了，但我不会让你休\n"
+	.string "息的！$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7Defeat:
-	.string "We should've taken a break…\n"
-	.string "That's what we should've done…$"
+	.string "该休息的是我们……我们本该好好歇\n"
+	.string "歇的……$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6PostBattle:
-	.string "Three of us here, and look at the sorry\n"
-	.string "mess we got ourselves into.$"
+	.string "我们仨守在这儿，却把事情搞得一团\n"
+	.string "糟。$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7PostBattle:
-	.string "We three losing like this…\n"
-	.string "We look worse than usual by triple!$"
+	.string "我们仨就这么输了……输得比平常更\n"
+	.string "惨！$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5PostBattle:
-	.string "Are we being useful to our leader\n"
-	.string "at all?$"
+	.string "对老大来说，我们真的有用吗？$"
 
 MossdeepCity_SpaceCenter_2F_Text_WellTakeCareOfYou:
-	.string "Hehehe!\p"
-	.string "We come all the way here to get some\n"
-	.string "fuel, and we're interfered with again!\p"
-	.string "If you're going to mess with us too,\n"
-	.string "we'll take care of you at the same time!$"
+	.string "哼哼哼！\p"
+	.string "我们大老远跑过来抢点燃料，又有人\n"
+	.string "来碍事！\p"
+	.string "既然你也来搅局，那就一起收拾掉！$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieDontInterfere:
-	.string "MAXIE: Clear out of the way!\n"
-	.string "Don't you dare interfere!$"
+	.string "赤焰松：让开！别多管闲事！$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenWhyStealRocketFuel:
-	.string "STEVEN: TEAM MAGMA…\p"
-	.string "What's the point of stealing rocket\n"
-	.string "fuel?$"
+	.string "大吾：熔岩队……\p"
+	.string "你们抢火箭燃料究竟要做什么？$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano:
-	.string "MAXIE: Fufufu… Since you're so\n"
-	.string "curious, you deserve an explanation.\p"
-	.string "We're going to jettison the entire\n"
-	.string "load into MT. CHIMNEY!\p"
-	.string "With GROUDON gone, we have no need\n"
-	.string "for that slag heap of a mountain!\p"
-	.string "So we'll use the fuel's power to make\n"
-	.string "the volcano erupt!\p"
-	.string "It will be savage!$"
+	.string "赤焰松：哼哼哼……你这么好奇的话\n"
+	.string "，告诉你也无妨，\p"
+	.string "我们要把那些燃料全部投入到烟囱山\n"
+	.string "里！\p"
+	.string "既然固拉多已经离开了，那么那座破\n"
+	.string "火山也没什么价值了！\p"
+	.string "我们要用燃料的力量引发火山喷发！\p"
+	.string "那样才壮观！$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenAreYouReadyToBattle:
-	.string "STEVEN: {PLAYER}{KUN}!\n"
-	.string "You're going to help me?\p"
-	.string "Let's go into battle together!\n"
-	.string "Are you ready?$"
+	.string "大吾：{PLAYER}{KUN}\n"
+	.string "！你来帮我吗？\p"
+	.string "那就并肩战斗吧！准备好了吗？$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenHurryGetReadyQuickly:
-	.string "STEVEN: Then, hurry!\n"
-	.string "Get ready quickly!$"
+	.string "大吾：那么请快点！尽快准备好！$"
 
 MossdeepCity_SpaceCenter_2F_Text_JustWantToExpandLand:
-	.string "All I want…\n"
-	.string "I just want to expand the land mass…$"
+	.string "我只是想……拓展大地而已……$"
 
 MossdeepCity_SpaceCenter_Text_TabithaDefeat:
-	.string "I'm with our leader…$"
+	.string "我和老大同在……$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeFailedIsAquaAlsoMisguided:
-	.string "MAXIE: We failed to make the volcano\n"
-	.string "erupt…\p"
-	.string "We failed to control GROUDON after\n"
-	.string "we had awoken it…\p"
-	.string "Is our goal to expand the land\n"
-	.string "misguided?\p"
-	.string "… … … … … …\n"
-	.string "… … … … … …\p"
-	.string "If…\n"
-	.string "If we, TEAM MAGMA, are wrong…\l"
-	.string "… … … … … …\p"
-	.string "Then might TEAM AQUA's goal to expand\n"
-	.string "the sea also be equally misguided?$"
+	.string "赤焰松：我们没能让火山爆发……\p"
+	.string "也没能在固拉多觉醒后控制它……\p"
+	.string "难道我们拓展大地的目标错了吗？\p"
+	.string "…… …… ……\n"
+	.string "…… …… ……\p"
+	.string "如果……如果我们熔岩队错了………\n"
+	.string "… …… ……\p"
+	.string "那么，海洋队扩张海洋的目标也同样\n"
+	.string "……$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeWillGiveUp:
-	.string "MAXIE: All right…\n"
-	.string "We will give up on the fuel…\p"
-	.string "There appear to be more important\n"
-	.string "matters that I must examine…$"
+	.string "赤焰松：好吧……我们放弃燃料……\p"
+	.string "我还有些更重要的事情得去确认……$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenThankYouComeSeeMeAtHome:
-	.string "STEVEN: Whew, that was too tense.\n"
-	.string "{PLAYER}{KUN}, thank you.\p"
-	.string "I have something to give you as\n"
-	.string "thanks for your support.\p"
-	.string "Please come see me at home\n"
-	.string "after this.\p"
-	.string "Oh, yes, I don't live in RUSTBORO CITY.\n"
-	.string "I live right here on this island.$"
+	.string "大吾：呼，千钧一发。\n"
+	.string "{PLAYER}{KUN}，多谢\l"
+	.string "帮忙。\p"
+	.string "作为谢礼，我有东西想送给你。\p"
+	.string "等会来我家一趟吧。\p"
+	.string "啊对了，我的家不在卡那兹市，我就\n"
+	.string "住在这岛上。$"

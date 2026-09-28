@@ -36,19 +36,18 @@ ThreeIsland_Mart_EventScript_Youngster::
 	end
 
 ThreeIsland_Mart_Text_TrueThatCeldadonDeptStoreBigger::
-	.string "Is it true?\p"
-	.string "CELADON DEPT. STORE is several\n"
-	.string "times bigger than this shop?$"
+	.string "真的假的？\p"
+	.string "玉虹百货大楼比这个商店大好几倍？\n"
+	.string "！$"
 
 ThreeIsland_Mart_Text_PeopleHealWithBerriesFromForest::
-	.string "I sometimes buy medicine here.\p"
-	.string "But a lot of people heal POKéMON\n"
-	.string "with BERRIES from BERRY FOREST.\p"
-	.string "After all, BERRIES are free and\n"
-	.string "they never run out.$"
+	.string "有时我在这儿买药。\p"
+	.string "但有很多人用来自树果森林的树果治\n"
+	.string "疗宝可梦。\p"
+	.string "这是因为树果不要钱而且取之不尽，\n"
+	.string "用之不竭！$"
 
 ThreeIsland_Mart_Text_BikersWereAboutToTrashMart::
-	.string "Those BIKERS were about to trash\n"
-	.string "this POKéMON MART.\p"
-	.string "Am I glad they decided to leave!$"
+	.string "这些飙车族会弄脏这座宝可梦商店。\p"
+	.string "要是他们能离开就好了！$"
 

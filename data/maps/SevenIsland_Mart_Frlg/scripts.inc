@@ -39,19 +39,19 @@ SevenIsland_Mart_EventScript_Fisher::
 	end
 
 SevenIsland_Mart_Text_MonHavePersonalitiesOfTheirOwn::
-	.string "POKéMON have personalities of their\n"
-	.string "own, just like people.\p"
-	.string "My PIKACHU has a HASTY nature,\n"
-	.string "so it grew to be a speedy POKéMON.$"
+	.string "宝可梦有他们自己独特的个性，就像\n"
+	.string "人类一样。\p"
+	.string "我的皮卡丘有着急躁的性格，所以它\n"
+	.string "会成长成速度型的宝可梦。$"
 
 SevenIsland_Mart_Text_PreparationsCompleteForRuins::
-	.string "Okay, preparations are complete\n"
-	.string "for me to explore the RUINS.$"
+	.string "好了，我已经做好充足的准备去探索\n"
+	.string "遗迹了。$"
 
 SevenIsland_Mart_Text_NeedToFishOnSevenIsland::
-	.string "I need to fish on SEVEN ISLAND.\p"
-	.string "That will complete my fishing tour\n"
-	.string "of the SEVII ISLANDS.\p"
-	.string "I'd better stock up on some\n"
-	.string "POKé BALLS first, though.$"
+	.string "我会去七之岛钓鱼。\p"
+	.string "这样的话我的七岛钓鱼之旅就结束了\n"
+	.string "。\p"
+	.string "不过，我要先买一些精灵球以备不时\n"
+	.string "之需。$"
 

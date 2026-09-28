@@ -9,14 +9,12 @@ MtPyre_5F_EventScript_Atsushi::
 	end
 
 MtPyre_5F_Text_AtsushiIntro:
-	.string "Teacher…\n"
-	.string "Please watch over my progress!$"
+	.string "老师……请看看我的进步吧！$"
 
 MtPyre_5F_Text_AtsushiDefeat:
-	.string "Teacher…\n"
-	.string "Please forgive me!$"
+	.string "老师……请原谅我！$"
 
 MtPyre_5F_Text_AtsushiPostBattle:
-	.string "Until I improve, my teacher, who rests\n"
-	.string "here, will never find true peace…$"
+	.string "只有当我变强了，沉睡于此的老师才\n"
+	.string "能得到真正的安眠……$"
 

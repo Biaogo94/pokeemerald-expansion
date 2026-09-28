@@ -63,55 +63,50 @@ RocketHideout_B1F_EventScript_RemoveBarrier::
 	return
 
 RocketHideout_B1F_Text_Grunt1Intro::
-	.string "Who are you?\n"
-	.string "How did you get here?$"
+	.string "你是谁？你是怎么进来的？$"
 
 RocketHideout_B1F_Text_Grunt1Defeat::
-	.string "Oww!\n"
-	.string "Beaten!$"
+	.string "啊！被打败了！$"
 
 RocketHideout_B1F_Text_Grunt1PostBattle::
-	.string "Blast it… You're dissing TEAM\n"
-	.string "ROCKET, aren't you?$"
+	.string "该死……是你瞧不起火箭队的吧？$"
 
 RocketHideout_B1F_Text_Grunt2Intro::
-	.string "You broke into TEAM ROCKET's\n"
-	.string "operation? What nerve!$"
+	.string "就是你闯入了火箭队的总部吧？太不\n"
+	.string "像话了！$"
 
 RocketHideout_B1F_Text_Grunt2Defeat::
-	.string "Boom!$"
+	.string "隆隆！$"
 
 RocketHideout_B1F_Text_Grunt2PostBattle::
-	.string "You're not going to get away with\n"
-	.string "this, brat!$"
+	.string "我们不会轻易放过你的，小子！$"
 
 RocketHideout_B1F_Text_Grunt3Intro::
-	.string "Intruder alert!$"
+	.string "发现入侵者！$"
 
 RocketHideout_B1F_Text_Grunt3Defeat::
-	.string "I can't do it!$"
+	.string "我做不到！$"
 
 RocketHideout_B1F_Text_Grunt3PostBattle::
-	.string "SILPH SCOPE? Humph!\n"
-	.string "I don't know where it is.$"
+	.string "西尔佛观测镜？哼！我不知道它在哪\n"
+	.string "里。$"
 
 RocketHideout_B1F_Text_Grunt4Intro::
-	.string "Why did you come here?$"
+	.string "你为什么来这里？$"
 
 RocketHideout_B1F_Text_Grunt4Defeat::
-	.string "This won't do!$"
+	.string "不可能！$"
 
 RocketHideout_B1F_Text_Grunt4PostBattle::
-	.string "Okay, I'll talk…\n"
-	.string "Take the elevator to see my BOSS.$"
+	.string "好吧，我说……乘电梯去见我们的老\n"
+	.string "大吧。$"
 
 RocketHideout_B1F_Text_Grunt5Intro::
-	.string "Are you lost, you little mouse?$"
+	.string "你迷路了吗，小老鼠？$"
 
 RocketHideout_B1F_Text_Grunt5Defeat::
-	.string "Why…?$"
+	.string "为什么……？$"
 
 RocketHideout_B1F_Text_Grunt5PostBattle::
-	.string "Uh-oh, that ruckus somehow opened\n"
-	.string "the door!$"
+	.string "喔不，那阵骚动不知怎的打开了门！$"
 

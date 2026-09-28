@@ -28,21 +28,16 @@ PacifidlogTown_PokemonCenter_1F_EventScript_OldMan::
 	end
 
 PacifidlogTown_PokemonCenter_1F_Text_WhatColorTrainerCard:
-	.string "What color is your TRAINER CARD?\n"
-	.string "Mine's copper!$"
+	.string "你的训练家卡是什么颜色？我的是紫\n"
+	.string "铜的！$"
 
 PacifidlogTown_PokemonCenter_1F_Text_OnColonyOfCorsola:
-	.string "PACIFIDLOG TOWN floats on top of\n"
-	.string "a colony of CORSOLA.\p"
-	.string "If I told you that, would you believe\n"
-	.string "me?$"
+	.string "暮水镇浮在大群太阳珊瑚上。\p"
+	.string "我这么说的话，你会相信吗？$"
 
 PacifidlogTown_PokemonCenter_1F_Text_AncestorsLivedOnBoats:
-	.string "The ancestors of the people in\n"
-	.string "PACIFIDLOG were said to have been\l"
-	.string "born on boats and then lived and died \l"
-	.string "aboard them.\p"
-	.string "I understand that they lived that way\n"
-	.string "because they were searching for\l"
-	.string "something.$"
+	.string "据说暮水镇人的祖先一生都与船只相\n"
+	.string "伴——在船上生活，在船上终老。\p"
+	.string "我想他们选择这样的生活，是为了追\n"
+	.string "寻什么重要的东西吧。$"
 

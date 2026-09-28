@@ -1,25 +1,24 @@
 BerryBlender_Text_BlendWithTheBlendMaster:
-	.string "BLEND MASTER: Indeed I am!\n"
-	.string "The BLEND MASTER am I!\p"
-	.string "Blend with me, and you shall witness\n"
-	.string "the mastery I bring to blending!$"
+	.string "混合名人：没错！我就是传说中的混\n"
+	.string "合名人！\p"
+	.string "与我共舞吧，你将亲眼见证我登峰造\n"
+	.string "极的混合技艺！$"
 
 BerryBlender_Text_SeeMyMasteryInAction:
-	.string "BLEND MASTER: Hmmm! So, you wish to\n"
-	.string "see my mastery in action?$"
+	.string "混合名人：嗯！你想亲眼见识我的独\n"
+	.string "门技艺？$"
 
 BerryBlender_Text_TooBusyNowIsee:
-	.string "Hmmm!\p"
-	.string "So, you are too busy now, I see!\p"
-	.string "But fear not!\n"
-	.string "I shall be here all day!\l"
-	.string "Hurry back from your errand!$"
+	.string "嗯！\p"
+	.string "看来你现在很忙啊！\p"
+	.string "不过别担心！我会在这里待一整天！\n"
+	.string "快去快回吧！$"
 
 BerryBlender_Text_BlendMasterNoBerries:
-	.string "Hmmm!\p"
-	.string "You haven't got a single BERRY!\p"
-	.string "I shall be here all day!\n"
-	.string "Hurry back with some BERRIES!$"
+	.string "嗯！\p"
+	.string "你连一颗树果都没有！\p"
+	.string "我会在这里待一整天！快去摘些树果\n"
+	.string "回来！$"
 
 BerryBlender_Text_BlendMasterKnowHowToMakePokeblocks:
 	.string "Of course!\n"
@@ -29,19 +28,18 @@ BerryBlender_Text_BlendMasterKnowHowToMakePokeblocks:
 	.string "from BERRIES?$"
 
 BerryBlender_Text_BlendMasterExplainBerryBlending:
-	.string "Hmmm!\p"
-	.string "Ah, but it is a simple process!\p"
-	.string "When the BLENDER's arrow comes to\n"
-	.string "your marker, just press the A Button.\p"
-	.string "That's all you have to do.\p"
-	.string "When you see how precisely I press\n"
-	.string "the A Button, you will understand.$"
+	.string "嗯！\p"
+	.string "其实过程很简单！\p"
+	.string "当混合器的箭头转到你的标记时，按\n"
+	.string "下A键就行。\p"
+	.string "就这么简单。\p"
+	.string "等你见识到我精准按下A键的功力，\n"
+	.string "就会明白其中奥妙了。$"
 
 BerryBlender_Text_BlendMasterLetsBerryBlender:
-	.string "Fine!\p"
-	.string "Let's get started, then!\p"
-	.string "All together with the BLEND MASTER,\n"
-	.string "let's BERRY BLENDER!$"
+	.string "很好！\p"
+	.string "那我们就开始吧！\p"
+	.string "与混合名人一起，开始树果混合吧！$"
 
 BerryBlender_Text_BlendMasterNoPokeblockCase:
 	.string "Hmmm!\p"
@@ -61,25 +59,23 @@ BerryBlender_Text_WhoaAwesome:
 	.string "Awesome!$"
 
 BerryBlender_Text_WickedlyFast:
-	.string "Wickedly fast!$"
+	.string "真是快得惊人！$"
 
 BerryBlender_Text_WhatAnExpert:
-	.string "What an expert!$"
+	.string "真是专家啊！$"
 
 BerryBlender_Text_MadeAmazingPokeblocksWithMaster:
 	.string "When I blended with the MASTER,\n"
 	.string "we made amazing {POKEBLOCK}S!$"
 
 BerryBlender_Text_QualitiesOfBlendMaster:
-	.string "Eyes that track the arrow with\n"
-	.string "machinelike intensity…\p"
-	.string "A hand that taps the A Button\n"
-	.string "with clockwork-like precision…\p"
-	.string "Possessing these qualities makes\n"
-	.string "the BLEND MASTER truly great.$"
+	.string "如机器般精准追踪箭头的双眼……\p"
+	.string "如钟表般精确按下A键的巧手……\p"
+	.string "拥有这些特质，才成就了真正的混合\n"
+	.string "名人。$"
 
 BerryBlender_Text_MasterWorksOnSkillsInMountains:
-	.string "The BLEND MASTER's supposed to work\n"
-	.string "on his skills deep in the mountains.\p"
-	.string "Sometimes, he comes to LILYCOVE\n"
-	.string "to blend BERRIES all day long.$"
+	.string "据说混合名人常年在深山中磨练他的\n"
+	.string "技艺。\p"
+	.string "有时他会来到水静市，混合树果一整\n"
+	.string "天。$"

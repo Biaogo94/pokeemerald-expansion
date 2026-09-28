@@ -19,16 +19,15 @@ SootopolisCity_House2_EventScript_DontKnowAboutOrbs::
 	return
 
 SootopolisCity_House2_Text_DidYouKnowAboutMtPyreOrbs:
-	.string "MT. PYRE…\p"
-	.string "At its peak are two orbs placed side\n"
-	.string "by side. Did you know?$"
+	.string "送神山……\p"
+	.string "在它的顶峰并列着两块宝珠，你知道\n"
+	.string "吗？$"
 
 SootopolisCity_House2_Text_YesTwoOrbsSideBySide:
-	.string "Yes, two orbs side by side…\p"
-	.string "The sight of them together…\n"
-	.string "It is somehow soothing…$"
+	.string "是的，并列的两块宝珠……\p"
+	.string "看着它们摆在那儿……心中就会充满\n"
+	.string "宁静……$"
 
 SootopolisCity_House2_Text_OughtToVisitAndSee:
-	.string "Is that so?\n"
-	.string "Perhaps you ought to visit and see…$"
+	.string "是吗？也许你该去……$"
 

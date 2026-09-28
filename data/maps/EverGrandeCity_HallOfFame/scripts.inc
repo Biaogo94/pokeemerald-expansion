@@ -82,16 +82,13 @@ EverGrandeCity_HallOfFame_Movement_WalkIntoHallOfFame2:
 	step_end
 
 EverGrandeCity_HallOfFame_Text_HereWeHonorLeagueChampions:
-	.string "WALLACE: This room…\p"
-	.string "This is where we keep records of\n"
-	.string "POKéMON that prevailed through\l"
-	.string "harsh battles.\p"
-	.string "It is here that the LEAGUE CHAMPIONS\n"
-	.string "are honored.$"
+	.string "米可利：这个房间……\p"
+	.string "这是我们记载那些在严峻的战斗中脱\n"
+	.string "颖而出的宝可梦。\p"
+	.string "这里也是赞誉联盟冠军的地方。$"
 
 EverGrandeCity_HallOfFame_Text_LetsRecordYouAndYourPartnersNames:
-	.string "WALLACE: Come on, let's record your\n"
-	.string "name as a TRAINER who triumphed over\l"
-	.string "the POKéMON LEAGUE, and the names of\l"
-	.string "the partners who battled with you.$"
+	.string "米可利：来吧，作为称霸宝可梦联盟\n"
+	.string "的训练家，让我们记录下你和与你一\l"
+	.string "同作战的伙伴们的名字吧。$"
 

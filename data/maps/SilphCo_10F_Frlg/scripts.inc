@@ -34,35 +34,31 @@ SilphCo_10F_EventScript_Grunt::
 	end
 
 SilphCo_10F_Text_GruntIntro::
-	.string "Welcome to 10F!\n"
-	.string "So good of you to join me!$"
+	.string "欢迎来到10F！很高兴你能找到我\n"
+	.string "！$"
 
 SilphCo_10F_Text_GruntDefeat::
-	.string "I'm stunned!$"
+	.string "我震惊了！$"
 
 SilphCo_10F_Text_GruntPostBattle::
-	.string "Nice try, but the boardroom is up\n"
-	.string "one more floor.$"
+	.string "做的不错，但会议室在这层楼上。$"
 
 SilphCo_10F_Text_TravisIntro::
-	.string "Enough of your silly games!$"
+	.string "够了，你和你愚蠢的游戏！$"
 
 SilphCo_10F_Text_TravisDefeat::
-	.string "No continues left!$"
+	.string "不能让你继续下去了！$"
 
 SilphCo_10F_Text_TravisPostBattle::
-	.string "Are you satisfied with beating me?\n"
-	.string "Then go on home!$"
+	.string "你打败了我，满意了吗？那么回家吧\n"
+	.string "！$"
 
 SilphCo_10F_Text_WaaaImScared::
-	.string "Waaaaa!\n"
-	.string "I'm scared!$"
+	.string "哇啊啊啊啊！我很害怕！$"
 
 SilphCo_10F_Text_KeepMeCryingASecret::
-	.string "About me crying…\n"
-	.string "Please keep it a secret.$"
+	.string "至于我哭的原因……请为我保密。$"
 
 SilphCo_10F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "10F$"
+	.string "西尔佛公司总部10层$"
 

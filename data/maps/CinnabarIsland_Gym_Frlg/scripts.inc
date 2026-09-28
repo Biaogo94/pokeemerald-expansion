@@ -710,192 +710,175 @@ CinnabarIsland_Gym_EventScript_OpenDoor6::
 	return
 
 CinnabarIsland_Gym_Text_BlaineIntro::
-	.string "Hah!\p"
-	.string "I am BLAINE, the red-hot LEADER\n"
-	.string "of CINNABAR GYM!\p"
-	.string "My fiery POKéMON are all rough\n"
-	.string "and ready with intense heat!\p"
-	.string "They incinerate all challengers!\p"
-	.string "Hah!\n"
-	.string "You better have BURN HEAL!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
+	.string "啊哈！\p"
+	.string "夏伯就是我，红莲道馆火热的馆主！\p"
+	.string "我炽烈的宝可梦都狂野而富有热情！\p"
+	.string "它们会把所有的挑战者燃烧殆尽！\p"
+	.string "好了！开战前你最好准备些灼伤药！\n"
+	.string "{PLAY_BGM}\l"
+	.string "{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 CinnabarIsland_Gym_Text_BlaineDefeat::
-	.string "I have burned down to nothing!\n"
-	.string "Not even ashes remain!\p"
-	.string "You have earned the VOLCANOBADGE.$"
+	.string "被燃烧殆尽的是我！烧得连灰烬也不\n"
+	.string "剩！\p"
+	.string "深红徽章是你的了！$"
 
 CinnabarIsland_Gym_Text_FireBlastIsUltimateFireMove::
-	.string "FIRE BLAST is the ultimate fire\n"
-	.string "technique.\p"
-	.string "Don't waste it on WATER POKéMON.$"
+	.string "大字爆炎是一个高级的火属性技能\p"
+	.string "别把它浪费在水属性宝可梦身上。$"
 
 CinnabarIsland_Gym_Text_ExplainVolcanoBadge::
-	.string "Hah!\p"
-	.string "The VOLCANOBADGE heightens the\n"
-	.string "SPECIAL stats of your POKéMON.\p"
-	.string "Here, you can have this, too!$"
+	.string "哈！\p"
+	.string "深红徽章能够将你宝可梦的特攻提高\n"
+	.string "一点点\p"
+	.string "还有，你还能得到它！$"
 
 CinnabarIsland_Gym_Text_ReceivedTM38FromBlaine::
-	.string "{PLAYER} received TM38\n"
-	.string "from BLAINE.$"
+	.string "{PLAYER}从夏伯那里得到了\n"
+	.string "TM38。$"
 
 CinnabarIsland_Gym_Text_BlainePostBattle::
-	.string "TM38 contains FIRE BLAST.\n"
-	.string "Teach it to FIRE-type POKéMON.\p"
-	.string "VULPIX or CHARMELEON would be\n"
-	.string "ideal for that move.$"
+	.string "TM38是大字爆炎。把它教给火属\n"
+	.string "性宝可梦。\p"
+	.string "六尾或者火恐龙是一个不错的选择。$"
 
 CinnabarIsland_Gym_Text_MakeSpaceForThis::
-	.string "Make space for this, child!$"
+	.string "把背包腾点空间再来，小子！$"
 
 CinnabarIsland_Gym_Text_ErikIntro::
-	.string "Do you know how hot POKéMON fire\n"
-	.string "breath can get?$"
+	.string "你知道宝可梦灼热的吐息温度有多高\n"
+	.string "吗？$"
 
 CinnabarIsland_Gym_Text_ErikDefeat::
-	.string "Yow!\n"
-	.string "Hot, hot, hot!$"
+	.string "哟噢！烫，烫，烫！$"
 
 CinnabarIsland_Gym_Text_ErikPostBattle::
-	.string "Fire, or to be more precise,\n"
-	.string "combustion…\p"
-	.string "…Oxygen in the air…\n"
-	.string "Blah, blah, blah, blah…$"
+	.string "燃素，专业点说的话，可燃物……\p"
+	.string "……空气中的氧……叽哩呱啦呱啦叽\n"
+	.string "哩…$"
 
 CinnabarIsland_Gym_Text_QuinnIntro::
-	.string "I was a thief, but I went straight\n"
-	.string "as a TRAINER.$"
+	.string "过去我是一名小偷但我现在是一名正\n"
+	.string "直的训练家。$"
 
 CinnabarIsland_Gym_Text_QuinnDefeat::
-	.string "I surrender!$"
+	.string "我要去自首！$"
 
 CinnabarIsland_Gym_Text_QuinnPostBattle::
-	.string "I get this uncontrollable urge to\n"
-	.string "steal other people's POKéMON.$"
+	.string "对于其他人的宝可梦我总是难以抑制\n"
+	.string "的想着去偷。$"
 
 CinnabarIsland_Gym_Text_AveryIntro::
-	.string "I've studied POKéMON thoroughly.\n"
-	.string "You can't win!$"
+	.string "我很努力的学过了宝可梦的知识。你\n"
+	.string "赢不了我的！$"
 
 CinnabarIsland_Gym_Text_AveryDefeat::
-	.string "Waah!\n"
-	.string "My studies were insufficient!$"
+	.string "哇啊！我学的还不够！$"
 
 CinnabarIsland_Gym_Text_AveryPostBattle::
-	.string "My theories are too complicated\n"
-	.string "for you to understand.$"
+	.string "我的理论很高深，和你讲你很难明白\n"
+	.string "。$"
 
 CinnabarIsland_Gym_Text_RamonIntro::
-	.string "I like using FIRE-type POKéMON.\n"
-	.string "I just do.$"
+	.string "走自己的路让别人说去吧。我就只喜\n"
+	.string "欢火属性的宝可梦。$"
 
 CinnabarIsland_Gym_Text_RamonDefeat::
-	.string "Too hot to handle!$"
+	.string "温度高得不能控制了！$"
 
 CinnabarIsland_Gym_Text_RamonPostBattle::
-	.string "I wish there were a thief POKéMON.\n"
-	.string "I'd use that!$"
+	.string "我希望有一种小偷宝可梦。那我就指\n"
+	.string "望着用它了！$"
 
 CinnabarIsland_Gym_Text_DerekIntro::
-	.string "I know why BLAINE became a\n"
-	.string "TRAINER.$"
+	.string "我知道夏伯为什么会成为一名训练家\n"
+	.string "。$"
 
 CinnabarIsland_Gym_Text_DerekDefeat::
-	.string "Ow!$"
+	.string "喔$"
 
 CinnabarIsland_Gym_Text_DerekPostBattle::
-	.string "Our LEADER, BLAINE, became lost\n"
-	.string "in the mountains but good.\p"
-	.string "Night fell when a fiery bird\n"
-	.string "POKéMON appeared.\p"
-	.string "Its light allowed BLAINE to find\n"
-	.string "his way down safely.$"
+	.string "我们的馆主，夏伯在山里迷路了，但\n"
+	.string "幸运的是，\p"
+	.string "当夜幕降临的时候，一只灼热的鸟宝\n"
+	.string "可梦降临在他面前。\p"
+	.string "它发出的光使夏伯找到了下山的路。$"
 
 CinnabarIsland_Gym_Text_DustyIntro::
-	.string "I've been to many GYMS, but this\n"
-	.string "one best suits my style.$"
+	.string "我去过许多道馆，但这个最合我的口\n"
+	.string "味。$"
 
 CinnabarIsland_Gym_Text_DustyDefeat::
-	.string "Yowza!\n"
-	.string "Too hot!$"
+	.string "哇哇！好烫！$"
 
 CinnabarIsland_Gym_Text_DustyPostBattle::
-	.string "PONYTA, NINETALES…\n"
-	.string "Those are popular FIRE POKéMON.$"
+	.string "小火马，九尾…都是受欢迎的火属性\n"
+	.string "宝可梦。$"
 
 CinnabarIsland_Gym_Text_ZacIntro::
-	.string "Fire is weak against H2O.$"
+	.string "火对H2O不利。$"
 
 CinnabarIsland_Gym_Text_ZacDefeat::
-	.string "Oh!\n"
-	.string "Snuffed out!$"
+	.string "呃！火熄灭了！$"
 
 CinnabarIsland_Gym_Text_ZacPostBattle::
-	.string "Water beats fire, of course.\p"
-	.string "But fire melts ice, so the FIRE\n"
-	.string "type beats ICE-type POKéMON.$"
+	.string "毋庸置疑，水克火。\p"
+	.string "但是火能融化冰，所以火属性能够打\n"
+	.string "败冰属性宝可梦。$"
 
 CinnabarIsland_Gym_Text_GymGuyAdvice::
-	.string "Yo!\n"
-	.string "Champ in the making!\p"
-	.string "The hotheaded BLAINE is a FIRE\n"
-	.string "POKéMON pro.\p"
-	.string "Douse his spirits with water!\p"
-	.string "You'd better take some\n"
-	.string "BURN HEALS, too.$"
+	.string "哟！未来的冠军！\p"
+	.string "热血的夏伯是一位炎宝可梦教授。\p"
+	.string "用水来浇灭他的斗志吧！\p"
+	.string "你最好带上些灼伤药。$"
 
 CinnabarIsland_Gym_Text_GymGuyPostVictory::
-	.string "{PLAYER}!\n"
-	.string "You beat that firebrand!$"
+	.string "{PLAYER}你击败了那个火焰\n"
+	.string "狂人$"
 
 CinnabarIsland_Gym_Text_GymStatue::
-	.string "CINNABAR POKéMON GYM\n"
-	.string "LEADER: BLAINE\p"
-	.string "WINNING TRAINERS:\n"
-	.string "{RIVAL}$"
+	.string "红莲宝可梦道馆馆主：夏伯\p"
+	.string "优胜训练家：{RIVAL}$"
 
 CinnabarIsland_Gym_Text_GymStatuePlayerWon::
-	.string "CINNABAR POKéMON GYM\n"
-	.string "LEADER: BLAINE\p"
-	.string "WINNING TRAINERS:\n"
-	.string "{RIVAL}, {PLAYER}$"
+	.string "红莲宝可梦道馆馆主：夏伯\p"
+	.string "优胜训练家：{RIVAL} \n"
+	.string "{PLAYER}$"
 
 CinnabarIsland_Gym_Text_PokemonQuizRules::
-	.string "POKéMON Quiz!\p"
-	.string "Get it right, and the door opens to\n"
-	.string "the next room.\p"
-	.string "Get it wrong, and face a TRAINER!\p"
-	.string "If you want to conserve your\n"
-	.string "POKéMON for the GYM LEADER…\p"
-	.string "Then get it right!\n"
-	.string "Here we go!$"
+	.string "宝可梦竞答！\p"
+	.string "答对了，通向下一个房间的门就会打\n"
+	.string "开。\p"
+	.string "答错了，就得面对训练家的挑战！\p"
+	.string "你如果想要把你的实力保留到最后一\n"
+	.string "刻……\p"
+	.string "那就要尽可能的答对！三，二，一，\n"
+	.string "开始了！$"
 
 CinnabarIsland_Gym_Text_QuizQuestion1::
-	.string "CATERPIE evolves into METAPOD?$"
+	.string "绿毛虫进化成铁甲蛹吗？$"
 
 CinnabarIsland_Gym_Text_QuizQuestion2::
-	.string "There are nine certified POKéMON\n"
-	.string "LEAGUE BADGES?$"
+	.string "宝可梦联盟徽章一共有九枚？$"
 
 CinnabarIsland_Gym_Text_QuizQuestion3::
-	.string "POLIWAG evolves three times?$"
+	.string "蚊香蝌蚪能进化三次？$"
 
 CinnabarIsland_Gym_Text_QuizQuestion4::
-	.string "Are electric moves effective\n"
-	.string "against GROUND-type POKéMON?$"
+	.string "电属性技能对地面属性宝可梦有效果\n"
+	.string "吗？$"
 
 CinnabarIsland_Gym_Text_QuizQuestion5::
-	.string "POKéMON of the same kind and level\n"
-	.string "are not identical?$"
+	.string "同一种宝可梦有着同样的等级它们的\n"
+	.string "能力却不一定一样？$"
 
 CinnabarIsland_Gym_Text_QuizQuestion6::
-	.string "TM28 contains TOMBSTONY?$"
+	.string "TM28是岩石封锁吗$"
 
 CinnabarIsland_Gym_Text_CorrectGoOnThrough::
-	.string "You're absolutely correct!\p"
-	.string "Go on through!$"
+	.string "你答得太对了！\p"
+	.string "请通过！$"
 
 CinnabarIsland_Gym_Text_SorryBadCall::
-	.string "Sorry!\n"
-	.string "Bad call!$"
+	.string "不好意思！答错了！$"
 

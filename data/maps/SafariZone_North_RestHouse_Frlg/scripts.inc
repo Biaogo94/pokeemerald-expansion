@@ -20,11 +20,11 @@ SafariZone_East_Text_KeepAnyItemFoundOnSafari::
 	.string "try for all of them at once.$"
 
 SafariZone_East_Text_PrizeInDeepestPartOfSafariZone::
-	.string "Go to the deepest part of the\n"
-	.string "SAFARI ZONE. You will win a prize!$"
+	.string "走到野生原野区的最深处。你就会赢\n"
+	.string "得奖品！$"
 
 SafariZone_East_Text_MyEeveeEvolvedIntoFlareon::
-	.string "My EEVEE evolved into FLAREON.\p"
-	.string "But, a friend's EEVEE turned into a\n"
-	.string "VAPOREON. I wonder why?$"
+	.string "我的伊布进化成了火精灵。\p"
+	.string "但是，我一个朋友的伊布进化成了水\n"
+	.string "精灵。我不知道这是为什么？$"
 

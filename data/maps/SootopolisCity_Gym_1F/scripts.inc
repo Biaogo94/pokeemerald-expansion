@@ -176,23 +176,21 @@ SootopolisCity_Gym_1F_EventScript_GymStatue::
 	end
 
 SootopolisCity_Gym_1F_Text_GymGuideAdvice:
-	.string "Yo! How's it going, CHAMPION-\n"
-	.string "bound {PLAYER}?\p"
-	.string "SOOTOPOLIS's GYM LEADER JUAN is\n"
-	.string "a master of WATER-type POKéMON.\p"
-	.string "And, to get to JUAN, an icy floor\n"
-	.string "will hamper your progress…\p"
-	.string "Listen, I'm sorry, but that's all the\n"
-	.string "advice that I have for you.\p"
-	.string "The rest of the way, you have to\n"
-	.string "go for it yourself!$"
+	.string "嗨，怎么样，向冠军目标冲刺的\n"
+	.string "{PLAYER}？\p"
+	.string "琉璃市的道馆馆主亚当是使用水属性\n"
+	.string "宝可梦的大师，\p"
+	.string "但要走到他面前，还要先通过冰结成\n"
+	.string "的地面……\p"
+	.string "很抱歉，我只能给你这一点建议。\p"
+	.string "这条路，你要凭自己的智慧通过！$"
 
 SootopolisCity_Gym_1F_Text_GymGuidePostVictory:
-	.string "Yow! You've beaten even JUAN, who\n"
-	.string "was supposedly the best in all HOENN!\p"
-	.string "Okay! Check out your TRAINER CARD.\p"
-	.string "If you've gotten all the BADGES, you're\n"
-	.string "set for the POKéMON LEAGUE challenge!$"
+	.string "哟，被誉为丰缘第一的亚当都输给你\n"
+	.string "了！\p"
+	.string "好了！检查一下你的训练家卡，\p"
+	.string "如果你集齐了所有徽章，就向宝可梦\n"
+	.string "联盟出发吧！$"
 
 SootopolisCity_Gym_1F_Text_JuanIntro:
 	.string "Let me ask you.\n"
@@ -218,92 +216,83 @@ SootopolisCity_Gym_1F_Text_JuanIntro:
 @ after, as well as the otherwise unused array after that. One wonders if that's the reason for
 @ the existence of that unused array of ints.
 SootopolisCity_Gym_1F_Text_JuanDefeat:
-	.string "Ahahaha, excellent!\n"
-	.string "Very well, you are the winner.\p"
-	.string "From you, I sense the brilliant shine\n"
-	.string "of skill that will overcome all.\p"
-	.string "However, compared with me or even\n"
-	.string "WALLACE, you are lacking in elegance.\p"
-	.string "Perhaps I should make you a loan\n"
-	.string "of my outfit?\p"
-	.string "… … … … … …\n"
-	.string "… … … … … …\p"
-	.string "Hahaha, I merely jest!\p"
-	.string "Rather than my clothes, I shall reward\n"
-	.string "you with this, the RAIN BADGE!$"
+	.string "啊哈哈哈，好，好极了！你是赢家！\p"
+	.string "在你身上，我看到了能克服一切的技\n"
+	.string "巧的华丽光耀。\p"
+	.string "然而，与我甚至米可利相比，你还欠\n"
+	.string "缺优雅。\p"
+	.string "也许我该借你一套衣服？\p"
+	.string "…… …… ……\n"
+	.string "…… …… ……\p"
+	.string "哈哈哈，我只是在说笑！\p"
+	.string "比起我的衣服，我更该给你这个，雨\n"
+	.string "滴徽章。$"
 
 SootopolisCity_Gym_1F_Text_ReceivedRainBadge:
-	.string "{PLAYER} received the RAIN BADGE\n"
-	.string "from JUAN.$"
+	.string "{PLAYER}从亚当那里得到了\n"
+	.string "雨滴徽章。$"
 
 SootopolisCity_Gym_1F_Text_ExplainRainBadgeTakeThis:
-	.string "Having the RAIN BADGE shall assure you\n"
-	.string "the full obedience of all your POKéMON\l"
-	.string "to your every command.\p"
-	.string "The RAIN BADGE also allows the use\n"
-	.string "of the HM move WATERFALL to scale\l"
-	.string "walls of cascading water.\p"
-	.string "And, so that you never forget the\n"
-	.string "battle we shared, take this…$"
+	.string "有了雨滴徽章，你所有的宝可梦都会\n"
+	.string "完全服从你的每个指示。\p"
+	.string "你也能使用秘传招式攀瀑攀登瀑布了\n"
+	.string "。\p"
+	.string "然后，为了不让你忘记这场对战，收\n"
+	.string "下这个……$"
 
 SootopolisCity_Gym_1F_Text_ExplainWaterPulse:
-	.string "The TECHNICAL MACHINE I handed you\n"
-	.string "contains WATER PULSE.\p"
-	.string "In use, it will occasionally confuse\n"
-	.string "the target with ultrasonic waves.\p"
-	.string "… … … … … …$"
+	.string "我交给你的这个招式学习器里面是水\n"
+	.string "之波动。\p"
+	.string "使用它时偶尔会因为超声波使目标陷\n"
+	.string "入混乱。\p"
+	.string "…… …… ……$"
 
 SootopolisCity_Gym_1F_Text_RegisteredJuan:
-	.string "Registered GYM LEADER JUAN\n"
-	.string "in the POKéNAV.$"
+	.string "把道馆馆主亚当登记到宝可导航里了\n"
+	.string "。$"
 
 SootopolisCity_Gym_1F_Text_JuanPostBattle:
-	.string "The TRAINERS who have gathered all\n"
-	.string "the GYM BADGES of HOENN should make\l"
-	.string "way to the ultimate destination.\p"
-	.string "The POKéMON LEAGUE.\p"
-	.string "Travel to the easternmost reaches\n"
-	.string "of HOENN, to the island EVER GRANDE.\p"
-	.string "There, you shall find the POKéMON\n"
-	.string "LEAGUE.$"
+	.string "收集了丰缘地区所有的道馆徽章的训\n"
+	.string "练家应该朝向最后的目的地前进，\p"
+	.string "那就是宝可梦联盟。\p"
+	.string "向着丰缘的最东方，前往那名为彩悠\n"
+	.string "的岛屿吧。\p"
+	.string "那里便是宝可梦联盟之所在。$"
 
 SootopolisCity_Gym_1F_Text_GoGetFortreeBadge:
-	.string "There remains but one BADGE to\n"
-	.string "obtain in HOENN.\p"
-	.string "If you wish to challenge the POKéMON\n"
-	.string "LEAGUE, you must obtain the last\l"
-	.string "BADGE from the GYM in FORTREE.$"
+	.string "在丰缘地区仅剩最后1枚徽章了。\p"
+	.string "如果你想挑战宝可梦联盟，你必须先\n"
+	.string "获得茵郁市道馆的徽章。$"
 
 SootopolisCity_Gym_1F_Text_GymStatue:
-	.string "SOOTOPOLIS CITY POKéMON GYM$"
+	.string "琉璃市宝可梦道馆$"
 
 SootopolisCity_Gym_1F_Text_GymStatueCertified:
-	.string "SOOTOPOLIS CITY POKéMON GYM\p"
-	.string "JUAN'S CERTIFIED TRAINERS:\n"
+	.string "琉璃市宝可梦道馆\p"
+	.string "亚当认可的训练家：\n"
 	.string "{PLAYER}$"
 
 SootopolisCity_Gym_1F_Text_JuanPreRematch:
-	.string "JUAN: Ah, this GYM had returned to its\n"
-	.string "usual state of serenity…\p"
-	.string "But our young typhoon has returned\n"
-	.string "to put us to the test again!\p"
-	.string "Well, my friend, most certainly!\p"
-	.string "I shall be delighted to dance with you\n"
-	.string "as often as you wish!$"
+	.string "亚当：啊，这间道馆终于恢复了它往\n"
+	.string "日的风和日丽……\p"
+	.string "但我们年轻的台风又再度袭来考验我\n"
+	.string "们了！\p"
+	.string "好的，我的朋友，当然！\p"
+	.string "只要你想，我随时愿意与你共舞一曲\n"
+	.string "！$"
 
 SootopolisCity_Gym_1F_Text_JuanRematchDefeat:
-	.string "Ahahaha, you are the winner!\n"
-	.string "You have defeated me again!$"
+	.string "啊哈哈哈，你是赢家！你又一次打败\n"
+	.string "我了！$"
 
 SootopolisCity_Gym_1F_Text_JuanPostRematch:
-	.string "JUAN: If I told you to become my\n"
-	.string "apprentice, you will refuse, I am sure.\p"
-	.string "I would like to make a gift of my coat\n"
-	.string "to you.\p"
-	.string "But again, you will refuse.\n"
-	.string "I imagine that to be so.\p"
-	.string "And that, my friend, is a certain sign\n"
-	.string "of nobility!$"
+	.string "亚当：如果我说要收你做徒弟，我想\n"
+	.string "你绝对会拒绝。\p"
+	.string "我想要把我的外衣作礼物送给你，\p"
+	.string "但如果我没想错的话，你肯定也会拒\n"
+	.string "绝。\p"
+	.string "我的朋友，这正是你的高贵的表现啊\n"
+	.string "！$"
 
 SootopolisCity_Gym_1F_Text_JuanRematchNeedTwoMons:
 	.string "JUAN: Ah, this GYM had returned to its\n"

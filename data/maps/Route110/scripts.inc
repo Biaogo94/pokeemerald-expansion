@@ -739,251 +739,228 @@ Route110_Movement_BirchExit4:
 	step_end
 
 Route110_Text_WeCantTalkAboutAquaActivities:
-	.string "TEAM AQUA's activities…\n"
-	.string "We can't talk about them yet.$"
+	.string "海洋队的行动……我们还不能多说。$"
 
 Route110_Text_KickUpARuckus:
-	.string "I want to get going to SLATEPORT and\n"
-	.string "kick up a ruckus!$"
+	.string "我想去凯那市搞出大名堂来！$"
 
 Route110_Text_MyFirstJobInAqua:
-	.string "This is my first job after joining\n"
-	.string "TEAM AQUA. It's a little scary.$"
+	.string "这是我加入海洋队后的第一件工作。\n"
+	.string "我有点害怕。$"
 
 Route110_Text_AquaActionsBringSmiles:
-	.string "TEAM AQUA's actions should bring\n"
-	.string "smiles to people's faces!$"
+	.string "海洋队的行动应会为所有人带来笑容\n"
+	.string "！$"
 
 Route110_Text_MayLetsBattle:
-	.string "MAY: Hi, {PLAYER}{KUN}, long time no see!\p"
-	.string "While I was searching for other\n"
-	.string "POKéMON, my POKéMON grew stronger.\p"
-	.string "So…\n"
-	.string "How about a little battle?$"
+	.string "小遥：{PLAYER}{KUN}\n"
+	.string "，好久不见了！\p"
+	.string "我寻找新宝可梦的同时，自己的宝可\n"
+	.string "梦也变强了！\p"
+	.string "所以……要不要来场对战？$"
 
 Route110_Text_MayDefeated:
-	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.string "哎呀！比想象得更强！$"
 
 Route110_Text_MayTakeThis:
-	.string "MAY: {PLAYER}{KUN}, you've been busy\n"
-	.string "training, too, haven't you?\p"
-	.string "I think you deserve a reward!\n"
-	.string "This is from me!$"
+	.string "小遥：{PLAYER}{KUN}\n"
+	.string "，你也有在努力训练吧？\p"
+	.string "这个奖励是你应得的，送给你！$"
 
 Route110_Text_MayExplainItemfinder:
-	.string "MAY: That's an ITEMFINDER.\p"
-	.string "Try it out. If there is an item that's\n"
-	.string "not visible, it emits a sound.\p"
-	.string "Okay, {PLAYER}{KUN}, let's meet again!\p"
-	.string "I know it's a little silly coming from\n"
-	.string "me, but I think you should train a lot\l"
-	.string "harder for the next time.$"
+	.string "小遥：这是探宝器。\p"
+	.string "使用时如果附近有隐藏的道具，它就\n"
+	.string "会发出声音。\p"
+	.string "{PLAYER}{KUN}，下次\n"
+	.string "见！\p"
+	.string "虽然由我来说有点怪，但我希望下次\n"
+	.string "见面时你变得更强呢！$"
 
 Route110_Text_BrendanLetsBattle:
-	.string "BRENDAN: Hey, {PLAYER}.\n"
-	.string "So this is where you were.\l"
-	.string "How's it going?\p"
-	.string "Have you been raising your POKéMON?\n"
-	.string "I'll check for you.$"
+	.string "小悠：嘿，{PLAYER}，原来\n"
+	.string "你也在这里。还顺利吗？\p"
+	.string "你的宝可梦训练得如何？让我来检查\n"
+	.string "看看！$"
 
 Route110_Text_BrendanDefeated:
-	.string "Hmm…\n"
-	.string "You're pretty good.$"
+	.string "唔……挺能干的嘛。$"
 
 Route110_Text_BrendanTakeThis:
-	.string "BRENDAN: {PLAYER}, you've trained\n"
-	.string "without me noticing…\p"
-	.string "Good enough!\n"
-	.string "Here, take this.$"
+	.string "小悠：{PLAYER}，不知不觉\n"
+	.string "地你已经变得这么强了……\p"
+	.string "干得不错！这个给你。$"
 
 Route110_Text_BrendanExplainItemfinder:
-	.string "BRENDAN: That's an ITEMFINDER.\p"
-	.string "Use it to root around for items that\n"
-	.string "aren't visible.\p"
-	.string "If it senses something, it emits\n"
-	.string "a sound.\p"
-	.string "Anyway, I'm off to look for new\n"
-	.string "POKéMON.$"
+	.string "小悠：这是探宝器。\p"
+	.string "用它可以寻找附近隐藏的道具。\p"
+	.string "如果它探测到东西，就会发出声音。\p"
+	.string "我要继续去找新的宝可梦了，回见！$"
 
 Route110_Text_RideBikeAtFullSpeed:
-	.string "Wouldn't it be great to ride a BIKE\n"
-	.string "at full speed on CYCLING ROAD?$"
+	.string "在自行车道上风驰电掣的感觉很好吧\n"
+	.string "？$"
 
 Route110_Text_HairStreamsBehindMe:
-	.string "How do you like the way my raven-\n"
-	.string "colored hair streams behind me?\p"
-	.string "I grew my hair out just for that.$"
+	.string "我乌亮的头发飘在脑后的样子怎么样\n"
+	.string "？\p"
+	.string "我就是为此才留长发的。$"
 
 Route110_Text_YouGotBikeFromRydel:
-	.string "Oh, hey, you got that BIKE from RYDEL!\p"
-	.string "Oh, it's glaringly obvious.\n"
-	.string "It says right on your bike…\p"
-	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\n"
-	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\p"
-	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\n"
-	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\p"
-	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\n"
-	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\p"
-	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\n"
-	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\p"
-	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL…\n"
-	.string "That name's everywhere.\p"
-	.string "You should ride it around all over\n"
-	.string "the place--it's good advertising!$"
+	.string "嘿，那是风野那儿的自行车！\p"
+	.string "啊，这很明显，就在你车子上写着呢\n"
+	.string "……\p"
+	.string "风野，风野，风野，风野，风野，风\n"
+	.string "野，风野，风野，风野，风野，\p"
+	.string "风野，风野，风野，风野，风野，风\n"
+	.string "野，风野，风野，风野，风野，\p"
+	.string "风野，风野，风野，风野，风野，风\n"
+	.string "野，风野，风野，风野，风野，\p"
+	.string "风野，风野，风野，风野，风野，风\n"
+	.string "野，风野，风野，风野，风野，\p"
+	.string "风野，风野，风野，风野，风野……\n"
+	.string "这名字到处都是。\p"
+	.string "你应该骑着它四处走走——广告效果\n"
+	.string "会很可观！$"
 
 Route110_Text_TwoRoads:
-	.string "The two roads, one above, one below…\p"
-	.string "A road each for people and POKéMON.\n"
-	.string "Perhaps that is right and fair.$"
+	.string "两条路，一条在上，一条在下……\p"
+	.string "一条给人，一条给宝可梦。也许这样\n"
+	.string "是最公平的。$"
 
 Route110_Text_WalkOnTheLowRoad:
-	.string "I don't have a BIKE, so I'll take\n"
-	.string "a leisurely walk on the low road.$"
+	.string "我没有自行车，所以我只能走下面的\n"
+	.string "路。$"
 
 Route110_Text_BikeTechniques:
-	.string "Learning techniques will make BIKE\n"
-	.string "riding even more fun.\p"
-	.string "There are some places that you can\n"
-	.string "reach only by using a BIKE technique.$"
+	.string "学些车技不只是为了好玩，\p"
+	.string "有些地方只有用车技才能到达。$"
 
 Route110_Text_WhichShouldIChoose:
-	.string "Which should I choose?\p"
-	.string "Make a beeline for MAUVILLE on\n"
-	.string "CYCLING ROAD, or take the low road\l"
-	.string "and look for POKéMON?$"
+	.string "我该选哪条路？\p"
+	.string "上自行车道走捷径去紫堇市，还是走\n"
+	.string "下面的路找宝可梦？$"
 
 Route110_Text_CyclingChallengeResultSummary:
-	.string "Number of collisions:\n"
-	.string "… … {STR_VAR_1}!\p"
-	.string "Total time:\n"
-	.string "… … {STR_VAR_2}!$"
+	.string "碰撞次数：……\n"
+	.string "{STR_VAR_1}次！\p"
+	.string "总时间：……\n"
+	.string "{STR_VAR_2}！$"
 
 Route110_Text_ChallengeReactionBest:
-	.string "Bravo! Splendid showing!\p"
-	.string "Your love of cycling comes from deep\n"
-	.string "within your heart.\l"
-	.string "You've shaken me to my very soul!$"
+	.string "华丽的表演！\p"
+	.string "你从心底热爱骑车，这让我的灵魂也\n"
+	.string "为此鼓舞！$"
 
 Route110_Text_ChallengeReactionGood:
-	.string "Your technique is remarkable.\p"
-	.string "I suggest you speed up a bit while\n"
-	.string "still avoiding collisions.$"
+	.string "你的技术不错。\p"
+	.string "但我想你还可以更快一点，或者再减\n"
+	.string "少几次碰撞。$"
 
 Route110_Text_ChallengeReactionOk:
-	.string "I would consider you a work in\n"
-	.string "progress.\p"
-	.string "Still, I hope you don't forget the\n"
-	.string "sheer pleasure of cycling.$"
+	.string "我想你确实努力了。\p"
+	.string "但我希望你不要忘记骑车的快感。$"
 
 Route110_Text_ChallengeReactionBad:
-	.string "My word… Your cycling skills border\n"
-	.string "on terrifying.\p"
-	.string "Most certainly, you need much more\n"
-	.string "practice riding.$"
+	.string "要我说……你的骑车水平还不行。\p"
+	.string "很明显，你还得练习。$"
 
 Route110_Text_ChallengeReactionWorst:
-	.string "…I am aghast…\p"
-	.string "You're perhaps not cut out for this\n"
-	.string "unfortunate cycling business.\p"
-	.string "You ought to give serious thought to\n"
-	.string "returning that BIKE to RYDEL.$"
+	.string "……我很无奈……\p"
+	.string "你也许并不适合骑车。\p"
+	.string "你该考虑考虑把车还给风野。$"
 
 Route110_Text_RatedForNumberOfCollisions:
-	.string "This is CYCLING ROAD.\p"
-	.string "If you were to ride from MAUVILLE to\n"
-	.string "SLATEPORT on a MACH BIKE, you would\l"
-	.string "be rated for the number of collisions\l"
-	.string "and your total time.$"
+	.string "这里是自行车道。\p"
+	.string "如果你骑着音速自行车从紫堇市到凯\n"
+	.string "那市去，你的碰撞次数和总时间都会\l"
+	.string "被记录下来。$"
 
 Route110_Text_AlwaysAimHigher:
-	.string "Regardless of the results, I count on\n"
-	.string "seeing more challenges from you.\l"
-	.string "Always aim higher!$"
+	.string "不管结果如何，我想看看你挑战纪录\n"
+	.string "的样子。向更高目标冲刺吧！$"
 
 Route110_Text_AcroBikesDoNotQualify:
-	.string "On this CYCLING ROAD, those riding\n"
-	.string "MACH BIKES are rated for their number\l"
-	.string "of collisions and their total times.\p"
-	.string "ACRO BIKES do not qualify for rating.\n"
-	.string "They are easy to turn, so it's not fair.$"
+	.string "这条自行车道上，骑音速自行车的人\n"
+	.string "通过整条路所用的时间和碰撞次数都\l"
+	.string "会被记录下来。\p"
+	.string "越野自行车的成绩不会被记录，它们\n"
+	.string "很好操控，直接比较有失公平。$"
 
 Route110_Text_SlateportCitySign:
-	.string "ROUTE 110\n"
-	.string "{DOWN_ARROW} SLATEPORT CITY$"
+	.string "110号道路\n"
+	.string "{DOWN_ARROW}凯那市$"
 
 Route110_Text_CyclingRoadSign:
-	.string "SEASIDE CYCLING ROAD$"
+	.string "海滨自行车道$"
 
 Route110_Text_AquaWasHere:
-	.string "“TEAM AQUA was here!”\p"
-	.string "Someone painted that onto this sign,\n"
-	.string "but then someone else painted over it.\p"
-	.string "“TEAM MAGMA rules!” is what it\n"
-	.string "says now.$"
+	.string "“海洋队到此一游！”\p"
+	.string "牌子上有人涂了这样的文字，但后来\n"
+	.string "有什么人涂掉了那些字。\p"
+	.string "“熔岩队最高！”现在上面是这么写\n"
+	.string "的。$"
 
 Route110_Text_Route103Sign:
-	.string "ROUTE 110\n"
-	.string "{LEFT_ARROW} ROUTE 103$"
+	.string "110号道路\n"
+	.string "{LEFT_ARROW}103号\l"
+	.string "道路$"
 
 Route110_Text_SeasideParkingSign:
-	.string "SEASIDE PARKING$"
+	.string "海边停车场$"
 
 Route110_Text_MauvilleCitySign:
-	.string "ROUTE 110\n"
-	.string "{UP_ARROW} MAUVILLE CITY$"
+	.string "110号道路{UP_ARROW}\n"
+	.string "紫堇市$"
 
 Route110_Text_TrainerTipsPrlzSleep:
-	.string "TRAINER TIPS\p"
-	.string "The foe can be made helpless by\n"
-	.string "paralyzing it or causing it to sleep.\p"
-	.string "It is an important technique for\n"
-	.string "POKéMON battles.$"
+	.string "有用的公告牌！\p"
+	.string "敌人被麻痹或催眠后会变得束手无策\n"
+	.string "。\p"
+	.string "这类招式在对战中很重要。$"
 
 Route110_Text_TrainerTipsRegisterItems:
-	.string "TRAINER TIPS\p"
-	.string "The items in the BAG can be reorganized\n"
-	.string "by pressing SELECT.$"
+	.string "有用的公告牌！\p"
+	.string "包包里的道具可以按SELECT键\n"
+	.string "来整理。$"
 
 Route110_Text_TrickHouseSign:
-	.string "“Three steps {RIGHT_ARROW} and two steps {UP_ARROW}\n"
-	.string "to reach the wondrous TRICK HOUSE.”$"
+	.string "“{RIGHT_ARROW}3步\n"
+	.string "，{UP_ARROW}2步，进入\l"
+	.string "奇妙的戏法屋。”$"
 
 Route110_Text_BestRecord:
-	.string "THE BEST RECORD TO DATE…\p"
-	.string "No. of collisions: {STR_VAR_1}\p"
-	.string "Elapsed time: {STR_VAR_2}$"
+	.string "至今为止最好的纪录……\p"
+	.string "碰撞次数：{STR_VAR_1}\p"
+	.string "用时：{STR_VAR_2}$"
 
 Route110_Text_ThereIsNoRecord:
-	.string "THE BEST RECORD TO DATE…\p"
-	.string "No one seems to have taken the\n"
-	.string "challenge. There is no record…$"
+	.string "至今为止最好的纪录……\p"
+	.string "还未出现挑战者。没有纪录……$"
 
 Route110_Text_ImagineSeeingYouHere:
-	.string "PROF. BIRCH: Oh, {PLAYER}{KUN}!\n"
-	.string "Imagine seeing you here!\p"
-	.string "And where might my {RIVAL} be?$"
+	.string "小田卷博士：哦，{PLAYER}\n"
+	.string "{KUN}！没想到会在这儿遇见你\l"
+	.string "！\p"
+	.string "我家{RIVAL}呢？$"
 
 Route110_Text_HeardYouInstallMatchCall:
-	.string "Oh, I see!\n"
-	.string "You two are running separately.\l"
-	.string "Well, that's fine.\p"
-	.string "Oh, yes, I heard that your POKéNAV\n"
-	.string "had the MATCH CALL system installed.\p"
-	.string "Well, then, I should register you in\n"
-	.string "my POKéNAV as well.\p"
-	.string "That way, even when we're apart,\n"
-	.string "I can rate your POKéDEX anytime.\p"
-	.string "… … … … … …$"
+	.string "哦，原来如此！你们两个是分开行动\n"
+	.string "的。嗯，这样也好。\p"
+	.string "对了，听说你的宝可导航里装了对战\n"
+	.string "寻呼系统，\p"
+	.string "那么，我们也互相登记信息吧。\p"
+	.string "这样一来，即使不在一起，我也能评\n"
+	.string "估你的宝可梦图鉴进度了。\p"
+	.string "…… …… ……$"
 
 Route110_Text_RegisteredBirchInPokenav:
-	.string "Registered PROF. BIRCH\n"
-	.string "in the POKéNAV.$"
+	.string "把小田卷博士登记到宝可导航里了。$"
 
 Route110_Text_KeepAnEyeOutForRival:
-	.string "PROF. BIRCH: {PLAYER}{KUN}…\p"
-	.string "Please keep an eye out for my {RIVAL}.\n"
-	.string "… … … … … …\p"
-	.string "Well, I had better get going.\n"
-	.string "See you again, {PLAYER}{KUN}!$"
+	.string "小田卷博士：{PLAYER}\n"
+	.string "{KUN}……\p"
+	.string "请替我多关照{RIVAL}！……\n"
+	.string " …… ……\p"
+	.string "好了，我得先走啦！再见，\n"
+	.string "{PLAYER}{KUN}！$"
 

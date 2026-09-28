@@ -44,46 +44,40 @@ VermilionCity_PokemonCenter_1F_EventScript_ExplainVSSeeker::
 	end
 
 VermilionCity_PokemonCenter_1F_Text_TrainerMonsStrongerThanWild::
-	.string "Even if they are the same level,\n"
-	.string "POKéMON can have very different\l"
-	.string "stats and abilities.\p"
-	.string "A POKéMON raised by a TRAINER is\n"
-	.string "stronger than one in the wild.$"
+	.string "即使是相同的等级，宝可梦能拥有非\n"
+	.string "常不同的技能和力量。\p"
+	.string "训练家培育的宝可梦要强于野生的。$"
 
 VermilionCity_PokemonCenter_1F_Text_PoisonedMonFaintedWhileWalking::
-	.string "My POKéMON was poisoned!\n"
-	.string "It fainted while we were walking!$"
+	.string "我的宝可梦中毒了！我们走路的时候\n"
+	.string "它会进入濒死状态！$"
 
 VermilionCity_PokemonCenter_1F_Text_AllMonWeakToSpecificTypes::
-	.string "It is true that a higher-level\n"
-	.string "POKéMON will be more powerful…\p"
-	.string "But, all POKéMON will have weak\n"
-	.string "points against specific types.\p"
-	.string "So, there appears to be no\n"
-	.string "universally strong POKéMON.$"
+	.string "确实一只等级高的宝可梦会更厉害…\n"
+	.string "…\p"
+	.string "但是，所有的宝可梦在对上特定的系\n"
+	.string "的时候都会有弱点。\p"
+	.string "所以，没有一只永远强大的宝可梦。$"
 
 VermilionCity_PokemonCenter_1F_Text_UrgeToBattleSomeoneAgain::
-	.string "The urge to battle with someone\n"
-	.string "you've tangled with before…\p"
-	.string "Have you ever had that urge?\n"
-	.string "I'm sure you have.\p"
-	.string "I wanted to battle certain people\n"
-	.string "again over and over, too.\p"
-	.string "So, I've been giving these away.\n"
-	.string "Please, take one!$"
+	.string "对曾经战斗过的人你有过……\p"
+	.string "想要再次挑战的欲望吗？我想你肯定\n"
+	.string "有过。\p"
+	.string "我也想一次又一次地和从前的某些人\n"
+	.string "战斗。\p"
+	.string "我就是以这样的方式在战斗着。拿着\n"
+	.string "这个吧！$"
 
 VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematches::
-	.string "Use that device and you'll find\n"
-	.string "TRAINERS looking for a rematch.\p"
-	.string "You have to charge its battery to\n"
-	.string "use it, though.$"
+	.string "用这个装置你可以找到曾经战斗过的\n"
+	.string "训练家再战。\p"
+	.string "但是你在使用前得把电充好。$"
 
 VermilionCity_PokemonCenter_1F_Text_ExplainVSSeeker::
-	.string "How do you use the VS SEEKER?\n"
-	.string "There's nothing to it.\p"
-	.string "Use it like beep-beep-beep, and\n"
-	.string "TRAINERS around you will notice.\p"
-	.string "If any TRAINER wants a rematch,\n"
-	.string "it will let you know immediately.\p"
-	.string "Charge its battery and use it\n"
-	.string "while you're on a road.$"
+	.string "你是怎样使用对战搜寻器的？这没什\n"
+	.string "么困难的。\p"
+	.string "使用时会发出哔-哔-嘟的声音，你\n"
+	.string "再看看周围的训练家。\p"
+	.string "如过任何训练家想再战，它会让你马\n"
+	.string "上知道。\p"
+	.string "当你在室外时，记得先充好电。$"

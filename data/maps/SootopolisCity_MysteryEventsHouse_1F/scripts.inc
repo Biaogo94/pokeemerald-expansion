@@ -164,65 +164,60 @@ SootopolisCity_MysteryEventsHouse_1F_Movement_OldManMoveAsideRight:
 	step_end
 
 SootopolisCity_MysteryEventsHouse_1F_Text_OnlyAmusementWatchingBattles:
-	.string "When I was young, I traveled the world\n"
-	.string "as a POKéMON TRAINER.\p"
-	.string "Now that I've become an old buzzard,\n"
-	.string "my only amusement is watching young\l"
-	.string "TRAINERS battle.$"
+	.string "我年轻的时候也是一个环游世界的宝\n"
+	.string "可梦训练家，\p"
+	.string "但现在我已经日薄西山，唯一的乐趣\n"
+	.string "只有看年轻训练家对战了。$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_DoorAppearsToBeLocked:
-	.string "The door appears to be locked.$"
+	.string "这扇门上了锁。$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_ChallengeVisitingTrainer:
-	.string "A TRAINER named {STR_VAR_1}\n"
-	.string "is visiting my home.\p"
-	.string "Would you like to challenge\n"
-	.string "{STR_VAR_1}?$"
+	.string "一个叫{STR_VAR_1}的训\n"
+	.string "练家到我家来了，\p"
+	.string "你想挑战{STR_VAR_1}吗\n"
+	.string "？$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_YouWontBattle:
-	.string "You won't battle? I'm disappointed\n"
-	.string "that I can't see you battle…$"
+	.string "你不想对战？好失望，我真的很想看\n"
+	.string "你们的对战……$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_KeepItTo3On3:
-	.string "Oh, good, good!\p"
-	.string "But my house isn't all that sturdy.\p"
-	.string "Could I ask you to keep it down to\n"
-	.string "a 3-on-3 match?$"
+	.string "啊，好，太好了！\p"
+	.string "不过我的房子不是特别坚固，\p"
+	.string "能请你们进行一场3对3的对战吗？$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_SaveProgressBeforeBattle:
-	.string "Before you two battle, you should\n"
-	.string "save your progress.$"
+	.string "在你们2个对战前要先写入记录。$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_HopeToSeeGoodMatch:
-	.string "I hope to see a good match!$"
+	.string "我想要看到一场精彩的对战！$"
 
 @ Unused
 SootopolisCity_MysteryEventsHouse_1F_Text_StrVar1Tie:
 	.string "{STR_VAR_1}$"
 
 SootopolisCity_MysteryEventsHouse_B1F_Text_MatchEndedUpDraw:
-	.string "The match ended up a draw.$"
+	.string "对战以平局结束。$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_BrilliantStandoff:
-	.string "So, it became a standoff.\p"
-	.string "It was a brilliant match in which\n"
-	.string "neither side conceded a step!$"
+	.string "是平局哦。\p"
+	.string "双方都没有让步真是场精彩的比赛！$"
 
 @ Unused
 SootopolisCity_MysteryEventsHouse_1F_Text_StrVar1Won:
 	.string "{STR_VAR_1}$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_ThatWasSuperlative:
-	.string "That was superlative!\p"
-	.string "Why, it was like seeing myself in\n"
-	.string "my youth again!$"
+	.string "太优秀了！\p"
+	.string "我彷佛又看到了我年轻的时候！$"
 
 @ Unused
 SootopolisCity_MysteryEventsHouse_1F_Text_StrVar1Lost:
 	.string "{STR_VAR_1}$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_TooBadForYou:
-	.string "Ah, too bad for you!\p"
-	.string "But it was a good match.\n"
-	.string "I hope you can win next time.$"
+	.string "啊，太糟糕了！\p"
+	.string "但是确实是场不错的对战。希望下次\n"
+	.string "你可以赢。$"
 

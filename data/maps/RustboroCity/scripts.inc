@@ -1015,176 +1015,155 @@ RustboroCity_EventScript_Boy1::
 	end
 
 RustboroCity_Text_WeShortenItToDevon:
-	.string "The DEVON CORPORATION…\n"
-	.string "We all just shorten it to DEVON.\p"
-	.string "That company makes all sorts of\n"
-	.string "convenient products.$"
+	.string "得文公司……我们简称为得文。\p"
+	.string "那家公司发明了很多便利的产品。$"
 
 RustboroCity_Text_SneakyLookingManWentAroundCorner:
-	.string "Hm? A sneaky-looking man?\p"
-	.string "Come to think of it, yes, a shady-\n"
-	.string "looking guy went around the corner.$"
+	.string "嗯？鬼鬼祟祟的人？\p"
+	.string "说起来，好像的确有个可疑的家伙绕\n"
+	.string "过那个拐角了。$"
 
 RustboroCity_Text_HaveYouChallengedGym:
-	.string "Have you taken the POKéMON GYM\n"
-	.string "challenge?\p"
-	.string "When you get that shiny GYM BADGE\n"
-	.string "in hand, I guess TRAINERS begin to\l"
-	.string "realize what is required of them.$"
+	.string "你去挑战过宝可梦道馆了吗？\p"
+	.string "手中拿着那闪闪发光的道馆徽章时，\n"
+	.string "我想训练家们都会意识到他们肩上负\l"
+	.string "担的是什么。$"
 
 RustboroCity_Text_HeyThatsRustborosGymBadge:
-	.string "Hey, that's RUSTBORO's GYM BADGE!\p"
-	.string "Out of all the POKéMON GYM BADGES,\n"
-	.string "RUSTBORO's is the coolest, I'd say.$"
+	.string "呀，那是卡那兹市的道馆徽章！\p"
+	.string "我觉得，所有宝可梦道馆徽章之中，\n"
+	.string "卡那兹市的是最漂亮的。$"
 
 RustboroCity_Text_YoureNewAroundHere:
-	.string "Oh? Who might you be?\n"
-	.string "You're a new face around these parts.\p"
-	.string "Have you just transferred into the\n"
-	.string "POKéMON TRAINER'S SCHOOL?$"
+	.string "哦？你是谁？好像在附近没看到过你\n"
+	.string "。\p"
+	.string "你是新转来宝可梦训练家学校的吗？$"
 
 RustboroCity_Text_GymLeaderIsntEasyWithFire:
-	.string "I challenged the GYM LEADER, but…\p"
-	.string "It's not going to be easy winning with\n"
-	.string "my FIRE-type POKéMON…\p"
-	.string "FIRE-type POKéMON don't match up\n"
-	.string "well against ROCK-type POKéMON…$"
+	.string "我挑战过道馆馆主，但是……\p"
+	.string "我的火属性宝可梦很难打赢他们……\p"
+	.string "火属性宝可梦被岩石属性宝可梦克制\n"
+	.string "……$"
 
 RustboroCity_Text_MrBrineyWalksInTheTunnel:
-	.string "The old sailor MR. BRINEY lives in\n"
-	.string "a cottage by the sea.\p"
-	.string "He goes for walks in the tunnel every\n"
-	.string "so often.$"
+	.string "老水手哈奇住在海边的小屋里，\p"
+	.string "他经常去隧道里散步。$"
 
 RustboroCity_Text_MrBrineyLovesPeeko:
-	.string "The old sailor MR. BRINEY lives in\n"
-	.string "a cottage by the sea.\p"
-	.string "He said he was going shopping in\n"
-	.string "SLATEPORT for his pet, PEEKO.\p"
-	.string "That old sea dog, he must really love\n"
-	.string "that PEEKO.$"
+	.string "老水手哈奇住在海边的小屋里，\p"
+	.string "他说要去凯那市为他的宠物小皮买些\n"
+	.string "东西。\p"
+	.string "那个老水手一定很爱他的小皮。$"
 
 RustboroCity_Text_WowYouHavePokemon:
-	.string "Wow, you have POKéMON with you, too.\p"
-	.string "When I get bigger, I'm going to go\n"
-	.string "places with POKéMON, too.$"
+	.string "哇，你也带着宝可梦！\p"
+	.string "我长大以后也要带宝可梦一起去旅行\n"
+	.string "。$"
 
 RustboroCity_Text_CatchRarePokemonIfIGoToSchool:
-	.string "POKéMON TRAINER'S SCHOOL!\p"
-	.string "If I go to this school, will I be able\n"
-	.string "to catch rare POKéMON easily?$"
+	.string "宝可梦训练家学校！\p"
+	.string "如果我进这所学校的话，捕捉稀有宝\n"
+	.string "可梦会更容易吗？$"
 
 RustboroCity_Text_PokemonCanChangeLookFromExp:
-	.string "If a POKéMON gains experience in\n"
-	.string "battles, it can sometimes change in\l"
-	.string "the way it looks.$"
+	.string "宝可梦在对战中获得经验后，到某时\n"
+	.string "有可能会改变形态。$"
 
 RustboroCity_Text_PokemonChangeShape:
-	.string "A POKéMON changes shape?\n"
-	.string "If one did that, I would be shocked!$"
+	.string "宝可梦会改变形态？如果真是那样，\n"
+	.string "我会大吃一惊的！$"
 
 RustboroCity_Text_TradePokemonGrowFast:
-	.string "A POKéMON you get in a trade from\n"
-	.string "someone grows fast.\p"
-	.string "But if you don't have certain GYM\n"
-	.string "BADGES, it may not obey you…$"
+	.string "交换得来的宝可梦成长会很快，\p"
+	.string "但如果没有相应的道馆徽章，它有可\n"
+	.string "能会不听你的话……$"
 
 RustboroCity_Text_OutOfTheWay:
-	.string "Get out!\n"
-	.string "Out of the way!$"
+	.string "一边去！别挡路！$"
 
 RustboroCity_Text_WaitDontTakeMyGoods:
-	.string "Wait! Pleeeaaase!\p"
-	.string "Don't take my GOODS!$"
+	.string "等等！等——等！\p"
+	.string "别抢我的包裹！$"
 
 RustboroCity_Text_HelpMeIWasRobbed:
-	.string "Oh, it's you!\p"
-	.string "You're that fantastic TRAINER who\n"
-	.string "helped me in PETALBURG WOODS!\p"
-	.string "Help me! I was robbed by TEAM AQUA!\n"
-	.string "I have to get the DEVON GOODS back!\p"
-	.string "If I don't…\n"
-	.string "I'm going to be in serious trouble.$"
+	.string "啊，是你！\p"
+	.string "你是橙华森林里帮过我的那个训练家\n"
+	.string "！\p"
+	.string "请再帮我一次吧！海洋队抢了我的东\n"
+	.string "西！我得把得文的物品拿回来！\p"
+	.string "否则……我会有大麻烦的。$"
 
 RustboroCity_Text_ShadyCharacterTookOffTowardsTunnel:
-	.string "That shady character, I think he took\n"
-	.string "off towards the tunnel over there.$"
+	.string "那个可疑的家伙好像朝着那边的隧道\n"
+	.string "逃跑了。$"
 
 RustboroCity_Text_YouGotItThankYou:
-	.string "Oh! How did it go?\n"
-	.string "The DEVON GOODS?\p"
-	.string "You did!\n"
-	.string "You got them back!\p"
-	.string "You really are a great TRAINER!\p"
-	.string "I know! As my thanks, I'll give you\n"
-	.string "another GREAT BALL!$"
+	.string "嗨！怎么样了？得文的物品？\p"
+	.string "太好了！你拿回来了！\p"
+	.string "你真是厉害的训练家！\p"
+	.string "这些超级球就作为我的谢礼吧！$"
 
 RustboroCity_Text_YoureLoadedWithItems:
-	.string "You're loaded with items.\n"
-	.string "I can't give you this GREAT BALL.$"
+	.string "你背了太多东西，装不下这些超级球\n"
+	.string "了。$"
 
 RustboroCity_Text_PleaseComeWithMe:
-	.string "Excuse me, please!\n"
-	.string "Please come with me!$"
+	.string "我可以占用你些时间吗？请跟我来！$"
 
 RustboroCity_Text_MayHiLetsRegister:
-	.string "MAY: Oh, hi, {PLAYER}{KUN}!\p"
-	.string "You had a MATCH CALL feature put\n"
-	.string "on your POKéNAV!\p"
-	.string "Let's register each other so we can\n"
-	.string "contact one another anytime!\p"
-	.string "… … … … … …$"
+	.string "小遥：啊，{PLAYER}\n"
+	.string "{KUN}！\p"
+	.string "你的宝可导航装了对战寻呼功能吧！\p"
+	.string "我们互相登记一下信息吧，这样随时\n"
+	.string "都能联系了！\p"
+	.string "…… …… ……$"
 
 RustboroCity_Text_RegisteredMay:
-	.string "Registered MAY\n"
-	.string "in the POKéNAV.$"
+	.string "把小遥登记到宝可导航里了。$"
 
 RustboroCity_Text_MayPassedBrineyWantToBattle:
-	.string "MAY: Oh, by the way, I passed\n"
-	.string "MR. BRINEY in PETALBURG WOODS.\p"
-	.string "I guess he's on his way home to his\n"
-	.string "cottage by the sea.\p"
-	.string "How's your POKéDEX coming along,\n"
-	.string "{PLAYER}{KUN}? Mine's looking pretty decent!\p"
-	.string "So…\n"
-	.string "How about a little battle?$"
+	.string "小遥：对了，我在橙华森林遇到哈奇\n"
+	.string "老人了，\p"
+	.string "他大概正要回他的海边小屋吧。\p"
+	.string "对了，你的宝可梦图鉴进度怎么样，\n"
+	.string "{PLAYER}{KUN}？我这\l"
+	.string "边的进度不错哦！\p"
+	.string "所以……要不要来场对战？$"
 
 RustboroCity_Text_MayOhHaventRaisedPokemonEnough:
-	.string "MAY: Oh, what's the matter?\p"
-	.string "Haven't you caught or raised your\n"
-	.string "POKéMON very much?\p"
-	.string "That's not very good for a TRAINER!$"
+	.string "小遥：哎——为什么？\p"
+	.string "你没有好好捕捉和培育宝可梦吗？\p"
+	.string "作为训练家可不应该这样！$"
 
 RustboroCity_Text_MayWantToBattle:
-	.string "MAY: So, what do you think?\n"
-	.string "How about a little battle here?$"
+	.string "小遥：所以，怎么样？要不要来场对\n"
+	.string "战？$"
 
 RustboroCity_Text_MayImNotGoingToLose:
-	.string "MAY: You just became a TRAINER,\n"
-	.string "{PLAYER}{KUN}. I'm not going to lose!$"
+	.string "小遥：你刚刚成为训练家，\n"
+	.string "{PLAYER}{KUN}。我可\l"
+	.string "不会输哦！$"
 
 RustboroCity_Text_MayDefeat:
-	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.string "呜哇！比想象中厉害得多……$"
 
 RustboroCity_Text_MayMrBrineyHint:
-	.string "MAY: Oh, by the way, MR. BRINEY, who\n"
-	.string "I just passed…\p"
-	.string "{PLAYER}{KUN}, you just moved here so you\n"
-	.string "might not know this, but MR. BRINEY\l"
-	.string "was once a revered seafarer.$"
+	.string "小遥：对了，说到我刚才遇到的哈奇\n"
+	.string "老人……\p"
+	.string "{PLAYER}{KUN}，你刚\n"
+	.string "搬过来，也许不知道，哈奇老人以前\l"
+	.string "可是超级有名的水手。$"
 
 RustboroCity_Text_BrendanHiLetsRegister:
-	.string "BRENDAN: Oh, hey, {PLAYER}!\p"
-	.string "You had a MATCH CALL feature put\n"
-	.string "on your POKéNAV! Cool!\p"
-	.string "Let's register each other so we can\n"
-	.string "get in touch anytime!\p"
-	.string "… … … … … …$"
+	.string "小悠：嘿，{PLAYER}！\p"
+	.string "你的宝可导航装了对战寻呼功能啊！\n"
+	.string "太棒了！\p"
+	.string "我们互相登记一下信息吧，这样就能\n"
+	.string "随时联系了！\p"
+	.string "…… …… ……$"
 
 RustboroCity_Text_RegisteredBrendan:
-	.string "Registered BRENDAN\n"
-	.string "in the POKéNAV.$"
+	.string "把小悠登记到宝可导航里了。$"
 
 RustboroCity_Text_BrendanPassedBrineyWantToBattle:
 	.string "BRENDAN: By the way, {PLAYER}, I walked\n"
@@ -1198,49 +1177,43 @@ RustboroCity_Text_BrendanPassedBrineyWantToBattle:
 	.string "far you've progressed?$"
 
 RustboroCity_Text_BrendanNoConfidenceInPokemon:
-	.string "BRENDAN: What's the matter? Don't have\n"
-	.string "any confidence in your POKéMON?$"
+	.string "小悠：怎么了？对自己的宝可梦没信\n"
+	.string "心吗？$"
 
 RustboroCity_Text_BrendanWantToBattle:
-	.string "BRENDAN: What's up?\n"
-	.string "Want to have a battle with me?$"
+	.string "小悠：怎样？想和我来场对战吗？$"
 
 RustboroCity_Text_BrendanIWontGoEasy:
-	.string "BRENDAN: I know you just became\n"
-	.string "a TRAINER, but I won't go easy!$"
+	.string "小悠：虽然你刚成为训练家，但我不\n"
+	.string "会手下留情哦！$"
 
 RustboroCity_Text_BrendanDefeat:
-	.string "Hmm…\n"
-	.string "You're pretty good.$"
+	.string "嘿……挺有两下子嘛。$"
 
 RustboroCity_Text_BrendanMrBrineyHint:
-	.string "BRENDAN: By the way, you know\n"
-	.string "MR. BRINEY? The guy I just passed?\p"
-	.string "I bet you didn't know this, since you\n"
-	.string "just moved here, {PLAYER}, but\l"
-	.string "MR. BRINEY was once a great sailor.$"
+	.string "小悠：对了，你知道我刚刚遇到的那\n"
+	.string "个哈奇老人吗？\p"
+	.string "我想你刚搬来不久所以还不知道，\n"
+	.string "{PLAYER}，哈奇老人以前可\l"
+	.string "是超级有名的水手！$"
 
 RustboroCity_Text_TunnelNearingCompletion:
-	.string "“Timesaving tunnel nearing\n"
-	.string "completion!”\p"
-	.string "…Is what it says on the sign, but\n"
-	.string "there's also a big “X” splashed\l"
-	.string "across it in red paint…$"
+	.string "“便利隧道即将完工！”\p"
+	.string "……牌子上这么写着，但上面还有个\n"
+	.string "用红漆画了的大大的“X”……$"
 
 RustboroCity_Text_DevonCorpSign:
-	.string "DEVON CORPORATION\p"
-	.string "“For all your living needs, we make\n"
-	.string "it all.”$"
+	.string "得文公司\p"
+	.string "“我们会为您提供一切日常必需品。\n"
+	.string "”$"
 
 RustboroCity_Text_GymSign:
-	.string "RUSTBORO CITY POKéMON GYM\n"
-	.string "LEADER: ROXANNE\p"
-	.string "“The ROCK-loving honors student!”$"
+	.string "卡那兹市宝可梦道馆馆主：杜娟\p"
+	.string "“陶醉于岩石的高材生！”$"
 
 RustboroCity_Text_DevonCorpBranchOfficeSign:
-	.string "DEVON CORP. BRANCH OFFICE\p"
-	.string "“Access limited to DEVON employees\n"
-	.string "and authorized personnel.”$"
+	.string "得文公司分部办公室\p"
+	.string "“闲杂人等请勿入内。”$"
 
 RustboroCity_Text_CitySign:
 	.string "RUSTBORO CITY\p"
@@ -1248,45 +1221,41 @@ RustboroCity_Text_CitySign:
 	.string "nature and science.”$"
 
 RustboroCity_Text_TrainersSchoolSign:
-	.string "POKéMON TRAINER'S SCHOOL\p"
-	.string "“We'll teach you anything about\n"
-	.string "POKéMON!”$"
+	.string "宝可梦训练家学校\p"
+	.string "“教给你关于宝可梦的一切！”$"
 
 RustboroCity_Text_CuttersHouse:
-	.string "CUTTER'S HOUSE$"
+	.string "居合劈大叔的家$"
 
 RustboroCity_Text_DevelopedNewPokenavFeature:
-	.string "I've been developing an added feature\n"
-	.string "for the POKéNAV…\p"
-	.string "And it turned out great!\p"
-	.string "{PLAYER}, may I see that POKéNAV?\n"
-	.string "The one our PRESIDENT gave you?$"
+	.string "我最近一直在为宝可导航开发新功能\n"
+	.string "……\p"
+	.string "结果非常成功！\p"
+	.string "{PLAYER}，能让我看看社长\n"
+	.string "给你的宝可导航吗？$"
 
 RustboroCity_Text_AddedMatchCallPleaseCallMrStone:
-	.string "There you go, {PLAYER}!\p"
-	.string "I added a new feature named\n"
-	.string "MATCH CALL to your POKéNAV.\p"
-	.string "Using the MATCH CALL feature,\n"
-	.string "you can chat with people who have\l"
-	.string "been registered in your POKéNAV.\p"
-	.string "{PLAYER}, our PRESIDENT STONE should\n"
-	.string "be registered in your POKéNAV.\p"
-	.string "Test it out.\n"
-	.string "Please give our PRESIDENT a call.$"
+	.string "好了，{PLAYER}！\p"
+	.string "我给你的宝可导航加了个对战寻呼的\n"
+	.string "功能。\p"
+	.string "你现在可以用对战寻呼与登记到你宝\n"
+	.string "可导航里的人聊天了。\p"
+	.string "{PLAYER}，我们的社长兹伏\n"
+	.string "奇已经登记到你的宝可导航里了，\p"
+	.string "试试看吧，给我们社长打个电话。$"
 
 RustboroCity_Text_PleaseSelectPokenav:
-	.string "Please select the POKéNAV.$"
+	.string "请选择宝可导航。$"
 
 RustboroCity_Text_IdBetterGetBackToWork:
-	.string "Okay, I'd better get back to work.\n"
-	.string "Please take care, {PLAYER}!$"
+	.string "好了，我得继续工作了。一路顺风，\n"
+	.string "{PLAYER}！$"
 
 RustboroCity_Text_YouCanHave2On2Battle:
-	.string "Did you know this?\p"
-	.string "You can have a 2-on-2 battle even\n"
-	.string "if you're not with another TRAINER.\p"
-	.string "If you catch the eyes of two TRAINERS\n"
-	.string "when you have two or more POKéMON,\l"
-	.string "they'll both challenge you.\p"
-	.string "Don't you think it'd be cool if you\n"
-	.string "could beat two TRAINERS by yourself?$"
+	.string "知道吗？\p"
+	.string "即使你并未和其他训练家同行，也可\n"
+	.string "以进行2对2战斗。\p"
+	.string "如果你拥有2只以上宝可梦时被2个\n"
+	.string "训练家看到，他们会同时向你挑战。\p"
+	.string "你不觉得能独自打败2个训练家很厉\n"
+	.string "害吗？$"

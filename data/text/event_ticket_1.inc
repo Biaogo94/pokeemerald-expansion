@@ -1,24 +1,22 @@
 EventTicket_Text_ShowOldSeaMap:
-	.string "The ferry to SLATEPORT is…\p"
-	.string "I beg your pardon?\n"
-	.string "Can we sail to this place on the map?\p"
-	.string "I know someone who will help you better.\n"
-	.string "Please wait.$"
+	.string "去凯那市的渡轮……\p"
+	.string "嗯？什么？要去地图上的这个地方吗\n"
+	.string "？\p"
+	.string "我认得一个人，也许能帮上你。请稍\n"
+	.string "等。$"
 
 EventTicket_Text_ThatPass:
-	.string "The ferry to SLATEPORT is…\p"
-	.string "Oh?\n"
-	.string "That PASS…$"
+	.string "去凯那市的渡轮……\p"
+	.string "哦？那张船票……$"
 
 EventTicket_Text_ShowEonTicket:
-	.string "Aye, mate, are you the one who brought\n"
-	.string "that mighty odd PASS?\p"
-	.string "I'll tell you, you're trying to reach a\n"
-	.string "tiny spit of an island far in the south.\p"
-	.string "There's no telling what we'll encounter\n"
-	.string "once we reach there, aye.\l"
-	.string "That shivers my timbers!\p"
-	.string "All aboard!$"
+	.string "嘿，伙计，拿着那张奇怪的船票的人\n"
+	.string "就是你吗？\p"
+	.string "我说，那可是南方非常远的一个小岛\n"
+	.string "，\p"
+	.string "而且谁也不知道到那儿之后会碰上什\n"
+	.string "么东西，想想就激动啊！\p"
+	.string "上船了！$"
 
 #if IS_HNS
 EventTicket_Text_SouthernIslandSailBack:
@@ -34,16 +32,15 @@ EventTicket_Text_SouthernIslandSailBack:
 
 
 EventTicket_Text_SailHome:
-	.string "Aye, right, then!\n"
-	.string "Sail home we will!$"
+	.string "好的！出海，回家去了！$"
 
 EventTicket_Text_AsYouLike:
-	.string "Aye, right, as you like, then.$"
+	.string "好的，你随意吧。$"
 
 SouthernIsland_Interior_Text_Sign:
-	.string "“All dreams are but another reality.\n"
-	.string "Never forget…”$"
+	.string "“所有的梦境都只是另一个现实。永\n"
+	.string "远不要忘记……”$"
 
 SouthernIsland_Exterior_Text_Sign:
-	.string "“Those whose memories fade seek to\n"
-	.string "carve them in their hearts…”$"
+	.string "“那些似已逝去的记忆，人们会将其\n"
+	.string "镌刻在心的最深处……”$"

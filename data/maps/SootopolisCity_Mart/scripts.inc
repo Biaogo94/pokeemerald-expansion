@@ -53,23 +53,19 @@ SootopolisCity_Mart_EventScript_GentlemanNoLegendaries::
 	end
 
 SootopolisCity_Mart_Text_PPUpIsGreat:
-	.string "PP UP is great!\p"
-	.string "It raises the POWER POINTS, the PP,\n"
-	.string "of a POKéMON move.$"
+	.string "PP提升剂真不错！\p"
+	.string "它能提升宝可梦招式的PP值。$"
 
 SootopolisCity_Mart_Text_TooScaryOutside:
-	.string "What…\n"
-	.string "What is happening?\p"
-	.string "I really want to know, but it's too\n"
-	.string "scary to go outside.$"
+	.string "发……发生了什么？\p"
+	.string "我很想知道，但我不敢出去。$"
 
 SootopolisCity_Mart_Text_FullRestoreItemOfDreams:
-	.string "Do you know FULL RESTORE?\p"
-	.string "Full restoration of HP!\n"
-	.string "Eradication of all status problems!\p"
-	.string "It's truly an item of your dreams!$"
+	.string "知道全复药吗？\p"
+	.string "它能完全恢复体力！清除所有异常状\n"
+	.string "态！\p"
+	.string "简直是梦一样的道具！$"
 
 SootopolisCity_Mart_Text_DidSomethingAwaken:
-	.string "This weather…\n"
-	.string "Did something awaken?$"
+	.string "这种天气……有什么觉醒了吗？$"
 

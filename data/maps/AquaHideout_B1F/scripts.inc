@@ -107,54 +107,48 @@ AquaHideout_B1F_EventScript_Grunt7::
 	end
 
 AquaHideout_B1F_Text_Grunt2Intro:
-	.string "If you want to know the secret about\n"
-	.string "our HIDEOUT, you have me to beat!$"
+	.string "想知道我们基地的秘密的话，你得先\n"
+	.string "打败我！$"
 
 AquaHideout_B1F_Text_Grunt2Defeat:
-	.string "I can't win at all…$"
+	.string "完全不是对手……$"
 
 AquaHideout_B1F_Text_Grunt2PostBattle:
-	.string "Our HIDEOUT's secret?\p"
-	.string "Well, let's just say…\n"
-	.string "There's a submarine at the far end!\p"
-	.string "But, by now…\n"
-	.string "Kekekeke…$"
+	.string "我们基地的秘密？\p"
+	.string "这么说吧……这儿深处有一艘潜水艇\n"
+	.string "！\p"
+	.string "但是，现在……嘿嘿嘿……$"
 
 AquaHideout_B1F_Text_Grunt3Intro:
-	.string "Fuel supply loaded A-OK!\n"
-	.string "In-cruise snacks loaded A-OK!\p"
-	.string "Nothing left to do but KO a pesky\n"
-	.string "meddler!$"
+	.string "燃料供给完成！巡航系统正常！\p"
+	.string "一切正常，除了一个找麻烦的人！$"
 
 AquaHideout_B1F_Text_Grunt3Defeat:
-	.string "I took a serious licking!$"
+	.string "被打得落花流水！$"
 
 AquaHideout_B1F_Text_Grunt3PostBattle:
-	.string "Humph!\n"
-	.string "This was supposed to happen!\p"
-	.string "My mission was to just hold you up!$"
+	.string "哼！这是意料之中的！\p"
+	.string "我的任务只是拖住你而已！$"
 
 AquaHideout_B1F_Text_Grunt5Intro:
-	.string "Yawn… Keeping watch over the\n"
-	.string "HIDEOUT bores me. I'll take you on.$"
+	.string "哈欠……一直看守基地真是太无聊了\n"
+	.string "，就跟你玩玩吧。$"
 
 AquaHideout_B1F_Text_Grunt5Defeat:
-	.string "Yawn…\n"
-	.string "Oh, I lost…$"
+	.string "哈欠……呃，居然输了……$"
 
 AquaHideout_B1F_Text_Grunt5PostBattle:
-	.string "If you scurry too much, other TEAM\n"
-	.string "AQUA members might get you.$"
+	.string "到处瞎转悠的话，其他海洋队成员可\n"
+	.string "不会放过你。$"
 
 AquaHideout_B1F_Text_Grunt7Intro:
-	.string "Hey!\n"
-	.string "You there!\p"
-	.string "Which do you think is cooler?\n"
-	.string "TEAM AQUA's uniform or TEAM MAGMA's?$"
+	.string "嘿！那边的！\p"
+	.string "你觉得海洋队的制服和熔岩队的哪一\n"
+	.string "个更酷一点？$"
 
 AquaHideout_B1F_Text_Grunt7Defeat:
-	.string "I lost in a cool way…$"
+	.string "我很酷地输掉了……$"
 
 AquaHideout_B1F_Text_Grunt7PostBattle:
-	.string "If you have a cool uniform, you look\n"
-	.string "good even in a loss, don't you think?$"
+	.string "如果你有一件够酷的制服，就算输了\n"
+	.string "也依然很酷，不是吗？$"

@@ -28,44 +28,38 @@ Route110_TrickHousePuzzle8_EventScript_Leroy::
 	end
 
 Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER I love.”\n"
-	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "{PLAYER}在门上写下密码。\p"
+	.string "“我爱戏法大王”…… …… ……\n"
+	.string " ……\p"
+	.string "锁“咔嗒”一声开了！$"
 
 Route110_TrickHousePuzzle8_Text_VincentIntro:
-	.string "Not many TRAINERS have made it\n"
-	.string "this far.$"
+	.string "没有多少训练家 能到达这里。$"
 
 Route110_TrickHousePuzzle8_Text_VincentDefeat:
-	.string "That must mean you're tough, too…$"
+	.string "这就意味着你也非常强大……$"
 
 Route110_TrickHousePuzzle8_Text_VincentPostBattle:
-	.string "You've beaten the POKéMON LEAGUE\n"
-	.string "CHAMPION? That's too much!$"
+	.string "你已经打败了宝可梦联盟冠军？太厉\n"
+	.string "害了！$"
 
 Route110_TrickHousePuzzle8_Text_KeiraIntro:
-	.string "Consider yourself lucky to be\n"
-	.string "battling me!$"
+	.string "跟我对战，你应该感到非常幸运！$"
 
 Route110_TrickHousePuzzle8_Text_KeiraDefeat:
-	.string "This isn't right!\n"
-	.string "I can't lose!$"
+	.string "这不可能！我怎么会输！$"
 
 Route110_TrickHousePuzzle8_Text_KeiraPostBattle:
-	.string "It's a miracle that you beat me.\n"
-	.string "You can brag about it.$"
+	.string "你能打败我真是奇迹，你可以引以为\n"
+	.string "傲了。$"
 
 Route110_TrickHousePuzzle8_Text_LeroyIntro:
-	.string "You've been slugging through the TRICK\n"
-	.string "HOUSE challenge, too.$"
+	.string "你也在艰难地挑战这戏法屋啊。$"
 
 Route110_TrickHousePuzzle8_Text_LeroyDefeat:
-	.string "I see…\n"
-	.string "You possess an extraordinary style.$"
+	.string "明白了……你的行事风格很特别。$"
 
 Route110_TrickHousePuzzle8_Text_LeroyPostBattle:
-	.string "Seeing someone like you should please\n"
-	.string "the TRICK MASTER.$"
+	.string "见到你这样的人戏法大王应该会很高\n"
+	.string "兴吧。$"
 

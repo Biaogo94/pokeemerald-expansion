@@ -935,472 +935,417 @@ BattleFrontier_BattleTowerLobby_EventScript_ExitRules::
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_DirectYouToBattleRoom:
-	.string "I'll direct you to your BATTLE ROOM now.$"
+	.string "我将带您到对战间。$"
 
 BattleFrontier_BattleTowerLobby_Text_DidntSaveBeforeQuitting:
-	.string "Excuse me!\p"
-	.string "You didn't save before you quit your\n"
-	.string "challenge last time.\p"
-	.string "Because of that, your challenge so far\n"
-	.string "has been disqualified. Sorry!$"
+	.string "抱歉！\p"
+	.string "您在上次结束时没有写入记录。\p"
+	.string "非常遗憾，没有写入记录的挑战我们\n"
+	.string "将视其为无效。$"
 
 BattleFrontier_BattleTowerLobby_Text_CongratsBeatenSeven:
-	.string "Congratulations!\n"
-	.string "You've beaten all seven TRAINERS!\p"
+	.string "恭喜您！您已击败全部7位训练家！\p"
 	.string "$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_EarnedFabulousPrize:
-	.string "For beating seven TRAINERS in a row,\n"
-	.string "you have earned this fabulous prize!\p"
+	.string "作为连续击败7位训练家的奖励，您\n"
+	.string "将获得精美的奖品！\p"
 	.string "$"
 
 BattleFrontier_BattleTowerLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+	.string "{PLAYER}得到奖品\n"
+	.string "{STR_VAR_1}。$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_BagFullMakeRoom:
-	.string "Oh, your BAG appears to be full.\p"
-	.string "Please make room in your BAG, then come\n"
-	.string "see me.$"
+	.string "啊，您的包包已经满了。\p"
+	.string "请将包包整理好之后再来找我。$"
 
 BattleFrontier_BattleTowerLobby_Text_ThankYouForPlaying:
-	.string "Thank you for playing!\p"
+	.string "辛苦了！\p"
 	.string "$"
 
 BattleFrontier_BattleTowerLobby_Text_RecordWillBeSaved:
-	.string "Your record will be saved.\n"
-	.string "Please wait.$"
+	.string "正在写入记录，请稍等。$"
 
 BattleFrontier_BattleTowerLobby_Text_WeveBeenWaitingForYou:
-	.string "We've been waiting for you!\p"
+	.string "我们已经恭候多时了！\p"
 	.string "$"
 
 BattleFrontier_BattleTowerLobby_Text_ProgressWillBeSaved:
-	.string "Before entering a BATTLE ROOM, your\n"
-	.string "progress will be saved. Please wait.$"
+	.string "进入对战间之前需要写入记录，请稍\n"
+	.string "等。$"
 
 BattleFrontier_BattleTowerLobby_Text_AboutToFace50thTrainer:
-	.string "You're finally about to face the\n"
-	.string "50th TRAINER.\p"
-	.string "From here on, every time you beat seven\n"
-	.string "TRAINERS in a row, your POKéMON will\l"
-	.string "receive a commemorative RIBBON.\p"
-	.string "Good luck!$"
+	.string "下面您即将迎战的是第50位训练家\n"
+	.string "了，\p"
+	.string "现在起，您每次连续打败7位训练家\n"
+	.string "，我们将会把奖章送给您参战的宝可\l"
+	.string "梦。\p"
+	.string "祝您好运！$"
 
 BattleFrontier_BattleTowerLobby_Text_HereAreSomeRibbons:
-	.string "Here are some RIBBONS for beating\n"
-	.string "seven tough TRAINERS in a row.\p"
-	.string "{PLAYER} received some RIBBONS!$"
+	.string "这是连续打败7位强大的训练家的奖\n"
+	.string "励。\p"
+	.string "{PLAYER}得到奖章！$"
 
 BattleFrontier_BattleTowerLobby_Text_PutRibbonOnMons:
-	.string "{PLAYER} put the RIBBONS on\n"
-	.string "the challenger POKéMON.$"
+	.string "{PLAYER}给挑战的宝可梦戴\n"
+	.string "上了奖章。$"
 
 BattleFrontier_BattleTowerLobby_Text_DescribeFeelingsAboutBattleTower:
-	.string "Excuse me, do you have a moment?\p"
-	.string "Can you describe your feelings when\n"
-	.string "you're about to begin a BATTLE TOWER\l"
-	.string "match, or when you've either won or\l"
-	.string "lost a match?$"
+	.string "打扰了，能占用你一点时间吗？\p"
+	.string "请说说你在对战塔比赛开始之前的想\n"
+	.string "法，也可以谈谈赢了或输了比赛之后\l"
+	.string "的感受。$"
 
 BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouBegin:
-	.string "Okay, what are your feelings when\n"
-	.string "you're about to begin a match?$"
+	.string "那么，你在比赛之前有什么想法呢？$"
 
 BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouveWon:
-	.string "What do you feel when you've won\n"
-	.string "a match?$"
+	.string "那么，你在赢了比赛之后有什么感受\n"
+	.string "呢？$"
 
 BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouveLost:
-	.string "Can I hear about your feelings when\n"
-	.string "you have lost a match?$"
+	.string "能告诉我们输了比赛你有什么话想说\n"
+	.string "吗？$"
 
 BattleFrontier_BattleTowerLobby_Text_DontThinkMuchAboutIt:
-	.string "Oh, so you don't think much about it?\n"
-	.string "You're one cool customer.$"
+	.string "啊，那么说你并不会多想吗？看来是\n"
+	.string "个沉着的人啊。$"
 
 BattleFrontier_BattleTowerLobby_Text_ChangedYourMind:
-	.string "Hunh? You changed your mind?\n"
-	.string "I guess you're fickle.$"
+	.string "哎？你改主意了吗？看来你是个易变\n"
+	.string "的人啊。$"
 
 BattleFrontier_BattleTowerLobby_Text_ThatsHowYouFeel:
-	.string "Okay, so that's how you feel?\n"
-	.string "That's quite original.\p"
-	.string "Thanks!$"
+	.string "嗯，你是这么想的吗？很有新意啊。\p"
+	.string "谢谢！$"
 
 BattleFrontier_BattleTowerLobby_Text_WinsInRowRecorded:
-	.string "The number of matches you win in a row\n"
-	.string "is recorded.\p"
-	.string "I'd better not get beaten in\n"
-	.string "an embarrassing way!$"
+	.string "连胜的次数都会被记录下来。\p"
+	.string "我可不想输得太难堪啊！$"
 
 BattleFrontier_BattleTowerLobby_Text_CanLeaveUntilLossOrSevenWins:
-	.string "Once you've entered the BATTLE TOWER,\n"
-	.string "you can't leave until you either lose\l"
-	.string "or you beat seven TRAINERS in a row.\p"
-	.string "You'd best be certain that you're up\n"
-	.string "to the challenge.$"
+	.string "进入对战塔后，只有被打败或者连续\n"
+	.string "战胜7位训练家才能离开。\p"
+	.string "开始挑战之前你最好做好充分的准备\n"
+	.string "。$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_DoubleBattleRoomConstruction:
-	.string "Welcome to the BATTLE TOWER\n"
-	.string "DOUBLE BATTLE CORNER!\p"
-	.string "Unfortunately, the BATTLE ROOMS\n"
-	.string "are still under construction.\p"
-	.string "Please come back when the work\n"
-	.string "is completed.$"
+	.string "欢迎来到对战塔双打对战区！\p"
+	.string "很不幸，对战间还在建设之中。\p"
+	.string "当建筑完成后再来吧。$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_MultiBattleRoomConstruction:
-	.string "Welcome to the BATTLE TOWER\n"
-	.string "MULTI BATTLE CORNER!\p"
-	.string "Unfortunately, the BATTLE ROOMS\n"
-	.string "are still under construction.\p"
-	.string "Please come back when the work\n"
-	.string "is completed.$"
+	.string "欢迎来到对战塔多人对战区！\p"
+	.string "很不幸，对战间还在建设之中。\p"
+	.string "当建筑完成后再来吧。$"
 
 BattleFrontier_BattleTowerLobby_Text_LookForwardToAnotherChallenge:
-	.string "We look forward to seeing you on\n"
-	.string "another challenge!$"
+	.string "随时恭候您再次挑战！$"
 
 BattleFrontier_BattleTowerLobby_Text_WhichLevelMode:
-	.string "The BATTLE ROOM offers two levels\n"
-	.string "of challenge, Level 50 and Open Level.\l"
-	.string "Which is your choice?$"
+	.string "对战间有2种挑战等级，Lv. 5\n"
+	.string "0级和自由等级。您想选哪种？$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_PleaseSelectMons:
-	.string "Please select the POKéMON you wish\n"
-	.string "to enter.$"
+	.string "请选择要参加的宝可梦。$"
 
 BattleFrontier_BattleTowerLobby_Text_OkayToSaveBeforeEntering:
-	.string "Before entering a BATTLE ROOM, your\n"
-	.string "progress must be saved. Is that okay?$"
+	.string "进入对战间之前需要先写入记录，可\n"
+	.string "以吗？$"
 
 BattleFrontier_BattleTowerLobby_Text_ShowYouToBattleRoom:
-	.string "I will now show you to the\n"
-	.string "{STR_VAR_1} BATTLE ROOM.$"
+	.string "现在我将带您前往\n"
+	.string "{STR_VAR_1}对战间。$"
 
 BattleFrontier_BattleTowerLobby_Text_RecordLastMatch:
-	.string "Shall I record your last BATTLE TOWER\n"
-	.string "match on your FRONTIER PASS?$"
+	.string "要将您在对战塔的最后一场对战记录\n"
+	.string "到开拓通行证上吗？$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50:
-	.string "Excuse me!\p"
-	.string "You don't have {STR_VAR_2} eligible POKéMON.\p"
-	.string "You must have {STR_VAR_2} different POKéMON\n"
-	.string "of Level 50 or less to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1}.$"
+	.string "这位客人！\p"
+	.string "您符合条件的宝可梦不足\n"
+	.string "{STR_VAR_2}只。\p"
+	.string "需要有{STR_VAR_2}只不\n"
+	.string "同的等级50以内的宝可梦才可以参\l"
+	.string "加比赛，\p"
+	.string "同时这些宝可梦携带的道具也需要各\n"
+	.string "不相同。\p"
+	.string "蛋{STR_VAR_1}。$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsEnd:
-	.string "Please come see me when you are ready.$"
+	.string "准备好之后再来吧。$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "Excuse me!\p"
-	.string "You don't have {STR_VAR_2} eligible POKéMON.\p"
-	.string "You must have {STR_VAR_2} different POKéMON\n"
-	.string "to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1}.$"
+	.string "这位客人！\p"
+	.string "您符合条件的宝可梦不足\n"
+	.string "{STR_VAR_2}只。\p"
+	.string "需要有{STR_VAR_2}只不\n"
+	.string "同的宝可梦才可以参加比赛，\p"
+	.string "同时这些宝可梦携带的道具也需要各\n"
+	.string "不相同。\p"
+	.string "蛋{STR_VAR_1}。$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Singles:
-	.string "Excuse me!\p"
-	.string "You don't have three eligible POKéMON.\p"
-	.string "You must have three different POKéMON\n"
-	.string "of Level 50 or less to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1}.$"
+	.string "这位客人！\p"
+	.string "您能够参加对战的宝可梦不满3只。\p"
+	.string "您需要准备3只等级50以内的不同\n"
+	.string "种类的宝可梦，\p"
+	.string "且让它们分别携带不同道具才可参加\n"
+	.string "对战。\p"
+	.string "此外，蛋{STR_VAR_1}。$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenSingles:
-	.string "Excuse me!\p"
-	.string "You don't have three eligible POKéMON.\p"
-	.string "You must have three different POKéMON\n"
-	.string "to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1}.$"
+	.string "这位客人！\p"
+	.string "您能够参加对战的宝可梦不满3只。\p"
+	.string "您需要准备3只不同种类的宝可梦，\p"
+	.string "且让它们分别携带不同道具才可参加\n"
+	.string "对战。\p"
+	.string "此外，蛋{STR_VAR_1}。$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Doubles:
-	.string "Excuse me!\p"
-	.string "You don't have four eligible POKéMON.\p"
-	.string "You must have four different POKéMON\n"
-	.string "of Level 50 or less to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1}.$"
+	.string "这位客人！\p"
+	.string "您能够参加对战的宝可梦不满4只。\p"
+	.string "您需要准备4只等级50以内的不同\n"
+	.string "种类的宝可梦，\p"
+	.string "且让它们分别携带不同道具才可参加\n"
+	.string "对战。\p"
+	.string "此外，蛋{STR_VAR_1}。$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenDoubles:
-	.string "Excuse me!\p"
-	.string "You don't have four eligible POKéMON.\p"
-	.string "You must have four different POKéMON\n"
-	.string "to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1}.$"
+	.string "这位客人！\p"
+	.string "您能够参加对战的宝可梦不满4只。\p"
+	.string "您需要准备4只不同种类的宝可梦，\p"
+	.string "且让它们分别携带不同道具才可参加\n"
+	.string "对战。\p"
+	.string "此外，蛋{STR_VAR_1}。$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Multis:
-	.string "Excuse me!\p"
-	.string "You don't have two eligible POKéMON.\p"
-	.string "You must have two different POKéMON\n"
-	.string "of Level 50 or less to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1}.$"
+	.string "这位客人！\p"
+	.string "您能够参加对战的宝可梦不满2只。\p"
+	.string "您需要准备2只等级50以内的不同\n"
+	.string "种类的宝可梦，\p"
+	.string "且让它们分别携带不同道具才可参加\n"
+	.string "对战。\p"
+	.string "此外，蛋{STR_VAR_1}。$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenMultis:
-	.string "Excuse me!\p"
-	.string "You don't have two eligible POKéMON.\p"
-	.string "You must have two different POKéMON\n"
-	.string "to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1}.$"
+	.string "这位客人！\p"
+	.string "您能够参加对战的宝可梦不满2只。\p"
+	.string "您需要准备2只不同种类的宝可梦，\p"
+	.string "且让它们分别携带不同道具才可参加\n"
+	.string "对战。\p"
+	.string "此外，蛋{STR_VAR_1}。$"
 
 BattleFrontier_BattleTowerLobby_Text_WelcomSingleBattle:
-	.string "Where the talents of TRAINERS\n"
-	.string "are put to the test!\p"
-	.string "Welcome to the BATTLE TOWER!\p"
-	.string "I am your guide to the SINGLE\n"
-	.string "BATTLE ROOMS.$"
+	.string "训练家的才能将在此接受考验！\p"
+	.string "欢迎来到对战塔！\p"
+	.string "我是您的单打对战间向导。$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeSinglesChallenge:
-	.string "Would you like to take the SINGLE\n"
-	.string "BATTLE ROOM challenge?$"
+	.string "要挑战单打对战间吗？$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainSinglesChallenge:
-	.string "The BATTLE TOWER's SINGLE BATTLE\n"
-	.string "ROOMS are facilities for conducting\l"
-	.string "SINGLE BATTLES with three POKéMON.\p"
-	.string "There are many SINGLE BATTLE ROOMS\n"
-	.string "in the BATTLE TOWER for team battles.\p"
-	.string "In each of the SINGLE BATTLE ROOMS,\n"
-	.string "seven TRAINERS await your challenge.\p"
-	.string "If you manage to defeat all seven,\n"
-	.string "you will earn Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "对战塔的单打对战间是用3只宝可梦\n"
+	.string "进行单打对战的设施，\p"
+	.string "对战塔内有很多单打对战间，供团队\n"
+	.string "对战使用。\p"
+	.string "在单打对战间中，会有7位训练家等\n"
+	.string "待挑战，\p"
+	.string "如果顺利战胜7人，我们会向您呈上\n"
+	.string "对战点数。\p"
+	.string "如果您在挑战途中想要暂停的话，\p"
+	.string "请确保在暂停前完好地写下了记录。\n"
+	.string "否则我们将视挑战为无效。$"
 
 BattleFrontier_BattleTowerLobby_Text_SelectThreeMons:
-	.string "Now please select the three POKéMON\n"
-	.string "that are to be entered.$"
+	.string "请选择要参加挑战的3只宝可梦。$"
 
 BattleFrontier_BattleTowerLobby_Text_WelcomeDoubleBattle:
-	.string "Where the talents of TRAINERS\n"
-	.string "are put to the test!\p"
-	.string "Welcome to the BATTLE TOWER!\p"
-	.string "I am your guide to the DOUBLE\n"
-	.string "BATTLE ROOMS.$"
+	.string "训练家的才能将在此接受考验！\p"
+	.string "欢迎来到对战塔！\p"
+	.string "我是您的双打对战间向导。$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeDoublesChallenge:
-	.string "Would you like to take the DOUBLE\n"
-	.string "BATTLE ROOM challenge?$"
+	.string "要挑战双打对战间吗？$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainDoublesChallenge:
-	.string "The BATTLE TOWER's DOUBLE BATTLE\n"
-	.string "ROOMS are facilities for conducting\l"
-	.string "DOUBLE BATTLES with four POKéMON.\p"
-	.string "There are many DOUBLE BATTLE ROOMS\n"
-	.string "in the BATTLE TOWER for team battles.\p"
-	.string "In each of the DOUBLE BATTLE ROOMS,\n"
-	.string "seven TRAINERS await your challenge.\p"
-	.string "If you manage to defeat all seven,\n"
-	.string "you will earn Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "对战塔的双打对战间是用4只宝可梦\n"
+	.string "进行双打对战的设施，\p"
+	.string "对战塔内有很多双打对战间，供团队\n"
+	.string "对战使用。\p"
+	.string "在双打对战间中，会有7位训练家等\n"
+	.string "待挑战，\p"
+	.string "如果顺利战胜7人，我们会向您呈上\n"
+	.string "对战点数。\p"
+	.string "如果您在挑战途中想要暂停的话，\p"
+	.string "请确保在暂停前完好地写下了记录。\n"
+	.string "否则我们将视挑战为无效。$"
 
 BattleFrontier_BattleTowerLobby_Text_PleaseSelectFourMons:
-	.string "Now please select the four POKéMON\n"
-	.string "that are to be entered.$"
+	.string "请选择要参加挑战的4只宝可梦。$"
 
 BattleFrontier_BattleTowerLobby_Text_WelcomeMultiBattle:
-	.string "Where the talents of TRAINERS\n"
-	.string "are put to the test!\p"
-	.string "Welcome to the BATTLE TOWER!\p"
-	.string "I am your guide to the MULTI\n"
-	.string "BATTLE ROOMS.$"
+	.string "训练家的才能将在此接受考验！\p"
+	.string "欢迎来到对战塔！\p"
+	.string "我是您的多人对战间向导。$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeMultisChallenge:
-	.string "Would you like to take the MULTI\n"
-	.string "BATTLE ROOM challenge?$"
+	.string "要挑战多人对战间吗？$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainMultisChallenge:
-	.string "The BATTLE TOWER's MULTI BATTLE\n"
-	.string "ROOMS are facilities for conducting\l"
-	.string "MULTI BATTLES.\p"
-	.string "For MULTI BATTLES, you must partner\n"
-	.string "with a TRAINER in the TOWER and enter\l"
-	.string "with two POKéMON each.\p"
-	.string "Inside the TOWER is a room named\n"
-	.string "the BATTLE SALON where you may meet\l"
-	.string "other TRAINERS.\p"
-	.string "There, you must find a TRAINER to act\n"
-	.string "as your partner in MULTI BATTLES.\p"
-	.string "Once you have partnered up, you will\n"
-	.string "be shown to a MULTI BATTLE ROOM.\p"
-	.string "In the MULTI BATTLE ROOM, seven\n"
-	.string "tag teams await your challenge.\p"
-	.string "If you manage to defeat all seven\n"
-	.string "teams, you will earn Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "对战塔的多人对战间是进行多人对战\n"
+	.string "的设施。\p"
+	.string "要参加多人对战，您需要在塔内选择\n"
+	.string "1位训练家作为搭档，每人派出2只\l"
+	.string "宝可梦进行比赛。\p"
+	.string "塔内有个叫对战沙龙的房间，可以在\n"
+	.string "那里遇到其他训练家。\p"
+	.string "在那里，你需要选择1位训练家作为\n"
+	.string "多人对战的搭档。\p"
+	.string "组队成功后，将被引导至多人对战间\n"
+	.string "。\p"
+	.string "在多人对战间中，会有7组训练家等\n"
+	.string "待挑战，\p"
+	.string "如果顺利战胜7组，我们会向您呈上\n"
+	.string "对战点数。\p"
+	.string "如果您在挑战途中想要暂停的话，\p"
+	.string "请确保在暂停前完好地写下了记录。\n"
+	.string "否则我们将视挑战为无效。$"
 
 BattleFrontier_BattleTowerLobby_Text_PleaseSelectTwoMons:
-	.string "Now please select the two POKéMON\n"
-	.string "that are to be entered.$"
+	.string "请选择要参加挑战的2只宝可梦。$"
 
 BattleFrontier_BattleTowerLobby_Text_WelcomeLinkMultiBattle:
-	.string "Where the talents of TRAINERS\n"
-	.string "are put to the test!\p"
-	.string "Welcome to the BATTLE TOWER!\p"
-	.string "I am your guide to the LINK MULTI\n"
-	.string "BATTLE ROOMS.$"
+	.string "训练家的才能将在此接受考验！\p"
+	.string "欢迎来到对战塔！\p"
+	.string "我是您的多人连线对战间向导。$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeLinkMultisChallenge:
-	.string "Would you like to take the LINK MULTI\n"
-	.string "BATTLE ROOM challenge?$"
+	.string "要挑战多人连线对战间吗？$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainLinkMultisChallenge:
-	.string "The BATTLE TOWER's MULTI BATTLE\n"
-	.string "ROOMS are facilities for conducting\l"
-	.string "MULTI BATTLES with a friend.\p"
-	.string "You must link with your friend using\n"
-	.string "Wireless Adapters or a Game Boy\l"
-	.string "Advance Game Link cable.\p"
-	.string "You must partner with your friend and\n"
-	.string "enter two different kinds of POKéMON.\p"
-	.string "There are many MULTI BATTLE ROOMS\n"
-	.string "in the BATTLE TOWER for team battles.\p"
-	.string "In a MULTI BATTLE ROOM, seven\n"
-	.string "tag teams await you and your friend\l"
-	.string "to make a tag-team challenge.\p"
-	.string "If you manage to defeat all seven\n"
-	.string "teams, you will earn Battle Points.\p"
-	.string "Please beware that unlike other ROOMS,\n"
-	.string "you may not interrupt your challenge.\p"
-	.string "Once you start, you must battle seven\n"
-	.string "MULTI BATTLES in a row nonstop.$"
+	.string "对战塔的多人对战间是和朋友一起进\n"
+	.string "行多人对战的设施。\p"
+	.string "您需要先使用无线适配器或GBA连\n"
+	.string "接线与朋友连接，\p"
+	.string "携带2只宝可梦和朋友组队进行挑战\n"
+	.string "。\p"
+	.string "对战塔内有很多多人对战间，\p"
+	.string "供团队对战使用。在多人对战间中，\n"
+	.string "会有7组训练家等待\p"
+	.string "您和您朋友的组队挑战。如果顺利战\n"
+	.string "胜7组，\p"
+	.string "我们会向您呈上对战点数。请注意这\n"
+	.string "里与其他房间不同，\p"
+	.string "您不能暂停挑战。一旦挑战开始，就\n"
+	.string "需要不间断地进行7次多人对战。$"
 
 BattleFrontier_BattleTowerLobby_Text_PleaseSelectTwoMons2:
-	.string "Now please select the two POKéMON\n"
-	.string "that are to be entered.$"
+	.string "请选择要参加挑战的2只宝可梦。$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_ChoseSameMonAsFriend:
-	.string "You have chosen the same kind of\n"
-	.string "POKéMON as your friend.\p"
-	.string "Please choose two POKéMON different\n"
-	.string "from your friend's, match the level\l"
-	.string "you wish to enter, and register again.$"
+	.string "您和您的朋友选择了同一种宝可梦。\p"
+	.string "请选择与您朋友不同的宝可梦，确认\n"
+	.string "您们选择的是同样的挑战等级，然后\l"
+	.string "重新申请挑战。$"
 
 BattleFrontier_BattleTowerLobby_Text_LinkMultiOnlyForTwoPlayers:
-	.string "The LINK MULTI BATTLE ROOM challenge\n"
-	.string "is only for two linked players.$"
+	.string "多人连线对战间的挑战只对2位连接\n"
+	.string "上的玩家开放。$"
 
 BattleFrontier_BattleTowerLobby_Text_FriendAlsoSelectedMon:
-	.string "Your friend has also selected\n"
-	.string "the POKéMON {STR_VAR_1}.$"
+	.string "您的朋友也选择了宝可梦\n"
+	.string "{STR_VAR_1}。$"
 
 BattleFrontier_BattleTowerLobby_Text_FriendAlsoSelectedMons:
-	.string "Your friend has also selected the\n"
-	.string "POKéMON {STR_VAR_1} and {STR_VAR_2}.$"
+	.string "您的朋友也选择了宝可梦\n"
+	.string "{STR_VAR_1}和\l"
+	.string "{STR_VAR_2}。$"
 
 BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlMode:
-	.string "Your friend has chosen a different\n"
-	.string "battle level.$"
+	.string "您的朋友选择了不同的挑战等级。$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlModeSameMon:
-	.string "Your friend has chosen a different\n"
-	.string "battle level.\p"
-	.string "Your friend has also selected\n"
-	.string "the POKéMON {STR_VAR_1}.$"
+	.string "您的朋友选择了不同的挑战等级。\p"
+	.string "您的朋友也选择了宝可梦\n"
+	.string "{STR_VAR_1}。$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlModeSameMons:
-	.string "Your friend has chosen a different\n"
-	.string "battle level.\p"
-	.string "Your friend has also selected the\n"
-	.string "POKéMON {STR_VAR_1} and {STR_VAR_2}.$"
+	.string "您的朋友选择了不同的挑战等级。\p"
+	.string "您的朋友也选择了宝可梦\n"
+	.string "{STR_VAR_1}和\l"
+	.string "{STR_VAR_2}。$"
 
 BattleFrontier_BattleTowerLobby_Text_ChooseDifferentMonsMatchLvlMode:
-	.string "Please choose two POKéMON different\n"
-	.string "from your friend's, match the level\l"
-	.string "you wish to enter, and register again.$"
+	.string "请选择2只与您的朋友不同的宝可梦\n"
+	.string "，确认您们选择的是同样的挑战等级\l"
+	.string "，然后重新申请挑战。$"
 
 BattleFrontier_BattleTowerLobby_Text_SaveGameBeforeShowingIn:
-	.string "I will save the game before\n"
-	.string "showing you in. Please wait.$"
+	.string "开始挑战之前需要先写入记录，请稍\n"
+	.string "等。$"
 
 BattleFrontier_BattleTowerLobby_Text_CongratsDefeatedMaiden:
-	.string "Congratulations!\n"
-	.string "You have defeated the SALON MAIDEN\l"
-	.string "and swept seven TRAINERS!$"
+	.string "恭喜！您打败了对战塔大君，并且在\n"
+	.string "与7位训练家的对战中全胜！$"
 
 BattleFrontier_BattleTowerLobby_Text_AwardYouTheseBattlePoints:
-	.string "In recognition of your infinite talent,\n"
-	.string "we award you these Battle Point(s).$"
+	.string "为了表彰您无限的才能，我们将向您\n"
+	.string "呈上对战点数。$"
 
 BattleFrontier_Text_ObtainedXBattlePoints:
-	.string "{PLAYER} obtained {STR_VAR_1} Battle Point(s).$"
+	.string "{PLAYER}获得了\n"
+	.string "{STR_VAR_1}BP的对战\l"
+	.string "点数。$"
 
 BattleFrontier_BattleTowerLobby_Text_RulesAreListed:
-	.string "The BATTLE TOWER rules are listed.$"
+	.string "上面列出了对战塔的规则。$"
 
 BattleFrontier_BattleTowerLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "要读哪一部分的说明？$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainTowerRules:
-	.string "The BATTLE TOWER is a facility where\n"
-	.string "four types of battles are waged--\l"
-	.string "SINGLE BATTLE, DOUBLE BATTLE, MULTI\l"
-	.string "BATTLE, and LINK MULTI BATTLE.\p"
-	.string "For each of these types, there are\n"
-	.string "separate BATTLE ROOMS.\p"
-	.string "Please speak with a guide offering\n"
-	.string "the type of battle you wish to enter.$"
+	.string "对战塔中有4种类型的对战——单打\n"
+	.string "对战，双打对战，多人对战和多人连\l"
+	.string "线对战。\p"
+	.string "每种对战都有不同的对战间，\p"
+	.string "请到相应的向导处申请参加挑战。$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainMonRules:
-	.string "Depending on the BATTLE ROOM you are\n"
-	.string "entering, you will be required to take\l"
-	.string "a certain number of POKéMON.\p"
-	.string "The SINGLE BATTLE mode requires\n"
-	.string "three POKéMON.\p"
-	.string "The DOUBLE BATTLE mode requires four,\n"
-	.string "and the MULTI modes both require two.$"
+	.string "根据进入的对战间的不同，需要携带\n"
+	.string "的宝可梦的数量也各不同。\p"
+	.string "单打对战模式需要3只宝可梦，\p"
+	.string "双打对战需要4只，而多人模式需要\n"
+	.string "2只。$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainSalonRules:
-	.string "The BATTLE SALON is where you must\n"
-	.string "find a partner to form a tag team for\l"
-	.string "the MULTI BATTLE ROOM challenge.\p"
-	.string "Choose the best partner for you by\n"
-	.string "examining other TRAINERS'\l"
-	.string "POKéMON and their moves.\p"
-	.string "You may choose a new tag partner\n"
-	.string "after winning seven straight matches.$"
+	.string "您需要在对战沙龙内找到一同组队挑\n"
+	.string "战多人对战间的训练家。\p"
+	.string "仔细查看每个训练家的宝可梦和招式\n"
+	.string "来选择您的最佳搭档。\p"
+	.string "连续打败7组训练家后，您可以选择\n"
+	.string "新的搭档。$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainMultiLinkRules:
-	.string "The LINK MULTI BATTLE Mode is for two\n"
-	.string "friends to mount a challenge together.\p"
-	.string "You and your friend must be linked with\n"
-	.string "Wireless Adapters or a GBA Game Link\l"
-	.string "cable.\p"
-	.string "You must choose two POKéMON at\n"
-	.string "the registration counter.\p"
-	.string "These POKéMON must be different\n"
-	.string "from those of your friend.\p"
-	.string "You may not interrupt this challenge\n"
-	.string "in the middle, unlike other modes.$"
+	.string "通过多人连线对战模式可以和朋友一\n"
+	.string "起挑战。\p"
+	.string "需要先和朋友通过无线适配器或GB\n"
+	.string "A连接线进行连接，\p"
+	.string "并在挑战申请处选好您要携带的宝可\n"
+	.string "梦，\p"
+	.string "这些宝可梦的种类要与您朋友的不同\n"
+	.string "。\p"
+	.string "同时，与其他模式不同，在这里您不\n"
+	.string "可以暂停挑战。$"

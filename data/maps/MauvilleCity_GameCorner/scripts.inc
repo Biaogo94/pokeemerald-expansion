@@ -944,22 +944,19 @@ MauvilleCity_GameCorner_EventScript_NoCoinCase::
 	end
 
 MauvilleCity_GameCorner_Text_ThisIsMauvilleGameCorner:
-	.string "This is the GAME CORNER.$"
+	.string "这里是紫堇游戏城。$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins:
-	.string "Okay, you wanted some COINS for\n"
-	.string "the games?\p"
-	.string "But you don't have a COIN CASE for\n"
-	.string "stowing the COINS.$"
+	.string "您想要些代币玩游戏吗？\p"
+	.string "但您还没有装代币的代币盒。$"
 
 MauvilleCity_GameCorner_Text_WereYouLookingForCoins:
-	.string "Were you looking for COINS?\p"
-	.string "It's ¥500 for 50 COINS.\n"
-	.string "Would you like some?$"
+	.string "您要买代币吗？\p"
+	.string "¥1000可以买50枚。您要买一\n"
+	.string "些吗？$"
 
 MauvilleCity_GameCorner_Text_ThankYouHereAreYourCoins:
-	.string "Thank you very much!\n"
-	.string "Here are your COINS!$"
+	.string "谢谢惠顾！这是您的代币！$"
 
 MauvilleCity_GameCorner_Text_DontHaveEnoughMoneyFor50:
 	.string "Um… You don't appear to have\n"
@@ -968,8 +965,7 @@ MauvilleCity_GameCorner_Text_DontHaveEnoughMoneyFor50:
 	.string "at least ¥1000!$"
 
 MauvilleCity_GameCorner_Text_DontHaveEnoughMoney:
-	.string "Um… You don't appear to have\n"
-	.string "enough money for that many COINS…$"
+	.string "呃……您的现金似乎不够……$"
 
 MauvilleCity_GameCorner_Text_NoRoomFor50Coins:
 	.string "Oh! Your COIN CASE is too full to buy\n"
@@ -983,130 +979,115 @@ MauvilleCity_GameCorner_Text_NoRoomForCoins:
 	.string "Your COIN CASE can't fit those COINS...$"
 
 MauvilleCity_GameCorner_Text_DontNeedCoinsThen:
-	.string "Oh… You don't need COINS, then?\n"
-	.string "Good luck on your adventure!$"
+	.string "哦……您现在不需要代币吗？那么，\n"
+	.string "祝您旅途愉快！$"
 
 MauvilleCity_GameCorner_Text_ThanksBuyCoins:
 	.string "Thank you for buying some COINS!\n"
 	.string "Good luck on your adventure!$"
 
 MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
-	.string "Welcome.\p"
-	.string "You can exchange your COINS for\n"
-	.string "prizes here.$"
+	.string "欢迎！\p"
+	.string "您可以在这里把代币换成奖品。$"
 
 MauvilleCity_GameCorner_Text_WhichPrize:
-	.string "Which prize would you like?$"
+	.string "您想换什么奖品？$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsTheTMX:
-	.string "So your choice is\n"
-	.string "the {STR_VAR_1} {STR_VAR_2}?$"
+	.string "您要换{STR_VAR_1}\n"
+	.string "{STR_VAR_2}吗？$"
 
 MauvilleCity_GameCorner_Text_SendToYourHomePC:
-	.string "Thank you!\n"
-	.string "We'll send it to your PC at home.$"
+	.string "谢谢惠顾！您的物品已经送到您家的\n"
+	.string "电脑中了。$"
 
 MauvilleCity_GameCorner_Text_NotEnoughCoins:
-	.string "You don't have enough COINS.$"
+	.string "您的代币不够。$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_NoRoomForPlacingDecor:
-	.string "There isn't any room available for\n"
-	.string "placing {STR_VAR_1}.$"
+	.string "没有足够的地方放下\n"
+	.string "{STR_VAR_1}。$"
 
 MauvilleCity_GameCorner_Text_OhIsThatSo:
-	.string "Oh, is that so? \n"
-	.string "You need to save some COINS before\l"
-	.string "coming back here.$"
+	.string "噢，是吗？多积攒一些代币再来吧。$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsX:
-	.string "So your choice is {STR_VAR_1}?$"
+	.string "您想换{STR_VAR_1}吗？$"
 
 MauvilleCity_GameCorner_Text_HereYouGo:
-	.string "给你！$"
+	.string "请拿好！$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_CantCarryAnyMore:
-	.string "Oh, you can't carry any more than that.$"
+	.string "噢，您不能再拿更多了。$"
 
 MauvilleCity_GameCorner_Text_GotTwoOfSameDollWantOne:
-	.string "I made a mistake and got two of\n"
-	.string "the same DOLLS.\p"
-	.string "Would you like one of them?$"
+	.string "我不小心弄错了，拿了两只一样的玩\n"
+	.string "偶。\p"
+	.string "你想要一个吗？$"
 
 MauvilleCity_GameCorner_Text_HereYouGo2:
-	.string "给你！$"
+	.string "请拿好！$"
 
 MauvilleCity_GameCorner_Text_YouWantItButNotNow:
-	.string "Huh?\n"
-	.string "You want it, but not right now?$"
+	.string "嗯？你现在还不想要？$"
 
 MauvilleCity_GameCorner_Text_DontBeNegative:
-	.string "Oh, don't be so negative!\n"
-	.string "You can have this!$"
+	.string "哎，别急着拒绝！你可以拿啊！$"
 
 MauvilleCity_GameCorner_Text_CantWinJackpot:
-	.string "There's a prize I want, but I can't win\n"
-	.string "the jackpot.$"
+	.string "有个奖品我很想要，但我总不能连胜\n"
+	.string "。$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseGoNextDoor:
-	.string "Hey, kid, if you want to play here,\n"
-	.string "you need a COIN CASE.\p"
-	.string "I think the young lady next door\n"
-	.string "had one. Go see her!$"
+	.string "喂，孩子，你要想在这儿玩就得有个\n"
+	.string "代币盒。\p"
+	.string "我想隔壁的年轻女孩有一个，去找她\n"
+	.string "吧！$"
 
 MauvilleCity_GameCorner_Text_LuckOnlyLastSoLongTakeCoins:
-	.string "My luck can only last so long.\n"
-	.string "This is too much for me.\l"
-	.string "Here, take some COINS!$"
+	.string "我的运气大概到此为止了，已经得到\n"
+	.string "太多东西了。给你一些代币吧！$"
 
 MauvilleCity_GameCorner_Text_MauvilleSomethingForEveryone:
-	.string "MAUVILLE has something for\n"
-	.string "everyone.\p"
-	.string "For me, it's the GAME CORNER.$"
+	.string "每个人都能在紫堇市找到快乐，\p"
+	.string "对我来说，快乐就是游戏城。$"
 
 MauvilleCity_GameCorner_Text_RouletteTablesDifferentRates:
-	.string "The ROULETTE tables have different\n"
-	.string "rates.\p"
-	.string "Check your COINS if you're going to\n"
-	.string "pick a table.$"
+	.string "轮盘机那边有不同的赔率，\p"
+	.string "决定选择哪张桌之前先看看你剩下多\n"
+	.string "少代币吧。$"
 
 MauvilleCity_GameCorner_Text_EasyToLoseTrackOfTime:
-	.string "It's easy to lose track of time in here. \n"
-	.string "I should get back to work.$"
+	.string "在这儿很快就消磨了大把的时间，我\n"
+	.string "该回去工作了。$"
 
 MauvilleCity_GameCorner_Text_CoinsAreNeededToPlay:
-	.string "COINS are needed to play here\n"
-	.string "in the GAME CORNER.$"
+	.string "在游戏城这儿玩要使用代币。$"
 
 MauvilleCity_GameCorner_Text_RouletteOnlyLuck:
-	.string "This ROULETTE thing…\n"
-	.string "It's rather demanding.\p"
-	.string "Win or lose, it's only by luck.$"
+	.string "这种轮盘机……要求太高了，\p"
+	.string "胜负全凭运气。$"
 
 MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed:
-	.string "Up to three COINS can be used to play\n"
-	.string "the SLOTS.$"
+	.string "玩老虎机最多可以用3枚代币。$"
 
 MauvilleCity_GameCorner_Text_DifficultToStopOn7:
-	.string "It's very difficult to make it stop\n"
-	.string "right on “7.”\p"
-	.string "If it stops on “7” during the REEL TIME\n"
-	.string "bonus game, you'll receive extra COINS.$"
+	.string "要让它正好停在“7”上实在太难了\n"
+	.string "。\p"
+	.string "如果转盘时正好停在“7”上，就能\n"
+	.string "得到额外的代币奖励。$"
 
 MauvilleCity_GameCorner_Text_HeresSomeSlotsInfo:
-	.string "Here's some information for you\n"
-	.string "about the SLOTS.\p"
-	.string "The more lightning bolts you stock,\n"
-	.string "the more REEL TIME chances you get.\p"
-	.string "In a game with the maximum five\n"
-	.string "REEL TIME chances…\p"
-	.string "It is possible to receive four regular\n"
-	.string "bonuses, then a big bonus.\p"
-	.string "That would total 660 COINS, but it's\n"
-	.string "very difficult to get.$"
+	.string "给你些关于老虎机的建议吧。\p"
+	.string "储存的闪电次数越多，转盘的机会就\n"
+	.string "越多\p"
+	.string "1回最多可以有5次转盘的机会……\p"
+	.string "有可能得到4次小奖和1次大奖，\p"
+	.string "这样总共660枚代币，但那太难了\n"
+	.string "。$"
 
 MauvilleCity_GameCorner_Text_CantPlayWithNoCoinCase:
-	.string "You can't play if you don't have\n"
-	.string "a COIN CASE.$"
+	.string "如果没有代币盒就没法在这儿玩。$"
 

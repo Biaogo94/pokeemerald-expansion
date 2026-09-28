@@ -124,117 +124,106 @@ SaffronCity_EventScript_TrainerFanClubSign::
 	end
 
 SaffronCity_Text_WhatDoYouWantGetLost::
-	.string "What do you want?\n"
-	.string "Get lost!$"
+	.string "你想干什么？滚开！$"
 
 SaffronCity_Text_BossTakeTownForTeamRocket::
-	.string "BOSS said he'll take this town\n"
-	.string "in the name of TEAM ROCKET!$"
+	.string "老大说他会把这座城镇命名为火箭队\n"
+	.string "！$"
 
 SaffronCity_Text_DontGetDefiantOrIllHurtYou::
-	.string "Don't get defiant!\n"
-	.string "Or I'll have to hurt you!$"
+	.string "不要惹我生气！否则我会狠狠地报复\n"
+	.string "你的！$"
 
 SaffronCity_Text_SaffronBelongsToTeamRocket::
-	.string "SAFFRON belongs to TEAM ROCKET!$"
+	.string "金黄永远属于火箭队！$"
 
 SaffronCity_Text_CriminalLifeMakesMeFeelAlive::
-	.string "My life as a criminal makes me feel\n"
-	.string "so alive!$"
+	.string "只有犯罪才会让我觉得是如此的有意\n"
+	.string "义！$"
 
 SaffronCity_Text_WatchWhereYoureWalking::
-	.string "Ow!\n"
-	.string "Watch where you're walking!$"
+	.string "噢！给我好好走路！$"
 
 SaffronCity_Text_WeCanExploitMonsAroundWorld::
-	.string "With SILPH under control, we can\n"
-	.string "exploit POKéMON around the world!\p"
-	.string "We'll get stinking rich, yeahah!$"
+	.string "在我们控制了西尔佛之后，我们将会\n"
+	.string "拥有全世界的宝可梦！\p"
+	.string "富甲天下，哇哈哈哈！$"
 
 SaffronCity_Text_YouBeatTeamRocket::
-	.string "You beat TEAM ROCKET all alone?\n"
-	.string "That's amazing!$"
+	.string "你一人就打败了火箭队？真难以想象\n"
+	.string "！$"
 
 SaffronCity_Text_SafeToGoOutAgain::
-	.string "Yeah! TEAM ROCKET is gone!\n"
-	.string "It's safe to go out again!$"
+	.string "耶！火箭队被赶跑了！外面都安全喽\n"
+	.string "！$"
 
 SaffronCity_Text_PeopleComingBackToSaffron::
-	.string "People fled from here in droves\n"
-	.string "when those ROCKETS came.\p"
-	.string "They should be flocking back to\n"
-	.string "SAFFRON now.$"
+	.string "当火箭队来的时候，人们成群结队地\n"
+	.string "逃离这里。\p"
+	.string "他们现在要涌回金黄了。$"
 
 SaffronCity_Text_FlewHereOnPidgeot::
-	.string "I flew here on my PIDGEOT when\n"
-	.string "I read about SILPH.\p"
-	.string "It's already over?\n"
-	.string "I missed the media action…$"
+	.string "当我得知西尔佛的事件后，就马上乘\n"
+	.string "着大比鸟飞过来了。\p"
+	.string "现在一切都结束了吗？我错过了写报\n"
+	.string "导的最好时机……$"
 
 SaffronCity_Text_Pidgeot::
-	.string "PIDGEOT: Bi bibii!$"
+	.string "大比鸟 比比比！$"
 
 SaffronCity_Text_SawRocketBossEscaping::
-	.string "I saw the ROCKET BOSS escaping\n"
-	.string "SILPH's building.$"
+	.string "我看见火箭队的老大从西尔佛大楼逃\n"
+	.string "了出来。$"
 
 SaffronCity_Text_ImASecurityGuard::
-	.string "I'm a security guard.\p"
-	.string "Suspicious kids I don't allow in!$"
+	.string "我是一名保安。\p"
+	.string "我决不允许可疑的孩子进入！$"
 
 SaffronCity_Text_HesTakingASnooze::
-	.string "…\n"
-	.string "Snore…\p"
-	.string "Hah! He's taking a snooze!$"
+	.string "……鼾声传了出来……\p"
+	.string "哈！他正在打盹儿！$"
 
 SaffronCity_Text_CitySign::
-	.string "SAFFRON CITY\n"
-	.string "Shining, Golden Land of Commerce$"
+	.string "金黄市遍布商机的闪耀之地$"
 
 SaffronCity_Text_FightingDojo::
-	.string "FIGHTING DOJO$"
+	.string "格斗道场$"
 
 SaffronCity_Text_GymSign::
-	.string "SAFFRON CITY POKéMON GYM\n"
-	.string "LEADER: SABRINA\l"
-	.string "The Master of PSYCHIC POKéMON!$"
+	.string "金黄市宝可梦道馆馆主：娜姿超能力\n"
+	.string "属性宝可梦的大师！$"
 
 SaffronCity_Text_FullHealCuresStatus::
-	.string "TRAINER TIPS\p"
-	.string "FULL HEAL cures all ailments like\n"
-	.string "burns, paralysis, poisoning,\l"
-	.string "freezing, and sleep.\p"
-	.string "It costs a bit more, but it's more\n"
-	.string "convenient than buying other items.$"
+	.string "训练家贴士\p"
+	.string "万灵药能治愈像烧伤，麻痹，中毒，\n"
+	.string "冰冻和睡眠等异常状态。\p"
+	.string "虽然有点贵，但是比一个一个买其他\n"
+	.string "商品更方便。$"
 
 SaffronCity_Text_GreatBallImprovedCatchRate::
-	.string "TRAINER TIPS\p"
-	.string "The new GREAT BALL offers improved\n"
-	.string "catching rates.\p"
-	.string "Try it on those hard-to-catch\n"
-	.string "POKéMON.$"
+	.string "训练家贴士\p"
+	.string "新的超级球提高了收服率。\p"
+	.string "试试用它去抓那些很难收服的宝可梦\n"
+	.string "。$"
 
 SaffronCity_Text_SilphCoSign::
-	.string "SILPH CO. OFFICE BUILDING$"
+	.string "西尔佛公司办公大楼$"
 
 SaffronCity_Text_MrPsychicsHouse::
-	.string "MR. PSYCHIC'S HOUSE$"
+	.string "超能先生的家$"
 
 SaffronCity_Text_SilphsLatestProduct::
-	.string "SILPH's latest product!\n"
-	.string "Release to be determined…$"
+	.string "西尔佛的最新产品！即将开始销售…\n"
+	.string "…$"
 
 SaffronCity_Text_TrainerFanClubSign::
-	.string "POKéMON TRAINER FAN CLUB\p"
-	.string "Many TRAINERS have scribbled their\n"
-	.string "names on this sign.$"
+	.string "宝可梦训练家迷俱乐部\p"
+	.string "许多训练家在这里留下了他们的名字\n"
+	.string "。$"
 
 SaffronCity_Text_HowCanClubNotRecognizeLance::
-	.string "This FAN CLUB…\n"
-	.string "No one here has a clue!\p"
-	.string "How could they not recognize\n"
-	.string "the brilliance that is LANCE?\p"
-	.string "He stands for justice!\n"
-	.string "He's cool, and yet passionate!\l"
-	.string "He's the greatest, LANCE!$"
+	.string "这个俱乐部里面……没人有异议！\p"
+	.string "谁不知道渡的实力？\p"
+	.string "他就是正义的化身！而且冷静又富有\n"
+	.string "激情！渡先生是最棒的！$"
 

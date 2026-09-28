@@ -198,271 +198,224 @@ BattleFrontier_Lounge3_EventScript_FaceOriginalDirection::
 	end
 
 BattleFrontier_Lounge3_Text_CantYouSeeWereBusyHere::
-	.string "…What's that you want?\p"
-	.string "Can't you see we're kind of busy here?\n"
-	.string "Can't your business wait till later?$"
+	.string "……你想干什么？\p"
+	.string "没看见我们很忙吗？你就不能一边去\n"
+	.string "等等？$"
 
 BattleFrontier_Lounge3_Text_YouLookToughExplainGambling::
-	.string "…Huh?\n"
-	.string "You look to me like a tough TRAINER.\p"
-	.string "Heheh…\n"
-	.string "Listen, I have this proposition.\p"
-	.string "We have a little group going here,\n"
-	.string "and we play a little game with what\l"
-	.string "goes on in the BATTLE FRONTIER.\p"
-	.string "The rules are really simple.\p"
-	.string "First, we pick one of the facilities\n"
-	.string "in the BATTLE FRONTIER.\p"
-	.string "Then, we each pick a different TRAINER\n"
-	.string "who's taking that facility's challenge,\l"
-	.string "and bet with our Battle Points.\p"
-	.string "The guy who bet on the TRAINER with\n"
-	.string "the best record takes all the Battle\l"
-	.string "Points in the pool.\p"
-	.string "Sounds simple, huh?\n"
-	.string "So, anyway…$"
+	.string "……嗯？我觉得你是个挺强的训练家\n"
+	.string "。\p"
+	.string "呵呵呵……听着，我有个小提议。\p"
+	.string "现在我们在对战开拓区有一组人，我\n"
+	.string "们正在做一个小游戏。\p"
+	.string "规则很简单。\p"
+	.string "首先，我们选择一种对战开拓区的设\n"
+	.string "施，\p"
+	.string "然后我们各自选择一个正在挑战的训\n"
+	.string "练家，赌上自己的对战点数，\p"
+	.string "选的训练家获得成绩最好的人就可以\n"
+	.string "得到所有的对战点数。\p"
+	.string "很简单是吧？然后……$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerSingle::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "TOWER's SINGLE BATTLE ROOMS.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "我正在找想要挑战对战塔单打对战间\n"
+	.string "的训练家，\p"
+	.string "但到现在我还没看到有能力胜出的训\n"
+	.string "练家。$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerDouble::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "TOWER's DOUBLE BATTLE ROOMS.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "我正在找想要挑战对战塔双打对战间\n"
+	.string "的训练家，\p"
+	.string "但到现在我还没看到有能力胜出的训\n"
+	.string "练家。$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerMulti::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "TOWER's MULTI BATTLE ROOMS.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "我正在找想要挑战对战塔多人对战间\n"
+	.string "的训练家，\p"
+	.string "但到现在我还没看到有能力胜出的训\n"
+	.string "练家。$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleDomeSingle::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE\l"
-	.string "DOME's SINGLE BATTLE Tourney.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "我正在找想要挑战对战巨蛋单打对战\n"
+	.string "锦标赛的训练家，\p"
+	.string "但到现在我还没看到有能力胜出的训\n"
+	.string "练家。$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleDomeDouble::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE\l"
-	.string "DOME's DOUBLE BATTLE Tourney.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "我正在找想要挑战对战巨蛋双打对战\n"
+	.string "锦标赛的训练家，\p"
+	.string "但到现在我还没看到有能力胜出的训\n"
+	.string "练家。$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleFactorySingle::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE\l"
-	.string "FACTORY's Battle Swap Single Tourney.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "我正在找想要挑战对战工厂交换式对\n"
+	.string "战单打锦标赛的训练家，\p"
+	.string "但到现在我还没看到有能力胜出的训\n"
+	.string "练家。$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleFactoryDouble::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE\l"
-	.string "FACTORY's Battle Swap Double Tourney.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "我正在找想要挑战对战工厂交换式对\n"
+	.string "战双打锦标赛的训练家，\p"
+	.string "但到现在我还没看到有能力胜出的训\n"
+	.string "练家。$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePalaceSingle::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "PALACE's SINGLE BATTLE HALLS.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "我正在找想要挑战对战宫殿单打对战\n"
+	.string "大厅的训练家，\p"
+	.string "但到现在我还没看到有能力胜出的训\n"
+	.string "练家。$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePalaceDouble::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "PALACE's DOUBLE BATTLE HALLS.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "我正在找想要挑战对战宫殿双打对战\n"
+	.string "大厅的训练家，\p"
+	.string "但到现在我还没看到有能力胜出的训\n"
+	.string "练家。$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleArena::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE\l"
-	.string "ARENA's Set KO Tourney.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "我正在找想要参加对战竞技场三回合\n"
+	.string "定胜负锦标赛的训练家，\p"
+	.string "但到现在我还没看到有能力胜出的训\n"
+	.string "练家。$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePike::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE PIKE's\l"
-	.string "Battle Choice.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "我正在找想要参加对战管道选择式对\n"
+	.string "战的训练家，\p"
+	.string "但到现在我还没看到有能力胜出的训\n"
+	.string "练家。$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePyramid::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE\l"
-	.string "PYRAMID's Battle Quest.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "我正在找想要参加对战金字塔探索式\n"
+	.string "对战的训练家，\p"
+	.string "但到现在我还没看到有能力胜出的训\n"
+	.string "练家。$"
 
 BattleFrontier_Lounge3_Text_HowAboutEnteringEventForMe::
-	.string "I'll see to it that you benefit, too.\n"
-	.string "So how about it?\l"
-	.string "How about entering that event for me?$"
+	.string "我觉得也许你值得一试，怎么样？能\n"
+	.string "替我参加吗？$"
 
 BattleFrontier_Lounge3_Text_SpotMeSomeBattlePoints::
-	.string "All right, that's perfect.\n"
-	.string "So, uh… How about spotting me some\l"
-	.string "of your Battle Points?\p"
-	.string "Trust me, I'll show you my gratitude\n"
-	.string "afterward.$"
+	.string "好的，太好了。那么，呃……能先给\n"
+	.string "我一些对战点数吗？\p"
+	.string "相信我，事后我会感谢你的。$"
 
 BattleFrontier_Lounge3_Text_HowMuchCanYouSpot::
-	.string "Great, great!\n"
-	.string "So, how much can you spot me?$"
+	.string "太好了，太好了！那你能给我多少？$"
 
 BattleFrontier_Lounge3_Text_YouDontHaveEnoughPoints::
-	.string "Oh, no, no, no!\n"
-	.string "You don't have enough Battle Points!\p"
-	.string "I wish you wouldn't monkey around and\n"
-	.string "waste everyone's time!$"
+	.string "啊，不不不！你的对战点数不够！\p"
+	.string "你还是别在这儿乱转浪费别人的时间\n"
+	.string "了！$"
 
 BattleFrontier_Lounge3_Text_ThanksOffYouGo::
-	.string "Heheh! Thanks much!\n"
-	.string "So, off you go!$"
+	.string "呵呵呵！谢谢！好了，去吧！$"
 
 BattleFrontier_Lounge3_Text_GetToBattleTowerSingle::
-	.string "Get to the BATTLE TOWER's\n"
-	.string "SINGLE BATTLE ROOMS pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "马上就去对战塔的单打对战间吧！\p"
+	.string "决不能输！别放过这个机会！我们的\n"
+	.string "未来就全靠你了！$"
 
 BattleFrontier_Lounge3_Text_GetToBattleTowerDouble::
-	.string "Get to the BATTLE TOWER's\n"
-	.string "DOUBLE BATTLE ROOMS pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "马上就去对战塔的双打对战间吧！\p"
+	.string "决不能输！别放过这个机会！我们的\n"
+	.string "未来就全靠你了！$"
 
 BattleFrontier_Lounge3_Text_GetToBattleTowerMulti::
-	.string "Get to the BATTLE TOWER's\n"
-	.string "MULTI BATTLE ROOMS pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "马上就去对战塔的多人对战间吧！\p"
+	.string "决不能输！别放过这个机会！我们的\n"
+	.string "未来就全靠你了！$"
 
 BattleFrontier_Lounge3_Text_GetToBattleDomeSingle::
-	.string "Get to the BATTLE DOME's\n"
-	.string "SINGLE BATTLE Tourney pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "马上就去对战巨蛋的单打对战锦标赛\n"
+	.string "吧！\p"
+	.string "决不能输！别放过这个机会！我们的\n"
+	.string "未来就全靠你了！$"
 
 BattleFrontier_Lounge3_Text_GetToBattleDomeDouble::
-	.string "Get to the BATTLE DOME's\n"
-	.string "DOUBLE BATTLE Tourney pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "马上就去对战巨蛋的双打对战锦标赛\n"
+	.string "吧！\p"
+	.string "决不能输！别放过这个机会！我们的\n"
+	.string "未来就全靠你了！$"
 
 BattleFrontier_Lounge3_Text_GetToBattleFactorySingle::
-	.string "Get to the BATTLE FACTORY's\n"
-	.string "Battle Swap Single Tourney pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "马上就去对战工厂的交换式对战单打\n"
+	.string "锦标赛吧！\p"
+	.string "决不能输！别放过这个机会！我们的\n"
+	.string "未来就全靠你了！$"
 
 BattleFrontier_Lounge3_Text_GetToBattleFactoryDouble::
-	.string "Get to the BATTLE FACTORY's\n"
-	.string "Battle Swap Double Tourney pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "马上就去对战工厂的交换式对战双打\n"
+	.string "锦标赛吧！\p"
+	.string "决不能输！别放过这个机会！我们的\n"
+	.string "未来就全靠你了！$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePalaceSingle::
-	.string "Get to the BATTLE PALACE's\n"
-	.string "SINGLE BATTLE HALLS pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "马上就去对战宫殿的单打对战厅吧！\p"
+	.string "决不能输！别放过这个机会！我们的\n"
+	.string "未来就全靠你了！$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePalaceDouble::
-	.string "Get to the BATTLE PALACE's\n"
-	.string "DOUBLE BATTLE HALLS pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "马上就去对战宫殿的双打对战厅吧！\p"
+	.string "决不能输！别放过这个机会！我们的\n"
+	.string "未来就全靠你了！$"
 
 BattleFrontier_Lounge3_Text_GetToBattleArena::
-	.string "Get to the BATTLE ARENA's\n"
-	.string "Set KO Tourney pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "马上就去对战竞技场的三回合定胜负\n"
+	.string "锦标赛吧！\p"
+	.string "决不能输！别放过这个机会！我们的\n"
+	.string "未来就全靠你了！$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePike::
-	.string "Get to the BATTLE PIKE's\n"
-	.string "Battle Choice pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "马上就去对战管道的选择式对战吧！\p"
+	.string "决不能输！别放过这个机会！我们的\n"
+	.string "未来就全靠你了！$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePyramid::
-	.string "Get to the BATTLE PYRAMID's\n"
-	.string "Battle Quest pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "马上就去对战金字塔的探索式对战吧\n"
+	.string "！\p"
+	.string "决不能输！别放过这个机会！我们的\n"
+	.string "未来就全靠你了！$"
 
 BattleFrontier_Lounge3_Text_NiceTryCantReturnPoints::
-	.string "Oh, it's you…\n"
-	.string "Nice try…\p"
-	.string "I hate to break it to you, but I can't\n"
-	.string "return your Battle Points…\p"
-	.string "I guess we'll have to let it motivate\n"
-	.string "us to try harder next time!$"
+	.string "啊，你来了……你很努力了……\p"
+	.string "不过抱歉，我没法把对战点数还给你\n"
+	.string "了……\p"
+	.string "就让我们下一回更加努力一些吧！$"
 
 BattleFrontier_Lounge3_Text_HelloChampHeresYourPoints::
-	.string "Oh, yes!\n"
-	.string "Hello there, champ!\p"
-	.string "I knew you could!\n"
-	.string "I knew you would!\l"
-	.string "We're both big winners!\p"
-	.string "I'll return your Battle Points and,\n"
-	.string "of course, a little extra from me!$"
+	.string "啊，太棒了！我在这儿！\p"
+	.string "我就知道你可以的！我就知道你会成\n"
+	.string "功！今天我们两个是大赢家！\p"
+	.string "你的对战点数还给你，还有，这是额\n"
+	.string "外的奖品！$"
 
 BattleFrontier_Lounge3_Text_ObtainedBattlePoints::
-	.string "{PLAYER} obtained\n"
-	.string "{STR_VAR_1} Battle Points.$"
+	.string "{PLAYER}获得了\n"
+	.string "{STR_VAR_1}BP的对战\l"
+	.string "点数。$"
 
 BattleFrontier_Lounge3_Text_ThinkOfMeForAnotherChallenge::
-	.string "If you're up for another challenge,\n"
-	.string "please do think of me!$"
+	.string "你还准备挑战什么的话别忘了叫上我\n"
+	.string "！$"
 
 BattleFrontier_Lounge3_Text_NotInterested::
-	.string "Not interested?! You shouldn't be\n"
-	.string "so afraid to take a chance!$"
+	.string "你不感兴趣吗？！不要怕挑战啊！$"
 
 BattleFrontier_Lounge3_Text_Oh::
-	.string "Oh…$"
+	.string "啊……$"
 
 BattleFrontier_Lounge3_Text_BackedWrongTrainer::
-	.string "I backed the wrong TRAINER again!\p"
-	.string "Maybe I should be battling normally\n"
-	.string "like everyone else…$"
+	.string "我又押错了训练家！\p"
+	.string "也许我还是老老实实像别人那样去对\n"
+	.string "战比较好……$"
 
 BattleFrontier_Lounge3_Text_TrainerGoodButRattled::
-	.string "That TRAINER…\p"
-	.string "He's good, but he gets rattled too\n"
-	.string "easily to survive the BATTLE DOME…$"
+	.string "那边的训练家……\p"
+	.string "他的实力其实不错，可惜太容易紧张\n"
+	.string "，总是通不过对战巨蛋……$"
 
 BattleFrontier_Lounge3_Text_KnowWinnerWhenISeeOne::
-	.string "Giggle!\n"
-	.string "I know a winner when I see one!$"
+	.string "嘻嘻！我一眼就能看出谁会是赢家！$"
 
 BattleFrontier_Lounge3_Text_ShouldBeTakingChallenges::
-	.string "Those TRAINERS…\n"
-	.string "What are they doing?\l"
-	.string "They should be taking challenges.$"
+	.string "那些训练家……他们在干什么？他们\n"
+	.string "应该去挑战啊。$"

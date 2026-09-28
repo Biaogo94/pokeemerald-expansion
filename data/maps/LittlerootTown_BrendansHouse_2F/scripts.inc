@@ -282,32 +282,30 @@ PlayersHouse_2F_EventScript_GameCube::
 	end
 
 PlayersHouse_2F_Text_ClockIsStopped:
-	.string "The clock is stopped…\p"
-	.string "Better set it and start it!$"
+	.string "时钟停着……\p"
+	.string "把时间调好吧！$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
-	.string "MOM: {PLAYER}, how do you like your\n"
-	.string "new room?\p"
-	.string "Good! Everything's put away neatly!\p"
-	.string "They finished moving everything in\n"
-	.string "downstairs, too.\p"
-	.string "POKéMON movers are so convenient!\p"
-	.string "Oh, you should make sure that\n"
-	.string "everything's all there on your desk.$"
+	.string "妈妈：{PLAYER}，喜欢你的\n"
+	.string "新房间吗？\p"
+	.string "太好了！房间收拾得很整洁呢！\p"
+	.string "楼下的行李也都整理完毕了。\p"
+	.string "宝可梦搬家服务真方便啊！\p"
+	.string "对了，记得检查一下你桌子上的东西\n"
+	.string "是不是都齐了。$"
 
 PlayersHouse_2F_Text_Notebook:
-	.string "{PLAYER} flipped open the notebook.\p"
-	.string "ADVENTURE RULE NO. 1\n"
-	.string "Open the MENU with START.\p"
-	.string "ADVENTURE RULE NO. 2\n"
-	.string "Record your progress with SAVE.\p"
-	.string "The remaining pages are blank…$"
+	.string "{PLAYER}翻开笔记。\p"
+	.string "冒险须知第一条用START键打开\n"
+	.string "菜单。\p"
+	.string "冒险须知第二条记录选项可以写下记\n"
+	.string "录。\p"
+	.string "后面是空白……$"
 
 Common_Text_LookCloserAtMap:
-	.string "{PLAYER} took a closer look at the\n"
-	.string "{REGION} region map.$"
+	.string "{PLAYER}仔细察看\n"
+	.string "{REGION}地区的地图。$"
 
 PlayersHouse_2F_Text_ItsAGameCube:
-	.string "It's a Nintendo GameCube.\p"
-	.string "A Game Boy Advance is connected to\n"
-	.string "serve as the Controller.$"
+	.string "这是NGC。\p"
+	.string "上面连着个GBA当做手柄。$"

@@ -257,80 +257,74 @@ MauvilleCity_Gym_EventScript_GymStatue::
 	end
 
 MauvilleCity_Gym_Text_GymGuideAdvice:
-	.string "Hey, how's it going, CHAMPION-\n"
-	.string "bound {PLAYER}?\p"
-	.string "WATTSON, the LEADER of MAUVILLE\n"
-	.string "GYM, uses ELECTRIC-type POKéMON.\p"
-	.string "If you challenge him with WATER-type\n"
-	.string "POKéMON, he'll zap them! Bzzt!\p"
-	.string "And, he's put in switch-controlled\n"
-	.string "doors all over his GYM! Eccentric!\p"
-	.string "Hey, go for it!$"
+	.string "嗨，怎么样，向冠军的目标冲刺的\n"
+	.string "{PLAYER}？\p"
+	.string "紫堇市道馆的馆主铁旋使用电属性宝\n"
+	.string "可梦。\p"
+	.string "如果用水属性宝可梦挑战他，会被他\n"
+	.string "电麻的！吱——\p"
+	.string "还有，他在自己的道馆里设置了一大\n"
+	.string "堆由开关控制的电子屏障！怪人！\p"
+	.string "好了，加油吧！$"
 
 MauvilleCity_Gym_Text_GymGuidePostVictory:
-	.string "Whoa, you're electrifying!\n"
-	.string "You've powered the door open!$"
+	.string "哇，真让人吃惊！你打开了屏障！$"
 
 MauvilleCity_Gym_Text_KirkIntro:
-	.string "My electric soul, it'll shatter your\n"
-	.string "dreams whole, whoa-yeahah!$"
+	.string "让我的电之魂粉碎你的梦想吧，哦—\n"
+	.string "—耶！$"
 
 MauvilleCity_Gym_Text_KirkDefeat:
-	.string "That was plugged in, amped up,\n"
-	.string "over-driven electric, man!$"
+	.string "插上了电源，但电流过载了！$"
 
 MauvilleCity_Gym_Text_KirkPostBattle:
-	.string "POKéMON and rock, it's all about heart,\n"
-	.string "whoa-yeah!$"
+	.string "宝可梦和摇滚，都要用心来表现，哦\n"
+	.string "——耶！$"
 
 MauvilleCity_Gym_Text_ShawnIntro:
-	.string "I trained under WATTSON!\n"
-	.string "There ain't no way I'll lose easily!$"
+	.string "我跟着铁旋训练，不会轻易输给你的\n"
+	.string "！$"
 
 MauvilleCity_Gym_Text_ShawnDefeat:
-	.string "Unplugged and turned off…$"
+	.string "电源被拔掉了……$"
 
 MauvilleCity_Gym_Text_ShawnPostBattle:
-	.string "WATTSON, our GYM LEADER, has been\n"
-	.string "around for a long, long time.\p"
-	.string "He was battling even before your\n"
-	.string "daddy was born, that tough coot.$"
+	.string "我们的道馆馆主铁旋在这里已经很久\n"
+	.string "很久了，\p"
+	.string "你爸爸出生前他就在战斗。$"
 
 MauvilleCity_Gym_Text_BenIntro:
-	.string "This GYM's got puzzles!\n"
-	.string "Isn't it fun?$"
+	.string "道馆里有谜题！很好玩吧？$"
 
 MauvilleCity_Gym_Text_BenDefeat:
-	.string "It's no fun to lose…$"
+	.string "输了一点也不好玩……$"
 
 MauvilleCity_Gym_Text_BenPostBattle:
-	.string "WATTSON says he likes setting up\n"
-	.string "little traps with switches.$"
+	.string "铁旋说他喜欢弄些开关控制的小机关\n"
+	.string "。$"
 
 MauvilleCity_Gym_Text_VivianIntro:
-	.string "With my charm and my POKéMON's moves,\n"
-	.string "you'll be shocked!$"
+	.string "我的魅力和宝可梦的招式会让你大吃\n"
+	.string "一惊！$"
 
 MauvilleCity_Gym_Text_VivianDefeat:
-	.string "I'm shocked by your power!$"
+	.string "你的力量令我十分吃惊！$"
 
 MauvilleCity_Gym_Text_VivianPostBattle:
-	.string "I've heard that MAUVILLE was founded\n"
-	.string "by WATTSON.\p"
-	.string "He was a TRAINER long before we\n"
-	.string "became TRAINERS.\l"
-	.string "He must know all sorts of things!$"
+	.string "听说紫堇市是由铁旋建立起来的。\p"
+	.string "在我们成为训练家之前，他已经做了\n"
+	.string "很久的训练家了。他一定知道很多很\l"
+	.string "多事情！$"
 
 MauvilleCity_Gym_Text_AngeloIntro:
-	.string "I love shiny things!$"
+	.string "我喜欢闪光的东西！$"
 
 MauvilleCity_Gym_Text_AngeloDefeat:
-	.string "Oh…\n"
-	.string "My eyes are frazzled…$"
+	.string "呀……眼睛花了……$"
 
 MauvilleCity_Gym_Text_AngeloPostBattle:
-	.string "MAUVILLE GYM's WATTSON has a shiny\n"
-	.string "forehead. It makes me happy!$"
+	.string "紫堇市道馆的铁旋额头上总是闪着光\n"
+	.string "，我好兴奋！$"
 
 MauvilleCity_Gym_Text_WattsonIntro:
 	.string "I've given up on my plans to convert\n"
@@ -346,22 +340,19 @@ MauvilleCity_Gym_Text_WattsonIntro:
 	.string "MAUVILLE GYM, shall electrify you!$"
 
 MauvilleCity_Gym_Text_WattsonDefeat:
-	.string "Wahahahah!\n"
-	.string "Fine, I lost!\p"
-	.string "You ended up giving me a thrill!\n"
-	.string "Take this BADGE!$"
+	.string "哇哈哈哈！好，我输了！\p"
+	.string "你让我兴奋极了！收下这枚徽章！$"
 
 MauvilleCity_Gym_Text_ReceivedDynamoBadge:
-	.string "{PLAYER} received the DYNAMO BADGE\n"
-	.string "from WATTSON.$"
+	.string "{PLAYER}从铁旋那里得到了\n"
+	.string "电力徽章。$"
 
 MauvilleCity_Gym_Text_ExplainDynamoBadgeTakeThis:
-	.string "With the DYNAMO BADGE, POKéMON can\n"
-	.string "use ROCK SMASH out of battle.\p"
-	.string "And, it will make your POKéMON a little\n"
-	.string "bit faster, too.\p"
-	.string "Hmm…\n"
-	.string "You should take this, too!$"
+	.string "有了这个电力徽章，宝可梦就可以在\n"
+	.string "对战外使用碎岩了，\p"
+	.string "而且你的宝可梦的速度也会变得稍微\n"
+	.string "快一点。\p"
+	.string "嗯……你也收下这个吧！$"
 
 MauvilleCity_Gym_Text_ExplainShockWave:
 	.string "That TM34 there contains SHOCK WAVE.\p"
@@ -370,52 +361,46 @@ MauvilleCity_Gym_Text_ExplainShockWave:
 	.string "… … … … … …$"
 
 MauvilleCity_Gym_Text_RegisteredWattson:
-	.string "Registered GYM LEADER WATTSON\n"
-	.string "in the POKéNAV.$"
+	.string "把道馆馆主铁旋登记到宝可导航里了\n"
+	.string "。$"
 
 MauvilleCity_Gym_Text_WattsonPostBattle:
-	.string "I swell with optimism, seeing a promising\n"
-	.string "young TRAINER like you!$"
+	.string "能看到像你这样前途无量的年轻训练\n"
+	.string "家，我真高兴呀！$"
 
 MauvilleCity_Gym_Text_WattsonGoForthAndEndeavor:
-	.string "Wahahahah!\n"
-	.string "Go forth and endeavor, youngster!$"
+	.string "哇哈哈哈！年轻人，向前进，努力吧\n"
+	.string "！$"
 
 MauvilleCity_Gym_Text_GymStatue:
-	.string "MAUVILLE CITY POKéMON GYM$"
+	.string "紫堇市宝可梦道馆$"
 
 MauvilleCity_Gym_Text_GymStatueCertified:
-	.string "MAUVILLE CITY POKéMON GYM\p"
-	.string "WATTSON'S CERTIFIED TRAINERS:\n"
+	.string "紫堇市宝可梦道馆\p"
+	.string "铁旋认可的训练家：\n"
 	.string "{PLAYER}$"
 
 MauvilleCity_Gym_Text_WattsonPreRematch:
-	.string "WATTSON: Ah-ha! Here at last!\n"
-	.string "I know what you want.\l"
-	.string "You want to battle my POKéMON!\p"
-	.string "Wahahahaha!\p"
-	.string "I'll make sparks fly from you!\n"
-	.string "Don't say I didn't warn you!$"
+	.string "铁旋：啊哈！你终于来了！我知道你\n"
+	.string "想要什么。你想和我的宝可梦对战！\p"
+	.string "哇哈哈哈哈！\p"
+	.string "别说我没警告你，我会让你火花四溅\n"
+	.string "的！$"
 
 MauvilleCity_Gym_Text_WattsonRematchDefeat:
-	.string "Oof…\n"
-	.string "Our batteries ran dry…$"
+	.string "噢……我们的电池没电了……$"
 
 MauvilleCity_Gym_Text_WattsonPostRematch:
-	.string "WATTSON: We'll have to recharge our\n"
-	.string "batteries again.\p"
-	.string "When we're fully charged up, we'll\n"
-	.string "gladly accept your challenge.\p"
-	.string "So, come back again sometime,\n"
-	.string "won't you?$"
+	.string "铁旋：我们又要给我们的电池充电了\n"
+	.string "。\p"
+	.string "等我们充好电，我们会很高兴接受你\n"
+	.string "的挑战。\p"
+	.string "所以，有时间的话再来吧，好吗？$"
 
 MauvilleCity_Gym_Text_WattsonRematchNeedTwoMons:
-	.string "WATTSON: Ah-ha! Here at last!\n"
-	.string "I know what you want.\l"
-	.string "You want to battle my POKéMON!\p"
-	.string "Wahahahaha!\p"
-	.string "Oops! Wait!\n"
-	.string "You've only one POKéMON with you!\p"
-	.string "Come see me with two or more\n"
-	.string "POKéMON, all right?$"
+	.string "铁旋：啊哈！你终于来了！我知道你\n"
+	.string "想要什么。你想和我的宝可梦对战！\p"
+	.string "哇哈哈哈哈！\p"
+	.string "哎，等等！你只带了1只宝可梦！\p"
+	.string "带2只以上宝可梦再来吧，好吗？$"
 

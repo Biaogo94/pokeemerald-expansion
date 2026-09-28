@@ -22,14 +22,14 @@ MossdeepCity_House1_EventScript_Woman::
 	end
 
 MossdeepCity_House1_Text_HmmYourPokemon:
-	.string "Hmm!\n"
-	.string "Your {STR_VAR_1}…$"
+	.string "啊！你的{STR_VAR_1}…\n"
+	.string "…$"
 
 MossdeepCity_House1_Text_ItLikesXPokeblocks:
-	.string "It likes {STR_VAR_1}S,\n"
-	.string "doesn't it?\p"
-	.string "No, I'm positive of it! It definitely\n"
-	.string "likes {STR_VAR_1}S!$"
+	.string "它喜欢{STR_VAR_1}是吧\n"
+	.string "？\p"
+	.string "不，我肯定它就是喜欢\n"
+	.string "{STR_VAR_1}！$"
 
 MossdeepCity_House1_Text_DoesntLikeOrDislikePokeblocks:
 	.string "It doesn't appear to like or dislike\n"

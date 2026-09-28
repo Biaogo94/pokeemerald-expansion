@@ -11,12 +11,10 @@ FallarborTown_BattleTentLobby_Text_WelcomeToBattleTent:
 #endif
 
 FallarborTown_BattleTentLobby_Text_TakeChallenge:
-	.string "Now, do you wish to take the challenge\n"
-	.string "of a Set KO Tourney?$"
+	.string "要挑战三回合定胜负锦标赛吗？$"
 
 FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge:
-	.string "We await your challenge on\n"
-	.string "another occasion!$"
+	.string "随时恭候您再次挑战！$"
 
 FallarborTown_BattleTentLobby_Text_ExplainFallarborTent:
 #if IS_HNS
@@ -44,18 +42,16 @@ FallarborTown_BattleTentLobby_Text_ExplainFallarborTent:
 	.string "we will present you with a fine prize.$"
 
 FallarborTown_BattleTentLobby_Text_SaveBeforeChallenge:
-	.string "Before showing you to the BATTLE\n"
-	.string "TENT, I must save. Is that okay?$"
+	.string "在挑战对战帐篷之前要先写入记录，\n"
+	.string "可以吗？$"
 
 @ Unused
 FallarborTown_BattleTentLobby_Text_WhichLevelMode:
-	.string "We offer two levels of challenge,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which is your choice?$"
+	.string "我们提供2个级别的比赛，Lv. \n"
+	.string "50级和自由等级您要参加哪个？$"
 
 FallarborTown_BattleTentLobby_Text_SelectThreeMons:
-	.string "Very well, now select your\n"
-	.string "three POKéMON, please.$"
+	.string "好的，请选择3只宝可梦。$"
 
 FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 	.string "My dear challenger!\p"
@@ -68,65 +64,55 @@ FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 	.string "please do return.$"
 
 FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "My dear challenger!\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for entry.\p"
-	.string "To qualify, you must bring three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not hold the same\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "When you have made your preparations,\n"
-	.string "please do return.$"
+	.string "这位客人！\p"
+	.string "您能够参加对战的宝可梦不满3只。\p"
+	.string "您需要准备3只不同种类的宝可梦，\p"
+	.string "且让它们分别携带不同道具才可参加\n"
+	.string "对战。\p"
+	.string "此外，蛋{STR_VAR_1}无\n"
+	.string "法参加对战！\p"
+	.string "请在准备就绪之后，再来参加吧！$"
 
 FallarborTown_BattleTentLobby_Text_GuideYouToBattleTent:
-	.string "I shall now guide you to\n"
-	.string "the BATTLE TENT.$"
+	.string "我现在带您进入对战帐篷。$"
 
 FallarborTown_BattleTentLobby_Text_DidntSaveBeforeQuitting:
-	.string "My dear challenger!\p"
-	.string "You did not save the game before\n"
-	.string "shutting down, did you?\p"
-	.string "It is unfortunate, but that has\n"
-	.string "resulted in your disqualification\l"
-	.string "from your challenge.\p"
-	.string "You may, of course, start with a fresh\n"
-	.string "challenge.$"
+	.string "这位客人！\p"
+	.string "您在上次结束时没有写入记录吧？\p"
+	.string "非常遗憾，没有写入记录的挑战我们\n"
+	.string "将视其为无效。\p"
+	.string "当然，您可以随时开始一次新的挑战\n"
+	.string "。$"
 
 FallarborTown_BattleTentLobby_Text_BeatThreeTrainers:
-	.string "How splendid! You have beaten\n"
-	.string "three TRAINERS in succession!$"
+	.string "太棒了！您连续打败了3位训练家！$"
 
 FallarborTown_BattleTentLobby_Text_WaitWhileSaveGame:
-	.string "Please wait while I save the game.$"
+	.string "正在写入记录……请稍候。$"
 
 FallarborTown_BattleTentLobby_Text_PresentYouWithPrize:
-	.string "In commemoration of your 3-win streak,\n"
-	.string "we present you with this prize.$"
+	.string "为纪念您取得3连胜，特此为您颁发\n"
+	.string "这份奖品。$"
 
 FallarborTown_BattleTentLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+	.string "{PLAYER}得到了\n"
+	.string "{STR_VAR_1}。$"
 
 FallarborTown_BattleTentLobby_Text_BagFullReturnForPrize:
-	.string "Oh?\n"
-	.string "Your BAG seems to be full.\p"
-	.string "I urge you to clear space and\n"
-	.string "return for your prize.$"
+	.string "哎？包包已经满了。\p"
+	.string "请把包包整理好之后再来领取吧。$"
 
 FallarborTown_BattleTentLobby_Text_ThankYouWaitWhileSaving:
-	.string "Thank you so much for participating!\p"
-	.string "Please wait while I save the game.$"
+	.string "辛苦了！\p"
+	.string "正在写入记录……请稍候。$"
 
 FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge2:
-	.string "We await your challenge on\n"
-	.string "another occasion!$"
+	.string "随时恭候您再次挑战！$"
 
 FallarborTown_BattleTentLobby_Text_LookingForwardToArrival:
-	.string "We have been looking forward to\n"
-	.string "your arrival.\p"
-	.string "Before I show you to the BATTLE TENT,\n"
-	.string "I must save the game. Please wait.$"
+	.string "我们一直恭候您的到来。\p"
+	.string "在带您进入对战帐篷之前，需要先写\n"
+	.string "入记录。请稍候。$"
 
 #if IS_HNS
 VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent:
@@ -173,69 +159,59 @@ VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent:
 	.string "you will be disqualified.$"
 
 VerdanturfTown_BattleTentLobby_Text_ReturnFortified:
-	.string "When you have fortified your heart\n"
-	.string "and POKéMON, you must return.$"
+	.string "当您的心灵与您的宝可梦都变得更强\n"
+	.string "的时候，再回到这里来吧。$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_WhichLevelMode:
-	.string "There are two levels of difficulty,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which is your choice of a challenge?$"
+	.string "有2个级别，Lv. 50级和自由\n"
+	.string "等级。您要挑战哪个？$"
 
 VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
-	.string "Sigh…\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for the challenge.\p"
-	.string "To enter, you must provide three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not be holding\n"
-	.string "the same kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Come back when you have made\n"
-	.string "your preparations.$"
+	.string "唉……\p"
+	.string "您能够参加对战的宝可梦不满3只。\p"
+	.string "您需要准备3只不同种类的宝可梦，\p"
+	.string "且让它们分别携带不同道具才可参加\n"
+	.string "对战。\p"
+	.string "此外，蛋{STR_VAR_1}无\n"
+	.string "法参加对战！\p"
+	.string "请在准备就绪之后，再来参加吧！$"
 
 VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "Sigh…\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for the challenge.\p"
-	.string "To enter, you must provide three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not be holding\n"
-	.string "the same kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Come back when you have made\n"
-	.string "your preparations.$"
+	.string "唉……\p"
+	.string "您能够参加对战的宝可梦不满3只。\p"
+	.string "您需要准备3只不同种类的宝可梦，\p"
+	.string "且让它们分别携带不同道具才可参加\n"
+	.string "对战。\p"
+	.string "此外，蛋{STR_VAR_1}无\n"
+	.string "法参加对战！\p"
+	.string "请在准备就绪之后，再来参加吧！$"
 
 VerdanturfTown_BattleTentLobby_Text_SelectThreeMons:
-	.string "Good. Now, you must select your\n"
-	.string "three POKéMON.$"
+	.string "好的。现在请您选择3只宝可梦。$"
 
 VerdanturfTown_BattleTentLobby_Text_SaveBeforeChallenge:
-	.string "I must save before I show you to\n"
-	.string "the BATTLE TENT. Is that okay?$"
+	.string "在进入对战帐篷之前需要先写入记录\n"
+	.string "，可以吗？$"
 
 VerdanturfTown_BattleTentLobby_Text_NowFollowMe:
-	.string "Good.\n"
-	.string "Now, follow me.$"
+	.string "很好。那么，请随我来。$"
 
 VerdanturfTown_BattleTentLobby_Text_ResultsWillBeRecorded:
-	.string "I feel privileged for having seen\n"
-	.string "your POKéMON's exploits.\p"
-	.string "The results will be recorded.\n"
-	.string "I must ask you to briefly wait.$"
+	.string "很荣幸能观赏到您的宝可梦的英姿。\p"
+	.string "正在记录比赛成绩，请稍候。$"
 
 VerdanturfTown_BattleTentLobby_Text_AchievedThreeWinStreak:
-	.string "To achieve a 3-win streak…\p"
-	.string "The bonds that bind your heart with\n"
-	.string "your POKéMON seem firm and true.$"
+	.string "您达成了3连胜……\p"
+	.string "看来您的心灵与宝可梦之间的牵绊已\n"
+	.string "经坚不可摧。$"
 
 VerdanturfTown_BattleTentLobby_Text_FeatWillBeRecorded:
-	.string "Your feat will be recorded.\n"
-	.string "I must ask you to briefly wait.$"
+	.string "正在记录比赛成绩，请稍候。$"
 
 VerdanturfTown_BattleTentLobby_Text_PresentYouWithPrize:
-	.string "For the feat of your 3-win streak,\n"
-	.string "we present you with this prize.$"
+	.string "为纪念您取得3连胜，特此为您颁发\n"
+	.string "这份奖品。$"
 
 
 #if IS_HNS
@@ -253,8 +229,7 @@ SlateportCity_BattleTentLobby_Text_WelcomeToBattleTent:
 
 
 SlateportCity_BattleTentLobby_Text_TakeChallenge:
-	.string "Would you like to take the Battle\n"
-	.string "Swap challenge?$"
+	.string "要挑战交换式对战锦标赛吗？$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSlateportTent:
 #if IS_HNS
@@ -279,59 +254,52 @@ SlateportCity_BattleTentLobby_Text_ExplainSlateportTent:
 	.string "you will be disqualified.$"
 
 SlateportCity_BattleTentLobby_Text_LookForwardToNextVisit:
-	.string "We look forward to your next visit.$"
+	.string "我们期待您的再次光临。$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_WhichLevelMode:
-	.string "Which level do you wish to challenge?\n"
-	.string "Level 50 or Level 100?$"
+	.string "您要挑战哪个等级？Lv. 50级\n"
+	.string "还是100级？$"
 
 SlateportCity_BattleTentLobby_Text_SaveBeforeChallenge:
-	.string "Before you begin your challenge,\n"
-	.string "I need to save data. Is that okay?$"
+	.string "在挑战前需要先写入记录，可以吗？$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_HoldMonsForSafekeeping:
-	.string "Okay, I will hold your POKéMON for\n"
-	.string "safekeeping while you compete.$"
+	.string "好的，我会替您保管宝可梦。$"
 
 SlateportCity_BattleTentLobby_Text_StepThisWay:
 	.string "这边请。$"
 
 SlateportCity_BattleTentLobby_Text_ReturnRentalMonsSaveResults:
-	.string "Thank you for participating!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
-	.string "I must also save your event results.\n"
-	.string "Please wait.$"
+	.string "辛苦了！\p"
+	.string "我将把您的宝可梦还给您并换回租借\n"
+	.string "宝可梦。\p"
+	.string "并且需要写入对战记录。请稍等。$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReturnMonsExchangeRentals:
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.$"
+	.string "我要将您的宝可梦还给您并且收回我\n"
+	.string "们借给您的宝可梦。$"
 
 SlateportCity_BattleTentLobby_Text_WonThreeMatchesReturnMons:
-	.string "Congratulations!\n"
-	.string "You've won three straight matches!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
-	.string "I must also save your event results.\n"
-	.string "Please wait.$"
+	.string "恭喜您！您获得了3连胜！\p"
+	.string "我将把您的宝可梦还给您并换回租借\n"
+	.string "宝可梦。\p"
+	.string "并且需要写入对战记录。请稍等。$"
 
 SlateportCity_BattleTentLobby_Text_AwardYouThisPrize:
-	.string "In recognition of your 3-win streak,\n"
-	.string "we award you this prize.$"
+	.string "为纪念您取得3连胜，特此为您颁发\n"
+	.string "这份奖品。$"
 
 SlateportCity_BattleTentLobby_Text_NoRoomInBagMakeRoom:
-	.string "Oh?\n"
-	.string "You seem to have no room for this.\p"
-	.string "Please make room in your BAG and\n"
-	.string "let me know.$"
+	.string "哎？包包已经满了。\p"
+	.string "请把包包整理好之后再来领取吧。$"
 
 SlateportCity_BattleTentLobby_Text_BeenWaitingForYou:
-	.string "We've been waiting for you!\p"
-	.string "Before we resume your challenge,\n"
-	.string "I must save the game.$"
+	.string "我们已经恭候多时了！\p"
+	.string "在您继续战斗之前，需要先写入记录\n"
+	.string "。$"
 
 SlateportCity_BattleTentLobby_Text_DidntSaveBeforeQuitting:
 	.string "I'm sorry to say this, but you didn't\n"
@@ -341,134 +309,119 @@ SlateportCity_BattleTentLobby_Text_DidntSaveBeforeQuitting:
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReturnPersonalMons:
-	.string "We'll return your personal POKéMON.$"
+	.string "我们将归还您的宝可梦。$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+	.string "{PLAYER}得到奖品\n"
+	.string "{STR_VAR_1}。$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_RulesAreListed:
-	.string "The Battle Swap rules are listed.$"
+	.string "交换式对战规则已经列出。$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "要读哪一部分的说明？$"
 
 SlateportCity_BattleTentLobby_Text_ExplainBasicRules:
-	.string "In a Battle Swap event, you may use\n"
-	.string "only three POKéMON.\p"
-	.string "Whether you are renting or swapping,\n"
-	.string "your team may not have two or more\l"
-	.string "of the same POKéMON.$"
+	.string "在交换式对战中，您只能用3只宝可\n"
+	.string "梦。\p"
+	.string "无论是租借还是交换得到的，您的队\n"
+	.string "伍中不能出现2只或以上相同种类的\l"
+	.string "宝可梦。$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapPartnerRules:
-	.string "You may swap POKéMON only with\n"
-	.string "the TRAINER you have just defeated.\p"
-	.string "You may swap for only those POKéMON\n"
-	.string "used by the beaten TRAINER.$"
+	.string "您只能与刚击败过的训练家交换宝可\n"
+	.string "梦。\p"
+	.string "您只能交换到该训练家所使用的宝可\n"
+	.string "梦。$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapNumberRules:
-	.string "After every battle you win, you may\n"
-	.string "swap for one of your defeated\l"
-	.string "opponent's POKéMON.\p"
-	.string "You will not be able to swap POKéMON\n"
-	.string "with the third TRAINER in the event.$"
+	.string "每获胜1场战斗后，您可以选择交换\n"
+	.string "对手的1只宝可梦。\p"
+	.string "第3位训练家不可进行交换。$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapNotes:
-	.string "There are two key points to be aware\n"
-	.string "of when swapping POKéMON.\p"
-	.string "First, when swapping, you can't check\n"
-	.string "the stats of the POKéMON you are\l"
-	.string "about to receive.\p"
-	.string "Second, the POKéMON on your team\n"
-	.string "are lined up in sequence, depending on\l"
-	.string "the order in which you rented them.\p"
-	.string "This sequence remains unchanged\n"
-	.string "even when swaps are made.$"
+	.string "在交换宝可梦时有2个需要注意的地\n"
+	.string "方。\p"
+	.string "第一，交换时您无法查看目标宝可梦\n"
+	.string "的具体能力。\p"
+	.string "第二，队伍中的宝可梦的排列顺序按\n"
+	.string "租用时的顺序固定。\p"
+	.string "交换后该顺序仍保持不变。$"
 
 SlateportCity_BattleTentLobby_Text_ExplainMonRules:
-	.string "The POKéMON of the SLATEPORT\n"
-	.string "BATTLE TENT are all rentals.\p"
-	.string "All rental POKéMON are kept at\n"
-	.string "Level 30.$"
+	.string "在凯那市对战帐篷中使用的宝可梦都\n"
+	.string "是租借的。\p"
+	.string "所有租借的宝可梦等级均为30。$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_RulesAreListed2:
-	.string "The VERDANTURF BATTLE TENT\n"
-	.string "rules are listed.$"
+	.string "绿茵镇对战帐篷的规则已经列出$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "要读哪一部分的说明？$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainBasicRules:
-	.string "Here at the VERDANTURF BATTLE TENT,\n"
-	.string "POKéMON are required to think and\l"
-	.string "battle by themselves.\p"
-	.string "Unlike in the wild, POKéMON that live\n"
-	.string "with people behave differently\l"
-	.string "depending on their nature.$"
+	.string "在绿茵镇对战帐篷，宝可梦需要独立\n"
+	.string "思考并战斗。\p"
+	.string "不像在野外，宝可梦和人类一起生存\n"
+	.string "由于自然环境不同行为也不同。$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainNatureRules:
-	.string "Depending on its nature, a POKéMON\n"
-	.string "may prefer to attack no matter what.\p"
-	.string "Another POKéMON may prefer to protect\n"
-	.string "itself from any harm.\p"
-	.string "Yet another may enjoy vexing or\n"
-	.string "confounding its foes.\p"
-	.string "Depending on its nature, a POKéMON\n"
-	.string "will have favorite moves that it is good\l"
-	.string "at using.\p"
-	.string "It may also dislike certain moves that\n"
-	.string "it has trouble using.$"
+	.string "由于它所处自然环境，宝可梦可能会\n"
+	.string "不知原因的攻击。\p"
+	.string "另外的宝可梦可能会保护自己免受伤\n"
+	.string "害。\p"
+	.string "有的还喜欢干扰和迷惑自己的敌人。\p"
+	.string "由于它所处的自然环境，宝可梦可能\n"
+	.string "有它所最喜欢的招式并且可以熟练使\l"
+	.string "用。\p"
+	.string "它也有可能存在不喜欢的招式于是不\n"
+	.string "擅长使用。$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainMoveRules:
-	.string "There are offensive moves that inflict\n"
-	.string "direct damage on the foe.\p"
-	.string "There are defensive moves that are\n"
-	.string "used to prepare for enemy attacks or\l"
-	.string "used to heal HP and so on.\p"
-	.string "There are also other somewhat-odd\n"
-	.string "moves that may enfeeble the foes with\l"
-	.string "stat problems including poison and \l"
-	.string "paralysis.\p"
-	.string "POKéMON will consider using moves in\n"
-	.string "these three categories.$"
+	.string "有攻击招式可以对敌人造成直接伤害\n"
+	.string "。\p"
+	.string "有防守招式用来防御敌人的攻击或用\n"
+	.string "来恢复HP等等。\p"
+	.string "也有一些有点怪异的招式可以使得敌\n"
+	.string "人变得无力和带来其他问题，例如中\l"
+	.string "毒和麻痹。\p"
+	.string "宝可梦可能会考虑在这3种招式中选\n"
+	.string "择使用。$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainUnderpoweredRules:
-	.string "When not under command by its TRAINER,\n"
-	.string "a POKéMON may be unable to effectively\l"
-	.string "use certain moves.\p"
-	.string "A POKéMON is not good at using any\n"
-	.string "move that it dislikes.\p"
-	.string "If a POKéMON only knows moves that\n"
-	.string "do not match its nature, it will often\l"
-	.string "be unable to live up to its potential.$"
+	.string "当没有听从训练家的命令时宝可梦可\n"
+	.string "能不会有效的使用特定招式。\p"
+	.string "宝可梦不擅长使用任何它不喜欢的招\n"
+	.string "式。\p"
+	.string "如果宝可梦仅仅知道些不符合其性格\n"
+	.string "的招式，那么它就不会展示它的潜能\l"
+	.string "。$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainWhenInDangerRules:
-	.string "Depending on its nature, a POKéMON may\n"
-	.string "start using moves that don't match its\l"
-	.string "nature when it is in trouble.\p"
-	.string "If a POKéMON begins behaving oddly\n"
-	.string "in a pinch, watch it carefully.$"
+	.string "根据其性格，当陷入麻烦时，宝可梦\n"
+	.string "可能会开始使用一些并不符合性格的\l"
+	.string "招式。\p"
+	.string "如果宝可梦开始变得行为怪异，您就\n"
+	.string "有必要仔细查看了。$"
 
 BattleTentLobby_Text_ExplainLevelRules:
-	.string "At this BATTLE TENT, the levels of\n"
-	.string "your opponents will be adjusted to\l"
-	.string "match the levels of your POKéMON.\p"
-	.string "However, no TRAINER you face will\n"
-	.string "have any POKéMON below Level 30.$"
+	.string "在对战帐篷中，对手的宝可梦等级会\n"
+	.string "根据您的宝可梦等级进行调整。\p"
+	.string "但是，训练家所持有的宝可梦最低不\n"
+	.string "会低于等级30。$"
 
 VerdanturfTown_BattleTentLobby_Text_RulesAreListed:
-	.string "The VERDANTURF BATTLE TENT\n"
-	.string "rules are listed.$"
+	.string "上面列出了绿茵镇对战帐篷的规则。$"
 
 BattleTentLobby_Text_EarnedBattlePoints:
 	.string "You've earned {STR_VAR_1} Battle Points!$"

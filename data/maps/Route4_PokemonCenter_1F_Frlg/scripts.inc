@@ -149,56 +149,54 @@ Route4_PokemonCenter_1F_EventScript_Newspaper::
 	end
 
 Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYou::
-	.string "Okay, set six POKé BALLS in my\n"
-	.string "belt…\p"
-	.string "Yeah, that'll do it. At most, you\n"
-	.string "can have six POKéMON with you.$"
+	.string "好，在我的腰带上放置六个精灵球…\n"
+	.string "…\p"
+	.string "没错，就是这样。你最多只能带六只\n"
+	.string "宝可梦随行。$"
 
 Route4_PokemonCenter_1F_Text_TeamRocketAttacksCerulean::
-	.string "TEAM ROCKET attacks CERULEAN\n"
-	.string "citizens…\p"
-	.string "Not a day goes by without TEAM\n"
-	.string "ROCKET being in the news.$"
+	.string "火箭队袭击了华蓝市的居民……\p"
+	.string "没有哪天的新闻里不出现火箭队。$"
 
 Route4_PokemonCenter_1F_Text_LaddieBuyMagikarpForJust500::
-	.string "MAN: Hello there, laddie!\n"
-	.string "Have I got a deal just for you!\p"
-	.string "I'll let you have a secret POKéMON\n"
-	.string "- a MAGIKARP - for just ¥500!\p"
-	.string "So, you'll buy it, am I right?$"
+	.string "男子：看这里，少年！这笔好买卖我\n"
+	.string "留着就等着和你做！\p"
+	.string "神秘又强大的宝可梦鲤鱼王，惊喜价\n"
+	.string "只要500！\p"
+	.string "你肯定会买下它，对吧？$"
 
 Route4_PokemonCenter_1F_Text_SweetieBuyMagikarpForJust500::
-	.string "MAN: Hello there, sweetie pie!\n"
-	.string "Have I got a deal just for you!\p"
-	.string "I'll let you have a secret POKéMON\n"
-	.string "- a MAGIKARP - for just ¥500!\p"
-	.string "So, you'll buy it, am I right?$"
+	.string "男子：看这里，少女！这笔好买卖我\n"
+	.string "留着就等着和你做！\p"
+	.string "神秘又强大的宝可梦鲤鱼王，惊喜价\n"
+	.string "只要500！\p"
+	.string "你肯定会买下它，对吧？$"
 
 Route4_PokemonCenter_1F_Text_PaidOutrageouslyForMagikarp::
-	.string "{PLAYER} paid an outrageous ¥500\n"
-	.string "and bought the MAGIKARP…$"
+	.string "{PLAYER}付了500元，得\n"
+	.string "到了鲤鱼王……$"
 
 Route4_PokemonCenter_1F_Text_OnlyDoingThisAsFavorToYou::
-	.string "No? You say no? I'm only doing this\n"
-	.string "as a favor to you!$"
+	.string "不？你说不？我已经给了你最大的优\n"
+	.string "惠了！$"
 
 Route4_PokemonCenter_1F_Text_NoRoomForMorePokemon::
-	.string "There's no more room for any more\n"
-	.string "POKéMON, it looks like.$"
+	.string "看起来好像没有足够的空间来放更多\n"
+	.string "的宝可梦了。$"
 
 Route4_PokemonCenter_1F_Text_YoullNeedMoreMoney::
-	.string "You'll need more money than that!$"
+	.string "你的钱不够！$"
 
 Route4_PokemonCenter_1F_Text_IDontGiveRefunds::
-	.string "MAN: Well, I don't give refunds.\n"
-	.string "You knew what you were getting!$"
+	.string "男子：一旦售出，绝不退款。买之前\n"
+	.string "你就该想好！$"
 
 Route4_PokemonCenter_1F_Text_ShouldStoreMonsUsingPC::
-	.string "Sometimes, you'll have too many\n"
-	.string "POKéMON with you to add any more.\p"
-	.string "In that case, you should just\n"
-	.string "store some using any PC.$"
+	.string "有时，你带的宝可梦太多了以至于不\n"
+	.string "能再增加新的。\p"
+	.string "这样的话，你应该用任意电脑存放一\n"
+	.string "些。$"
 
 Route4_PokemonCenter_1F_Text_ItsANewspaper::
-	.string "It's a newspaper.$"
+	.string "这是一份报纸。$"
 

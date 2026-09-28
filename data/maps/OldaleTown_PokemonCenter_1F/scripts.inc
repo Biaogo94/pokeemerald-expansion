@@ -38,25 +38,22 @@ OldaleTown_PokemonCenter_1F_EventScript_WirelessClubAvailable::
 	end
 
 OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC:
-	.string "That PC in the corner there is\n"
-	.string "for any POKéMON TRAINER to use.\p"
-	.string "Naturally, that means you're welcome\n"
-	.string "to use it, too.$"
+	.string "那边角落里的电脑是提供给所有宝可\n"
+	.string "梦训练家使用的。\p"
+	.string "当然，你也可以随意使用。$"
 
 OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat:
-	.string "POKéMON CENTERS are great!\p"
-	.string "You can use their services as much\n"
-	.string "as you like, and it's all for free.\l"
-	.string "You never have to worry!$"
+	.string "宝可梦中心真棒！\p"
+	.string "你可以随时使用他们提供的服务，而\n"
+	.string "且完全免费，什么也不用担心！$"
 
 OldaleTown_PokemonCenter_1F_Text_WirelessClubNotAvailable:
-	.string "The POKéMON WIRELESS CLUB on\n"
-	.string "the second floor was built recently.\p"
-	.string "But they say they're still making\n"
-	.string "adjustments.$"
+	.string "二楼的宝可梦无线俱乐部最近刚刚建\n"
+	.string "好，\p"
+	.string "但据说现在还在调整中。$"
 
 OldaleTown_PokemonCenter_1F_Text_TradedInWirelessClub:
-	.string "The POKéMON WIRELESS CLUB on\n"
-	.string "the second floor was built recently.\p"
-	.string "I traded POKéMON right away.$"
+	.string "二楼的宝可梦无线俱乐部最近刚刚建\n"
+	.string "好，\p"
+	.string "我马上就去交换了宝可梦。$"
 

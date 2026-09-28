@@ -138,33 +138,28 @@ SkyPillar_Outside_EventScript_ClosedDoor::
 	end
 
 SkyPillar_Outside_Text_DoorIsClosed:
-	.string "The door is closed.$"
+	.string "门关上了。$"
 
 SkyPillar_Outside_Text_OpenedDoorToSkyPillar:
-	.string "WALLACE: Oh, my, I'm terribly sorry!\p"
-	.string "In my haste, I didn't notice that\n"
-	.string "I'd left you behind!\p"
-	.string "I've opened the locked door of\n"
-	.string "the SKY PILLAR.\p"
-	.string "{PLAYER}{KUN}, let's be on our way!$"
+	.string "米可利：哎呀，真是抱歉！\p"
+	.string "我太着急，竟没注意到你被落下了！\p"
+	.string "我已经打开了天空之柱的大门。\p"
+	.string "{PLAYER}{KUN}，我们\n"
+	.string "走吧！$"
 
 SkyPillar_Outside_Text_EarthquakeNotMomentToWaste:
-	.string "WALLACE: It's an earthquake!\p"
-	.string "There's not a moment to waste!\n"
-	.string "We've got to hurry!$"
+	.string "米可利：是地震！\p"
+	.string "不能再耽搁了！我们必须抓紧时间！$"
 
 SkyPillar_Outside_Text_SituationGettingWorse:
-	.string "WALLACE: Hmm…\n"
-	.string "The situation is getting worse…$"
+	.string "米可利：嗯……情况越来越糟糕了…\n"
+	.string "…$"
 
 SkyPillar_Outside_Text_GotToGoBackForSootopolis:
-	.string "WALLACE: This isn't good…\p"
-	.string "The weather distortion is spreading\n"
-	.string "even here…\p"
-	.string "{PLAYER}{KUN}.\p"
-	.string "RAYQUAZA should be farther up\n"
-	.string "from here.\p"
-	.string "I'm worried about SOOTOPOLIS.\n"
-	.string "I've got to go back.\p"
-	.string "Everything is in your hands now.\n"
-	.string "Don't fail us!$"
+	.string "米可利：不妙……\p"
+	.string "天气异常居然已经蔓延到这一带了…\n"
+	.string "…\p"
+	.string "{PLAYER}{KUN}。\p"
+	.string "烈空坐应该还在上面的更高处。\p"
+	.string "我担心琉璃市的安危，得先赶回去。\p"
+	.string "一切就托付给你了，拜托了！$"

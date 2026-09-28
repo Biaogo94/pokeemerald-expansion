@@ -10,20 +10,17 @@ FortreeCity_House3_EventScript_SchoolKidM::
 	end
 
 FortreeCity_House3_Text_MetStevenHadAmazingPokemon:
-	.string "While speaking about POKéDEXES,\n"
-	.string "I remembered something.\p"
-	.string "I met this TRAINER, STEVEN, when\n"
-	.string "I was searching for rare stones.\p"
-	.string "Hoo, boy, he had some amazing POKéMON\n"
-	.string "with him.\p"
-	.string "They weren't just rare, they were\n"
-	.string "trained to terrifying extremes!\p"
-	.string "He might even be stronger than the\n"
-	.string "GYM LEADER in this town…$"
+	.string "说到宝可梦图鉴，我想起来了，\p"
+	.string "我寻找稀有石头的时候遇到了那个叫\n"
+	.string "大吾的训练家。\p"
+	.string "哈，他带着一些奇妙的宝可梦，\p"
+	.string "它们不止是强大，还在训练中发挥到\n"
+	.string "了极致！\p"
+	.string "他也许比这城镇的道馆馆主还要强…\n"
+	.string "…$"
 
 FortreeCity_House3_Text_OhYouHavePokedex:
-	.string "What's that thing you have there?\p"
-	.string "… … … … … …\p"
-	.string "Oh, it's called a POKéDEX?\n"
-	.string "It's really awesome!$"
+	.string "你拿着的那是什么？\p"
+	.string "…… …… ……\p"
+	.string "哦？它叫宝可梦图鉴？真奇妙！$"
 

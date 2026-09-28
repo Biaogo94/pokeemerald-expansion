@@ -18,22 +18,18 @@ SafariZone_West_EventScript_AreaSign::
 	end
 
 SafariZone_West_Text_RestHouse::
-	.string "REST HOUSE$"
+	.string "休息屋$"
 
 SafariZone_West_Text_PleaseFindWardensLostTeeth::
-	.string "REQUEST NOTICE\p"
-	.string "Please find the SAFARI WARDEN's\n"
-	.string "lost GOLD TEETH.\l"
-	.string "They're around here somewhere.\p"
-	.string "Reward offered!\n"
-	.string "Contact: WARDEN$"
+	.string "寻物启示\p"
+	.string "寻找原野区园长丢失了的金假牙。它\n"
+	.string "就掉在这里的某个地方。\p"
+	.string "是有奖悬赏！联系人：园长$"
 
 SafariZone_West_Text_SearchForSecretHouse::
-	.string "TRAINER TIPS\p"
-	.string "Zone Exploration Campaign!\n"
-	.string "The Search for the SECRET HOUSE!$"
+	.string "训练家贴士\p"
+	.string "区域性的探险活动！搜索神秘小屋！$"
 
 SafariZone_West_Text_AreaSign::
-	.string "AREA 3\n"
-	.string "EAST: CENTER AREA$"
+	.string "栖息地3往东：中部栖息地$"
 

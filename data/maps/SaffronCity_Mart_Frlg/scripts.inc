@@ -32,12 +32,12 @@ SaffronCity_Mart_Items::
 	end
 
 SaffronCity_Mart_Text_MaxRepelMoreEffectiveThanSuper::
-	.string "MAX REPEL keeps weaker POKéMON\n"
-	.string "from appearing.\p"
-	.string "MAX REPEL stays effective longer\n"
-	.string "than SUPER REPEL.$"
+	.string "黄金喷雾可以避免碰到较弱的宝可梦\n"
+	.string "。\p"
+	.string "黄金喷雾的有效时间比白银喷雾更久\n"
+	.string "。$"
 
 SaffronCity_Mart_Text_ReviveIsCostly::
-	.string "REVIVE is costly, but it revives\n"
-	.string "fainted POKéMON!$"
+	.string "活力碎片很贵，但它可以使濒死的宝\n"
+	.string "可梦复活！$"
 

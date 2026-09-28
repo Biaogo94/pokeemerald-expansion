@@ -10,12 +10,10 @@ ThreeIsland_House4_EventScript_LittleBoy::
 	end
 
 ThreeIsland_House4_Text_GhostsInBerryForest::
-	.string "You must never, ever go out to\n"
-	.string "the BERRY FOREST alone.\p"
-	.string "Why?\n"
-	.string "There are ghosts there.$"
+	.string "你千万不要独自去树果森林。\p"
+	.string "至于原因？传说那里有幽灵出没。$"
 
 ThreeIsland_House4_Text_PapaKeepsLyingToMe::
-	.string "Papa keeps lying to me, and won't\n"
-	.string "let me go out and play!$"
+	.string "爸爸一直和我住在一起，他从来不让\n"
+	.string "我独自出去玩！$"
 

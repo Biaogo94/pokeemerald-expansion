@@ -55,18 +55,17 @@ LilycoveCity_DepartmentStore_3F_EventScript_Woman::
 	end
 
 LilycoveCity_DepartmentStore_3F_Text_ItemsBestForTougheningPokemon:
-	.string "For quickly toughening up POKéMON,\n"
-	.string "items are the best.\p"
-	.string "PROTEIN boosts ATTACK,\n"
-	.string "and CALCIUM raises SP. ATK.$"
+	.string "要让宝可梦快速成长，最好使用道具\n"
+	.string "。\p"
+	.string "攻击增强剂能增加攻击，特攻增强剂\n"
+	.string "则提升特攻。$"
 
 LilycoveCity_DepartmentStore_3F_Text_WantMoreEndurance:
-	.string "I want my POKéMON to have more\n"
-	.string "endurance.\p"
-	.string "I'm trying to decide whether to raise\n"
-	.string "DEFENSE with IRON, or SP. DEF with ZINC.$"
+	.string "我想增强我的宝可梦的耐久，\p"
+	.string "但我在考虑是用防御增强剂提升防御\n"
+	.string "还是用特防增强剂提升特防。$"
 
 LilycoveCity_DepartmentStore_3F_Text_GaveCarbosToSpeedUpMon:
-	.string "I gave a CARBOS to my POKéMON,\n"
-	.string "and its SPEED went up.$"
+	.string "我给我的宝可梦吃速度增强剂，它的\n"
+	.string "速度提升了。$"
 

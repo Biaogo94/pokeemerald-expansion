@@ -453,202 +453,179 @@ BattleFrontier_BattleFactoryPreBattleRoom_Movement_AttendantReturnToPlayer:
 	step_end
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_HoldMonsChooseFromSelection:
-	.string "First, we will hold your POKéMON for\n"
-	.string "safekeeping.\p"
-	.string "You may then choose from our\n"
-	.string "selection of POKéMON.$"
+	.string "我们将先暂时保管您的宝可梦。\p"
+	.string "您可以稍后从我们提供的宝可梦中进\n"
+	.string "行选择。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LetUsRestoreMons:
-	.string "Thank you for competing!\n"
-	.string "Let us restore your POKéMON!$"
+	.string "辛苦了！我来帮您的宝可梦回复体力\n"
+	.string "！$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor2ndOpponent:
-	.string "The 2nd match is next!\n"
-	.string "Are you ready?$"
+	.string "接下来是第2场比赛！准备好了吗？$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor3rdOpponent:
-	.string "The 3rd match is next!\n"
-	.string "Are you ready?$"
+	.string "接下来是第3场比赛！准备好了吗？$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor4thOpponent:
-	.string "The 4th match is next!\n"
-	.string "Are you ready?$"
+	.string "接下来是第4场比赛！准备好了吗？$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor5thOpponent:
-	.string "The 5th match is next!\n"
-	.string "Are you ready?$"
+	.string "接下来是第5场比赛！准备好了吗？$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor6thOpponent:
-	.string "The 6th match is next!\n"
-	.string "Are you ready?$"
+	.string "接下来是第6场比赛！准备好了吗？$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor7thOpponent:
-	.string "Finally, the 7th match is next!\n"
-	.string "Are you ready?$"
+	.string "接下来是第7场比赛！准备好了吗？$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and quit\n"
-	.string "the game?$"
+	.string "要写入记录并且暂停吗？$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RetireFromChallenge:
-	.string "Would you like to retire from your\n"
-	.string "Battle Swap challenge?$"
+	.string "要结束交换式对战的挑战吗？$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_InvestigatedUpcomingOpponent:
-	.string "I've conducted a little investigation\n"
-	.string "about your upcoming opponent.$"
+	.string "我对您的下一位对手进行了一些调查\n"
+	.string "。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInNormalType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the NORMAL type.$"
+	.string "这个训练家显然很善于操纵一般属性\n"
+	.string "。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFireType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FIRE type.$"
+	.string "这个训练家显然很善于操纵火属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInWaterType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the WATER type.$"
+	.string "这个训练家显然很善于操纵水属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInElectricType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ELECTRIC type.$"
+	.string "这个训练家显然很善于操纵电属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGrassType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GRASS type.$"
+	.string "这个训练家显然很善于操纵草属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInIceType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ICE type.$"
+	.string "这个训练家显然很善于操纵冰属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFightingType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FIGHTING type.$"
+	.string "这个训练家显然很善于操纵格斗属性\n"
+	.string "。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPoisonType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the POISON type.$"
+	.string "这个训练家显然很善于操纵毒属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGroundType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GROUND type.$"
+	.string "这个训练家显然很善于操纵地面属性\n"
+	.string "。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFlyingType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FLYING type.$"
+	.string "这个训练家显然很善于操纵飞行属性\n"
+	.string "。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPsychicType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the PSYCHIC type.$"
+	.string "这个训练家显然很善于操纵超能力属\n"
+	.string "性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInBugType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the BUG type.$"
+	.string "这个训练家显然很善于操纵虫属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInRockType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ROCK type.$"
+	.string "这个训练家显然很善于操纵岩石属性\n"
+	.string "。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGhostType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GHOST type.$"
+	.string "这个训练家显然很善于操纵幽灵属性\n"
+	.string "。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDragonType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the DRAGON type.$"
+	.string "这个训练家显然很善于操纵龙属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDarkType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the DARK type.$"
+	.string "这个训练家显然很善于操纵恶属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFairyType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FAIRY type.$"
+	.string "这个训练家显然很善于操纵妖精属性\n"
+	.string "。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInSteelType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the STEEL type.$"
+	.string "这个训练家显然很善于操纵钢属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerHasNoClearFavorite:
-	.string "The TRAINER appears to have no clear\n"
-	.string "favorites when it comes to type.$"
+	.string "这个训练家显然没有特别擅长的属性\n"
+	.string "。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleSlowAndSteady:
-	.string "The favorite battle style appears to\n"
-	.string "be slow and steady.$"
+	.string "最喜欢的战斗风格好像是稳扎稳打的\n"
+	.string "那种。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleEndurance:
-	.string "The favorite battle style appears to\n"
-	.string "be one of endurance.$"
+	.string "最喜欢的战斗风格好像是着重耐力的\n"
+	.string "那种。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleHighRisk:
-	.string "The favorite battle style appears to\n"
-	.string "be high risk, high return.$"
+	.string "最喜欢的战斗风格好像是孤注一掷的\n"
+	.string "那种。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleDependsOnFlow:
-	.string "The favorite battle style appears to\n"
-	.string "depend on the battle's flow.$"
+	.string "最喜欢的战斗风格好像是善观战斗走\n"
+	.string "向的那种。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleTotalPreparation:
-	.string "The favorite battle style appears to\n"
-	.string "be one based on total preparation.$"
+	.string "最喜欢的战斗风格好像是万事俱备的\n"
+	.string "那种。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleWeakenFoe:
-	.string "The favorite battle style appears\n"
-	.string "to be weakening the foe to start.$"
+	.string "最喜欢的战斗风格好像是弱敌为先的\n"
+	.string "那种。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleFlexible:
-	.string "The favorite battle style appears to\n"
-	.string "be flexibly adaptable to the situation.$"
+	.string "最喜欢的战斗风格好像是因地制宜的\n"
+	.string "那种。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleImpossibleToPredict:
-	.string "The favorite battle style appears to\n"
-	.string "be impossible to predict.$"
+	.string "最喜欢的战斗风格好像是高深莫测的\n"
+	.string "那种。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleUnrestrained:
-	.string "The favorite battle style appears to\n"
-	.string "be free-spirited and unrestrained.$"
+	.string "最喜欢的战斗风格好像是自由奔放、\n"
+	.string "无拘无束的那种。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LikeToSwapMon:
-	.string "Before starting the battle, would you\n"
-	.string "like to swap a POKéMON?$"
+	.string "在对战开始前，需要交换1只宝可梦\n"
+	.string "吗？$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_YourSwapIsComplete:
-	.string "Thank you!\n"
-	.string "Your POKéMON swap is complete.$"
+	.string "谢谢！宝可梦交换已完成。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RightThisWay:
-	.string "Right this way, please!$"
+	.string "这边请！$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SavingDataPleaseWait:
-	.string "I am saving your data.\n"
-	.string "Please wait.$"
+	.string "正在写入记录……请稍等。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RecordLatestBattle:
-	.string "Would you like to record your latest\n"
-	.string "battle on your FRONTIER PASS?$"
+	.string "您要把您上次的战斗记录到您的开拓\n"
+	.string "通行证吗？$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_WaitFewMoments:
-	.string "Excuse me! Excuse me, please!\n"
-	.string "May I get you to wait a few moments?$"
+	.string "抱歉！请见谅！能稍等一下吗？$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_UnderstoodSirWillDo:
-	.string "…Uh-huh? What?! …Whoa!\n"
-	.string "Understood, sir! Will do!$"
+	.string "……啊？什么？！……哇哦！明白了\n"
+	.string "先生！马上就做！$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_MessageFromHeadComeRightNow:
-	.string "Oh, my…\n"
-	.string "Sorry to keep you waiting!\p"
-	.string "I have a message from this facility's\n"
-	.string "boss, the FACTORY HEAD.\p"
-	.string "He says, “We're going to do it!\n"
-	.string "Come here right now!”$"
+	.string "哦，天哪……很抱歉让您久等了！\p"
+	.string "我收到了老板——工厂头目那边发来\n"
+	.string "的消息。\p"
+	.string "他说，“我们即将开始！现在马上过\n"
+	.string "来！”$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_PreparedToFaceHead:
-	.string "The FACTORY HEAD is demanding you.\n"
-	.string "Are you prepared to face him?$"
+	.string "工厂头目要求见您。您准备好迎战他\n"
+	.string "了吗？$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_CantTellAnythingAboutHead:
-	.string "I'm terribly sorry, but I can't tell you\n"
-	.string "anything about the FACTORY HEAD.$"
+	.string "十分抱歉，我不能告诉您任何有关于\n"
+	.string "工厂头目的事。$"

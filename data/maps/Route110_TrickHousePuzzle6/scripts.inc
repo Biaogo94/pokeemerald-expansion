@@ -43,45 +43,41 @@ Route110_TrickHousePuzzle6_EventScript_Sebastian::
 	end
 
 Route110_TrickHousePuzzle6_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is my life.”\n"
-	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "{PLAYER}在门上写下密码。\p"
+	.string "“戏法大王是我的生命”…… ……\n"
+	.string " …… ……\p"
+	.string "锁“咔嗒”一声开了！$"
 
 Route110_TrickHousePuzzle6_Text_SophiaIntro:
-	.string "When I heard there was a strange\n"
-	.string "house, I had to check it out.$"
+	.string "我听说这儿有间奇怪的房子，所以我\n"
+	.string "就来了。$"
 
 Route110_TrickHousePuzzle6_Text_SophiaDefeat:
-	.string "I've discovered a tough TRAINER!$"
+	.string "我发现了一个强大的训练家！$"
 
 Route110_TrickHousePuzzle6_Text_SophiaPostBattle:
-	.string "I'm sure having a good time checking\n"
-	.string "this place out.\p"
-	.string "It's a challenge I've found worth\n"
-	.string "repeating!$"
+	.string "调查这个地方令我非常快乐。\p"
+	.string "这是值得一遍遍地挑战的地方！$"
 
 Route110_TrickHousePuzzle6_Text_BennyIntro:
-	.string "Maybe I could get my BIRD POKéMON\n"
-	.string "to fly over the wall…$"
+	.string "也许我能让我的鸟类宝可梦飞过这些\n"
+	.string "墙去……$"
 
 Route110_TrickHousePuzzle6_Text_BennyDefeat:
-	.string "Gwaaah! I blew it!$"
+	.string "唔哇啊啊！计划告吹！$"
 
 Route110_TrickHousePuzzle6_Text_BennyPostBattle:
-	.string "Ehehehe… I guess I lost because\n"
-	.string "I was trying to cheat.$"
+	.string "哦呵呵呵……我想我试图作弊才会输\n"
+	.string "的。$"
 
 Route110_TrickHousePuzzle6_Text_SebastianIntro:
-	.string "I'm getting dizzy from these rotating\n"
-	.string "doors…$"
+	.string "我快要被这些旋转门弄晕了……$"
 
 Route110_TrickHousePuzzle6_Text_SebastianDefeat:
-	.string "Everything's spinning around and\n"
-	.string "around. I can't take this anymore…$"
+	.string "周围的一切都在转啊转啊……我再也\n"
+	.string "受不了了……$"
 
 Route110_TrickHousePuzzle6_Text_SebastianPostBattle:
-	.string "You don't seem to be affected at all.\n"
-	.string "Or do you have your poker face on?$"
+	.string "你好像没受影响啊，还是说你只是摆\n"
+	.string "出一副面无表情的样子？$"
 

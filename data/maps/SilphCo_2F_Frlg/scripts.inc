@@ -36,76 +36,64 @@ SilphCo_2F_EventScript_Grunt2::
 	end
 
 SilphCo_2F_Text_ConnorIntro::
-	.string "Help!\n"
-	.string "I'm a SILPH employee.$"
+	.string "救命！我是一个西尔佛的员工。$"
 
 SilphCo_2F_Text_ConnorDefeat::
-	.string "How did you know\n"
-	.string "I was a ROCKET?$"
+	.string "你怎么知道我是一个火箭队的队员？$"
 
 SilphCo_2F_Text_ConnorPostBattle::
-	.string "I work for both SILPH and TEAM\n"
-	.string "ROCKET.$"
+	.string "我在为西尔佛工作的同时也和火箭队\n"
+	.string "合作。$"
 
 SilphCo_2F_Text_JerryIntro::
-	.string "It's off-limits here!\n"
-	.string "Go home!$"
+	.string "这里禁止入内！回家吧！$"
 
 SilphCo_2F_Text_JerryDefeat::
-	.string "You're good.$"
+	.string "你很厉害。$"
 
 SilphCo_2F_Text_JerryPostBattle::
-	.string "Can you solve the maze in here?\n"
-	.string "It's not easy, I tell you!$"
+	.string "你能解决这个麻烦吗？我告诉你，这\n"
+	.string "可不容易！$"
 
 SilphCo_2F_Text_Grunt1Intro::
-	.string "No kids are allowed in here!$"
+	.string "孩子不允许在这里！$"
 
 SilphCo_2F_Text_Grunt1Defeat::
-	.string "Tough!$"
+	.string "好强！$"
 
 SilphCo_2F_Text_Grunt1PostBattle::
-	.string "Diamond-shaped tiles are teleport\n"
-	.string "blocks.\p"
-	.string "They're transporters for this\n"
-	.string "high-tech building.$"
+	.string "菱形瓷砖是传送方块。\p"
+	.string "他们是这个高科技建筑的传送装置。$"
 
 SilphCo_2F_Text_Grunt2Intro::
-	.string "Hey, kid!\n"
-	.string "What are you wandering here for?$"
+	.string "嘿，小孩！你在这儿干嘛呢？$"
 
 SilphCo_2F_Text_Grunt2Defeat::
-	.string "I goofed!$"
+	.string "我搞砸了！$"
 
 SilphCo_2F_Text_Grunt2PostBattle::
-	.string "SILPH CO. will be associated with\n"
-	.string "TEAM ROCKET!$"
+	.string "西尔佛公司将与火箭队合并！$"
 
 Text_ThunderWaveTeach::
-	.string "Eeek!\n"
-	.string "No! Stop! Help!\p"
-	.string "Oh, you're not with TEAM ROCKET.\n"
-	.string "I'm sorry, I thought…\p"
-	.string "Will you forgive me if I teach\n"
-	.string "you the THUNDER WAVE technique?$"
+	.string "呀！不要啊！住手！救命！\p"
+	.string "哦，你不是火箭队的成员啊。抱歉，\n"
+	.string "我以为……\p"
+	.string "如果我教你的电磁波技能你会原谅我\n"
+	.string "吗？$"
 
 Text_ThunderWaveDeclined::
-	.string "Oh…\n"
-	.string "But THUNDER WAVE is convenient…$"
+	.string "哦……但电磁波很厉害喔……$"
 
 Text_ThunderWaveWhichMon::
-	.string "Which POKéMON should I teach\n"
-	.string "THUNDER WAVE?$"
+	.string "我要教哪只宝可梦电磁波？$"
 
 Text_ThunderWaveTaught::
-	.string "THUNDER WAVE causes paralysis in\n"
-	.string "the target POKéMON.\p"
-	.string "A paralyzed POKéMON may be unable\n"
-	.string "to move in battle.\p"
-	.string "It's an ELECTRIC-type move, so it\n"
-	.string "won't work on some POKéMON.$"
+	.string "电磁波的会使受方宝可梦麻痹。\p"
+	.string "一个被麻痹的宝可梦可能在战斗中无\n"
+	.string "法行动。\p"
+	.string "它是电属性的技能，所以对一些宝可\n"
+	.string "梦没有用。$"
 
 SilphCo_2F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "2F$"
+	.string "西尔佛公司总部2层$"
 

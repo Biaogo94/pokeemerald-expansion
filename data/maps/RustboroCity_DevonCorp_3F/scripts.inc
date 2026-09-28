@@ -196,57 +196,51 @@ RustboroCity_DevonCorp_3F_EventScript_RareRocksDisplay::
 	end
 
 RustboroCity_DevonCorp_3F_Text_MrStoneIHaveFavor:
-	.string "I'm MR. STONE, the PRESIDENT of\n"
-	.string "the DEVON CORPORATION.\p"
-	.string "I'd just got word about you!\p"
-	.string "You saved our staff not just once,\n"
-	.string "but twice!\p"
-	.string "I have a favor to ask of an amazing\n"
-	.string "person like you.\p"
-	.string "I understand that you're delivering\n"
-	.string "a package to SLATEPORT's SHIPYARD.\p"
-	.string "Well, on the way, could you stop off in\n"
-	.string "DEWFORD TOWN?\p"
-	.string "I was hoping that you'd deliver a\n"
-	.string "LETTER to STEVEN in DEWFORD.$"
+	.string "我是兹伏奇，得文公司的社长。\p"
+	.string "刚刚听说了你的事迹！\p"
+	.string "你不止一次，而是两次救了我们公司\n"
+	.string "的员工！\p"
+	.string "我有件事想拜托给你这样出色的人。\p"
+	.string "我知道你要送包裹到凯那市的船厂去\n"
+	.string "。\p"
+	.string "唔，在那之前，能不能顺路去武斗镇\n"
+	.string "一趟？\p"
+	.string "我希望你能把这封信交给武斗镇里一\n"
+	.string "个叫大吾的人。$"
 
 RustboroCity_DevonCorp_3F_Text_MrStoneWantYouToHaveThis:
-	.string "MR. STONE: Now, you should know that\n"
-	.string "I am a great PRESIDENT.\p"
-	.string "So, I'd never be so cheap as to ask\n"
-	.string "a favor for nothing in return.\p"
-	.string "That's why I want you to have this!$"
+	.string "兹伏奇：你知道，作为一位优秀的社\n"
+	.string "长，\p"
+	.string "我绝不会吝啬到让人白白帮忙。\p"
+	.string "因此我把这个送给你！$"
 
 RustboroCity_DevonCorp_3F_Text_ReceivedPokenav:
-	.string "{PLAYER} received a POKéNAV.$"
+	.string "{PLAYER}得到了宝可导航。$"
 
 RustboroCity_DevonCorp_3F_Text_MrStoneExplainPokenavRestUp:
-	.string "MR. STONE: That device…\p"
-	.string "It's a POKéMON NAVIGATOR, or POKéNAV\n"
-	.string "for short.\p"
-	.string "It's an indispensable tool for any\n"
-	.string "TRAINER on an adventure.\p"
-	.string "It has a map of the HOENN region.\p"
-	.string "You can check the locations of\n"
-	.string "DEWFORD and SLATEPORT easily!\p"
-	.string "By the way, I've heard that sinister\n"
-	.string "criminals--MAGMA and AQUA, I believe--\l"
-	.string "have been making trouble far and wide.\p"
-	.string "I think it would be best if you rested\n"
-	.string "up before you go on your way.$"
+	.string "兹伏奇：那个装置……\p"
+	.string "那是宝可梦导航器，简称宝可导航，\p"
+	.string "对冒险中的训练家来说是不可或缺的\n"
+	.string "工具。\p"
+	.string "那里面有丰缘地区的地图，\p"
+	.string "你可以很方便地查看武斗镇和凯那市\n"
+	.string "的地点！\p"
+	.string "对了，我听说一些邪恶的犯罪组织—\n"
+	.string "—我想是熔岩队和海洋队——在到处\l"
+	.string "惹是生非，\p"
+	.string "建议你出发前最好先好好休息一下。$"
 
 RustboroCity_DevonCorp_3F_Text_MrStoneGoWithCautionAndCare:
-	.string "MR. STONE: Well, then, {PLAYER}{KUN},\n"
-	.string "go with caution and care!$"
+	.string "兹伏奇：好了，{PLAYER}\n"
+	.string "{KUN}，路上小心！$"
 
 RustboroCity_DevonCorp_3F_Text_CountingOnYou:
-	.string "MR. STONE: I'm counting on you!$"
+	.string "兹伏奇：就拜托给你了！$"
 
 RustboroCity_DevonCorp_3F_Text_ThankYouForDeliveringLetter:
-	.string "MR. STONE: You delivered my LETTER?\n"
-	.string "Thank you kindly!\p"
-	.string "This is my way of thanking you.\n"
-	.string "It should help you, a TRAINER.$"
+	.string "兹伏奇：你把信送到了？非常感谢！\p"
+	.string "这是我的谢礼，应该对你这样的训练\n"
+	.string "家有所帮助。$"
 
 RustboroCity_DevonCorp_3F_Text_ExplainExpShare:
 	.string "MR. STONE: A POKéMON holding that\n"
@@ -258,49 +252,41 @@ RustboroCity_DevonCorp_3F_Text_ExplainExpShare:
 	.string "for raising weak POKéMON.$"
 
 RustboroCity_DevonCorp_3F_Text_NotFamiliarWithTrends:
-	.string "MR. STONE: Since my youth, I've immersed\n"
-	.string "myself in work.\p"
-	.string "Consequently, I'm not familiar with\n"
-	.string "trends and that sort of thing.\p"
-	.string "But do young people all want to be\n"
-	.string "TRAINERS in the POKéMON LEAGUE?$"
+	.string "兹伏奇：我从年轻时起，就一直全身\n"
+	.string "心投入工作，\p"
+	.string "所以我也不怎么了解流行趋势之类的\n"
+	.string "东西。\p"
+	.string "现在的年轻人们都想成为宝可梦联盟\n"
+	.string "的训练家吗？$"
 
 RustboroCity_DevonCorp_3F_Text_ThisIs3rdFloorWaitHere:
-	.string "This is the DEVON CORPORATION's\n"
-	.string "third floor.\p"
-	.string "Our PRESIDENT's OFFICE is on\n"
-	.string "this floor.\p"
-	.string "Anyway, I can't tell you how much I'm\n"
-	.string "grateful for what you've done.\p"
-	.string "Um… By the way, that parcel\n"
-	.string "you got back for us…\p"
-	.string "Could I get you to deliver that to\n"
-	.string "the SHIPYARD in SLATEPORT?\p"
-	.string "It would be awful if those robbers\n"
-	.string "tried to take it again.\p"
-	.string "Uh… Hehehe, so, uh, could I count\n"
-	.string "on you to do that for me?\p"
-	.string "Oh, that's right.\n"
-	.string "Could you wait here a second?$"
+	.string "这里是得文公司的3楼。\p"
+	.string "社长办公室的所在地。\p"
+	.string "无论如何，我无法表明我对你所做的\n"
+	.string "事情的感谢。\p"
+	.string "呃……另外，你帮我们取回来的那个\n"
+	.string "包裹……\p"
+	.string "能再请你帮忙送到凯那市的船厂吗？\p"
+	.string "如果再让那些强盗抢走就糟了。\p"
+	.string "呃……哈哈哈，那，呃，能帮我这个\n"
+	.string "忙吗？\p"
+	.string "啊，对了，请在此稍等一下。$"
 
 RustboroCity_DevonCorp_3F_Text_WordWithPresidentComeWithMe:
-	.string "Our PRESIDENT would like to have\n"
-	.string "a word with you.\p"
-	.string "Please come with me.$"
+	.string "我们的社长有话想跟你说。\p"
+	.string "跟我来。$"
 
 RustboroCity_DevonCorp_3F_Text_PleaseGoAhead:
-	.string "Please, go ahead.$"
+	.string "过来吧。$"
 
 RustboroCity_DevonCorp_3F_Text_VisitCaptSternShipyard:
-	.string "If you visit the SHIPYARD in SLATEPORT,\n"
-	.string "you should go see CAPT. STERN.$"
+	.string "你到凯那市的船厂后，应该去找楠木\n"
+	.string "馆长。$"
 
 RustboroCity_DevonCorp_3F_Text_RepeatAndTimerHugelyPopular:
-	.string "DEVON's new products, the REPEAT BALL\n"
-	.string "and TIMER BALL, have become hugely\l"
-	.string "popular among TRAINERS.$"
+	.string "得文的新产品重复球和时间球很快就\n"
+	.string "在训练家之中流行起来了。$"
 
 RustboroCity_DevonCorp_3F_Text_RareRocksDisplay:
-	.string "It's a collection of rare rocks and\n"
-	.string "stones assembled by the PRESIDENT.$"
+	.string "这是社长收集的稀有岩石。$"
 

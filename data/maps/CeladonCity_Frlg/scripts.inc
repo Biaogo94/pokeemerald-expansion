@@ -103,116 +103,97 @@ CeladonCity_EventScript_GameCornerSign::
 	end
 
 CeladonCity_Text_GotMyKoffingInCinnabar::
-	.string "I got my KOFFING in CINNABAR.\p"
-	.string "It's usually nice, but it breathes\n"
-	.string "poison when it's angry.$"
+	.string "我在红莲得到了瓦斯弹。\p"
+	.string "它很棒，不过每次它一生气就会喷出\n"
+	.string "毒气。$"
 
 CeladonCity_Text_GymIsGreatFullOfWomen::
-	.string "Heheh! This GYM is great!\n"
-	.string "It's full of women!$"
+	.string "呵呵呵呵！这个道馆很来劲啊！里面\n"
+	.string "全都是女生啊！$"
 
 CeladonCity_Text_GameCornerIsBadForCitysImage::
-	.string "CELADON takes pride in its efforts\n"
-	.string "to keep the city beautiful.\p"
-	.string "That's why the new GAME CORNER is\n"
-	.string "bad for our city's image.$"
+	.string "玉虹市长久不变的靓景一直是城市引\n"
+	.string "以为豪的地方。\p"
+	.string "但是这样一来游戏厅的营业是不利于\n"
+	.string "市容市貌的。$"
 
 CeladonCity_Text_BlewItAllAtSlots::
-	.string "Moan…\n"
-	.string "I blew it all at the slots!\p"
-	.string "I knew I should have cashed in my\n"
-	.string "COINS for prizes!$"
+	.string "哇……我玩老虎机人品爆发啦！\p"
+	.string "赶紧用代币去兑换超级大奖去！$"
 
 CeladonCity_Text_MyTrustedPalPoliwrath::
-	.string "This is my trusted pal, POLIWRATH.\p"
-	.string "It evolved from a POLIWHIRL when\n"
-	.string "I used a WATER STONE.$"
+	.string "这是我最信任的朋友，蚊香泳士！\p"
+	.string "当我使用水之石之后，它从蚊香君进\n"
+	.string "化过来了。$"
 
 CeladonCity_Text_Poliwrath::
-	.string "POLIWRATH: Ribi ribit!$"
+	.string "蚊香泳士 哩吡哩吡特！$"
 
 CeladonCity_Text_GetLostOrIllPunchYou::
-	.string "What are you staring at?\n"
-	.string "Get lost, or I'll punch you.$"
+	.string "你在看什么呢？滚开，不然我就揍你\n"
+	.string "。$"
 
 CeladonCity_Text_KeepOutOfTeamRocketsWay::
-	.string "Keep out of TEAM ROCKET's way!$"
+	.string "离火箭队远点！$"
 
 CeladonCity_Text_ExplainXAccuracyDireHit::
-	.string "TRAINER TIPS\p"
-	.string "X ACCURACY boosts the accuracy of\n"
-	.string "techniques.\p"
-	.string "DIRE HIT jacks up the likelihood\n"
-	.string "of critical hits.\p"
-	.string "Get your items at the CELADON\n"
-	.string "DEPT. STORE!$"
+	.string "训练家贴士\p"
+	.string "命中强化能提高攻击的准确性。\p"
+	.string "致命攻击提高触发命中要害的几率。\p"
+	.string "它们在玉虹百货大楼都能买到！$"
 
 CeladonCity_Text_CitySign::
-	.string "CELADON CITY\n"
-	.string "The City of Rainbow Dreams$"
+	.string "玉虹市拥有彩虹般梦想的城市$"
 
 CeladonCity_Text_GymSign::
-	.string "CELADON CITY POKéMON GYM\n"
-	.string "LEADER: ERIKA\l"
-	.string "The Nature-Loving Princess!$"
+	.string "玉虹市宝可梦道馆馆主：莉佳热爱自\n"
+	.string "然的公主！$"
 
 CeladonCity_Text_MansionSign::
-	.string "CELADON MANSION$"
+	.string "玉虹大厦$"
 
 CeladonCity_Text_DeptStoreSign::
-	.string "Find what you need at the\n"
-	.string "CELADON DEPT. STORE!$"
+	.string "在玉虹百货大楼寻找你想要的！$"
 
 CeladonCity_Text_GuardSpecProtectsFromStatus::
-	.string "TRAINER TIPS\p"
-	.string "GUARD SPEC. protects POKéMON\n"
-	.string "from status-reduction moves during\l"
-	.string "battle.\p"
-	.string "Get your items at the\n"
-	.string "CELADON DEPT. STORE!$"
+	.string "训练家贴士\p"
+	.string "能力防守保护宝可梦使其战斗中能力\n"
+	.string "不会下降。\p"
+	.string "在玉虹百货大楼都能买到！$"
 
 CeladonCity_Text_PrizeExchangeSign::
-	.string "COINS exchanged for prizes!\n"
-	.string "PRIZE EXCHANGE$"
+	.string "代币兑换奖品！奖品兑换$"
 
 CeladonCity_Text_GameCornerSign::
-	.string "ROCKET GAME CORNER\n"
-	.string "The playground for grown-ups!$"
+	.string "火箭队游戏厅大人们的游乐场！$"
 
 CeladonCity_Text_ScaldedTongueOnTea::
-	.string "Aaaagh, ow…\n"
-	.string "I scalded my tongue!\p"
-	.string "This nice old lady in the MANSION\n"
-	.string "gave me some TEA.\p"
-	.string "But it was boiling hot!\n"
-	.string "Gotta cool it to drink it.$"
+	.string "啊 喔……我的舌头被烫伤了！\p"
+	.string "大厦里的老妇人给我喝了一些茶。\p"
+	.string "但茶太烫了！必须等凉下来之后再喝\n"
+	.string "。$"
 
 Text_SoftboiledTeach::
-	.string "Hello, there!\p"
-	.string "I've seen you about, but I never\n"
-	.string "had a chance to chat.\p"
-	.string "It must be good luck that brought\n"
-	.string "us together finally.\p"
-	.string "I'd like to celebrate by teaching\n"
-	.string "you the move SOFTBOILED.$"
+	.string "小朋友，你好！\p"
+	.string "我曾经看见过你好多次，但未能有过\n"
+	.string "畅谈的机会。\p"
+	.string "所幸现在我们成功相聚。\p"
+	.string "让我教你技能生蛋来庆祝下这感人的\n"
+	.string "一刻吧。$"
 
 Text_SoftboiledDeclined::
-	.string "I'll always be keeping an eye out\n"
-	.string "for you.\p"
-	.string "I hope we can chat again.$"
+	.string "我会一直关注你的。\p"
+	.string "有空了再过来聊聊啊。$"
 
 Text_SoftboiledWhichMon::
-	.string "So, who's the POKéMON that gets\n"
-	.string "the chance to learn SOFTBOILED?$"
+	.string "那么，哪只宝可梦想要学习生蛋呢？$"
 
 Text_SoftboiledTaught::
-	.string "I wish you the best of luck!$"
+	.string "祝你好运！$"
 
 CeladonCity_Text_SomeoneStoleSilphScope::
-	.string "Oh, what am I to do…\p"
-	.string "Someone stole our SILPH SCOPE.\p"
-	.string "The thief came running this way,\n"
-	.string "I'm sure of it.\p"
-	.string "But I lost sight of him!\n"
-	.string "Where'd he go?$"
+	.string "呃，我在做什么啊……\p"
+	.string "有人把我们的西尔佛观测镜偷走了。\p"
+	.string "小偷从这条路跑了，没错。\p"
+	.string "但我找不到他了！他去哪了？$"
 

@@ -18,20 +18,18 @@ CeladonCity_Hotel_EventScript_BeautyBrother::
 	end
 
 CeladonCity_Hotel_Text_ThisHotelIsForPeople::
-	.string "POKéMON?\n"
-	.string "No, this is a hotel for people.\p"
-	.string "We're full up, unfortunately.$"
+	.string "宝可梦？不，这儿是给人住的旅馆。\p"
+	.string "不幸的是，已经客满了。$"
 
 CeladonCity_Hotel_Text_OnVacationWithBrotherAndBoyfriend::
-	.string "I'm on vacation with my brother and\n"
-	.string "boyfriend.\p"
-	.string "CELADON is such a pretty city!$"
+	.string "我在和弟弟、男朋友度假。\p"
+	.string "玉虹市真是个美丽的城市！$"
 
 CeladonCity_Hotel_Text_WhyDidSheBringBrother::
-	.string "Why?\n"
-	.string "Why did she bring her brother?$"
+	.string "怎么会这样？为什么她要带弟弟一起\n"
+	.string "来？$"
 
 CeladonCity_Hotel_Text_SisBroughtMeOnVacation::
-	.string "Yippee! I'm on vacation!\n"
-	.string "My sis brought me along! Awesome!$"
+	.string "好耶！我在度假！我姐姐带我一起来\n"
+	.string "的！真棒！$"
 

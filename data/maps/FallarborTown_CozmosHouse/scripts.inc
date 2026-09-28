@@ -65,54 +65,49 @@ FallarborTown_CozmosHouse_EventScript_CozmoIsHappy::
 	end
 
 FallarborTown_CozmosHouse_Text_MeteoriteWillNeverBeMineNow:
-	.string "PROF. COZMO: Oh…\n"
-	.string "I never should have let myself be\l"
-	.string "conned into telling TEAM MAGMA where\l"
-	.string "you can find METEORITES…\p"
-	.string "That METEORITE from METEOR FALLS…\n"
-	.string "It's never going to be mine now…$"
+	.string "索蓝斯博士：唉……真后悔被熔岩队\n"
+	.string "骗着说出了陨石的下落……\p"
+	.string "流星瀑布的陨石……再也不会属于我\n"
+	.string "了……$"
 
 FallarborTown_CozmosHouse_Text_IsThatMeteoriteMayIHaveIt:
-	.string "Oh!\n"
-	.string "Hah?\p"
-	.string "That item…\p"
-	.string "Could it be?\p"
-	.string "Is it the METEORITE that TEAM MAGMA\n"
-	.string "took from METEOR FALLS?\p"
-	.string "Please, may I have it?\p"
-	.string "I'm not asking for it for free.\n"
-	.string "How about in exchange for this TM?$"
+	.string "啊！咦？\p"
+	.string "那个东西……\p"
+	.string "难道是？\p"
+	.string "那是熔岩队从流星瀑布抢走的陨石吗\n"
+	.string "？\p"
+	.string "拜托给我好吗？\p"
+	.string "我不会白要的，用这个招式学习器跟\n"
+	.string "你换好吗？$"
 
 FallarborTown_CozmosHouse_Text_PleaseUseThisTM:
-	.string "PROF. COZMO: This TM, it represents\n"
-	.string "my feeling of gratitude.\l"
-	.string "Please use it!$"
+	.string "索蓝斯博士：这个招式学习器表示我\n"
+	.string "的谢意。请好好使用吧！$"
 
 FallarborTown_CozmosHouse_Text_ReallyGoingToHelpMyResearch:
-	.string "PROF. COZMO: Oh, I can't believe it.\n"
-	.string "This is really, really great!\p"
-	.string "This is really going to help my research!$"
+	.string "索蓝斯博士：啊，简直不敢相信，真\n"
+	.string "是太棒了！\p"
+	.string "这对我的研究会有巨大帮助的！$"
 
 FallarborTown_CozmosHouse_Text_CrushedWithDisappointment:
-	.string "PROF. COZMO: Oh, but…\n"
-	.string "I'm crushed with disappointment…$"
+	.string "索蓝斯博士：哎，可是……太让人绝\n"
+	.string "望了……$"
 
 FallarborTown_CozmosHouse_Text_MayIHaveMeteorite:
-	.string "PROF. COZMO: Please, may I have that\n"
-	.string "METEORITE?\p"
-	.string "I'm not asking for it for free.\n"
-	.string "How about in exchange for this TM?$"
+	.string "索蓝斯博士：拜托了！把那个陨石给\n"
+	.string "我好吗？\p"
+	.string "我不会白要的，用这个招式学习器跟\n"
+	.string "你换好吗？$"
 
 FallarborTown_CozmosHouse_Text_CozmoWentToMeteorFalls:
-	.string "PROF. COZMO went off to METEOR FALLS\n"
-	.string "on ROUTE 114 with some people from\l"
-	.string "TEAM MAGMA.$"
+	.string "索蓝斯博士和一些熔岩队的人去了1\n"
+	.string "14号道路上的流星瀑布。$"
 
 FallarborTown_CozmosHouse_Text_FeelSorryForCozmo:
-	.string "Poor PROF. COZMO…\n"
-	.string "He's so depressed… I feel sorry for him.$"
+	.string "可怜的索蓝斯博士……他一回来就很\n"
+	.string "沮丧……真为他难过。$"
 
 FallarborTown_CozmosHouse_Text_CozmoIsSoHappy:
-	.string "Look at PROF. COZMO…\n"
-	.string "He's so happy! I think it's cute.$"
+	.string "看看索蓝斯博士……他完全高兴起来\n"
+	.string "了！那样子真可爱。$"
 

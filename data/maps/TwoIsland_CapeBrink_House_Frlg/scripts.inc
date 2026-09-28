@@ -4,55 +4,54 @@ TwoIsland_CapeBrink_House_Frlg_MapScripts::
 @ See move_tutors.inc
 
 Text_UltimateMoveThatMon::
-	.string "I perfected the ultimate move of\n"
-	.string "its type…\p"
-	.string "But will no one take it for\n"
-	.string "future use?\p"
-	.string "…Hm? Hmmm!\p"
-	.string "Y-you…\n"
-	.string "Th-that {STR_VAR_1}…$"
+	.string "我终于完美的掌握了最终极的技能！\p"
+	.string "但以后它能够被传承下去吗？\p"
+	.string "……嗯……嗯！\p"
+	.string "你的……啊，\n"
+	.string "{STR_VAR_1}……$"
 
 Text_JustMistaken::
-	.string "…No…\n"
-	.string "I was just mistaken.$"
+	.string "……不……恐怕我看走眼了……$"
 
 Text_AllowMeToTeachMonUltimateMove::
-	.string "Oh! This is the one!\n"
-	.string "This is the POKéMON!\p"
-	.string "This {STR_VAR_1} is worthy of\n"
-	.string "learning my ultimate move!\p"
-	.string "Will you allow it?\p"
-	.string "Will you allow your {STR_VAR_1} to\n"
-	.string "learn my {STR_VAR_2}?$"
+	.string "啊！这就是那个合适的人选！就是这\n"
+	.string "只宝可梦！\p"
+	.string "{STR_VAR_1}绝对可以掌\n"
+	.string "握我的终极技能！\p"
+	.string "可以吗？\p"
+	.string "可以让{STR_VAR_1}学习\n"
+	.string "我的{STR_VAR_2}吗？$"
 
 Text_YouRejectIt::
-	.string "Gaah! You reject it?\n"
-	.string "No, I won't be dissuaded!$"
+	.string "哈？你不同意？！好吧……我做不了\n"
+	.string "你的主……$"
 
 Text_LetMeConferUltimateMove::
-	.string "You will allow it?\p"
-	.string "Then, let me confer my ultimate\n"
-	.string "{STR_VAR_2} on your {STR_VAR_1}.\p"
-	.string "Ggggrah-awooo!$"
+	.string "你答应了？\p"
+	.string "太好了，现在我就把\n"
+	.string "{STR_VAR_2}教给你的\l"
+	.string "{STR_VAR_1}。\p"
+	.string "哇哦-哇哦-$"
 
 Text_TaughtMove::
-	.string "Gasp, gasp, gasp…\p"
-	.string "I didn't think I could teach that\n"
-	.string "move while I still lived…$"
+	.string "哈……哈……\p"
+	.string "看来这些技能注定是派不上用场了…\n"
+	.string "…$"
 
 Text_MakeBestUseOfMove::
-	.string "I implore you to make the best\n"
-	.string "use of that move and gain power!$"
+	.string "我希望你能把这个技能的威力发挥到\n"
+	.string "极致，从而获得强大的力量！$"
 
 Text_PassedOnEverythingIKnow::
-	.string "Gasp, gasp, gasp…\p"
-	.string "I have no regrets now.\n"
-	.string "I've passed on everything I know.\p"
-	.string "Now I can live out my life knowing\n"
-	.string "my work is done.$"
+	.string "哈……哈……\p"
+	.string "我现在没有遗憾了。我已经把我所知\n"
+	.string "道的都告诉它了。\p"
+	.string "现在，我已经完成了我的使命，现在\n"
+	.string "就算离开这个世界，我也没有遗憾了\l"
+	.string "……$"
 
 Text_FeelRejuvenated::
-	.string "After I passed on my knowledge to\n"
-	.string "you, I felt so much relief.\p"
-	.string "In fact, I feel rejuvenated,\n"
-	.string "as if I were younger again!$"
+	.string "把我的知识传授给你后，我感觉我轻\n"
+	.string "松了很多。\p"
+	.string "事实上，我感觉我再一次充满了活力\n"
+	.string "，就像是又年轻了一次！$"

@@ -181,137 +181,120 @@ LavaridgeTown_Gym_1F_EventScript_GymStatue::
 	end
 
 LavaridgeTown_Gym_1F_Text_GymGuideAdvice:
-	.string "Hey, how's it going, CHAMPION-\n"
-	.string "bound {PLAYER}?\p"
-	.string "LAVARIDGE's GYM LEADER FLANNERY\n"
-	.string "uses FIRE-type POKéMON.\p"
-	.string "Her passion for POKéMON burns stronger\n"
-	.string "and hotter than a volcano.\p"
-	.string "Don't get too close to her--you'll burn!\n"
-	.string "Hose her down with water and then\l"
-	.string "go for it!$"
+	.string "嗨，怎么样，向冠军目标冲刺的\n"
+	.string "{PLAYER}？\p"
+	.string "釜炎镇的道馆馆主亚莎使用火属性宝\n"
+	.string "可梦，\p"
+	.string "她对宝可梦的激情比火山还要炙热。\p"
+	.string "别太接近她——你会被烧焦的！用水\n"
+	.string "浇灭她的火焰，加油吧！$"
 
 LavaridgeTown_Gym_1F_Text_GymGuidePostVictory:
-	.string "Yow! That was a scorching-hot battle!$"
+	.string "异常火热的对战啊！$"
 
 LavaridgeTown_Gym_1F_Text_ColeIntro:
-	.string "Owowowowow!\n"
-	.string "Yikes, it's hot!$"
+	.string "啊啊啊啊！呀，好烫！$"
 
 LavaridgeTown_Gym_1F_Text_ColeDefeat:
-	.string "I'm blinded by sweat in my eyes…$"
+	.string "汗水把眼睛都遮住了……$"
 
 LavaridgeTown_Gym_1F_Text_ColePostBattle:
-	.string "Being buried in hot sand promotes\n"
-	.string "circulation.\p"
-	.string "It's effective for healing pain in\n"
-	.string "your joints.$"
+	.string "埋在热沙子里可以促进血液循环，\p"
+	.string "对治疗关节疼痛有好处。$"
 
 LavaridgeTown_Gym_1F_Text_AxleIntro:
-	.string "I'm trying to relieve my stress.\n"
-	.string "Don't come along and stress me out!$"
+	.string "我在想办法减轻压力，别过来再给我\n"
+	.string "施压！$"
 
 LavaridgeTown_Gym_1F_Text_AxleDefeat:
-	.string "I hope FLANNERY flames you good!$"
+	.string "我想看到你被亚莎的火焰燃烧！$"
 
 LavaridgeTown_Gym_1F_Text_AxlePostBattle:
-	.string "Haaah… Whew…\p"
-	.string "If you spend too much time buried in\n"
-	.string "hot sand, it tuckers you out…$"
+	.string "哈啊……呼……\p"
+	.string "埋在热沙子里太久，都没力气了……$"
 
 LavaridgeTown_Gym_B1F_Text_KeeganIntro:
-	.string "You must be getting tired by now.\n"
-	.string "You'd like to rest in the hot sand,\l"
-	.string "wouldn't you?\p"
-	.string "But you should know that maintaining\n"
-	.string "your willpower is an important ability\l"
-	.string "for all TRAINERS.$"
+	.string "到现在你一定很累了，想在热沙子里\n"
+	.string "休息一下，是吗？\p"
+	.string "但对训练家来说，坚强的毅力是一种\n"
+	.string "非常重要的品质。$"
 
 LavaridgeTown_Gym_B1F_Text_KeeganDefeat:
-	.string "Play with fire, and be burned…$"
+	.string "玩火自焚了……$"
 
 LavaridgeTown_Gym_B1F_Text_KeeganPostBattle:
-	.string "Your skill is real…\n"
-	.string "But our LEADER FLANNERY is strong.\p"
-	.string "If you don't watch yourself, you'll be\n"
-	.string "burned seriously.$"
+	.string "你的技术不错……但我们的馆主亚莎\n"
+	.string "很强，\p"
+	.string "你不小心的话会被烧焦的。$"
 
 LavaridgeTown_Gym_1F_Text_GeraldIntro:
-	.string "Can your POKéMON withstand\n"
-	.string "392-degree heat?$"
+	.string "你的宝可梦能抵挡392度的高温吗\n"
+	.string "？$"
 
 LavaridgeTown_Gym_1F_Text_GeraldDefeat:
-	.string "It didn't burn hotly enough…$"
+	.string "火还不够热……$"
 
 LavaridgeTown_Gym_1F_Text_GeraldPostBattle:
-	.string "The temperature of magma is\n"
-	.string "392 degrees.\p"
-	.string "Your POKéMON beat me, so they should\n"
-	.string "easily survive in magma.$"
+	.string "岩浆的温度是392度。\p"
+	.string "你的宝可梦打败了我，那么在岩浆中\n"
+	.string "也应该能比较容易生存下来。$"
 
 LavaridgeTown_Gym_1F_Text_DanielleIntro:
-	.string "Um…\n"
-	.string "Okay, I'll battle with you.$"
+	.string "呃……好吧，我就和你对战吧。$"
 
 LavaridgeTown_Gym_1F_Text_DanielleDefeat:
-	.string "Oh, but you're too strong.$"
+	.string "呀，你太强了。$"
 
 LavaridgeTown_Gym_1F_Text_DaniellePostBattle:
-	.string "I'm going to be a pretty and strong\n"
-	.string "TRAINER just like FLANNERY.$"
+	.string "我要成为亚莎那样漂亮又强大的训练\n"
+	.string "家。$"
 
 LavaridgeTown_Gym_B1F_Text_JaceIntro:
-	.string "Come on, get with it!\n"
-	.string "Let's go before my feelings cool!$"
+	.string "来对战吧！别让我的热情冷却！$"
 
 LavaridgeTown_Gym_B1F_Text_JaceDefeat:
-	.string "It's so hot, and yet my heart is\n"
-	.string "clutched by ice…$"
+	.string "周围那么热，我的心却好像掉进了冰\n"
+	.string "窟……$"
 
 LavaridgeTown_Gym_B1F_Text_JacePostBattle:
-	.string "The way the battling spirit burns\n"
-	.string "within you, you may stand a chance\l"
-	.string "against our LEADER.$"
+	.string "凭你心中燃烧的战斗热情，你也许有\n"
+	.string "机会胜过我们的馆主。$"
 
 LavaridgeTown_Gym_B1F_Text_JeffIntro:
-	.string "See how the flames blaze wildly?\n"
-	.string "They flare in anticipation of my win!$"
+	.string "看到这熊熊燃烧的烈焰了吗？这闪烁\n"
+	.string "的是对我胜利的期盼！$"
 
 LavaridgeTown_Gym_B1F_Text_JeffDefeat:
-	.string "Something didn't go right.$"
+	.string "有什么事搞错了。$"
 
 LavaridgeTown_Gym_B1F_Text_JeffPostBattle:
-	.string "Well, so what? I say so what?\n"
-	.string "I can walk on hot coals barefoot!\p"
-	.string "…Don't even think about trying it!$"
+	.string "那又怎么样？我说那又怎么样！我能\n"
+	.string "光着脚在热炭上走！\p"
+	.string "……不用试也知道你是不可能做到的\n"
+	.string "！$"
 
 LavaridgeTown_Gym_B1F_Text_EliIntro:
-	.string "As much as I love mountains,\n"
-	.string "I especially love volcanoes.$"
+	.string "我喜欢高山，尤其喜欢火山。$"
 
 LavaridgeTown_Gym_B1F_Text_EliDefeat:
-	.string "Well, it seems to me I lost without\n"
-	.string "ever being in control.$"
+	.string "呃，看来我无可挽回地失败了。$"
 
 LavaridgeTown_Gym_B1F_Text_EliPostBattle:
-	.string "I stay here because I became a fan\n"
-	.string "of FLANNERY's power.\p"
-	.string "Hehehehe.$"
+	.string "我留在这儿是因为迷上了亚莎的力量\n"
+	.string "。\p"
+	.string "呵呵呵呵。$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryIntro:
-	.string "Welcome… No, wait.\p"
-	.string "Puny TRAINER, how good to see you've\n"
-	.string "made it here!\p"
-	.string "I have been entrusted with the…\n"
-	.string "No, wait.\p"
-	.string "I am FLANNERY, and I'm the GYM\n"
-	.string "LEADER here!\p"
-	.string "Uh…\n"
-	.string "Dare not underestimate me, though\l"
-	.string "I have been LEADER only a short time!\p"
-	.string "With skills inherited from my grand-\n"
-	.string "father, I shall, uh…demonstrate the\l"
-	.string "hot moves we have honed on this land!$"
+	.string "欢迎……哦不，\p"
+	.string "微不足道的挑战者啊，真高兴能看见\n"
+	.string "你坚持到这里！\p"
+	.string "爷爷托付我……我是说，\p"
+	.string "我是亚莎，是这个道馆的馆主！\p"
+	.string "那个……虽然我不久前才刚上任，但\n"
+	.string "你可别小看我！\p"
+	.string "我有爷爷传授给我的技巧，我会，那\n"
+	.string "个……让你见识一下我们在这片土地\l"
+	.string "上磨砺而出的火辣招式！$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryDefeat:
 	.string "Oh…\n"
@@ -326,74 +309,62 @@ LavaridgeTown_Gym_1F_Text_FlanneryDefeat:
 	.string "For that, you deserve this.$"
 
 LavaridgeTown_Gym_1F_Text_ReceivedHeatBadge:
-	.string "{PLAYER} received the HEAT BADGE\n"
-	.string "from FLANNERY.$"
+	.string "{PLAYER}从亚莎那里得到了\n"
+	.string "烈焰徽章。$"
 
 LavaridgeTown_Gym_1F_Text_ExplainHeatBadgeTakeThis:
-	.string "If you have a HEAT BADGE, all POKéMON\n"
-	.string "up to Level 50, even those you get in\l"
-	.string "trades from other people, will obey\l"
-	.string "you completely.\p"
-	.string "And, it lets POKéMON use the HM move\n"
-	.string "STRENGTH outside of battle.\p"
-	.string "This is a token of my appreciation.\n"
-	.string "Don't be shy about taking it!$"
+	.string "有了烈焰徽章，所有等级50以内的\n"
+	.string "宝可梦，即使是从别人那儿交换得来\l"
+	.string "的也会完全听你的。\p"
+	.string "另外，宝可梦也能在对战外使用秘传\n"
+	.string "招式怪力了。\p"
+	.string "这是我的小小谢礼，请别客气，收下\n"
+	.string "吧！$"
 
 LavaridgeTown_Gym_1F_Text_ExplainOverheat:
-	.string "That TM50 contains OVERHEAT.\p"
-	.string "That move inflicts serious damage on\n"
-	.string "the opponent.\p"
-	.string "But it also sharply cuts the SP. ATK\n"
-	.string "of the POKéMON using it. It might not\l"
-	.string "be suitable for longer battles.$"
+	.string "那个招式学习器50里装着的是过热\n"
+	.string "，\p"
+	.string "能对对手造成巨大的伤害。\p"
+	.string "但同时，使用它的宝可梦特攻会急剧\n"
+	.string "下降。这个招式不太适合持久战。$"
 
 LavaridgeTown_Gym_1F_Text_RegisteredFlannery:
-	.string "Registered GYM LEADER FLANNERY\n"
-	.string "in the POKéNAV.$"
+	.string "把道馆馆主亚莎登记到宝可导航里了\n"
+	.string "。$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPostBattle:
-	.string "Your power reminds me of someone…\p"
-	.string "Oh! I know! You battle like NORMAN,\n"
-	.string "the GYM LEADER of PETALBURG.$"
+	.string "你的实力让我想起了某个人……\p"
+	.string "哦！对了！你的战斗方式很像橙华道\n"
+	.string "馆的道馆馆主千里。$"
 
 LavaridgeTown_Gym_1F_Text_GymStatue:
-	.string "LAVARIDGE TOWN POKéMON GYM$"
+	.string "釜炎镇宝可梦道馆$"
 
 LavaridgeTown_Gym_1F_Text_GymStatueCertified:
-	.string "LAVARIDGE TOWN POKéMON GYM\p"
-	.string "FLANNERY'S CERTIFIED TRAINERS:\n"
+	.string "釜炎镇宝可梦道馆\p"
+	.string "亚莎认可的训练家：\n"
 	.string "{PLAYER}$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPreRematch:
-	.string "FLANNERY: Losing a battle isn't going\n"
-	.string "to deflate me.\p"
-	.string "I love POKéMON.\n"
-	.string "I love to battle.\l"
-	.string "And… I love this GYM!\p"
-	.string "Let's exchange superhot moves\n"
-	.string "in another battle!$"
+	.string "亚莎：打输一次不会让我泄气。\p"
+	.string "我爱宝可梦，我爱对战，而且……我\n"
+	.string "爱这间道馆！\p"
+	.string "让我们用炙热的招式开战吧！$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryRematchDefeat:
-	.string "Whew!\n"
-	.string "On the verge of eruption!$"
+	.string "哇！火山喷发也不过如此吧！$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPostRematch:
-	.string "FLANNERY: I lost the match,\n"
-	.string "but I'm completely satisfied.\p"
-	.string "It's not often I get to enjoy a battle\n"
-	.string "this heated.\p"
-	.string "Let's have another one like this\n"
-	.string "again sometime!$"
+	.string "亚莎：我输了，但是我很满足。\p"
+	.string "像这样激烈的对战可不是每天都有的\n"
+	.string "。\p"
+	.string "有空的话再来一场吧！$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryRematchNeedTwoMons:
-	.string "FLANNERY: Losing a battle isn't going\n"
-	.string "to deflate me.\p"
-	.string "I love POKéMON.\n"
-	.string "I love to battle.\l"
-	.string "And… I love this GYM!\p"
-	.string "Let's exchange superhot moves\n"
-	.string "in another battle!\p"
-	.string "Oh, wait. Do you only have one POKéMON\n"
-	.string "that can battle?\p"
-	.string "I hate to say this, but when you come\n"
-	.string "see me, bring at least two POKéMON.$"
+	.string "亚莎：打输一次不会让我泄气。\p"
+	.string "我爱宝可梦，我爱对战，而且……我\n"
+	.string "爱这间道馆！\p"
+	.string "让我们用炙热的招式开战吧！\p"
+	.string "啊，慢着，你只带了1只可以对战的\n"
+	.string "宝可梦？\p"
+	.string "你来找我时至少得带2只宝可梦吧。$"

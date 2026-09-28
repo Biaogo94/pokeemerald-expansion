@@ -27,32 +27,28 @@ BattleFrontier_Lounge6_EventScript_TradeCompleted::
 	end
 
 BattleFrontier_Lounge6_Text_WouldYouLikeToTrade:
-	.string "My POKéMON is a {STR_VAR_2}.\n"
-	.string "Do you know it?\l"
-	.string "It's quite cute and rather nice.\p"
-	.string "This little one, I could trade with\n"
-	.string "pride!\p"
-	.string "Would you like to trade me a {STR_VAR_1}\n"
-	.string "for my {STR_VAR_2}?$"
+	.string "我的宝可梦是\n"
+	.string "{STR_VAR_2}，你知道它\l"
+	.string "吗？它很可爱，很讨人喜欢。\p"
+	.string "我可是很自豪有这么一只能与别人交\n"
+	.string "换！\p"
+	.string "你想用{STR_VAR_1}换我\n"
+	.string "的{STR_VAR_2}吗？$"
 
 BattleFrontier_Lounge6_Text_PromiseIllBeGoodToIt:
-	.string "Oh, it's adorable!\n"
-	.string "Thank you!\l"
-	.string "I promise I'll be good to it!\p"
-	.string "Oh! I hope you'll be good to\n"
-	.string "my {STR_VAR_2}, too!$"
+	.string "哇，太可爱了！谢谢！我保证会好好\n"
+	.string "照顾它的！\p"
+	.string "啊，你也要好好照顾我的\n"
+	.string "{STR_VAR_2}哦！$"
 
 BattleFrontier_Lounge6_Text_DontTradeForAnythingButMon:
-	.string "Oh, I'm sorry!\n"
-	.string "I don't intend to trade for anything\l"
-	.string "but a {STR_VAR_1}.$"
+	.string "啊，抱歉！我只想换一只\n"
+	.string "{STR_VAR_1}。$"
 
 BattleFrontier_Lounge6_Text_WellThatsFineToo:
-	.string "Oh, you won't?\n"
-	.string "Well, that's fine, too.\l"
-	.string "Please come visit us again.$"
+	.string "哎，你不想换吗？唉，那就算了。下\n"
+	.string "回再说吧。$"
 
 BattleFrontier_Lounge6_Text_SkittySoMuchCuterThanImagined:
-	.string "Giggle!\n"
-	.string "A SKITTY is so much cuter than I had\l"
-	.string "imagined. I'm delighted!$"
+	.string "嘻嘻！向尾喵比我想象中可爱多了！\n"
+	.string "太高兴了！$"

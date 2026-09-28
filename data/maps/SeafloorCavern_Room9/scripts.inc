@@ -219,101 +219,92 @@ SeafloorCavern_Room9_Movement_Delay32:
 	step_end
 
 SeafloorCavern_Room9_Text_ArchieHoldItRightThere:
-	.string "ARCHIE: Hold it right there.$"
+	.string "水梧桐：给我站住。$"
 
 SeafloorCavern_Room9_Text_ArchieSoItWasYou:
-	.string "ARCHIE: Fufufu…\n"
-	.string "So it was you, after all.$"
+	.string "水梧桐：呵呵呵……真的是你啊。$"
 
 SeafloorCavern_Room9_Text_ArchieBeholdKyogre:
-	.string "ARCHIE: Behold!\p"
-	.string "See how beautiful it is, the sleeping\n"
-	.string "form of the ancient POKéMON KYOGRE!\p"
-	.string "I have waited so long for this day to\n"
-	.string "come…$"
+	.string "水梧桐：看吧！\p"
+	.string "这超古代宝可梦——盖欧卡，它沉睡\n"
+	.string "的姿态是多么美丽！\p"
+	.string "我等这一天等了太久了……$"
 
 SeafloorCavern_Room9_Text_ArchieYouMustDisappear:
-	.string "ARCHIE: It surprises me, how you've\n"
-	.string "managed to chase me here.\p"
-	.string "But that's all over now.\p"
-	.string "For the realization of my dream,\n"
-	.string "you must disappear now!$"
+	.string "水梧桐：你能追到这里来确实让我惊\n"
+	.string "讶。\p"
+	.string "但一切都结束了。\p"
+	.string "为了实现我的梦想，你必须在此消失\n"
+	.string "！$"
 
 SeafloorCavern_Room9_Text_ArchieDefeat:
-	.string "What?!\n"
-	.string "I lost to a mere child like you?!$"
+	.string "什么？！居然输给区区一个小鬼？！$"
 
 SeafloorCavern_Room9_Text_ArchieWithThisRedOrb:
-	.string "ARCHIE: Fufufu…\p"
-	.string "I commend you. I must recognize that\n"
-	.string "you are truly gifted.\p"
-	.string "But!\n"
-	.string "I have this in my possession!\p"
-	.string "With this RED ORB, I can make KYOGRE…$"
+	.string "水梧桐：呵呵呵……\p"
+	.string "该说真不愧是你吗……我承认你确实\n"
+	.string "有两下子。\p"
+	.string "但是！我拥有这个！\p"
+	.string "只要用朱红色宝珠，我可以让盖欧卡\n"
+	.string "……$"
 
 SeafloorCavern_Room9_Text_RedOrbShinesByItself:
-	.string "The RED ORB suddenly began shining\n"
-	.string "by itself!$"
+	.string "朱红色宝珠开始自己发出光芒了！$"
 
 SeafloorCavern_Room9_Text_ArchieWhereDidKyogreGo:
-	.string "ARCHIE: What?!\p"
-	.string "I didn't do anything.\n"
-	.string "Why did the RED ORB…\p"
-	.string "Where did KYOGRE go?$"
+	.string "水梧桐：什么？！\p"
+	.string "我什么都没做！朱红色宝珠怎么会…\n"
+	.string "…\p"
+	.string "盖欧卡去哪了？$"
 
 SeafloorCavern_Room9_Text_ArchieAMessageFromOutside:
-	.string "ARCHIE: Hm? It's a message from our\n"
-	.string "members outside…$"
+	.string "水梧桐：嗯？是留在外面的队员的联\n"
+	.string "络……$"
 
 SeafloorCavern_Room9_Text_ArchieWhatRainingTooHard:
-	.string "ARCHIE: Yes, what is it?\p"
-	.string "Hm…\n"
-	.string "It's raining heavily?\p"
-	.string "Good… That should have happened.\n"
-	.string "That is why we awakened KYOGRE,\l"
-	.string "to realize TEAM AQUA's vision of\l"
-	.string "expanding the sea.\p"
-	.string "What?!\p"
-	.string "It's raining far harder than we\n"
-	.string "envisioned? You're in danger?\p"
-	.string "That can't be…\n"
-	.string "That's just not possible…\p"
-	.string "Hold your position and monitor\n"
-	.string "the situation!$"
+	.string "水梧桐：是我，怎么了？\p"
+	.string "嗯……下暴雨了？\p"
+	.string "很好……意料之中。这就是我们唤醒\n"
+	.string "盖欧卡的目的，为实现海洋队扩张大\l"
+	.string "海的愿景。\p"
+	.string "什么？！\p"
+	.string "雨量远远超出预期？你们也陷入危险\n"
+	.string "了？\p"
+	.string "怎么会……绝不可能……\p"
+	.string "你们原地待命，继续监测情况！$"
 
 SeafloorCavern_Room9_Text_ArchieWhyDidKyogreDisappear:
-	.string "ARCHIE: There's something wrong…\p"
-	.string "The RED ORB is supposed to awaken\n"
-	.string "and control KYOGRE…\p"
-	.string "But… Why?\n"
-	.string "Why did KYOGRE disappear?\p"
-	.string "Why?!$"
+	.string "水梧桐：一定是哪里不对……\p"
+	.string "朱红色宝珠明明应该能够唤醒并控制\n"
+	.string "盖欧卡才对……\p"
+	.string "可是……为什么？为什么盖欧卡不见\n"
+	.string "了？\p"
+	.string "为什么？！$"
 
 SeafloorCavern_Room9_Text_MaxieWhatHaveYouWrought:
-	.string "MAXIE: What have you wrought?\p"
-	.string "ARCHIE… You've finally awoken KYOGRE,\n"
-	.string "haven't you?\p"
-	.string "What will happen to the world if this\n"
-	.string "downpour continues for all eternity?\p"
-	.string "The world's landmass will drown in\n"
-	.string "the deepening sea…$"
+	.string "赤焰松：你都干了些什么？\p"
+	.string "水梧桐……你终于还是唤醒盖欧卡了\n"
+	.string "吗？\p"
+	.string "这场倾盆大雨一直下个不停的话，世\n"
+	.string "界会变成什么样子？\p"
+	.string "所有的陆地都将被海水淹没……$"
 
 SeafloorCavern_Room9_Text_ArchieDontGetAllHighAndMighty:
-	.string "ARCHIE: W-what?!\n"
-	.string "Don't get all high and mighty with me!\p"
-	.string "Wasn't it you, TEAM MAGMA, that\n"
-	.string "infuriated GROUDON?\p"
-	.string "So long as I have this RED ORB,\n"
-	.string "I should be able to control KYOGRE…\p"
-	.string "I should be able to control it…$"
+	.string "水梧桐：什——什么？！少在这里装\n"
+	.string "腔作势！\p"
+	.string "难道不是你们熔岩队激怒了固拉多吗\n"
+	.string "？\p"
+	.string "只要我有朱红色宝珠，我应该还能控\n"
+	.string "制盖欧卡……\p"
+	.string "我应该能的……$"
 
 SeafloorCavern_Room9_Text_MaxieWeDontHaveTimeToArgue:
-	.string "MAXIE: We don't have the time to\n"
-	.string "argue about it here!\p"
-	.string "Get outside and see for yourself!\p"
-	.string "See if what you've wrought is the\n"
-	.string "world that we desired!$"
+	.string "赤焰松：我们没时间继续在这儿争吵\n"
+	.string "了！\p"
+	.string "出去亲眼看看吧！\p"
+	.string "看看你造成的那一切是不是我们一直\n"
+	.string "所期望的世界的样子！$"
 
 SeafloorCavern_Room9_Text_MaxieComeOnPlayer:
-	.string "MAXIE: {PLAYER}, come on, you have\n"
-	.string "to get out of here, too!$"
+	.string "赤焰松：{PLAYER}，你也得\n"
+	.string "赶紧离开这儿！$"

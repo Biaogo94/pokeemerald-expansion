@@ -17,88 +17,79 @@ Route10_EventScript_PowerPlantSign::
 	end
 
 Route10_Text_MarkIntro::
-	.string "Wow, you came all the way here?\n"
-	.string "Maybe you're a POKéMANIAC, too?\l"
-	.string "Want to see my collection?$"
+	.string "哇，你历经磨难终于到了我这里？也\n"
+	.string "许你也是一个怪兽狂对吗？想要看看\l"
+	.string "我的收藏吗？$"
 
 Route10_Text_MarkDefeat::
-	.string "Humph.\n"
-	.string "I'm not angry!$"
+	.string "啊哼。我不会生气的！$"
 
 Route10_Text_MarkPostBattle::
-	.string "I have more rare POKéMON at home!$"
+	.string "我还有很多稀有的宝可梦放在家里呢$"
 
 Route10_Text_ClarkIntro::
-	.string "Ha-hahah-ah-ha!$"
+	.string "哈哈-哈哈-啊哈哈$"
 
 Route10_Text_ClarkDefeat::
-	.string "Ha-haha!\n"
-	.string "Not laughing!\l"
-	.string "Ha-hay fever! Haha-ha-choo!$"
+	.string "哈-啊啊！不准笑！啊啊-发烧了！\n"
+	.string "啊啊-啊嚏！$"
 
 Route10_Text_ClarkPostBattle::
-	.string "Haha-ha-choo!\n"
-	.string "Ha-choo!\l"
-	.string "Snort! Snivel!$"
+	.string "啊啊-啊嚏！啊嚏！抽鼻子，擦鼻涕\n"
+	.string "。$"
 
 Route10_Text_HermanIntro::
-	.string "Hi, kid!\n"
-	.string "Want to see my POKéMON?$"
+	.string "嘿，小子！想看我的宝可梦$"
 
 Route10_Text_HermanDefeat::
-	.string "Oh, no!\n"
-	.string "My POKéMON!$"
+	.string "喔，不！我的宝可梦$"
 
 Route10_Text_HermanPostBattle::
-	.string "I don't like you.\n"
-	.string "I don't like anyone better than me!$"
+	.string "我讨厌你。比我强的人我都不喜欢！$"
 
 Route10_Text_HeidiIntro::
-	.string "I've been out at a POKéMON GYM\n"
-	.string "a few times.\p"
-	.string "…But I always lose.$"
+	.string "我已经在宝可梦道馆中辗转奋战多时\n"
+	.string "。\p"
+	.string "…可总是输多赢少。$"
 
 Route10_Text_HeidiDefeat::
-	.string "Ohh!\n"
-	.string "After all my training!$"
+	.string "烦死了！有事等我训练完了再说！$"
 
 Route10_Text_HeidiPostBattle::
-	.string "I noticed some POKéMANIACS\n"
-	.string "prowling around.\p"
-	.string "Can you imagine? Them?\n"
-	.string "Up here in the mountains?$"
+	.string "我发现一些怪兽狂正在附近徘徊的踪\n"
+	.string "迹。\p"
+	.string "你想象得出来吗？从这山顶往下俯视\n"
+	.string "的样子？$"
 
 Route10_Text_TrentIntro::
-	.string "Ah!\n"
-	.string "This mountain air is delicious!$"
+	.string "哈！这山里的空气真爽！$"
 
 Route10_Text_TrentDefeat::
-	.string "That cleared my head!$"
+	.string "它使我的心灵彻底得到了净化！$"
 
 Route10_Text_TrentPostBattle::
-	.string "I feel bloated on mountain air!$"
+	.string "这样的空气里人都像要飞起来了！$"
 
 Route10_Text_CarolIntro::
-	.string "I'm feeling a bit faint.\n"
-	.string "I haven't hiked in some time.$"
+	.string "我现在有点头晕，好久都没有登山了\n"
+	.string "。$"
 
 Route10_Text_CarolDefeat::
-	.string "I'm too tired.\n"
-	.string "I wasn't up for it.$"
+	.string "我实在坚持不住了。都怪我没有做好\n"
+	.string "充足的准备。$"
 
 Route10_Text_CarolPostBattle::
-	.string "The POKéMON here in the mountains\n"
-	.string "are so chunky…\p"
-	.string "I wish there were pink POKéMON\n"
-	.string "with a floral pattern!$"
+	.string "这座山里生活的宝可梦都是矮矮胖胖\n"
+	.string "的那种……\p"
+	.string "我希望能有一种宝可梦，它粉色的皮\n"
+	.string "肤上有花瓣花纹！$"
 
 Route10_Text_RockTunnelDetourToLavender::
-	.string "ROCK TUNNEL\n"
-	.string "Detour to LAVENDER TOWN$"
+	.string "岩山隧道绕道到紫苑镇$"
 
 Route10_Text_RockTunnel::
-	.string "ROCK TUNNEL$"
+	.string "岩山隧道$"
 
 Route10_Text_PowerPlant::
-	.string "POWER PLANT$"
+	.string "无人发电厂$"
 

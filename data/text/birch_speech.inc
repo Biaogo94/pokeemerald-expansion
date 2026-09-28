@@ -1,9 +1,8 @@
 gText_Birch_Welcome::
-	.string "Hi! Sorry to keep you waiting!\p"
-	.string "Welcome to the world of POKéMON!\p"
-	.string "My name is BIRCH.\p"
-	.string "But everyone calls me the POKéMON\n"
-	.string "PROFESSOR.\p"
+	.string "哎呀——让你久等啦！\p"
+	.string "欢迎来到宝可梦的世界！\p"
+	.string "我的名字是小田卷。\p"
+	.string "不过大家都叫我宝可梦博士。\p"
 	.string "$"
 
 gText_Birch_Pokemon::
@@ -12,50 +11,46 @@ gText_Birch_Pokemon::
 	.string "$"
 
 gText_Birch_MainSpeech::
-	.string "This world is widely inhabited by\n"
-	.string "creatures known as POKéMON.\p"
-	.string "We humans live alongside POKéMON,\n"
-	.string "at times as friendly playmates, and\l"
-	.string "at times as cooperative workmates.\p"
-	.string "And sometimes, we band together\n"
-	.string "and battle others like us.\p"
-	.string "But despite our closeness, we don't\n"
-	.string "know everything about POKéMON.\p"
-	.string "In fact, there are many, many\n"
-	.string "secrets surrounding POKéMON.\p"
-	.string "To unravel POKéMON mysteries,\n"
-	.string "I've been undertaking research.\l"
-	.string "That's what I do.\p"
+	.string "这个世界上叫做宝可梦的生物随处可\n"
+	.string "见。\p"
+	.string "人们和宝可梦友好相处、共同生活，\n"
+	.string "有时作为玩伴一起玩耍，有时作为同\l"
+	.string "伴协力工作。\p"
+	.string "也有时候，我们指挥宝可梦并肩而战\n"
+	.string "，与其他人彼此对战切磋。\p"
+	.string "尽管如此亲密，我们仍未了解宝可梦\n"
+	.string "的一切。\p"
+	.string "事实上，宝可梦身上的秘密依然数不\n"
+	.string "胜数！\p"
+	.string "为了揭开宝可梦的秘密，我倾注了毕\n"
+	.string "生心血进行研究。这就是我一直在做\l"
+	.string "的事。\p"
 	.string "$"
 
 gText_Birch_AndYouAre::
-	.string "And you are?$"
+	.string "对了，你是……$"
 
 gText_Birch_BoyOrGirl::
-	.string "Are you a boy?\n"
-	.string "Or are you a girl?$"
+	.string "男孩？还是女孩？$"
 
 gText_Birch_WhatsYourName::
-	.string "All right.\n"
-	.string "What's your name?$"
+	.string "好的。能告诉我你的名字吗？$"
 
 gText_Birch_SoItsPlayer::
-	.string "So it's {PLAYER}{KUN}?$"
+	.string "是{PLAYER}{KUN}吗？$"
 
 gText_Birch_YourePlayer::
-	.string "Ah, okay!\p"
-	.string "You're {PLAYER}{KUN} who's moving to my\n"
-	.string "hometown of LITTLEROOT.\l"
-	.string "I get it now!\p"
+	.string "……原来如此！\p"
+	.string "你就是即将搬到未白镇来的\n"
+	.string "{PLAYER}{KUN}啊！我\l"
+	.string "知道了！\p"
 	.string "$"
 
 gText_Birch_AreYouReady::
-	.string "All right, are you ready?\p"
-	.string "Your very own adventure is about\n"
-	.string "to unfold.\p"
-	.string "Take courage, and leap into the\n"
-	.string "world of POKéMON where dreams,\l"
-	.string "adventure, and friendships await!\p"
-	.string "Well, I'll be expecting you later.\n"
-	.string "Come see me in my POKéMON LAB.\p"
+	.string "好，准备好了吗？\p"
+	.string "只属于你的冒险即将展开！\p"
+	.string "鼓起勇气，迈进充满梦想、冒险与邂\n"
+	.string "逅的宝可梦世界吧！\p"
+	.string "之后在研究所见吧！我在那里等着你\n"
+	.string "！\p"
 	.string "$"

@@ -1388,10 +1388,8 @@ SootopolisCity_Movement_DestroyTask::
 	step_end
 
 SootopolisCity_Text_GymSign:
-	.string "SOOTOPOLIS CITY POKéMON GYM\n"
-	.string "LEADER: JUAN\p"
-	.string "“The GYM LEADER with the beauty\n"
-	.string "of pure water!”$"
+	.string "琉璃市宝可梦道馆馆主：亚当\p"
+	.string "“娇艳欲滴的道馆馆主！”$"
 
 SootopolisCity_Text_CitySign:
 	.string "SOOTOPOLIS CITY\p"
@@ -1399,311 +1397,276 @@ SootopolisCity_Text_CitySign:
 	.string "slumbers.”$"
 
 SootopolisCity_Text_DoorIsClosed:
-	.string "The door is closed.$"
+	.string "这扇门上着锁。$"
 
 SootopolisCity_Text_PhysicallyFitLivingHere:
-	.string "Diving in the sea. Climbing up and\n"
-	.string "down stairs all the time…\p"
-	.string "If you live in this town, you end up\n"
-	.string "getting physically fit.$"
+	.string "在大海中潜水，上上下下不停地爬楼\n"
+	.string "梯……\p"
+	.string "如果你住在这个城镇，你一定能保持\n"
+	.string "健康的。$"
 
 SootopolisCity_Text_GiantPokemonSuddenlyAppeared:
-	.string "These giant POKéMON suddenly appeared\n"
-	.string "in the middle of the city!\p"
-	.string "And, I've never seen them before!\p"
-	.string "Why are they smashing into each\n"
-	.string "other like that?\p"
-	.string "Why can't they be friends, those\n"
-	.string "POKéMON?$"
+	.string "那两只巨大的宝可梦突然出现在城市\n"
+	.string "中央！\p"
+	.string "我从没见过它们！\p"
+	.string "它们为什么打得那么激烈？\p"
+	.string "那两只宝可梦就不能做好朋友吗？$"
 
 SootopolisCity_Text_WhatIsThatGreenPokemon:
-	.string "What? What? What?\n"
-	.string "What is that green POKéMON?!$"
+	.string "什么？什么？什么？那只绿色的宝可\n"
+	.string "梦是什么？！$"
 
 SootopolisCity_Text_WhereDidLegendariesGo:
-	.string "GROUDON and KYOGRE…\n"
-	.string "Where did they go?\p"
-	.string "Will they cause droughts or downpours\n"
-	.string "somewhere else?$"
+	.string "固拉多和盖欧卡……它们去哪儿了？\p"
+	.string "它们会在其他地方引发干旱或洪水吗\n"
+	.string "？$"
 
 SootopolisCity_Text_TwoPokemonArentAngry:
-	.string "I just get this sense somehow that\n"
-	.string "the two POKéMON aren't angry.\p"
-	.string "I think… They probably can't control\n"
-	.string "their own power…$"
+	.string "不知怎么，我感觉那两只宝可梦并没\n"
+	.string "有发怒。\p"
+	.string "我想……它们只是控制不了自己的力\n"
+	.string "量……$"
 
 SootopolisCity_Text_FlyingMonStoppedRampage:
-	.string "That flying POKéMON came down from\n"
-	.string "the sky and stopped the rampaging\l"
-	.string "POKéMON…$"
+	.string "那只飞行的宝可梦从空中降临，平息\n"
+	.string "了那两只宝可梦的怒火……$"
 
 SootopolisCity_Text_WonderWhatWorldIsLike:
-	.string "I… I've never been out of this city.\p"
-	.string "I wonder what the world is like on\n"
-	.string "the other side of this round sky?$"
+	.string "我……我从未离开过这座城。\p"
+	.string "不知这圆椭的天空的另一端会有什么\n"
+	.string "呢？$"
 
 SootopolisCity_Text_ThisIsWicked:
-	.string "Wow!\n"
-	.string "This is wicked!$"
+	.string "哇！这太炸裂了！$"
 
 SootopolisCity_Text_ThatWasWicked:
-	.string "Wow!\n"
-	.string "That was wicked!$"
+	.string "哇！那也太炸裂了！$"
 
 SootopolisCity_Text_GoRedAndBlueMon:
-	.string "Go for it, red POKéMON!\n"
-	.string "Don't back off, blue POKéMON!$"
+	.string "加油，红色宝可梦！别认输，蓝色宝\n"
+	.string "可梦！$"
 
 SootopolisCity_Text_DoYouKnowMonNames:
-	.string "… … … … … …\p"
-	.string "Hi, do you know the names of those\n"
-	.string "POKéMON fighting over there?$"
+	.string "…… …… ……\p"
+	.string "喂，你知道那边战斗的两只宝可梦叫\n"
+	.string "什么吗？$"
 
 SootopolisCity_Text_GreenOneSettlesThings:
-	.string "I was wondering which one would win,\n"
-	.string "the red one or the blue one, but, oh no,\l"
-	.string "it's the green one that settles things!\p"
-	.string "Talk about a huge turn of events!$"
+	.string "我一直在猜测是红色的还是蓝色的会\n"
+	.string "赢，但是！奇迹啊！是绿色的平息了\l"
+	.string "一切！\p"
+	.string "事件出现了大逆转！$"
 
 SootopolisCity_Text_SeeingLegendWithOwnEyes:
-	.string "There's an ancient legend that claims\n"
-	.string "the land and sea were shaped by\l"
-	.string "a colossal battle between POKéMON.\p"
-	.string "Well, I'm seeing that happen with\n"
-	.string "my very own eyes!\p"
-	.string "Whoa! I never expected to be\n"
-	.string "witness to something this huge!$"
+	.string "在古老的传说中，大地和海洋是因宝\n"
+	.string "可梦间的一场大战而形成的。\p"
+	.string "现在，我亲眼见证着这个传说的发生\n"
+	.string "！\p"
+	.string "哇！我从没想过我能见证这么大的事\n"
+	.string "件！$"
 
 SootopolisCity_Text_SawLegendWithOwnEyes:
-	.string "There's an ancient legend that claims\n"
-	.string "the land and sea were shaped by\l"
-	.string "a colossal battle between POKéMON.\p"
-	.string "Well, I saw that happen with\n"
-	.string "my very own eyes!\p"
-	.string "Whoa! I never expected to be\n"
-	.string "witness to something this huge!$"
+	.string "在古老的传说中，大地和海洋是因宝\n"
+	.string "可梦间的一场大战而形成的。\p"
+	.string "现在，我亲眼见证了这个传说的发生\n"
+	.string "！\p"
+	.string "哇！我从没想过我能见证这么大的事\n"
+	.string "件！$"
 
 SootopolisCity_Text_BigPokemonFighting:
-	.string "A big POKéMON is fighting with\n"
-	.string "another big POKéMON!\p"
-	.string "Please, someone make them stop!$"
+	.string "一只巨大的宝可梦正在和另一只巨大\n"
+	.string "的宝可梦战斗！\p"
+	.string "拜托了！谁去阻止它们吧！$"
 
 SootopolisCity_Text_PrettyMonCameFromSky:
-	.string "A pretty POKéMON came down from\n"
-	.string "the sky…$"
+	.string "一只美丽的宝可梦自空中降临……$"
 
 SootopolisCity_Text_SootopolisWillBeWrecked:
-	.string "Oh, no!\n"
-	.string "SOOTOPOLIS CITY will get wrecked!$"
+	.string "哦，不！琉璃市会被毁灭的！$"
 
 SootopolisCity_Text_SootopolisDidntGetWrecked:
-	.string "SOOTOPOLIS CITY didn't get wrecked!$"
+	.string "琉璃市没有被毁灭！$"
 
 SootopolisCity_Text_NoOrdinaryTourist:
-	.string "Hm!\n"
-	.string "You've come all the way to SOOTOPOLIS?\l"
-	.string "You're no ordinary tourist.\p"
-	.string "But I suppose that doesn't make you\n"
-	.string "an extraordinary tourist, either.$"
+	.string "嗯？你是一路来到琉璃市？看来你并\n"
+	.string "不是个寻常的旅行者，\p"
+	.string "但我想这也不会让你成为一个不寻常\n"
+	.string "的旅行者。$"
 
 SootopolisCity_Text_CityRegainedCalm:
-	.string "The city has regained its calm…$"
+	.string "城市又恢复了平静……$"
 
 SootopolisCity_Text_CaveOfOriginPleaseLeave:
-	.string "Who might you be?\p"
-	.string "This is the CAVE OF ORIGIN.\p"
-	.string "The spirits of POKéMON, becalmed at\n"
-	.string "MT. PYRE, are said to be revived here.\p"
-	.string "Please leave.$"
+	.string "你是什么人？\p"
+	.string "这里是觉醒神殿。\p"
+	.string "据说在送神山沉睡的宝可梦会在此重\n"
+	.string "生。\p"
+	.string "请你离开吧。$"
 
 SootopolisCity_Text_LeadSuperiorTrainerToCave:
-	.string "A person with a strong will and\n"
-	.string "superior talent…\p"
-	.string "A TRAINER who has knowledge and\n"
-	.string "experience of many kinds of POKéMON…\p"
-	.string "If such a person were to appear, I was\n"
-	.string "instructed by WALLACE to lead that\l"
-	.string "TRAINER to this CAVE.$"
+	.string "米可利告诉我，当一个拥有着坚定的\n"
+	.string "意志\p"
+	.string "与非凡的天赋的人，一个了解多种\p"
+	.string "宝可梦的训练家出现时……我将带他\n"
+	.string "进入神殿。$"
 
 SootopolisCity_Text_AwakenedPokemonClash:
-	.string "Oh, my…\p"
-	.string "The clash between the two awakened\n"
-	.string "POKéMON was quelled by the awakening\l"
-	.string "of a third POKéMON…$"
+	.string "哦，偶滴天……\p"
+	.string "两只觉醒的宝可梦的争斗被第三只觉\n"
+	.string "醒的宝可梦平息了……$"
 
 SootopolisCity_Text_CaveOfOriginSleepsToo:
-	.string "This is the CAVE OF ORIGIN…\p"
-	.string "With the passing of the crisis,\n"
-	.string "the cave, too, shall sleep…$"
+	.string "这里是觉醒神殿……\p"
+	.string "现在危机过去了，这里也该沉睡了…\n"
+	.string "…$"
 
 SootopolisCity_Text_SootopolisSkyBeautiful:
-	.string "SOOTOPOLIS sprang up as a town in\n"
-	.string "the crater of a volcano.\p"
-	.string "If you look up at the sky, the lip of\n"
-	.string "the crater is also visible.\l"
-	.string "So, all you see is the sky in a circle.\p"
-	.string "But that's what makes the sky above\n"
-	.string "SOOTOPOLIS the most beautiful.$"
+	.string "琉璃市是在火山口中建起的城市。\p"
+	.string "只要你抬头望天，你就能看到火山的\n"
+	.string "顶端。瞧，你看到头顶上的圆形天空\l"
+	.string "了吗？\p"
+	.string "不过正因如此，琉璃市的天空才如此\n"
+	.string "美丽。$"
 
 SootopolisCity_Text_GiganticPokemonFight:
-	.string "When two POKéMON that gigantic\n"
-	.string "are fighting that savagely, there's\l"
-	.string "not much that we can do.$"
+	.string "当那两只巨大的宝可梦战斗时，我们\n"
+	.string "只能眼睁睁地看着。$"
 
 SootopolisCity_Text_FearedWorstWhenPokemonFlewDown:
-	.string "When that third POKéMON flew down,\n"
-	.string "I feared the worst.$"
+	.string "当第三只宝可梦飞来时，我觉得好像\n"
+	.string "世界末日到了。$"
 
 SootopolisCity_Text_NightSkyFavoriteScenery:
-	.string "A circle of a night sky framed by\n"
-	.string "the crater of a volcano…\p"
-	.string "And in that ring, stars flicker and\n"
-	.string "blink as if they were alive…\l"
-	.string "It's my favorite scenery.$"
+	.string "火山口框出了一块圆圆的夜空……\p"
+	.string "星星仿佛具有生命一般，在其中闪烁\n"
+	.string "明灭……这是我最喜欢的景色。$"
 
 SootopolisCity_Text_WeatherWentWild:
-	.string "The weather was clear this morning,\n"
-	.string "but…\p"
-	.string "All of a sudden, dark clouds brewed up,\n"
-	.string "rain started falling in sheets, and\l"
-	.string "there was thunder and lightning, too.\p"
-	.string "The weather just went completely\n"
-	.string "wild!\p"
-	.string "Is all of this because of those\n"
-	.string "POKéMON?$"
+	.string "今天早上天空十分晴朗，但是……\p"
+	.string "突然间，乌云群聚，暴雨倾盆而下，\n"
+	.string "还伴着电闪雷鸣。\p"
+	.string "原先晴朗的明日转瞬之间就变成了暴\n"
+	.string "风雨！\p"
+	.string "这一切都是因为那两只宝可梦吗？$"
 
 SootopolisCity_Text_YouBroughtFlyingMon:
-	.string "Oh?\p"
-	.string "It was you who brought that flying\n"
-	.string "POKéMON here?\p"
-	.string "Well, aren't you amazing!$"
+	.string "哦？\p"
+	.string "是你把天空中的那只宝可梦召来的？\p"
+	.string "哇，你好厉害耶！$"
 
 SootopolisCity_Text_GroudonPleaseStop:
-	.string "MAXIE: G… GROUDON…\n"
-	.string "Please! Stop what you're doing!\p"
-	.string "I know the extent of your power now!\p"
-	.string "If you keep going, all HOENN, not just\n"
-	.string "SOOTOPOLIS, will be utterly ruined!$"
+	.string "赤焰松：固……固拉多……求求你住\n"
+	.string "手！\p"
+	.string "我见识到你的强大力量了！\p"
+	.string "再这样下去的话，不只是琉璃市，整\n"
+	.string "个丰缘地区都会被毁灭的！$"
 
 SootopolisCity_Text_AfterAllOurScheming:
-	.string "MAXIE: So the super-ancient POKéMON\n"
-	.string "weren't only GROUDON and KYOGRE…\p"
-	.string "After all our fruitless scheming and\n"
-	.string "frantic efforts, that one POKéMON's\l"
-	.string "simple action puts everything right\l"
-	.string "again as if nothing had happened…\p"
-	.string "Fu…\n"
-	.string "Fuhahaha…$"
+	.string "赤焰松：原来超古代宝可梦不止固拉\n"
+	.string "多和盖欧卡……\p"
+	.string "我们费尽心机，拼命挣扎也徒劳无功\n"
+	.string "，而那只宝可梦轻描淡写地就让一切\l"
+	.string "都重回正轨，仿佛什么都不曾发生…\l"
+	.string "…\p"
+	.string "呵……呵～哈哈哈哈……$"
 
 SootopolisCity_Text_KyogreCalmDown:
-	.string "ARCHIE: KYOGRE! What's wrong?!\n"
-	.string "Look over here! It's the RED ORB!\l"
-	.string "Calm down! KYOGRE!\p"
-	.string "… … … … … …\n"
-	.string "… … … … … …\p"
-	.string "It's no good!\n"
-	.string "It's not responding at all!$"
+	.string "水梧桐：盖欧卡！怎么了？！看这里\n"
+	.string "！朱红色宝珠！冷静下来！盖欧卡！\p"
+	.string "…… …… ……\n"
+	.string "…… …… ……\p"
+	.string "不行……一点反应也没有！$"
 
 SootopolisCity_Text_TryingMeaninglessToPokemon:
-	.string "ARCHIE: KYOGRE and GROUDON both\n"
-	.string "flew off to who knows where.\p"
-	.string "The weather in HOENN has returned\n"
-	.string "to its normal state…\p"
-	.string "Haha…\n"
-	.string "Hahaha…\p"
-	.string "Maybe what we were trying to do was\n"
-	.string "something small, even meaningless,\l"
-	.string "to POKéMON…$"
+	.string "水梧桐：盖欧卡和固拉多都消失得无\n"
+	.string "影无踪，\p"
+	.string "丰缘地区的天气也已经恢复正常了…\n"
+	.string "…\p"
+	.string "哈哈……哈哈哈……\p"
+	.string "也许我们拼命追求的一切对宝可梦而\n"
+	.string "言什么都不算，根本渺小得不值一提\l"
+	.string "……$"
 
 SootopolisCity_Text_InvolvedWithCrisisComeWithMe:
-	.string "STEVEN: Those POKéMON fighting…\n"
-	.string "GROUDON… And KYOGRE…\p"
-	.string "The two super-ancient POKéMON\n"
-	.string "were awakened from a long sleep…\p"
-	.string "And now they are smashing each other\n"
-	.string "with their uncontrollable energy…\p"
-	.string "…{PLAYER}{KUN}.\p"
-	.string "You being here now I'll take to mean\n"
-	.string "that you're prepared to become\l"
-	.string "involved in this crisis.\p"
-	.string "Well, then, there's someone that\n"
-	.string "I'd like you to meet.\p"
-	.string "Come with me, please.$"
+	.string "大吾：那两只战斗的宝可梦……固拉\n"
+	.string "多……还有盖欧卡……\p"
+	.string "那两只超古代宝可梦从长眠中觉醒…\n"
+	.string "…\p"
+	.string "现在正宣泄着它们那失控的能量互相\n"
+	.string "攻击……\p"
+	.string "……{PLAYER}{KUN}。\p"
+	.string "我想你既然来到这里，应该已经有了\n"
+	.string "被卷入这次危机的觉悟了。\p"
+	.string "那么，我有个人想让你见见。\p"
+	.string "跟我来吧。$"
 
 SootopolisCity_Text_DoesThisMakeYourFearPokemon:
-	.string "STEVEN: Listen, {PLAYER}{KUN}.\p"
-	.string "Does seeing GROUDON and KYOGRE make\n"
-	.string "you think POKéMON are to be feared?\p"
-	.string "But that's not true.\n"
-	.string "POKéMON are really more…\p"
-	.string "…Why am I asking you this?\n"
-	.string "You already know.$"
+	.string "大吾：听着，{PLAYER}\n"
+	.string "{KUN}。\p"
+	.string "看到固拉多和盖欧卡，让你觉得宝可\n"
+	.string "梦很可怕吗？\p"
+	.string "但事实绝非如此，宝可梦其实是更…\n"
+	.string "…\p"
+	.string "……我何必多此一问？你早就心中有\n"
+	.string "数了。$"
 
 SootopolisCity_Text_HereWereAreHelpWallace:
-	.string "STEVEN: Okay, here we are!\p"
-	.string "Inside here you'll find someone named\n"
-	.string "WALLACE.\p"
-	.string "I think you have what's needed to\n"
-	.string "help him…$"
+	.string "大吾：到了！\p"
+	.string "在这里面你能找到一个叫米可利的人\n"
+	.string "，\p"
+	.string "我相信你一定能成为他的助力……$"
 
 SootopolisCity_Text_KnowWhatsNeededToHelpHim:
-	.string "STEVEN: I think you have what's\n"
-	.string "needed to help him…$"
+	.string "大吾：我相信你一定能成为他的助力\n"
+	.string "……$"
 
 SootopolisCity_Text_NeverBeenToSkyPillar:
-	.string "STEVEN: The SKY PILLAR…\p"
-	.string "I've never been there.\n"
-	.string "I wonder where it could be?$"
+	.string "大吾：天空之柱……\p"
+	.string "我从未去过，它究竟在哪里呢？$"
 
 SootopolisCity_Text_SoThatsRayquaza:
-	.string "STEVEN: So that's RAYQUAZA…\p"
-	.string "It's incredible how the two rampaging\n"
-	.string "POKéMON would flee from it in fear…$"
+	.string "大吾：原来这就是烈空坐……\p"
+	.string "难以置信，居然让那两只宝可梦畏惧\n"
+	.string "地逃离了……$"
 
 SootopolisCity_Text_MaxieArchieLeft:
-	.string "STEVEN: It looks like both MAXIE and\n"
-	.string "ARCHIE have gone away somewhere.\p"
-	.string "Perhaps they've gone to MT. PYRE to\n"
-	.string "return those ORBS…$"
+	.string "大吾：看来赤焰松和水梧桐都离开了\n"
+	.string "。\p"
+	.string "也许他们是去送神山归还那些宝珠了\n"
+	.string "……$"
 
 SootopolisCity_Text_HaventYouScaledSkyPillar:
-	.string "WALLACE: Oh?\n"
-	.string "{PLAYER}{KUN}?\p"
-	.string "Haven't you scaled the SKY PILLAR\n"
-	.string "yet?\p"
-	.string "I'm sure that you can make it to\n"
-	.string "the top of the SKY PILLAR…$"
+	.string "米可利：哦？{PLAYER}\n"
+	.string "{KUN}？\p"
+	.string "你还没登上天空之柱吗？\p"
+	.string "我相信以你的能力一定能够抵达天空\n"
+	.string "之柱的顶端……$"
 
 SootopolisCity_Text_AquaMagmaDidntMeanHarm:
-	.string "WALLACE: {PLAYER}{KUN}…\p"
-	.string "The leaders of TEAM MAGMA and AQUA,\n"
-	.string "I don't think they meant harm.\p"
-	.string "It wouldn't hurt to hear what they\n"
-	.string "have to say for themselves.$"
+	.string "米可利：{PLAYER}\n"
+	.string "{KUN}……\p"
+	.string "熔岩队和海洋队的首领，我想造成灾\n"
+	.string "难并非他们的本意，\p"
+	.string "听听看他们的辩解或许也无妨。$"
 
 SootopolisCity_Text_ThankYouForHelpAcceptThis:
-	.string "WALLACE: {PLAYER}{KUN}…\n"
-	.string "My eyes didn't deceive me.\p"
-	.string "Thanks to your help, SOOTOPOLIS…\n"
-	.string "No, all of HOENN was saved.\p"
-	.string "On behalf of the people, I thank you.\p"
-	.string "This is a gift from me.\n"
-	.string "Please accept it.$"
+	.string "米可利：{PLAYER}\n"
+	.string "{KUN}……我的眼光果然没错。\p"
+	.string "多亏了你的努力，琉璃市……不，整\n"
+	.string "个丰缘地区都得救了。\p"
+	.string "我代表所有人向你致谢。\p"
+	.string "这是我的谢礼，请你收下它。$"
 
 SootopolisCity_Text_ExplainWaterfallGoToGym:
-	.string "That HIDDEN MACHINE contains\n"
-	.string "WATERFALL.\p"
-	.string "If you have the RAIN BADGE, a POKéMON\n"
-	.string "that has learned that HM move can\l"
-	.string "force its way up waterfalls.\p"
-	.string "And where does one get the RAIN BADGE?\n"
-	.string "You know, don't you?\p"
-	.string "That's right! You have to beat\n"
-	.string "the SOOTOPOLIS GYM LEADER.\p"
-	.string "When you're all set to go, step through\n"
-	.string "that door.$"
+	.string "这个秘传学习器的内容是攀瀑。\p"
+	.string "如果你有雨滴徽章的话，学会这个秘\n"
+	.string "传招式的宝可梦就能爬上瀑布。\p"
+	.string "至于哪儿能得到雨滴徽章，你应该很\n"
+	.string "清楚吧？\p"
+	.string "没错！你要打败琉璃市道馆馆主。\p"
+	.string "如果你准备好了的话，就进入到那扇\n"
+	.string "门里去吧。$"
 
 SootopolisCity_Text_DazzledByMentor:
-	.string "WALLACE: I'm sure that you will be\n"
-	.string "dazzled by my mentor's breathtakingly\l"
-	.string "elegant battle style.$"
+	.string "米可利：我想你会由衷地赞叹老师那\n"
+	.string "令人目眩神驰的对战技巧的。$"

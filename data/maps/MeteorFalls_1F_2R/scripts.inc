@@ -61,123 +61,110 @@ MeteorFalls_1F_2R_EventScript_RematchJay::
 	end
 
 MeteorFalls_1F_2R_Text_NicolasIntro:
-	.string "This is where we DRAGON users do our\n"
-	.string "training.\p"
-	.string "The CHAMPION even visits.\n"
-	.string "Now do you see how special it is here?$"
+	.string "这里是我们龙使者训练的地方。\p"
+	.string "冠军也来过。你看得出这里有什么特\n"
+	.string "别吗？$"
 
 MeteorFalls_1F_2R_Text_NicolasDefeat:
-	.string "Urgh!\n"
-	.string "I didn't expect you to be so strong!$"
+	.string "呃！没想到你那么强！$"
 
 MeteorFalls_1F_2R_Text_NicolasPostBattle:
-	.string "The road ahead remains long and harsh.\p"
-	.string "When will my POKéMON and I become\n"
-	.string "the best?$"
+	.string "前方的路还很曲折。\p"
+	.string "何时我和我的宝可梦会成为最强？$"
 
 MeteorFalls_1F_2R_Text_NicolasRegister:
-	.string "I want to know more about your power.\n"
-	.string "Let me register you in my POKéNAV.$"
+	.string "我想更多了解你的力量。把你登记到\n"
+	.string "宝可导航里吧。$"
 
 MeteorFalls_1F_2R_Text_NicolasRematchIntro:
-	.string "Since we met, we have trained hard\n"
-	.string "with our sights on number one.\p"
-	.string "Help us see how much stronger we've\n"
-	.string "become!$"
+	.string "自从上次相遇，我们一直为第一的目\n"
+	.string "标而努力训练。\p"
+	.string "帮忙见识一下我们成长得有多强大吧\n"
+	.string "！$"
 
 MeteorFalls_1F_2R_Text_NicolasRematchDefeat:
-	.string "Urgh!\n"
-	.string "I didn't expect you to be so strong!$"
+	.string "呃！没想到你那么强！$"
 
 MeteorFalls_1F_2R_Text_NicolasPostRematch:
-	.string "You've obviously kept up your\n"
-	.string "POKéMON training.\p"
-	.string "So long as you remain strong, I, too,\n"
-	.string "can become stronger!$"
+	.string "很显然你和宝可梦一直都在锻炼。\p"
+	.string "只要你变强，我也会变得更强！$"
 
 MeteorFalls_1F_2R_Text_JohnIntro:
-	.string "JOHN: We've always battled POKéMON\n"
-	.string "together as a twosome.\l"
-	.string "We've confidence in ourselves.$"
+	.string "源：我们一直是两人一起战斗的。我\n"
+	.string "们对自己充满信心。$"
 
 MeteorFalls_1F_2R_Text_JohnDefeat:
-	.string "JOHN: Oh, my.\n"
-	.string "We've lost, dear wife.$"
+	.string "源：哦，天。我们输了，亲爱的老婆\n"
+	.string "。$"
 
 MeteorFalls_1F_2R_Text_JohnPostBattle:
-	.string "JOHN: We've been married for\n"
-	.string "fifty years.\p"
-	.string "Come to think of it, I've yet to beat\n"
-	.string "my dear wife in a battle.$"
+	.string "源：我们结婚50年了。\p"
+	.string "想想看，我都没有击败过我亲爱的老\n"
+	.string "婆。$"
 
 MeteorFalls_1F_2R_Text_JohnNotEnoughMons:
-	.string "JOHN: Well, well, what a young TRAINER!\p"
-	.string "Will you battle with us? If so, you'll\n"
-	.string "have to return with more POKéMON.$"
+	.string "源：多么年轻的训练家！\p"
+	.string "想和我们对战吗？想的话就带来更多\n"
+	.string "的宝可梦。$"
 
 MeteorFalls_1F_2R_Text_JohnRegister:
-	.string "JOHN: Young TRAINER, if the chance\n"
-	.string "arises, will you battle with us again?$"
+	.string "源：年轻的训练家，如果有机会的话\n"
+	.string "，你还会和我们对战吗？$"
 
 MeteorFalls_1F_2R_Text_JayIntro:
-	.string "JAY: We've been married for\n"
-	.string "fifty years.\p"
-	.string "The bond we share as a couple could\n"
-	.string "never be broken.$"
+	.string "初：我们结婚50年了。\p"
+	.string "我们作为夫妻的牵绊永远不会解除。$"
 
 MeteorFalls_1F_2R_Text_JayDefeat:
-	.string "JAY: Oh, dear.\n"
-	.string "We've lost, my dear husband.$"
+	.string "初：哦，亲爱的。我们输了，我亲爱\n"
+	.string "的老公。$"
 
 MeteorFalls_1F_2R_Text_JayPostBattle:
-	.string "JAY: Fifty years of marriage…\p"
-	.string "If we ever argued, we always settled\n"
-	.string "it with a POKéMON battle…$"
+	.string "初：结婚50年了……\p"
+	.string "每当我们吵架，我们都是通过宝可梦\n"
+	.string "对战来解决……$"
 
 MeteorFalls_1F_2R_Text_JayNotEnoughMons:
-	.string "JAY: Well, well, aren't you a young\n"
-	.string "TRAINER?\p"
-	.string "If you'd care to battle with us, you'll\n"
-	.string "have to come back with more POKéMON.$"
+	.string "初：好啦，好啦，你难道不是年轻的\n"
+	.string "训练家？\p"
+	.string "如果你想和我们对战，就得拿来更多\n"
+	.string "的宝可梦。$"
 
 MeteorFalls_1F_2R_Text_JohnRematchIntro:
-	.string "JOHN: We've always battled POKéMON\n"
-	.string "together as a twosome.\l"
-	.string "We've confidence in ourselves.$"
+	.string "源：我们一直是两人一起战斗的。我\n"
+	.string "们对自己充满信心。$"
 
 MeteorFalls_1F_2R_Text_JohnRematchDefeat:
-	.string "JOHN: Oh, my.\n"
-	.string "We've lost, dear wife.$"
+	.string "源：天啊。我们输了，亲爱的老婆。$"
 
 MeteorFalls_1F_2R_Text_JohnPostRematch:
-	.string "JOHN: Married for fifty years…\p"
-	.string "On reflection, the dear wife and I,\n"
-	.string "we battled day in and day out…$"
+	.string "源：结婚50年了……\p"
+	.string "仔细想想，我和亲爱的老婆每天都是\n"
+	.string "在战斗的……$"
 
 MeteorFalls_1F_2R_Text_JohnRematchNotEnoughMons:
-	.string "JOHN: Well, well, what a young TRAINER!\p"
-	.string "Will you battle with us? If so, you'll\n"
-	.string "have to return with more POKéMON.$"
+	.string "源：多么年轻的训练家！\p"
+	.string "想和我们战斗吗？想的话就带来更多\n"
+	.string "的宝可梦。$"
 
 MeteorFalls_1F_2R_Text_JayRematchIntro:
-	.string "JAY: We've been married for\n"
-	.string "fifty years.\p"
-	.string "We've supported each other all that\n"
-	.string "time. We've made ourselves strong.$"
+	.string "初：我们结婚50年了。\p"
+	.string "我们一直互相支持我们会让自己变得\n"
+	.string "更强。$"
 
 MeteorFalls_1F_2R_Text_JayRematchDefeat:
-	.string "JAY: Oh, dear.\n"
-	.string "We've lost, my dear husband.$"
+	.string "初：哦，亲爱的。我们输了，我亲爱\n"
+	.string "的老公。$"
 
 MeteorFalls_1F_2R_Text_JayPostRematch:
-	.string "JAY: Fifty years of marriage…\n"
-	.string "Many things have happened.\p"
-	.string "I hope that we will continue to make\n"
-	.string "happy memories together.$"
+	.string "初：结婚50年了……发生过太多事\n"
+	.string "。\p"
+	.string "我希望我们可以继续一起创造快乐的\n"
+	.string "记忆。$"
 
 MeteorFalls_1F_2R_Text_JayRematchNotEnoughMons:
-	.string "JAY: Well, well, aren't you a young\n"
-	.string "TRAINER?\p"
-	.string "If you'd care to battle with us, you'll\n"
-	.string "have to come back with more POKéMON.$"
+	.string "初：好啦，好啦，你难道不是年轻的\n"
+	.string "训练家？\p"
+	.string "如果你想和我们战斗，就得拿来更多\n"
+	.string "的宝可梦。$"
 

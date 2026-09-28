@@ -42,97 +42,84 @@ RockTunnel_B1F_EventScript_Winston::
 	end
 
 RockTunnel_B1F_Text_SofiaIntro::
-	.string "Do you know how you can avoid\n"
-	.string "getting lost in the mountains?\p"
-	.string "You can bend twigs as trail\n"
-	.string "markers.$"
+	.string "你知道怎样避免在深山里迷路么？\p"
+	.string "你可以折断树枝作为路标。$"
 
 RockTunnel_B1F_Text_SofiaDefeat::
-	.string "Ohhh!\n"
-	.string "I did my best!$"
+	.string "哦哦哦！我尽力了！$"
 
 RockTunnel_B1F_Text_SofiaPostBattle::
-	.string "I want to go home!$"
+	.string "我想回家！$"
 
 RockTunnel_B1F_Text_DudleyIntro::
-	.string "Hahaha!\n"
-	.string "Can you beat my power?$"
+	.string "哈哈哈！你能战胜我么？$"
 
 RockTunnel_B1F_Text_DudleyDefeat::
-	.string "Oops!\n"
-	.string "Outmuscled!$"
+	.string "诶呀！你竟然比我强！$"
 
 RockTunnel_B1F_Text_DudleyPostBattle::
-	.string "I go for power because I hate\n"
-	.string "thinking.$"
+	.string "我只追求力量，因为我懒得思考！$"
 
 RockTunnel_B1F_Text_CooperIntro::
-	.string "You have a POKéDEX?\n"
-	.string "I want one, too.$"
+	.string "你有宝可梦图鉴？我也想要一个。$"
 
 RockTunnel_B1F_Text_CooperDefeat::
-	.string "Shoot!\n"
-	.string "I am so jealous!$"
+	.string "可恶啊！真嫉妒你啊！$"
 
 RockTunnel_B1F_Text_CooperPostBattle::
-	.string "When you finish your POKéDEX,\n"
-	.string "can I have it?$"
+	.string "当你完成了你的宝可梦图鉴，可以把\n"
+	.string "它送给我吗？$"
 
 RockTunnel_B1F_Text_SteveIntro::
-	.string "Um… Do you know about POKéMON\n"
-	.string "cosplay?$"
+	.string "嗯…你了解宝可梦cosplay吗\n"
+	.string "？$"
 
 RockTunnel_B1F_Text_SteveDefeat::
-	.string "Well, that's that.$"
+	.string "好吧，就这样吧。$"
 
 RockTunnel_B1F_Text_StevePostBattle::
-	.string "POKéMON cosplay is dressing up as\n"
-	.string "POKéMON for fun.\p"
-	.string "CLEFAIRY is a favorite.$"
+	.string "所谓cosplay宝可梦，就是为\n"
+	.string "了好玩打扮成宝可梦的样子！\p"
+	.string "我最喜欢扮成皮皮了。$"
 
 RockTunnel_B1F_Text_AllenIntro::
-	.string "My POKéMON techniques will leave\n"
-	.string "you crying!$"
+	.string "我的宝可梦技能，会把你打到哭！$"
 
 RockTunnel_B1F_Text_AllenDefeat::
-	.string "I give!\n"
-	.string "You're a better technician!$"
+	.string "我投降！你是一个更好的技术员！$"
 
 RockTunnel_B1F_Text_AllenPostBattle::
-	.string "In mountains, you'll often find\n"
-	.string "ROCK-type POKéMON.$"
+	.string "在山里，你经常会遇到岩石属性的宝\n"
+	.string "可梦。$"
 
 RockTunnel_B1F_Text_MarthaIntro::
-	.string "I don't often come here, but I will\n"
-	.string "battle you.$"
+	.string "虽然我不经常来这儿，但我还是要和\n"
+	.string "你打一场。$"
 
 RockTunnel_B1F_Text_MarthaDefeat::
-	.string "Oh!\n"
-	.string "I lost!$"
+	.string "啊！我输了！$"
 
 RockTunnel_B1F_Text_MarthaPostBattle::
-	.string "I like tiny POKéMON.\n"
-	.string "Big ones are too scary!$"
+	.string "我喜欢小小的宝可梦。大的实在是太\n"
+	.string "吓人了！$"
 
 RockTunnel_B1F_Text_EricIntro::
-	.string "Hit me with your best shot!$"
+	.string "尽你所能打中我！$"
 
 RockTunnel_B1F_Text_EricDefeat::
-	.string "Fired away!$"
+	.string "开火！$"
 
 RockTunnel_B1F_Text_EricPostBattle::
-	.string "I'll raise my POKéMON to beat\n"
-	.string "yours, kid.$"
+	.string "小子，我会培育我自己的宝可梦来打\n"
+	.string "败你的！$"
 
 RockTunnel_B1F_Text_WinstonIntro::
-	.string "I draw illustrations of POKéMON\n"
-	.string "when I'm home.$"
+	.string "我在家里的时候，给宝可梦画插画。$"
 
 RockTunnel_B1F_Text_WinstonDefeat::
-	.string "Whew…\n"
-	.string "I'm exhausted…$"
+	.string "呼呼…累死了…$"
 
 RockTunnel_B1F_Text_WinstonPostBattle::
-	.string "I'm an artist, not a fighter.\n"
-	.string "I'll go home to draw.$"
+	.string "我是一名画师，不是战士。我要回家\n"
+	.string "画画去了。$"
 

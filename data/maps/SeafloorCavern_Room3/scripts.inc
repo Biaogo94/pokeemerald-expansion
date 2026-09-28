@@ -12,47 +12,39 @@ SeafloorCavern_Room3_EventScript_Grunt5::
 	end
 
 SeafloorCavern_Room3_Text_ShellyIntro:
-	.string "Ahahahaha!\p"
-	.string "How did you manage to get here without\n"
-	.string "a submarine?\l"
-	.string "What an impressive child!\p"
-	.string "But… It won't do to have you\n"
-	.string "meddling about here.\p"
-	.string "And, I do want payback for what\n"
-	.string "happened at the WEATHER INSTITUTE…\p"
-	.string "I'm going to give you a little taste\n"
-	.string "of pain! Resign yourself to it!$"
+	.string "啊哈哈哈！\p"
+	.string "没有潜水艇你是怎么追到这儿的？真\n"
+	.string "是了不起的小家伙！\p"
+	.string "不过……我可不会让你继续捣乱了，\p"
+	.string "而且，天气研究所的账也该好好算算\n"
+	.string "了……\p"
+	.string "让你尝尝苦头吧！觉悟吧！$"
 
 SeafloorCavern_Room3_Text_ShellyDefeat:
-	.string "Ahahahaha!\p"
-	.string "Ouch!$"
+	.string "啊哈哈哈！\p"
+	.string "好痛！$"
 
 SeafloorCavern_Room3_Text_ShellyPostBattle:
-	.string "Ahahahaha!\n"
-	.string "You're so darn strong.\p"
-	.string "It's terribly disappointing that you're\n"
-	.string "not a TEAM AQUA member.\p"
-	.string "You could have enjoyed the fabulous\n"
-	.string "world our BOSS has promised as\l"
-	.string "one of us…$"
+	.string "啊哈哈哈！强得离谱啊你。\p"
+	.string "你不是海洋队的一员实在太遗憾了。\p"
+	.string "本来你也能一起见证老大向我们承诺\n"
+	.string "的那个美妙新世界的……$"
 
 SeafloorCavern_Room3_Text_Grunt5Intro:
-	.string "For our dream to become real, we need\n"
-	.string "the power of POKéMON.\p"
-	.string "But meddlers like you use the power of\n"
-	.string "POKéMON to mess with us even at\l"
-	.string "a place like this!\p"
-	.string "Life just doesn't work the way we\n"
-	.string "need it to!$"
+	.string "为了实现我们的梦想，我们需要宝可\n"
+	.string "梦的力量。\p"
+	.string "但是那些像你一样爱管闲事的人却总\n"
+	.string "是用宝可梦的力量来碍事，甚至都追\l"
+	.string "到了这里来！\p"
+	.string "人生总是不能如我们所愿！$"
 
 SeafloorCavern_Room3_Text_Grunt5Defeat:
-	.string "Gwah!$"
+	.string "咕哇！$"
 
 SeafloorCavern_Room3_Text_Grunt5PostBattle:
-	.string "You know, we don't dare question\n"
-	.string "the motives of our leader.\p"
-	.string "But here you are, just some punk,\n"
-	.string "going up against our BOSS.\p"
-	.string "Maybe…\n"
-	.string "You must be something…$"
+	.string "听着，我们从来不敢质疑老大想干的\n"
+	.string "事。\p"
+	.string "可你，一个小鬼头，竟然要对抗我们\n"
+	.string "的老大。\p"
+	.string "也许……你真是个人物。$"
 

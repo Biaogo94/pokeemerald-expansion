@@ -27,65 +27,61 @@ VictoryRoad_B1F_EventScript_Halle::
 	end
 
 VictoryRoad_B1F_Text_SamuelIntro:
-	.string "The thought that I'm getting closer to\n"
-	.string "the POKéMON LEAGUE…\p"
-	.string "I'm getting stage fright…$"
+	.string "一想到我离宝可梦联盟越来越近了…\n"
+	.string "…\p"
+	.string "我开始有些怯场的感觉了……$"
 
 VictoryRoad_B1F_Text_SamuelDefeat:
-	.string "I couldn't do a thing…$"
+	.string "我什么也做不了……$"
 
 VictoryRoad_B1F_Text_SamuelPostBattle:
-	.string "The POKéMON LEAGUE became distant\n"
-	.string "again… What a letdown…$"
+	.string "宝可梦联盟又变得遥远了……好失望\n"
+	.string "……$"
 
 VictoryRoad_B1F_Text_ShannonIntro:
-	.string "To win your way through the POKéMON\n"
-	.string "LEAGUE, you need the trust of your\l"
-	.string "POKéMON.$"
+	.string "想要通过宝可梦联盟的考验，你必须\n"
+	.string "信任你的宝可梦。$"
 
 VictoryRoad_B1F_Text_ShannonDefeat:
-	.string "Your relationship is based on\n"
-	.string "solid trust.$"
+	.string "是你们之间的信赖将你们紧紧联系在\n"
+	.string "一起。$"
 
 VictoryRoad_B1F_Text_ShannonPostBattle:
-	.string "By being together all the time, trust\n"
-	.string "grows between POKéMON and TRAINERS.$"
+	.string "形影不离，患难与共，宝可梦和训练\n"
+	.string "家的信任会逐渐增强。$"
 
 VictoryRoad_B1F_Text_MichelleIntro:
-	.string "This isn't the goal. It's only a place\n"
-	.string "on the way to the POKéMON LEAGUE.$"
+	.string "这里不是终点，这只是通向宝可梦联\n"
+	.string "盟的道路上的一个小站。$"
 
 VictoryRoad_B1F_Text_MichelleDefeat:
-	.string "That's the way!$"
+	.string "就是这样！$"
 
 VictoryRoad_B1F_Text_MichellePostBattle:
-	.string "You'll do fine, for sure!\n"
-	.string "Your POKéMON are all eager to go!$"
+	.string "你一定会干得很好的！你的宝可梦都\n"
+	.string "那么渴望着胜利！$"
 
 VictoryRoad_B1F_Text_MitchellIntro:
-	.string "My POKéMON are cosmically\n"
-	.string "awe inspiring!$"
+	.string "我的宝可梦的士气已经达到了顶点！$"
 
 VictoryRoad_B1F_Text_MitchellDefeat:
-	.string "I've never met anyone like you before.$"
+	.string "我从来没见过像你这样的人。$"
 
 VictoryRoad_B1F_Text_MitchellPostBattle:
-	.string "Even outside of battle, I sense\n"
-	.string "incredible power emanating from you\l"
-	.string "and your POKéMON.$"
+	.string "就算在战斗之外，我也能感受到从你\n"
+	.string "和你的宝可梦身上散发出的力量。$"
 
 VictoryRoad_B1F_Text_HalleIntro:
-	.string "Okay, no need to get your back up!\n"
-	.string "Relax, let's take it easy!$"
+	.string "好了，别那么紧张！放松，放松一点\n"
+	.string "！$"
 
 VictoryRoad_B1F_Text_HalleDefeat:
-	.string "Whoa!\n"
-	.string "Wonderful!$"
+	.string "哇啊！漂亮！$"
 
 VictoryRoad_B1F_Text_HallePostBattle:
-	.string "Sure, this is VICTORY ROAD.\p"
-	.string "But it's not all that different from\n"
-	.string "the path you've taken so far.\p"
-	.string "Try to enjoy things the rest of\n"
-	.string "the way!$"
+	.string "尽管这里的确是冠军之路，\p"
+	.string "但它与你之前所经过的道路并无太大\n"
+	.string "不同。\p"
+	.string "试着去享受你之后将会遇到的一切吧\n"
+	.string "！$"
 

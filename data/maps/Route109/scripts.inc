@@ -477,88 +477,79 @@ Route109_EventScript_Elijah::
 	end
 
 DewfordTown_Text_BrineyLandedInSlateportDeliverGoods:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "We've made land in SLATEPORT!\p"
-	.string "I suppose you're going to visit CAPT.\n"
-	.string "STERN and deliver the DEVON GOODS?$"
+	.string "哈奇：好了！我们到凯那市了！\p"
+	.string "我想你是要去找楠木馆长送得文的物\n"
+	.string "品吧？$"
 
 Route109_Text_BrineySailToDewfordQuestion:
-	.string "MR. BRINEY: I thought you're supposed\n"
-	.string "to deliver the DEVON GOODS.\p"
-	.string "Would you like to sail back to\n"
-	.string "DEWFORD, then?$"
+	.string "哈奇：我以为你要去送得文的物品。\p"
+	.string "那么，你想回武斗镇去吗？$"
 
 Route109_Text_BrineyDewfordItIs:
-	.string "MR. BRINEY: DEWFORD it is, then!\p"
-	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "哈奇：武斗镇是吗？\p"
+	.string "起锚咯！小皮，亲爱的，我们出海了\n"
+	.string "！$"
 
 Route109_Text_BrineyDeliverDevonGoods:
-	.string "MR. BRINEY: Then you go on and deliver\n"
-	.string "the DEVON GOODS. I'll be waiting.$"
+	.string "哈奇：那么你去送得文的物品吧，我\n"
+	.string "就在这儿等着。$"
 
 DewfordTown_Text_BrineyLandedInSlateport:
-	.string "MR. BRINEY: Ahoy! We've made land in\n"
-	.string "SLATEPORT!\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail again!$"
+	.string "哈奇：好了！我们到凯那市了！\p"
+	.string "你还想出海的话就来找我吧！$"
 
 Route109_Text_BrineyWhereAreWeBound:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "For you, I'll go out to sea anytime!\p"
-	.string "Now, my friend, where are we bound?$"
+	.string "哈奇：嗨！只要你愿意，我随时可以\n"
+	.string "出发！\p"
+	.string "好了，我的朋友，你想去哪儿？$"
 
 Route109_Text_BrineyTellMeWhenYouNeedToSail:
-	.string "MR. BRINEY: You just tell me whenever\n"
-	.string "you need to set sail again!$"
+	.string "哈奇：想出海的话，随时来找我！$"
 
 Route109_Text_ChillAtMyPapasSpot:
-	.string "Yo, TRAINERS!\n"
-	.string "Whether you're hot to trot,\l"
-	.string "or cool cat not,\l"
-	.string "chill at my papa's spot!$"
+	.string "哟，训练家！不论你是火气冲天，还\n"
+	.string "是冷酷无边，都能在爸爸的店里找到\l"
+	.string "个人空间！$"
 
 Route109_Text_LittleKidsDartAround:
-	.string "Little kids can dart around so quickly…\p"
-	.string "You don't dare take your eyes off them\n"
-	.string "for an instant. It's very taxing.\p"
-	.string "Mine are with my POKéMON, so they\n"
-	.string "should be okay, but…$"
+	.string "小孩子跑得很快……\p"
+	.string "你得时时刻刻盯着她们，这真的很累\n"
+	.string "人。\p"
+	.string "我的孩子跟宝可梦在一起，大概没什\n"
+	.string "么问题，可是……$"
 
 Route109_Text_SandCastleTakingLongTime:
-	.string "Our sand castle's taking a long time\n"
-	.string "to make.$"
+	.string "我们用了很长时间才堆好沙堡。$"
 
 Route109_Text_YouCanHaveThis:
-	.string "You can have this!$"
+	.string "这个给你！$"
 
 Route109_Text_WereGoingToMakeBigCastle:
-	.string "We're going to get all the sand from\n"
-	.string "the beach and make a big castle!\p"
-	.string "And then we're going to be a king and\n"
-	.string "queen.\p"
-	.string "We'll let you be a servant.$"
+	.string "我们要把沙滩上的沙都收集起来，堆\n"
+	.string "一个大大的沙堡！\p"
+	.string "我们就是城堡里的国王和王后。\p"
+	.string "你可以做我们的卫兵。$"
 
 Route109_Text_ZigzagoonPicksUpLitter:
-	.string "The water around these parts is clean.\p"
-	.string "But, I get my ZIGZAGOON to pick up\n"
-	.string "litter from the shoreline at times.\p"
-	.string "Dirty water becomes rain and joins our\n"
-	.string "rivers, which we drink from…\p"
-	.string "If we pollute the sea, it all comes\n"
-	.string "back to haunt us eventually.$"
+	.string "尽管这附近的水很清澈，\p"
+	.string "但我仍会带着我的蛇纹熊来海岸捡垃\n"
+	.string "圾。\p"
+	.string "污水会升到空中形成雨，然后落到我\n"
+	.string "们汲水的小河里……\p"
+	.string "如果我们污染了海洋，最终受害的还\n"
+	.string "是我们自己。$"
 
 Route109_Text_ZigzagoonCry:
-	.string "ZIGZAGOON: Guguu?$"
+	.string "蛇纹熊：咕呜？$"
 
 Route109_Text_SeashoreHouseSign:
-	.string "SEASHORE HOUSE\p"
-	.string "“May hot battles rage on hot sands!\n"
-	.string "The place for hot TRAINERS!”$"
+	.string "大海之家\p"
+	.string "“火热的沙滩上火热的对战！欢迎火\n"
+	.string "热的训练家！”$"
 
 Route109_Text_TrainerTipsSign:
-	.string "TRAINER TIPS\p"
-	.string "POKéMON at the same level may not\n"
-	.string "always have identical stats.\p"
-	.string "POKéMON raised by TRAINERS are said\n"
-	.string "to grow stronger than wild POKéMON.$"
+	.string "有用的公告牌！\p"
+	.string "同样等级的宝可梦实力并不完全相同\n"
+	.string "。\p"
+	.string "据说训练家训练出的宝可梦比野生宝\n"
+	.string "可梦更强。$"

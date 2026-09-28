@@ -161,22 +161,21 @@ FourIsland_EventScript_LoreleisHouseSign::
 	end
 
 FourIsland_Text_IslandSign::
-	.string "FOUR ISLAND\n"
-	.string "The Warm, Blue, Floe Island$"
+	.string "四之岛温暖的蓝色浮冰之岛$"
 
 FourIsland_Text_LoreleiHasReturned::
-	.string "LORELEI has returned.\p"
-	.string "Did she find the city life too\n"
-	.string "stressful, I wonder?$"
+	.string "科拿回来了。\p"
+	.string "莫非是因为都市生活的压力太大了吗\n"
+	.string "？$"
 
 FourIsland_Text_LoreleiMetLaprasAsChild::
-	.string "LORELEI has gone back.\p"
-	.string "The LAPRAS she has, I imagine it\n"
-	.string "to be the one she met as a child.\p"
-	.string "I believe it was in ICEFALL CAVE\n"
-	.string "that she caught it.\p"
-	.string "Perhaps that POKéMON has been with\n"
-	.string "her ever since.$"
+	.string "科拿已经回来了。\p"
+	.string "我猜她的拉普拉斯就是那只她在很小\n"
+	.string "时候就遇到的宝可梦。\p"
+	.string "我想她是在冻瀑洞窟收服到拉普拉斯\n"
+	.string "的。\p"
+	.string "可能从那时起那只宝可梦就一直陪伴\n"
+	.string "着她。$"
 
 FourIsland_Text_RivalAlreadyGotEggBeSmellingYa::
 	.string "{RIVAL}: Hey!\n"
@@ -208,10 +207,11 @@ FourIsland_Text_LoreleiHasLotsOfStuffedDolls::
 	.string "FOUR ISLAND, her collection grows!$"
 
 FourIsland_Text_MadeSlushieUsingIcefallCaveIce::
-	.string "Ooh, chilly!\p"
-	.string "I made a slushie using ice I\n"
-	.string "shaved inside ICEFALL CAVE.\p"
-	.string "It's chilly and tasty!$"
+	.string "啊，你发现我了！请别告诉科拿。\p"
+	.string "你知道科拿有许多许多的毛绒娃娃吗\n"
+	.string "？\p"
+	.string "每次她回四之岛，她的收藏都会增加\n"
+	.string "！$"
 
 FourIsland_Text_LoreleisHouse::
 	.string "LORELEI'S HOUSE$"

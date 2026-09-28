@@ -657,75 +657,69 @@ LittlerootTown_ProfessorBirchsLab_EventScript_ScottAboardSSTidalCall::
 	end
 
 LittlerootTown_ProfessorBirchsLab_Text_BirchAwayOnFieldwork:
-	.string "Hunh? PROF. BIRCH?\p"
-	.string "The PROF's away on fieldwork.\n"
-	.string "Ergo, he isn't here.\p"
-	.string "Oh, let me explain what fieldwork is.\p"
-	.string "It is to study things in the natural\n"
-	.string "environment, like fields and mountains,\l"
-	.string "instead of a laboratory.\p"
-	.string "The PROF isn't one for doing desk work.\n"
-	.string "He's the type of person who would\l"
-	.string "rather go outside and experience\l"
-	.string "things than read about them here.$"
+	.string "什么？小田卷博士？\p"
+	.string "博士去实地调查了，现在不在这里。\p"
+	.string "啊，我给你解释一下什么是实地调查\n"
+	.string "吧。\p"
+	.string "实地调查，就是走出研究所，去田里\n"
+	.string "或山间等自然环境中做研究。\p"
+	.string "博士是那种坐不住的人，比起坐下来\n"
+	.string "读书了解什么事情，他更愿意走出门\l"
+	.string "去，亲身体验一下。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BirchIsntOneForDeskWork:
-	.string "The PROF isn't one for doing desk work.\n"
-	.string "He's the type of person who would\l"
-	.string "rather go outside and experience\l"
-	.string "things than read about them here.$"
+	.string "博士是那种坐不住的人，比起坐下来\n"
+	.string "读书了解什么事情，他更愿意走出门\l"
+	.string "去，亲身体验一下。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BirchEnjoysRivalsHelpToo:
-	.string "PROF. BIRCH is studying the habitats\n"
-	.string "and distribution of POKéMON.\p"
-	.string "The PROF enjoys {RIVAL}'s help, too.\n"
-	.string "There's a lot of love there.$"
+	.string "小田卷博士正在研究宝可梦的栖息分\n"
+	.string "布，\p"
+	.string "他喜欢让{RIVAL}帮忙。两人\n"
+	.string "感情很好。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_LikeYouToHavePokemon:
-	.string "PROF. BIRCH: So, {PLAYER}{KUN}.\p"
-	.string "I've heard so much about you from\n"
-	.string "your father.\p"
-	.string "I've heard that you don't have your\n"
-	.string "own POKéMON yet.\p"
-	.string "But the way you battled earlier,\n"
-	.string "you pulled it off with aplomb!\p"
-	.string "I guess you have your father's blood\n"
-	.string "in your veins after all!\p"
-	.string "Oh, yes. As thanks for rescuing me,\n"
-	.string "I'd like you to have the POKéMON you\l"
-	.string "used earlier.\p"
-	.string "{PLAYER} received the {STR_VAR_1}!$"
+	.string "小田卷博士：……{PLAYER}\n"
+	.string "{KUN}，\p"
+	.string "我从你爸爸那儿听说了很多关于你的\n"
+	.string "事。\p"
+	.string "听说你还没有自己的宝可梦？\p"
+	.string "但你刚才对战的样子真是镇静自若！\p"
+	.string "果然是遗传了你父亲的才能！\p"
+	.string "对了，作为谢礼，你刚才用的那只宝\n"
+	.string "可梦就送给你吧！\p"
+	.string "{PLAYER}得到\n"
+	.string "{STR_VAR_1}！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_WhyNotGiveNicknameToMon:
-	.string "PROF. BIRCH: While you're at it, why not\n"
-	.string "give a nickname to that {STR_VAR_1}?$"
+	.string "小田卷博士：要顺便给这只\n"
+	.string "{STR_VAR_1}起昵称吗？$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MightBeGoodIdeaToGoSeeRival:
-	.string "PROF. BIRCH: If you work at POKéMON\n"
-	.string "and gain experience, I think you'll make\l"
-	.string "an extremely good TRAINER.\p"
-	.string "My kid, {RIVAL}, is also studying\n"
-	.string "POKéMON while helping me out.\p"
-	.string "{PLAYER}{KUN}, don't you think it might be\n"
-	.string "a good idea to go see {RIVAL}?$"
+	.string "小田卷博士：如果你努力培育宝可梦\n"
+	.string "积累经验，一定可以成为一名优秀的\l"
+	.string "训练家。\p"
+	.string "我的孩子{RIVAL}也在一边当\n"
+	.string "我的助手，一边研究宝可梦。\p"
+	.string "{PLAYER}{KUN}，去见\n"
+	.string "见{RIVAL}怎么样？$"
 
 LittlerootTown_ProfessorBirchsLab_Text_GetRivalToTeachYou:
-	.string "PROF. BIRCH: Great!\n"
-	.string "{RIVAL} should be happy, too.\p"
-	.string "Get {RIVAL} to teach you what it\n"
-	.string "means to be a TRAINER.$"
+	.string "小田卷博士：太好了！\n"
+	.string "{RIVAL}肯定会很高兴的！\p"
+	.string "让{RIVAL}教教你成为训练家\n"
+	.string "的意义吧。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_DontBeThatWay:
-	.string "PROF. BIRCH: Oh, don't be that way.\n"
-	.string "You should go meet my kid.$"
+	.string "小田卷博士：别这么说嘛，去见见我\n"
+	.string "家孩子！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BirchRivalGoneHome:
-	.string "PROF. BIRCH: {RIVAL}?\n"
-	.string "Gone home, I think.\p"
-	.string "Or maybe that kid's scrabbling around\n"
-	.string "in tall grass again somewhere…\p"
-	.string "If you or your POKéMON get tired,\n"
-	.string "you should get some rest at home.$"
+	.string "小田卷博士：{RIVAL}？可能\n"
+	.string "回家里去了，\p"
+	.string "也可能去草丛里调查什么了……\p"
+	.string "你和宝可梦累了的话，记得回家休息\n"
+	.string "一下。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_HeardYouBeatRivalTakePokedex:
 	.string "PROF. BIRCH: Oh, hi, {PLAYER}{KUN}!\p"
@@ -740,139 +734,129 @@ LittlerootTown_ProfessorBirchsLab_Text_HeardYouBeatRivalTakePokedex:
 	.string "this POKéDEX.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_ReceivedPokedex:
-	.string "{PLAYER} received the POKéDEX!$"
+	.string "{PLAYER}得到了宝可梦图鉴\n"
+	.string "！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_ExplainPokedex:
-	.string "PROF. BIRCH: The POKéDEX is a high-tech\n"
-	.string "tool that automatically makes a record\l"
-	.string "of any POKéMON you meet or catch.\p"
-	.string "My kid, {RIVAL}, goes everywhere\n"
-	.string "with it.\p"
-	.string "Whenever my kid catches a rare POKéMON\n"
-	.string "and records its data in the POKéDEX,\l"
-	.string "why, {RIVAL} looks for me while I'm out\l"
-	.string "doing fieldwork, and shows me.$"
+	.string "小田卷博士：宝可梦图鉴是一种能够\n"
+	.string "自动记录你遇见或捕获的宝可梦的高\l"
+	.string "科技工具，\p"
+	.string "我家{RIVAL}无论去哪儿都一\n"
+	.string "直带着它。\p"
+	.string "每当{RIVAL}捕捉到稀有宝可\n"
+	.string "梦并记录数据到宝可梦图鉴上时，那\l"
+	.string "孩子就会来找在外实地调查的我，把\l"
+	.string "成果展示给我看。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_CountlessPokemonAwait:
-	.string "PROF. BIRCH: Countless POKéMON\n"
-	.string "await you!\p"
-	.string "Argh, I'm getting the itch to get out\n"
-	.string "and do fieldwork again!$"
+	.string "小田卷博士：前面还有无数的宝可梦\n"
+	.string "在等着你！\p"
+	.string "啊——我又想去做实地调查了！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayGotPokedexTooTakeThese:
-	.string "MAY: Oh, wow, {PLAYER}{KUN}!\n"
-	.string "You got a POKéDEX, too!\p"
-	.string "That's great! Just like me!\n"
-	.string "I've got something for you, too!$"
+	.string "小遥：哇，{PLAYER}\n"
+	.string "{KUN}！你也拿到宝可梦图鉴啦\l"
+	.string "！\p"
+	.string "太好了！和我一样！这个送给你！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_CatchCutePokemonWithPokeBalls:
-	.string "MAY: It's fun if you can get a lot of\n"
-	.string "POKéMON!\p"
-	.string "I'm going to look all over the place\n"
-	.string "because I want different POKéMON.\p"
-	.string "If I find any cute POKéMON, I'll catch\n"
-	.string "them with POKé BALLS!$"
+	.string "小遥：宝可梦捕捉得越多就感觉会越\n"
+	.string "有趣！\p"
+	.string "我要去各处寻找不同的宝可梦，\p"
+	.string "发现可爱的宝可梦的话，就用精灵球\n"
+	.string "捕捉它们！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_OhYourBagsFull:
-	.string "Oh? Your BAG's full.$"
+	.string "呀，你的包包满了。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayWhereShouldIGoNext:
-	.string "MAY: I wonder where I should go look\n"
-	.string "for POKéMON next?$"
+	.string "小遥：接下来该去哪里找宝可梦呢？$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanGotPokedexTooTakeThese:
-	.string "BRENDAN: Huh…\n"
-	.string "So you got a POKéDEX, too.\p"
-	.string "Well then, here.\n"
-	.string "I'll give you these.$"
+	.string "小悠：哦……？你也拿到宝可梦图鉴\n"
+	.string "了啊。\p"
+	.string "那这个送给你！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_CatchCoolPokemonWithPokeBalls:
-	.string "BRENDAN: You know it's more fun to\n"
-	.string "have a whole bunch of POKéMON.\p"
-	.string "I'm going to explore all over the place\n"
-	.string "to find different POKéMON.\p"
-	.string "If I find any cool POKéMON, you bet\n"
-	.string "I'll try to get them with POKé BALLS.$"
+	.string "小悠：你知道吗，捕捉的宝可梦越多\n"
+	.string "就越有趣。\p"
+	.string "我要去各地寻找捕捉不同的宝可梦，\p"
+	.string "如果见到很帅气的宝可梦，我肯定会\n"
+	.string "用精灵球捕捉到！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_HeyYourBagsFull:
-	.string "Hey, your BAG's full.$"
+	.string "喂，你的包包满了。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanWhereShouldIGoNext:
-	.string "BRENDAN: Where should I look for\n"
-	.string "POKéMON next…$"
+	.string "小悠：接下来该去哪儿找宝可梦呢…\n"
+	.string "…$"
 
 LittlerootTown_ProfessorBirchsLab_Text_SeriousLookingMachine:
-	.string "It's a serious-looking machine.\n"
-	.string "The PROF must use this for research.$"
+	.string "看上去是个很先进的机器，一定是博\n"
+	.string "士做研究时用的。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_PCUsedForResearch:
-	.string "It's a PC used for research.\n"
-	.string "Better not mess around with it.$"
+	.string "研究用的电脑，还是不要随便乱碰的\n"
+	.string "好。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_CrammedWithBooksOnPokemon:
-	.string "It's crammed with books on POKéMON.$"
+	.string "塞满了关于宝可梦的书。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BookTooHardToRead:
-	.string "It's a book that's too hard to read.$"
+	.string "一本晦涩难懂的书。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_OtherRegionsUpgradeToNational:
-	.string "PROF. BIRCH: Now…\p"
-	.string "{PLAYER}{KUN} and {RIVAL}, I've had the two\n"
-	.string "of you help me study POKéMON.\p"
-	.string "Thanks to your help, new facts\n"
-	.string "are coming to light.\p"
-	.string "It appears that in the HOENN region,\n"
-	.string "there are also POKéMON from other\l"
-	.string "regions.\p"
-	.string "It goes to show how rich and varied\n"
-	.string "the natural environments of HOENN\l"
-	.string "happen to be.\p"
-	.string "That's why I think it's necessary for\n"
-	.string "me to upgrade your POKéDEX to\l"
-	.string "the NATIONAL Mode.\p"
-	.string "Here, let me see your POKéDEX units.$"
+	.string "小田卷博士：好了……\p"
+	.string "{PLAYER}{KUN}，\n"
+	.string "{RIVAL}，你们在帮我研究宝\l"
+	.string "可梦的成果显著，\p"
+	.string "多亏了你们，我发现了许多新的事实\n"
+	.string "。\p"
+	.string "看来在丰缘地区中栖息着其它地区的\n"
+	.string "宝可梦。\p"
+	.string "这说明丰缘地区的自然环境是多么地\n"
+	.string "丰富多样！\p"
+	.string "因此，我要把你们的宝可梦图鉴升级\n"
+	.string "为全国模式。\p"
+	.string "来，让我看看你们的宝可梦图鉴。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayUpgradeSoCool:
-	.string "MAY: Eheheh!\p"
-	.string "It's so cool that even my POKéDEX\n"
-	.string "is getting updated!\p"
-	.string "It's because you went out and caught\n"
-	.string "so many POKéMON, {PLAYER}{KUN}!$"
+	.string "小遥：嘿嘿！\p"
+	.string "太好了，我的宝可梦图鉴也跟着升级\n"
+	.string "了！\p"
+	.string "多亏了你捕捉了那么多宝可梦呀，\n"
+	.string "{PLAYER}{KUN}！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanYouCanThankMe:
-	.string "BRENDAN: I went out all over HOENN\n"
-	.string "and checked out POKéMON.\p"
-	.string "You can thank me for getting\n"
-	.string "the NATIONAL Mode POKéDEX.\p"
-	.string "Yep, you're lucky, {PLAYER}!$"
+	.string "小悠：我跑遍了全丰缘地区寻找宝可\n"
+	.string "梦，\p"
+	.string "你的宝可梦图鉴能够升级全国模式可\n"
+	.string "要感谢我！\p"
+	.string "你运气真好，{PLAYER}！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_OkayAllDone:
-	.string "PROF. BIRCH: Okay, all done!$"
+	.string "小田卷博士：好，升级完成啦！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_PokedexUpgradedToNational:
-	.string "{PLAYER}'s POKéDEX was upgraded\n"
-	.string "to the NATIONAL Mode!$"
+	.string "{PLAYER}的宝可梦图鉴升级\n"
+	.string "成了全国模式！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_GrassyPatchWaiting2:
-	.string "PROF. BIRCH: But listen.\n"
-	.string "You've become the CHAMPION,\l"
-	.string "but your POKéMON journey isn't over.\p"
-	.string "There is no end to the road\n"
-	.string "that is POKéMON.\p"
-	.string "Somewhere, there is a grassy patch\n"
-	.string "that's waiting for you!$"
+	.string "小田卷博士：记住，即使成为了冠军\n"
+	.string "，你的宝可梦之旅也仍未结束，\p"
+	.string "这条名为宝可梦的道路永无止境，\p"
+	.string "总有一片未曾踏足的草丛在等待着你\n"
+	.string "去探索！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayTakeBreakFromFieldwork:
-	.string "MAY: I think I'll take a short break\n"
-	.string "from fieldwork.\p"
-	.string "I think I'll help the PROF here for\n"
-	.string "a while.$"
+	.string "小遥：我准备暂时不继续实地调查了\n"
+	.string "，\p"
+	.string "留在这里帮博士的忙。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanTakeBreakFromFieldwork:
-	.string "BRENDAN: For the time being,\n"
-	.string "I'm taking a break from fieldwork.\p"
-	.string "I'll be helping out the PROF here\n"
-	.string "for a while.$"
+	.string "小悠：从现在起，我打算暂停实地调\n"
+	.string "查，\p"
+	.string "就留在这里帮博士的忙。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_CompletedDexChoosePokemon:
 	.string "PROF. BIRCH: Oh, {PLAYER}{KUN}!\n"
@@ -892,103 +876,96 @@ LittlerootTown_ProfessorBirchsLab_Text_CompletedDexChoosePokemon:
 	.string "three POKéMON!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_CanHaveAnyOneOfRarePokemon:
-	.string "PROF. BIRCH: These are rare POKéMON\n"
-	.string "only found in another region!\p"
-	.string "You can have any one of these\n"
-	.string "three POKéMON!$"
+	.string "小田卷博士：这是只有在其它地区才\n"
+	.string "能找到的稀有宝可梦！\p"
+	.string "从这3只中挑1只吧！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_YoullTakeCyndaquil:
-	.string "PROF. BIRCH: The FIRE POKéMON\n"
-	.string "CYNDAQUIL caught your eye!\p"
-	.string "You're as sharp as ever!\p"
-	.string "So the CYNDAQUIL is your choice?$"
+	.string "小田卷博士：你看中了火属性宝可梦\n"
+	.string "火球鼠！\p"
+	.string "你还是那么地眼尖啊！\p"
+	.string "那么，你要选择火球鼠？$"
 
 LittlerootTown_ProfessorBirchsLab_Text_YoullTakeTotodile:
-	.string "PROF. BIRCH: The WATER POKéMON\n"
-	.string "TOTODILE is your choice!\p"
-	.string "You know how to pick a good one.\p"
-	.string "So, you'll take the TOTODILE?$"
+	.string "小田卷博士：你选的是水属性宝可梦\n"
+	.string "小锯鳄！\p"
+	.string "你总能选出最好的一个。\p"
+	.string "那么，你要选择小锯鳄？$"
 
 LittlerootTown_ProfessorBirchsLab_Text_YoullTakeChikorita:
-	.string "PROF. BIRCH: The GRASS POKéMON\n"
-	.string "CHIKORITA is your choice!\p"
-	.string "You sure know what you're doing.\p"
-	.string "So, you'll take the CHIKORITA?$"
+	.string "小田卷博士：你选的是草属性宝可梦\n"
+	.string "菊草叶！\p"
+	.string "你很清楚自己想要什么。\p"
+	.string "那么，你要选择菊草叶？$"
 
 LittlerootTown_ProfessorBirchsLab_Text_TakeYourTimeAllInvaluable:
-	.string "PROF. BIRCH: Take your time before\n"
-	.string "you decide.\p"
-	.string "They're all invaluable POKéMON.$"
+	.string "小田卷博士：决定前好好考虑一下吧\n"
+	.string "，\p"
+	.string "它们都是很珍贵的宝可梦。$"
 
 @ Unused
 LittlerootTown_ProfessorBirchsLab_Text_PickedFinePokemon:
-	.string "PROF. BIRCH: I see!\n"
-	.string "You picked a fine POKéMON!$"
+	.string "小田卷博士：明白了！你选了一只很\n"
+	.string "好的宝可梦！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_ReceivedJohtoStarter:
-	.string "{PLAYER} received the {STR_VAR_1}\n"
-	.string "from PROF. BIRCH!$"
+	.string "{PLAYER}从小田卷博士处得\n"
+	.string "到了{STR_VAR_1}！$"
 
 @ Unused
 LittlerootTown_ProfessorBirchsLab_Text_NicknameJohtoStarter:
-	.string "Want to give a nickname to\n"
-	.string "the {STR_VAR_1} you received?$"
+	.string "要给刚得到的\n"
+	.string "{STR_VAR_1}起昵称吗？$"
 
 LittlerootTown_ProfessorBirchsLab_Text_GrassyPatchWaiting:
-	.string "PROF. BIRCH: Listen, {PLAYER}{KUN}.\n"
-	.string "You've completed the HOENN POKéDEX,\l"
-	.string "but your POKéMON journey isn't over.\p"
-	.string "There is no end to the road\n"
-	.string "that is POKéMON.\p"
-	.string "Somewhere, there is a grassy patch\n"
-	.string "that's waiting for you!$"
+	.string "小田卷博士：记住，\n"
+	.string "{PLAYER}{KUN}，即使\l"
+	.string "完成了丰缘地区的宝可梦图鉴，你的\l"
+	.string "宝可梦之旅也仍未结束，\p"
+	.string "这条名为宝可梦的道路永无止境，\p"
+	.string "总有一片未曾踏足的草丛在等待着你\n"
+	.string "去探索！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BetterLeaveOthersAlone:
-	.string "You received the promised POKéMON.\n"
-	.string "Better leave the others alone.$"
+	.string "你已经拿到了你的宝可梦，其他的还\n"
+	.string "是留下吧。$"
 
 @ Unused
 LittlerootTown_ProfessorBirchsLab_Text_DontHaveAnyRoomForPokemon:
-	.string "Oh, you don't have any room for\n"
-	.string "this POKéMON.$"
+	.string "噢，你没有放下这只宝可梦的地方了\n"
+	.string "。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayWhatNextImStayingHere:
-	.string "MAY: {PLAYER}{KUN}, after this…\n"
-	.string "What are you going to do?\p"
-	.string "Are you going to keep battling\n"
-	.string "and sharpening your skills?\p"
-	.string "Or are you going to try filling\n"
-	.string "the NATIONAL POKéDEX?\p"
-	.string "I'm staying here to help the PROF.$"
+	.string "小遥：{PLAYER}{KUN}\n"
+	.string "，这以后……你打算怎么做？\p"
+	.string "继续对战提升自己的实力吗？\p"
+	.string "还是试着完成全国宝可梦图鉴？\p"
+	.string "我要留在这儿给博士帮忙。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanPreferCollectingSlowly:
-	.string "BRENDAN: Rather than collecting\n"
-	.string "POKéMON, I prefer slowly and \l"
-	.string "steadily raising the one I chose.$"
+	.string "小悠：比起收集宝可梦，我更喜欢一\n"
+	.string "步步慢慢培育我自己选择的那一只。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayHaveYouGoneToBattleFrontier:
-	.string "MAY: Oh, hi, {PLAYER}{KUN}!\n"
-	.string "Have you gone to that place,\l"
-	.string "the BATTLE FRONTIER?$"
+	.string "小遥：嗨，你好，{PLAYER}\n"
+	.string "{KUN}！你去过对战开拓区了吗\l"
+	.string "？$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanHaveYouGoneToBattleFrontier:
-	.string "BRENDAN: Hey, {PLAYER}!\n"
-	.string "Have you gone out to that place,\l"
-	.string "the BATTLE FRONTIER?$"
+	.string "小悠：喂，{PLAYER}！你去\n"
+	.string "过对战开拓区了吗？$"
 
 LittlerootTown_ProfessorBirchsLab_Text_ScottAboardSSTidalCall:
-	.string "… … … … … …\n"
-	.string "… … … … … Beep!\p"
-	.string "SCOTT: Hi, hi, {PLAYER}!\n"
-	.string "It's me, SCOTT.\p"
-	.string "I'm aboard the S.S. TIDAL now.\n"
-	.string "It feels great to be on the sea!\p"
-	.string "By the way…\p"
-	.string "There's this place that I'd like to\n"
-	.string "invite you to for a visit.\p"
-	.string "If you're interested, board a ferry\n"
-	.string "at either SLATEPORT or LILYCOVE.\p"
-	.string "I'll fill you in on the details when\n"
-	.string "we meet. I'll be waiting!\p"
-	.string "… … … … … …\n"
-	.string "… … … … … Click!$"
+	.string "…… …… ………… …… ……\n"
+	.string "哔！\p"
+	.string "亚希达：嗨，{PLAYER}！是\n"
+	.string "我，亚希达，\p"
+	.string "我现在在破浪号上呢。在海上的感觉\n"
+	.string "真是不错！\p"
+	.string "对了……\p"
+	.string "有个地方想邀请你能去看看。\p"
+	.string "感兴趣的话，就去凯那市或水静市的\n"
+	.string "码头去乘船吧。\p"
+	.string "见面之后再跟你详细说，我等你！\p"
+	.string "…… …… ………… …… ……\n"
+	.string "咔哒！$"

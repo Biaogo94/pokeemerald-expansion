@@ -57,46 +57,41 @@ Route111_WinstrateFamilysHouse_EventScript_FaceOriginalDirection::
 	end
 
 Route111_WinstrateFamilysHouse_Text_MySonIsStrongerThanYou:
-	.string "You're the first TRAINER I've seen who\n"
-	.string "deploys POKéMON so masterfully.\p"
-	.string "But, I should tell you--my son is\n"
-	.string "stronger than you.\p"
-	.string "He even took the POKéMON LEAGUE\n"
-	.string "challenge, I'll have you know.$"
+	.string "你是我所见过的训练家中指挥宝可梦\n"
+	.string "最纯熟的。\p"
+	.string "但是，我要告诉你——我的儿子比你\n"
+	.string "还要厉害。\p"
+	.string "他甚至成为了宝可梦联盟挑战者，你\n"
+	.string "知道吗。$"
 
 Route111_WinstrateFamilysHouse_Text_LikeYouToHaveMachoBrace:
-	.string "We use this MACHO BRACE to more\n"
-	.string "effectively strengthen our POKéMON\l"
-	.string "in training.\p"
-	.string "Since you've beaten all of us here,\n"
-	.string "I don't know if you need it, but we\l"
-	.string "would like you to have our MACHO BRACE.$"
+	.string "我们使用强制锻炼器有效提高宝可梦\n"
+	.string "的力量。\p"
+	.string "你战胜了我们所有人，我不知道你是\n"
+	.string "否需要这个请收下我们给你的强制锻\l"
+	.string "炼器。$"
 
 Route111_WinstrateFamilysHouse_Text_PassionateAboutBattles:
-	.string "When it comes to POKéMON battles,\n"
-	.string "we tend to be pretty passionate.$"
+	.string "当进行宝可梦对战时，我们变得很激\n"
+	.string "情。$"
 
 Route111_WinstrateFamilysHouse_Text_StrongerFamilyMembers:
-	.string "Mommy is stronger than Daddy.\p"
-	.string "I'm stronger than Mommy.\p"
-	.string "And Grandma's stronger than me!\p"
-	.string "But my big brother is even stronger\n"
-	.string "than Grandma.$"
+	.string "妈妈比爸爸厉害。\p"
+	.string "我比妈妈厉害。\p"
+	.string "奶奶比我厉害！\p"
+	.string "但是我的哥哥比奶奶还要厉害哟。$"
 
 Route111_WinstrateFamilysHouse_Text_GrandsonStrong:
-	.string "There's no question that you're strong.\p"
-	.string "But if you were to battle my grandson,\n"
-	.string "you'd end up crying in frustration.\p"
-	.string "He's much stronger than any TRAINER\n"
-	.string "our family knows.\p"
-	.string "He must be challenging the POKéMON\n"
-	.string "LEAGUE CHAMPION by now.\p"
-	.string "Knowing my grandson, he could be the\n"
-	.string "CHAMPION already!$"
+	.string "显然你很厉害。\p"
+	.string "但是如果你和我的孙子对战你一定会\n"
+	.string "输到哭泣的。\p"
+	.string "他比我们所知道的训练家都要厉害。\p"
+	.string "他现在一定在挑战联盟冠军吧。\p"
+	.string "你会认识我的孙子的，他应该已经是\n"
+	.string "冠军了！$"
 
 Route111_WinstrateFamilysHouse_Text_GrandsonStrongShort:
-	.string "My grandson must be challenging the\n"
-	.string "POKéMON LEAGUE CHAMPION by now.\p"
-	.string "Knowing my grandson, he could be the\n"
-	.string "CHAMPION already!$"
+	.string "我的孙子现在一定在挑战联盟冠军。\p"
+	.string "你会认识我的孙子的，他应该已经是\n"
+	.string "冠军了！$"
 

@@ -44,24 +44,22 @@ VictoryRoad_1F_EventScript_Rolando::
 	end
 
 VictoryRoad_1F_Text_NaomiIntro::
-	.string "I wonder if you are good enough\n"
-	.string "for me?$"
+	.string "我想知道你配得上做我的对手吗？$"
 
 VictoryRoad_1F_Text_NaomiDefeat::
-	.string "I lost out…$"
+	.string "我输给你了……$"
 
 VictoryRoad_1F_Text_NaomiPostBattle::
-	.string "I never wanted to lose to anybody,\n"
-	.string "especially to a younger kid…$"
+	.string "我不想输给任何人，尤其是一个年轻\n"
+	.string "的孩子……$"
 
 VictoryRoad_1F_Text_RolandoIntro::
-	.string "I can see you're good.\n"
-	.string "Let me see exactly how good!$"
+	.string "我能感到你很厉害。让我看看你到底\n"
+	.string "有多厉害！$"
 
 VictoryRoad_1F_Text_RolandoDefeat::
-	.string "I had a chance…$"
+	.string "我有胜算的……$"
 
 VictoryRoad_1F_Text_RolandoPostBattle::
-	.string "Tch!\n"
-	.string "I concede, you are better than I!$"
+	.string "好！我承认，你比我强！$"
 

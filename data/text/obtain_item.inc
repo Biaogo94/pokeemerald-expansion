@@ -2,56 +2,60 @@ gText_ObtainedTheItem::
 	.string "Obtained the {STR_VAR_2}!$"
 
 gText_TheBagIsFull::
-	.string "The BAG is full…$"
+	.string "包包满了………$"
 
 gText_PutItemInPocket::
-	.string "{PLAYER} put away the {STR_VAR_2}\n"
-	.string "in the {STR_VAR_3} POCKET.$"
+	.string "{PLAYER}把\n"
+	.string "{STR_VAR_2}放入了\l"
+	.string "{STR_VAR_3}口袋里。$"
 
 gText_PlayerFoundOneItem::
-	.string "{PLAYER} found one {STR_VAR_2}!$"
+	.string "{PLAYER}找到了\n"
+	.string "{STR_VAR_2}！$"
 
 gText_TooBadBagIsFull::
-	.string "Too bad!\n"
-	.string "The BAG is full…$"
+	.string "太遗憾了！包包满了……$"
 
 gText_PlayerPutItemInBag::
-	.string "{PLAYER} put away the {STR_VAR_2}\n"
-	.string "in the BAG.$"
+	.string "{PLAYER}把\n"
+	.string "{STR_VAR_2}放入了包包\l"
+	.string "里。$"
 
 gText_ObtainedTheDecor::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "获得了{STR_VAR_2}！$"
 
 gText_NoRoomLeftForAnother::
-	.string "Too bad! There's no room left for\n"
-	.string "another {STR_VAR_2}…$"
+	.string "太遗憾了！{STR_VAR_2}\n"
+	.string "的数量已满，没法再携带了！$"
 
 gText_TheDecorWasTransferredToThePC::
-	.string "The {STR_VAR_2} was transferred\n"
-	.string "to the PC.$"
+	.string "{STR_VAR_2}传送到电脑\n"
+	.string "里了。$"
 
 gText_ObtainedTheItems::
 	.string "Obtained {STR_VAR_1} {STR_VAR_2}!$"
 
 gText_PlayerFoundItems::
-	.string "{PLAYER} found {STR_VAR_1} {STR_VAR_2}!$"
+	.string "{PLAYER}找到了\n"
+	.string "{STR_VAR_1}个\l"
+	.string "{STR_VAR_2}！$"
 
 gText_PutCoinsAwayInCoinCase::
-	.string "{PLAYER} put the COINS away in\n"
-	.string "the COIN CASE.$"
+	.string "{PLAYER}将代币放入了代币\n"
+	.string "盒中。$"
 
 gText_FoundXCoins::
-	.string "{PLAYER} found\n"
-	.string "{STR_VAR_1} {STR_VAR_2}!$"
+	.string "{PLAYER}找到了\n"
+	.string "{STR_VAR_1}枚\l"
+	.string "{STR_VAR_2}！$"
 
 gText_FoundXItems::
-	.string "{PLAYER} found\n"
-	.string "{STR_VAR_1} {STR_VAR_2}(s)!$"
+	.string "{PLAYER}找到了\n"
+	.string "{STR_VAR_1}个\l"
+	.string "{STR_VAR_2}！$"
 
 gText_CoinCaseIsFull::
-	.string "Too bad!\n"
-	.string "The COIN CASE is full…$"
+	.string "太遗憾了！代币盒已满……$"
 
 gText_NothingToPutThemIn::
-	.string "Too bad!\n"
-	.string "There's nothing to put them in…$"
+	.string "太遗憾了！没有可以放入的物品……$"

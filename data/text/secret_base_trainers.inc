@@ -1,90 +1,79 @@
 SecretBase_Text_Trainer0Intro:
-	.string "Have you made a SECRET BASE already?\p"
-	.string "I went here, there, everywhere before\n"
-	.string "choosing this place.\p"
-	.string "Since you're already here, how would\n"
-	.string "you like to battle?$"
+	.string "你已经做了秘密基地了吗？\p"
+	.string "在选定这个地方之前，我已经走了不\n"
+	.string "知多少地方。\p"
+	.string "既然你来了，我们对战怎么样？$"
 
 SecretBase_Text_Trainer0AcceptBattle:
-	.string "Okay!\n"
-	.string "Here we come!$"
+	.string "好！来吧！$"
 
 SecretBase_Text_Trainer0DeclineBattle:
-	.string "Hunh?\n"
-	.string "Oh, you can't now…$"
+	.string "哎？啊，现在不行啊……$"
 
 SecretBase_Text_Trainer0Defeated::
-	.string "Waaargh! You're too strong!\n"
-	.string "About me losing… Please keep it secret!$"
+	.string "哇啊啊！你真强！我输掉的事……请\n"
+	.string "帮我保密！$"
 
 SecretBase_Text_Trainer0PostBattle:
-	.string "What do you think of my SECRET BASE?\n"
-	.string "Come visit me again tomorrow.$"
+	.string "我的秘密基地怎么样？明天也来玩吧\n"
+	.string "。$"
 
 SecretBase_Text_Trainer0PreChampion:
-	.string "Have you made a SECRET BASE already?\p"
-	.string "I went here, there, everywhere before\n"
-	.string "choosing this place.\p"
-	.string "Feel free to hang out!$"
+	.string "你已经做了秘密基地了吗？\p"
+	.string "在选定这个地方之前，我已经走了不\n"
+	.string "知多少地方。\p"
+	.string "随便转转吧！$"
 
 SecretBase_Text_Trainer5Intro:
-	.string "There're a lot of places where\n"
-	.string "you can make a SECRET BASE.\p"
-	.string "But I like this spot best.\n"
-	.string "Don't you think it's nice?\p"
-	.string "Oh, would you like to have a battle?$"
+	.string "很多地方都可以制造秘密基地，\p"
+	.string "但这个是我最喜欢的地方。你也认为\n"
+	.string "这地方不错吧？\p"
+	.string "哦，要来一次对战吗？$"
 
 SecretBase_Text_Trainer5AcceptBattle:
-	.string "Okay, here goes!$"
+	.string "好了，来吧！$"
 
 SecretBase_Text_Trainer5DeclineBattle:
-	.string "Oh…\n"
-	.string "You can't now, okay.$"
+	.string "啊……现在不行吗，也罢。$"
 
 SecretBase_Text_Trainer5Defeated::
-	.string "Hmmm… It's our loss…\n"
-	.string "But don't tell anyone!\l"
-	.string "It's a confidential secret!$"
+	.string "唔……我们输了……别告诉别人啊！\n"
+	.string "这是一级机密！$"
 
 SecretBase_Text_Trainer5PostBattle:
-	.string "If you're in this area again,\n"
-	.string "I hope you'll visit me.$"
+	.string "下次来这附近的话，再来我这里转转\n"
+	.string "吧。$"
 
 SecretBase_Text_Trainer5PreChampion:
-	.string "There're a lot of places where you can\n"
-	.string "make a SECRET BASE.\p"
-	.string "But I like this spot best.\n"
-	.string "Don't you think it's nice?$"
+	.string "很多地方都可以制造秘密基地，\p"
+	.string "但这个是我最喜欢的地方。你也认为\n"
+	.string "这地方不错吧？$"
 
 SecretBase_Text_Trainer1Intro:
-	.string "This is a popular spot.\n"
-	.string "It's always taken.\p"
-	.string "Oh! Were you thinking about\n"
-	.string "taking this spot, too?\p"
-	.string "I'll tell you what, you can have this\n"
-	.string "spot if you can beat me.$"
+	.string "这个地方非常受欢迎，经常会有人来\n"
+	.string "这里。\p"
+	.string "啊！你也想要这个地方吗？\p"
+	.string "那好，如果你能打败我，这地方就归\n"
+	.string "你了。$"
 
 SecretBase_Text_Trainer1AcceptBattle:
-	.string "Okay!\n"
-	.string "I'm going to defend my SECRET BASE!$"
+	.string "好的！我要保护我的秘密基地！$"
 
 SecretBase_Text_Trainer1DeclineBattle:
-	.string "Hunh? Is that right?\n"
-	.string "You're not interested in this spot?$"
+	.string "呃？是吗？你对这里不感兴趣？$"
 
 SecretBase_Text_Trainer1Defeated::
-	.string "I can't keep going!\n"
-	.string "I surrender!$"
+	.string "我不行了！我放弃！$"
 
 SecretBase_Text_Trainer1PostBattle:
-	.string "Okay, when I move one day,\n"
-	.string "this place will be yours!$"
+	.string "好，等我有一天我搬走之后，这个地\n"
+	.string "方就是你的了！$"
 
 SecretBase_Text_Trainer1PreChampion:
-	.string "This is a popular spot.\n"
-	.string "It's always taken.\p"
-	.string "I waited a long time for it to open.\n"
-	.string "I finally got to use it!$"
+	.string "这个地方非常受欢迎，经常会有人来\n"
+	.string "这里。\p"
+	.string "我一直在等它打开，我一定要得到它\n"
+	.string "！$"
 
 SecretBase_Text_Trainer6Intro:
 	.string "Welcome to my POKéMON LAB.\p"
@@ -93,19 +82,17 @@ SecretBase_Text_Trainer6Intro:
 	.string "Would you like to see how strong I am?$"
 
 SecretBase_Text_Trainer6AcceptBattle:
-	.string "I'm going to go all out!$"
+	.string "我会全力以赴的！$"
 
 SecretBase_Text_Trainer6DeclineBattle:
-	.string "Oh.\n"
-	.string "Some other time, then!$"
+	.string "啊，那么下次吧！$"
 
 SecretBase_Text_Trainer6Defeated::
-	.string "Hmm… I've still got lots to learn.\n"
-	.string "I have to study some more.$"
+	.string "嗯……我还有很多不足，还得继续学\n"
+	.string "习啊。$"
 
 SecretBase_Text_Trainer6PostBattle:
-	.string "Thanks for battling with me.\n"
-	.string "Please come back again tomorrow.$"
+	.string "谢谢你和我对战，明天也来玩吧。$"
 
 SecretBase_Text_Trainer6PreChampion:
 	.string "Welcome to my POKéMON LAB.\p"
@@ -113,174 +100,156 @@ SecretBase_Text_Trainer6PreChampion:
 	.string "secrecy.$"
 
 SecretBase_Text_Trainer2Intro:
-	.string "A big mansion is nice, but I like this\n"
-	.string "sort of place more.\p"
-	.string "I like it because all kinds of people\n"
-	.string "come visit me.\p"
-	.string "So, how would you like a battle?$"
+	.string "拥有一座宅邸当然好，但我更喜欢这\n"
+	.string "样的地方，\p"
+	.string "因为各种各样的人都会来我这里做客\n"
+	.string "。\p"
+	.string "那么，来场对战怎么样？$"
 
 SecretBase_Text_Trainer2AcceptBattle:
-	.string "That's the way!$"
+	.string "就是这样！$"
 
 SecretBase_Text_Trainer2DeclineBattle:
-	.string "When you're ready, give me a shout!$"
+	.string "准备好的话就叫我吧！$"
 
 SecretBase_Text_Trainer2Defeated::
-	.string "Aww! Done in!\n"
-	.string "But it's still fun to battle!$"
+	.string "啊噢！挂了！但我还是喜欢对战！$"
 
 SecretBase_Text_Trainer2PostBattle:
-	.string "Well, anyway, I should go buy some\n"
-	.string "decorations and furniture.\p"
-	.string "I want my SECRET BASE to be a place\n"
-	.string "other people can enjoy.$"
+	.string "哎，不管怎么说，我还得去买些家具\n"
+	.string "和装饰物品。\p"
+	.string "希望我的秘密基地能成为大家都喜欢\n"
+	.string "的地方。$"
 
 SecretBase_Text_Trainer2PreChampion:
-	.string "A big mansion is nice, but I like this\n"
-	.string "sort of place more.\p"
-	.string "I like it because all kinds of people\n"
-	.string "come visit me.$"
+	.string "拥有一座宅邸当然好，但我更喜欢这\n"
+	.string "样的地方，\p"
+	.string "因为各种各样的人都会来我这里做客\n"
+	.string "。$"
 
 SecretBase_Text_Trainer7Intro:
-	.string "I simply adore shopping for decorations\n"
-	.string "and furniture.\p"
-	.string "I also love raising POKéMON just\n"
-	.string "as much.\p"
-	.string "If you would be so kind, will you battle\n"
-	.string "with my POKéMON?$"
+	.string "我非常喜欢逛商店买家具和装饰物品\n"
+	.string "，\p"
+	.string "也同样喜欢培育宝可梦。\p"
+	.string "如果你愿意的话，跟我的宝可梦对战\n"
+	.string "怎么样？$"
 
 SecretBase_Text_Trainer7AcceptBattle:
-	.string "Thank you.\n"
-	.string "Shall we begin?$"
+	.string "谢谢，开始吧？$"
 
 SecretBase_Text_Trainer7DeclineBattle:
-	.string "Oh.\n"
-	.string "How disappointing…$"
+	.string "啊，真遗憾……$"
 
 SecretBase_Text_Trainer7Defeated::
-	.string "I concede…$"
+	.string "我认输……$"
 
 SecretBase_Text_Trainer7PostBattle:
-	.string "That was all in good fun!\n"
-	.string "I should go enjoy shopping now.$"
+	.string "真高兴！现在我该去买东西了！$"
 
 SecretBase_Text_Trainer7PreChampion:
-	.string "I simply adore shopping for decorations\n"
-	.string "and furniture.\p"
-	.string "I also love raising POKéMON just\n"
-	.string "as much.$"
+	.string "我非常喜欢逛商店买家具和装饰物品\n"
+	.string "，\p"
+	.string "也同样喜欢培育宝可梦。$"
 
 SecretBase_Text_Trainer3Intro:
-	.string "Some people make their SECRET BASES in\n"
-	.string "hard-to-find places.\l"
-	.string "Do they want to just lie low?\p"
-	.string "But since you found me, how about we\n"
-	.string "have a battle?$"
+	.string "有些人把秘密基地建在别人很难找到\n"
+	.string "的地方，是因为想低调行事吗？\p"
+	.string "不过你找到了我这里，来对战如何？$"
 
 SecretBase_Text_Trainer3AcceptBattle:
-	.string "I'm not going down easily!$"
+	.string "我不会被你轻易打败的！$"
 
 SecretBase_Text_Trainer3DeclineBattle:
-	.string "Oh… Are you maybe tired from searching\n"
-	.string "for this place?$"
+	.string "哦……是因为你找来这个地方很累吗\n"
+	.string "？$"
 
 SecretBase_Text_Trainer3Defeated::
-	.string "I went down…$"
+	.string "我失败了……$"
 
 SecretBase_Text_Trainer3PostBattle:
-	.string "Where's your SECRET BASE?\n"
-	.string "I should go visit you there.$"
+	.string "我失败了……你的秘密基地在哪儿？\n"
+	.string "我也会去拜访你的。$"
 
 SecretBase_Text_Trainer3PreChampion:
-	.string "Some people make their SECRET BASES in\n"
-	.string "hard-to-find places.\l"
-	.string "Do they want to just lie low?$"
+	.string "有些人把秘密基地建在别人很难找到\n"
+	.string "的地方，是因为想低调行事吗？$"
 
 SecretBase_Text_Trainer8Intro:
-	.string "People have told me that you can get\n"
-	.string "decorations in several ways.\p"
-	.string "We should have a race to see who can\n"
-	.string "get nicer decorations and furniture!\p"
-	.string "In the meantime, want to battle?$"
+	.string "人们说有很多得到装饰物品的方式，\p"
+	.string "我们来比赛谁能得到更好的家具和装\n"
+	.string "饰吧！\p"
+	.string "不过同时，想对战吗？$"
 
 SecretBase_Text_Trainer8AcceptBattle:
-	.string "This is my SECRET BASE.\n"
-	.string "I can't lose!$"
+	.string "这里是我的秘密基地，我是不会输的\n"
+	.string "！$"
 
 SecretBase_Text_Trainer8DeclineBattle:
-	.string "I'll battle with you anytime.$"
+	.string "我随时愿意跟你对战。$"
 
 SecretBase_Text_Trainer8Defeated::
-	.string "Huh?\n"
-	.string "Did I just lose?$"
+	.string "哎？我刚刚输掉了？$"
 
 SecretBase_Text_Trainer8PostBattle:
-	.string "I won't lose at collecting decorations.\n"
-	.string "Come visit again!$"
+	.string "收集装饰物品我是不会输给你的，下\n"
+	.string "次再来玩！$"
 
 SecretBase_Text_Trainer8PreChampion:
-	.string "People have told me that you can get\n"
-	.string "decorations in several ways.\p"
-	.string "We should have a race to see who can\n"
-	.string "get nicer decorations and furniture!$"
+	.string "人们说有很多得到装饰物品的方式，\p"
+	.string "我们来比赛谁能得到更好的家具和装\n"
+	.string "饰吧！$"
 
 SecretBase_Text_Trainer4Intro:
-	.string "I found a spot I liked, and I did it up\n"
-	.string "with my favorite decorations.\p"
-	.string "I raise my favorite POKéMON and grow\n"
-	.string "stronger with it.\p"
-	.string "That's what I do.\n"
-	.string "Want to battle with me?$"
+	.string "我寻找一个中意的地点，然后用喜欢\n"
+	.string "的装饰物品来装点它。\p"
+	.string "我培育自己喜欢的宝可梦，并与它一\n"
+	.string "同成长。\p"
+	.string "这是我的生活。要和我对战吗？$"
 
 SecretBase_Text_Trainer4AcceptBattle:
-	.string "Show me what you're made of!$"
+	.string "让我看看你的本事吧！$"
 
 SecretBase_Text_Trainer4DeclineBattle:
-	.string "I guess there are times when you're not\n"
-	.string "into it.$"
+	.string "我想有时候你也没有兴趣。$"
 
 SecretBase_Text_Trainer4Defeated::
-	.string "I know exactly what you're made of now.$"
+	.string "我已经领教了你的本领了。$"
 
 SecretBase_Text_Trainer4PostBattle:
-	.string "We can both become stronger.\n"
-	.string "Let's keep at it!$"
+	.string "我们都可以变得更强，一起加油吧！$"
 
 SecretBase_Text_Trainer4PreChampion:
-	.string "I found a spot I liked, and I did it up\n"
-	.string "with my favorite decorations.\p"
-	.string "I raise my favorite POKéMON and grow\n"
-	.string "stronger with it.\p"
-	.string "Every day is a great day.$"
+	.string "我寻找一个中意的地点，然后用喜欢\n"
+	.string "的装饰物品来装点它。\p"
+	.string "我培育自己喜欢的宝可梦，并与它一\n"
+	.string "同成长。\p"
+	.string "每一天都是最好的一天。$"
 
 SecretBase_Text_Trainer9Intro:
-	.string "You can learn a lot about the taste\n"
-	.string "and sense of people by the kinds of\l"
-	.string "decorations they have, and how they\l"
-	.string "display them.\p"
-	.string "What do you think of my taste?\n"
-	.string "Are you speechless?\p"
-	.string "Want to see my taste in battling?$"
+	.string "通过观察人们拥有的装饰物品的种类\n"
+	.string "和摆放它们的方法，就可以了解到很\l"
+	.string "多关于这个人的个性和品位的事情。\p"
+	.string "你看出我的品味如何了吗？无话可说\n"
+	.string "了吗？\p"
+	.string "要不要再看看我的对战品味？$"
 
 SecretBase_Text_Trainer9AcceptBattle:
-	.string "There's no holding back!$"
+	.string "不能退缩！$"
 
 SecretBase_Text_Trainer9DeclineBattle:
-	.string "I'll be happy to demonstrate my style\n"
-	.string "anytime.$"
+	.string "我很乐意随时向你展示我的风格。$"
 
 SecretBase_Text_Trainer9Defeated::
-	.string "You're supremely talented!\n"
-	.string "Your power seems to be limitless…$"
+	.string "你拥有至高的天份！你的力量是无限\n"
+	.string "大的……$"
 
 SecretBase_Text_Trainer9PostBattle:
-	.string "What did you think of my style?\n"
-	.string "I'll keep on polishing it!$"
+	.string "觉得我的风格怎么样？我一直在不断\n"
+	.string "完善！$"
 
 SecretBase_Text_Trainer9PreChampion:
-	.string "You can learn a lot about the taste\n"
-	.string "and sense of people by the kinds of\l"
-	.string "decorations they have, and how they\l"
-	.string "display them.\p"
-	.string "What do you think of my taste?\n"
-	.string "Are you speechless?$"
+	.string "通过观察人们拥有的装饰物品的种类\n"
+	.string "和摆放它们的方法，就可以了解到很\l"
+	.string "多关于这个人的个性和品位的事情。\p"
+	.string "你看出我的品味如何了吗？无话可说\n"
+	.string "了吗？$"

@@ -80,40 +80,34 @@ GraniteCave_StevensRoom_Movement_StevenExitSouth:
 	step_end
 
 GraniteCave_StevensRoom_Text_ImStevenLetterForMe:
-	.string "My name is STEVEN.\p"
-	.string "I'm interested in rare stones,\n"
-	.string "so I travel here and there.\p"
-	.string "Oh?\n"
-	.string "A LETTER for me?$"
+	.string "我的名字是大吾。\p"
+	.string "我对稀有的石头很有兴趣，所有经常\n"
+	.string "四处旅行。\p"
+	.string "哦？有给我的信？$"
 
 GraniteCave_StevensRoom_Text_ThankYouTakeThis:
-	.string "STEVEN: Okay, thank you.\p"
-	.string "You went through all this trouble to\n"
-	.string "deliver that. I need to thank you.\p"
-	.string "Let me see…\n"
-	.string "I'll give you this TM.\p"
-	.string "It contains my favorite move,\n"
-	.string "STEEL WING.$"
+	.string "大吾：嗯，谢谢你。\p"
+	.string "特意专程送信过来，要好好答谢你才\n"
+	.string "行。\p"
+	.string "我想想……这个招式学习器给你吧。\p"
+	.string "里面有我最爱的招式钢翼。$"
 
 GraniteCave_StevensRoom_Text_CouldBecomeChampionLetsRegister:
-	.string "STEVEN: Your POKéMON appear quite\n"
-	.string "capable.\p"
-	.string "If you keep training, you could even\n"
-	.string "become the CHAMPION of the POKéMON\l"
-	.string "LEAGUE one day. That's what I think.\p"
-	.string "I know, since we've gotten to know each\n"
-	.string "other, let's register one another in\l"
-	.string "our POKéNAVS.\p"
-	.string "… … … … … …$"
+	.string "大吾：你的宝可梦看起来培养得很不\n"
+	.string "错。\p"
+	.string "继续努力的话，也许有一天能成为宝\n"
+	.string "可梦联盟的冠军呢。我是这么想的喔\l"
+	.string "。\p"
+	.string "对了！既然有缘相识，就在宝可导航\n"
+	.string "里互相登录一下吧。\p"
+	.string "…… …… ……$"
 
 GraniteCave_StevensRoom_Text_RegisteredSteven:
-	.string "Registered STEVEN\n"
-	.string "in the POKéNAV.$"
+	.string "把大吾登记到宝可导航里了。$"
 
 GraniteCave_StevensRoom_Text_IveGotToHurryAlong:
-	.string "Now, I've got to hurry along.$"
+	.string "好了，那我先走一步了。$"
 
 GraniteCave_StevensRoom_Text_OhBagIsFull:
-	.string "Oh, your BAG is full…\n"
-	.string "That's too bad, then.$"
+	.string "喔，你的包满了……真可惜呢。$"
 

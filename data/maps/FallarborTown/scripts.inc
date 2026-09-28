@@ -52,44 +52,40 @@ FallarborTown_EventScript_MoveTutorSign::
 	end
 
 FallarborTown_Text_ShadyCharactersCozmosHome:
-	.string "Something's happening,\n"
-	.string "and I don't like it!\p"
-	.string "I've seen shady characters wandering\n"
-	.string "in and out of PROF. COZMO's home…$"
+	.string "发生了些很讨厌的事！\p"
+	.string "我总是看到鬼鬼祟祟的家伙在索蓝斯\n"
+	.string "博士家进进出出……$"
 
 FallarborTown_Text_RegionKnownForMeteors:
-	.string "This region's been known for meteors\n"
-	.string "since the olden days.\p"
-	.string "They say METEOR FALLS was gouged out\n"
-	.string "by a falling meteorite long ago.$"
+	.string "自古这片地区就以陨石而闻名，\p"
+	.string "据说流星瀑布就是很久以前一颗陨石\n"
+	.string "掉下来砸成的。$"
 
 FallarborTown_Text_MyPreciousAzurill:
-	.string "See! Take a look!\n"
-	.string "This is my precious AZURILL!\p"
-	.string "It's slick and smooth and plushy, too!$"
+	.string "来啊！来看看！这是我珍贵的露力丽\n"
+	.string "！\p"
+	.string "滑滑软软的，多漂亮！$"
 
 FallarborTown_Text_Azurill:
-	.string "AZURILL: Rooreelooo.$"
+	.string "露力丽：露力露。$"
 
 FallarborTown_Text_HaveYouChallengedFlannery:
-	.string "Have you already challenged FLANNERY,\n"
-	.string "the LEADER of LAVARIDGE GYM?\p"
-	.string "The girl's grandfather was famous.\n"
-	.string "He was one of the ELITE FOUR in the\l"
-	.string "POKéMON LEAGUE at one point.\p"
-	.string "It wouldn't surprise me to see FLANNERY\n"
-	.string "become a great TRAINER in her own\l"
-	.string "right.$"
+	.string "你挑战过釜炎镇道馆的馆主亚莎了吗\n"
+	.string "？\p"
+	.string "那女孩的爷爷非常出名，他曾是宝可\n"
+	.string "梦联盟的四天王之一，\p"
+	.string "如今亚莎也成长为一个出色的训练家\n"
+	.string "并不让我感到奇怪。$"
 
 FallarborTown_Text_BattleTentSign:
-	.string "BATTLE TENT FALLARBOR SITE\n"
-	.string "“May the Greatest Teams Gather!”$"
+	.string "对战帐篷秋叶镇分址“最强战队，在\n"
+	.string "此集结！”$"
 
 FallarborTown_Text_TownSign:
-	.string "FALLARBOR TOWN\n"
-	.string "“A farm community with small gardens.”$"
+	.string "这里是秋叶镇。“有着小型田野的农\n"
+	.string "村。”$"
 
 FallarborTown_Text_MoveTutorSign:
-	.string "MOVE TUTOR'S HOUSE\n"
-	.string "“New moves taught to POKéMON.”$"
+	.string "招式爱好者的家“教会宝可梦新的招\n"
+	.string "式。”$"
 

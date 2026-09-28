@@ -1,53 +1,47 @@
 ShoalCave_LowTideEntranceRoom_Text_AreYouPlanningOnGoingInThere:
-	.string "Are you planning on going deep\n"
-	.string "in there?\p"
-	.string "How about bringing me back some\n"
-	.string "SHOAL SALT and SHOAL SHELLS?\p"
-	.string "I can make you something good if\n"
-	.string "you bring me the ingredients.$"
+	.string "你要向深处去吗？\p"
+	.string "那么帮我收集一些浅滩海盐和浅滩贝\n"
+	.string "壳怎么样？\p"
+	.string "如果有足够的材料的话，我可以帮你\n"
+	.string "制作点好东西。$"
 
 ShoalCave_LowTideEntranceRoom_Text_BringMe4ShoalSaltAndShells:
-	.string "If you bring me four each of the\n"
-	.string "SHOAL SALT and SHOAL SHELLS,\l"
-	.string "I can make you a SHELL BELL…\p"
-	.string "You can get those ingredients\n"
-	.string "every day.$"
+	.string "如果浅滩海盐和浅滩贝壳各有4个的\n"
+	.string "话，我就能制作贝壳之铃……\p"
+	.string "原材料每天都可以采到。$"
 
 ShoalCave_LowTideEntranceRoom_Text_WouldYouLikeShellBell:
-	.string "Oh, hey! SHOAL SALT and SHOAL SHELLS!\n"
-	.string "And enough of them, too!\p"
-	.string "Would you like me to make you\n"
-	.string "a SHELL BELL with them?$"
+	.string "啊，是浅滩海盐和浅滩贝壳！数量足\n"
+	.string "够了！\p"
+	.string "想要把它们做成贝壳之铃吗？$"
 
 ShoalCave_LowTideEntranceRoom_Text_MakeShellBellRightAway:
-	.string "All righty, then! I'll make you\n"
-	.string "a SHELL BELL right away.\p"
-	.string "… … … … … … … …\n"
-	.string "… … … … … … … …\p"
-	.string "There! Done!$"
+	.string "好的，我马上帮你做贝壳之铃。\p"
+	.string "…… …… …… ……\n"
+	.string "…… …… …… ……\p"
+	.string "好了！做完了！$"
 
 ShoalCave_LowTideEntranceRoom_Text_ExplainShellBell:
-	.string "Have a POKéMON hold on to that.\n"
-	.string "It'll love it, that's for certain.\p"
-	.string "Why, the SHELL BELL's chime…\n"
-	.string "It's simply sublime!\p"
-	.string "You can get its ingredients every day,\n"
-	.string "so I can make you more.$"
+	.string "把这个让宝可梦携带的话，宝可梦肯\n"
+	.string "定会喜欢上它的。\p"
+	.string "啊，贝壳之铃发出的乐声……那是多\n"
+	.string "么美妙！\p"
+	.string "原料每天都能采到原，想要的话我还\n"
+	.string "可以做更多。$"
 
 ShoalCave_LowTideEntranceRoom_Text_WantedToMakeShellBell:
-	.string "Oh… Is that so…\n"
-	.string "I wanted to make a SHELL BELL…$"
+	.string "哎……是吗……真想做一个贝壳之铃\n"
+	.string "啊……$"
 
 ShoalCave_LowTideEntranceRoom_Text_NoSpaceInYourBag:
-	.string "You don't have space in your BAG\n"
-	.string "if I were to make it for you.\p"
-	.string "You should make room and come back\n"
-	.string "for a SHELL BELL.$"
+	.string "如果我做好了的话你的包包里就没有\n"
+	.string "空间了，\p"
+	.string "腾出些地方再回来吧。$"
 
 ShoalCave_Text_WasShoalSaltNowNothing:
-	.string "There was some SHOAL SALT here.\n"
-	.string "But, there's nothing here now.$"
+	.string "这儿原来有浅滩海盐，但现在什么也\n"
+	.string "没有了。$"
 
 ShoalCave_Text_WasShoallShellNowNothing:
-	.string "There was a SHOAL SHELL here.\n"
-	.string "But, there's nothing here now.$"
+	.string "这儿原来有浅滩贝壳，但现在什么也\n"
+	.string "没有了。$"

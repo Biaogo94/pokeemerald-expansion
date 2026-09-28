@@ -35,29 +35,26 @@ CeruleanCity_PokemonCenter_1F_EventScript_Lass::
 	end
 
 CeruleanCity_PokemonCenter_1F_Text_BillDoesWhateverForRareMons::
-	.string "That BILL!\p"
-	.string "I heard that he'll do whatever it\n"
-	.string "takes to get rare POKéMON.\p"
-	.string "He's not above doing all sorts\n"
-	.string "of things, I've heard.$"
+	.string "那个正辉！\p"
+	.string "我听说他会不择手段地去取得珍贵的\n"
+	.string "宝可梦。\p"
+	.string "除此之外，他不做任何与之无关的事\n"
+	.string "。$"
 
 CeruleanCity_PokemonCenter_1F_Text_EveryoneCallsBillPokemaniac::
-	.string "Have you heard about BILL?\p"
-	.string "Everyone calls him a POKéMANIAC!\p"
-	.string "I think people are just jealous of\n"
-	.string "BILL, though.\p"
-	.string "Who wouldn't want to boast about\n"
-	.string "their POKéMON?$"
+	.string "你听说过正辉吗？\p"
+	.string "人们都叫他怪兽狂！\p"
+	.string "但我觉得这是人们嫉妒正辉。\p"
+	.string "谁不想炫耀一下他们的宝可梦？$"
 
 CeruleanCity_PokemonCenter_1F_Text_BillCollectsRareMons::
-	.string "BILL has lots of POKéMON!\n"
-	.string "He collects rare ones, too!$"
+	.string "正辉有很多的宝可梦！他也收集珍贵\n"
+	.string "的宝可梦！$"
 
 CeruleanCity_PokemonCenter_1F_Text_TryTradingUpstairs::
-	.string "Why don't you go upstairs and try\n"
-	.string "trading POKéMON with your friends?\p"
-	.string "You could get a lot more variety\n"
-	.string "by trading.\p"
-	.string "The POKéMON you get in trades grow\n"
-	.string "quickly, too.$"
+	.string "你问什么不上楼去试着和你的朋友交\n"
+	.string "换宝可梦？\p"
+	.string "通过交换你会获得更多的种类。\p"
+	.string "通过交换得来的宝可梦也成长得很快\n"
+	.string "。$"
 

@@ -1,61 +1,55 @@
 gText_Oak_Welcome::
-	.string "Hi! Sorry to keep you waiting!\p"
-	.string "Welcome to the world of POKéMON!\p"
-	.string "My name is OAK.\p"
-	.string "People call me the POKéMON\n"
-	.string "PROFESSOR.\p"
+	.string "让你久等了！\p"
+	.string "欢迎来到宝可梦的世界！\p"
+	.string "我叫大木。\p"
+	.string "大家都叫我宝可梦博士。\p"
 	.string "$"
 
 gText_Oak_Pokemon::
-	.string "This is what we call a “POKéMON.”\p"
+	.string "这就是我们所说的“宝可梦”。\p"
 	.string "\n"
 	.string "$"
 
 gText_Oak_MainSpeech::
-	.string "This world is widely inhabited by\n"
-	.string "creatures known as POKéMON.\p"
-	.string "People and POKéMON live together,\n"
-	.string "by supporting each other.\p"
-	.string "Some people play with POKéMON,\n"
-	.string "some battle with them. \p"
-	.string "But we don't know everything about\n"
-	.string "POKéMON yet. \p"
-	.string "There are still many mysteries\n"
-	.string "to solve. That's why I study\l"
-	.string "POKéMON every day.\p"
+	.string "这个世界上广泛生活着被称为宝可梦\n"
+	.string "的生物。\p"
+	.string "人类和宝可梦互相支持，生活在一起\n"
+	.string "。\p"
+	.string "有人和宝可梦玩耍，有人和它们一起\n"
+	.string "对战。\p"
+	.string "但关于宝可梦，我们还未全知全晓。\p"
+	.string "还有许多未解之谜等待解开。这就是\n"
+	.string "我每天研究宝可梦的原因。\p"
 	.string "$"
 
 gText_Oak_AndYouAre::
-	.string "And you are?$"
+	.string "那么你是？$"
 
 gText_Oak_BoyOrGirl::
-	.string "Are you a boy?\n"
-	.string "Or are you a girl?$"
+	.string "你是男孩？还是女孩？$"
 
 gText_Oak_WhatChallenge::
-	.string "What challenge are you\n"
-	.string "expecting?$"
+	.string "你期待怎样的挑战？$"
 
 gText_Oak_ChallengeSelected::
-	.string "That sounds like the right\n"
-	.string "level of challenge to me!$" 
+	.string "听起来是个很适合你的挑战难度！$"
 
 gText_Oak_WhatsYourName::
-	.string "And what's your name?$"
+	.string "你叫什么名字？$"
 
 gText_Oak_SoItsPlayer::
-	.string "Oh! So you're {PLAYER}{KUN}?$"
+	.string "哦！所以你是{PLAYER}\n"
+	.string "{KUN}？$"
 
 gText_Oak_YourePlayer::
-	.string "{PLAYER}{KUN}, are you ready?\p"
-	.string "Your very own adventure is about\n"
-	.string "to unfold.\p"
+	.string "{PLAYER}{KUN}，准备\n"
+	.string "好了吗？\p"
+	.string "属于你自己的冒险之旅即将展开。\p"
 	.string "$"
 
 gText_Oak_AreYouReady::
-	.string "You'll face fun times and tough\n"
-	.string "challenges.\p"
-	.string "A world of dreams and adventures\n"
-	.string "with POKéMON awaits! Let's go!\p"
-	.string "I'll be seeing you later!\p"
+	.string "你将经历欢乐的时光与严峻的挑战。\p"
+	.string "与宝可梦共度的梦想与冒险之旅在等\n"
+	.string "着你！出发吧！\p"
+	.string "待会儿见！\p"
 	.string "$"

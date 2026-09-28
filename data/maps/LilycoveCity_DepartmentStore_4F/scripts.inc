@@ -50,19 +50,17 @@ LilycoveCity_DepartmentStore_4F_Pokemart_DefenseTMs:
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_4F_Text_AttackOrDefenseTM:
-	.string "Hmm…\p"
-	.string "An attacking move…\n"
-	.string "Or a defensive move…\p"
-	.string "It's no easy matter to decide which TM\n"
-	.string "moves should be taught to POKéMON…$"
+	.string "唔……\p"
+	.string "攻击招式……防御招式……\p"
+	.string "决定教给宝可梦什么招式真是困难…\n"
+	.string "…$"
 
 LilycoveCity_DepartmentStore_4F_Text_FiftyDifferentTMs:
-	.string "There are so many different kinds of\n"
-	.string "TM moves.\p"
-	.string "A catalog I read said there are fifty\n"
-	.string "different kinds.$"
+	.string "有许多不同种类的招式学习器呢，\p"
+	.string "我读过的图鉴上说一共有50种不同\n"
+	.string "的类型。$"
 
 LilycoveCity_DepartmentStore_4F_Text_PokemonOnlyHaveFourMoves:
-	.string "I'd like to get all the different TMs,\n"
-	.string "but a POKéMON learns only four moves.$"
+	.string "我想要所有的招式学习器，但1只宝\n"
+	.string "可梦只能学4种招式。$"
 

@@ -15,23 +15,23 @@ SevenIsland_TrainerTower_EventScript_TrainerTowerAheadSign::
 	end
 
 SevenIsland_TrainerTower_Text_DarioIntro::
-	.string "I sensed your approach.$"
+	.string "我感觉到了你在靠近。$"
 
 SevenIsland_TrainerTower_Text_DarioDefeat::
-	.string "Give up…$"
+	.string "放弃了……$"
 
 SevenIsland_TrainerTower_Text_DarioPostBattle::
-	.string "In your future, I sense that you\n"
-	.string "will meet many others.\p"
-	.string "I think you will be linked to each\n"
-	.string "other by a strange power.$"
+	.string "我感觉到在你的未来，你将会遇到许\n"
+	.string "多人。\p"
+	.string "你们会被一股奇异的力量互相联系在\n"
+	.string "一起。$"
 
 SevenIsland_TrainerTower_Text_RodetteIntro::
-	.string "Somewhere on this island, peculiar\n"
-	.string "POKéMON are sleeping.$"
+	.string "在这座岛上某个地方，有特别的宝可\n"
+	.string "梦正在沉睡。$"
 
 SevenIsland_TrainerTower_Text_RodetteDefeat::
-	.string "What an amazing TRAINER!$"
+	.string "真是一个令人惊异的训练家！$"
 
 SevenIsland_TrainerTower_Text_RodettePostBattle::
 	.string "Somewhere on this island, peculiar\n"
@@ -40,9 +40,8 @@ SevenIsland_TrainerTower_Text_RodettePostBattle::
 	.string "for you?$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerSign::
-	.string "TRAINER TOWER ENTRANCE\n"
-	.string "Rise to the Challenge, TRAINERS!$"
+	.string "训练家之塔入口上去挑战，训练家！$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerAhead::
-	.string "TRAINER TOWER AHEAD$"
+	.string "前方是训练家之塔$"
 

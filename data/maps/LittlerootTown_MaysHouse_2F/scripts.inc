@@ -333,8 +333,8 @@ RivalsHouse_2F_Text_MayWhoAreYou:
 	.string "{PLAYER}{KUN}, I'll catch you later!$"
 
 RivalsHouse_2F_Text_MayGettingReady:
-	.string "POKéMON fully restored!\n"
-	.string "Items ready, and…$"
+	.string "宝可梦的体力完全回复了……道具也\n"
+	.string "都准备好了，还有……$"
 
 RivalsHouse_2F_Text_BrendanWhoAreYou:
 	.string "Hey!\n"
@@ -357,41 +357,38 @@ RivalsHouse_2F_Text_BrendanWhoAreYou:
 	.string "Some other time, okay?$"
 
 RivalsHouse_2F_Text_BrendanGettingReady:
-	.string "POKéMON fully restored…\n"
-	.string "Items all packed, and…$"
+	.string "宝可梦的体力完全回复了……道具也\n"
+	.string "都打包好了，还有……$"
 
 RivalsHouse_2F_Text_ItsRivalsPokeBall:
-	.string "It's {RIVAL}'s POKé BALL!\p"
-	.string "Better leave it right where it is.$"
+	.string "是{RIVAL}的精灵球！\p"
+	.string "最好不要乱动。$"
 
 RivalsHouse_2F_Text_MayJustCheckingMyPokedex:
-	.string "MAY: {PLAYER}{KUN}!\p"
-	.string "I was just checking my POKéDEX.\p"
-	.string "There's still a lot of POKéMON that\n"
-	.string "I've seen but haven't caught.\p"
-	.string "And there are many others that\n"
-	.string "I think will evolve.\p"
-	.string "I wonder where I should go catch\n"
-	.string "some POKéMON next?$"
+	.string "小遥：{PLAYER}{KUN}\n"
+	.string "！\p"
+	.string "我在看我的宝可梦图鉴呢。\p"
+	.string "有很多我看见却没捕捉的宝可梦，\p"
+	.string "还有些我想可能会进化。\p"
+	.string "不知道下面该去哪儿捕捉宝可梦呢？$"
 
 RivalsHouse_2F_Text_MayWhereShouldIGoNext:
-	.string "MAY: I wonder where I should go catch\n"
-	.string "some POKéMON next?\p"
-	.string "Wouldn't it be funny if we ran into each\n"
-	.string "other, {PLAYER}{KUN}?$"
+	.string "小遥：不知道下面该去哪儿捕捉宝可\n"
+	.string "梦呢？\p"
+	.string "如果我们能偶然遇上，那会很有趣吧\n"
+	.string "，{PLAYER}{KUN}？$"
 
 RivalsHouse_2F_Text_BrendanJustCheckingMyPokedex:
-	.string "BRENDAN: Hey, it's {PLAYER}.\p"
-	.string "I was just checking out my POKéDEX.\p"
-	.string "There are still many POKéMON that\n"
-	.string "I need to catch, I know, but this\l"
-	.string "is looking pretty good.\p"
-	.string "Checking this POKéDEX out gives me\n"
-	.string "the urge to hit the road again.$"
+	.string "小悠：嗨，{PLAYER}，\p"
+	.string "我在检查我的宝可梦图鉴。\p"
+	.string "我还有不少宝可梦要捕捉，但现在这\n"
+	.string "样进展也不错。\p"
+	.string "看着这宝可梦图鉴就觉得它好像在催\n"
+	.string "我回草丛里去。$"
 
 RivalsHouse_2F_Text_BrendanWhereShouldIGoNext:
-	.string "BRENDAN: I'm having a hard time deciding\n"
-	.string "where I should catch POKéMON next.\p"
-	.string "Hey, {PLAYER}, if I see you while I'm out\n"
-	.string "catching POKéMON, I can pitch you a\l"
-	.string "battle if you'd like.$"
+	.string "小悠：我正在头疼下面要去哪儿捉宝\n"
+	.string "可梦。\p"
+	.string "喂，{PLAYER}，我如果能在\n"
+	.string "找宝可梦时碰见你，可以和你来场小\l"
+	.string "小的对战。$"

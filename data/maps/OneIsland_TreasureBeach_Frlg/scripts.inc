@@ -6,20 +6,18 @@ OneIsland_TreasureBeach_EventScript_Boy::
 	end
 
 OneIsland_TreasureBeach_Text_AmaraIntro::
-	.string "Lying back, rocked by the waves…\n"
-	.string "It's exquisite.$"
+	.string "被波浪冲刷的背部……这感觉很美妙\n"
+	.string "。$"
 
 OneIsland_TreasureBeach_Text_AmaraDefeat::
-	.string "I lost…\n"
-	.string "It feels awful.$"
+	.string "我输了……感觉很糟糕。$"
 
 OneIsland_TreasureBeach_Text_AmaraPostBattle::
-	.string "The sea is pleasantly warm in these\n"
-	.string "parts.$"
+	.string "这个地方的海水很温暖。$"
 
 OneIsland_TreasureBeach_Text_GoodThingsWashUpOnBeach::
-	.string "Good things get washed up by the\n"
-	.string "ocean current onto this beach.\p"
-	.string "That's why I often come here for\n"
-	.string "some beachcombing.$"
+	.string "有些好的东西有时候会被海浪冲到沙\n"
+	.string "滩上来。\p"
+	.string "所以所以我经常来这沙滩上碰碰运气\n"
+	.string "。$"
 

@@ -15,8 +15,8 @@ SSAnne_2F_Room1_EventScript_Gentleman::
 	end
 
 SSAnne_2F_Room1_Text_SleepingMonLookedLikeThis::
-	.string "I've journeyed far and wide, but in\n"
-	.string "all my travels I've never seen\l"
-	.string "any POKéMON sleep like this one!\p"
-	.string "It was something like this!$"
+	.string "我到处旅行，但是在我所有的旅行中\n"
+	.string "我从未见过任何宝可梦睡觉的样子像\l"
+	.string "它！\p"
+	.string "它是这样个样子的！$"
 

@@ -273,14 +273,14 @@ SlateportCity_BattleTentLobby_EventScript_ExitRules::
 	end
 
 SlateportCity_BattleTentLobby_Text_CouldntFindMonForMe:
-	.string "So, like, I couldn't find myself any\n"
-	.string "POKéMON that were, like, for me.\p"
-	.string "So, I figured, like, hey, I should file\n"
-	.string "a complaint to the guy there?\p"
-	.string "And he wouldn't hear me out, like, hey!\n"
-	.string "So, like, total bummer, man!\p"
-	.string "Hey, like, you! Zip it, you know?\n"
-	.string "Just, you know, take this!$"
+	.string "那个，呃，我没有，呃，自己的宝可\n"
+	.string "梦，\p"
+	.string "所以，我觉得，呃，那个，我应该向\n"
+	.string "那边那人抱怨一下。\p"
+	.string "但他，呃，根本就不听我的，啊！那\n"
+	.string "个，呃，真讨厌，对吗？\p"
+	.string "啊，呃，你，过来！这个，呃，给你\n"
+	.string "！$"
 
 SlateportCity_BattleTentLobby_Text_ExplainTorment:
 	.string "That's, like, TM41, you know?\n"
@@ -291,17 +291,15 @@ SlateportCity_BattleTentLobby_Text_ExplainTorment:
 	.string "I'm not laying a torment on you!$"
 
 SlateportCity_BattleTentLobby_Text_IllTryUsingBugMons:
-	.string "I don't really like BUG POKéMON,\n"
-	.string "but maybe I'll try using some for\l"
-	.string "a change of pace.\p"
-	.string "Who knows, I might even get to like\n"
-	.string "them!$"
+	.string "我并不很喜欢虫属性宝可梦，但也许\n"
+	.string "我可以用用试试，做些改变。\p"
+	.string "谁知道我最终会不会喜欢上它们呢！$"
 
 SlateportCity_BattleTentLobby_Text_BattleEvenWithoutToughMons:
-	.string "You can battle all you want here even\n"
-	.string "if you don't have any tough POKéMON.$"
+	.string "就算你没有强大的宝可梦，也可以在\n"
+	.string "这里尽情战斗。$"
 
 SlateportCity_BattleTentLobby_Text_NiceIfMoreSelection:
-	.string "Wouldn't it be nice if they had more of\n"
-	.string "a selection?$"
+	.string "如果他们能给出更多选择不是很好吗\n"
+	.string "？$"
 

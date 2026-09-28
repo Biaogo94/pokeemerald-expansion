@@ -352,68 +352,54 @@ CinnabarIsland_EventScript_GymSign::
 	end
 
 CinnabarIsland_Text_DoorIsLocked::
-	.string "The door is locked…$"
+	.string "门被锁上了……$"
 
 CinnabarIsland_Text_BlaineLivedHereSinceBeforeLab::
-	.string "CINNABAR GYM's BLAINE is quite the\n"
-	.string "odd fellow.\p"
-	.string "He's lived on the island since way\n"
-	.string "before the LAB was built.$"
+	.string "红莲道馆的夏伯很古怪。\p"
+	.string "自从实验室建立以来他就一直住在岛\n"
+	.string "上。$"
 
 CinnabarIsland_Text_ScientistsExperimentInMansion::
-	.string "Scientists conduct experiments \n"
-	.string "in the burned-out building.\p"
-	.string "You know, the one they call the\n"
-	.string "POKéMON MANSION.$"
+	.string "科学家们在烧焦的建筑里做实验。\p"
+	.string "就是在那边被称做是宝可梦屋的地方\n"
+	.string "。$"
 
 CinnabarIsland_Text_IslandSign::
-	.string "CINNABAR ISLAND\n"
-	.string "The Fiery Town of Burning Desire$"
+	.string "红莲镇燃烧着炽热欲望的小镇$"
 
 CinnabarIsland_Text_PokemonLab::
-	.string "POKéMON LAB$"
+	.string "宝可梦实验室$"
 
 CinnabarIsland_Text_GymSign::
-	.string "CINNABAR ISLAND POKéMON GYM\n"
-	.string "LEADER: BLAINE\l"
-	.string "The Hotheaded Quiz Master!$"
+	.string "红莲镇宝可梦道馆馆主：夏伯燃烧的\n"
+	.string "谜题狂人！$"
 
 CinnabarIsland_Text_HeyIfItIsntPlayer::
-	.string "Huh?\n"
-	.string "Hey, if it isn't {PLAYER}!$"
+	.string "嗯？嘿，这不是{PLAYER}吗\n"
+	.string "！$"
 
 CinnabarIsland_Text_ComeWithMeToOneIsland::
-	.string "Look, it's me, BILL.\n"
-	.string "Long time no see!\p"
-	.string "I hope you're still using my\n"
-	.string "PC system.\p"
-	.string "Well, listen, since we met up here,\n"
-	.string "how about spending time with me?\p"
-	.string "There's this little island in the far\n"
-	.string "south called ONE ISLAND.\p"
-	.string "A friend invited me, so I'm on my\n"
-	.string "way out there.\p"
-	.string "How about it?\n"
-	.string "Do you feel like coming with me?$"
+	.string "看，是我，正辉。真是好久不见了！\p"
+	.string "希望你还在使用我的电脑系统。\p"
+	.string "呐，既然我们在这里遇上，要不要陪\n"
+	.string "我一下？\p"
+	.string "在遥远的南方有个小岛叫做一之岛。\p"
+	.string "一个朋友邀请我过去玩玩，我正在去\n"
+	.string "他那儿的路上。\p"
+	.string "怎么样？你想跟我一块去吗？$"
 
 CinnabarIsland_Text_AllRightLetsGo::
-	.string "All right, then.\n"
-	.string "Let's go!$"
+	.string "那么好吧。我们走！$"
 
 CinnabarIsland_Text_IllBeWaitingInPokeCenter::
-	.string "What, are you too busy?\p"
-	.string "Well, all right.\n"
-	.string "The boat hasn't arrived yet anyway.\p"
-	.string "I'll be waiting at the POKéMON\n"
-	.string "CENTER over there.\p"
-	.string "Come see me when you're done with\n"
-	.string "your business here.$"
+	.string "什么，你很忙？\p"
+	.string "那好吧。船到现在还没有到。\p"
+	.string "我会在宝可梦中心等着你。\p"
+	.string "你忙完了之后，再过来找我吧。$"
 
 CinnabarIsland_Text_MyPalsBoatArrived::
-	.string "Looks like my pal's boat arrived,\n"
-	.string "too.\p"
-	.string "He sent it specially here to\n"
-	.string "CINNABAR to pick me up.$"
+	.string "看起来我同伴的船也到了。\p"
+	.string "他是特意来红莲镇接我的。$"
 
 CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain::
 	.string "Hey, wasn't that a long cruise?\p"

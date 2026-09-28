@@ -15,11 +15,9 @@ SilphCo_1F_EventScript_FloorSign::
 	end
 
 SilphCo_1F_Text_WelcomePresidentInBoardroom::
-	.string "Welcome.\p"
-	.string "The PRESIDENT is in the boardroom\n"
-	.string "on 11F.$"
+	.string "欢迎光临。\p"
+	.string "总裁在11F的会议室。$"
 
 SilphCo_1F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "1F$"
+	.string "西尔佛公司总部1层$"
 

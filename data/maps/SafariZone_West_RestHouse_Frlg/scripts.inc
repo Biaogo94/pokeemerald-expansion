@@ -14,24 +14,22 @@ SafariZone_West_RestHouse_EventScript_CooltrainerF::
 	end
 
 SafariZone_West_Text_KogaPatrolsSafariEverySoOften::
-	.string "The SAFARI ZONE's huge, wouldn't\n"
-	.string "you say?\p"
-	.string "FUCHSIA's GYM LEADER, KOGA, \n"
-	.string "patrols the grounds every so often.\p"
-	.string "Thanks to him, we can play here\n"
-	.string "knowing that we're safe.$"
+	.string "你不觉得野生原野区实在是大得吓人\n"
+	.string "吗？\p"
+	.string "浅红的道馆馆主阿桔，经常会在原野\n"
+	.string "区里巡逻。\p"
+	.string "我们能在这里放心地游玩真是多亏了\n"
+	.string "他呢。$"
 
 SafariZone_West_Text_RocksMakeMonRunButEasierCatch::
-	.string "Tossing ROCKS at POKéMON might\n"
-	.string "make them run, but they'll be\l"
-	.string "easier to catch.$"
+	.string "向宝可梦扔石头也许会使他们逃跑，\n"
+	.string "但它们会很容易地被抓到。$"
 
 SafariZone_West_Text_BaitMakesMonStickAround::
-	.string "Using BAIT will make POKéMON more\n"
-	.string "likely to stick around if they get\l"
-	.string "busy eating.$"
+	.string "使用饵食抓宝可梦会更容易驻留，它\n"
+	.string "们可能会忙着去吃那些诱饵的话。$"
 
 SafariZone_West_Text_HikedLotsDidntSeeMonIWanted::
-	.string "I hiked a lot, but I didn't see any\n"
-	.string "POKéMON I wanted.$"
+	.string "我走了很多的路但我没有看到任何我\n"
+	.string "想要的宝可梦。$"
 

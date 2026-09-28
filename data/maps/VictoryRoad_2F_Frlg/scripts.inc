@@ -77,58 +77,54 @@ VictoryRoad_2F_EventScript_Vincent::
 	end
 
 VictoryRoad_2F_Text_DawsonIntro::
-	.string "If you can get through here,\n"
-	.string "you can go meet the ELITE FOUR.$"
+	.string "如果你能从这里通过，你就可以去见\n"
+	.string "四天王。$"
 
 VictoryRoad_2F_Text_DawsonDefeat::
-	.string "No!\n"
-	.string "Unbelievable!$"
+	.string "不！令人难以置信！$"
 
 VictoryRoad_2F_Text_DawsonPostBattle::
-	.string "I can beat you when it comes to\n"
-	.string "knowledge about POKéMON!$"
+	.string "要是谈起宝可梦方面的知识，我绝对\n"
+	.string "比你强！$"
 
 VictoryRoad_2F_Text_DaisukeIntro::
-	.string "This here is VICTORY ROAD.\n"
-	.string "It's the final test for TRAINERS!$"
+	.string "这里就是冠军之路。这是训练家的最\n"
+	.string "终试炼！$"
 
 VictoryRoad_2F_Text_DaisukeDefeat::
-	.string "Atcho!$"
+	.string "阿嚏！$"
 
 VictoryRoad_2F_Text_DaisukePostBattle::
-	.string "If you get stuck, try moving some\n"
-	.string "boulders around.$"
+	.string "当你被卡住的时候，试着移动一些在\n"
+	.string "周围的巨石。$"
 
 VictoryRoad_2F_Text_NelsonIntro::
-	.string "Ah, so you wish to challenge the\n"
-	.string "ELITE FOUR?$"
+	.string "啊，你想挑战四天王吗？$"
 
 VictoryRoad_2F_Text_NelsonDefeat::
-	.string "You got me!$"
+	.string "我败给你了！$"
 
 VictoryRoad_2F_Text_NelsonPostBattle::
-	.string "{RIVAL} also came through here.$"
+	.string "{RIVAL}到此一游。$"
 
 VictoryRoad_2F_Text_VincentIntro::
-	.string "Come on!\n"
-	.string "I'll whip you!$"
+	.string "来吧！我会击垮你！$"
 
 VictoryRoad_2F_Text_VincentDefeat::
-	.string "I got whipped!$"
+	.string "我被击垮了！$"
 
 VictoryRoad_2F_Text_VincentPostBattle::
-	.string "You earned the right to be on\n"
-	.string "VICTORY ROAD…$"
+	.string "你获得了进入冠军之路的权利……$"
 
 VictoryRoad_2F_Text_GregoryIntro::
-	.string "Is VICTORY ROAD too tough?$"
+	.string "冠军之路很艰难吗？$"
 
 VictoryRoad_2F_Text_GregoryDefeat::
-	.string "Well done!$"
+	.string "干得好！$"
 
 VictoryRoad_2F_Text_GregoryPostBattle::
-	.string "Many TRAINERS give up their\n"
-	.string "challenge here and go home.$"
+	.string "许多训练家放弃在这里的挑战，回老\n"
+	.string "家结婚去了。$"
 
 @ Unused, old text for Moltres
 VictoryRoad_2F_Text_Gyaoo::

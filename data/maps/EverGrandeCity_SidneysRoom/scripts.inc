@@ -65,23 +65,21 @@ EverGrandeCity_SidneysRoom_EventScript_Defeated::
 	end
 
 EverGrandeCity_SidneysRoom_Text_IntroSpeech:
-	.string "Welcome, challenger!\n"
-	.string "I'm SIDNEY of the ELITE FOUR.\p"
-	.string "I like that look you're giving me.\n"
-	.string "I guess you'll give me a good match.\l"
-	.string "That's good! Looking real good!\p"
-	.string "All right! You and me, let's enjoy\n"
-	.string "a battle that can only be staged\l"
-	.string "here in the POKéMON LEAGUE!$"
+	.string "欢迎你，挑战者！我是四天王中的花\n"
+	.string "月。\p"
+	.string "我喜欢你的神情。我猜这会是一场精\n"
+	.string "彩的战斗吧。很好！看起来很棒！\p"
+	.string "好！让我们还有你们，来一起好好享\n"
+	.string "受只有在宝可梦联盟才能体验的对战\l"
+	.string "吧！$"
 
 EverGrandeCity_SidneysRoom_Text_Defeat:
-	.string "Well, how do you like that? I lost!\n"
-	.string "Eh, it was fun, so it doesn't matter.$"
+	.string "嗯，你觉得如何？我输了！嗯，不过\n"
+	.string "这很有趣，所以也无所谓。$"
 
 EverGrandeCity_SidneysRoom_Text_PostBattleSpeech:
-	.string "Well, listen to what this loser has\n"
-	.string "to say.\p"
-	.string "You've got what it takes to go far.\n"
-	.string "Now, go on to the next room and enjoy\l"
-	.string "your next battle!$"
+	.string "好，听听我这个失败者的话。\p"
+	.string "你已经具备了前进所需的一切。现在\n"
+	.string "，继续去下一个房间享受你的下一场\l"
+	.string "战斗吧！$"
 

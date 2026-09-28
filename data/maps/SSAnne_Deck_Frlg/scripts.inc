@@ -24,37 +24,34 @@ SSAnne_Deck_EventScript_Trevor::
 	end
 
 SSAnne_Deck_Text_ShipDepartingSoon::
-	.string "The party's over.\n"
-	.string "The ship will be departing soon.$"
+	.string "派对结束了。船很快就要离港了。$"
 
 SSAnne_Deck_Text_ScrubbingDecksHardWork::
-	.string "Whew!\n"
-	.string "Scrubbing decks is hard work!$"
+	.string "喔！洗甲板真是辛苦活！$"
 
 SSAnne_Deck_Text_FeelSeasick::
-	.string "Urf… I feel ill…\p"
-	.string "I got seasick, so I stepped out to\n"
-	.string "get some air…$"
+	.string "呃……我不舒服……\p"
+	.string "我晕船，所以我出来呼吸点新鲜空气\n"
+	.string "……$"
 
 SSAnne_Deck_Text_EdmondIntro::
-	.string "Hey, matey!\p"
-	.string "Let's do a little jig!$"
+	.string "嗨，朋友！\p"
+	.string "我们来跳支舞吧！$"
 
 SSAnne_Deck_Text_EdmondDefeat::
-	.string "You're impressive!$"
+	.string "你给我留下了深刻的印象！$"
 
 SSAnne_Deck_Text_EdmondPostBattle::
-	.string "How many kinds of POKéMON do you\n"
-	.string "think there are in this big world?$"
+	.string "你认为这个世界上一共有多少种宝可\n"
+	.string "梦？$"
 
 SSAnne_Deck_Text_TrevorIntro::
-	.string "Ahoy, there!\n"
-	.string "Are you seasick?$"
+	.string "喂，你！你晕船吗？$"
 
 SSAnne_Deck_Text_TrevorDefeat::
-	.string "I was just careless!$"
+	.string "我只是一时大意！$"
 
 SSAnne_Deck_Text_TrevorPostBattle::
-	.string "My pa said there are 100 kinds of\n"
-	.string "POKéMON. I think there are more.$"
+	.string "我老爸说一共有100种宝可梦。我\n"
+	.string "感觉应该不止这么多。$"
 

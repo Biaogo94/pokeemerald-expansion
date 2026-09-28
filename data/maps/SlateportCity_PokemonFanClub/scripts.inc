@@ -253,52 +253,45 @@ SlateportCity_PokemonFanClub_EventScript_Azumarill::
 	end
 
 SlateportCity_PokemonFanClub_Text_MeetChairman:
-	.string "Er-hem! I am the CHAIRMAN of the\n"
-	.string "POKéMON FAN CLUB!\p"
-	.string "Being the CHAIRMAN, I am naturally\n"
-	.string "the most important!\p"
-	.string "No one can best me when it comes\n"
-	.string "to raising POKéMON. No one!\p"
-	.string "Well, let me tell you about\n"
-	.string "POKéMON CONTESTS.\p"
-	.string "They're events where one can show off\n"
-	.string "POKéMON for the world to see!\p"
-	.string "However, they're held in far-off towns,\n"
-	.string "so I cannot participate often enough.\p"
-	.string "That is why we gather here to show\n"
-	.string "off our POKéMON, and have others\l"
-	.string "show us theirs.$"
+	.string "咳咳！我是宝可梦发烧友俱乐部的会\n"
+	.string "长！\p"
+	.string "当然，作为会长，我是这里最重要的\n"
+	.string "人！\p"
+	.string "说到培育宝可梦，没人能做得比我更\n"
+	.string "好，一个也没有！\p"
+	.string "我告诉你一些关于宝可梦华丽大赛的\n"
+	.string "事吧。\p"
+	.string "这是向全世界展示自己的宝可梦魅力\n"
+	.string "的盛大比赛！\p"
+	.string "可惜比赛都在很远的城镇举行，我没\n"
+	.string "法经常参加。\p"
+	.string "正因如此，我们才会聚集到这里互相\n"
+	.string "展示我们的宝可梦。$"
 
 SlateportCity_PokemonFanClub_Text_LikeToSeeEnteredContestPokemon:
-	.string "The POKéMON of a TRAINER who has\n"
-	.string "entered a POKéMON CONTEST…\l"
-	.string "That, I would like to see.$"
+	.string "参加了宝可梦华丽大赛的训练家培育\n"
+	.string "的宝可梦……真想亲眼看看啊。$"
 
 SlateportCity_PokemonFanClub_Text_AllowMeToExamineYourPokemon:
-	.string "Er-hem! I see you've participated in\n"
-	.string "a POKéMON CONTEST!\p"
-	.string "Please! Allow me to examine how you\n"
-	.string "have raised your POKéMON.\p"
-	.string "It delights me no end to see POKéMON\n"
-	.string "raised by other TRAINERS.\p"
-	.string "The happy expressions of POKéMON\n"
-	.string "raised with proper care…\p"
-	.string "The kindly eyes of the TRAINER that\n"
-	.string "nurtured and raised the POKéMON…\p"
-	.string "The very thought fills my heart to\n"
-	.string "overwhelming with joy.\p"
-	.string "Oh! I do beg your pardon!\n"
-	.string "Forgive me for prattling on so!\p"
-	.string "Please! Allow me to examine how much\n"
-	.string "your POKéMON has grown!$"
+	.string "咳咳！看来你参加过宝可梦华丽大赛\n"
+	.string "！\p"
+	.string "请务必让我看看你的培育成果！\p"
+	.string "看到其他训练家培育的宝可梦总让我\n"
+	.string "欣喜若狂！\p"
+	.string "被悉心照顾的宝可梦那幸福的表情…\n"
+	.string "…\p"
+	.string "培育宝可梦的训练家那温柔的眼神…\n"
+	.string "…\p"
+	.string "光是想象就让我心潮澎湃！\p"
+	.string "啊！抱歉！请原谅我的喋喋不休！\p"
+	.string "请让我看看你的培育成果吧！$"
 
 SlateportCity_PokemonFanClub_Text_HowIsYourPokemonGrowing:
-	.string "How is your POKéMON growing?\n"
-	.string "Allow me to examine it.$"
+	.string "你的宝可梦培育得如何？让我看看吧\n"
+	.string "。$"
 
 SlateportCity_PokemonFanClub_Text_HmHmISee:
-	.string "Hm, hm…\n"
-	.string "I see…$"
+	.string "唔，嗯……看来……$"
 
 SlateportCity_PokemonFanClub_Text_GiveMonMorePokeblocks:
 	.string "Hmmm… It's not bad, but it's not\n"
@@ -309,92 +302,80 @@ SlateportCity_PokemonFanClub_Text_GiveMonMorePokeblocks:
 	.string "you give it more {POKEBLOCK}S?$"
 
 SlateportCity_PokemonFanClub_Text_NoSpaceForReward:
-	.string "Oh, my…\p"
-	.string "Your POKéMON is growing quite well,\n"
-	.string "so you deserve a reward.\p"
-	.string "Unfortunately, you have no space for\n"
-	.string "this in your BAG.$"
+	.string "哎呀呀……\p"
+	.string "你的宝可梦培育得很不错，本该给你\n"
+	.string "奖励的。\p"
+	.string "但很遗憾，你的包包已经满了。$"
 
 SlateportCity_PokemonFanClub_Text_MonMostImpressiveGiveItThis:
-	.string "Your {STR_VAR_1}, it is growing in\n"
-	.string "a most impressive manner!\l"
-	.string "It is one fine specimen!\p"
-	.string "But! If you were to give it this,\n"
-	.string "it would grow even better! Indeed!$"
+	.string "你的{STR_VAR_1}培育得\n"
+	.string "相当出色！堪称模范！\p"
+	.string "但如果戴上这个，它还能变得更好！\n"
+	.string "真的！$"
 
 SlateportCity_PokemonFanClub_Text_ExplainRedScarf:
-	.string "Let a POKéMON hold that RED SCARF.\p"
-	.string "Everyone will recognize the coolness\n"
-	.string "of that POKéMON!$"
+	.string "给宝可梦戴上这红色头巾，\p"
+	.string "大家都会认可它的帅气！$"
 
 SlateportCity_PokemonFanClub_Text_ExplainBlueScarf:
-	.string "Let a POKéMON hold that BLUE SCARF.\p"
-	.string "Its beauty will be accentuated much\n"
-	.string "more than now!$"
+	.string "给宝可梦戴上这蓝色头巾，\p"
+	.string "能更好地衬托它的美丽！$"
 
 SlateportCity_PokemonFanClub_Text_ExplainPinkScarf:
-	.string "Let a POKéMON hold that PINK SCARF.\p"
-	.string "It will draw out the cuteness of\n"
-	.string "the POKéMON some more!$"
+	.string "给宝可梦戴上这粉红头巾，\p"
+	.string "会更加凸显它的可爱！$"
 
 SlateportCity_PokemonFanClub_Text_ExplainGreenScarf:
-	.string "Let a POKéMON hold that GREEN SCARF.\p"
-	.string "That will enhance the\n"
-	.string "smartness of POKéMON!$"
+	.string "给宝可梦戴上这绿色头巾，\p"
+	.string "能增强它的聪明气质！$"
 
 SlateportCity_PokemonFanClub_Text_ExplainYellowScarf:
-	.string "Let a POKéMON hold that YELLOW SCARF.\p"
-	.string "It will bolster your POKéMON's\n"
-	.string "toughness so much more!$"
+	.string "给宝可梦戴上这黄色头巾，\p"
+	.string "会让它看起来更加强壮！$"
 
 SlateportCity_PokemonFanClub_Text_NothingElseToGiveYou:
-	.string "I'm sorry, but I've nothing else to\n"
-	.string "give you! None at all!\p"
-	.string "After all, you're blessed with the gift\n"
-	.string "of raising POKéMON without resorting\l"
-	.string "to any items!$"
+	.string "很遗憾，我已经没有可以给你的东西\n"
+	.string "了！没有了！\p"
+	.string "不过，你有那种不依靠任何道具就能\n"
+	.string "培育出非常优秀的宝可梦的天赋！$"
 
 SlateportCity_PokemonFanClub_Text_ShowMePokemonThatLoveYou:
-	.string "I love seeing POKéMON that love\n"
-	.string "their TRAINERS.\p"
-	.string "POKéMON are very sensitive to\n"
-	.string "the feelings of their TRAINERS.\p"
-	.string "If you treat your POKéMON with love\n"
-	.string "and care, they'll love you back.\p"
-	.string "When your POKéMON grow to love you,\n"
-	.string "please come show me.$"
+	.string "我喜欢看到爱它们的训练家的宝可梦\n"
+	.string "。\p"
+	.string "宝可梦对训练家的感情非常敏感，\p"
+	.string "如果你用爱与细心照料你的宝可梦，\n"
+	.string "它们也会回报你的爱。\p"
+	.string "当你的宝可梦开始喜欢你了，就来给\n"
+	.string "我看看吧。$"
 
 SlateportCity_PokemonFanClub_Text_PokemonAdoresYou:
-	.string "Your POKéMON really adores you.\p"
-	.string "For you, a most compassionate\n"
-	.string "TRAINER, a gift from the FAN CLUB!$"
+	.string "你的宝可梦真的很喜欢你。\p"
+	.string "这是发烧友俱乐部送给你这样充满爱\n"
+	.string "心的训练家的礼物！$"
 
 SlateportCity_PokemonFanClub_Text_TreatPokemonWithLove:
-	.string "POKéMON are very sensitive to\n"
-	.string "the feelings of their TRAINERS.\p"
-	.string "If you treat your POKéMON with love\n"
-	.string "and care, they'll love you back.$"
+	.string "宝可梦对训练家的感情非常敏感，\p"
+	.string "如果你用爱与细心照料你的宝可梦，\n"
+	.string "它们也会回报你的爱。$"
 
 SlateportCity_PokemonFanClub_Text_PokemonDontLikeFainting:
-	.string "If you keep letting a POKéMON faint\n"
-	.string "in battle, it'll come to resent it.\p"
-	.string "Soon, it will become less trusting\n"
-	.string "of the TRAINER.\p"
-	.string "In other words, it certainly won't\n"
-	.string "like you very much.$"
+	.string "如果宝可梦总是在战斗中昏厥，它会\n"
+	.string "感到不满，\p"
+	.string "慢慢开始不信任它的训练家。\p"
+	.string "换句话说，它们当然不会很喜欢你。$"
 
 SlateportCity_PokemonFanClub_Text_MonEnjoyedProtein:
-	.string "Do POKéMON enjoy having items used\n"
-	.string "on them?\p"
-	.string "Mine acted really happy when I gave\n"
-	.string "it some PROTEIN.$"
+	.string "宝可梦喜欢训练家对它们使用道具吗\n"
+	.string "？\p"
+	.string "我把攻击增强剂给我的宝可梦时，它\n"
+	.string "显得相当开心。$"
 
 SlateportCity_PokemonFanClub_Text_Skitty:
-	.string "SKITTY: Fffnyaaaah…$"
+	.string "向尾喵：喵呀呀呀……$"
 
 SlateportCity_PokemonFanClub_Text_Zigzagoon:
-	.string "ZIGZAGOON: Kyuuu…$"
+	.string "蛇纹熊：卡哟哟哟……$"
 
 SlateportCity_PokemonFanClub_Text_Azumarill:
-	.string "AZUMARILL: Marimari?$"
+	.string "露力丽：玛丽玛利？$"
 

@@ -537,51 +537,46 @@ LilycoveCity_Harbor_Movement_SailorBoardWithBrineyEast:
 	step_end
 
 LilycoveCity_Harbor_Text_FerryUnavailable:
-	.string "I beg your pardon?\n"
-	.string "You're looking for a ship?\p"
-	.string "I'm sorry, the ferry service isn't\n"
-	.string "available at present…$"
+	.string "您说什么？想要乘船吗？\p"
+	.string "对不起，目前渡轮还未通航……$"
 
 LilycoveCity_Harbor_Text_MayISeeYourTicket:
-	.string "Hello, are you here for the ferry?\n"
-	.string "May I see your TICKET?$"
+	.string "您好，是来乘渡轮吗？可以出示您的\n"
+	.string "船票吗？$"
 
 LilycoveCity_Harbor_Text_NoTicket:
-	.string "{PLAYER} doesn't have the TICKET…\p"
-	.string "I'm terribly sorry.\p"
-	.string "You must have a TICKET to board\n"
-	.string "the ferry.$"
+	.string "{PLAYER}没有船票……\p"
+	.string "非常抱歉。\p"
+	.string "必须要持有船票才能登船。$"
 
 LilycoveCity_Harbor_Text_FlashTicketWhereTo:
-	.string "{PLAYER} flashed the TICKET.\p"
-	.string "Perfect! That's all you need!\p"
-	.string "And where would you like to go?$"
+	.string "{PLAYER}出示了船票。\p"
+	.string "好的，没问题了！\p"
+	.string "您想去哪里？$"
 
 LilycoveCity_Harbor_Text_SailAnotherTime:
-	.string "Please sail with us another time!$"
+	.string "欢迎下次再来！$"
 
 LilycoveCity_Harbor_Text_SlateportItIs:
-	.string "SLATEPORT CITY it is, then!$"
+	.string "那就前往凯那市吧！$"
 
 LilycoveCity_Harbor_Text_BattleFrontierItIs:
-	.string "BATTLE FRONTIER it is, then!$"
+	.string "那就前往对战开拓区吧！$"
 
 LilycoveCity_Harbor_Text_PleaseBoard:
-	.string "Please board the ferry and wait for\n"
-	.string "departure.$"
+	.string "请登船等候出发。$"
 
 LilycoveCity_Harbor_Text_WhereWouldYouLikeToGo:
-	.string "Then, where would you like to go?$"
+	.string "那么您想去哪里？$"
 
 LilycoveCity_Harbor_Text_SailorFerryUnavailable:
-	.string "Until they finish making the ferry,\n"
-	.string "we sailors have nothing to do…\p"
-	.string "I wish they'd get a move on, the folks\n"
-	.string "at the SHIPYARD in SLATEPORT.$"
+	.string "他们不造好渡轮，我们水手就无事可\n"
+	.string "做……\p"
+	.string "希望凯那市的船厂里那些家伙们动作\n"
+	.string "快一点。$"
 
 LilycoveCity_Harbor_Text_SailorFerryAvailable:
-	.string "The ferry S.S. TIDAL is finally in\n"
-	.string "operation.\p"
-	.string "The folks at the SHIPYARD in SLATEPORT\n"
-	.string "must've worked extra hard.\p"
-	.string "Well, it's my turn to get busy now!$"
+	.string "破浪号渡轮终于完成了，\p"
+	.string "凯那市的船厂里那些家伙们一定干得\n"
+	.string "很努力。\p"
+	.string "好了，现在该我们忙活了！$"

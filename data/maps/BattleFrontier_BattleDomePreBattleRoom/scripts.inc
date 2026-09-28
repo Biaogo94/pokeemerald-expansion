@@ -271,122 +271,106 @@ BattleFrontier_BattleDomePreBattleRoom_Movement_PlayerEnterDoor:
 	step_end
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForRound1:
-	.string "Your 1st-round match is next.\n"
-	.string "Are you ready?$"
+	.string "接下来您将参加第1轮比赛。准备好\n"
+	.string "了吗？$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForRound2:
-	.string "Your 2nd-round match is next.\n"
-	.string "Are you ready?$"
+	.string "接下来您将参加第2轮比赛。准备好\n"
+	.string "了吗？$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForSemifinals:
-	.string "Your semifinal match is next.\n"
-	.string "Are you ready?$"
+	.string "接下来您将参加半决赛。准备好了吗\n"
+	.string "？$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForFinals:
-	.string "Your final match is next.\n"
-	.string "Are you ready?$"
+	.string "接下来您将参加决赛。准备好了吗？$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ChooseTwoMons:
-	.string "Please choose the two POKéMON\n"
-	.string "that are to appear in battle.$"
+	.string "请选择2只即将在对战中登场的宝可\n"
+	.string "梦。$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RightThisWay:
-	.string "Right this way, please.$"
+	.string "这边请。$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RestoreMonsToFullHealth:
-	.string "Thank you for competing!\p"
-	.string "I'll restore your POKéMON to\n"
-	.string "full health.$"
+	.string "辛苦了！\p"
+	.string "我来帮您的宝可梦回复体力。$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_Round1Complete:
-	.string "All 1st-round matches have been\n"
-	.string "completed.\p"
-	.string "These are the teams that advanced!$"
+	.string "所有的第1轮比赛都已结束。\p"
+	.string "这些是成功晋级的队伍！$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_Round2Complete:
-	.string "All 2nd-round matches have been\n"
-	.string "completed.\p"
-	.string "These are the teams that advanced!$"
+	.string "所有的第2轮比赛都已结束。\p"
+	.string "这些是成功晋级的队伍！$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SemifinalsComplete:
-	.string "All semifinal matches have been\n"
-	.string "completed.\p"
-	.string "These are the teams that advanced!$"
+	.string "所有的半决赛比赛都已结束。\p"
+	.string "这些是成功晋级的队伍！$"
 
 @ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForRound2:
-	.string "Congratulations for getting through\n"
-	.string "the 1st round.\p"
-	.string "The 2nd round is next.\n"
-	.string "Are you ready?$"
+	.string "恭喜通过第1轮比赛。\p"
+	.string "接下来是第2轮。准备好了吗？$"
 
 @ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForSemifinals:
-	.string "Congratulations for advancing\n"
-	.string "to the semifinals.\p"
-	.string "The best four teams meet in this round.\n"
-	.string "Are you ready?$"
+	.string "恭喜进入半决赛。\p"
+	.string "4个强队在此相遇。准备好了吗？$"
 
 @ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForFinals:
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "You're one win from the championship.\n"
-	.string "Are you ready?$"
+	.string "恭喜进入决赛。\p"
+	.string "您是冠军候选之一。准备好了吗？$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_PlayersNextOpponentIsTrainer:
-	.string "{PLAYER}'s next opponent\n"
-	.string "is this TRAINER.$"
+	.string "{PLAYER}的下一位对手是这\n"
+	.string "位训练家。$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound1:
-	.string "The tournament is in the 1st round.$"
+	.string "锦标赛进入第1回合！$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound2:
-	.string "The tournament is in the 2nd round.$"
+	.string "锦标赛进入第2回合！$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInSemifinals:
-	.string "The tournament is in the semifinals.$"
+	.string "锦标赛进入半决赛！$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInFinals:
-	.string "The tournament is up to the final.$"
+	.string "锦标赛进入决赛！$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and\n"
-	.string "quit the game?$"
+	.string "要写入记录并且暂停吗？$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RetireYourChallenge:
-	.string "Would you like to retire from your\n"
-	.string "Battle Tournament challenge?$"
+	.string "要结束对战锦标赛的挑战吗？$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SavingDataPleaseWait:
-	.string "I am saving your data.\n"
-	.string "Please wait.$"
+	.string "正在写入记录……请稍候。$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RecordLastMatch:
-	.string "Should I record your last match\n"
-	.string "on your FRONTIER PASS?$"
+	.string "要将您的最后一场对战记录到开拓通\n"
+	.string "行证上吗？$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilver:
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "For the final match, you will challenge\n"
-	.string "the DOME ACE TUCKER.\p"
-	.string "Are you ready?$"
+	.string "恭喜您成功进入决赛！\p"
+	.string "在决赛中，您将挑战的人是——巨蛋\n"
+	.string "超级巨星石南。\p"
+	.string "准备好了吗？$"
 
 @ Identical to ReadyForTuckerSilver
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGold:
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "For the final match, you will challenge\n"
-	.string "the DOME ACE TUCKER.\p"
-	.string "Are you ready?$"
+	.string "恭喜您成功进入决赛！\p"
+	.string "在决赛中，您将挑战的人是——巨蛋\n"
+	.string "超级巨星石南。\p"
+	.string "准备好了吗？$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilverShort:
-	.string "Your final battle against TUCKER is\n"
-	.string "next. Are you ready?$"
+	.string "接下来的是您最后的对手石南。准备\n"
+	.string "好了吗？$"
 
 @ Identical again
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGoldShort:
-	.string "Your final battle against TUCKER is\n"
-	.string "next. Are you ready?$"
+	.string "接下来的是您最后的对手石南。准备\n"
+	.string "好了吗？$"
 

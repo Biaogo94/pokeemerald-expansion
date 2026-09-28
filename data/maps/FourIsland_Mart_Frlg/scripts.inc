@@ -30,12 +30,12 @@ FourIsland_Mart_EventScript_Camper::
 	end
 
 FourIsland_Mart_Text_LoreleiGrewUpOnThisIsland::
-	.string "We've had a great and powerful\n"
-	.string "TRAINER grow up on this island.\p"
-	.string "I bet even you'd know her.\n"
-	.string "It's LORELEI of the ELITE FOUR!\p"
-	.string "When LORELEI was just a tyke,\n"
-	.string "I taught her about POKéMON.$"
+	.string "在这座岛上有一个伟大的训练家在这\n"
+	.string "里长大。\p"
+	.string "我猜你已经知道她是谁了。没错，她\n"
+	.string "就是四天王的科拿！\p"
+	.string "当科拿还是一个小孩子的时候，我教\n"
+	.string "过她宝可梦的战斗。$"
 
 FourIsland_Mart_Text_IcefallCaveIsFrigid::
 	.string "The SEVII ISLANDS are in a warm\n"

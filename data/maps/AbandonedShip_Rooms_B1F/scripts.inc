@@ -11,8 +11,7 @@ AbandonedShip_Rooms_B1F_EventScript_FatMan::
 	end
 
 AbandonedShip_Rooms_B1F_Text_GettingQueasy:
-	.string "Urrrrppp…\p"
-	.string "I'm getting queasy just being aboard\n"
-	.string "this ship…\p"
-	.string "It's not even moving, but…$"
+	.string "啊啊……\p"
+	.string "我一上这船就想吐……\p"
+	.string "虽然船还没开……$"
 

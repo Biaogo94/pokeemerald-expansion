@@ -36,22 +36,24 @@ VermilionCity_House2_EventScript_AlreadyTraded::
 	end
 
 VermilionCity_House2_Text_DoYouHaveMonWantToTradeForMyMon::
-	.string "Hi!\n"
-	.string "Do you have a {STR_VAR_1}?\p"
-	.string "Want to trade it for my\n"
-	.string "{STR_VAR_2}?$"
+	.string "嗨！你有{STR_VAR_1}吗\n"
+	.string "？\p"
+	.string "要和我的{STR_VAR_2}交\n"
+	.string "换吗？$"
 
 VermilionCity_House2_Text_ThatsTooBad::
-	.string "That's too bad.$"
+	.string "太糟了。$"
 
 VermilionCity_House2_Text_ThisIsNoMon::
-	.string "…This is no {STR_VAR_1}.\p"
-	.string "If you get one, please trade it\n"
-	.string "to me!$"
+	.string "……这不是{STR_VAR_1}\n"
+	.string "。\p"
+	.string "如果你得到了一只，请和我交换吧！$"
 
 VermilionCity_House2_Text_ThankYou::
-	.string "Thank you!$"
+	.string "谢谢你！$"
 
 VermilionCity_House2_Text_HowIsMyOldMon::
-	.string "How is my old {STR_VAR_2}?\p"
-	.string "My {STR_VAR_1} is doing great!$"
+	.string "我的{STR_VAR_2}怎么样\n"
+	.string "了？\p"
+	.string "我的{STR_VAR_1}现在很\n"
+	.string "好！$"

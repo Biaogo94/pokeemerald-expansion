@@ -74,36 +74,34 @@ Route102_EventScript_Allen::
 	end
 
 Route102_Text_WatchMeCatchPokemon:
-	.string "WALLY: {PLAYER}…\n"
-	.string "POKéMON hide in tall grass like this,\l"
-	.string "don't they?\p"
-	.string "Please watch me and see if I can\n"
-	.string "catch one properly.\p"
-	.string "…Whoa!$"
+	.string "满充：{PLAYER}……草丛里\n"
+	.string "会藏着宝可梦，对吧？\p"
+	.string "请你看看我捕捉宝可梦的方法对不对\n"
+	.string "。\p"
+	.string "……哇！$"
 
 Route102_Text_WallyIDidIt:
-	.string "WALLY: I did it… It's my…\n"
-	.string "My POKéMON!$"
+	.string "满充：成功了……这是我的……我的\n"
+	.string "宝可梦！$"
 
 Route102_Text_LetsGoBack:
-	.string "{PLAYER}, thank you!\n"
-	.string "Let's go back to the GYM!$"
+	.string "{PLAYER}，谢谢你！我们回\n"
+	.string "道馆吧！$"
 
 Route102_Text_ImNotVeryTall:
-	.string "I'm…not very tall, so I sink right\n"
-	.string "into tall grass.\p"
-	.string "The grass goes up my nose and…\n"
-	.string "Fwafwafwafwafwa…\p"
-	.string "Fwatchoo!$"
+	.string "我……不是很高，所以在草丛里走的\n"
+	.string "时候我就被草遮起来了。\p"
+	.string "草总是戳到我的鼻子里，然后就……\n"
+	.string "阿——阿—阿——阿……\p"
+	.string "阿嚏！$"
 
 Route102_Text_CatchWholeBunchOfPokemon:
-	.string "I'm going to catch a whole bunch of\n"
-	.string "POKéMON!$"
+	.string "我要捉一大堆宝可梦！$"
 
 Route102_Text_RouteSignOldale:
-	.string "ROUTE 102\n"
-	.string "{RIGHT_ARROW} OLDALE TOWN$"
+	.string "102号道路\n"
+	.string "{RIGHT_ARROW}古玫镇$"
 
 Route102_Text_RouteSignPetalburg:
-	.string "ROUTE 102\n"
-	.string "{LEFT_ARROW} PETALBURG CITY$"
+	.string "102号道路\n"
+	.string "{LEFT_ARROW}橙华市$"

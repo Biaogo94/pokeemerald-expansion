@@ -91,80 +91,72 @@ SilphCo_6F_EventScript_Grunt2::
 	end
 
 SilphCo_6F_Text_RocketsTookOverBuilding::
-	.string "The ROCKETS came and took over\n"
-	.string "the building!$"
+	.string "火箭队闯进来占领了这幢大厦！$"
 
 SilphCo_6F_Text_BetterGetBackToWork::
-	.string "Well, better get back to work.$"
+	.string "嘛，最好回去继续工作。$"
 
 SilphCo_6F_Text_HelpMePlease::
-	.string "Oh dear, oh dear.\n"
-	.string "Help me, please!$"
+	.string "哦，天哪，我的天哪。救命， 请救\n"
+	.string "救我们！$"
 
 SilphCo_6F_Text_WeGotEngaged::
-	.string "We got engaged.\n"
-	.string "Heheh!$"
+	.string "我们订婚了。呵呵！$"
 
 SilphCo_6F_Text_ThatManIsSuchACoward::
-	.string "That man next to me…\n"
-	.string "He's such a coward!$"
+	.string "我旁边的那个男人……他居然是这样\n"
+	.string "的一个懦夫！$"
 
 SilphCo_6F_Text_NeedsMeToLookAfterHim::
-	.string "He's so helpless, he needed\n"
-	.string "someone like me to look after him.$"
+	.string "他很绝望，他需要像我这样的人来照\n"
+	.string "顾他。$"
 
 SilphCo_6F_Text_RocketsTryingToConquerWorld::
-	.string "TEAM ROCKET is trying to conquer\n"
-	.string "the world with POKéMON.$"
+	.string "火箭队正试图用宝可梦征服世界。$"
 
 SilphCo_6F_Text_RocketsRanAwayBecauseOfYou::
-	.string "TEAM ROCKET ran away, and it's all\n"
-	.string "because of you!$"
+	.string "火箭队逃跑了，这都对亏有你！$"
 
 SilphCo_6F_Text_TargetedSilphForOurMonProducts::
-	.string "They must have targeted SILPH for\n"
-	.string "our POKéMON products.$"
+	.string "他们一定是因为宝可梦产品而盯上了\n"
+	.string "我们西尔佛。$"
 
 SilphCo_6F_Text_ComeWorkForSilphWhenYoureOlder::
-	.string "Come work for SILPH when you\n"
-	.string "get older.$"
+	.string "等你长大了就来西尔佛来上班吧。$"
 
 SilphCo_6F_Text_Grunt1Intro::
-	.string "I am one of the four ROCKET\n"
-	.string "BROTHERS!$"
+	.string "我是火箭队四兄弟之一！$"
 
 SilphCo_6F_Text_Grunt1Defeat::
-	.string "Flame out!$"
+	.string "真让人火大！$"
 
 SilphCo_6F_Text_Grunt1PostBattle::
-	.string "No matter!\n"
-	.string "My brothers will avenge me!$"
+	.string "没关系！我的兄弟们会为我报仇的！$"
 
 SilphCo_6F_Text_TaylorIntro::
-	.string "That rotten PRESIDENT!\p"
-	.string "Serves him right for shipping me\n"
-	.string "off to the TIKSI BRANCH!\p"
-	.string "That's why TEAM ROCKET came after\n"
-	.string "us, I'm sure of it!$"
+	.string "那个可恶的总裁！\p"
+	.string "该死的家伙用船把我送到了缇斯基分\n"
+	.string "部！\p"
+	.string "我敢肯定这就是为什么火箭队追着我\n"
+	.string "们不放！$"
 
 SilphCo_6F_Text_TaylorDefeat::
-	.string "Shoot!$"
+	.string "该死！$"
 
 SilphCo_6F_Text_TaylorPostBattle::
-	.string "TIKSI BRANCH?\n"
-	.string "It's in Russian no-man's-land!$"
+	.string "缇斯基分部？在俄罗斯语里这是无人\n"
+	.string "岛的意思！$"
 
 SilphCo_6F_Text_Grunt2Intro::
-	.string "You dare betray TEAM ROCKET?$"
+	.string "你竟敢出卖火箭队？$"
 
 SilphCo_6F_Text_Grunt2Defeat::
-	.string "You traitor!$"
+	.string "你这个叛徒！$"
 
 SilphCo_6F_Text_Grunt2PostBattle::
-	.string "If you stand for justice, you\n"
-	.string "betray us bad guys!$"
+	.string "如果你代表正义，那你就出卖了我们\n"
+	.string "这些坏家伙！$"
 
 SilphCo_6F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "6F$"
+	.string "西尔佛公司总部6层$"
 

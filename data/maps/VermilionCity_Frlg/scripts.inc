@@ -264,123 +264,116 @@ VermilionCity_EventScript_HarborSign::
 	end
 
 VermilionCity_Text_GrimerMultipliesInSludge::
-	.string "We're careful about pollution here.\p"
-	.string "We've heard GRIMER multiplies in\n"
-	.string "toxic sludge.$"
+	.string "我们十分注重对环境的保护。\p"
+	.string "我们曾经听说臭泥会在有毒的污泥里\n"
+	.string "繁殖。$"
 
 VermilionCity_Text_DidYouSeeSSAnneInHarbor::
-	.string "Did you see the S.S. ANNE moored\n"
-	.string "in the harbor?$"
+	.string "你看到圣特安努号停泊在港口了吗？$"
 
 VermilionCity_Text_SSAnneHasDepartedForYear::
-	.string "So, the S.S. ANNE has departed?\p"
-	.string "She'll be back in VERMILION about\n"
-	.string "this time next year.$"
+	.string "这样啊，圣特安努号离港了？\p"
+	.string "她明年会回到枯叶来的。$"
 
 VermilionCity_Text_BuildingOnThisLand::
-	.string "I'm putting up a building on this\n"
-	.string "plot of land. I own it all.\p"
-	.string "My POKéMON is tamping the land\n"
-	.string "to lay the foundation.$"
+	.string "我在这片土地上修房子。你所见的这\n"
+	.string "一切都是我的。\p"
+	.string "我的宝可梦在夯实这里的地块作为地\n"
+	.string "基。$"
 
 VermilionCity_Text_Machop::
-	.string "MACHOP: Guoh! Gogogoh!$"
+	.string "腕力 呃啊！喝啊啊啊！$"
 
 VermilionCity_Text_MachopStompingLandFlat::
-	.string "A MACHOP is stomping the land flat.$"
+	.string "腕力用脚把地面使劲地跺平。$"
 
 VermilionCity_Text_SSAnneVisitsOnceAYear::
-	.string "The S.S. ANNE is a famous luxury\n"
-	.string "cruise ship.\p"
-	.string "It visits VERMILION once a year.$"
+	.string "圣特安努号是一艘著名的游轮。\p"
+	.string "每年都来枯叶一次。$"
 
 VermilionCity_Text_CitySign::
-	.string "VERMILION CITY\n"
-	.string "The Port of Exquisite Sunsets$"
+	.string "枯叶市落日下美丽的港口$"
 
 VermilionCity_Text_SnorlaxBlockingRoute12::
-	.string "NOTICE!\p"
-	.string "ROUTE 12 may be blocked off by a\n"
-	.string "sleeping POKéMON.\p"
-	.string "Detour through ROCK TUNNEL to\n"
-	.string "LAVENDER TOWN.\p"
-	.string "VERMILION POLICE$"
+	.string "通知\p"
+	.string "12号道路被一只熟睡着的宝可梦堵\n"
+	.string "死了。\p"
+	.string "请从岩山隧道绕道至紫苑镇。\p"
+	.string "枯叶警察局$"
 
 VermilionCity_Text_PokemonFanClubSign::
-	.string "POKéMON FAN CLUB\n"
-	.string "All POKéMON fans welcome!$"
+	.string "宝可梦同好会欢迎所有的宝可梦爱好\n"
+	.string "者！$"
 
 VermilionCity_Text_GymSign::
-	.string "VERMILION CITY POKéMON GYM\n"
-	.string "LEADER: LT. SURGE\l"
-	.string "The Lightning American!$"
+	.string "枯叶市宝可梦道馆馆主：马志士闪电\n"
+	.string "般的美国人！$"
 
 VermilionCity_Text_VermilionHarbor::
-	.string "VERMILION HARBOR$"
+	.string "枯叶海港$"
 
 VermilionCity_Text_WelcomeToTheSSAnne::
-	.string "Welcome to the S.S. ANNE!$"
+	.string "欢迎来到圣特安努号！$"
 
 VermilionCity_Text_DoYouHaveATicket::
-	.string "Welcome to the S.S. ANNE!\p"
-	.string "Excuse me, do you have a ticket?$"
+	.string "欢迎来到圣特安努号！\p"
+	.string "抱歉，您是否带了票？$"
 
 VermilionCity_Text_FlashedSSTicket::
-	.string "{FONT_NORMAL}{PLAYER} flashed the S.S. TICKET!\p"
-	.string "{FONT_MALE}Great!\n"
-	.string "Welcome to the S.S. ANNE!$"
+	.string "{FONT_NORMAL}\n"
+	.string "{PLAYER}出示了船票！\p"
+	.string "{FONT_MALE}很好！欢迎\n"
+	.string "来到圣特安努号！$"
 
 VermilionCity_Text_DontHaveNeededSSTicket::
-	.string "{FONT_NORMAL}{PLAYER} doesn't have the needed\n"
-	.string "S.S. TICKET.\p"
-	.string "{FONT_MALE}Sorry!\p"
-	.string "You need a ticket to get aboard.$"
+	.string "{FONT_NORMAL}\n"
+	.string "{PLAYER}没有带着要的船票\l"
+	.string "。\p"
+	.string "{FONT_MALE}对不起！\p"
+	.string "想登船必须得有票。$"
 
 VermilionCity_Text_TheShipSetSail::
-	.string "The ship set sail.$"
+	.string "船顺利地航行着。$"
 
 VermilionCity_Text_BoardSeagallopTriPass::
-	.string "Ah, you have a TRI-PASS.\p"
-	.string "Would you like to board\n"
-	.string "a SEAGALLOP ferry?$"
+	.string "啊，你带着三岛通行证。\p"
+	.string "想坐海烈焰马号来此海上旅行吗？$"
 
 VermilionCity_Text_Seagallop7Departing::
-	.string "Okay, everything's in order.\p"
-	.string "SEAGALLOP HI-SPEED 7 will be\n"
-	.string "departing immediately.$"
+	.string "好，万事俱备了。\p"
+	.string "海烈焰马号将以7被的高速马上起航\n"
+	.string "。$"
 
 VermilionCity_Text_BoardSeagallopRainbowPass::
-	.string "Ah, you have a RAINBOW PASS.\p"
-	.string "Would you like to board\n"
-	.string "a SEAGALLOP ferry?$"
+	.string "啊，你带着彩虹通行证。\p"
+	.string "想坐海烈焰马号来次海上旅行吗？$"
 
 VermilionCity_Text_OhMysticTicketTakeYouToNavelRock::
-	.string "Oh! That's a MYSTICTICKET!\n"
-	.string "Now that is rare.\p"
-	.string "We'll be happy to take you to\n"
-	.string "NAVEL ROCK anytime.$"
+	.string "哦！是神秘的船票啊！这可是难得的\n"
+	.string "珍稀之物。\p"
+	.string "您要是想前往脐之岩，我们随时恭候\n"
+	.string "大驾。$"
 
 VermilionCity_Text_OhAuroraTicketTakeYouToBirthIsland::
-	.string "Oh! That's an AURORATICKET!\n"
-	.string "Now that is rare.\p"
-	.string "We'll be happy to take you to\n"
-	.string "BIRTH ISLAND anytime.$"
+	.string "哦！是诞生之岛船票啊！这可是难得\n"
+	.string "的珍稀之物。\p"
+	.string "您要是想前往诞生之岛，我们随时恭\n"
+	.string "候大驾。$"
 
 VermilionCity_Text_BoardSeagallopFerry::
-	.string "Would you like to board\n"
-	.string "a SEAGALLOP ferry?$"
+	.string "你想乘坐海烈焰马号游艇吗？$"
 
 VermilionCity_Text_Seagallop10Departing::
-	.string "Okay, everything's in order for you\n"
-	.string "to board a special ferry.\p"
-	.string "SEAGALLOP HI-SPEED 10 will be\n"
-	.string "departing immediately.$"
+	.string "好了，您登艇的相关手续已经办理完\n"
+	.string "毕。\p"
+	.string "海烈焰马号将以10倍的高速马上起\n"
+	.string "航。$"
 
 VermilionCity_Text_Seagallop12Departing::
-	.string "Okay, everything's in order for you\n"
-	.string "to board a special ferry.\p"
-	.string "SEAGALLOP HI-SPEED 12 will be\n"
-	.string "departing immediately.$"
+	.string "好了，您登艇的相关手续已经办理完\n"
+	.string "毕。\p"
+	.string "海烈焰马号将以12倍的高速开始起\n"
+	.string "航。$"
 
 VermilionCity_Text_Route2AideHasPackageForYou::
 	.string "Oh, hello, {PLAYER}!\n"

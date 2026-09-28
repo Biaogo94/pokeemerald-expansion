@@ -920,197 +920,178 @@ SlateportCity_EventScript_BerryCrushRankingsSign::
 	end
 
 SlateportCity_Text_EnergyGuruSellWhatYouNeed:
-	.string "I'm the ENERGY GURU! I'll go for it and\n"
-	.string "sell you what you need!$"
+	.string "我是努力家！我会为你寻找需要的东\n"
+	.string "西！$"
 
 SlateportCity_Text_OhYourPokemon:
-	.string "Oh?\n"
-	.string "Your {STR_VAR_1}…$"
+	.string "哦？你的{STR_VAR_1}…\n"
+	.string "…$"
 
 SlateportCity_Text_PleaseGiveItThisEffortRibbon:
-	.string "Went for it stupendously!\p"
-	.string "As its reward, please give it this\n"
-	.string "EFFORT RIBBON.$"
+	.string "很努力嘛！\p"
+	.string "这个努力奖章就给它作奖品吧。$"
 
 SlateportCity_Text_ReceivedEffortRibbon:
-	.string "{PLAYER} received the EFFORT RIBBON.$"
+	.string "{PLAYER}得到努力奖章。$"
 
 SlateportCity_Text_PutEffortRibbonOnMon:
-	.string "{PLAYER} put the EFFORT RIBBON\n"
-	.string "on {STR_VAR_1}.$"
+	.string "{PLAYER}给\n"
+	.string "{STR_VAR_1}戴上努力奖\l"
+	.string "章。$"
 
 SlateportCity_Text_GoForItLittleHarder:
-	.string "You have to go for it a little harder.\p"
-	.string "If you do, I'll give your POKéMON\n"
-	.string "something nice.$"
+	.string "你要更努力些才行。\p"
+	.string "我会给你的宝可梦好东西的。$"
 
 SlateportCity_Text_EffortRibbonLooksGoodOnIt:
-	.string "Oh! Your {STR_VAR_1}, that EFFORT\n"
-	.string "RIBBON looks good on it!$"
+	.string "啊！你的{STR_VAR_1}，\n"
+	.string "戴着努力奖章很合适嘛！$"
 
 SlateportCity_Text_WonderIfLighthouseStartlesPokemon:
-	.string "The light of the lighthouse reaches\n"
-	.string "dozens of miles away.\p"
-	.string "I wonder if it doesn't startle POKéMON\n"
-	.string "in the sea.$"
+	.string "灯塔的光能照到数百里外的地方。\p"
+	.string "不知道这样会不会吓到海里的宝可梦\n"
+	.string "。$"
 
 SlateportCity_Text_SeaweedFullOfLife:
-	.string "Ooh, look at this!\p"
-	.string "The seaweed you can get around these\n"
-	.string "parts is fresh and full of life.\p"
-	.string "Why, it looks like it can even rear up\n"
-	.string "and attack!$"
+	.string "嗨，看这里！\p"
+	.string "这周围的海草都那么新鲜灵动。\p"
+	.string "呀，它看上去好像会跳出来攻击我们\n"
+	.string "！$"
 
 SlateportCity_Text_HowTownIsBornAndGrows:
-	.string "Where the water is clean, the fruits\n"
-	.string "of bountiful harvest gather.\p"
-	.string "And where people gather, a market\n"
-	.string "soon starts.\p"
-	.string "That is how a town is born and grows.$"
+	.string "有洁净水源的地方就会长出富足的果\n"
+	.string "园。\p"
+	.string "然后人们聚集在这里，就出现了集市\n"
+	.string "。\p"
+	.string "一个镇子就是这样诞生和发展下去的\n"
+	.string "。$"
 
 SlateportCity_Text_SlateportWonderfulPlace:
-	.string "Shopping where you can breathe the\n"
-	.string "scent of the ocean…\p"
-	.string "SLATEPORT is such a wonderful place!$"
+	.string "在可以闻到海风的地方购物……\p"
+	.string "凯那市简直就是天堂！$"
 
 SlateportCity_Text_BuyBricksSoDecorWontGetDirty:
-	.string "If you put DOLLS or CUSHIONS on\n"
-	.string "the floor, they'll get dirty.\p"
-	.string "I'm going to buy some BRICKS so my\n"
-	.string "DOLLS and CUSHIONS won't get dirty\l"
-	.string "when I leave them out.$"
+	.string "把玩偶和坐垫直接放在地上的话，会\n"
+	.string "把它们弄脏的，\p"
+	.string "所以我准备买几块砖块来放玩偶和坐\n"
+	.string "垫，这样它们就不会脏了。$"
 
 SlateportCity_Text_GoingToCompeteInBattleTent:
-	.string "Wroooar! I'm going to compete in\n"
-	.string "the BATTLE TENT, too!\p"
-	.string "But before that, I need to catch\n"
-	.string "some POKéMON!$"
+	.string "啊啊啊！我也要参加对战帐篷！\p"
+	.string "但在那之前，我得先去捕捉几只宝可\n"
+	.string "梦！$"
 
 SlateportCity_Text_BushedHikingFromMauville:
-	.string "Whew… I'm just bushed…\p"
-	.string "I hiked over from MAUVILLE CITY.\n"
-	.string "But, boy, this city's huge.\p"
-	.string "If I'd known this, I would've ridden\n"
-	.string "my BIKE here.$"
+	.string "呼……累死了……\p"
+	.string "我是从紫堇市徒步走来的。但是，看\n"
+	.string "呐，这城市简直太大了。\p"
+	.string "早知道我就骑车过来了。$"
 
 SlateportCity_Text_EveryoneCallsHimCaptStern:
-	.string "STERN, the fellow who built the\n"
-	.string "MUSEUM, also happens to be the leader\l"
-	.string "of an undersea exploration team.\p"
-	.string "So, everyone calls him CAPT. STERN.$"
+	.string "是楠木设立了博物馆，他同时也是海\n"
+	.string "底勘探队的队长，\p"
+	.string "大家都叫他楠木馆长。$"
 
 SlateportCity_Text_WhatsLongLineOverThere:
-	.string "What is that over there?\n"
-	.string "That long line…$"
+	.string "那边怎么了？排了那么长的队……$"
 
 SlateportCity_Text_VisitedMuseumOften:
-	.string "When I was a child, I visited\n"
-	.string "the MUSEUM often.\p"
-	.string "I used to dream about the mysteries of\n"
-	.string "the sea after seeing the exhibits.$"
+	.string "我小的时候 经常去博物馆。\p"
+	.string "参观展览的时候，总会陶醉于大海的\n"
+	.string "神秘。$"
 
 SlateportCity_Text_QuitPushing:
-	.string "Hey, there! Quit pushing!\n"
-	.string "This is the line, can't you see?$"
+	.string "喂，你！别挤！你得排队，知道吗？$"
 
 SlateportCity_Text_AquaHasPolicy:
-	.string "TEAM AQUA has a policy of\n"
-	.string "assembling and dispersing at\l"
-	.string "the operation site.$"
+	.string "海洋队在办事的时候有专业的集合和\n"
+	.string "撤退手段。$"
 
 SlateportCity_Text_BossIsBrilliant:
-	.string "Our BOSS is brilliant.\p"
-	.string "What would he want to do with\n"
-	.string "a MUSEUM now?$"
+	.string "我们老大很聪明。\p"
+	.string "但我还没明白他为什么要占领博物馆\n"
+	.string "。$"
 
 SlateportCity_Text_WhatsNewSchemeIWonder:
-	.string "What's the new scheme, I wonder?\p"
-	.string "Our BOSS is scary when he's mad, so\n"
-	.string "I'd better not screw things up…$"
+	.string "不知道下面的计划是什么？\p"
+	.string "老大发起火来太可怕了，我得小心别\n"
+	.string "把事情搞砸……$"
 
 SlateportCity_Text_ShouldTakeItAll:
-	.string "If there's something we need in\n"
-	.string "the MUSEUM, we should take it all!$"
+	.string "如果博物馆里有我们想要的东西，我\n"
+	.string "们就会把那些全部抢走！$"
 
 SlateportCity_Text_DontButtIn:
-	.string "Hey, you there!\n"
-	.string "Don't butt in!$"
+	.string "喂，那边的！别插队！$"
 
 SlateportCity_Text_RemindsMeOfLongLineForGames:
-	.string "A long line, huh?\p"
-	.string "It reminds me of the times I lined up to\n"
-	.string "buy smash-hit games…$"
+	.string "这么长的队，嗯，\p"
+	.string "让我想起了以前排队买游戏大作的时\n"
+	.string "候……$"
 
 SlateportCity_Text_WhyAreWeLiningUp:
-	.string "Why are we even lining up and paying?\n"
-	.string "We should just march in!$"
+	.string "我们干嘛非得排队买票？直接闯进去\n"
+	.string "不就得了！$"
 
 SlateportCity_Text_WhatDoYouWant:
-	.string "What?\n"
-	.string "What do you want?$"
+	.string "什么？你想干什么？$"
 
 SlateportCity_Text_IllReadSignForYou:
-	.string "You want to read this sign?\n"
-	.string "I'll read it for you!$"
+	.string "想看看这块标牌？我帮你读吧！$"
 
 SlateportCity_Text_SaysSomethingLikeSeaIsEndless:
-	.string "Let's see…\p"
-	.string "Um… I think it says something like\n"
-	.string "“the life in the sea is endless.”\p"
-	.string "Yup, I'm pretty sure that's what\n"
-	.string "it says.$"
+	.string "我看看……\p"
+	.string "呃……上面写的大概是“大海中的生\n"
+	.string "命是无穷的”。\p"
+	.string "嗯，我肯定上面就是这么写的。$"
 
 SlateportCity_Text_ShouldveBroughtMyGameBoy:
-	.string "Grumble…\p"
-	.string "I should've brought my Game Boy\n"
-	.string "Advance so I wouldn't get bored in line…\p"
-	.string "Grumble…$"
+	.string "唔嗯……\p"
+	.string "我真该把我的GBA带来的，那样就\n"
+	.string "不用在这儿等得这么无聊了……\p"
+	.string "唔嗯……$"
 
 SlateportCity_Text_HotSpringsAfterOperation:
-	.string "When this operation's over, I'll take\n"
-	.string "you to a hot spring spa!\p"
-	.string "That's what our leader said.\n"
-	.string "I can't wait!$"
+	.string "“这次工作完毕之后我就带你们去泡\n"
+	.string "温泉！”\p"
+	.string "老大这么说的。我都等不及了！$"
 
 SlateportCity_Text_SeaIsSoWet:
-	.string "The sea is just so vast…\p"
-	.string "Could the sea have been made by\n"
-	.string "the tears shed by POKéMON?$"
+	.string "大海这么广阔……\p"
+	.string "会是宝可梦的泪水聚成的吗？$"
 
 SlateportCity_Text_SinkOldBoats:
-	.string "Do you know what they do with old\n"
-	.string "ships that become too creaky to sail?\p"
-	.string "They sink them in the sea so they\n"
-	.string "become habitats for POKéMON.$"
+	.string "你知道人们怎么处理无法再出海的旧\n"
+	.string "船吗？\p"
+	.string "他们把船沉到海里面，那些旧船成了\n"
+	.string "宝可梦的家。$"
 
 SlateportCity_Text_BuyTooMuch:
-	.string "Whenever I visit here, I get carried\n"
-	.string "away and buy too much.$"
+	.string "每次我来这里都控制不住自己，买一\n"
+	.string "大堆东西回去。$"
 
 SlateportCity_Text_GetNameRaterToHelpYou:
-	.string "If you want to change your POKéMON's\n"
-	.string "nickname, you'll have to get the NAME\l"
-	.string "RATER to help you.$"
+	.string "如果想要为你的宝可梦更改昵称的话\n"
+	.string "，就去找姓名鉴定师帮忙吧。$"
 
 SlateportCity_Text_CantChangeTradeMonName:
-	.string "Any POKéMON you get in a trade,\n"
-	.string "you can't change its nickname.\p"
-	.string "The original TRAINER's love for that\n"
-	.string "POKéMON is in the nickname.$"
+	.string "你不能更改交换得来的宝可梦的名字\n"
+	.string "，\p"
+	.string "因为那名字中包含着原先的训练家对\n"
+	.string "它的情感。$"
 
 SlateportCity_Text_BattleTentBuiltRecently:
-	.string "Recently, a BATTLE TENT was built\n"
-	.string "in SLATEPORT.\p"
-	.string "GYMS are fun, but the BATTLE TENT's\n"
-	.string "awesome in its own way.\p"
-	.string "You should go find tough POKéMON\n"
-	.string "for the BATTLE TENT!$"
+	.string "最近凯那市出现了一个对战帐篷。\p"
+	.string "虽然道馆也很有趣，但对战帐篷更棒\n"
+	.string "。\p"
+	.string "在对战帐篷中能见到很厉害的宝可梦\n"
+	.string "！$"
 
 SlateportCity_Text_CaptSternBeingInterviewed:
-	.string "I was hoping that it was a famous star\n"
-	.string "so I could get an autograph.\p"
-	.string "But who's that being interviewed?\n"
-	.string "Isn't that CAPT. STERN?$"
+	.string "我本来希望记者们会去采访个明星，\n"
+	.string "这样我就能去要签名了。\p"
+	.string "但他们采访的是谁？那不是楠木馆长\n"
+	.string "吗？$"
 
 SlateportCity_Text_InterviewerSoCool:
 	.string "That lady interviewer is so cool\n"
@@ -1119,113 +1100,100 @@ SlateportCity_Text_InterviewerSoCool:
 	.string "an international journalist!$"
 
 SlateportCity_Text_SternSaysDiscoveredSomething:
-	.string "CAPT. STERN says they discovered\n"
-	.string "something at the bottom of the sea.\p"
-	.string "I wonder what it is?\n"
-	.string "What could it be?$"
+	.string "楠木馆长说他们在海底找到了什么东\n"
+	.string "西。\p"
+	.string "那到底是什么？会是什么东西呢？$"
 
 SlateportCity_Text_CaptainComeBackWithBigFish:
-	.string "What's going on here?\p"
-	.string "Did the good CAPTAIN come back with\n"
-	.string "a big fish from the ocean floor?$"
+	.string "发生什么了？\p"
+	.string "馆长带着从海底找到的大鱼回来了？$"
 
 SlateportCity_Text_AmIOnTV:
-	.string "Hey! Are you watching?\n"
-	.string "Am I on TV?$"
+	.string "喂！你看了吗？我在电视上亮相了吗\n"
+	.string "？$"
 
 SlateportCity_Text_CaptainsACelebrity:
-	.string "A TV interview! Here!\n"
-	.string "The CAPTAIN's a celebrity!$"
+	.string "电视采访！哇！馆长是名人了！$"
 
 SlateportCity_Text_BigSmileForCamera:
-	.string "TY: Okay, CAPT. STERN, a big smile\n"
-	.string "for the camera!$"
+	.string "达伊：好，楠木馆长，对镜头笑一下\n"
+	.string "！$"
 
 SlateportCity_Text_MostInvaluableExperience:
-	.string "GABBY: I see, I see. You've had a most\n"
-	.string "invaluable experience…$"
+	.string "玛莉：我们知道您在此次勘探中获得\n"
+	.string "了非常宝贵的经验……$"
 
 SlateportCity_Text_SternMoveAheadWithExploration:
-	.string "CAPT. STERN: Yes, indeed. We intend to\n"
-	.string "move ahead with our exploration.$"
+	.string "楠木馆长：是的，我们打算继续推进\n"
+	.string "勘探计划。$"
 
 SlateportCity_Text_GabbyWonderfulThanksForInterview:
-	.string "GABBY: That's wonderful, CAPT. STERN!\n"
-	.string "Thank you for taking the time from\l"
-	.string "your busy schedule to talk to us.\p"
-	.string "We hope we can interview you again\n"
-	.string "with news of more discoveries!$"
+	.string "玛莉：加油吧，楠木馆长！感谢您在\n"
+	.string "百忙中抽出时间来接受我们的采访，\p"
+	.string "下次有什么新发现的话，希望还能允\n"
+	.string "许我们采访您！$"
 
 SlateportCity_Text_SternWhewFirstInterview:
-	.string "CAPT. STERN: Whew…\p"
-	.string "That was my first time to be filmed for\n"
-	.string "TV. That was nerve-wracking.$"
+	.string "楠木馆长：呼……\p"
+	.string "这是我第一次上电视。真是太紧张了\n"
+	.string "。$"
 
 SlateportCity_Text_OhPlayerWeMadeDiscovery:
-	.string "Oh! {PLAYER}{KUN}!\n"
-	.string "You're looking great!\p"
-	.string "We made a huge discovery on our last\n"
-	.string "seafloor exploration.\p"
-	.string "We found an underwater cavern on\n"
-	.string "ROUTE 128.\p"
-	.string "We think it's the habitat of a POKéMON\n"
-	.string "that's said to have been long extinct.$"
+	.string "噢！{PLAYER}{KUN}！\n"
+	.string "你看起来不错！\p"
+	.string "在我们上次勘探中有个大发现，\p"
+	.string "在128号水路上有个海底洞窟。\p"
+	.string "我们认为那里很可能是一种据说灭绝\n"
+	.string "已久的宝可梦的栖息地。$"
 
 SlateportCity_Text_AquaWillAssumeControlOfSubmarine:
-	.string "Fufufu…\n"
-	.string "CAPT. STERN, I presume.\p"
-	.string "We of TEAM AQUA will assume\n"
-	.string "control of your submarine!\p"
-	.string "Your objections are meaningless!\n"
-	.string "We expect your total cooperation!\p"
-	.string "Fufufu…\n"
-	.string "Just watch and learn what TEAM\l"
-	.string "AQUA has planned!$"
+	.string "哼哼哼……想必是楠木馆长吧？\p"
+	.string "你的这艘潜水艇我们海洋队征用了！\p"
+	.string "抗议无效！给我们好好老实配合！\p"
+	.string "哼哼哼……你就好好见识一下我们海\n"
+	.string "洋队的宏图大业吧！$"
 
 SlateportCity_Text_SternWhatWasAllThat:
-	.string "CAPT. STERN: What was that all about?\p"
-	.string "It sounded like someone using\n"
-	.string "a megaphone…\p"
-	.string "Where did it come from?$"
+	.string "楠木馆长：怎么回事？\p"
+	.string "听起来好像是有人在用扩音器说话…\n"
+	.string "…\p"
+	.string "声音是从哪儿来的？$"
 
 SlateportCity_Text_FromHarborTryingToTakeSub:
-	.string "It's from the HARBOR!\p"
-	.string "The submarine!\n"
-	.string "They're trying to take it!$"
+	.string "是船舶那儿！\p"
+	.string "潜水艇！他们想抢潜艇！$"
 
 SlateportCity_Text_PleaseComeWithMe:
-	.string "{PLAYER}{KUN}!\n"
-	.string "Please, come with me!$"
+	.string "{PLAYER}{KUN}！快，\n"
+	.string "跟我来！$"
 
 SlateportCity_Text_BattleTentSign:
-	.string "BATTLE TENT SLATEPORT SITE\n"
-	.string "“Find it! The ultimate POKéMON!”$"
+	.string "对战帐篷凯那市分址“寻找！究极宝\n"
+	.string "可梦！”$"
 
 SlateportCity_Text_SternsShipyardWantedSign:
-	.string "STERN'S SHIPYARD\p"
-	.string "“Wanted: A sailor capable of sailing\n"
-	.string "in all currents.”$"
+	.string "楠木造船厂\p"
+	.string "“招募：在任何水流中都能驾船的水\n"
+	.string "手。”$"
 
 SlateportCity_Text_SternsShipyardNearsCompletion:
-	.string "STERN'S SHIPYARD\p"
-	.string "“The ferry S.S. TIDAL nears\n"
-	.string "completion for serving the ports of\l"
-	.string "SLATEPORT and LILYCOVE.”$"
+	.string "楠木造船厂\p"
+	.string "“由凯那市到水静市的破浪号渡轮将\n"
+	.string "在近期完工。”$"
 
 SlateportCity_Text_SternsShipyardFerryComplete:
-	.string "STERN'S SHIPYARD\p"
-	.string "“Boarding of the SLATEPORT-LILYCOVE\n"
-	.string "ferry S.S. TIDAL is handled at the\l"
-	.string "HARBOR.”$"
+	.string "楠木造船厂\p"
+	.string "“凯那市—水静市的破浪号渡轮的下\n"
+	.string "水仪式将在港口举行。”$"
 
 SlateportCity_Text_PokemonFanClubSign:
-	.string "POKéMON FAN CLUB\n"
-	.string "“Calling all fans of POKéMON!”$"
+	.string "宝可梦发烧友俱乐部“聚集着所有喜\n"
+	.string "爱宝可梦的人！”$"
 
 SlateportCity_Text_OceanicMuseumSign:
-	.string "“The endless sea sustains\n"
-	.string "all life.”\p"
-	.string "OCEANIC MUSEUM$"
+	.string "“无垠的大海哺育了世间一切的生命\n"
+	.string "。”\p"
+	.string "海洋科学博物馆$"
 
 SlateportCity_Text_CitySign:
 	.string "SLATEPORT CITY\p"
@@ -1233,122 +1201,106 @@ SlateportCity_Text_CitySign:
 	.string "cross paths.”$"
 
 SlateportCity_Text_MarketSign:
-	.string "SLATEPORT MARKET\n"
-	.string "“Unique items found nowhere else!”$"
+	.string "凯那市市场“我们有其他地方买不到\n"
+	.string "的商品！”$"
 
 SlateportCity_Text_HarborFerryUnderConstruction:
-	.string "SLATEPORT HARBOR\p"
-	.string "“The ferry S.S. TIDAL is under\n"
-	.string "construction in the SHIPYARD.\p"
-	.string "“Service is scheduled to begin\n"
-	.string "shortly.”$"
+	.string "凯那市港口\p"
+	.string "“破浪号渡轮正在船厂加工建造，\p"
+	.string "预计近期即可通航。”$"
 
 SlateportCity_Text_HarborSign:
-	.string "SLATEPORT HARBOR\p"
-	.string "“Enjoy a delightful cruise on\n"
-	.string "the ferry S.S. TIDAL.”$"
+	.string "凯那市港口\p"
+	.string "“愿破浪号渡轮为您带来最快乐的旅\n"
+	.string "行体验。”$"
 
 SlateportCity_Text_NameRatersHouseSign:
-	.string "NAME RATER'S HOUSE\n"
-	.string "“POKéMON nicknames rated.”$"
+	.string "姓名鉴定师“鉴定宝可梦名字的好坏\n"
+	.string "。”$"
 
 SlateportCity_Text_ExplainBerries:
-	.string "If a wild POKéMON gets hurt, it heals\n"
-	.string "itself by chewing on BERRIES.\p"
-	.string "Did you know that?\p"
-	.string "Somebody saw that and got the idea\n"
-	.string "of making medicine from BERRIES.\p"
-	.string "Did you know that?\p"
-	.string "To turn BERRIES into medicine,\n"
-	.string "they must be crushed into powder.\p"
-	.string "Did you know that?\p"
-	.string "You seem to have an interest\n"
-	.string "in BERRIES!\p"
-	.string "I've got something good for someone\n"
-	.string "like you.$"
+	.string "你知道吗？当野生宝可梦受伤时，\p"
+	.string "它会寻找树果吃，为自己疗伤。\p"
+	.string "有人受到启发，从而想到用树果制药\n"
+	.string "。\p"
+	.string "知道吗？\p"
+	.string "要用树果制药，就得先把树果磨成粉\n"
+	.string "末。\p"
+	.string "你知道吗？\p"
+	.string "你好像对树果很感兴趣！\p"
+	.string "我有好东西要送给你。$"
 
 SlateportCity_Text_ExplainBerryPowder:
-	.string "I recently had machines installed at\n"
-	.string "POKéMON CENTERS for crushing BERRIES.\p"
-	.string "The BERRY CRUSH machines are at\n"
-	.string "the DIRECT CORNER upstairs.\p"
-	.string "Did you know?\p"
-	.string "Could you make BERRY POWDER for\n"
-	.string "me using those machines?\p"
-	.string "I can make you all sorts of medicine\n"
-	.string "if you bring me lots of BERRY POWDER.$"
+	.string "最近我在宝可梦中心里安装了研磨树\n"
+	.string "果的设备，\p"
+	.string "树果混合器就放在楼上的角落里。\p"
+	.string "你知道吗？\p"
+	.string "你能帮我用那机器制做些树果粉末吗\n"
+	.string "？\p"
+	.string "如果你能给我带来很多的树果粉末，\n"
+	.string "我就能做出各种各样的药来。$"
 
 SlateportCity_Text_BroughtMeSomeBerryPowder:
-	.string "Have you brought me some\n"
-	.string "BERRY POWDER?$"
+	.string "你给我带来树果粉末了吗？$"
 
 SlateportCity_Text_ExchangeWhatWithIt:
-	.string "What would you like to exchange\n"
-	.string "it with?$"
+	.string "你想用它换什么？$"
 
 SlateportCity_Text_ExchangeBerryPowderForItem:
-	.string "Okay, you want to exchange your\n"
-	.string "BERRY POWDER for one {STR_VAR_1}?$"
+	.string "那么，你是想用树果粉末换\n"
+	.string "{STR_VAR_1}是吗？$"
 
 SlateportCity_Text_DontHaveEnoughBerryPowder:
-	.string "Oh, dear. You don't have enough\n"
-	.string "BERRY POWDER.$"
+	.string "真可惜，你没有足够的树果粉末。$"
 
 SlateportCity_Text_FineBerryPowderTradeSomethingElse:
-	.string "This is fine BERRY POWDER.\n"
-	.string "It will make excellent medicine.\p"
-	.string "Would you like to trade more of your\n"
-	.string "BERRY POWDER for something else?$"
+	.string "这些树果粉末不错，用它们能做出很\n"
+	.string "棒的药。\p"
+	.string "你还想用你的树果粉末换点别的吗？$"
 
 SlateportCity_Text_WhenYouGetMoreBringItToMe:
-	.string "Okay! When you get some more\n"
-	.string "BERRY POWDER, bring it to me, please!$"
+	.string "好吧！你有了更多树果粉末的话，就\n"
+	.string "带来给我吧！$"
 
 SlateportCity_Text_ComeBackToTradeBerryPowder:
-	.string "Come back if you'd like to trade your\n"
-	.string "BERRY POWDER for some medicine.\p"
-	.string "I'm always running a bazaar here.\p"
-	.string "Did you know?$"
+	.string "想用树果粉末交换药的话随时可以再\n"
+	.string "来，\p"
+	.string "我会一直在这里收购。\p"
+	.string "知道吗？$"
 
 SlateportCity_Text_YouDroveTeamAquaAway:
-	.string "SCOTT: Huh?\n"
-	.string "I'm sure I met you somewhere before.\p"
-	.string "Have I introduced myself to you?\n"
-	.string "If not, my name's SCOTT.\p"
-	.string "I just saw TEAM AQUA run away from\n"
-	.string "here like they were stung.\p"
-	.string "Let me guess--you drove them away?$"
+	.string "亚希达：嗯？我想我以前见过你。\p"
+	.string "我有没有向你做过自我介绍？我叫亚\n"
+	.string "希达，\p"
+	.string "刚才看到海洋队好像很慌张地逃跑了\n"
+	.string "，\p"
+	.string "我想——是你赶走他们的吧？$"
 
 SlateportCity_Text_MaybeThisTrainer:
-	.string "SCOTT: Hmm…\n"
-	.string "Maybe, just maybe, this TRAINER…$"
+	.string "亚希达：唔……也许，说不定，这个\n"
+	.string "训练家……$"
 
 SlateportCity_Text_LetsRegisterEachOther:
-	.string "SCOTT: All right! I think you're going\n"
-	.string "to become a good friend.\p"
-	.string "So, let's register each other in our\n"
-	.string "POKéNAVS.\p"
-	.string "… … … … … …$"
+	.string "亚希达：好！我觉得我们能成为好朋\n"
+	.string "友。\p"
+	.string "我们互相在宝可导航里登记信息吧。\p"
+	.string "…… …… ……$"
 
 SlateportCity_Text_RegisteredScott:
-	.string "Registered this SCOTT person\n"
-	.string "in the POKéNAV.$"
+	.string "把亚希达登记到宝可导航里了。$"
 
 SlateportCity_Text_KeepEyeOnTrainersBeSeeingYou:
-	.string "SCOTT: What I'd like to do is tag along\n"
-	.string "with you, but I do want to keep an eye\l"
-	.string "on the talents of other people, too.\p"
-	.string "So, I'll be off to roam other towns\n"
-	.string "a bit more.\p"
-	.string "Be seeing you, {PLAYER}{KUN}!$"
+	.string "亚希达：虽然我想跟你同行，但我还\n"
+	.string "得去考察其他训练家的才能。\p"
+	.string "我会去其他城市再稍微逛逛的。\p"
+	.string "那么，回头见，{PLAYER}\n"
+	.string "{KUN}！$"
 
 SlateportCity_Text_TakingBattleTentChallenge:
-	.string "SCOTT: Oh, hey!\n"
-	.string "If it isn't {PLAYER}{KUN}!\p"
-	.string "{PLAYER}{KUN}, let me guess--you're going\n"
-	.string "to take the BATTLE TENT challenge?\p"
-	.string "Yeah! That's a good idea!\n"
-	.string "That's a really great idea!\p"
-	.string "After all, a tough TRAINER is\n"
-	.string "the perfect fit for the BATTLE TENT!\p"
-	.string "Give it your best effort!$"
+	.string "亚希达：哦！这不是\n"
+	.string "{PLAYER}{KUN}吗！\p"
+	.string "{PLAYER}{KUN}，我猜\n"
+	.string "——你要去挑战对战帐篷吧？\p"
+	.string "好主意！很棒的主意！\p"
+	.string "对战帐篷就是需要强大的训练家！\p"
+	.string "拿出全力去取胜吧！$"

@@ -1139,454 +1139,407 @@ PetalburgCity_Gym_EventScript_GymStatue::
 	end
 
 PetalburgCity_Gym_Text_DadYoureHereWithYourPokemon:
-	.string "DAD: Hm?\p"
-	.string "Well, if it isn't {PLAYER}!\n"
-	.string "So you're all finished moving in?\p"
-	.string "I'm surprised that you managed to\n"
-	.string "get here by yourself.\p"
-	.string "Oh, I see.\n"
-	.string "You're with your POKéMON.\p"
-	.string "Hm… Then I guess you're going to\n"
-	.string "become a TRAINER like me, {PLAYER}.\p"
-	.string "That's great news!\n"
-	.string "I'll be looking forward to it!$"
+	.string "爸爸：嗯？\p"
+	.string "这不是{PLAYER}吗！搬完家\n"
+	.string "了吗？\p"
+	.string "没想到你能自己一个人跑过来。\p"
+	.string "啊，原来如此，你是和宝可梦一起来\n"
+	.string "的啊。\p"
+	.string "那么……你是想像我一样成为一位训\n"
+	.string "练家吗，{PLAYER}？\p"
+	.string "这真是个好消息！我很期待！$"
 
 PetalburgCity_Gym_Text_WallyIdLikeAPokemon:
-	.string "Um… I…\n"
-	.string "I'd like to get a POKéMON, please…$"
+	.string "那个……我……想要一只宝可梦，拜\n"
+	.string "托了……$"
 
 PetalburgCity_Gym_Text_DadOhYoureWallyRight:
-	.string "DAD: Hm? You're… Uh… Oh, right.\n"
-	.string "You're WALLY, right?$"
+	.string "爸爸：嗯？你是……对了，记得是叫\n"
+	.string "满充对吧？$"
 
 PetalburgCity_Gym_Text_WallyIveNeverCaughtAPokemon:
-	.string "WALLY: I'm going to go stay with my\n"
-	.string "relatives in VERDANTURF TOWN.\p"
-	.string "I thought I would be lonely by myself,\n"
-	.string "so I wanted to take a POKéMON along.\p"
-	.string "But I've never caught a POKéMON before.\n"
-	.string "I don't know how…$"
+	.string "满充：我马上就要搬到绿茵镇去跟亲\n"
+	.string "戚家那里住了。\p"
+	.string "我一个人可能会寂寞，所以我想带只\n"
+	.string "宝可梦一起去，\p"
+	.string "但我以前从未捕捉过宝可梦，我不知\n"
+	.string "道该怎么……$"
 
 PetalburgCity_Gym_Text_DadHmISee:
-	.string "DAD: Hm. I see.$"
+	.string "爸爸：……原来如此。$"
 
 PetalburgCity_Gym_Text_DadPlayerGoWithWally:
-	.string "DAD: {PLAYER}, you heard that,\n"
-	.string "right?\p"
-	.string "Go with WALLY and make sure that he\n"
-	.string "safely catches a POKéMON.$"
+	.string "爸爸：{PLAYER}，你都听到\n"
+	.string "了吧？\p"
+	.string "陪满充一起去吧，要确保他安全地捕\n"
+	.string "捉到宝可梦。$"
 
 PetalburgCity_Gym_Text_IllLoanYouMyZigzagoon:
-	.string "WALLY, here, I'll loan you my POKéMON.\p"
-	.string "WALLY received a ZIGZAGOON!$"
+	.string "满充，我先把我自己的宝可梦借给你\n"
+	.string "。\p"
+	.string "满充得到了蛇纹熊！$"
 
 PetalburgCity_Gym_Text_WallyThankYouAndDadGivesPokeBall:
-	.string "WALLY: Oh, wow!\n"
-	.string "A POKéMON!\p"
-	.string "DAD: Hm. I'll give you a POKé BALL, too.\n"
-	.string "Go for it!\p"
-	.string "WALLY received a POKé BALL!$"
+	.string "满充：哇！一只宝可梦！\p"
+	.string "爸爸：嗯，再给你个精灵球吧。加油\n"
+	.string "吧！\p"
+	.string "满充得到精灵球！$"
 
 PetalburgCity_Gym_Text_WallyOhWowThankYou:
-	.string "WALLY: Oh, wow!\n"
-	.string "Thank you!$"
+	.string "满充：哇！谢谢叔叔！$"
 
 PetalburgCity_Gym_Text_WouldYouReallyComeWithMe:
-	.string "{PLAYER}… Would you really come\n"
-	.string "with me?$"
+	.string "{PLAYER}……你会陪我一起\n"
+	.string "去的对吧？$"
 
 PetalburgCity_Gym_Text_DadSoDidItWorkOut:
-	.string "DAD: So, did it work out?$"
+	.string "爸爸：那么，还顺利吗？$"
 
 PetalburgCity_Gym_Text_WallyThankYouBye:
-	.string "WALLY: Thank you, yes, it did.\n"
-	.string "Here's your POKéMON back.\p"
-	.string "{PLAYER}, thank you for coming along\n"
-	.string "with me.\p"
-	.string "You two are why I was able to catch\n"
-	.string "my POKéMON.\p"
-	.string "I promise I'll take really good\n"
-	.string "care of it.\p"
-	.string "Oh! My mom's waiting for me,\n"
-	.string "so I have to go!\p"
-	.string "Bye, {PLAYER}!$"
+	.string "满充：谢谢叔叔，我成功了。这只宝\n"
+	.string "可梦还给您。\p"
+	.string "{PLAYER}，谢谢你陪我……\p"
+	.string "多亏了你们，我才能捕捉到自己的宝\n"
+	.string "可梦。\p"
+	.string "我一定会好好照顾它的……\p"
+	.string "啊！妈妈还在等我，我得走了！\p"
+	.string "再见，{PLAYER}！$"
 
 PetalburgCity_Gym_Text_DadGoCollectBadges:
-	.string "DAD: Now…\p"
-	.string "{PLAYER}, if you want to become a\n"
-	.string "strong TRAINER, here's my advice.\p"
-	.string "Head for RUSTBORO CITY beyond this\n"
-	.string "town.\p"
-	.string "There, you should challenge\n"
-	.string "the GYM LEADER, ROXANNE.\p"
-	.string "After her, go on to other POKéMON\n"
-	.string "GYMS and defeat their LEADERS.\p"
-	.string "Collect BADGES from them,\n"
-	.string "understood?\p"
-	.string "Of course, I'm a GYM LEADER, too.\n"
-	.string "We'll battle one day, {PLAYER}.\p"
-	.string "But that's only after you become\n"
-	.string "stronger.$"
+	.string "爸爸：好了……\p"
+	.string "{PLAYER}，如果你想成为一\n"
+	.string "个强大的训练家，我有几条建议。\p"
+	.string "首先去距此不远的卡那兹市，\p"
+	.string "挑战那里的道馆馆主，杜娟。\p"
+	.string "然后再去其他宝可梦道馆，打败那里\n"
+	.string "的馆主，\p"
+	.string "收集他们的徽章，明白了吗？\p"
+	.string "当然，我也是道馆馆主，所以我们总\n"
+	.string "有一天会对战，{PLAYER}，\p"
+	.string "但那之前，你得先变得更强大才行。$"
 
 PetalburgCity_Gym_Text_NormanGoToRustboro:
-	.string "DAD: Hm? Aren't you going to the\n"
-	.string "POKéMON GYM in RUSTBORO CITY?\p"
-	.string "There's no challenge for me to\n"
-	.string "battle a greenhorn TRAINER.\p"
-	.string "{PLAYER}, I want you to challenge me\n"
-	.string "when you become a lot stronger.\p"
-	.string "I'll battle you, {PLAYER}, when you\n"
-	.string "can show me four GYM BADGES, okay?$"
+	.string "爸爸：嗯？你还没去卡那兹市的宝可\n"
+	.string "梦道馆？\p"
+	.string "一个新手训练家是没法打败我的。\p"
+	.string "{PLAYER}，等你变强了再向\n"
+	.string "我挑战吧。\p"
+	.string "当你收集4个道馆徽章后，我再接受\n"
+	.string "你的挑战，{PLAYER}。$"
 
 PetalburgCity_Gym_Text_NormanGoToDewford:
-	.string "DAD: I see… So, you've beaten\n"
-	.string "the GYM LEADER in RUSTBORO CITY.\p"
-	.string "But there are many more TRAINERS\n"
-	.string "who are stronger than you, {PLAYER}.\p"
-	.string "Across the sea in DEWFORD TOWN is a\n"
-	.string "GYM LEADER named BRAWLY.\p"
-	.string "You should go challenge him.$"
+	.string "爸爸：嗯……看来你打败了卡那兹市\n"
+	.string "的宝可梦道馆馆主。\p"
+	.string "但还有很多比你更强的训练家，\n"
+	.string "{PLAYER}。\p"
+	.string "在海对岸的武斗镇里有个叫做藤树的\n"
+	.string "道馆馆主，\p"
+	.string "你应该试试去挑战他。$"
 
 PetalburgCity_Gym_Text_YouHaveGottenStronger:
-	.string "DAD: Hm… {PLAYER}, you have gotten\n"
-	.string "stronger.\p"
-	.string "I can tell by the number of BADGES\n"
-	.string "that you've earned.$"
+	.string "爸爸：嗯……{PLAYER}，你\n"
+	.string "变强了，\p"
+	.string "从你获得的徽章数量就能看得出。$"
 
 PetalburgCity_Gym_Text_NormanIntro:
-	.string "DAD: Hm…\n"
-	.string "So, you did get four GYM BADGES.\p"
-	.string "Fine, as I promised, we will have\n"
-	.string "a POKéMON battle.\p"
-	.string "{PLAYER}…\p"
-	.string "I'm so happy that I can have\n"
-	.string "a real battle with my own child.\p"
-	.string "But, a battle is a battle!\p"
-	.string "I will do everything in my power as\n"
-	.string "a GYM LEADER to win.\p"
-	.string "{PLAYER}, you'd better give it your\n"
-	.string "best shot, too!$"
+	.string "爸爸：嗯……看来，你已经赢得4枚\n"
+	.string "徽章了。\p"
+	.string "很好，那就按我所承诺的那样，让我\n"
+	.string "们来对战吧。\p"
+	.string "{PLAYER}……\p"
+	.string "我真高兴能和自己的孩子来一场真真\n"
+	.string "正正的对战。\p"
+	.string "但是，对战就是对战！\p"
+	.string "身为道馆馆主，我会尽我所能赢取胜\n"
+	.string "利。\p"
+	.string "{PLAYER}，你也要用尽全力\n"
+	.string "啊！$"
 
 PetalburgCity_Gym_Text_NormanDefeat:
-	.string "…\p"
-	.string "I… I can't…\p"
-	.string "I can't believe it. {PLAYER}…\p"
-	.string "I lost to {PLAYER}?\p"
-	.string "But, rules are rules!\n"
-	.string "Here, take this.$"
+	.string "这……\p"
+	.string "我……\p"
+	.string "难以置信。{PLAYER}……\p"
+	.string "我输给了{PLAYER}？\p"
+	.string "但规则就是规则！来，收下这个。$"
 
 PetalburgCity_Gym_Text_ReceivedBalanceBadge:
-	.string "{PLAYER} received the BALANCE BADGE\n"
-	.string "from DAD!$"
+	.string "{PLAYER}从爸爸那里得到了\n"
+	.string "天秤徽章！$"
 
 PetalburgCity_Gym_Text_ExplainBalanceBadgeTakeThis:
-	.string "DAD: With that BADGE, the DEFENSE\n"
-	.string "of all your POKéMON will increase.\p"
-	.string "POKéMON that know the HM move SURF\n"
-	.string "will be able to travel over water.\p"
-	.string "This is my gift to you. {PLAYER}, I'm\n"
-	.string "sure you can use it correctly.$"
+	.string "爸爸：有了这枚徽章，你所有宝可梦\n"
+	.string "的防御力都会得到提升。\p"
+	.string "学会秘传招式冲浪的宝可梦也可以渡\n"
+	.string "水了。\p"
+	.string "这是我给你的礼物，\n"
+	.string "{PLAYER}，我相信你可以用\l"
+	.string "好它。$"
 
 PetalburgCity_Gym_Text_ExplainFacade:
-	.string "DAD: TM42 contains FACADE.\p"
-	.string "It doubles the power of moves if\n"
-	.string "the POKéMON is poisoned, paralyzed,\l"
-	.string "or burned.\p"
-	.string "It might be able to turn a bad\n"
-	.string "situation into an advantage.$"
+	.string "爸爸：招式学习器42里面是硬撑。\p"
+	.string "如果宝可梦中毒、麻痹或者灼伤，招\n"
+	.string "式的威力就会翻倍。\p"
+	.string "用这招可以逆转不利形势。$"
 
 PetalburgCity_Gym_Text_DadHappyAndSad:
-	.string "DAD: As the GYM LEADER, I can't\n"
-	.string "express how upset I am…\p"
-	.string "But as a father, it makes me both\n"
-	.string "happy and a little sad. It's odd…$"
+	.string "爸爸：作为道馆馆主，我不知道有多\n"
+	.string "失落……\p"
+	.string "但作为一个父亲，我高兴的同时又有\n"
+	.string "点难过。真是奇怪……$"
 
 PetalburgCity_Gym_Text_PleaseComeWithMe:
-	.string "Ah, there you are, {PLAYER}{KUN}!\p"
-	.string "Please come with me.\n"
-	.string "I have something I want you to have.$"
+	.string "啊，你来了，{PLAYER}\n"
+	.string "{KUN}！\p"
+	.string "跟我来，我有些东西要给你。$"
 
 PetalburgCity_Gym_Text_LetMeBorrowPlayer:
-	.string "NORMAN, you don't mind, do you?\p"
-	.string "Let me borrow your {PLAYER}{KUN} for\n"
-	.string "a minute or two.$"
+	.string "千里，你不介意吧？\p"
+	.string "我想把你的{PLAYER}\n"
+	.string "{KUN}借去一小会儿。$"
 
 PetalburgCity_Gym_Text_DadGoingToKeepTraining:
-	.string "DAD: {PLAYER}, you should go visit\n"
-	.string "your mother every so often.\p"
-	.string "I'm going to stay here and redouble\n"
-	.string "my training.\p"
-	.string "It would bother me as a TRAINER to\n"
-	.string "not avenge my loss to you, {PLAYER}!$"
+	.string "爸爸：{PLAYER}，你该常回\n"
+	.string "家看看妈妈。\p"
+	.string "我要在这儿继续锻炼让自己变强。\p"
+	.string "作为一个训练家，如果就这么甘心输\n"
+	.string "给你，我会很苦恼的，\l"
+	.string "{PLAYER}！$"
 
 PetalburgCity_Gym_Text_DadNoAmountOfTrainingIsEnough:
-	.string "DAD: {PLAYER}, how are things going?\p"
-	.string "The world of POKéMON is deep.\p"
-	.string "I honestly think that no amount of\n"
-	.string "training would ever be enough.$"
+	.string "爸爸：{PLAYER}，最近如何\n"
+	.string "？\p"
+	.string "宝可梦的世界广阔无比。\p"
+	.string "老实说，我觉得再多的训练也不够。$"
 
 PetalburgCity_Gym_Text_GymGuideAdvice:
-	.string "Hey, how's it going, CHAMPION-\n"
-	.string "bound {PLAYER}?\p"
-	.string "The doors in this GYM open when you\n"
-	.string "beat the awaiting TRAINERS.\p"
-	.string "Whoops! The doors in this room are\n"
-	.string "already open, so don't attack me!\p"
-	.string "The TRAINERS of PETALBURG GYM\n"
-	.string "use all kinds of items.\p"
-	.string "The door at the left leads to\n"
-	.string "the SPEED ROOM.\p"
-	.string "The door at the right leads to\n"
-	.string "the ACCURACY ROOM.\p"
-	.string "The room's name will be on\n"
-	.string "the door, so choose carefully.\p"
-	.string "Once you've chosen the door…\n"
-	.string "Well, hey, go for it!$"
+	.string "嗨，怎么样，向冠军的目标冲刺的\n"
+	.string "{PLAYER}？\p"
+	.string "在这个道馆里，你打败房间里的训练\n"
+	.string "家后，通向下一个房间的门就会开启\l"
+	.string "。\p"
+	.string "哇呀！这个房间的门已经打开了，别\n"
+	.string "打我！\p"
+	.string "橙华市道馆的训练家会使用各种各样\n"
+	.string "的道具。\p"
+	.string "左边的门通向速度房间，\p"
+	.string "右边的门通向命中房间。\p"
+	.string "房间的名称就写在门上，你要谨慎选\n"
+	.string "择。\p"
+	.string "选好房间之后……哎，好了，加油吧\n"
+	.string "！$"
 
 PetalburgCity_Gym_Text_GymGuidePostVictory:
-	.string "{PLAYER}! Whoa! You've overcome even\n"
-	.string "your own father!\p"
-	.string "Like, whoa!\n"
-	.string "What a stunning turn of events!$"
+	.string "哇！{PLAYER}！你甚至打败\n"
+	.string "了自己的父亲！\p"
+	.string "哇！多么令人吃惊的结局！$"
 
 PetalburgCity_Gym_Text_RandallIntro:
-	.string "The ability to attack before the\n"
-	.string "opponent…\p"
-	.string "Just that alone puts me at a great\n"
-	.string "advantage, don't you agree?$"
+	.string "比对手先一步发动攻击的能力……\p"
+	.string "光是这点，就足以让我在对战中占尽\n"
+	.string "先机，不是吗？$"
 
 PetalburgCity_Gym_Text_RandallDefeat:
-	.string "That was a magnificent battle!$"
+	.string "真是一场精彩的战斗！$"
 
 PetalburgCity_Gym_Text_RandallPostBattle:
-	.string "Go on to the next room where a new\n"
-	.string "challenge awaits you.\p"
-	.string "At the left is the CONFUSION ROOM.\p"
-	.string "The right door leads to the DEFENSE\n"
-	.string "ROOM.$"
+	.string "在下面的房间中还有新的挑战等着你\n"
+	.string "。\p"
+	.string "左边是混乱房间，\p"
+	.string "右边则通向防御房间。$"
 
 PetalburgCity_Gym_Text_RandallPostBadge:
-	.string "Whomever you beat, and whomever you\n"
-	.string "may lose to, you never shirk from\l"
-	.string "training yourself and your POKéMON.\p"
-	.string "That's what I think being a\n"
-	.string "GYM LEADER is all about.$"
+	.string "无论赢了谁，无论输给谁，都永远不\n"
+	.string "能逃避训练自己和宝可梦的责任。\p"
+	.string "我想作为道馆馆主，就应当如此。$"
 
 PetalburgCity_Gym_Text_ParkerIntro:
-	.string "This is the CONFUSION ROOM.\p"
-	.string "Let me see how well bonded you are\n"
-	.string "with your POKéMON!$"
+	.string "这里是混乱房间。\p"
+	.string "让我看看你和宝可梦之间有多强的牵\n"
+	.string "绊！$"
 
 PetalburgCity_Gym_Text_ParkerDefeat:
-	.string "I couldn't confuse your team enough…\n"
-	.string "You share a strong bond together.$"
+	.string "我还不足以让你们的组合陷入混乱…\n"
+	.string "…你们间的牵绊真的很强。$"
 
 PetalburgCity_Gym_Text_ParkerPostBattle:
-	.string "The next room is the STRENGTH ROOM.\n"
-	.string "Can you withstand brute force?$"
+	.string "下面是力量房间，你能抵挡住那强大\n"
+	.string "的威力吗？$"
 
 PetalburgCity_Gym_Text_ParkerPostBadge:
-	.string "After you beat our LEADER, the\n"
-	.string "training has become a lot tougher.$"
+	.string "自从你击败馆主，我们的训练强度提\n"
+	.string "升了不少。$"
 
 PetalburgCity_Gym_Text_GeorgeIntro:
-	.string "Just when you think you're going to\n"
-	.string "win, your opponent restores HP…\p"
-	.string "Can you just imagine how awful that\n"
-	.string "must feel?\p"
-	.string "I'll show you exactly how awful it\n"
-	.string "feels!$"
+	.string "当你以为自己就要赢了时，对手的体\n"
+	.string "力回复了……\p"
+	.string "你了解那种绝望的感觉吗？\p"
+	.string "就让你亲身体会一下吧！$"
 
 PetalburgCity_Gym_Text_GeorgeDefeat:
-	.string "I couldn't restore HP enough…\n"
-	.string "What ATTACK power…$"
+	.string "我来不及回复体力……何等强大的攻\n"
+	.string "击……$"
 
 PetalburgCity_Gym_Text_GeorgePostBattle:
-	.string "I should have expected no less from\n"
-	.string "our LEADER's kid.\p"
-	.string "No, wait! A TRAINER's abilities are\n"
-	.string "earned only through effort.\p"
-	.string "I lost because my own efforts\n"
-	.string "weren't enough.\p"
-	.string "Go on! The ONE-HIT KO ROOM is next.$"
+	.string "我该说真不愧是我们馆主的孩子。\p"
+	.string "不，等等！训练家的力量全是靠自己\n"
+	.string "的努力得来的。\p"
+	.string "我的努力还不够，所以才会输。\p"
+	.string "加油吧！下面是一击必杀房间。$"
 
 PetalburgCity_Gym_Text_GeorgePostBadge:
-	.string "I'm going to keep training at GYMS.\n"
-	.string "One day, I'll become a LEADER.$"
+	.string "我还要在道馆继续训练。总有一天，\n"
+	.string "我要成为馆主。$"
 
 PetalburgCity_Gym_Text_BerkeIntro:
-	.string "I'm not going to take it easy just\n"
-	.string "because you're our LEADER's kid.\p"
-	.string "I'll show you how horrid it is for\n"
-	.string "a POKéMON to take a critical hit!$"
+	.string "就算你是我们馆主的孩子，我也不会\n"
+	.string "放水的。\p"
+	.string "体会一下宝可梦被击中要害的恐惧吧\n"
+	.string "！$"
 
 PetalburgCity_Gym_Text_BerkeDefeat:
-	.string "Your power…\n"
-	.string "You're the real deal.$"
+	.string "你的力量……果然名不虚传。$"
 
 PetalburgCity_Gym_Text_BerkePostBattle:
-	.string "Your father really is strong.\n"
-	.string "He's a TRAINER worth my respect.\p"
-	.string "And, I sense the same glow coming\n"
-	.string "from you as your father.\p"
-	.string "I hope that you'll stage a terrific\n"
-	.string "battle with your father!$"
+	.string "你的父亲很强，大家都很尊敬他。\p"
+	.string "而且，我感到你身上也散发着同他一\n"
+	.string "样的光芒。\p"
+	.string "希望你和你父亲之间能有一场精彩的\n"
+	.string "对战！$"
 
 PetalburgCity_Gym_Text_BerkePostBadge:
-	.string "Since your dad became the LEADER,\n"
-	.string "the TRAINERS of PETALBURG CITY have\l"
-	.string "become a lot tougher.$"
+	.string "自从你爸爸成为馆主以来，橙华市的\n"
+	.string "训练家都变强了不少。$"
 
 PetalburgCity_Gym_Text_MaryIntro:
-	.string "Giggle…\n"
-	.string "This is the ACCURACY ROOM.\p"
-	.string "It's pretty nasty when every attack\n"
-	.string "lands without fail.$"
+	.string "嘻嘻……这里是命中房间。\p"
+	.string "当所有攻击全部命中时，你会应付不\n"
+	.string "过来的。$"
 
 PetalburgCity_Gym_Text_MaryDefeat:
-	.string "You were a cut above me…$"
+	.string "你技高一筹啊……$"
 
 PetalburgCity_Gym_Text_MaryPostBattle:
-	.string "There are some even stronger\n"
-	.string "TRAINERS waiting for you.\p"
-	.string "The left is the DEFENSE ROOM, and\n"
-	.string "the right is the RECOVERY ROOM.\p"
-	.string "Your POKéMON's ATTACK power will be\n"
-	.string "on trial either way.$"
+	.string "前面有更强的训练家在等着你。\p"
+	.string "左边是防御房间，右边是回复房间。\p"
+	.string "你的宝可梦的攻击会在前方受到挑战\n"
+	.string "。$"
 
 PetalburgCity_Gym_Text_MaryPostBadge:
-	.string "Do you know what we're trying to\n"
-	.string "achieve as TRAINERS?\p"
-	.string "We're striving to become soul mates\n"
-	.string "with our POKéMON.$"
+	.string "知道我们作为训练家的终极追求吗？\p"
+	.string "就是能与我们的宝可梦心意相通。$"
 
 PetalburgCity_Gym_Text_AlexiaIntro:
-	.string "The higher the DEFENSE, the more\n"
-	.string "reckless I can be in attack.$"
+	.string "防御越高，攻击时越没有后顾之忧。$"
 
 PetalburgCity_Gym_Text_AlexiaDefeat:
-	.string "Our defenses weren't enough…$"
+	.string "我们的防御还不够……$"
 
 PetalburgCity_Gym_Text_AlexiaPostBattle:
-	.string "I think you've taught me a valuable\n"
-	.string "lesson here.\p"
-	.string "Now, go on! The left door goes to\n"
-	.string "the STRENGTH ROOM.\p"
-	.string "The right door opens to\n"
-	.string "the ONE-HIT KO ROOM.\p"
-	.string "Both of them have TRAINERS who are\n"
-	.string "skilled at offense.$"
+	.string "你给我上了重要的一课。\p"
+	.string "好了，加油吧！左边的门通向力量房\n"
+	.string "间，\p"
+	.string "右边的门通向一击必杀房间。\p"
+	.string "两边的训练家都十分善于进攻。$"
 
 PetalburgCity_Gym_Text_AlexiaPostBadge:
-	.string "Hi! Have you tried using SURF?$"
+	.string "喂，你尝试过冲浪吗？$"
 
 PetalburgCity_Gym_Text_JodyIntro:
-	.string "Our GYM LEADER told us to go all out\n"
-	.string "and beat you.\p"
-	.string "Even if you happen to be the\n"
-	.string "LEADER's kid!$"
+	.string "我们的道馆馆主要我们尽全力打败你\n"
+	.string "。\p"
+	.string "就算你是馆主的孩子，我们也不能放\n"
+	.string "水！$"
 
 PetalburgCity_Gym_Text_JodyDefeat:
-	.string "But… I went all out!$"
+	.string "但……我已经尽力了！$"
 
 PetalburgCity_Gym_Text_JodyPostBattle:
-	.string "The way you use your POKéMON…\n"
-	.string "It's like your father's style.\p"
-	.string "Go on through! The GYM LEADER, your\n"
-	.string "father, is waiting!$"
+	.string "你使用宝可梦的方法……和你父亲很\n"
+	.string "像。\p"
+	.string "去吧，你的父亲，道馆馆主，正在等\n"
+	.string "着你！$"
 
 PetalburgCity_Gym_Text_JodyPostBadge:
-	.string "Sure, it's fine to make your POKéMON\n"
-	.string "stronger.\p"
-	.string "But what decides the winner?\p"
-	.string "Why, it's the feelings TRAINERS have\n"
-	.string "for their POKéMON.$"
+	.string "当然，让宝可梦变强并没有错。\p"
+	.string "但是，是什么决定了胜负？\p"
+	.string "正是训练家对他们宝可梦的感情。$"
 
 PetalburgCity_Gym_Text_DoorAppearsLocked:
-	.string "This door appears to be locked\n"
-	.string "right now…$"
+	.string "这扇门现在锁着……$"
 
 PetalburgCity_Gym_Text_EnterSpeedRoom:
-	.string "“SPEED ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "牌子上写着“速度房间”。\p"
+	.string "想进去吗？$"
 
 @ Unused
 PetalburgCity_Gym_Text_DoorAppearsLocked2:
-	.string "This door appears to be locked\n"
-	.string "right now…$"
+	.string "这扇门现在锁着……$"
 
 PetalburgCity_Gym_Text_EnterAccuracyRoom:
-	.string "“ACCURACY ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "牌子上写着“命中房间”。\p"
+	.string "想进去吗？$"
 
 PetalburgCity_Gym_Text_EnterConfusionRoom:
-	.string "“CONFUSION ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "牌子上写着“混乱房间”。\p"
+	.string "想进去吗？$"
 
 PetalburgCity_Gym_Text_EnterDefenseRoom:
-	.string "“DEFENSE ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "牌子上写着“防御房间”。\p"
+	.string "想进去吗？$"
 
 PetalburgCity_Gym_Text_EnterRecoveryRoom:
-	.string "“RECOVERY ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "牌子上写着“回复房间”。\p"
+	.string "想进去吗？$"
 
 PetalburgCity_Gym_Text_EnterStrengthRoom:
-	.string "“STRENGTH ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "牌子上写着“力量房间”。\p"
+	.string "想进去吗？$"
 
 PetalburgCity_Gym_Text_EnterOHKORoom:
-	.string "“ONE-HIT KO ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "牌子上写着“一击必杀房间”。\p"
+	.string "想进去吗？$"
 
 PetalburgCity_Gym_Text_EnterGymLeadersRoom:
-	.string "“GYM LEADER'S ROOM\p"
-	.string "“See for yourself what POKéMON await\n"
-	.string "you!” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "牌子上写着：“道馆馆主的房间\p"
+	.string "亲眼见识一下等待着你的宝可梦吧！\n"
+	.string "”\p"
+	.string "想进去吗？$"
 
 PetalburgCity_Gym_Text_GymStatue:
-	.string "PETALBURG CITY POKéMON GYM$"
+	.string "橙华市宝可梦道馆$"
 
 PetalburgCity_Gym_Text_GymStatueCertified:
-	.string "PETALBURG CITY POKéMON GYM\p"
-	.string "NORMAN'S CERTIFIED TRAINERS:\n"
+	.string "橙华市宝可梦道馆\p"
+	.string "千里认可的训练家：\n"
 	.string "{PLAYER}$"
 
 PetalburgCity_Gym_Text_NormanPreRematch:
-	.string "DAD: {PLAYER}…\n"
-	.string "I had a feeling that you would come.\p"
-	.string "I would never refuse to accept\n"
-	.string "a challenge from you.\p"
-	.string "You do understand, don't you?\p"
-	.string "Inside a GYM, it doesn't matter that\n"
-	.string "we are a parent and child.\p"
-	.string "…No, because we are parent and child,\n"
-	.string "we owe it to each other to do the best\l"
-	.string "we can. Isn't that right, {PLAYER}?$"
+	.string "爸爸：{PLAYER}……我就知\n"
+	.string "道你会来。\p"
+	.string "我永远也不会拒绝你的挑战的。\p"
+	.string "你明白的，对吧？\p"
+	.string "在道馆里，无关我们是不是父子。\p"
+	.string "不，正因为我们是父子，我们才更要\n"
+	.string "在对方面前用上全力。对吧，\l"
+	.string "{PLAYER}？$"
 
 PetalburgCity_Gym_Text_NormanRematchDefeat:
-	.string "Uh… Haha…\n"
-	.string "Maybe that was going too hard…$"
+	.string "啊……哈哈……也许我们太过认真了\n"
+	.string "……$"
 
 PetalburgCity_Gym_Text_NormanPostRematch:
-	.string "DAD: {PLAYER}…\n"
-	.string "What is your dream?\p"
-	.string "My dream…\n"
-	.string "Hahaha…\l"
-	.string "It has already come true, actually.$"
+	.string "爸爸：{PLAYER}……你的梦\n"
+	.string "想是什么？\p"
+	.string "我的梦想……哈哈哈……其实已经实\n"
+	.string "现了。$"
 
 PetalburgCity_Gym_Text_NormanRematchNeedTwoMons:
-	.string "DAD: {PLAYER}…\n"
-	.string "I had a feeling that you would come.\p"
-	.string "I would never refuse to accept\n"
-	.string "a challenge from you.\p"
-	.string "You do understand, don't you?\p"
-	.string "Inside a GYM, it doesn't matter that\n"
-	.string "we are a parent and child.\p"
-	.string "Hm? Wait a second, {PLAYER}.\p"
-	.string "Do you only have one POKéMON that is\n"
-	.string "capable of battle?\p"
-	.string "Sorry, but you'll have to come back\n"
-	.string "with at least two POKéMON.$"
+	.string "爸爸：{PLAYER}……我就知\n"
+	.string "道你会来。\p"
+	.string "我永远也不会拒绝你的挑战的。\p"
+	.string "你明白的，对吧？\p"
+	.string "在道馆里，无关我们是不是父子。\p"
+	.string "嗯？等等，{PLAYER}，\p"
+	.string "你只有1只能对战的宝可梦吗？\p"
+	.string "你得带至少2只宝可梦来才行。$"
 

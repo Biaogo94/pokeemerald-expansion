@@ -244,57 +244,47 @@ Route118_EventScript_Deandre::
 	end
 
 Route118_Text_StevenQuestions:
-	.string "STEVEN: Hi, {PLAYER}{KUN}!\p"
-	.string "It's me, STEVEN!\n"
-	.string "We met in the cave near DEWFORD.\p"
-	.string "Have you met many kinds of POKéMON\n"
-	.string "since I last saw you?\p"
-	.string "There are many, many kinds of POKéMON\n"
-	.string "in this wide world of ours.\p"
-	.string "If you wanted to raise only your\n"
-	.string "favorites, that's fine.\p"
-	.string "Perhaps you find it more fun to raise\n"
-	.string "all sorts of POKéMON.\p"
-	.string "As a TRAINER of POKéMON,\n"
-	.string "what do you think?\p"
-	.string "Of course, it's not any of my business.\p"
-	.string "It would be nice if we were to meet\n"
-	.string "again somewhere.$"
+	.string "大吾：嗨，{PLAYER}\n"
+	.string "{KUN}！\p"
+	.string "是我，大吾！我们在武斗镇的洞窟里\n"
+	.string "见过。\p"
+	.string "这段时间你又遇到了多少宝可梦呢？\p"
+	.string "在这广阔的世界中栖息着多种多样的\n"
+	.string "宝可梦，\p"
+	.string "专注于培养自己喜欢的几种也不错，\p"
+	.string "不过尝试培养各种不同的宝可梦也许\n"
+	.string "会更有趣呢。\p"
+	.string "作为训练家，你是怎么想的呢？\p"
+	.string "当然，这只是我的一己之见。\p"
+	.string "希望我们还能再见。$"
 
 Route118_Text_YouAgreeGoodRodIsGood:
-	.string "Hmm!\n"
-	.string "A GOOD ROD is really good!\p"
-	.string "Wouldn't you agree?$"
+	.string "嗯！好钓竿非常好用！\p"
+	.string "你也这么想吧？$"
 
 Route118_Text_IdenticalMindsTakeThis:
-	.string "Hmm!\n"
-	.string "We're of identical minds!\p"
-	.string "Hmm!\n"
-	.string "Take this GOOD ROD!$"
+	.string "嗯！我们想法一样！\p"
+	.string "嗯！这个好钓竿给你！$"
 
 Route118_Text_TryYourLuckFishing:
-	.string "Wherever there's water, try your luck\n"
-	.string "at fishing.$"
+	.string "有水的地方就可以钓鱼。$"
 
 Route118_Text_DontYouLikeToFish:
-	.string "Don't you like to fish?$"
+	.string "你喜欢钓鱼吗？$"
 
 Route118_Text_TryCatchingMonWithGoodRod:
-	.string "Try catching all sorts of POKéMON\n"
-	.string "with your GOOD ROD.$"
+	.string "努力用好钓竿钓到所有的宝可梦吧。$"
 
 Route118_Text_CanCrossRiversWithSurf:
-	.string "Even if there isn't a boat, you can\n"
-	.string "cross rivers and the sea if you have\l"
-	.string "a POKéMON that knows SURF.\p"
-	.string "POKéMON can be counted on to do so\n"
-	.string "much!$"
+	.string "就算没有船，也可以用学会了冲浪的\n"
+	.string "宝可梦渡海。\p"
+	.string "你可以依靠宝可梦做很多事情！$"
 
 Route118_Text_RouteSignMauville:
-	.string "ROUTE 118\n"
-	.string "{LEFT_ARROW} MAUVILLE CITY$"
+	.string "118号道路\n"
+	.string "{LEFT_ARROW}紫堇市$"
 
 Route118_Text_RouteSign119:
-	.string "ROUTE 118\n"
-	.string "{UP_ARROW} ROUTE 119$"
+	.string "118号道路{UP_ARROW}\n"
+	.string "119号道路$"
 

@@ -10,19 +10,17 @@ PetalburgCity_House1_EventScript_Woman::
 	end
 
 PetalburgCity_House1_Text_TravelingIsWonderful:
-	.string "Traveling is wonderful!\p"
-	.string "When I was young, I roamed the seas\n"
-	.string "and the mountains!$"
+	.string "旅行太美妙了！\p"
+	.string "我年轻的时候经常去游泳登山！$"
 
 PetalburgCity_House1_Text_GoOnAdventure:
-	.string "Sigh…\p"
-	.string "I wish I could go on an adventure\n"
-	.string "with some POKéMON…\p"
-	.string "Crawl through some damp grass…\n"
-	.string "Climb rocky, rugged mountains…\p"
-	.string "Cross the raging seas…\n"
-	.string "Wander about in dark caves…\p"
-	.string "And, sometimes, even get a little\n"
-	.string "homesick…\p"
-	.string "It must be fabulous to travel!$"
+	.string "哎……\p"
+	.string "我要是能和宝可梦一起去探险多好…\n"
+	.string "…\p"
+	.string "爬过潮湿的草丛……攀登崎岖的高山\n"
+	.string "……\p"
+	.string "穿越波涛汹涌的大海……在黑暗的洞\n"
+	.string "窟里散步……\p"
+	.string "然后，偶尔泛出点乡愁……\p"
+	.string "旅行真的太美妙了！$"
 

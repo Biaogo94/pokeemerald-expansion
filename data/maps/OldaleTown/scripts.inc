@@ -340,58 +340,45 @@ OldaleTown_Movement_ReturnToOriginalPosition:
 	step_end
 
 OldaleTown_Text_SavingMyProgress:
-	.string "I want to take a rest, so I'm saving my\n"
-	.string "progress.$"
+	.string "我想休息一下，所以正在写下记录。$"
 
 OldaleTown_Text_IWorkAtPokemonMart:
-	.string "Hi!\n"
-	.string "I work at a POKéMON MART.\p"
-	.string "Can I get you to come with me?$"
+	.string "嗨！我在友好商店工作，\p"
+	.string "可以跟我来吗？$"
 
 OldaleTown_Text_ThisIsAPokemonMart:
-	.string "This is a POKéMON MART.\n"
-	.string "Just look for our blue roof.\p"
-	.string "We sell a variety of goods including\n"
-	.string "POKé BALLS for catching POKéMON.\p"
-	.string "Here, I'd like you to have this as\n"
-	.string "a promotional item.$"
+	.string "这里就是友好商店，蓝色的屋顶是我\n"
+	.string "们的标志。\p"
+	.string "我们这里出售很多东西，比如捕捉宝\n"
+	.string "可梦的精灵球等等。\p"
+	.string "这个给您，这是我们的宣传品。$"
 
 OldaleTown_Text_PotionExplanation:
-	.string "A POTION can be used anytime, so it's\n"
-	.string "even more useful than a POKéMON CENTER\l"
-	.string "in certain situations.$"
+	.string "您可以随时使用伤药，在某些情况下\n"
+	.string "它比宝可梦中心更能派得上用场。$"
 
 OldaleTown_Text_WaitDontComeInHere:
-	.string "Aaaaah! Wait!\n"
-	.string "Please don't come in here.\p"
-	.string "I just discovered the footprints of\n"
-	.string "a rare POKéMON!\p"
-	.string "Wait until I finish sketching\n"
-	.string "them, okay?$"
+	.string "啊啊啊啊！等等！别从这里走过去，\p"
+	.string "这里有我刚刚发现的稀有宝可梦的足\n"
+	.string "迹！\p"
+	.string "等我描下它们来再说，好吗？$"
 
 OldaleTown_Text_DiscoveredFootprints:
-	.string "I just discovered the footprints of\n"
-	.string "a rare POKéMON!\p"
-	.string "Wait until I finish sketching\n"
-	.string "them, okay?$"
+	.string "我刚刚发现了稀有宝可梦的足迹！\p"
+	.string "等我描下它们来再说，好吗？$"
 
 OldaleTown_Text_FinishedSketchingFootprints:
-	.string "I finished sketching the footprints of\n"
-	.string "a rare POKéMON.\p"
-	.string "But it turns out they were only my\n"
-	.string "own footprints…$"
+	.string "我描下了稀有宝可梦的足迹，\p"
+	.string "但怎么看都是我自己的脚印……$"
 
 OldaleTown_Text_MayLetsGoBack:
-	.string "MAY: {PLAYER}{KUN}!\n"
-	.string "Over here!\l"
-	.string "Let's hurry home!$"
+	.string "小遥：{PLAYER}{KUN}\n"
+	.string "！来这边！我们快回去吧！$"
 
 OldaleTown_Text_BrendanLetsGoBack:
-	.string "BRENDAN: I'm heading back to my dad's\n"
-	.string "LAB now.\l"
-	.string "{PLAYER}, you should hustle back, too.$"
+	.string "小悠：我要先回爸爸的研究所了，\n"
+	.string "{PLAYER}，你也快点来吧！$"
 
 OldaleTown_Text_TownSign:
-	.string "OLDALE TOWN\n"
-	.string "“Where things start off scarce.”$"
+	.string "这里是古玫镇。“积微成著之地。”$"
 

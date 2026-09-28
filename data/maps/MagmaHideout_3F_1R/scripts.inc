@@ -12,32 +12,28 @@ MagmaHideout_3F_1R_EventScript_Grunt16::
 	end
 
 MagmaHideout_3F_1R_Text_Grunt9Intro:
-	.string "What did I do to deserve this guard\n"
-	.string "posting?\p"
-	.string "My left ear is burning up!$"
+	.string "我怎么会被分配到这个岗位上？\p"
+	.string "我的左耳快烤熟了！$"
 
 MagmaHideout_3F_1R_Text_Grunt9Defeat:
-	.string "I'm getting heat exhaustion…$"
+	.string "快热晕了……$"
 
 MagmaHideout_3F_1R_Text_Grunt9PostBattle:
-	.string "Do you think it's odd that we're wearing\n"
-	.string "hoods in this magma-filled volcano?$"
+	.string "在岩浆火山里戴着兜帽在你不觉得奇\n"
+	.string "怪吗？$"
 
 MagmaHideout_3F_1R_Text_Grunt16Intro:
-	.string "We joined so we can help our leader\n"
-	.string "achieve his fantastic vision.\p"
-	.string "I don't care if you're with TEAM AQUA\n"
-	.string "or if you're just some kid passing by.\p"
-	.string "No one interferes with us and gets\n"
-	.string "away with it!$"
+	.string "我们加入组织，为的是帮助老大实现\n"
+	.string "他的雄图伟业。\p"
+	.string "我不管你是海洋队的人还是偶尔路过\n"
+	.string "的小鬼头，\p"
+	.string "敢碍事的家伙一个都别想跑！$"
 
 MagmaHideout_3F_1R_Text_Grunt16Defeat:
-	.string "Oh, no!\n"
-	.string "You're not to be trusted at all!$"
+	.string "哦，不！真是不可轻视！$"
 
 MagmaHideout_3F_1R_Text_Grunt16PostBattle:
-	.string "Listen to me.\n"
-	.string "TEAM MAGMA is right!\p"
-	.string "Don't listen to TEAM AQUA.\n"
-	.string "Don't believe their lies!$"
+	.string "听好了——熔岩队才是正确的！\p"
+	.string "别听海洋队的，别相信他们说的鬼话\n"
+	.string "！$"
 

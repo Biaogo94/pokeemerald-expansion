@@ -7,13 +7,12 @@ SSAnne_B1F_Room3_EventScript_Dylan::
 	end
 
 SSAnne_B1F_Room3_Text_DylanIntro::
-	.string "I like feisty kids like you!$"
+	.string "我喜欢像你一样争强好胜的孩子！$"
 
 SSAnne_B1F_Room3_Text_DylanDefeat::
-	.string "Argh!\n"
-	.string "Lost it!$"
+	.string "啊！我输了！$"
 
 SSAnne_B1F_Room3_Text_DylanPostBattle::
-	.string "Sea POKéMON live in deep water.\n"
-	.string "You'll need a ROD to fish them up!$"
+	.string "海洋宝可梦在深水中生活。你需要一\n"
+	.string "个破钓竿来把它们钓上钩！$"
 

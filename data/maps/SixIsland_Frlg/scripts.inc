@@ -19,16 +19,14 @@ SixIsland_EventScript_IslandSign::
 	end
 
 SixIsland_Text_IslandSign::
-	.string "SIX ISLAND\n"
-	.string "Fortune Island of Aged Wisdom$"
+	.string "六之岛古代智慧传承之岛$"
 
 SixIsland_Text_ThatWayToWaterPathRuinValley::
-	.string "Keep going this way and you'll get\n"
-	.string "to the WATER PATH.\p"
-	.string "Stay on that and you'll get to\n"
-	.string "the RUIN VALLEY.$"
+	.string "继续沿着这条路走就是水之步道。\p"
+	.string "在那里转一转的话就能找到遗迹山谷\n"
+	.string "。$"
 
 SixIsland_Text_SkyAtNightIsFantastic::
-	.string "When you're this far away from the\n"
-	.string "city, the sky at night is fantastic.$"
+	.string "在离城市那么远的地方，夜晚的天空\n"
+	.string "可是相当迷人。$"
 

@@ -31,30 +31,27 @@ PokemonMansion_B1F_EventScript_Ivan::
 	end
 
 PokemonMansion_B1F_Text_LewisIntro::
-	.string "Uh-oh…\n"
-	.string "Where am I now?$"
+	.string "哇啊……我现在在哪里？$"
 
 PokemonMansion_B1F_Text_LewisDefeat::
-	.string "Awooh!$"
+	.string "哇啊！$"
 
 PokemonMansion_B1F_Text_LewisPostBattle::
-	.string "You can find stuff lying around.\n"
-	.string "The residents must've left them.$"
+	.string "你可以发现到处都是散落的东西。一\n"
+	.string "定是居民们丢下的。$"
 
 PokemonMansion_B1F_Text_IvanIntro::
-	.string "This place is ideal for a lab.\n"
-	.string "Look at all this space.$"
+	.string "这里是建造实验室的理想地方。看看\n"
+	.string "这儿。$"
 
 PokemonMansion_B1F_Text_IvanDefeat::
-	.string "What was that for?$"
+	.string "那是用来干什么的？$"
 
 PokemonMansion_B1F_Text_IvanPostBattle::
-	.string "I like it here.\n"
-	.string "It's conducive to my studies.$"
+	.string "我喜欢这里。它有助于我的研究。$"
 
 PokemonMansion_B1F_Text_MewtwoIsFarTooPowerful::
-	.string "Diary: Sept. 1\n"
-	.string "MEWTWO is far too powerful.\p"
-	.string "We have failed to curb its vicious\n"
-	.string "tendencies…$"
+	.string "日记：9月1号超梦太强大了。\p"
+	.string "我们不能控制它了，它越来越邪恶了\n"
+	.string "……$"
 

@@ -274,103 +274,89 @@ LavaridgeTown_EventScript_HerbShopSign::
 	end
 
 LavaridgeTown_Text_MayNiceBadgesTakeThis:
-	.string "MAY: {PLAYER}{KUN}! Long time no see!\p"
-	.string "Oh? While I visited the hot springs,\n"
-	.string "you got the LAVARIDGE GYM BADGE.\p"
-	.string "You must have collected\n"
-	.string "good POKéMON…\l"
-	.string "No, I believe you raised some.\p"
-	.string "I guess it would be okay for you to\n"
-	.string "have this.$"
+	.string "小遥：{PLAYER}{KUN}\n"
+	.string "！好久不见！\p"
+	.string "哦？看来我去温泉的时候你已经拿到\n"
+	.string "釜炎镇道馆徽章了。\p"
+	.string "你一定得到了不少优秀的宝可梦……\n"
+	.string "不，我想还是因为你培育得好。\p"
+	.string "我想我可以把这个给你。$"
 
 LavaridgeTown_Text_MayExplainGoGogglesChallengeDad:
-	.string "MAY: With those GO-GOGGLES, you'll\n"
-	.string "have no trouble getting through the\l"
-	.string "desert near ROUTE 111.\p"
-	.string "But, wow, {PLAYER}{KUN}…\n"
-	.string "Challenging GYMS…\p"
-	.string "You're trying hard because you don't\n"
-	.string "want to lose to me, I bet!\p"
-	.string "{PLAYER}{KUN}, I think I should challenge\n"
-	.string "your dad in PETALBURG GYM.\p"
-	.string "See you again!$"
+	.string "小遥：有这个GOGO护目镜的话，\n"
+	.string "就能穿越111号道路上的沙漠了。\p"
+	.string "不过，{PLAYER}{KUN}\n"
+	.string "居然在挑战道馆……\p"
+	.string "是不想输给我吧？你为此真的很努力\n"
+	.string "呢！\p"
+	.string "{PLAYER}{KUN}，我现\n"
+	.string "在打算去橙华市道馆挑战你爸爸了！\p"
+	.string "回头见！$"
 
 LavaridgeTown_Text_BrendanNiceBadgesTakeThis:
-	.string "BRENDAN: {PLAYER}, hey, it's been a while.\n"
-	.string "How's it going?\p"
-	.string "Hmm…\n"
-	.string "That's a decent collection of BADGES.\p"
-	.string "All right, then.\n"
-	.string "You may as well have this.$"
+	.string "小悠：{PLAYER}，好久不见\n"
+	.string "了，还顺利吗？\p"
+	.string "唔……你收集了不少徽章了啊。\p"
+	.string "那好，这个也给你吧。$"
 
 LavaridgeTown_Text_BrendanExplainGoGogglesChallengeDad:
-	.string "BRENDAN: Keep those with you if you're\n"
-	.string "planning on going into that desert near\l"
-	.string "ROUTE 111.\p"
-	.string "There should be some POKéMON that\n"
-	.string "are exclusively desert-dwellers.\l"
-	.string "You might look around for those.\p"
-	.string "As for me…\n"
-	.string "I'm considering challenging NORMAN,\l"
-	.string "the GYM LEADER of PETALBURG.\p"
-	.string "Unlike you, {PLAYER}, your dad looks like\n"
-	.string "he really is tough.\p"
-	.string "See you around!$"
+	.string "小悠：如果要去111号道路上的沙\n"
+	.string "漠就带上它吧。\p"
+	.string "那里应该也有一些沙漠特有的宝可梦\n"
+	.string "，你可以去找找看。\p"
+	.string "至于我……我打算去挑战橙华市的道\n"
+	.string "馆馆主千里。\p"
+	.string "{PLAYER}，你爸爸和你不一\n"
+	.string "样，他看上去相当厉害！\p"
+	.string "再见啦！$"
 
 LavaridgeTown_Text_HaveEggWillYouTakeIt:
-	.string "I have here an EGG.\p"
-	.string "I'd hoped to hatch it by covering it in\n"
-	.string "hot sand by the hot springs.\l"
-	.string "But that doesn't seem to be enough…\p"
-	.string "I've heard it would be best if it were\n"
-	.string "kept together with POKéMON and\l"
-	.string "carried about.\p"
-	.string "You are a TRAINER, yes?\n"
-	.string "And your POKéMON radiate vitality.\p"
-	.string "So, what say you?\n"
-	.string "Will you take this EGG to hatch?$"
+	.string "我这儿有个蛋。\p"
+	.string "我本来指望用温泉边温暖的沙子盖起\n"
+	.string "它来会孵化的，但看来这样还不够…\l"
+	.string "…\p"
+	.string "听说最好能让它跟宝可梦在一起。\p"
+	.string "你是个训练家对吗？而且你的宝可梦\n"
+	.string "看上去活力十足。\p"
+	.string "怎么样？你愿意带上这个蛋孵化它吗\n"
+	.string "？$"
 
 LavaridgeTown_Text_HopeYoullWalkPlentyWithEgg:
-	.string "Good! I hope you'll walk plenty with\n"
-	.string "this here EGG!$"
+	.string "好！希望你能带上这个蛋一起旅行！$"
 
 LavaridgeTown_Text_ReceivedTheEgg:
-	.string "{PLAYER} received the EGG.$"
+	.string "{PLAYER}得到蛋。$"
 
 LavaridgeTown_Text_NoRoomForThisEgg:
-	.string "Oh? You've too many POKéMON.\n"
-	.string "There's no room for this EGG…$"
+	.string "嗯？你带了太多宝可梦，没法再带上\n"
+	.string "这个蛋了……$"
 
 LavaridgeTown_Text_AsYouWishThen:
-	.string "As you wish, then…\p"
-	.string "If you have a change of heart about\n"
-	.string "hatching this EGG, I will be here.$"
+	.string "那么请便吧……\p"
+	.string "如果你改变主意了，再来这儿找我。$"
 
 LavaridgeTown_Text_EverySoOftenEggFoundAtDayCare:
-	.string "Every so often, an EGG will be found at\n"
-	.string "the POKéMON DAY CARE.\p"
-	.string "Or at least that's how the rumor goes.$"
+	.string "有时宝可梦培育屋里会发现蛋，\p"
+	.string "至少传闻中是这样。$"
 
 LavaridgeTown_Text_HotSpringsNeverRunDry:
-	.string "We draw as much hot water as we need,\n"
-	.string "and yet the hot springs never run dry.\p"
-	.string "Isn't it magical?\p"
-	.string "These hot springs appear near active\n"
-	.string "volcanoes. Veins of water under the\l"
-	.string "ground are heated by magma to well up\l"
-	.string "as hot springs.$"
+	.string "我们不断地汲取热水，但温泉却从未\n"
+	.string "干涸，\p"
+	.string "很神奇不是吗？\p"
+	.string "这些温泉都很接近活火山，地下水脉\n"
+	.string "被岩浆加热，从地表冒出来，就形成\l"
+	.string "了温泉。$"
 
 LavaridgeTown_Text_PokemonNippedBackside:
-	.string "Being buried in this hot sand is…\n"
-	.string "Sigh…\p"
-	.string "So warm and heavenly…\p"
-	.string "Eh? Gyaah! Ouch!\p"
-	.string "A POKéMON nipped my backside!$"
+	.string "埋在沙里的感觉……哎……\p"
+	.string "说不出的温暖美妙……\p"
+	.string "呃？呀！啊噢！\p"
+	.string "有宝可梦咬了我！$"
 
 LavaridgeTown_Text_OhYouLikeHotSprings:
-	.string "Oh, you like hot springs, do you?\p"
-	.string "That's surprising for one as young\n"
-	.string "as you.$"
+	.string "你喜欢温泉吗？\p"
+	.string "对像你这样的年轻人来说还真是少见\n"
+	.string "。$"
 
 LavaridgeTown_Text_BatheInHotSpringsEveryDay:
 	.string "I bathe in the hot springs every day.\p"
@@ -378,17 +364,15 @@ LavaridgeTown_Text_BatheInHotSpringsEveryDay:
 	.string "GYM LEADER like FLANNERY.$"
 
 LavaridgeTown_Text_IfPokemonInHotSprings:
-	.string "If people put POKéMON in hot springs,\n"
-	.string "it might be seriously strange.\p"
-	.string "Why, it might be an electric bath, or\n"
-	.string "a bubble bath, or even a lava bath…$"
+	.string "如果把宝可梦放进温泉，它就会变得\n"
+	.string "很奇怪。\p"
+	.string "哈，有时候可能变成电气浴，或者泡\n"
+	.string "沫浴，甚至岩浆浴……$"
 
 LavaridgeTown_Text_HotSpringsClaims:
-	.string "They're claiming that these hot springs\n"
-	.string "are good for calming nervous tension,\l"
-	.string "relieving aching muscles, solving\l"
-	.string "romantic problems, and attracting\l"
-	.string "money…$"
+	.string "据说温泉可以放松紧张的神经，减轻\n"
+	.string "身体的疲劳，解决感情问题，还能增\l"
+	.string "加财运……$"
 
 LavaridgeTown_Text_TownSign:
 	.string "LAVARIDGE TOWN\p"
@@ -396,11 +380,9 @@ LavaridgeTown_Text_TownSign:
 	.string "An excellent place for relaxing!”$"
 
 LavaridgeTown_Text_GymSign:
-	.string "LAVARIDGE TOWN POKéMON GYM\n"
-	.string "LEADER: FLANNERY\l"
-	.string "“One with a fiery passion that burns!”$"
+	.string "釜炎镇宝可梦道馆馆主：亚莎“热情\n"
+	.string "似火的女性！”$"
 
 LavaridgeTown_Text_HerbShopSign:
-	.string "POKéMON HERB SHOP\n"
-	.string "“Bitter taste--better cure!”$"
+	.string "宝可梦中药店“良药苦口。”$"
 

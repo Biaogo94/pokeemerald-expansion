@@ -269,114 +269,98 @@ RustboroCity_DevonCorp_2F_EventScript_WorkOnNext::
 	end
 
 RustboroCity_DevonCorp_2F_Text_DeviceForTalkingToPokemon:
-	.string "We're developing a device for talking\n"
-	.string "with POKéMON.\p"
-	.string "But we haven't had much success…$"
+	.string "我们在开发与宝可梦交谈的装置，\p"
+	.string "但进展并不理想……$"
 
 RustboroCity_DevonCorp_2F_Text_DevelopingNewBalls:
-	.string "I'm developing new kinds of\n"
-	.string "POKé BALLS…\p"
-	.string "But I haven't made much headway…$"
+	.string "我在开发新型精灵球……\p"
+	.string "但还没什么进展……$"
 
 RustboroCity_DevonCorp_2F_Text_WeFinallyMadeNewBalls:
-	.string "We finally made new kinds of\n"
-	.string "POKé BALLS!\p"
-	.string "The REPEAT BALL makes it easier to\n"
-	.string "catch POKéMON you've caught before.\p"
-	.string "The TIMER BALL gets better at catching\n"
-	.string "POKéMON the longer a battle runs.\p"
-	.string "Both are proudly developed by\n"
-	.string "the DEVON CORPORATION.\p"
-	.string "Please give them a try!$"
+	.string "我们终于开发出了新型精灵球！\p"
+	.string "用重复球捕捉曾经捕捉过的宝可梦更\n"
+	.string "容易，\p"
+	.string "战斗拖得久的话用时间球能很方便捕\n"
+	.string "捉宝可梦。\p"
+	.string "这都是我们得文公司的发明，\p"
+	.string "一定要试试啊！$"
 
 RustboroCity_DevonCorp_2F_Text_IMadePokenav:
-	.string "I made the POKéNAV!\p"
-	.string "As an engineer, I feel blessed to have\n"
-	.string "made something so great!$"
+	.string "我开发了宝可导航！\p"
+	.string "作为一个工程师，能开发出这么伟大\n"
+	.string "的工具是我的幸运！$"
 
 RustboroCity_DevonCorp_2F_Text_WowThatsAPokenav:
-	.string "Oh, wow!\n"
-	.string "That's a POKéNAV!\p"
-	.string "It came about as a result of our\n"
-	.string "PRESIDENT's desire to learn about\l"
-	.string "the feelings of POKéMON.\p"
-	.string "Would you like me to describe its\n"
-	.string "features in detail?\p"
-	.string "No, no. I think you'll find out just by\n"
-	.string "trying the POKéNAV out.$"
+	.string "哇！那是宝可导航！\p"
+	.string "因为我们社长想要了解宝可梦的感受\n"
+	.string "，才会有这东西的构想。\p"
+	.string "你要我向你详细讲解一下它的功能吗\n"
+	.string "？\p"
+	.string "啊，不，不，我想你会在试用我们的\n"
+	.string "宝可导航时慢慢摸索出来的。$"
 
 RustboroCity_DevonCorp_2F_Text_DeviceToVisualizePokemonDreams:
-	.string "I'm trying to develop a device that\n"
-	.string "visually reproduces the dreams of\l"
-	.string "POKéMON…\p"
-	.string "But it's not going well.$"
+	.string "我在开发一种能将宝可梦的梦境投影\n"
+	.string "出来的装置……\p"
+	.string "但进展不理想。$"
 
 RustboroCity_DevonCorp_2F_Text_DevelopDeviceToResurrectFossils:
-	.string "I've been trying to develop a device\n"
-	.string "that resurrects POKéMON from fossils…\p"
-	.string "And, it's working!$"
+	.string "我开发了一种能使化石中的宝可梦复\n"
+	.string "活的装置……\p"
+	.string "现在运转良好！$"
 
 RustboroCity_DevonCorp_2F_Text_WantToBringFossilBackToLife:
-	.string "Wait! That thing you have there…\n"
-	.string "Is that a POKéMON fossil?\p"
-	.string "Would you like to bring that POKéMON\n"
-	.string "back to life?\p"
-	.string "I can with my newly developed\n"
-	.string "FOSSIL REGENERATOR.$"
+	.string "什么！你拿着的……是宝可梦化石吗\n"
+	.string "？\p"
+	.string "你想复活那只宝可梦吗？\p"
+	.string "用我新开发的化石重生器就能做到。$"
 
 RustboroCity_DevonCorp_2F_Text_OhIsThatSo:
-	.string "Oh, is that so?\p"
-	.string "DEVON's technological expertise\n"
-	.string "is outstanding, I tell you.$"
+	.string "是吗？\p"
+	.string "告诉你，得文的技术知识是最优秀的\n"
+	.string "。$"
 
 RustboroCity_DevonCorp_2F_Text_TwoFossilsPickOne:
-	.string "Oh, now that's a surprise!\n"
-	.string "You have not one, but two, fossils?\p"
-	.string "Unfortunately, my machine can only\n"
-	.string "regenerate one POKéMON at a time.\p"
-	.string "Would you like to pick one of your\n"
-	.string "fossils for regeneration?$"
+	.string "啊，真令人吃惊！你不是有1个，而\n"
+	.string "是有2个化石？\p"
+	.string "但我的机器一次只能复活1只宝可梦\n"
+	.string "，\p"
+	.string "你想复活其中1只吗？$"
 
 RustboroCity_DevonCorp_2F_Text_HandedFossilToResearcher:
-	.string "Excellent!\n"
-	.string "Let's do this right away.\p"
-	.string "{PLAYER} handed the {STR_VAR_1} to\n"
-	.string "the DEVON RESEARCHER.$"
+	.string "太好了！我们这就开始。\p"
+	.string "{PLAYER}把\n"
+	.string "{STR_VAR_1}交给了得文\l"
+	.string "研究员。$"
 
 RustboroCity_DevonCorp_2F_Text_FossilRegeneratorTakesTime:
-	.string "The FOSSIL REGENERATOR, which I made,\n"
-	.string "is incredible.\p"
-	.string "But it has one drawback--it takes\n"
-	.string "a long time to work.\p"
-	.string "So, uh… How about you go for a stroll\n"
-	.string "and look around for a while?$"
+	.string "我研发的化石重生器极棒，\p"
+	.string "但它有个缺点——花的时间太久。\p"
+	.string "所以，呃……你可以暂时出去转转。$"
 
 RustboroCity_DevonCorp_2F_Text_FossilizedMonBroughtBackToLife:
-	.string "Thanks for waiting!\p"
-	.string "Your fossilized POKéMON has been\n"
-	.string "brought back to life!\p"
-	.string "The fossil was an ancient POKéMON.\n"
-	.string "{STR_VAR_2}, it was!$"
+	.string "久等了！\p"
+	.string "变成化石的宝可梦复活了！\p"
+	.string "这个化石是一种古代的宝可梦，\n"
+	.string "{STR_VAR_2}！$"
 
 RustboroCity_DevonCorp_2F_Text_ReceivedMonFromResearcher:
-	.string "{PLAYER} received {STR_VAR_2} from\n"
-	.string "the DEVON RESEARCHER.$"
+	.string "{PLAYER}从得文研究员处得\n"
+	.string "到了{STR_VAR_2}。$"
 
 @ Unused
 RustboroCity_DevonCorp_2F_Text_TooManyPokemon:
-	.string "Uh-oh, you've got too many POKéMON.\n"
-	.string "You have no room for this one.$"
+	.string "噢，你带的宝可梦太多了。已经没有\n"
+	.string "空位了。$"
 
 RustboroCity_DevonCorp_2F_Text_DevelopNewPokenavFeature:
-	.string "I'm trying to develop a new feature\n"
-	.string "for the POKéNAV…\p"
-	.string "But it's not going well.$"
+	.string "我在为宝可导航开发新功能……\p"
+	.string "但还没什么进展。$"
 
 RustboroCity_DevonCorp_2F_Text_WhatToWorkOnNext:
-	.string "Well, now what shall I work on\n"
-	.string "developing next?\p"
-	.string "Our company allows us to make our\n"
-	.string "inspirations into reality.\p"
-	.string "One couldn't ask for a better\n"
-	.string "environment as an engineer.$"
+	.string "唔，下面我该开发什么？\p"
+	.string "我们公司允许我们将自己的灵感变成\n"
+	.string "现实。\p"
+	.string "作为工程师，再也找不到更好的工作\n"
+	.string "环境了。$"
 

@@ -79,66 +79,57 @@ RustboroCity_DevonCorp_1F_EventScript_ProductsDisplay::
 	end
 
 RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp:
-	.string "Hello and welcome to the DEVON\n"
-	.string "CORPORATION.\p"
-	.string "We're proud producers of items and\n"
-	.string "medicine that enhance your life.$"
+	.string "您好，欢迎来到得文公司。\p"
+	.string "我们公司发明改变人们生活的药品和\n"
+	.string "道具。$"
 
 RustboroCity_DevonCorp_1F_Text_StaffGotRobbed:
-	.string "One of our research staff stupidly\n"
-	.string "got robbed of an important parcel.$"
+	.string "我们的一个调查员被人把很重要的包\n"
+	.string "裹抢走了。$"
 
 RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct:
-	.string "Hey, those RUNNING SHOES!\n"
-	.string "They're one of our products!\p"
-	.string "It makes me happy when I see someone\n"
-	.string "using something we made.$"
+	.string "哎，那是跑步鞋！那也是我们的产品\n"
+	.string "！\p"
+	.string "每次看到别人使用我们的发明，我都\n"
+	.string "会很高兴。$"
 
 RustboroCity_DevonCorp_1F_Text_RobberWasntVeryBright:
-	.string "That stolen parcel…\p"
-	.string "Well, sure it's important, but it's not\n"
-	.string "anything that anyone can use.\p"
-	.string "In my estimation, that robber must not\n"
-	.string "have been very bright.$"
+	.string "被偷走的包裹……\p"
+	.string "虽然确实很重要，但也不是所有人都\n"
+	.string "会使用的东西。\p"
+	.string "我看那个强盗没那么聪明。$"
 
 RustboroCity_DevonCorp_1F_Text_SoundsLikeStolenGoodsRecovered:
-	.string "It sounds like they've recovered\n"
-	.string "the ripped-off DEVON GOODS.$"
+	.string "听说被抢走的得文的物品找回来了。$"
 
 RustboroCity_DevonCorp_1F_Text_OnlyAuthorizedPeopleEnter:
-	.string "I'm sorry, only authorized people\n"
-	.string "are allowed to enter here.$"
+	.string "对不起，无关人士请勿入内。$"
 
 RustboroCity_DevonCorp_1F_Text_HowCouldWeGetRobbed:
-	.string "It's beyond stupid.\n"
-	.string "How could we get robbed?$"
+	.string "说什么傻话，谁会抢我们的东西？$"
 
 RustboroCity_DevonCorp_1F_Text_YoureAlwaysWelcomeHere:
-	.string "Hi, there!\n"
-	.string "You're always welcome here!$"
+	.string "您好！随时欢迎您来参观！$"
 
 RustboroCity_DevonCorp_1F_Text_RocksMetalDisplay:
-	.string "Samples of rocks and metal are\n"
-	.string "displayed in the glass case.\p"
-	.string "There's a panel with some writing\n"
-	.string "on it…\p"
-	.string "“DEVON CORPORATION got its start as\n"
-	.string "a producer of stones from quarries.\p"
-	.string "“The company also produced iron from\n"
-	.string "filings in the sand.\p"
-	.string "“From that humble start as a producer\n"
-	.string "of raw materials, DEVON developed.\p"
-	.string "“DEVON is now a manufacturer of a wide\n"
-	.string "range of industrial products.”$"
+	.string "玻璃箱子里展示着岩石和金属的样品\n"
+	.string "，\p"
+	.string "上面有张卡片上写了些什么……\p"
+	.string "“得文公司创立时仅仅是一家以采石\n"
+	.string "为业的小公司，\p"
+	.string "同时也利用沙子中的铁屑炼铁。\p"
+	.string "得文从一个微小的原材料处理公司起\n"
+	.string "家，\p"
+	.string "现在已发展成为一个开发出的产品覆\n"
+	.string "盖很多工业领域的大型制造商。”$"
 
 RustboroCity_DevonCorp_1F_Text_ProductDisplay:
-	.string "Prototypes and test products fill\n"
-	.string "the glass display case.\p"
-	.string "There's a panel with a description…\p"
-	.string "“In addition to industrial products,\n"
-	.string "DEVON now markets sundries and\l"
-	.string "pharmaceuticals for better lifestyles.\p"
-	.string "“Recently, DEVON has begun marketing\n"
-	.string "tools for POKéMON TRAINERS, including\l"
-	.string "POKé BALLS and POKéNAV systems.”$"
+	.string "玻璃展示柜里放了些产品的原型和试\n"
+	.string "验品。\p"
+	.string "有张卡片上写着说明……\p"
+	.string "“除工业产品外，得文如今也开发日\n"
+	.string "常用品与药品。\p"
+	.string "近年来，得文致力于为宝可梦训练家\n"
+	.string "开发包括精灵球和宝可导航系统等一\l"
+	.string "系列工具。”$"
 

@@ -284,153 +284,139 @@ LittlerootTown_BrendansHouse_1F_Movement_BrendanGoUpstairs2:
 	step_end
 
 PlayersHouse_1F_Text_IsntItNiceInHere:
-	.string "MOM: See, {PLAYER}?\n"
-	.string "Isn't it nice in here, too?$"
+	.string "妈妈：怎么样，{PLAYER}？\n"
+	.string "家里也很不错吧？$"
 
 PlayersHouse_1F_Text_MoversPokemonGoSetClock:
-	.string "The mover's POKéMON do all the work\n"
-	.string "of moving us in and cleaning up after.\l"
-	.string "This is so convenient!\p"
-	.string "{PLAYER}, your room is upstairs.\n"
-	.string "Go check it out, dear!\p"
-	.string "DAD bought you a new clock to mark\n"
-	.string "our move here.\l"
-	.string "Don't forget to set it!$"
+	.string "搬家公司的宝可梦帮我们把东西都搬\n"
+	.string "进来，并且整理打扫好了。真是太方\l"
+	.string "便了！\p"
+	.string "{PLAYER}，你的房间在楼上\n"
+	.string "，去看看吧，宝贝！\p"
+	.string "爸爸特意买了新的时钟来庆祝我们搬\n"
+	.string "家。记得调好时间哦！$"
 
 PlayersHouse_1F_Text_ArentYouInterestedInRoom:
-	.string "MOM: Well, {PLAYER}?\p"
-	.string "Aren't you interested in seeing your\n"
-	.string "very own room?$"
+	.string "妈妈：怎么了，{PLAYER}？\p"
+	.string "不去看看自己的新房间吗？$"
 
 PlayersHouse_1F_Text_GoSetTheClock:
-	.string "MOM: {PLAYER}.\p"
-	.string "Go set the clock in your room, honey.$"
+	.string "妈妈：{PLAYER}，\p"
+	.string "记得先去房间调好时钟哦。$"
 
 PlayersHouse_1F_Text_OhComeQuickly:
-	.string "MOM: Oh! {PLAYER}, {PLAYER}!\n"
-	.string "Quick! Come quickly!$"
+	.string "妈妈：……啊！{PLAYER}，\n"
+	.string "{PLAYER}！快过来看！$"
 
 PlayersHouse_1F_Text_MaybeDadWillBeOn:
-	.string "MOM: Look! It's PETALBURG GYM!\n"
-	.string "Maybe DAD will be on!$"
+	.string "妈妈：橙华市道馆上电视了！说不定\n"
+	.string "能看到你爸爸！$"
 
 PlayersHouse_1F_Text_ItsOverWeMissedHim:
-	.string "MOM: Oh… It's over.\p"
-	.string "I think DAD was on, but we missed him.\n"
-	.string "Too bad.$"
+	.string "妈妈：哎呀……节目结束了。\p"
+	.string "刚才爸爸好像出镜了呢，可惜我们错\n"
+	.string "过了。$"
 
 PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor:
-	.string "Oh, yes.\n"
-	.string "One of DAD's friends lives in town.\p"
-	.string "PROF. BIRCH is his name.\p"
-	.string "He lives right next door, so you should\n"
-	.string "go over and introduce yourself.$"
+	.string "对了，爸爸的朋友也住在镇上，\p"
+	.string "他叫小田卷博士。\p"
+	.string "家就住在隔壁，记得去打个招呼哦！$"
 
 PlayersHouse_1F_Text_SeeYouHoney:
-	.string "MOM: See you, honey!$"
+	.string "妈妈：再见，宝贝！$"
 
 PlayersHouse_1F_Text_DidYouMeetProfBirch:
-	.string "MOM: Did you introduce yourself to\n"
-	.string "PROF. BIRCH?$"
+	.string "妈妈：拜访过小田卷博士了吗？$"
 
 PlayersHouse_1F_Text_YouShouldRestABit:
-	.string "MOM: How are you doing, {PLAYER}?\n"
-	.string "You look a little tired.\p"
-	.string "I think you should rest a bit.$"
+	.string "妈妈：怎么样了，{PLAYER}\n"
+	.string "？你好像有点累了，\p"
+	.string "在家休息一下吧。$"
 
 PlayersHouse_1F_Text_TakeCareHoney:
-	.string "MOM: Take care, honey!$"
+	.string "妈妈：路上小心，宝贝！$"
 
 PlayersHouse_1F_Text_GotDadsBadgeHeresSomethingFromMom:
-	.string "MOM: Oh? Did DAD give you that BADGE?\p"
-	.string "Then here's something from your MOM!$"
+	.string "妈妈：哎呀，那是爸爸给你的徽章吗\n"
+	.string "？\p"
+	.string "那么妈妈也要给你礼物！$"
 
 PlayersHouse_1F_Text_DontPushYourselfTooHard:
-	.string "Don't push yourself too hard, dear.\n"
-	.string "You can always come home.\p"
-	.string "Go for it, honey!$"
+	.string "别太勉强自己，宝贝，累了的话就回\n"
+	.string "家来歇歇。\p"
+	.string "加油吧！$"
 
 PlayersHouse_1F_Text_IsThatAPokenav:
-	.string "MOM: What is that, honey? A POKéNAV?\n"
-	.string "Someone from DEVON gave it to you?\p"
-	.string "Well, honey, how about registering\n"
-	.string "your mom?\p"
-	.string "… … …$"
+	.string "妈妈：这是什么，宝贝？宝可导航？\n"
+	.string "得文公司的人送你的吗？\p"
+	.string "那不如把妈妈也登记一下吧？\p"
+	.string "…… ……$"
 
 PlayersHouse_1F_Text_RegisteredMom:
-	.string "Registered MOM\n"
-	.string "in the POKéNAV.$"
+	.string "把妈妈登记到宝可导航里了。$"
 
 PlayersHouse_1F_Text_Vigoroth1:
-	.string "Fugiiiiih!$"
+	.string "呜叽——！$"
 
 PlayersHouse_1F_Text_Vigoroth2:
-	.string "Huggoh, uggo uggo…$"
+	.string "呼咕，呜咕呜咕……$"
 
 PlayersHouse_1F_Text_ReportFromPetalburgGym:
-	.string "INTERVIEWER: …We brought you this\n"
-	.string "report from in front of PETALBURG GYM.$"
+	.string "记者：……以上就是我们在橙华市道\n"
+	.string "馆为您带来的现场报道。$"
 
 PlayersHouse_1F_Text_TheresAMovieOnTV:
-	.string "There is a movie on TV.\p"
-	.string "Two men are dancing on a big piano\n"
-	.string "keyboard.\p"
-	.string "Better get going!$"
+	.string "电视正在播放电影。\p"
+	.string "两个人在巨大的琴键上跳舞。\p"
+	.string "该走了！$"
 
 PlayersHouse_1F_Text_RunningShoesManual:
-	.string "It's the instruction booklet for the\n"
-	.string "RUNNING SHOES.\p"
-	.string "“Press the B Button to run while\n"
-	.string "wearing your RUNNING SHOES.\p"
-	.string "“Lace up your RUNNING SHOES and hit\n"
-	.string "the road running!”$"
+	.string "这是跑步鞋的使用说明书。\p"
+	.string "“穿上跑步鞋，按B键即可奔跑。\p"
+	.string "系好鞋带，尽情奔跑吧！”$"
 
 PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
-	.string "DAD: Hm?\p"
-	.string "Hey, it's {PLAYER}!\p"
-	.string "It's been a while since I saw you,\n"
-	.string "but you look…stronger, somehow.\p"
-	.string "That's the impression I get.\n"
-	.string "But your old man hasn't given up yet!\p"
-	.string "Oh, yes, I have something for you.\n"
-	.string "This came to you from someone named\l"
-	.string "MR. BRINEY.$"
+	.string "爸爸：嗯？\p"
+	.string "哟，{PLAYER}！\p"
+	.string "有段时间没见了，不过你看起来……\n"
+	.string "变强了呢。\p"
+	.string "至少我是这么觉得的，不过爸爸可还\n"
+	.string "没认输呢！\p"
+	.string "啊，对了，有东西要给你，这是一个\n"
+	.string "叫哈奇的人寄过来的。$"
 
 PlayersHouse_1F_Text_PortsInSlateportLilycove:
-	.string "DAD: Hm, a TICKET for a ferry?\p"
-	.string "If I recall, there are ferry ports in\n"
-	.string "SLATEPORT and LILYCOVE.$"
+	.string "爸爸：唔，乘坐渡轮的船票？\p"
+	.string "我记得凯那市和水静市都有渡轮码头\n"
+	.string "。$"
 
 PlayersHouse_1F_Text_BetterGetBackToGym:
-	.string "I'd better get back to PETALBURG GYM.\p"
-	.string "MOM, thanks for looking after the house\n"
-	.string "while I'm away.$"
+	.string "我该回橙华市道馆去了。\p"
+	.string "孩子妈，谢谢你在我不在的时候照顾\n"
+	.string "家里。$"
 
 PlayersHouse_1F_Text_DadShouldStayLonger:
-	.string "MOM: That DAD of yours…\p"
-	.string "He comes home for the first time in a\n"
-	.string "while, but all he talks about is POKéMON.\p"
-	.string "He should relax and stay a little longer.$"
+	.string "妈妈：你那个爸爸啊……\p"
+	.string "好不容易回趟家，张口闭口都是宝可\n"
+	.string "梦。\p"
+	.string "他应该多待几天好好歇一歇的。$"
 
 PlayersHouse_1F_Text_IsThatABreakingStory:
-	.string "MOM: Is that a breaking news story?$"
+	.string "妈妈：是突发新闻吗？$"
 
 PlayersHouse_1F_Text_LatiEmergencyNewsFlash:
-	.string "We bring you this emergency\n"
-	.string "news flash!\p"
-	.string "In various HOENN locales, there have\n"
-	.string "been reports of a BZZT…colored\l"
-	.string "POKéMON in flight.\p"
-	.string "The identity of this POKéMON is\n"
-	.string "currently unknown.\p"
-	.string "We now return you to the regular\n"
-	.string "movie program.$"
+	.string "紧急插播一条快讯！\p"
+	.string "丰缘地区多处地点有目击报告称空中\n"
+	.string "有——嗡沙沙——色的宝可梦飞过，\p"
+	.string "现在这只宝可梦身份依然不明。\p"
+	.string "下面继续播放正常节目。$"
 
 PlayersHouse_1F_Text_WhatColorDidTheySay:
-	.string "MOM: {PLAYER}, did you catch that?\p"
-	.string "What color did the announcer say\n"
-	.string "that POKéMON was?$"
+	.string "妈妈：{PLAYER}，你听到了\n"
+	.string "吗？\p"
+	.string "刚才新闻里说的宝可梦是什么颜色的\n"
+	.string "？$"
 
 PlayersHouse_1F_Text_StillUnknownPokemon:
-	.string "MOM: Well, isn't that something!\n"
-	.string "There are still unknown POKéMON.$"
+	.string "妈妈：哎呀，这可真稀奇！居然还有\n"
+	.string "未知的宝可梦呢！$"

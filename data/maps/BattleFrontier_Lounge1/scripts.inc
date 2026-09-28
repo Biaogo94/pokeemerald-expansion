@@ -151,108 +151,98 @@ BattleFrontier_Lounge1_EventScript_Boy2::
 	end
 
 BattleFrontier_Lounge1_Text_PokemonBreederIntro:
-	.string "For 70 years I have raised POKéMON!\n"
-	.string "I am the man they revere as\l"
-	.string "the legendary top POKéMON BREEDER!\p"
-	.string "If you ever become as seasoned as me,\n"
-	.string "you'll see the abilities of POKéMON\l"
-	.string "at a glance.\p"
-	.string "You're a TRAINER. Doesn't it interest\n"
-	.string "you to know your own POKéMON's\l"
-	.string "abilities?\p"
-	.string "Here!\n"
-	.string "Let's have a look at your POKéMON!$"
+	.string "我培育宝可梦有70年了！人们尊称\n"
+	.string "为传说中的宝可梦顶尖培育家！\p"
+	.string "若你能积累我这般经验，一眼就能看\n"
+	.string "穿宝可梦的能力。\p"
+	.string "你是训练家吧？难道不想了解自己宝\n"
+	.string "可梦的能力？\p"
+	.string "来！让我看看你的宝可梦！$"
 
 BattleFrontier_Lounge1_Text_AverageAbility:
-	.string "…Hmm…\p"
-	.string "This one, overall, I would describe\n"
-	.string "as being of average ability.$"
+	.string "……嗯……\p"
+	.string "这一只，总的来说，有还算可以的能\n"
+	.string "力。$"
 
 BattleFrontier_Lounge1_Text_BetterThanAverageAbility:
-	.string "…Hmm…\p"
-	.string "This one, overall, I would describe as\n"
-	.string "having better-than-average ability.$"
+	.string "……嗯……\p"
+	.string "这一只，总的来说，有中等偏上的能\n"
+	.string "力。$"
 
 BattleFrontier_Lounge1_Text_ImpressiveAbility:
-	.string "…Hmm…\p"
-	.string "This one, overall, I would say is\n"
-	.string "quite impressive in ability!$"
+	.string "……嗯……\p"
+	.string "这一只，总的来说，有相当优秀的能\n"
+	.string "力！$"
 
 BattleFrontier_Lounge1_Text_OutstandingAbility:
-	.string "…Hmm…\p"
-	.string "This one, overall, I would say is\n"
-	.string "wonderfully outstanding in ability!$"
+	.string "……嗯……\p"
+	.string "这一只，总的来说，有了不起的能力\n"
+	.string "！$"
 
 BattleFrontier_Lounge1_Text_BestAspectHP:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its HP…$"
+	.string "要说它最突出的地方，应该是它的体\n"
+	.string "力……$"
 
 BattleFrontier_Lounge1_Text_BestAspectAtk:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its ATTACK…$"
+	.string "要说它最突出的地方，应该是它的攻\n"
+	.string "击……$"
 
 BattleFrontier_Lounge1_Text_BestAspectDef:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its DEFENSE…$"
+	.string "要说它最突出的地方，应该是它的防\n"
+	.string "御……$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpAtk:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its SPECIAL ATTACK…$"
+	.string "要说它最突出的地方，应该是它的特\n"
+	.string "攻……$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpDef:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its SPECIAL DEFENSE…$"
+	.string "要说它最突出的地方，应该是它的特\n"
+	.string "防……$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpeed:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its SPEED…$"
+	.string "要说它最突出的地方，应该是它的速\n"
+	.string "度……$"
 
 BattleFrontier_Lounge1_Text_StatRelativelyGood:
-	.string "That stat is relatively good.\n"
-	.string "…Hm… That's how I call it.$"
+	.string "有一般般的能力。……嗯……这是我\n"
+	.string "对它的评价。$"
 
 BattleFrontier_Lounge1_Text_StatImpressive:
-	.string "That stat is quite impressive.\n"
-	.string "…Hm… That's how I call it.$"
+	.string "有还可以的能力。……嗯……这是我\n"
+	.string "对它的评价。$"
 
 BattleFrontier_Lounge1_Text_StatOutstanding:
-	.string "That stat is outstanding!\n"
-	.string "…Hm… That's how I call it.$"
+	.string "有很不错的能力！……嗯……这是我\n"
+	.string "对它的评价。$"
 
 BattleFrontier_Lounge1_Text_StatFlawless:
-	.string "It's flawless! A thing of perfection!\n"
-	.string "…Hm… That's how I call it.$"
+	.string "有最强的能力！……嗯……这是我对\n"
+	.string "它的评价。$"
 
 BattleFrontier_Lounge1_Text_NoTimeForMyAdvice:
-	.string "What?\n"
-	.string "You have no time for my advice?\p"
-	.string "You should always be eager to learn\n"
-	.string "from the experiences of your elders!$"
+	.string "什么？没空听我建议？\p"
+	.string "年轻人就该多学习年长者的经验！$"
 
 @ Unused
 BattleFrontier_Lounge1_Text_HaveBusinessNeedsTending:
-	.string "Yes, what is it now?\p"
-	.string "I have business that needs tending!\n"
-	.string "Save it for next time!$"
+	.string "是的，现在有什么事？\p"
+	.string "我有一些事情要处理！下次再说咯！$"
 
 BattleFrontier_Lounge1_Text_LetsLookAtYourPokemon:
-	.string "Ah, youngster! Do your POKéMON's\n"
-	.string "abilities intrigue you?\p"
-	.string "Here, here!\n"
-	.string "Let's have a look at your POKéMON!$"
+	.string "哦，年轻人！想了解宝可梦的能力吗\n"
+	.string "？\p"
+	.string "来来来！让我看看一下你的宝可梦！$"
 
 BattleFrontier_Lounge1_Text_EvenICantTell:
-	.string "An expert I am, but even I can't tell\n"
-	.string "anything about an unhatched POKéMON!\p"
-	.string "Show me a POKéMON!\n"
-	.string "A POKéMON is what I need to see!$"
+	.string "哪怕是我这样的专家，也看不出未孵\n"
+	.string "化宝可梦的能力！\p"
+	.string "给我看只宝可梦！那才是我要看的！$"
 
 BattleFrontier_Lounge1_Text_SaidMyMonIsOutstanding:
-	.string "He said my POKéMON is outstanding!\n"
-	.string "I'm glad I raised it carefully!$"
+	.string "他说我的宝可梦有了不起的能力！精\n"
+	.string "心培育果然值得！$"
 
 BattleFrontier_Lounge1_Text_DidntDoAnythingSpecialRaisingIt:
-	.string "He said my POKéMON is outstanding!\n"
-	.string "But I didn't do anything special\l"
-	.string "raising it…$"
+	.string "他说我的宝可梦有了不起的能力！可\n"
+	.string "我并没特别培育过啊……$"
 

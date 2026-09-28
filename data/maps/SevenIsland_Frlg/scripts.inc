@@ -19,40 +19,35 @@ SevenIsland_EventScript_Scientist::
 	end
 
 Text_SwordsDanceTeach::
-	.string "Not many people come out here.\p"
-	.string "If I train here, I'm convinced that\n"
-	.string "I'll get stronger and stronger.\p"
-	.string "Yep, stronger and stronger…\p"
-	.string "How would you like to learn a move\n"
-	.string "like that? It's SWORDS DANCE.$"
+	.string "没多少人会来这里。\p"
+	.string "如果我在这里特训，我一定能变得越\n"
+	.string "来越强。\p"
+	.string "嗯，越来越强……\p"
+	.string "你想不想学一下这个技能？剑舞。$"
 
 Text_SwordsDanceDeclined::
-	.string "Well, that's fine, too.$"
+	.string "好吧，没兴趣也没关系。$"
 
 Text_SwordsDanceWhichMon::
-	.string "All right, pick which POKéMON\n"
-	.string "I should teach it to.$"
+	.string "哪只宝可梦想学会这个技能？我来教\n"
+	.string "它。$"
 
 Text_SwordsDanceTaught::
-	.string "If only we could keep getting\n"
-	.string "stronger and stronger, eh?$"
+	.string "要是我们能不断变强该多好，对吧？$"
 
 SevenIsland_Text_IslandSign::
-	.string "SEVEN ISLAND\n"
-	.string "Quest Island of Infinity$"
+	.string "七之岛无尽探索之岛$"
 
 SevenIsland_Text_IslandsMadeInSevenDays::
-	.string "These islands are called the SEVII\n"
-	.string "ISLANDS because there are seven.\p"
-	.string "…Or at least that's what the young\n"
-	.string "people believe.\p"
-	.string "The truth is, these islands are so\n"
-	.string "named because they are said to\l"
-	.string "have been made in seven days.$"
+	.string "因为一共有七个小岛，所以它们被统\n"
+	.string "称为七岛。\p"
+	.string "……年轻人都是这么认为的。\p"
+	.string "事实上，这些岛之所以被这么命名，\n"
+	.string "据说因为它们是在七天内造成的。$"
 
 SevenIsland_Text_IslandVirtuallyUntouched::
-	.string "This island has been left virtually\n"
-	.string "untouched in its natural state.\p"
-	.string "It could be a little difficult to\n"
-	.string "hike around because of that.$"
+	.string "这个岛几乎没有被开发过，还保持着\n"
+	.string "它的自然风貌。\p"
+	.string "所以如果想到处转转的话会稍微有点\n"
+	.string "困难。$"
 

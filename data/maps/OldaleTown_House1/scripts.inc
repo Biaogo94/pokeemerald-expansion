@@ -6,10 +6,9 @@ OldaleTown_House1_EventScript_Woman::
 	end
 
 OldaleTown_House1_Text_LeftPokemonGoesOutFirst:
-	.string "When a POKéMON battle starts, the one\n"
-	.string "at the left of the list goes out first.\p"
-	.string "So, when you get more POKéMON in your\n"
-	.string "party, try switching around the order\l"
-	.string "of your POKéMON.\p"
-	.string "It could give you an advantage.$"
+	.string "当宝可梦对战开始时，列表左边的那\n"
+	.string "只会先出战。\p"
+	.string "所以当你有好几只宝可梦时，调整好\n"
+	.string "你的宝可梦的排列顺序。\p"
+	.string "这样你的对战就可能占优势。$"
 

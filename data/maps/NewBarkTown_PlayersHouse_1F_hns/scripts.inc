@@ -303,39 +303,36 @@ NewBarkTown_PlayersHouse_1F_MovementFaceLeft:
 	step_end
 
 NewBarkTown_PlayersHouse_1F_Text_ElmsLookingForYou:
-	.string "Oh, {PLAYER}…! Our neighbor,\n"
-	.string "PROF.ELM, was looking for you.\p"
-	.string "He said he wanted you to do\n"
-	.string "something for him.\p"
-	.string "Oh! I almost forgot! Your POKéGEAR\n"
-	.string "is back from the repair shop.\p"
-	.string "Here you go!$"
+	.string "哎呀，{PLAYER}！邻居空木\n"
+	.string "博士正在找你呢。\p"
+	.string "他说有件事想拜托你帮个忙。\p"
+	.string "啊！差点忘了！你的宝可梦齿轮已经\n"
+	.string "从修理店送回来了。\p"
+	.string "给你！$"
 
 NewBarkTown_PlayersHouse_1F_Text_ObtainedPokeGear:
-	.string "{PLAYER} obtained the POKéGEAR.$"
+	.string "{PLAYER}获得了宝可梦齿轮\n"
+	.string "。$"
 
 NewBarkTown_PlayersHouse_1F_Text_ExplainPokeGear:
-	.string "MOM: Phone numbers are stored\n"
-	.string "in memory.\p"
-	.string "Just choose a name you want to call.\n"
-	.string "I've already registered my number.\p"
-	.string "Gee, isn't that convenient?$"
+	.string "妈妈：电话号码都储存在内存里面。\p"
+	.string "只要选你想联系的名字就行。我已经\n"
+	.string "把我的号码存进去了。\p"
+	.string "哎呀，真是太方便了不是吗？$"
 
 NewBarkTown_PlayersHouse_1F_Text_WearTheseRunningShoes:
-	.string "Oh, and don't forget your\n"
-	.string "RUNNING SHOES!$"
+	.string "哦，还有别忘了带上跑步鞋！$"
 
 NewBarkTown_PlayersHouse_1F_Text_SwitchShoesWithRunningShoes:
-	.string "{PLAYER} switched shoes with the\n"
-	.string "RUNNING SHOES.$"
+	.string "{PLAYER}换上了跑步鞋。$"
 
 NewBarkTown_PlayersHouse_1F_Text_ExplainRunningShoes:
-	.string "MOM: {PLAYER}, press the B Button\n"
-	.string "while wearing these to run fast!$"
+	.string "妈妈：{PLAYER}，穿上这双\n"
+	.string "鞋按住B键就可以飞快地奔跑了！$"
 
 NewBarkTown_PlayersHouse_1F_Text_MomHurryUpElmIsWaiting:
-	.string "MOM: PROF.ELM is waiting for you.\p"
-	.string "Hurry up, baby!$"
+	.string "妈妈：空木博士还在等你呢。\p"
+	.string "快去吧，宝贝！$"
 
 NewBarkTown_PlayersHouse_1F_Text_MomsFriend:
 	.string "Hi, {PLAYER}!\p"
@@ -346,13 +343,13 @@ NewBarkTown_PlayersHouse_1F_Text_MomsFriend:
 	.string "She really loves POKéMON!$"
 
 NewBarkTown_PlayersHouse_1F_Text_MomLeaving:
-	.string "MOM: Wow, that's a cute POKéMON.\n"
-	.string "Where did you get it?\p"
-	.string "…\p"
-	.string "So, you're leaving on an adventure...\n"
-	.string "That does sound challenging...\p"
-	.string "Just be careful.\p"
-	.string "POKéMON are your friends.\n"
-	.string "You need to work as a team.\p"
-	.string "Now, go on!\n"
-	.string "I'm behind you all the way!$"
+	.string "妈妈：哇，好可爱的宝可梦。是从哪\n"
+	.string "里得到的？\p"
+	.string "……\p"
+	.string "所以，你准备出发去冒险了……听起\n"
+	.string "来真的很有挑战性呢……\p"
+	.string "路上一定要小心。\p"
+	.string "宝可梦是你的伙伴。你们必须像团队\n"
+	.string "一样互相合作。\p"
+	.string "好了，快出发吧！妈妈会一直支持你\n"
+	.string "的！$"

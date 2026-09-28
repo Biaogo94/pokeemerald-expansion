@@ -370,284 +370,258 @@ MossdeepCity_Gym_EventScript_RedFloorSwitch::
 	end
 
 MossdeepCity_Gym_Text_GymGuideAdvice:
-	.string "Yo, how's it going, CHAMPION-bound\n"
-	.string "{PLAYER}?\p"
-	.string "The GYM LEADERS here use\n"
-	.string "PSYCHIC-type POKéMON.\p"
-	.string "If you go up against them with\n"
-	.string "FIGHTING- or POISON-type POKéMON,\l"
-	.string "they'll inflict horrible damage!\p"
-	.string "Plus, they'll come at you with\n"
-	.string "outstanding combination attacks.\p"
-	.string "If you want to win, you'll need to show\n"
-	.string "them how tight you are with your\l"
-	.string "POKéMON. Go for it!$"
+	.string "嗨，怎么样，向冠军目标冲刺的\n"
+	.string "{PLAYER}？\p"
+	.string "这里的道馆馆主使用的是超能力属性\n"
+	.string "宝可梦，\p"
+	.string "如果用格斗属性或毒属性对付它们，\n"
+	.string "会受到很大伤害！\p"
+	.string "另外，她们会使用强大的组合攻击，\p"
+	.string "想要赢的话，就给她们看看你与你的\n"
+	.string "宝可梦之间紧密的联系吧。加油！$"
 
 MossdeepCity_Gym_Text_GymGuidePostVictory:
-	.string "Wow, you're astounding!\n"
-	.string "You're one great TRAINER!$"
+	.string "哇，你让我大吃一惊！你是个优秀的\n"
+	.string "训练家！$"
 
 MossdeepCity_Gym_Text_PrestonIntro:
-	.string "Battles hinge on the strength of your\n"
-	.string "spirit! The weak-spirited will never win!$"
+	.string "战斗取决于你的精神力量！心灵弱小\n"
+	.string "的人永远不会赢！$"
 
 MossdeepCity_Gym_Text_PrestonDefeat:
-	.string "I lost!\n"
-	.string "I must temper my spirit again!$"
+	.string "我输了！我必须重新调整我的精神！$"
 
 MossdeepCity_Gym_Text_PrestonPostBattle:
-	.string "The indecisive lose.\n"
-	.string "That's my warning to you.$"
+	.string "优柔寡断的人会输掉战斗，这是我对\n"
+	.string "你的忠告。$"
 
 MossdeepCity_Gym_Text_VirgilIntro:
-	.string "Let me see your talent!$"
+	.string "让我看看你的天赋吧！$"
 
 MossdeepCity_Gym_Text_VirgilDefeat:
-	.string "You possess spectacular talent!$"
+	.string "你拥有非凡的天赋！$"
 
 MossdeepCity_Gym_Text_VirgilPostBattle:
-	.string "If there are prodigies in the world,\n"
-	.string "then our GYM LEADERS are them!\p"
-	.string "However, you may be even more talented\n"
-	.string "than them…$"
+	.string "如果世上真的有天才，那么就是我们\n"
+	.string "的道馆馆主！\p"
+	.string "但你说不定拥有比他们更高的天赋…\n"
+	.string "…$"
 
 MossdeepCity_Gym_Text_BlakeIntro:
-	.string "Fufufufu… Watch me levitate a POKé\n"
-	.string "BALL telekinetically!\p"
-	.string "Wrooooooooaaaar!\n"
-	.string "… … … … … … …\p"
-	.string "Sometimes, I'm out of sync…$"
+	.string "嘿嘿嘿……看我用心灵感应让精灵球\n"
+	.string "浮起来！\p"
+	.string "呜啊啊啊啊啊啊啊！…… …… …\n"
+	.string "… ……\p"
+	.string "有时我还是不能同步……$"
 
 MossdeepCity_Gym_Text_BlakeDefeat:
-	.string "My POKéMON battling skills are out\n"
-	.string "of sync, too!$"
+	.string "我的宝可梦战斗技术也不能同步了！$"
 
 MossdeepCity_Gym_Text_BlakePostBattle:
-	.string "A POKé BALL was too heavy to lift\n"
-	.string "psychically. But this dust bunny…\p"
-	.string "Whoooooooooooooooh!\n"
-	.string "… … … … … …\p"
-	.string "No, I'm not cheating!\n"
-	.string "I didn't blow on it! Honestly!$"
+	.string "要用精神力举起精灵球还是困难了点\n"
+	.string "，但这么小的灰尘的话……\p"
+	.string "呜啊啊啊啊啊啊啊！…… …… …\n"
+	.string "…\p"
+	.string "不不，我没骗人！我没吹牛！真的！$"
 
 MossdeepCity_Gym_Text_HannahIntro:
-	.string "When you lose to me, don't be too hard\n"
-	.string "on yourself.\p"
-	.string "It's not that you're weak--I'm just\n"
-	.string "too strong!$"
+	.string "输给我的话，也不要太责怪自己。\p"
+	.string "不是你弱小——而是我太强了！$"
 
 MossdeepCity_Gym_Text_HannahDefeat:
-	.string "You're just too strong!$"
+	.string "你太强了！$"
 
 MossdeepCity_Gym_Text_HannahPostBattle:
-	.string "I'm not going to get down on myself for\n"
-	.string "losing. I just need to train harder.\p"
-	.string "Positive thinking--that's my strong\n"
-	.string "point!$"
+	.string "我失败了，但我不会气馁。我只是需\n"
+	.string "要更严格的训练。\p"
+	.string "总是乐观看待事情——这是我的优势\n"
+	.string "！$"
 
 MossdeepCity_Gym_Text_SamanthaIntro:
-	.string "I see it…\n"
-	.string "I see your future…\p"
-	.string "If you can beat me, I will tell you\n"
-	.string "your future!$"
+	.string "看到了……你的未来……\p"
+	.string "你能打败我的话，我就告诉你未来！$"
 
 MossdeepCity_Gym_Text_SamanthaDefeat:
-	.string "I surrender!$"
+	.string "我投降！$"
 
 MossdeepCity_Gym_Text_SamanthaPostBattle:
-	.string "You will wage a terrifically intense\n"
-	.string "battle with our GYM LEADERS…\p"
-	.string "The result…\n"
-	.string "You won't hear it from me!$"
+	.string "你和我们的道馆馆主之间会有一场激\n"
+	.string "烈的战斗……\p"
+	.string "结果……我不会告诉你的！$"
 
 MossdeepCity_Gym_Text_MauraIntro:
-	.string "The roads you have traveled…\n"
-	.string "What you have experienced…\p"
-	.string "Come at me with everything you've\n"
-	.string "learned!$"
+	.string "你走过的路……你经历过的事……\p"
+	.string "用你所学会的一切全力攻击吧！$"
 
 MossdeepCity_Gym_Text_MauraDefeat:
-	.string "You've traveled a path of greatness!$"
+	.string "你走过的路可谓非凡！$"
 
 MossdeepCity_Gym_Text_MauraPostBattle:
-	.string "A bright future awaits those who have\n"
-	.string "worked diligently.\p"
-	.string "For those who lazed idly, there is\n"
-	.string "only despair at the end.\p"
-	.string "What goes around comes around…$"
+	.string "勤奋的人们拥有光明的前途，\p"
+	.string "而懒惰的人所面对的惟有绝望的终点\n"
+	.string "。\p"
+	.string "种下什么因，就得到什么果……$"
 
 MossdeepCity_Gym_Text_SylviaIntro:
-	.string "Even at the risk of life, I will win\n"
-	.string "this battle!$"
+	.string "即使有生命危险，我也会赢得胜利！$"
 
 MossdeepCity_Gym_Text_SylviaDefeat:
-	.string "What you do…\n"
-	.string "It horrifies me…$"
+	.string "你所做的……吓倒了我……$"
 
 MossdeepCity_Gym_Text_SylviaPostBattle:
-	.string "How dare you beat me…\p"
-	.string "It won't be my fault if something\n"
-	.string "horrible befalls you…$"
+	.string "你竟敢打败我……\p"
+	.string "若有厄运降临于你，不要怪我……$"
 
 MossdeepCity_Gym_Text_NateIntro:
-	.string "Hohoho.\p"
-	.string "You need me to show you how tenacious\n"
-	.string "the PSYCHIC type can be.$"
+	.string "呵呵呵。\p"
+	.string "让我给你看看超能力属性的执着。$"
 
 MossdeepCity_Gym_Text_NateDefeat:
-	.string "Oh! My, my!\n"
-	.string "Your battle style is fantastic!$"
+	.string "啊，天哪，天哪！你的战斗无与伦比\n"
+	.string "！$"
 
 MossdeepCity_Gym_Text_NatePostBattle:
-	.string "I… I don't let defeat rattle m-me,\n"
-	.string "however b-badly.$"
+	.string "我……我不会被任——任何失败吓—\n"
+	.string "—吓倒。$"
 
 MossdeepCity_Gym_Text_KathleenIntro:
-	.string "Let me show you a perfectly awful,\n"
-	.string "horrifying time!$"
+	.string "体会一下完全绝望的恐怖吧！$"
 
 MossdeepCity_Gym_Text_KathleenDefeat:
-	.string "N-nooooo!$"
+	.string "不——！$"
 
 MossdeepCity_Gym_Text_KathleenPostBattle:
-	.string "Your vitality is contagious!\n"
-	.string "Get away from me quickly!$"
+	.string "你的活力感染了我！快点离开吧！$"
 
 MossdeepCity_Gym_Text_CliffordIntro:
-	.string "I may be past my prime, but I suggest\n"
-	.string "you not patronize me.$"
+	.string "我也许已过盛年，但我建议你不要小\n"
+	.string "觑我。$"
 
 MossdeepCity_Gym_Text_CliffordDefeat:
-	.string "Ah, you overflow with the power\n"
-	.string "of youth!$"
+	.string "啊，你身上散发着年轻的活力！$"
 
 MossdeepCity_Gym_Text_CliffordPostBattle:
-	.string "It seems that I could not overcome\n"
-	.string "your youthful energy.$"
+	.string "看来我无法胜过你的活力。$"
 
 MossdeepCity_Gym_Text_MaceyIntro:
-	.string "You're not getting through to the end!\n"
-	.string "Not if I can help it!$"
+	.string "休想走到最后！只要我在就绝无可能\n"
+	.string "！$"
 
 MossdeepCity_Gym_Text_MaceyDefeat:
-	.string "How could you be so ludicrously\n"
-	.string "strong?$"
+	.string "怎么可能强得这么离谱？$"
 
 MossdeepCity_Gym_Text_MaceyPostBattle:
-	.string "Humph! You may be strong, but you're\n"
-	.string "not suitable for the PSYCHIC type!\p"
-	.string "The way you battle is somehow brutal!$"
+	.string "哼！就算你实力不错，也根本不适合\n"
+	.string "超能力属性！\p"
+	.string "你的对战方式实在太粗暴了！$"
 
 MossdeepCity_Gym_Text_NicholasIntro:
-	.string "Wroooar! Have a taste of my super\n"
-	.string "POKéMON hard-battling power!$"
+	.string "呜啊啊啊！尝尝我的宝可梦超级对战\n"
+	.string "力量吧！$"
 
 MossdeepCity_Gym_Text_NicholasDefeat:
-	.string "Oh!\n"
-	.string "Done in!$"
+	.string "啊！完了！$"
 
 MossdeepCity_Gym_Text_NicholasPostBattle:
-	.string "All right! I think I'll develop a special\n"
-	.string "invincible POKéMON power next.$"
+	.string "好吧！接下来我要修炼出一种无敌的\n"
+	.string "宝可梦力量！$"
 
 MossdeepCity_Gym_Text_TateAndLizaIntro:
-	.string "TATE: Hehehe… Were you surprised?\p"
-	.string "LIZA: Fufufu… Were you surprised?\p"
-	.string "TATE: That there are two GYM LEADERS?\n"
-	.string "LIZA: That there are two GYM LEADERS?\p"
-	.string "TATE: We're twins!\n"
-	.string "LIZA: We're twins!\p"
-	.string "TATE: We don't need to talk because…\n"
-	.string "LIZA: We can each determine what…\p"
-	.string "TATE: The other is thinking…\n"
-	.string "LIZA: All in our minds!\p"
-	.string "TATE: This combination of ours…\n"
-	.string "LIZA: Can you beat it?$"
+	.string "小枫：嘿嘿嘿……你惊讶吗？\p"
+	.string "小南：呵呵呵……你惊讶吧？\p"
+	.string "小枫：这里有两个道馆馆主？小南：\n"
+	.string "这里有两个道馆馆主？\p"
+	.string "小枫：我们是双胞胎！小南：我们是\n"
+	.string "双胞胎！\p"
+	.string "小枫：我们无需言语，因为……小南\n"
+	.string "：我们可以感知……\p"
+	.string "小枫：彼此心中所想……小南：仅凭\n"
+	.string "意念相通！\p"
+	.string "小枫：这样的组合……小南：你能战\n"
+	.string "胜吗？$"
 
 MossdeepCity_Gym_Text_TateAndLizaDefeat:
-	.string "TATE: What?! Our combination…\n"
-	.string "LIZA: Was shattered!\p"
-	.string "TATE: It can't be helped. You've won…\n"
-	.string "LIZA: So, in recognition, take this.$"
+	.string "小枫：什么？！我们的组合……小南\n"
+	.string "：被瓦解了！\p"
+	.string "小枫：没办法，是你赢了……小南：\n"
+	.string "作为证明，请收下这个。$"
 
 MossdeepCity_Gym_Text_ReceivedMindBadge:
-	.string "{PLAYER} received the MIND BADGE\n"
-	.string "from TATE and LIZA.$"
+	.string "{PLAYER}从小枫与小南那里\n"
+	.string "得到了心灵徽章。$"
 
 MossdeepCity_Gym_Text_ExplainMindBadgeTakeThis:
-	.string "TATE: The MIND BADGE enhances the\n"
-	.string "SP. ATK and SP. DEF of POKéMON.\p"
-	.string "LIZA: It also lets you use the HM move\n"
-	.string "DIVE outside of battle.\p"
-	.string "TATE: You should also take this, too.$"
+	.string "小枫：心灵徽章能提升宝可梦的特攻\n"
+	.string "和特防。\p"
+	.string "小南：有了它，你也能在对战外使用\n"
+	.string "秘传招式潜水了。\p"
+	.string "小枫：也请你收下这个。$"
 
 MossdeepCity_Gym_Text_ExplainCalmMind:
-	.string "TATE: That TM04 contains…\n"
-	.string "LIZA: CALM MIND!\p"
-	.string "TATE: It raises SP. ATK and…\n"
-	.string "LIZA: It raises SP. DEF!\p"
-	.string "TATE: It's a move that's perfect…\n"
-	.string "LIZA: For PSYCHIC POKéMON!\p"
-	.string "… … … … … …$"
+	.string "小枫：那个招式学习器04里面是…\n"
+	.string "…小南：冥想！\p"
+	.string "小枫：它能提升特攻……小南：还能\n"
+	.string "提升特防！\p"
+	.string "小枫：对于超能力属性宝可梦而言…\n"
+	.string "…小南：这是最完美的招式！\p"
+	.string "…… …… ……$"
 
 MossdeepCity_Gym_Text_RegisteredTateAndLiza:
-	.string "Registered GYM LEADERS TATE & LIZA\n"
-	.string "in the POKéNAV.$"
+	.string "把道馆馆主小枫与小南登记到宝可导\n"
+	.string "航里了。$"
 
 MossdeepCity_Gym_Text_TateAndLizaPostBattle:
-	.string "TATE: Looks like the bond between you\n"
-	.string "and your POKéMON is far stronger than\l"
-	.string "the bond that we share as twins.\p"
-	.string "LIZA: You will become even stronger!\n"
-	.string "We've battled you, so we know.$"
+	.string "小枫：看起来你和你的宝可梦之间的\n"
+	.string "牵绊比我们双胞胎之间的牵绊还要强\l"
+	.string "。\p"
+	.string "小南：你们会变得更强！我们和你对\n"
+	.string "战过，所以我们知道。$"
 
 MossdeepCity_Gym_Text_TateAndLizaNeedTwoMons:
-	.string "TATE: Hehehe… Were you surprised?\p"
-	.string "LIZA: That there are two GYM LEADERS?\p"
-	.string "TATE: Oops, you have only one…\n"
-	.string "LIZA: POKéMON that can battle.\p"
-	.string "TATE: We can't battle that way!\p"
-	.string "LIZA: If you want to challenge us,\n"
-	.string "bring some more POKéMON.$"
+	.string "小枫：嘿嘿嘿……你惊讶吗？\p"
+	.string "小南：这里有两个道馆馆主？\p"
+	.string "小枫：哎，你只有1只……小南：能\n"
+	.string "对战的宝可梦。\p"
+	.string "小枫：我们不能这样对战！\p"
+	.string "小南：要和我们对战，再多带几只宝\n"
+	.string "可梦来吧。$"
 
 MossdeepCity_Gym_Text_GymStatue:
-	.string "MOSSDEEP CITY POKéMON GYM$"
+	.string "绿岭市宝可梦道馆$"
 
 MossdeepCity_Gym_Text_GymStatueCertified:
-	.string "MOSSDEEP CITY POKéMON GYM\p"
-	.string "LIZA AND TATE'S CERTIFIED TRAINERS:\n"
+	.string "绿岭市宝可梦道馆\p"
+	.string "小枫与小南认可的训练家：\n"
 	.string "{PLAYER}$"
 
 MossdeepCity_Gym_Text_TateAndLizaPreRematch:
-	.string "TATE: POKéMON…\n"
-	.string "LIZA: POKéMON…\p"
-	.string "TATE: By changing the party's mix…\n"
-	.string "LIZA: The battle style changes.\p"
-	.string "TATE: But me…\n"
-	.string "LIZA: But me…\p"
-	.string "TATE: I'll always be with LIZA!\n"
-	.string "LIZA: I'll always be with TATE!\p"
-	.string "TATE: Our combination…\n"
-	.string "LIZA: We'll show you again and again!$"
+	.string "小枫：宝可梦……小南：宝可梦……\p"
+	.string "小枫：改变队伍组合的话……小南：\n"
+	.string "战斗风格也会随之改变。\p"
+	.string "小枫：但是我……小南：但是我……\p"
+	.string "小枫：会一直跟小南在一起！小南：\n"
+	.string "会一直跟小枫在一起！\p"
+	.string "小枫：我们会向你一次次……小南：\n"
+	.string "展现我们的组合！$"
 
 MossdeepCity_Gym_Text_TateAndLizaRematchDefeat:
-	.string "TATE: You and your POKéMON…\n"
-	.string "LIZA: It's as if you were siblings!$"
+	.string "小枫：你和你的宝可梦……小南：简\n"
+	.string "直像亲兄弟姐妹！$"
 
 MossdeepCity_Gym_Text_TateAndLizaPostRematch:
-	.string "TATE: You can knock us down,\n"
-	.string "but we'll never stay down!\p"
-	.string "LIZA: Because the two of us,\n"
-	.string "we always support each other!$"
+	.string "小枫：你可以将我们击倒，但我们不\n"
+	.string "会停滞不前！\p"
+	.string "小南：因为我们两个，会永远互相支\n"
+	.string "持！$"
 
 MossdeepCity_Gym_Text_TateAndLizaRematchNeedTwoMons:
-	.string "TATE: You're back again…\n"
-	.string "LIZA: You're back again…\p"
-	.string "TATE: To give us a rematch.\n"
-	.string "LIZA: To give us a rematch.\p"
-	.string "TATE: But…\n"
-	.string "LIZA: For our match…\p"
-	.string "TATE: You brought just one POKéMON!\n"
-	.string "LIZA: You brought just one POKéMON!\p"
-	.string "TATE: We need you to bring at least…\n"
-	.string "LIZA: Two POKéMON when you come back.$"
+	.string "小枫：你又回来……小南：你又回来\n"
+	.string "……\p"
+	.string "小枫：跟我们再次对战。小南：跟我\n"
+	.string "们再次对战。\p"
+	.string "小枫：但是……小南：向我们挑战…\n"
+	.string "…\p"
+	.string "小枫：你却只带来了1只宝可梦！小\n"
+	.string "南：你却只带来了1只宝可梦！\p"
+	.string "小枫：你再来时要带来……小南：至\n"
+	.string "少2只宝可梦。$"

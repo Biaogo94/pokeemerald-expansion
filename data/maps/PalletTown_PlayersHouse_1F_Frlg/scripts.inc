@@ -54,39 +54,33 @@ PalletTown_PlayersHouse_1F_EventScript_TVScreenFemale::
 	return
 
 PalletTown_PlayersHouse_1F_Text_AllBoysLeaveOakLookingForYou::
-	.string "MOM: …Right.\n"
-	.string "All boys leave home someday.\l"
-	.string "It said so on TV.\p"
-	.string "Oh, yes. PROF. OAK, next door, was\n"
-	.string "looking for you.$"
+	.string "妈妈：……好吧。电视上说过。每一\n"
+	.string "个男孩子都有离开家的那一天。\p"
+	.string "对了，隔壁的大木博士正在找你呢。$"
 
 PalletTown_PlayersHouse_1F_Text_AllGirlsLeaveOakLookingForYou::
-	.string "MOM: …Right.\n"
-	.string "All girls dream of traveling.\l"
-	.string "It said so on TV.\p"
-	.string "Oh, yes. PROF. OAK, next door, was\n"
-	.string "looking for you.$"
+	.string "妈妈 ……好吧。电视上说过，每一\n"
+	.string "个女孩子都梦想着去旅行。\p"
+	.string "对了，隔壁的大木博士正在找你呢。$"
 
 PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRest::
-	.string "MOM: {PLAYER}!\n"
-	.string "You should take a quick rest.$"
+	.string "妈妈 {PLAYER}！你应该稍\n"
+	.string "微休息一下。$"
 
 PalletTown_PlayersHouse_1F_Text_LookingGreatTakeCare::
-	.string "MOM: Oh, good! You and your\n"
-	.string "POKéMON are looking great.\l"
-	.string "Take care now!$"
+	.string "妈妈：嗯，很好！你和你的宝可梦看\n"
+	.string "起来精力十足。路上小心！$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVFourBoysOnRailroad::
-	.string "There's a movie on TV.\n"
-	.string "Four boys are walking on railroad\l"
-	.string "tracks.\p"
-	.string "…I better go, too.$"
+	.string "电视上播放着一部电影。四个男孩沿\n"
+	.string "着铁轨步行着开始了旅行。\p"
+	.string "……我也该走了。$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVGirlOnBrickRoad::
-	.string "There's a movie on TV.\n"
-	.string "A girl with her hair in pigtails is\l"
-	.string "walking up a brick road.\p"
-	.string "…I better go, too.$"
+	.string "电视上播放着一部电影。一个扎着马\n"
+	.string "尾的女孩沿着砖块砌成的路开始了旅\l"
+	.string "行。\p"
+	.string "……我也该走了。$"
 
 PalletTown_PlayersHouse_1F_Text_OopsWrongSide::
-	.string "Oops, wrong side…$"
+	.string "哎哟，方向错了……$"

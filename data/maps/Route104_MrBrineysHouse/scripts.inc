@@ -95,64 +95,54 @@ Route104_MrBrineysHouse_EventScript_Peeko::
 	end
 
 Route104_MrBrineysHouse_Text_WaitUpPeeko:
-	.string "MR. BRINEY: Hold on, lass!\n"
-	.string "Wait up, PEEKO!$"
+	.string "哈奇：稍等，孩子！等等我，小皮！$"
 
 Route104_MrBrineysHouse_Text_ItsYouLetsSailToDewford:
-	.string "Hm? You're {PLAYER}{KUN}!\n"
-	.string "You saved my darling PEEKO!\l"
-	.string "We owe so much to you!\p"
-	.string "What's that?\n"
-	.string "You want to sail with me?\p"
-	.string "Hmhm…\p"
-	.string "You have a LETTER bound for DEWFORD\n"
-	.string "and a package for SLATEPORT, then?\p"
-	.string "Quite the busy life you must lead!\p"
-	.string "But, certainly, what you're asking is\n"
-	.string "no problem at all.\p"
-	.string "You've come to the right man!\n"
-	.string "We'll set sail for DEWFORD.$"
+	.string "嗯？你是{PLAYER}\n"
+	.string "{KUN}！是你救了我心爱的小皮\l"
+	.string "！我们欠你的人情！\p"
+	.string "什么？你想要坐我的船？\p"
+	.string "嗯……\p"
+	.string "你要去武斗镇送信，还要去凯那市送\n"
+	.string "包裹？\p"
+	.string "你的生活还真是忙碌啊！\p"
+	.string "不过这点小事包在我身上！\p"
+	.string "你找对人了！我们这就启航去武斗镇\n"
+	.string "。$"
 
 Route104_MrBrineysHouse_Text_SetSailForDewford:
-	.string "MR. BRINEY: DEWFORD it is, then!\p"
-	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "哈奇：目标武斗镇！\p"
+	.string "起锚咯！小皮，亲爱的，我们出海了\n"
+	.string "！$"
 
 Route104_MrBrineysHouse_Text_DeclineDeliverySail:
-	.string "MR. BRINEY: Is that so?\n"
-	.string "Your deliveries can wait?\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail!$"
+	.string "哈奇：这样吗？你的包裹不急吗？\p"
+	.string "想出海随时叫我！$"
 
 Route104_MrBrineysHouse_Text_NeedToMakeDeliveriesSailToDewford:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "I know exactly what you want to say!\p"
-	.string "You're to deliver a LETTER to DEWFORD\n"
-	.string "and a package to SLATEPORT.\p"
-	.string "What you need me to do is no problem\n"
-	.string "at all--I'm the man for the job!\p"
-	.string "First, we'll set sail for DEWFORD.$"
+	.string "哈奇：喂！我明白你的意思！\p"
+	.string "你想要去武斗镇送信，还要去凯那市\n"
+	.string "送包裹。\p"
+	.string "这点小事包在我身上！\p"
+	.string "你找对人了！我们这就启航去武斗镇\n"
+	.string "。$"
 
 Route104_MrBrineysHouse_Text_NeedToDeliverPackageSailToDewford:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "I know exactly what you want to say!\p"
-	.string "You're to deliver a package to\n"
-	.string "CAPT. STERN in SLATEPORT.\p"
-	.string "What you need me to do is no problem\n"
-	.string "at all--I'm the man for the job!\p"
-	.string "First, we'll set sail for DEWFORD.$"
+	.string "哈奇：喂！我明白你的意思！\p"
+	.string "你要送包裹给凯那市的楠木。\p"
+	.string "这点小事包在我身上！\p"
+	.string "你找对人了！我们这就启航去武斗镇\n"
+	.string "。$"
 
 Route104_MrBrineysHouse_Text_WhereAreWeBound:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "For you, I'll go out to sea anytime!\p"
-	.string "Now, my friend, where are we bound?$"
+	.string "哈奇：喂！为了你我随时都能出海！\p"
+	.string "说吧朋友，这次想去哪儿？$"
 
 Route104_MrBrineysHouse_Text_TellMeWheneverYouWantToSail:
-	.string "MR. BRINEY: Is that so?\n"
-	.string "Well, PEEKO owes her life to you.\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail!$"
+	.string "哈奇：这样吗？你可是小皮的救命恩\n"
+	.string "人。\p"
+	.string "想出海随时叫我！$"
 
 Route104_MrBrineysHouse_Text_Peeko:
-	.string "PEEKO: Pii piihyoro!$"
+	.string "小皮：皮皮呦咯！$"
 

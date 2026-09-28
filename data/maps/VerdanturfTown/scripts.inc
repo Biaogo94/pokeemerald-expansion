@@ -73,16 +73,15 @@ VerdanturfTown_Text_ManTryingToDigTunnel:
 	.string "the tunnel by himself!$"
 
 VerdanturfTown_Text_ManDugTunnelForLove:
-	.string "There was a man who dug a tunnel for\n"
-	.string "a lady he loved.\p"
-	.string "I don't really get it, but hey!$"
+	.string "听说那人挖隧道是为了心爱的姑娘。\p"
+	.string "虽然不太懂，但真浪漫啊！$"
 
 VerdanturfTown_Text_AirCleanHere:
-	.string "The way the winds blow, volcanic ash\n"
-	.string "is never blown in this direction.\p"
-	.string "The air is clean and delicious here.\n"
-	.string "Living here should do wonders for even\l"
-	.string "frail and sickly people.$"
+	.string "因风向关系，火山灰永远吹不到这里\n"
+	.string "，\p"
+	.string "所以这里空气非常清新。住在这里，\n"
+	.string "就算是体弱多病的人也可能有奇迹般\l"
+	.string "的好转。$"
 
 VerdanturfTown_Text_MakeBattleTentDebut:
 	.string "My POKéMON and I, we've been riding\n"
@@ -91,19 +90,17 @@ VerdanturfTown_Text_MakeBattleTentDebut:
 	.string "debut in this town.$"
 
 VerdanturfTown_Text_GuyTryingToBustThroughCave:
-	.string "Did you see the cave next to the\n"
-	.string "POKéMON MART?\p"
-	.string "There's a guy in there who's trying to\n"
-	.string "bust up boulders so he can bust out\l"
-	.string "through to the other side.\p"
-	.string "It'd be great if we could go through…\n"
-	.string "It'll make it easy to visit RUSTBORO.$"
+	.string "你看到友好商店旁边的洞窟了吗？\p"
+	.string "里面有个人在努力打碎岩石来打通隧\n"
+	.string "道。\p"
+	.string "要是隧道能打通就太好了……这样我\n"
+	.string "们去卡那兹市就更容易了。$"
 
 VerdanturfTown_Text_EasyToGetToRustboroNow:
-	.string "That cave next to the POKéMON MART\n"
-	.string "is now a tunnel to the other side.\p"
-	.string "It's great--it's easy to go shop for\n"
-	.string "new DEVON products in RUSTBORO now.$"
+	.string "友好商店旁的洞穴已经是连通两地的\n"
+	.string "隧道啦！\p"
+	.string "太棒了——现在去卡那兹市买得文的\n"
+	.string "新产品方便多了。$"
 
 VerdanturfTown_Text_TownSign:
 	.string "VERDANTURF TOWN\p"
@@ -111,15 +108,13 @@ VerdanturfTown_Text_TownSign:
 	.string "sweet fragrance of grass.”$"
 
 VerdanturfTown_Text_WandasHouse:
-	.string "WANDA'S HOUSE$"
+	.string "满盈的家$"
 
 VerdanturfTown_Text_BattleTentSign:
-	.string "BATTLE TENT VERDANTURF SITE\n"
-	.string "“Feast Your Eyes on Battles!”$"
+	.string "对战帐篷绿茵镇分址“精彩对战，尽\n"
+	.string "收眼底！”$"
 
 VerdanturfTown_Text_RusturfTunnelSign:
-	.string "RUSTURF TUNNEL\n"
-	.string "“Linking RUSTBORO and VERDANTURF\p"
-	.string "“The tunnel project has been\n"
-	.string "canceled.”$"
+	.string "卡绿隧道“连接卡那兹市和绿茵镇\p"
+	.string "隧道工程现已终止施工。”$"
 

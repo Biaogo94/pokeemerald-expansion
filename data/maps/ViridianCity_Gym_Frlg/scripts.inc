@@ -105,173 +105,154 @@ ViridianCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 ViridianCity_Gym_Text_GiovanniIntro::
-	.string "Fwahahaha!\n"
-	.string "Welcome to my hideout!\p"
-	.string "It shall be so until I can restore\n"
-	.string "TEAM ROCKET to its former glory.\p"
-	.string "But, you have found me again.\n"
-	.string "So be it.\l"
-	.string "This time, I'm not holding back!\p"
-	.string "Once more, you shall face\n"
-	.string "GIOVANNI, the greatest TRAINER!{PLAY_BGM}{MUS_RG_ENCOUNTER_ROCKET}$"
+	.string "哇哈哈哈！欢迎来到我的藏身之处！\p"
+	.string "在我恢复火箭队往日的荣光前，我只\n"
+	.string "能这么做。\p"
+	.string "但是，你又找到了我。就这样吧。这\n"
+	.string "一次，我不会再保留实力了！\p"
+	.string "再一次，你将要面对坂木，那个最强\n"
+	.string "大的训练家！{PLAY_BGM}\l"
+	.string "{MUS_RG_ENCOUNTER_ROCKET}$"
 
 ViridianCity_Gym_Text_GiovanniDefeat::
-	.string "Ha!\n"
-	.string "That was a truly intense fight.\l"
-	.string "You have won!\p"
-	.string "As proof, here is the EARTHBADGE!\n"
-	.string "{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}$"
+	.string "哈！真是激烈的战斗。你赢了！\p"
+	.string "作为证据，这是绿色徽章！\n"
+	.string "{PAUSE_MUSIC}\l"
+	.string "{PLAY_BGM}\l"
+	.string "{MUS_OBTAIN_BADGE}\l"
+	.string "{PAUSE 0xFE}\l"
+	.string "{PAUSE 0x56}\l"
+	.string "{RESUME_MUSIC}$"
 
 ViridianCity_Gym_Text_GiovanniPostBattle::
-	.string "Having lost in this fashion, \n"
-	.string "I can't face my followers.\l"
-	.string "I have betrayed their trust.\p"
-	.string "As of today, TEAM ROCKET is\n"
-	.string "finished forever!\p"
-	.string "As for myself, I shall dedicate\n"
-	.string "my life to training again.\p"
-	.string "Let us meet again someday!\n"
-	.string "Farewell!$"
+	.string "以这种方式落败，我没脸面对我的追\n"
+	.string "随者。我背叛了他们对我的忠诚。\p"
+	.string "在今天，火箭队永远地解散了。\p"
+	.string "对我自己而言，我会倾其一生去再次\n"
+	.string "修炼。\p"
+	.string "也许我们将来可能会再见吧！永别了\n"
+	.string "！$"
 
 ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis::
-	.string "The EARTHBADGE makes POKéMON of\n"
-	.string "any level obey without question.\p"
-	.string "It is evidence of your mastery as\n"
-	.string "a POKéMON TRAINER.\p"
-	.string "With it, you can challenge the\n"
-	.string "POKéMON LEAGUE.\p"
-	.string "Also, take this TM.\p"
-	.string "Consider it a gift for your POKéMON\n"
-	.string "LEAGUE challenge.$"
+	.string "绿色徽章能使任何级别的宝可梦无理\n"
+	.string "由地服从于你。\p"
+	.string "这是你作为一个优秀的宝可梦训练家\n"
+	.string "的证据。\p"
+	.string "有了它，你就能挑战宝可梦联盟了。\p"
+	.string "也带上这个技能。\p"
+	.string "把它作为你挑战宝可梦联盟的礼物。$"
 
 ViridianCity_Gym_Text_ReceivedTM26FromGiovanni::
-	.string "{PLAYER} received TM26\n"
-	.string "from GIOVANNI.$"
+	.string "{PLAYER}从坂木那儿得到了\n"
+	.string "TM26。$"
 
 ViridianCity_Gym_Text_ExplainTM26::
-	.string "TM26 contains EARTHQUAKE.\p"
-	.string "It is a powerful attack that causes\n"
-	.string "a massive tremor.\p"
-	.string "I made it when I ran the GYM here,\n"
-	.string "far too long ago… $"
+	.string "TM26是地震。\p"
+	.string "它能引起大地的震动，是一种强有力\n"
+	.string "的攻击。\p"
+	.string "很久以前我还在这儿开道馆时，我制\n"
+	.string "造了这个技能……$"
 
 ViridianCity_Gym_Text_YouDoNotHaveSpace::
-	.string "You do not have space for this!$"
+	.string "你的背包满了！$"
 
 ViridianCity_Gym_Text_YujiIntro::
-	.string "Heh!\n"
-	.string "You must be running out of steam\l"
-	.string "by now!$"
+	.string "嘿！现在喷雾一定用完了！$"
 
 ViridianCity_Gym_Text_YujiDefeat::
-	.string "I ran out of gas!$"
+	.string "我用完了喷雾！$"
 
 ViridianCity_Gym_Text_YujiPostBattle::
-	.string "You'll need power to keep up with\n"
-	.string "our GYM LEADER.$"
+	.string "要赶上我们的道馆馆主，你还需要更\n"
+	.string "强大的力量。$"
 
 ViridianCity_Gym_Text_AtsushiIntro::
-	.string "Rrrroar!\n"
-	.string "I'm working myself into a rage!$"
+	.string "嗷！我要暴走了！$"
 
 ViridianCity_Gym_Text_AtsushiDefeat::
-	.string "Wargh!$"
+	.string "哇！$"
 
 ViridianCity_Gym_Text_AtsushiPostBattle::
-	.string "I'm still not worthy!$"
+	.string "真是不值！$"
 
 ViridianCity_Gym_Text_JasonIntro::
-	.string "POKéMON and I, we make wonderful\n"
-	.string "music together!$"
+	.string "我和宝可梦，一起创造绝妙的音乐！$"
 
 ViridianCity_Gym_Text_JasonDefeat::
-	.string "You are in perfect harmony!$"
+	.string "你们相处得非常好！$"
 
 ViridianCity_Gym_Text_JasonPostBattle::
-	.string "Do you know the identity of our\n"
-	.string "GYM LEADER?$"
+	.string "你知道我们道馆馆主的身份吗？$"
 
 ViridianCity_Gym_Text_KiyoIntro::
-	.string "Karate is the ultimate form of\n"
-	.string "martial arts!$"
+	.string "空手道是武术的究极形式！$"
 
 ViridianCity_Gym_Text_KiyoDefeat::
-	.string "Aiyah!$"
+	.string "啊哈！$"
 
 ViridianCity_Gym_Text_KiyoPostBattle::
-	.string "If my POKéMON were as good at\n"
-	.string "karate as I…$"
+	.string "如果我的宝可梦像我一样擅长空手道\n"
+	.string "……$"
 
 ViridianCity_Gym_Text_WarrenIntro::
-	.string "The truly talented win with style.$"
+	.string "我的风格是靠真正的实力取胜。$"
 
 ViridianCity_Gym_Text_WarrenDefeat::
-	.string "I lost my grip!$"
+	.string "我失去控制了！$"
 
 ViridianCity_Gym_Text_WarrenPostBattle::
-	.string "The LEADER will scold me for\n"
-	.string "losing this way…$"
+	.string "馆主会因为我就这样输了而责骂我的\n"
+	.string "……$"
 
 ViridianCity_Gym_Text_TakashiIntro::
-	.string "I'm the KARATE KING!\n"
-	.string "Your fate rests with me!$"
+	.string "我是空手道之王！你的命运取决于我\n"
+	.string "！$"
 
 ViridianCity_Gym_Text_TakashiDefeat::
-	.string "Ayah!$"
+	.string "啊！$"
 
 ViridianCity_Gym_Text_TakashiPostBattle::
-	.string "The POKéMON LEAGUE?\n"
-	.string "You? Don't get cocky!$"
+	.string "宝可梦联盟？你？别太狂妄了！$"
 
 ViridianCity_Gym_Text_ColeIntro::
-	.string "Your POKéMON will cower at the\n"
-	.string "crack of my whip!$"
+	.string "你的宝可梦会在我最重的打击之下颤\n"
+	.string "抖！$"
 
 ViridianCity_Gym_Text_ColeDefeat::
-	.string "Yowch!\n"
-	.string "Whiplash!$"
+	.string "啊哒！啪！$"
 
 ViridianCity_Gym_Text_ColePostBattle::
-	.string "Wait!\n"
-	.string "I was just careless!$"
+	.string "等着！我只是太不小心了！$"
 
 ViridianCity_Gym_Text_SamuelIntro::
-	.string "VIRIDIAN GYM was closed for a\n"
-	.string "long time.\p"
-	.string "But now, our LEADER is back!$"
+	.string "常青道馆关闭了很长时间。\p"
+	.string "但是现在，我们的馆主回来了！$"
 
 ViridianCity_Gym_Text_SamuelDefeat::
-	.string "I was beaten?$"
+	.string "我输了！$"
 
 ViridianCity_Gym_Text_SamuelPostBattle::
-	.string "You can go on to the POKéMON\n"
-	.string "LEAGUE only by defeating our GYM\l"
-	.string "LEADER!$"
+	.string "只有打败了我们的道馆馆主，你才有\n"
+	.string "资格去宝可梦联盟！$"
 
 ViridianCity_Gym_Text_GymGuyAdvice::
-	.string "Yo!\n"
-	.string "Champ in the making!\p"
-	.string "Even I don't know the VIRIDIAN\n"
-	.string "LEADER's identity.\p"
-	.string "But one thing's certain.\n"
-	.string "This will be the toughest of all\l"
-	.string "the GYM LEADERS.\p"
-	.string "Also, I heard that the TRAINERS\n"
-	.string "here like GROUND-type POKéMON.$"
+	.string "呦！未来的冠军！\p"
+	.string "实际上连我也不知道常青馆主的身份\n"
+	.string "。\p"
+	.string "但是有件事情是确定的。他是所有道\n"
+	.string "馆馆主之中最难对付的！\p"
+	.string "而且，我听说这儿的训练家都喜欢使\n"
+	.string "用地面属性宝可梦。$"
 
 ViridianCity_Gym_Text_GymGuyPostVictory::
-	.string "Blow me away! GIOVANNI was the\n"
-	.string "GYM LEADER of VIRIDIAN?$"
+	.string "难以置信！坂木是常青的道馆馆主？$"
 
 ViridianCity_Gym_Text_GymStatue::
-	.string "VIRIDIAN POKéMON GYM\n"
-	.string "LEADER: ?\p"
-	.string "WINNING TRAINERS:\n"
-	.string "{RIVAL}$"
+	.string "常青宝可梦道馆馆主：？\p"
+	.string "优胜训练家：{RIVAL}$"
 
 ViridianCity_Gym_Text_GymStatuePlayerWon::
-	.string "VIRIDIAN POKéMON GYM\n"
-	.string "LEADER: GIOVANNI\p"
-	.string "WINNING TRAINERS:\n"
-	.string "{RIVAL}, {PLAYER}$"
+	.string "常青宝可梦道馆馆主：坂木\p"
+	.string "优胜训练家：{RIVAL}，\n"
+	.string "{PLAYER}$"
 

@@ -26,26 +26,24 @@ MossdeepCity_House3_EventScript_DeclineSuperRod::
 	end
 
 MossdeepCity_House3_Text_YouWantSuperRod:
-	.string "Hey there, TRAINER!\n"
-	.string "A SUPER ROD really is super!\p"
-	.string "Say all you want, but this baby can\n"
-	.string "catch POKéMON off the seafloor!\p"
-	.string "What do you think?\n"
-	.string "You want it, don't you?$"
+	.string "喂，那边那位训练家！厉害钓竿真的\n"
+	.string "非常妙！\p"
+	.string "即使你想要海底的宝可梦，它也能把\n"
+	.string "它们钓出来！\p"
+	.string "你觉得呢？你想要是吧？$"
 
 MossdeepCity_House3_Text_SuperRodIsSuper:
-	.string "You bet, you bet!\n"
-	.string "After all, a SUPER ROD is really super!$"
+	.string "当然，当然！毕竟，厉害钓竿真的非\n"
+	.string "常妙！$"
 
 MossdeepCity_House3_Text_TryDroppingRodInWater:
-	.string "If there's any water, try dropping in\n"
-	.string "your ROD and see what bites!$"
+	.string "只要有水，就甩出你的钓竿来钓鱼吧\n"
+	.string "！$"
 
 MossdeepCity_House3_Text_DontYouLikeToFish:
-	.string "Hunh?\n"
-	.string "Don't you like to fish?$"
+	.string "哎？你不喜欢钓鱼吗？$"
 
 MossdeepCity_House3_Text_GoAfterSeafloorPokemon:
-	.string "Go after the seafloor POKéMON with\n"
-	.string "your SUPER ROD.$"
+	.string "用你的厉害钓竿寻找海底的宝可梦吧\n"
+	.string "。$"
 

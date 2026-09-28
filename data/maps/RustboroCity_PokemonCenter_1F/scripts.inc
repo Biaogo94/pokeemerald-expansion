@@ -29,19 +29,16 @@ RustboroCity_PokemonCenter_1F_EventScript_Girl::
 	end
 
 RustboroCity_PokemonCenter_1F_Text_PokemonHavePersonalities:
-	.string "My POKéMON has a NAIVE nature, and my\n"
-	.string "friend's has a JOLLY nature.\p"
-	.string "It's fascinating how POKéMON have\n"
-	.string "personalities!$"
+	.string "我的宝可梦是天真性格，而我朋友的\n"
+	.string "是爽朗性格。\p"
+	.string "宝可梦也有自己的性格，真有趣！$"
 
 RustboroCity_PokemonCenter_1F_Text_MaleAndFemalePokemon:
-	.string "Just like people, there are male and\n"
-	.string "female POKéMON.\p"
-	.string "But no one seems to have any idea how\n"
-	.string "they're different.$"
+	.string "就像人类一样，宝可梦也有性别，\p"
+	.string "但似乎没人知道它们的不同点在何处\n"
+	.string "。$"
 
 RustboroCity_PokemonCenter_1F_Text_HMCutNextDoor:
-	.string "The man next door gave me an HM!\p"
-	.string "I used it to teach my POKéMON how to\n"
-	.string "CUT down skinny trees.$"
+	.string "隔壁的人给了我一个秘传学习器！\p"
+	.string "我用它教我的宝可梦怎样砍倒小树。$"
 

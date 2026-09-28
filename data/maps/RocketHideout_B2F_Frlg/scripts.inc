@@ -7,14 +7,13 @@ RocketHideout_B2F_EventScript_Grunt::
 	end
 
 RocketHideout_B2F_Text_GruntIntro::
-	.string "BOSS said you can see ghosts with\n"
-	.string "the SILPH SCOPE.$"
+	.string "老大说用西尔佛观测镜你可以看清幽\n"
+	.string "灵。$"
 
 RocketHideout_B2F_Text_GruntDefeat::
-	.string "I surrender!$"
+	.string "我投降！$"
 
 RocketHideout_B2F_Text_GruntPostBattle::
-	.string "The TEAM ROCKET HQ has four\n"
-	.string "underground floors.\p"
-	.string "Think you can reach the BOSS?$"
+	.string "火箭队总部有四层建在地下。\p"
+	.string "你以为你能见到老大吗？$"
 

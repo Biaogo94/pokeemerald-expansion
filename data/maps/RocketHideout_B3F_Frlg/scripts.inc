@@ -12,28 +12,26 @@ RocketHideout_B3F_EventScript_Grunt2::
 	end
 
 RocketHideout_B3F_Text_Grunt1Intro::
-	.string "Stop meddling in TEAM ROCKET's\n"
-	.string "affairs or else!$"
+	.string "你给我站住，不许插手火箭队的事不\n"
+	.string "然的话……！$"
 
 RocketHideout_B3F_Text_Grunt1Defeat::
-	.string "Oof!\n"
-	.string "Taken down!$"
+	.string "啊！被做掉了！$"
 
 RocketHideout_B3F_Text_Grunt1PostBattle::
-	.string "SILPH SCOPE?\n"
-	.string "Oh, that machine the BOSS stole.\p"
-	.string "It's here somewhere.$"
+	.string "西尔佛观测镜？哦，那个老大偷走的\n"
+	.string "机器啊。\p"
+	.string "它应该就在附近。$"
 
 RocketHideout_B3F_Text_Grunt2Intro::
-	.string "We got word from upstairs that you\n"
-	.string "were coming!$"
+	.string "我们得到了楼上的情报，就知道你会\n"
+	.string "来这里！$"
 
 RocketHideout_B3F_Text_Grunt2Defeat::
-	.string "What?\n"
-	.string "I lost? No!$"
+	.string "什么？我输了？不！！！$"
 
 RocketHideout_B3F_Text_Grunt2PostBattle::
-	.string "Go ahead and go!\p"
-	.string "But you can't run the elevator\n"
-	.string "without the LIFT KEY.$"
+	.string "想进去就进去吧！\p"
+	.string "但是没有电梯的钥匙的话，你就无法\n"
+	.string "操作电梯。$"
 

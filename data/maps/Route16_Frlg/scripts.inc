@@ -74,115 +74,108 @@ Route16_EventScript_RouteSign::
 	end
 
 Route16_Text_LaoIntro::
-	.string "What do you want?$"
+	.string "你想要干什么？$"
 
 Route16_Text_LaoDefeat::
-	.string "Don't you dare laugh!$"
+	.string "你竟敢嘲笑我！$"
 
 Route16_Text_LaoPostBattle::
-	.string "We like just hanging here.\n"
-	.string "What's it to you?$"
+	.string "我们喜欢在这里游荡。你呢？$"
 
 Route16_Text_KojiIntro::
-	.string "Nice BIKE!\n"
-	.string "Hand it over!$"
+	.string "漂亮的自行车！交出来！$"
 
 Route16_Text_KojiDefeat::
-	.string "Knockout!$"
+	.string "我晕了！$"
 
 Route16_Text_KojiPostBattle::
-	.string "Forget it, who needs your BIKE!$"
+	.string "刚才我啥也没说，谁想要你的自行车\n"
+	.string "！$"
 
 Route16_Text_LukeIntro::
-	.string "Come out and play, little mouse!$"
+	.string "出来打一架吧，胆小鬼！$"
 
 Route16_Text_LukeDefeat::
-	.string "You little rat!$"
+	.string "你胆子有点大啊！$"
 
 Route16_Text_LukePostBattle::
-	.string "I hate losing!\n"
-	.string "Get out of my face!$"
+	.string "输掉什么的最讨厌了！赶快从我眼前\n"
+	.string "消失！$"
 
 Route16_Text_HideoIntro::
-	.string "Hey, you just bumped me!$"
+	.string "嘿，你刚才撞着我了！$"
 
 Route16_Text_HideoDefeat::
-	.string "Kaboom!$"
+	.string "可恶！$"
 
 Route16_Text_HideoPostBattle::
-	.string "We'll always be hanging around here\n"
-	.string "even if you don't like it.\p"
-	.string "You can detour to VERMILION from\n"
-	.string "FUCHSIA going along the coast.$"
+	.string "管你看的顺不顺眼，我们就爱在这儿\n"
+	.string "周围转。\p"
+	.string "你可以沿着海岸从浅红绕路去枯叶。$"
 
 Route16_Text_CamronIntro::
-	.string "I'm feeling hungry and mean!\n"
-	.string "I need a punching bag!$"
+	.string "我感到又饿又心烦！我需要一个出气\n"
+	.string "筒！$"
 
 Route16_Text_CamronDefeat::
-	.string "Bad, bad, bad!$"
+	.string "糟糕，麻烦，太颓了！$"
 
 Route16_Text_CamronPostBattle::
-	.string "If I'm going to have POKéMON, they\n"
-	.string "may as well be ferocious.\p"
-	.string "I'd use them to leave my enemies\n"
-	.string "in tatters.$"
+	.string "要是我有了宝可梦，他们必将成为我\n"
+	.string "的凶器。\p"
+	.string "我会用它们把我的敌人撕烂。$"
 
 Route16_Text_RubenIntro::
-	.string "Hey, there!\n"
-	.string "Let's have ourselves a good time!$"
+	.string "喂，朋友！来玩儿一把怎么样！$"
 
 Route16_Text_RubenDefeat::
-	.string "Don't make me mad!$"
+	.string "我要疯了！$"
 
 Route16_Text_RubenPostBattle::
-	.string "I get my kicks by harassing people\n"
-	.string "with my stinking POKéMON.\p"
-	.string "They're great for startling people.\n"
-	.string "And, they bite, too.$"
+	.string "我和我讨厌的宝可梦通过骚扰人们来\n"
+	.string "获得快乐。\p"
+	.string "它们吓唬人可是能手，当然了，咬人\n"
+	.string "也不差。$"
 
 Route16_Text_MonSprawledOutInSlumber::
-	.string "A POKéMON is sprawled out in\n"
-	.string "a deep and comfortable slumber.$"
+	.string "一只宝可梦躺在那儿，睡得无比香甜\n"
+	.string "。$"
 
 Route16_Text_CyclingRoadSign::
-	.string "Enjoy the slope!\n"
-	.string "CYCLING ROAD$"
+	.string "享受斜坡吧！单车路$"
 
 Route16_Text_RouteSign::
-	.string "ROUTE 16\n"
-	.string "CELADON CITY - FUCHSIA CITY$"
+	.string "16号道路玉虹市-浅红市$"
 
 Route16_Text_JedIntro::
-	.string "JED: Our love knows no bounds.\n"
-	.string "We're in love and we show it!$"
+	.string "阿神：我们的爱是无穷无尽的。就在\n"
+	.string "此向你展示吧！$"
 
 Route16_Text_JedDefeat::
-	.string "JED: Oh, no!\n"
-	.string "My love has seen me as a loser!$"
+	.string "阿神：噢，不！我的爱见证了我的失\n"
+	.string "败！$"
 
 Route16_Text_JedPostBattle::
-	.string "JED: Listen, LEA.\n"
-	.string "You need to focus less on me.$"
+	.string "阿神：听着，嘉穗。别对我白花心思\n"
+	.string "了。$"
 
 Route16_Text_JedNotEnoughMons::
-	.string "JED: You have just one POKéMON?\n"
-	.string "Is there no love in your heart?$"
+	.string "阿神：你眼里只有宝可梦？你心里没\n"
+	.string "有爱吗？$"
 
 Route16_Text_LeaIntro::
-	.string "LEA: Sometimes, the intensity of\n"
-	.string "our love scares me.$"
+	.string "嘉穗：有时，过于强烈的爱使我感到\n"
+	.string "害怕。$"
 
 Route16_Text_LeaDefeat::
-	.string "LEA: Ohh! But JED looks cool\n"
-	.string "even in a loss!$"
+	.string "嘉穗：噢！尽管输了，阿神还是看起\n"
+	.string "来很帅！$"
 
 Route16_Text_LeaPostBattle::
-	.string "LEA: Ehehe, I'm sorry.\n"
-	.string "JED is so cool.$"
+	.string "嘉穗：呵呵，不好意思。阿神太帅了\n"
+	.string "。$"
 
 Route16_Text_LeaNotEnoughMons::
-	.string "LEA: Oh, you don't have two\n"
-	.string "POKéMON with you?\p"
-	.string "Doesn't it feel lonely for you or\n"
-	.string "your POKéMON?$"
+	.string "嘉穗 哦，你没有两只宝可梦和你一\n"
+	.string "起？\p"
+	.string "你和你的宝可梦不感到孤独吗？$"

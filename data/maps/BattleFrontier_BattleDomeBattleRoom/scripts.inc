@@ -924,39 +924,37 @@ BattleFrontier_BattleDomeBattleRoom_Movement_RefereeExit:
 	step_end
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerHasEnteredDome:
-	.string "{PLAYER} has entered the BATTLE DOME!$"
+	.string "{PLAYER}进入了对战巨蛋！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTrainer:
-	.string "{STR_VAR_1}\n"
-	.string "match!\p"
-	.string "{PLAYER} versus {STR_VAR_2}!\p"
-	.string "Let the battle begin!$"
+	.string "{STR_VAR_1}！\p"
+	.string "{PLAYER} VS \n"
+	.string "{STR_VAR_2}！\p"
+	.string "比赛开始！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsWinner:
-	.string "{PLAYER} is the winner!\n"
-	.string "Congratulations!$"
+	.string "{PLAYER}获胜！恭喜！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TrainerIsWinner:
-	.string "{STR_VAR_2} is the winner!\n"
-	.string "Congratulations!$"
+	.string "{STR_VAR_2}获胜！恭喜\n"
+	.string "！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ:
-	.string "{PLAYER} is the Level 50\n"
-	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "{PLAYER}是Lv. 50级\n"
+	.string "对战锦标赛的冠军！\p"
+	.string "恭喜！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp:
-	.string "{PLAYER} is the Open Level\n"
-	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "{PLAYER}是自由等级对战锦\n"
+	.string "标赛的冠军！\p"
+	.string "恭喜！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereeDecisionPleaseWait:
-	.string "What an unbelievable finish!\n"
-	.string "We have a double knockout!\p"
-	.string "In this event, the Battle Tournament\n"
-	.string "rules call for a REFEREE'S decision.\p"
-	.string "Please wait while the judging\n"
-	.string "is under way.$"
+	.string "真是让人意外的结果！双方宝可梦同\n"
+	.string "时倒地！\p"
+	.string "按照比赛规则，出现这种情况时我们\n"
+	.string "需要请裁判员进行评判。\p"
+	.string "请耐心等待最终结果。$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTrainer:
 	.string "The REFEREES have reached\n"
@@ -975,204 +973,187 @@ BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerPlayer:
 	.string "Congratulations!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_BrightNewHope:
-	.string "The bright new hope!\p"
+	.string "新的希望来了！\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RisingStar:
-	.string "The rising star!\p"
+	.string "后起之秀啊！\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillTheyRaceToChampionship:
-	.string "Will this TRAINER race to\n"
-	.string "the championship?\p"
+	.string "哪一位训练家进入冠军赛了呢？\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanAchieveChampionFirstTry:
-	.string "Can the feat of a championship\n"
-	.string "on the first try be achieved?\p"
+	.string "首次挑战就能获得冠军的壮举能够实\n"
+	.string "现吗？\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanLossBeAvenged:
-	.string "Can the loss of the last match\n"
-	.string "be avenged?\p"
+	.string "上一场比赛的失利会被一雪前耻吗？\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_OnFireForChampionship:
-	.string "The TRAINER is on fire for\n"
-	.string "the first championship try!\p"
+	.string "训练家为了首场冠军赛将会全力以赴\n"
+	.string "！\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinHereAdvancesToFinal:
-	.string "A win here means this TRAINER\n"
-	.string "advances to the final!\p"
+	.string "这场的胜利将意味着训练家能够晋级\n"
+	.string "决赛！\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillLongHeldDreamComeTrue:
-	.string "Will the long-held dream of\n"
-	.string "a championship finally come true?\p"
+	.string "渴望以久的冠军梦最终能够实现吗？\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TheInvincibleChampion:
-	.string "The invincible champion!\p"
+	.string "无敌的冠军！\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanAnyoneHopeToBeatTrainer:
-	.string "Can anyone hope to beat this\n"
-	.string "TRAINER?\p"
+	.string "有谁能够击败这位训练家？\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_DoBattlesExistSolelyForTrainer:
-	.string "Do battles exist solely for\n"
-	.string "this TRAINER?\p"
+	.string "难道一切对战都只为这位训练家而存\n"
+	.string "在吗？\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CurrentChampAimingToRetainTitle:
-	.string "The current champion aiming to\n"
-	.string "retain the title!\p"
+	.string "现任冠军正力争卫冕！\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FormerChampHasReturned:
-	.string "The former champion has returned!\p"
+	.string "上届冠军再次归来！\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FormerToughnessReturned:
-	.string "The former toughness has returned!\p"
+	.string "昔日强悍再次重现！\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillDoExpectedAdvanceToFinals:
-	.string "Will this TRAINER do as expected\n"
-	.string "and advance to the finals?\p"
+	.string "这位训练家会如期晋级决赛吗？\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillFormerChampRegainGlory:
-	.string "Will the former champ regain\n"
-	.string "lost glory?\p"
+	.string "上届冠军是否能成功重铸荣光？\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FeelGlowOfTrueMaster:
-	.string "Feel the glow of a true master!$"
+	.string "感受真正王者的耀眼光芒吧！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_MakeWayForDomeAceTucker:
-	.string "And now… The TRAINER standing in\n"
-	.string "{PLAYER}'s record-setting path…\p"
-	.string "Yes! The one and only!\n"
-	.string "The BATTLE DOME COMMISSIONER!\l"
-	.string "Our very own DOME ACE!\l"
-	.string "Make way for TUCKER!$"
+	.string "下面……{PLAYER}将要面对\n"
+	.string "的训练家是……\p"
+	.string "当然！就是他！对战巨蛋理事！我们\n"
+	.string "的巨蛋超级巨星！用你们的热情来欢\l"
+	.string "迎石南吧！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SpectatorTuckerChant:
-	.string "Spectators: TUCKER! TUCKER!\n"
-	.string "TUCKER! TUCKER! TUCKER!$"
+	.string "观众：石南！石南！石南！石南！石\n"
+	.string "南！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerSilverIntro:
-	.string "TUCKER: Ahahah!\p"
-	.string "Do you hear it? This crowd!\n"
-	.string "They're all itching to see our match!\p"
-	.string "Ahahah!\p"
-	.string "I bet you're twitching all over from\n"
-	.string "the tension of getting to battle me!\p"
-	.string "But don't you worry about a thing!\p"
-	.string "I'm the no. 1 star of the BATTLE DOME!\n"
-	.string "I, TUCKER the DOME ACE, will bathe you\l"
-	.string "in my brilliant glow!$"
+	.string "石南：哈哈哈！\p"
+	.string "听到没？观众的呼唤他们期待着我们\n"
+	.string "的比赛呢！\p"
+	.string "哈哈哈！\p"
+	.string "你现在应该害怕得全身发抖了吧！\p"
+	.string "别紧张，别紧张。\p"
+	.string "我是对战巨蛋的明星，第一明星！我\n"
+	.string "，石南，巨蛋超级巨星，要在我的光\l"
+	.string "芒下与你战斗！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LetsSeeYourStrategy:
-	.string "Your strategy!\n"
-	.string "Let's see it!$"
+	.string "让我来看看你的战术吧！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_IncredibleVictorIsPlayer:
-	.string "Unbelievable! It's incredible!\n"
-	.string "The victor is {PLAYER}!$"
+	.string "不可思议！这真的太不可思议了！冠\n"
+	.string "军竟然是{PLAYER}！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinnerIsTucker:
-	.string "The winner is TUCKER!\n"
-	.string "The DOME ACE has prevailed!\p"
-	.string "Congratulations, TUCKER!$"
+	.string "冠军是——石南！巨蛋超级巨星还是\n"
+	.string "胜利了！\p"
+	.string "祝贺他！祝贺石南！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SeeYourFrontierPass:
-	.string "TUCKER: Rules are rules!\n"
-	.string "Let me see your FRONTIER PASS.$"
+	.string "石南：规矩就是规矩！拿出你的开拓\n"
+	.string "通行证吧。$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_ReceivedTacticsSymbol:
-	.string "The Tactics Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "战术象征被印在了开拓通行证上！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WontUnderestimateYouNextTime:
-	.string "… … … … … …\p"
-	.string "I sorely underestimated you. I won't\n"
-	.string "make the same mistake next time…$"
+	.string "…… …… ……\p"
+	.string "我太过低估你了，下一次我不会犯同\n"
+	.string "样的错误……$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanWinStreakBeStretched:
-	.string "Can the win streak be stretched?\n"
-	.string "The confidence is there!$"
+	.string "我们的冠军还会继续称霸吗？让我们\n"
+	.string "期待比赛的结果吧！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LegendHasReturnedDomeAceTucker:
-	.string "Ladies and gentlemen!\n"
-	.string "Boys, girls, and POKéMON!\p"
-	.string "Finally!\n"
-	.string "Finally, the legend has returned!\p"
-	.string "Yes, the name of that legend!\n"
-	.string "Our very own DOME ACE!\l"
-	.string "It's none other than TUCKER!$"
+	.string "女士们，先生们，男孩们，女孩们，\n"
+	.string "还有宝可梦们！\p"
+	.string "最后，最后的最后，我们的传说回归\n"
+	.string "了！\p"
+	.string "是的，就是那个传说中的名字！我们\n"
+	.string "的巨蛋超级巨星！他就是——石南！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerGoldIntro:
-	.string "TUCKER: Ah…\n"
-	.string "The pummeling roar of the crowd…\l"
-	.string "Their furnace-like heat of excitement…\l"
-	.string "This is a wonderful place…\p"
-	.string "To the crowd, I am the DOME ACE…\n"
-	.string "I represent their hopes and dreams…\l"
-	.string "I must never fade from their sight…\p"
-	.string "I must burn!\n"
-	.string "Brighter and more brilliant!\l"
-	.string "I must light all that gather here!$"
+	.string "石南：啊……观众们那一浪高过一浪\n"
+	.string "的欢呼声……还有他们那如熔炉般火\l"
+	.string "热的激情……这里真是个美妙的地方\l"
+	.string "……\p"
+	.string "对观众们来说，我就是巨蛋超级巨星\n"
+	.string "……我承载着他们的希望与梦想……\l"
+	.string "我决不能从他们的视野中消失……\p"
+	.string "我必须燃烧！燃烧得更加明亮、更加\n"
+	.string "耀眼！我必须点亮这里的所有人！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_UnleashAllPowerIPossess:
-	.string "I will unleash all the power that\n"
-	.string "I possess! Right here and now!$"
+	.string "就在此时，就在此地，我要释放我所\n"
+	.string "拥有的全部实力！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_NeverLostWhenPowerUnleashed:
-	.string "TUCKER: You're genuinely fantastic!\p"
-	.string "Never before! I haven't ever lost in the\n"
-	.string "times I've had to unleash my power.\p"
-	.string "Yes, quite fantastic!\n"
-	.string "Your FRONTIER PASS, please?$"
+	.string "石南：你是一个非凡的人！\p"
+	.string "我从未遇到在我释放出全部实力后还\n"
+	.string "能打败我的人，从来没有过！\p"
+	.string "是的，你拥有非凡的实力！好了，把\n"
+	.string "你的开拓通行证给我吧。$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TacticsSymbolTookGoldenShine:
-	.string "The Tactics Symbol took on\n"
-	.string "a golden shine!$"
+	.string "战术象征闪耀着金色的光芒！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LookForwardToNextEncounter:
-	.string "You're strong, but above all,\n"
-	.string "you have a unique charm!\p"
-	.string "In you, I see a definite potential for\n"
-	.string "a superstar like me.\p"
-	.string "I will very much look forward to\n"
-	.string "our next encounter!$"
+	.string "你真的很强。但最重要的是，你拥有\n"
+	.string "独一无二的魅力！\p"
+	.string "我可以看到你的身体中蕴藏着成为我\n"
+	.string "这样的明星的潜力。\p"
+	.string "我很期待我们下一次的相遇！$"
 
 @ Unused
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ2:
-	.string "{PLAYER} is the Level 50\n"
-	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "{PLAYER}是Lv. 50级\n"
+	.string "对战锦标赛的冠军！\p"
+	.string "恭喜！$"
 
 @ Unused
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp2:
-	.string "{PLAYER} is the Open Level\n"
-	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "{PLAYER}是自由等级对战锦\n"
+	.string "标赛的冠军！\p"
+	.string "恭喜！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTucker:
-	.string "The final match!\p"
-	.string "{PLAYER} versus the DOME ACE, TUCKER!\p"
-	.string "Let the battle begin!$"
+	.string "现在进行决赛！\p"
+	.string "{PLAYER}对巨蛋超级巨星，\n"
+	.string "石南！\p"
+	.string "比赛开始！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTucker:
-	.string "The REFEREES have reached\n"
-	.string "a decision!\p"
-	.string "The winner is…\n"
-	.string "Oh, my goodness!\l"
-	.string "The winner is our very own DOME ACE!\l"
-	.string "It's TUCKER!\p"
-	.string "Congratulations! And thank you!\n"
-	.string "Let's hear it for the DOME ACE, TUCKER!$"
+	.string "裁判做出了最后的决定！\p"
+	.string "冠军是……天啊！冠军是我们的巨蛋\n"
+	.string "超级巨星——石南！\p"
+	.string "恭喜你！还有，谢谢！我们的巨蛋超\n"
+	.string "级巨星，石南！$"

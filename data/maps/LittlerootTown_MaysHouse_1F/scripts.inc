@@ -317,43 +317,45 @@ LittlerootTown_MaysHouse_1F_Movement_MayGoUpstairs2:
 	step_end
 
 RivalsHouse_1F_Text_OhYoureTheNewNeighbor:
-	.string "Oh, hello. And you are?\p"
-	.string "… … … … … … … … …\n"
-	.string "… … … … … … … … …\p"
-	.string "Oh, you're {PLAYER}{KUN}, our new next-door\n"
-	.string "neighbor! Hi!\p"
-	.string "We have a {STR_VAR_1} about the same\n"
-	.string "age as you.\p"
-	.string "Our {STR_VAR_1} was excited about making\n"
-	.string "a new friend.\p"
-	.string "Our {STR_VAR_1} is upstairs, I think.$"
+	.string "哎，你好，你是？\p"
+	.string "…… …… …… …… ……\n"
+	.string "…… …… …… …… ……\p"
+	.string "啊，你是隔壁的邻居\n"
+	.string "{PLAYER}{KUN}吧！你\l"
+	.string "好！\p"
+	.string "我家的{STR_VAR_1}也和\n"
+	.string "你差不多大。\p"
+	.string "我们{STR_VAR_1}特别喜\n"
+	.string "欢交朋友，\p"
+	.string "现在{STR_VAR_1}应该在\n"
+	.string "楼上吧。$"
 
 RivalsHouse_1F_Text_LikeChildLikeFather:
-	.string "Like child, like father.\p"
-	.string "My husband is as wild about POKéMON\n"
-	.string "as our child.\p"
-	.string "If he's not at his LAB, he's likely\n"
-	.string "scrabbling about in grassy places.$"
+	.string "老公和孩子一个样。\p"
+	.string "丈夫也和孩子似的疯狂地喜欢宝可梦\n"
+	.string "。\p"
+	.string "要是老公不在他的研究所里，那他肯\n"
+	.string "定在野外的草丛里找什么东西。$"
 
 RivalsHouse_1F_Text_TooBusyToNoticeVisit:
-	.string "That {RIVAL}!\p"
-	.string "I guess our child is too busy with\n"
-	.string "POKéMON to notice that you came\l"
-	.string "to visit, {PLAYER}{KUN}.$"
+	.string "这个{RIVAL}！\p"
+	.string "我想我家孩子现在满脑子都是宝可梦\n"
+	.string "，没注意到你来了，\l"
+	.string "{PLAYER}{KUN}。$"
 
 RivalsHouse_1F_Text_WentOutToRoute103:
-	.string "Oh, {RIVAL} went out to ROUTE 103\n"
-	.string "just a little while ago.\p"
-	.string "Like father, like child.\n"
-	.string "{RIVAL} can't stay quietly at home.$"
+	.string "啊，{RIVAL}刚刚去了103\n"
+	.string "号道路。\p"
+	.string "孩子和老公一个样，{RIVAL}\n"
+	.string "也在家里呆不住。$"
 
 RivalsHouse_1F_Text_ShouldGoHomeEverySoOften:
-	.string "I think it's wonderful for people to\n"
-	.string "travel with POKéMON.\p"
-	.string "But you should go home every so often\n"
-	.string "to let your mother know you're okay.\p"
-	.string "She might not say it, but I'm sure she\n"
-	.string "worries about you, {PLAYER}{KUN}.$"
+	.string "我想，和宝可梦一起旅行感觉一定不\n"
+	.string "错，\p"
+	.string "但你也得经常回家一趟让你妈妈看看\n"
+	.string "你怎么样了。\p"
+	.string "她虽然不说，但肯定很担心你，\n"
+	.string "{PLAYER}{KUN}。$"
 
 RivalsHouse_1F_Text_MayWhoAreYou:
 	.string "Huh?\n"
@@ -400,6 +402,5 @@ RivalsHouse_1F_Text_BrendanWhoAreYou:
 	.string "Some other time, okay?$"
 
 RivalsHouse_1F_Text_DoYouHavePokemon:
-	.string "Hi, neighbor!\p"
-	.string "Do you already have your\n"
-	.string "own POKéMON?$"
+	.string "嗨，邻居！\p"
+	.string "你已经有自己的宝可梦了吗？$"

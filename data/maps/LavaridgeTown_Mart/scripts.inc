@@ -33,13 +33,13 @@ LavaridgeTown_Mart_EventScript_OldWoman::
 	end
 
 LavaridgeTown_Mart_Text_XSpeedFirstStrike:
-	.string "Use X SPEED to add to a POKéMON's\n"
-	.string "SPEED in battle.\p"
-	.string "That will help it get in the first\n"
-	.string "strike--a decided advantage!$"
+	.string "用速度强化给对战中的宝可梦提升速\n"
+	.string "度，\p"
+	.string "那样它就有可能抢先攻击——明显会\n"
+	.string "成为优势！$"
 
 LavaridgeTown_Mart_Text_LocalSpecialtyOnMtChimney:
-	.string "On MT. CHIMNEY's peak, there's a local\n"
-	.string "specialty that you can buy only there.\p"
-	.string "Give it to a POKéMON--it will be elated.$"
+	.string "只有在烟囱山山顶才能买到当地的特\n"
+	.string "产。\p"
+	.string "给宝可梦吃的话，它会很高兴的。$"
 

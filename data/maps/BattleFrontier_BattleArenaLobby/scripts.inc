@@ -358,62 +358,55 @@ BattleFrontier_BattleArenaLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattleArenaLobby_Text_WelcomeToBattleArena:
-	.string "Where the battling spirit of TRAINERS\n"
-	.string "is put to the test!\p"
-	.string "I welcome you to the BATTLE ARENA!\p"
-	.string "I am your guide to the Set KO Tourney!$"
+	.string "训练家的斗志将在此接受考验！\p"
+	.string "欢迎来到对战竞技场！\p"
+	.string "我是您的三回合定胜负锦标赛的向导\n"
+	.string "！$"
 
 BattleFrontier_BattleArenaLobby_Text_WishToTakeChallenge:
-	.string "Now, do you wish to take\n"
-	.string "the BATTLE ARENA challenge?$"
+	.string "要挑战对战竞技场吗？$"
 
 BattleFrontier_BattleArenaLobby_Text_AwaitAnotherChallenge:
-	.string "We await your challenge on\n"
-	.string "another occasion!$"
+	.string "随时恭候您再次挑战！$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainChallenge:
-	.string "In the BATTLE ARENA, we undertake\n"
-	.string "the Set KO Tourney.\p"
-	.string "All participants enter with a team of\n"
-	.string "three POKéMON.\p"
-	.string "The three POKéMON must be lined up in\n"
-	.string "the order in which they are to appear.\p"
-	.string "During battle, the POKéMON will appear\n"
-	.string "one at a time in the preset order.\p"
-	.string "Once a POKéMON enters battle, it must\n"
-	.string "remain out until the match is decided.\p"
-	.string "If a match remains undecided in\n"
-	.string "three turns, it goes to judging.\p"
-	.string "If you wish to interrupt your challenge,\n"
-	.string "please save the game.\p"
-	.string "If you don't save, you will not be able\n"
-	.string "to continue with your challenge.\p"
-	.string "If you pull off the feat of beating\n"
-	.string "seven TRAINERS in succession,\l"
-	.string "we will present you with Battle Points.$"
+	.string "在对战竞技场中，我们将举办三回合\n"
+	.string "定胜负锦标赛。\p"
+	.string "所有的参赛者用3只宝可梦组成的队\n"
+	.string "伍参加比赛。\p"
+	.string "这3只宝可梦需要按照想要出场的顺\n"
+	.string "序排列好。\p"
+	.string "对战时，宝可梦会按照事先安排好的\n"
+	.string "顺序依次出场。\p"
+	.string "一旦宝可梦进入到战斗，就需要持续\n"
+	.string "战斗至比赛结束。\p"
+	.string "如果比赛在3回合内未能决出胜负，\n"
+	.string "将由裁判进行判定。\p"
+	.string "如果您在挑战途中想要暂停的话，\p"
+	.string "请确保在退出前完好地写下了记录。\n"
+	.string "否则我们将视挑战为无效。\p"
+	.string "如果您能成功击败7个训练家的话，\n"
+	.string "我们将向您呈上对战点数。$"
 
 BattleFrontier_BattleArenaLobby_Text_OkayToSave:
-	.string "Before showing you to the BATTLE\n"
-	.string "ARENA, you must save. Is that okay?$"
+	.string "在带您进入对战竞技场之前需要先写\n"
+	.string "入记录。可以吗？$"
 
 BattleFrontier_BattleArenaLobby_Text_WhichLevelMode:
-	.string "The BATTLE ARENA offers two levels\n"
-	.string "of challenge, Level 50 and Open Level.\l"
-	.string "Which is your choice?$"
+	.string "对战竞技场提供2个等级的挑战，L\n"
+	.string "v. 50级和自由等级。您要选择\l"
+	.string "哪个？$"
 
 BattleFrontier_BattleArenaLobby_Text_SelectThreeMons:
-	.string "Very well, now select your\n"
-	.string "three POKéMON, please.$"
+	.string "好的，请选择参加的3只宝可梦。$"
 
 BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "My dear challenger!\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for entry.\p"
-	.string "To qualify, you must bring three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not hold the same\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1}.$"
+	.string "尊敬的挑战者！\p"
+	.string "您能够参加对战的宝可梦不满3只。\p"
+	.string "您需要准备3只不同种类的宝可梦，\p"
+	.string "且让它们分别携带不同道具才可参加\n"
+	.string "对战。\p"
+	.string "此外，蛋{STR_VAR_1}。$"
 
 BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsEnd:
 	.string "When you have made your preparations,\n"
@@ -432,150 +425,130 @@ BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsLv50:
 	.string "EGGS{STR_VAR_1}.$"
 
 BattleFrontier_BattleArenaLobby_Text_GuideYouToArena:
-	.string "I shall now guide you to\n"
-	.string "the BATTLE ARENA.$"
+	.string "现在我将带您前往对战竞技场。$"
 
 BattleFrontier_BattleArenaLobby_Text_DidntSaveBeforeShuttingDown:
-	.string "My dear challenger!\p"
-	.string "You did not save the game before\n"
-	.string "shutting down, did you?\p"
-	.string "It is unfortunate, but that has\n"
-	.string "resulted in your disqualification\l"
-	.string "from your challenge.\p"
-	.string "You may, of course, start with a fresh\n"
-	.string "challenge.$"
+	.string "这位客人！\p"
+	.string "您在上次结束时没有写入记录吧？\p"
+	.string "非常遗憾，没有写入记录的挑战我们\n"
+	.string "将视其为无效。\p"
+	.string "当然，您随时可以开始一次新的挑战\n"
+	.string "。$"
 
 BattleFrontier_BattleArenaLobby_Text_CongratsOnSevenWins:
-	.string "We congratulate you for your splendid\n"
-	.string "string of wins over seven TRAINERS!$"
+	.string "祝贺您完成7连胜壮举！$"
 
 BattleFrontier_BattleArenaLobby_Text_RecordAchievement:
-	.string "Your achievement will be recorded.\n"
-	.string "Please wait while I save the game.$"
+	.string "您的成绩将被写入记录。正在写入记\n"
+	.string "录……请稍等。$"
 
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_PresentYouWithPrize:
-	.string "In commemoration of your 7-win streak,\n"
-	.string "we present you with this prize.$"
+	.string "作为7连胜的奖励，我们将向您呈上\n"
+	.string "奖品。$"
 
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+	.string "{PLAYER}得到了奖品\n"
+	.string "{STR_VAR_1}。$"
 
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_BagFullReturnForPrize:
-	.string "Oh?\n"
-	.string "Your BAG seems to be full.\p"
-	.string "I urge you to clear space and\n"
-	.string "return for your prize.$"
+	.string "哎？您的包包满了。\p"
+	.string "整理空间后再来拿您的奖品。$"
 
 BattleFrontier_BattleArenaLobby_Text_ThankYouWaitWhileSave:
-	.string "Thank you so much for participating!\p"
-	.string "Please wait while I save the game.$"
+	.string "辛苦了！\p"
+	.string "正在写入记录……请稍等。$"
 
 BattleFrontier_BattleArenaLobby_Text_AwaitAnotherChallenge2:
-	.string "We await your challenge on\n"
-	.string "another occasion!$"
+	.string "随时恭候您再次挑战！$"
 
 BattleFrontier_BattleArenaLobby_Text_LookingForwardToArrivalSaveGame:
-	.string "We have been looking forward to\n"
-	.string "your arrival.\p"
-	.string "Before I show you to the BATTLE\n"
-	.string "ARENA, I must save the game.\l"
-	.string "Please wait.$"
+	.string "我们一直恭候您的到来。\p"
+	.string "在带您去战斗竞技场之前，我需要先\n"
+	.string "写入记录，请稍候。$"
 
 BattleFrontier_BattleArenaLobby_Text_RecordLastMatch:
-	.string "Shall I record your last BATTLE ARENA\n"
-	.string "match on your FRONTIER PASS?$"
+	.string "要将您在对战竞技场的最后一场比赛\n"
+	.string "记录到开拓通行证上吗？$"
 
 BattleFrontier_BattleArenaLobby_Text_BadIdeaToNotAttack:
-	.string "I lost on the REFEREE's decision…\p"
-	.string "I don't think it was a good idea to only\n"
-	.string "use defensive moves and not attack…$"
+	.string "我被裁判判负了……\p"
+	.string "看来只防守而不进攻是行不通的……$"
 
 BattleFrontier_BattleArenaLobby_Text_LandingHitsWorked:
-	.string "I won in judging!\p"
-	.string "Landing hits consistently on\n"
-	.string "the opponent's POKéMON worked!$"
+	.string "我被判定获胜了！\p"
+	.string "攻击持续命中对手的宝可梦这招果然\n"
+	.string "行得通！$"
 
 BattleFrontier_BattleArenaLobby_Text_MatchWasDeclaredDraw:
-	.string "Our match was declared a draw.\p"
-	.string "When we ran out of time, both my\n"
-	.string "POKéMON and the opponent's had about\l"
-	.string "the same amount of HP left.$"
+	.string "我们的比赛被判为平局。\p"
+	.string "时间到的时候，我和我对手的宝可梦\n"
+	.string "剩下了相同的体力。$"
 
 BattleFrontier_BattleArenaLobby_Text_OrderOfMonsImportant:
-	.string "In the BATTLE ARENA, the order of\n"
-	.string "POKéMON is totally important.\p"
-	.string "For example, if your first POKéMON\n"
-	.string "has certain type disadvantages,\l"
-	.string "try making your second POKéMON one\l"
-	.string "with moves that are super effective\l"
-	.string "against the first one.\p"
-	.string "I think that will be a good way of\n"
-	.string "making an effective team.$"
+	.string "在对战竞技场中，宝可梦的出场顺序\n"
+	.string "至关重要。\p"
+	.string "举个例子，如果你的首发宝可梦存在\n"
+	.string "属性劣势，不妨让第二只宝可梦配备\l"
+	.string "能克制该劣势属性的招式。\p"
+	.string "我认为这是组建强力队伍的有效策略\n"
+	.string "。$"
 
 BattleFrontier_BattleArenaLobby_Text_RulesAreListed:
-	.string "The Set KO Tourney's rules are listed.$"
+	.string "上面列出了三回合定胜负锦标赛的规\n"
+	.string "则。$"
 
 BattleFrontier_BattleArenaLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "要读哪一部分的说明？$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainBattleRules:
-	.string "The Set KO Tourney has special rules,\n"
-	.string "unlike standard battles.\p"
-	.string "First, one battle lasts only\n"
-	.string "three turns.\p"
-	.string "If the outcome is not decided after\n"
-	.string "three turns, it goes to judging.\p"
-	.string "The REFEREE will choose the winner\n"
-	.string "based on how the POKéMON battled.\p"
-	.string "Also, a POKéMON cannot be switched out\n"
-	.string "until its battle's outcome is decided.$"
+	.string "三回合定胜负锦标赛采用特殊规则，\n"
+	.string "与常规的对战不同。\p"
+	.string "第一，每场战斗只进行3个回合。\p"
+	.string "如果比赛在3回合内未能决出胜负，\n"
+	.string "将由裁判进行判定。\p"
+	.string "裁判会根据宝可梦的战斗情况判出胜\n"
+	.string "者。\p"
+	.string "此外，对战期间不可更换宝可梦，直\n"
+	.string "至当前对战分出结果。$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainMindRules:
-	.string "The first judging factor is “Mind.”\n"
-	.string "This factor evaluates how aggressive\l"
-	.string "the battlers were.\p"
-	.string "The judging is based on how often\n"
-	.string "the TRAINERS ordered the use of\l"
-	.string "offensive moves.$"
+	.string "第1个判定准则是“心”。这个因素\n"
+	.string "评价战斗者的进攻意识。\p"
+	.string "判定依据的是训练家下达攻击招式的\n"
+	.string "命令的频率。$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainSkillRules:
-	.string "The second judging factor is “Skill.”\n"
-	.string "This factor evaluates how effectively\l"
-	.string "POKéMON moves were used.\p"
-	.string "If a move worked successfully,\n"
-	.string "the Skill rating goes up.\p"
-	.string "If a move failed, the Skill rating\n"
-	.string "is lowered.\p"
-	.string "If it was an offensive move, the Skill\n"
-	.string "rating goes up if the move was “super\l"
-	.string "effective” and goes down if it was\l"
-	.string "“not very effective.”\p"
-	.string "The Skill rating will not go up for\n"
-	.string "moves such as PROTECT and DETECT.\p"
-	.string "If the opponent used PROTECT or\n"
-	.string "DETECT, and your POKéMON failed to\l"
-	.string "hit with a move, its Skill rating will not\l"
-	.string "go down.$"
+	.string "第2个判定准则是“技”。这个因素\n"
+	.string "评价宝可梦的招式命中。\p"
+	.string "如果招式成功生效，技的评价就会上\n"
+	.string "升。\p"
+	.string "如果招式使用失败，技的评价则会下\n"
+	.string "降。\p"
+	.string "对于攻击招式，如果招式“效果绝佳\n"
+	.string "”的话，技的评价就会上升。如果“\l"
+	.string "没有效果”的话，技的评价就会下降\l"
+	.string "。\p"
+	.string "对于像保护和看穿的招式，技的评价\n"
+	.string "是不会上升的。\p"
+	.string "如果对手使用了保护或看穿等招式，\n"
+	.string "即使您的宝可梦没能成功命中，技的\l"
+	.string "评价也不会下降。$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainBodyRules:
-	.string "The third judging factor is “Body.”\n"
-	.string "This factor is based on how much HP\l"
-	.string "remained at the end of a battle.\p"
-	.string "The rating takes into account how much\n"
-	.string "HP a POKéMON had at the start of\l"
-	.string "battle, and what remained at the end.$"
+	.string "第3个判定准则是“体”。这个因素\n"
+	.string "评价宝可梦在战斗结束后剩余的体力\l"
+	.string "比例。\p"
+	.string "这个准则会同时参考宝可梦战斗开始\n"
+	.string "时的体力和战斗结束后剩余的体力。$"
 
 BattleFrontier_BattleArenaLobby_Text_CongratsOnDefeatingTycoon:
-	.string "A victory snatched from the ARENA\n"
-	.string "TYCOON, and a seven-TRAINER sweep!\p"
-	.string "We congratulate you on your most\n"
-	.string "splendid challenge!$"
+	.string "从竞技场主将手里得到了胜利，并且\n"
+	.string "完成了7连胜壮举！\p"
+	.string "我们为您的卓越的挑战献上祝贺！$"
 
 BattleFrontier_BattleArenaLobby_Text_PleaseAcceptBattlePoints:
-	.string "My dear challenger, in recognition of\n"
-	.string "your indefatigable spirit, please\l"
-	.string "accept these Battle Point(s).$"
+	.string "尊敬的挑战者，为了表彰您那不屈的\n"
+	.string "意志，请收下这些对战点数。$"

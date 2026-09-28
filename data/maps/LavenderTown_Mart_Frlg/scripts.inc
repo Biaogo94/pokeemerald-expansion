@@ -39,24 +39,22 @@ LavenderTown_Mart_Items::
 	end
 
 LavenderTown_Mart_Text_SearchingForStatRaiseItems::
-	.string "I'm searching for items that raise\n"
-	.string "the stats of POKéMON.\p"
-	.string "They're effective over the course\n"
-	.string "of a single battle.\p"
-	.string "X ATTACK, X DEFEND, X SPEED, \n"
-	.string "and X SPECIAL are what I'm after.\p"
-	.string "Do you know where I can get them?$"
+	.string "我正在寻找能提升宝可梦战斗力的物\n"
+	.string "品。\p"
+	.string "那些物品能在一场战斗中有效。\p"
+	.string "力量强化 防御提升 速度强化 和\n"
+	.string "特攻提升都是我在寻找的。\p"
+	.string "你知道在哪儿能得到它们吗？$"
 
 LavenderTown_Mart_Text_DidYouBuyRevives::
-	.string "Did you buy some REVIVES?\n"
-	.string "They revive any fainted POKéMON!$"
+	.string "你要买一些活力碎片吗？这个能使濒\n"
+	.string "死的宝可梦恢复！$"
 
 LavenderTown_Mart_Text_TrainerDuosCanChallengeYou::
-	.string "Sometimes, a TRAINER duo will\n"
-	.string "challenge you with two POKéMON\l"
-	.string "at the same time.\p"
-	.string "If that happens, you have to send\n"
-	.string "out two POKéMON to battle, too.$"
+	.string "有时候，会有一对训练家同时拿出两\n"
+	.string "只宝可梦来挑战你。\p"
+	.string "如果你遇上了，你就要拿出两只宝可\n"
+	.string "梦来战斗。$"
 
 LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000::
 	.string "この　あいだ　やまおくで\n"

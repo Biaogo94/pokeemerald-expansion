@@ -18,21 +18,18 @@ CinnabarIsland_PokemonLab_ResearchRoom_EventScript_AmberPipe::
 	end
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_EeveeCanEvolveIntroThreeMons::
-	.string "EEVEE can evolve into one of three\n"
-	.string "kinds of POKéMON.$"
+	.string "伊布可以进化成三种不同的宝可梦。$"
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail::
-	.string "There's an e-mail message.\p"
-	.string "… … …\p"
-	.string "There are three legendary bird\n"
-	.string "POKéMON.\p"
-	.string "They are ARTICUNO, ZAPDOS, and\n"
-	.string "MOLTRES.\p"
-	.string "Their whereabouts are unknown.\p"
-	.string "We plan to explore the cavern\n"
-	.string "close to CERULEAN.\p"
-	.string "From: POKéMON RESEARCH TEAM…$"
+	.string "一封电子邮件\p"
+	.string "…… …… ……\p"
+	.string "世界上有三只传说中的鸟宝可梦。\p"
+	.string "他们是急冻鸟，闪电鸟，和火焰鸟。\p"
+	.string "它们的栖息地还是个未解之谜。\p"
+	.string "我们计划先从华蓝附近的山洞开始寻\n"
+	.string "找。\p"
+	.string "来自：宝可梦研究组……$"
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_AnAmberPipe::
-	.string "An amber pipe!$"
+	.string "一支琥珀笛子！$"
 

@@ -25,30 +25,28 @@ SafariZone_SecretHouse_EventScript_ExplainSurf::
 	end
 
 SafariZone_SecretHouse_Text_CongratsYouveWon::
-	.string "Ah! Finally!\p"
-	.string "You're the first person to reach\n"
-	.string "the SECRET HOUSE!\p"
-	.string "Although I made a campaign\n"
-	.string "for our grand opening,\p"
-	.string "I was getting worried that no one\n"
-	.string "would win our campaign prize.\p"
-	.string "Congratulations!\n"
-	.string "You have won!$"
+	.string "啊！终于！\p"
+	.string "你是来到神秘小屋的第一个人！\p"
+	.string "虽然我为我们这个比赛制订了周密的\n"
+	.string "计划，\p"
+	.string "但我还是很担心会没有人能赢走我们\n"
+	.string "的比赛奖品。\p"
+	.string "祝贺你！你赢了！$"
 
 SafariZone_SecretHouse_Text_ReceivedHM03FromAttendant::
-	.string "{PLAYER} received HM03\n"
-	.string "from the attendant!$"
+	.string "{PLAYER}从服务员那里得到\n"
+	.string "了HM03！$"
 
 SafariZone_SecretHouse_Text_ExplainSurf::
-	.string "HM03 is SURF.\p"
-	.string "POKéMON will be able to ferry you\n"
-	.string "across water using it.\p"
-	.string "And, this HM isn't disposable, so\n"
-	.string "you can use it over and over.\p"
-	.string "You're super lucky for winning this\n"
-	.string "fabulous prize!$"
+	.string "HM03是冲浪。\p"
+	.string "宝可梦能够使用它载着你在水面上前\n"
+	.string "进。\p"
+	.string "还有，这个HM不是一次性的，所以\n"
+	.string "你可以反复使用它。\p"
+	.string "你非常幸运，赢得了这个令人难以置\n"
+	.string "信的奖品！$"
 
 SafariZone_SecretHouse_Text_DontHaveRoomForPrize::
-	.string "You don't have room for this\n"
-	.string "fabulous prize!$"
+	.string "你没有空间来接受这份这巨大的奖品\n"
+	.string "！$"
 

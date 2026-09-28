@@ -148,48 +148,43 @@ MossdeepCity_StevensHouse_EventScript_DiveItemBall::
 	end
 
 MossdeepCity_StevensHouse_Text_YouveEarnedHMDive:
-	.string "STEVEN: {PLAYER}{KUN}…\p"
-	.string "As you can see, there's not much here,\n"
-	.string "but this is my home.\p"
-	.string "Thank you for all that you've done.\p"
-	.string "This is my token of appreciation.\n"
-	.string "It's the HIDDEN MACHINE DIVE.\p"
-	.string "No need to be shy--you've earned\n"
-	.string "this HM.$"
+	.string "大吾：{PLAYER}{KUN}\n"
+	.string "……\p"
+	.string "如你所见这里没什么东西，但这就是\n"
+	.string "我家。\p"
+	.string "感谢你一直以来的帮助。\p"
+	.string "这是我的谢礼——秘传学习器潜水。\p"
+	.string "不必不好意思——这是你应得的。$"
 
 MossdeepCity_StevensHouse_Text_ExplainDive:
-	.string "STEVEN: While you're using SURF, you\n"
-	.string "should notice dark patches of water.\p"
-	.string "Use DIVE if you come to deep water\n"
-	.string "like it. You'll drop to the seafloor.\p"
-	.string "When you want to come back up, use\n"
-	.string "DIVE again.\p"
-	.string "In some places, it won't be possible\n"
-	.string "for you to surface, though.$"
+	.string "大吾：使用冲浪的时候，你大概也注\n"
+	.string "意到水中的深色区域了，\p"
+	.string "在那样的区域上使用潜水就能够潜入\n"
+	.string "海底。\p"
+	.string "要是想再浮到海面上的话，再次使用\n"
+	.string "潜水就好。\p"
+	.string "不过，有些区域是无法上浮的。$"
 
 MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis:
-	.string "STEVEN: Apparently, there's an\n"
-	.string "underwater cavern between\l"
-	.string "MOSSDEEP and SOOTOPOLIS.\p"
-	.string "You know, the one that CAPT. STERN\n"
-	.string "found in his submarine.$"
+	.string "大吾：据说在绿岭市和琉璃市之间有\n"
+	.string "个海底洞窟，\p"
+	.string "就是楠木馆长乘潜艇找到的那一个。$"
 
 MossdeepCity_StevensHouse_Text_TakeBallContainingBeldum:
-	.string "{PLAYER} checked the POKé BALL.\p"
-	.string "It contained the POKéMON\n"
-	.string "BELDUM.\p"
-	.string "Take the POKé BALL?$"
+	.string "{PLAYER}调查精灵球。\p"
+	.string "里面是宝可梦铁哑铃。\p"
+	.string "要拿走精灵球吗？$"
 
 MossdeepCity_StevensHouse_Text_ObtainedBeldum:
-	.string "{PLAYER} obtained a BELDUM.$"
+	.string "{PLAYER}得到铁哑铃。$"
 
 @ Unused
 MossdeepCity_StevensHouse_Text_NoSpaceForAnotherMon:
-	.string "There is no space for another POKéMON.$"
+	.string "没有地方放这只宝可梦了。$"
 
 MossdeepCity_StevensHouse_Text_LeftPokeBallWhereItWas:
-	.string "{PLAYER} left the POKé BALL where\n"
-	.string "it was.$"
+	.string "{PLAYER}把精灵球放回了原\n"
+	.string "处。$"
 
 MossdeepCity_StevensHouse_Text_LetterFromSteven:
 	.string "It's a letter.\p"
@@ -209,6 +204,5 @@ MossdeepCity_StevensHouse_Text_LetterFromSteven:
 	.string "STEVEN STONE$"
 
 MossdeepCity_StevensHouse_Text_CollectionOfRareRocks:
-	.string "It's a collection of rare rocks and\n"
-	.string "stones assembled by STEVEN.$"
+	.string "是大吾收集的稀有石头。$"
 

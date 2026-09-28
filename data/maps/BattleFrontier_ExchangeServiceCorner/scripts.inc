@@ -358,175 +358,158 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Girl::
 	end
 
 BattleFrontier_ExchangeServiceCorner_Text_WelcomePleaseChoosePrize:
-	.string "Hello, this is the EXCHANGE SERVICE\n"
-	.string "CORNER.\p"
-	.string "We exchange the Battle Points you\n"
-	.string "have collected for lovely prizes.\p"
-	.string "Please choose a prize from this list.$"
+	.string "您好，这里是兑换服务区。\p"
+	.string "我们用精美的奖品同您收集到的对战\n"
+	.string "点数进行兑换。\p"
+	.string "请在列表中选择一个奖品。$"
 
 @ Unused
 BattleFrontier_ExchangeServiceCorner_Text_PleaseChoosePrize:
-	.string "Please choose a prize from this list.$"
+	.string "请选择一个奖品。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmPurchase:
-	.string "You've chosen the {STR_VAR_1}.\n"
-	.string "Is that correct?$"
+	.string "您选择了{STR_VAR_1}。\n"
+	.string "可以吗？$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WellSendItToPC:
-	.string "Thank you!\n"
-	.string "We'll send it to your PC at home.$"
+	.string "谢谢！我们会把它送到您家的电脑上\n"
+	.string "的。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_HereIsYourPrize:
-	.string "Here is your prize!$"
+	.string "这里是您的奖品！$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DontHaveEnoughPoints:
-	.string "I'm so sorry…\n"
-	.string "You don't have enough Battle Points…$"
+	.string "很抱歉……您没有足够的对战点数…\n"
+	.string "…$"
 
 BattleFrontier_ExchangeServiceCorner_Text_PCIsFull:
-	.string "I'm so sorry…\n"
-	.string "Your PC appears to be full…$"
+	.string "很抱歉……您的电脑好像满了……$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DontHaveSpaceToHoldIt:
-	.string "I'm so sorry…\n"
-	.string "You don't have space to hold it…$"
+	.string "很抱歉……您的包包已经放不下了…\n"
+	.string "…$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ThankYouVisitWithPoints:
-	.string "Thank you very much.\p"
-	.string "Please visit us when you have\n"
-	.string "saved up Battle Points.$"
+	.string "非常感谢。\p"
+	.string "存够了对战点数的话，欢迎再来光顾\n"
+	.string "。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WishIHadAllDolls:
-	.string "Oh, they're so nice!\n"
-	.string "I wish I had them!\l"
-	.string "Cute cushions!\l"
-	.string "Big plush DOLLS!\l"
-	.string "Little plush DOLLS!\l"
-	.string "I wish I had them all!$"
+	.string "哦，它们真棒！我想要它们！漂亮的\n"
+	.string "垫子！大号豪华的玩偶！小号豪华的\l"
+	.string "玩偶！我希望能全部得到！$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GetYouAnythingYouWant:
-	.string "Leave it to your mommy!\p"
-	.string "If it's anything you want, I'll go\n"
-	.string "through anything to get it, honey!$"
+	.string "交给你的妈妈吧！\p"
+	.string "无论你想要什么，我都会尽我所能为\n"
+	.string "你得到的，我的小宝贝！$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ItemsWillGetMonTougher:
-	.string "If I can get hold of the items here,\n"
-	.string "my POKéMON will get tougher.\p"
-	.string "You bet they will!\n"
-	.string "No question about it!$"
+	.string "如果我能获得这里的道具，我的宝可\n"
+	.string "梦会变得更强。\p"
+	.string "你要相信它们肯定会的！毫无疑问！$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GoGetYourOwnDoll:
-	.string "Hah?\n"
-	.string "What are you gawking at?\p"
-	.string "I don't like you staring at my plush\n"
-	.string "doll like that.\p"
-	.string "If you want it, go get one yourself!\n"
-	.string "Isn't that right, SMOOCHUM?$"
+	.string "啊？你在看什么呢？\p"
+	.string "我不喜欢你那样盯着我的漂亮娃娃看\n"
+	.string "。\p"
+	.string "如果你想要，自己去弄一只！对不对\n"
+	.string "，迷唇娃？$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MoreBattlePointsForRecord:
-	.string "Did you know?\p"
-	.string "If you stretch your record at any of\n"
-	.string "the BATTLE facilities, they start\l"
-	.string "giving you more and more Battle Points.$"
+	.string "你知道吗？\p"
+	.string "如果你能在任何对战设施创造新纪录\n"
+	.string "，他们会开始给你越来越多的对战点\l"
+	.string "数。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissPosterDesc::
-	.string "A large poster with a SMOOCHUM print.$"
+	.string "一幅有迷唇娃图案的大海报。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissCushionDesc::
-	.string "A SMOOCHUM cushion.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "一个迷唇娃垫子。要放置在地毯或桌\n"
+	.string "子上。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_SmoochumDollDesc::
-	.string "A SMOOCHUM DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "一个迷唇娃玩偶。要放置在地毯或桌\n"
+	.string "子上。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_TogepiDollDesc::
-	.string "A TOGEPI DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "一个波克比玩偶。要放置在地毯或桌\n"
+	.string "子上。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MeowthDollDesc::
-	.string "A MEOWTH DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "一个喵喵玩偶。要放置在地毯或桌子\n"
+	.string "上。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ClefairyDollDesc::
-	.string "A CLEFAIRY DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "一个皮皮玩偶。要放置在地毯或桌子\n"
+	.string "上。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DittoDollDesc::
-	.string "A DITTO DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "一个百变怪玩偶。要放置在地毯或桌\n"
+	.string "子上。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CyndaquilDollDesc::
-	.string "A CYNDAQUIL DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "一个火球鼠玩偶。要放置在地毯或桌\n"
+	.string "子上。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ChikoritaDollDesc::
-	.string "A CHIKORITA DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "一个菊草叶玩偶。要放置在地毯或桌\n"
+	.string "子上。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_TotodileDollDesc::
-	.string "A TOTODILE DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "一个小锯鳄玩偶。要放置在地毯或桌\n"
+	.string "子上。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LargeDollDesc::
-	.string "A large DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "一个巨大的玩偶。要放置在地毯或桌\n"
+	.string "子上。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ProteinDesc::
-	.string "Raises the stat ATTACK of one\n"
-	.string "POKéMON.$"
+	.string "提升宝可梦的攻击能力。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CalciumDesc::
-	.string "Raises the stat SP. ATK of one\n"
-	.string "POKéMON.$"
+	.string "提升宝可梦的特攻能力。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_IronDesc::
-	.string "Raises the stat DEFENSE of one\n"
-	.string "POKéMON.$"
+	.string "提升宝可梦的防御能力。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ZincDesc::
-	.string "Raises the stat SP. DEF of one\n"
-	.string "POKéMON.$"
+	.string "提升宝可梦的特防能力。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CarbosDesc::
-	.string "Raises the stat SPEED of one\n"
-	.string "POKéMON.$"
+	.string "提升宝可梦的速度能力。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_HPUpDesc::
-	.string "Raises the HP of one POKéMON.$"
+	.string "提升宝可梦的体力。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LeftoversDesc::
-	.string "A hold item that gradually restores\n"
-	.string "HP in battle.$"
+	.string "一件能在对战中逐渐回复体力的道具\n"
+	.string "。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WhiteHerbDesc::
-	.string "A hold item that restores any\n"
-	.string "lowered stat.$"
+	.string "一件能回复所有能力的道具。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_QuickClawDesc::
-	.string "A hold item that occasionally allows\n"
-	.string "the first strike.$"
+	.string "一件有概率能先制攻击的道具。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MentalHerbDesc::
-	.string "A hold item that snaps POKéMON out\n"
-	.string "of infatuation.$"
+	.string "一件能解除宝可梦着迷的道具。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_BrightpowderDesc::
-	.string "A hold item that casts a glare to\n"
-	.string "reduce accuracy.$"
+	.string "一件能射出眩目的光降低命中率的道\n"
+	.string "具。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ChoiceBandDesc::
-	.string "Raises a move's power, but permits\n"
-	.string "only that move.$"
+	.string "提升物理招式的威力，但无法使用其\n"
+	.string "他招式。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KingsRockDesc::
-	.string "A hold item that may cause flinching\n"
-	.string "when the foe is hit.$"
+	.string "一件在接触攻击时能使对手畏缩的道\n"
+	.string "具。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_FocusBandDesc::
-	.string "A hold item that occasionally\n"
-	.string "prevents fainting.$"
+	.string "一件能偶尔防止昏厥的道具。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ScopeLensDesc::
-	.string "A hold item that raises the\n"
-	.string "critical-hit rate.$"
+	.string "一件能提高击中要害率的道具。$"

@@ -37,28 +37,23 @@ ThreeIsland_Port_EventScript_Biker2::
 	end
 
 ThreeIsland_Port_Text_WereKantoRiderFederation::
-	.string "We're the KANTO RIDER FEDERATION!\n"
-	.string "Vroom! Vavavavooom! Vroom!\p"
-	.string "My bike's wimpy, so I have to\n"
-	.string "make exhaust noises myself!$"
+	.string "我们是关都飙车族！呜！呜！呜！\p"
+	.string "我的车子太安静了，所以我不得不自\n"
+	.string "己发出排气的声音！$"
 
 ThreeIsland_Port_Text_ForkOverMoney::
-	.string "Hey, hey, lady!\n"
-	.string "Fork over some spending money!$"
+	.string "嘿，站住，小姐！借点儿钱花花！$"
 
 ThreeIsland_Port_Text_IllCallThePolice::
-	.string "Aiyeeh!\p"
-	.string "Wh-who are you?!\n"
-	.string "I… I'll call the police!$"
+	.string "哎！\p"
+	.string "你，你是谁？！我要叫警察了！$"
 
 ThreeIsland_Port_Text_ThankGoodnessBikersGone::
-	.string "Those BIKERS…\n"
-	.string "Are they gone?\p"
-	.string "Oh, thank goodness!\n"
-	.string "They certainly had me terrified!$"
+	.string "那些飙车族……它们都不见了？\p"
+	.string "真是谢天谢地！那些家伙都让我烦透\n"
+	.string "了！$"
 
 ThreeIsland_Port_Text_EverythingTurnedOutForBest::
-	.string "Those BIKERS ran off, and\n"
-	.string "LOSTELLE was found safe.\p"
-	.string "Everything turned out for the best!$"
+	.string "那些飙车族不见了，但小迷很安全。\p"
+	.string "一切事情都变好了！$"
 

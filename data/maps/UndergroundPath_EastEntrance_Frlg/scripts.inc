@@ -6,7 +6,7 @@ UndergroundPath_EastEntrance_EventScript_Woman::
 	end
 
 UndergroundPath_EastEntrance_Text_DoYouGoToCeladonDeptStore::
-	.string "The DEPARTMENT STORE in CELADON\n"
-	.string "has a great selection.\p"
-	.string "Do you go there very often?$"
+	.string "玉虹的百货大楼那里有很多很棒的商\n"
+	.string "品。\p"
+	.string "你经常去那里吗？$"
 
