@@ -56,41 +56,41 @@ PalletTown_House2_EventScript_DaisyGrooming::
 	end
 
 PalletTown_House2_Text_Hello:
-	.string "DAISY: Hi! My kid brother is the\n"
-	.string "GYM LEADER in VIRIDIAN CITY.\p"
-	.string "But he goes out of town so\n"
-	.string "often, it causes problems for\l"
-	.string "the trainers.$"
+	.string "奈奈美：嗨！我弟弟是常青市的道馆\n"
+	.string "馆主。\p"
+	.string "但他总喜欢往外跑，让不少挑战的训\n"
+	.string "练家都很困扰呢。$"
 
 PalletTown_House2_Text_OfferGrooming:
-	.string "DAISY: Hi! Good timing. I'm about\n"
-	.string "to have some tea.\p"
-	.string "Would you like to join me?\p"
-	.string "Oh, your POKéMON are a bit dirty.\p"
-	.string "Would you like me to groom one?$"
+	.string "奈奈美：嗨！来得正好，我正打算喝\n"
+	.string "杯下午茶呢。\p"
+	.string "要和我一起喝点吗？\p"
+	.string "哎呀，你的宝可梦身上有点脏兮兮的\n"
+	.string "呢。\p"
+	.string "要让我帮你给其中一只梳毛美容一下\n"
+	.string "吗？$"
 
 PalletTown_House2_Text_WhichMon:
-	.string "DAISY: Which one should I groom?$"
+	.string "奈奈美：要给哪一只美容呢？$"
 
 PalletTown_House2_Text_Alright:
-	.string "DAISY: OK, I'll get it looking\n"
-	.string "nice in no time.$"
+	.string "奈奈美：好的，马上就把它打扮得漂\n"
+	.string "漂亮亮的。$"
 
 PalletTown_House2_Text_AllDone:
-	.string "DAISY: There you go! All done.\p"
-	.string "See? Doesn't {STR_VAR_1} look\n"
-	.string "nice?\p"
-	.string "It's such a cute POKéMON.$"
+	.string "奈奈美：好啦！大功告成！\p"
+	.string "你看，{STR_VAR_1}是不\n"
+	.string "是变得漂亮多了？\p"
+	.string "真是只可爱的宝可梦呢。$"
 
 PalletTown_House2_Text_AlreadyGroomed:
-	.string "DAISY: I always have tea around\n"
-	.string "this time. Come join me.$"
+	.string "奈奈美：我每天这个时间都会喝下午\n"
+	.string "茶。你也一起来吧。$"
 
 PalletTown_House2_Text_Refused:
-	.string "DAISY: You don't want to have one\n"
-	.string "groomed?\p"
-	.string "OK, we'll just have tea.$"
+	.string "奈奈美：不需要美容吗？\p"
+	.string "好的，那我们就只喝茶吧。$"
 
 PalletTown_House2_Text_CantGroomEgg:
-	.string "DAISY: Oh, sorry. I honestly can't\n"
-	.string "groom an EGG.$"
+	.string "奈奈美：哎呀，抱歉呢。蛋实在没法\n"
+	.string "梳毛美容啊。$"

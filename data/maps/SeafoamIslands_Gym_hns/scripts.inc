@@ -56,19 +56,16 @@ SeafoamIslands_Gym_EventScript_GymStatuePostVictory::
 	end
 
 SeafoamIslands_Gym_Text_GymStatue::
-    .string "CINNABAR POKéMON GYM\n"
-    .string "LEADER: BLAINE\p"
-	.string "WINNING TRAINERS:\n"
-	.string "BLUE, RED$"
+    .string "红莲宝可梦道馆馆主：夏伯\p"
+    .string "获胜训练家：青绿、赤红$"
 
 SeafoamIslands_Gym_Text_GymStatuePlayerWon::
-    .string "CINNABAR POKéMON GYM\n"
-    .string "LEADER: BLAINE\p"
-    .string "WINNING TRAINERS:\n"
-	.string "BLUE, RED, {PLAYER}$"
+    .string "红莲宝可梦道馆馆主：夏伯\p"
+    .string "获胜训练家：青绿、赤红、\n"
+    .string "{PLAYER}$"
 
 SeafoamIslands_Gym_Text_Blaine_GiveTM:
-	.string "Take this too!$"
+	.string "这个也给你！$"
 
 SeafoamIslands_Gym_Text_Blaine_ExplainTM:
 	.string "This TM contains\n"
@@ -79,59 +76,57 @@ SeafoamIslands_Gym_Text_Blaine_ExplainTM:
 	.string "extra BURN HEAL! Waaah!$"
 
 SeafoamIslands_Gym_Text_BlaineIntro:
-	.string "BLAINE: Waaah!\p"
-	.string "My GYM in CINNABAR burned down.\p"
-	.string "My fire-breathing POKéMON and I are\n"
-	.string "homeless because of the volcano.\p"
-	.string "Waaah!\p"
-	.string "But I'm back in business as a GYM\n"
-	.string "LEADER here in this cave.\p"
-	.string "If you can beat me, I'll give you\n"
-	.string "a BADGE.\p"
-	.string "Ha! You'd better have BURN HEAL!$"
+	.string "夏伯：哇哈哈！\p"
+	.string "我红莲镇的道馆全烧没了。\p"
+	.string "托那座火山的福，我和喷火的宝可梦\n"
+	.string "们都无家可归了。\p"
+	.string "哇哈哈！\p"
+	.string "不过我在这山洞里重开了道馆馆主的\n"
+	.string "营生。\p"
+	.string "你要是能打赢我，我就把徽章给你。\p"
+	.string "哈！你最好备好灼伤药！$"
 
 SeafoamIslands_Gym_Text_BlaineWinLoss:
-	.string "BLAINE: Awesome. I've burned out…\p"
-	.string "You've earned VOLCANOBADGE!$"
+	.string "夏伯：太棒了。我已经完全燃尽了.\n"
+	.string ".....\p"
+	.string "深红徽章归你了！$"
 
 SeafoamIslands_Gym_Text_ReceivedVolcanoBadge:
-	.string "{PLAYER} received VOLCANOBADGE.$"
+	.string "{PLAYER}获得了深红徽章。$"
 
 SeafoamIslands_Gym_Text_BlaineAfterBattle:
-	.string "BLAINE: I did lose this time, but\n"
-	.string "I'm going to win the next time.\p"
-	.string "When I rebuild my CINNABAR GYM,\n"
-	.string "we'll have to have a rematch.$"
+	.string "夏伯：虽然这次是我输了，但下次赢\n"
+	.string "的会是我。\p"
+	.string "等我重建了红莲道馆，咱们一定要再\n"
+	.string "较量一次。$"
 
 SeafoamIslands_Gym_Text_BlaineFightDone:
-	.string "BLAINE: My fire POKéMON will be\n"
-	.string "even stronger.\p"
-	.string "Just you watch!$"
+	.string "夏伯：我的火属性宝可梦会变得更强\n"
+	.string "。\p"
+	.string "你就走着瞧吧！$"
 
 SeafoamIslands_Gym_Text_BlaineRematch:
-	.string "BLAINE: Whoa!\p"
-	.string "I see you've become the KANTO\n"
-	.string "CHAMPION!\p"
-	.string "That's blazing!\p"
-	.string "Your skills are top-notch.\p"
-	.string "I'm always up for a battle.\p"
-	.string "Want to have a rematch with me?$"
+	.string "夏伯：噢！\p"
+	.string "看来你已经成为关都冠军了啊！\p"
+	.string "真是太炽热了！\p"
+	.string "你的实力无可挑剔。\p"
+	.string "我随时都乐意奉陪。\p"
+	.string "要和我再来一场对战吗？$"
 
 SeafoamIslands_Gym_Text_BlaineRematchDefeat:
-	.string "BLAINE: Your skills are truly fiery!\p"
-	.string "You've burned right through my\n"
-	.string "defenses.$"
+	.string "夏伯：你的实力真如烈火般炽热！\p"
+	.string "竟然彻底突破了我的防线。$"
 
 SeafoamIslands_Gym_Text_GymGuideWin:
-	.string "Yo!\p"
-	.string "… Huh? It's over already?\p"
-	.string "Sorry, sorry!\p"
-	.string "CINNABAR GYM was gone, so I didn't\n"
-	.string "know where to find you.\p"
-	.string "But, hey, you're plenty strong even\n"
-	.string "without my advice. I knew you'd win!$"
+	.string "哟！\p"
+	.string "......咦？已经结束了吗？\p"
+	.string "抱歉抱歉！\p"
+	.string "红莲道馆没了，我不知道去哪里找你\n"
+	.string "。\p"
+	.string "不过嘛，就算没有我的建议，你也足\n"
+	.string "够强了。我就知道你会赢！$"
 
 SeafoamIslands_Gym_Text_GymGuideWin2:
-	.string "A POKéMON GYM can be anywhere as\n"
-	.string "long as the GYM LEADER is there.\p"
-	.string "There's no need for a building.$"
+	.string "只要有道馆馆主在，哪里都可以是宝\n"
+	.string "可梦道馆。\p"
+	.string "根本不需要拘泥于建筑嘛。$"

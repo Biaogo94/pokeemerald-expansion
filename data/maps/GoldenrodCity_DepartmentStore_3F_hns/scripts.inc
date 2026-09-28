@@ -32,10 +32,9 @@ GoldenrodDeptStore_Text_3FSuperNerd:
     .string "my POKéMON.$"
 
 GoldenrodDeptStore_Text_3FRocker:
-    .string "Hey! When you battle, do you use X\n"
-    .string "SPECIAL?\p"
-    .string "It's awesome. It really jacks up\n"
-    .string "SPECIAL ATTACK!$"
+    .string "喂！你在对战时会用特攻强化吗？\p"
+    .string "那东西可神了。能大幅提升宝可梦的\n"
+    .string "特攻呢！$"
 
 GoldenrodDeptStore3_EventScript_Clerk::
 	lock
@@ -59,5 +58,5 @@ GoldenrodDeptStore3_Pokemart:
 	pokemartlistend
 
 GoldenrodDeptStore_Text_3FDirectory:
-    .string "For Victory Seekers\p"
-    .string "3F BATTLE COLLECTION$"
+    .string "追求胜利者的专区\p"
+    .string "3F 对战收集区$"

@@ -16,8 +16,7 @@ NewSinjoh_EventScript_TriggerNorthGate::
 	end
 
 NewSinjoh_Text_TriggerNorthGate:
-	.string "Better not leave the Kimono\n"
-	.string "girls waiting.$"
+	.string "最好别让艺裳少女们久等了。$"
 
 NewSinjoh_EventScript_PetStantler::
     lock
@@ -30,16 +29,16 @@ NewSinjoh_EventScript_PetStantler::
 	end
 
 NewSinjoh_Text_Stantler_Cry:
-    .string "Lerrrrr!$"
+    .string "嘞噜噜噜--！$"
 
 NewSinjoh_EventScript_Steven::
 	msgbox NewSinjoh_Text_Steven, MSGBOX_AUTOCLOSE
 	end
 
 NewSinjoh_Text_Steven:
-	.string "STEVEN: Ma'am, may I help you to\n"
-	.string "the spring over there?\p"
-	.string "It seems there is plenty of room.$"
+	.string "大吾：这位女士，需要我带您去那边\n"
+	.string "的温泉吗？\p"
+	.string "那里看起来还有很多空位。$"
 
 NewSinjoh_MilkMan_EventScript_Seller::
 	lock
@@ -89,31 +88,30 @@ NewSinjoh_MilkMan_NotEnough::
 	end
 
 NewSinjoh_MilkMan_text_BuyMilk:
-	.string "I am the Milkman.\p"
-	.string "My milk is delicious.\p"
-	.string "If you would like some today, it'll be\n"
-	.string "¥500.$"
+	.string "我是牛奶工。\p"
+	.string "我的牛奶很美味。\p"
+	.string "今天如果想来一瓶的话，只要500\n"
+	.string "日元。$"
 
 NewSinjoh_MilkMan_GotMilk:
-	.string "Here ya go!\n"
-	.string "It's fortified with what the world wants.$"
+	.string "拿好！里面添加了这个世界所渴求的\n"
+	.string "滋味。$"
 
 NewSinjoh_MilkMan_NoMoney:
-	.string "Sorry.\n"
-	.string "Get some cash, then you will get a sale!$"
+	.string "抱歉啦。带够钱再来买吧！$"
 
 NewSinjoh_MilkMan_NoRoom:
-	.string "Look's like your PACK's full.$"
+	.string "你的背包好像已经装满了。$"
 
 NewSinjoh_MilkMan_NoSale:
-	.string "Don't you want it?\n"
-	.string "It gots what the world deserves.$"
+	.string "你真的不想要吗？这里面可饱含了这\n"
+	.string "个世界应得的一切。$"
 
 NewSinjoh_MilkMan_Text_WouldYouLikeAnother:
-	.string "How bout another?$"
+	.string "要不再来一瓶？$"
 
 NewSinjoh_Text_GotMilk:
-	.string "{PLAYER} got MOOMOO MILK.$"
+	.string "{PLAYER}获得了哞哞鲜奶。$"
 
 MilkMan_EventScript_Battle:: 
     msgbox MilkMan_Battle_text
@@ -122,13 +120,12 @@ MilkMan_EventScript_Battle::
     end
 
 MilkMan_Battle_text:
-	.string "I am the MilkMan,\p"
-	.string "My milk is delicious.\p"
-	.string "Special delivery today!$"
+	.string "我是牛奶工，\p"
+	.string "我的牛奶很美味。\p"
+	.string "今天可是特别派送！$"
 
 NewSinjoh_MilkMan_text_Lose:
-	.string "This world is perfect.\n"
-	.string "isn't it?$"
+	.string "这个世界很完美，不是吗？$"
 
 NewSinjoh_Script_TravelMart::
 	lock
@@ -153,11 +150,11 @@ NewSinjoh_Pokemart_TravelShop:
 	.2byte ITEM_NONE
 
 NewSinjoh_Text_TravelShopGreeting:
-	.string "Welcome to My little Supply Shop.\n"
-	.string "How can I help you?$"
+	.string "欢迎光临我的杂货小铺。请问有什么\n"
+	.string "需要吗？$"
 
 NewSinjoh_Text_TravelShopEnd:
-	.string "Do come back.$"
+	.string "欢迎下次光临。$"
 
 Script_NewSinjoh_Traveler_Brother::
 	lock
@@ -167,22 +164,21 @@ Script_NewSinjoh_Traveler_Brother::
 	end
 
 NewSinjoh_Text_TravelBrother_Greeting:
-    .string "All our goods are homemade\n"
-	.string "and grown locally!\p"
-	.string "My big sister opened up this shop,\n"
-	.string "because the POKéMART company\l"
-	.string "won't open a location\l"
-	.string "this far out from a major town.$"
+    .string "店里的所有商品都是纯手工制作和本\n"
+    .string "地采摘的哦！\p"
+    .string "我姐姐之所以开这家店，是因为友好\n"
+    .string "商店根本不肯在离大城镇这么远的地\l"
+    .string "方开分店。$"
 
 NewSinjoh_EventScript_Josh::
 	msgbox NewSinjoh_Text_Josh, MSGBOX_NPC
 	end
 
 NewSinjoh_Text_Josh:
-	.string "This place is sick!\p"
-	.string "Hiding these hot springs\n"
-	.string "from the world is a travesty.\p"
-	.string "I'm gonna tell all my friends!$"
+	.string "这地方简直太棒了！\p"
+	.string "这么好的温泉藏着不让世人知道，实\n"
+	.string "在太暴殄天物了。\p"
+	.string "我一定要把这里推荐给所有朋友！$"
 
 NewSinjoh_EventScript_Janice::
 	goto_if_ge VAR_SINJOH_STORYLINE, 13, NewSinjoh_EventScript_JaniceAfter
@@ -193,21 +189,19 @@ NewSinjoh_EventScript_JaniceAfter::
 	end
 
 NewSinjoh_Text_Janice:
-	.string "These springs are magical,\n"
-	.string "but I feel like the locals\l"
-	.string "are giving us dirty looks.$"
+	.string "这里的温泉太神奇了，但我总觉得当\n"
+	.string "地人一直在用白眼瞪我们。$"
 NewSinjoh_Text_JaniceAfter:
-	.string "These springs are magical,\n"
-	.string "and the locals are so kind\l"
-	.string "when you get to know them!$"
+	.string "这里的温泉太神奇了，而且只要混熟\n"
+	.string "了之后，就会发现当地人特别亲切！$"
 
 NewSinjoh_EventScript_OldLady1::
 	msgbox NewSinjoh_Text_OldLady1, MSGBOX_NPC
 	end
 
 NewSinjoh_Text_OldLady1:
-	.string "There's nothing like a nice view to\n"
-	.string "invigorate this old soul.$"
+	.string "没什么比这绝美的风景更能让我这把\n"
+	.string "老骨头焕发生机的了。$"
 
 NewSinjoh_EventScript_OldLady2::
 	goto_if_ge VAR_SINJOH_STORYLINE, 13, NewSinjoh_EventScript_OldLady2Steven
@@ -218,14 +212,12 @@ NewSinjoh_EventScript_OldLady2Steven::
 	end
 
 NewSinjoh_Text_OldLady2:
-	.string "Great, now these tourists\n"
-	.string "are hogging our hot springs!\p"
-	.string "It's been one bad thing after\n"
-	.string "another lately!$"
+	.string "好极了，现在这帮游客把咱们的温泉\n"
+	.string "给霸占了！\p"
+	.string "最近真是一件顺心的事都没有！$"
 NewSinjoh_Text_OldLady2Steven:
-	.string "What a handsome young man!\p"
-	.string "Maybe these tourists aren't\n"
-	.string "so bad after all.$"
+	.string "真是个俊俏的小伙子！\p"
+	.string "看来这些游客倒也没那么讨厌嘛。$"
 
 NewSinjoh_EventScript_OldLady3::
 	goto_if_ge VAR_SINJOH_STORYLINE, 13, NewSinjoh_EventScript_OldLady3After
@@ -236,16 +228,14 @@ NewSinjoh_EventScript_OldLady3After::
 	end
 
 NewSinjoh_Text_OldLady3:
-	.string "How can that woman\n"
-	.string "be so rude to our guests?\p"
-	.string "She needs to take a dip\n"
-	.string "in the springs. \p"
-	.string "There is plenty of space\n"
-	.string "for everyone.$"
+	.string "那个女人怎么能对客人这么无礼呢？\p"
+	.string "她真该去温泉里泡泡降降火。\p"
+	.string "这池子这么大，完全容得下所有人呀\n"
+	.string "。$"
 NewSinjoh_Text_OldLady3After:
-	.string "It seems everybody is getting\n"
-	.string "used to each other around here.\p"
-	.string "Good!$"
+	.string "看来这里的大家都已经开始接纳彼此\n"
+	.string "了。\p"
+	.string "真好！$"
 
 NewSinjoh_EventScript_SpringsSage::
 	goto_if_ge VAR_SINJOH_STORYLINE, 13, NewSinjoh_EventScript_SpringsSageAfter
@@ -256,37 +246,33 @@ NewSinjoh_EventScript_SpringsSageAfter::
 	end
 
 NewSinjoh_Text_SpringsSage:
-	.string "There has been much division\n"
-	.string "and strife in our community\l"
-	.string "since the newcomers arrived.\p"
-	.string "Regardless of your perspective,\n"
-	.string "it is clear that the balance has\l"
-	.string "been disturbed.\p"
-	.string "Please be kind to locals and\n"
-	.string "tourists alike.$"
+	.string "自从新居民来到之后，我们村落里就\n"
+	.string "产生了很多隔阂与纷争。\p"
+	.string "无论持何种立场，原有的平衡显然已\n"
+	.string "经被打破了。\p"
+	.string "请善待当地人，也请善待游客。$"
 NewSinjoh_Text_SpringsSageAfter:
-	.string "Things have been better since\n"
-	.string "the legendary POKéMON were quelled.\p"
-	.string "Balance has returned to SINJOH.$"
+	.string "自从传说的宝可梦平息下来之后，情\n"
+	.string "况就慢慢好转了。\p"
+	.string "平衡又重新回到了神都。$"
 
 NewSinjoh_EventScript_Sage2::
 	msgbox NewSinjoh_Text_Sage2, MSGBOX_NPC
 	end
 
 NewSinjoh_Text_Sage2:
-	.string "Times change, but the STANTLER\n"
-	.string "still gather. For that, we can\l"
-	.string "be thankful.$"
+	.string "时代虽在变迁，但惊角鹿依然会在此\n"
+	.string "聚集。光是这一点，就值得我们心怀\l"
+	.string "感激了。$"
 
 NewSinjoh_EventScript_Daughter::
 	msgbox NewSinjoh_Text_Daughter, MSGBOX_NPC
 	end
 
 NewSinjoh_Text_Daughter:
-    .string "Wheeeeee!!\p"
-    .string "Look, Mommy!\n"
-    .string "No hands!\p"
-	.string "Just like the snowboarders!$"
+    .string "哇咿--！！\p"
+    .string "妈妈快看！我没用手扶哦！\p"
+    .string "就和单板滑雪选手一样！$"
 
 NewSinjoh_EventScript_Mother::
 	lock
@@ -298,32 +284,31 @@ NewSinjoh_EventScript_Mother::
 	end
 
 NewSinjoh_Text_Mother:
-    .string "Look at my adorable baby go!\p"
-    .string "This rink has been here\n"
-	.string "for generations, but the children\l"
-	.string "never used it until the newcomers\l"
-	.string "arrived.$"
+    .string "看我家宝贝滑得多棒呀！\p"
+    .string "这个冰场代代相传至今，但在新居民\n"
+    .string "搬来之前，孩子们可从没来这里玩过\l"
+    .string "呢。$"
 
 NewSinjoh_EventScript_Welcome_Sign::
 	msgbox NewSinjoh_Text_Welcome_Sign, MSGBOX_SIGN
 	end
 
 NewSinjoh_Text_Welcome_Sign:
-	.string "NEW SINJOH$"
+	.string "新神都$"
 
 NewSinjoh_EventScript_Resturant_Sign::
 	msgbox NewSinjoh_Text_Resturant_Sign, MSGBOX_SIGN
 	end
 
 NewSinjoh_Text_Resturant_Sign:
-	.string "FAMILY CAFE$"
+	.string "家庭咖啡馆$"
 
 NewSinjoh_EventScript_Cave_Sign::
 	msgbox NewSinjoh_Text_Cave_Sign, MSGBOX_SIGN
 	end
 
 NewSinjoh_Text_Cave_Sign:
-	.string "HOT SPRINGS CAVE$"
+	.string "温泉洞窟$"
 
 NewSinjoh_EventScript_Hiker::
 	goto_if_ge VAR_SINJOH_STORYLINE, 13, NewSinjoh_EventScript_HikerAfter
@@ -334,14 +319,13 @@ NewSinjoh_EventScript_HikerAfter::
 	end
 
 NewSinjoh_Text_Hiker:
-	.string "Business is booming!\n"
-	.string "But prices have gone up since\l"
-	.string "the city folk became interested\l"
-	.string "in our little town.$"
+	.string "生意可红火了！不过自从城里人对我\n"
+	.string "们这个小镇产生兴趣后，物价也跟着\l"
+	.string "涨起来了。$"
 NewSinjoh_Text_HikerAfter:
-	.string "Business is booming!\p"
-	.string "And with how much that silver haried\n"
-	.string "guy tips, prices have come down!$"
+	.string "生意可红火了！\p"
+	.string "而且那位银发先生给的小费特别丰厚\n"
+	.string "，物价总算降下来啦！$"
 
 NewSinjoh_EventScript_OldLady4::
 	goto_if_ge VAR_SINJOH_STORYLINE, 13, NewSinjoh_EventScript_OldLady4After
@@ -352,9 +336,9 @@ NewSinjoh_EventScript_OldLady4After::
 	end
 
 NewSinjoh_Text_OldLady4:
-	.string "I only sell to locals!$"
+	.string "我只卖给本地人！$"
 NewSinjoh_Text_OldLady4After:
-	.string "I STILL only sell to locals!$"
+	.string "我说了，依然只卖给本地人！$"
 
 NewSinjoh_EventScript_Item_DuskBall::
 	finditem ITEM_DUSK_BALL

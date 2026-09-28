@@ -127,24 +127,25 @@ VictoryRoadKanto_1F_Movement_SilverLeave:
 	step_end
 
 VictoryRoad_Text_RivalBefore:
-    .string "Hold it.\p"
-    .string "…Are you going to take the POKéMON\n"
-    .string "LEAGUE challenge?\p"
-    .string "…Don't make me laugh.\p"
-    .string "You're so much weaker than I am.\p"
-    .string "I'm not like I was before.\p"
-    .string "I now have the best and strongest\n"
-    .string "POKéMON with me.\p"
-    .string "I'm invincible!\p"
-    .string "{PLAYER}!\n"
-    .string "I challenge you!$"
+    .string "慢着。\p"
+    .string "......你是准备去挑战宝可梦\n"
+    .string "联盟吗？\p"
+    .string "......别笑死人了。\p"
+    .string "你明明比我弱多了。\p"
+    .string "我已经和以前不一样了。\p"
+    .string "我现在带着最优秀、最强大的宝可梦\n"
+    .string "。\p"
+    .string "我是无敌的！\p"
+    .string "{PLAYER}！我要向你挑战！$"
 
 VictoryRoad_Text_RivalDefeat:
-    .string "…I couldn't win…\p"
-    .string "I gave it every-thing I had…\p"
-    .string "What you possess, and what I lack…\p"
-    .string "I'm beginning to understand what\n"
-    .string "that dragon master said to me…$"
+    .string "......我竟然赢不了....\n"
+    .string "..\p"
+    .string "我已经倾尽了全力......\p"
+    .string "你所拥有的，还有我所欠缺的...\n"
+    .string "...\p"
+    .string "我开始明白那个龙之大师对我说过的\n"
+    .string "话了......$"
 
 VictoryRoad_Text_RivalAfter:
     .string "…I haven't given up on becoming the\n"

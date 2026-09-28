@@ -26,5 +26,5 @@ EcruteakLugiaSpeechHouse_Text_Gramps:
 	.string "It was like a bird and a dragon.$"
 
 EcruteakLugiaSpeechHouse_Text_Youngster:
-	.string "Is there really a POKéMON that big?\p"
-	.string "If it exists, it must be powerful.$"
+	.string "真的有那么巨大的宝可梦吗？\p"
+	.string "如果真有的话，那它一定非常强大。$"

@@ -391,29 +391,23 @@ VioletCity_EventScript_GymSign::
 	end
 
 VioletCity_Text_LiquidJustice:
-	.string "Look around!\p"
-	.string "It's easy to see what POKéMON\n"
-	.string "you can catch in an area without\l"
-	.string "having to run around in tall\l"
-	.string "grass all day!$"
+	.string "仔细瞧瞧周围吧！\p"
+	.string "不用整天在草丛里盲目乱跑，就能轻\n"
+	.string "松知道这一带能遇到哪些宝可梦了！$"
 
 VioletCity_Text_EarlAsksIfYouBeatFalkner:
-	.string "Hello!\n"
-	.string "You are trainer?\p"
-	.string "Battle GYM LEADER,\n"
-	.string "win you did?$"
+	.string "你好啊！你是训练家吗？\p"
+	.string "挑战道馆馆主，赢了吗？$"
 
 VioletCity_Text_VeryNiceIndeed:
-	.string "Ooh, la la!\n"
-	.string "Very indeed nice!$"
+	.string "哎呀呀！真是太棒了！$"
 
 VioletCity_Text_FollowEarl:
-	.string "Is that so? Then study shall\n"
-	.string "you! Follow me!$"
+	.string "这样啊？那就来学习吧！跟我来！$"
 
 VioletCity_Text_HereTeacherIAm:
-	.string "Here, teacher I am.\n"
-	.string "Good it is you study here!$"
+	.string "在这里，我是老师。你能在这里学习\n"
+	.string "真好！$"
 
 VioletCity_Text_Lass:
 	.string "Ghosts are rumored to appear\n"
@@ -436,62 +430,59 @@ VioletCity_Text_Gramps:
 	.string "it.$"
 
 VioletCity_Text_Youngster:
-	.string "I saw a wiggly tree up ahead!\p"
-	.string "If you touch it, it squirms\n"
-	.string "and dances! Cool!$"
+	.string "前面有一棵会摇晃的树！\p"
+	.string "去碰碰它的话，它还会扭来扭去跳起\n"
+	.string "舞呢！太酷了！$"
 
 VioletCity_Text_Sign:
-	.string "VIOLET CITY\p"
-	.string "The City of Nostalgic Scents$"
+	.string "桔梗市\p"
+	.string "怀旧香气弥漫的城镇$"
 
 VioletCity_Text_GymSign:
-	.string "VIOLET CITY POKéMON GYM\p"
-	.string "LEADER: FALKNER, The Elegant\n"
-	.string "Master of Flying POKéMON$"
+	.string "桔梗市宝可梦道馆\p"
+	.string "馆主：阿速华丽的飞翔名家$"
 
 VioletCity_Text_SproutTowerSign:
-	.string "SPROUT TOWER\p"
-	.string "Experience the Way of POKéMON$"
+	.string "喇叭芽之塔\p"
+	.string "领悟宝可梦之道$"
 
 VioletCity_Text_EarlsAcademySign:
-	.string "EARL'S POKéMON ACADEMY$"
+	.string "杜利尔宝可梦私塾$"
 
 VioletCity_Text_Pichu:
-	.string "PICHU: Chuuuu!$"
+	.string "皮丘：皮啾--！$"
 
 VioletCity_Text_Bellsprout:
-	.string "BELLSPROUT: Sprouuuut.$"
+	.string "喇叭芽：叭芽--。$"
 
 VioletCity_Text_Rattata:
-	.string "RATTATA: RATTATARATTA!$"
+	.string "小拉达：拉达拉达！$"
 
 VioletCity_Text_ElmName:
 	.string "空木博士$"
 
 VioletCity_Text_Elm_Call:
-	.string "PROF.ELM: Hello, {PLAYER}? We\n"
-	.string "discovered something about the EGG!\p"
-	.string "My assistant is at the POKéMON\n"
-	.string "CENTER in VIOLET CITY.\p"
-	.string "Could you talk to him?$"
+	.string "空木博士：喂，是{PLAYER}\n"
+	.string "吗？我们关于那颗蛋有了新发现！\p"
+	.string "我的助手现在在桔梗市的宝可梦中心\n"
+	.string "。\p"
+	.string "你能去和他见个面吗？$"
 
 VioletCity_Text_Kimono_Girl1:
-.string "Me oh my...\n"
-.string "That EGG must be...!$"
+	.string "哎呀呀......那颗蛋一定是.\n"
+	.string ".....！$"
 
 VioletCity_Text_Kimono_Girl2:
-.string "I see...\p"
-.string "So it was handed from MR. POKéMON\n"
-.string "to PROF.ELM, then from \l"
-.string "PROF.ELM to you.\p"
-.string "Now I get it...$"
+	.string "原来如此......\p"
+	.string "是从宝可梦爷爷那里交给了空木博士\n"
+	.string "，然后空木博士又交给了你啊。\p"
+	.string "我明白了......$"
 
 VioletCity_Text_Kimono_Girl3:
-.string "That EGG is truly an important EGG.\p"
-.string "Please do take good care of it\n"
-.string "for me. Is that understood?$"
+	.string "那颗蛋真的是非常重要的蛋。\p"
+	.string "请务必替我好好照顾它。明白了吗？$"
 
 VioletCity_Text_Kimono_Girl4:
-.string "I am counting on you.$"
+	.string "一切就拜托你了。$"
 
 

@@ -10,13 +10,11 @@ BlackthornMart_EventScript_BlackBelt::
 	end
 
 BlackthornMart_Text_CooltrainerM:
-	.string "You can't buy MAX REVIVE, but it\n"
-	.string "fully restores a fainted POKéMON.\p"
-	.string "Beware--it won't restore PP, the\n"
-	.string "POWER POINTS needed for moves.$"
+	.string "活力块虽然买不到，但它能让陷入濒\n"
+	.string "死的宝可梦完全恢复健康。\p"
+	.string "不过要小心--它不能恢复PP，也\n"
+	.string "就是使用招式所需的招式点数。$"
 
 BlackthornMart_Text_BlackBelt:
-	.string "MAX REPEL keeps weak POKéMON away\n"
-	.string "from you.\p"
-	.string "It's the longest lasting of the\n"
-	.string "REPEL sprays.$"
+	.string "黄金喷雾能让弱小的宝可梦远离你。\p"
+	.string "它是所有喷雾中持续时间最长的。$"

@@ -20,8 +20,8 @@ GoldenrodCity_FlowerShop_EventScript_MintClerkNotReady::
 	end
 
 GoldenrodCity_FlowerShop_Text_MintClerkNotReady:
-	.string "We are currently out of stock.\p"
-	.string "Please come back later.$"
+	.string "目前商品已售罄。\p"
+	.string "请您过段时间再来吧。$"
 
 	.align 2
 GoldenrodCity_FlowerShop_Mints:
@@ -109,53 +109,48 @@ GoldenrodCity_FlowerShop_EventScript_Floria3::
 	end
 
 GoldenrodCity_FlowerShop_Text_Floria:
-	.string "When I told my sis about the jiggly\n"
-	.string "tree, she said it's dangerous.\p"
-	.string "If I beat WHITNEY, I wonder if\n"
-	.string "she'll lend me her water bottle…$"
+	.string "我把那棵会摇晃的树告诉姐姐后，她\n"
+	.string "说太危险了。\p"
+	.string "如果我能打败小茜，不知道她会不会\n"
+	.string "把水壶借给我呢......$"
 
 GoldenrodCity_FlowerShop_Text_Owner1:
-.string "Apparently, there is an odd tree\n"
-.string "on ROUTE 36.\p"
-.string "They say it dances when you water\n"
-.string "it...\p"
-.string "Oh, of course not!\p"
-.string "This is a flower shop, so we do\n"
-.string "have watering cans...\p"
-.string "But I cannot let you have one!\n"
-.string "It's too dangerous!\p"
-.string "Well, maybe if you manage to\n"
-.string "defeat gym leader WHITNEY, it\l"
-.string "might be okay.$"
+	.string "听说36号道路上有棵奇怪的树。\p"
+	.string "有人说要是给它浇水，它就会跳起舞\n"
+	.string "来......\p"
+	.string "啊，想都别想！\p"
+	.string "虽然这里是花店，也确实有浇水壶.\n"
+	.string ".....\p"
+	.string "但我可不能借给你！那太危险了！\p"
+	.string "嗯......不过要是你能打败道\n"
+	.string "馆馆主小茜的话，说不定还可以考虑\l"
+	.string "一下。$"
 
 GoldenrodCity_FlowerShop_Text_Owner2:
-.string "Apparently, there is an odd tree\n"
-.string "on ROUTE 36.\p"
-.string "They say it dances when you water\n"
-.string "it...\p"
-.string "Oh, that's a PLAINBADGE from\n"
-.string "the GOLDENROD GYM!\p"
-.string "Did you defeat WHITNEY?!\p"
-.string "Well, then there's nothing to worry\n"
-.string "about, is there?\p"
-.string "I'll let you use this SQUIRTBOTTLE\n"
-.string "for a while then.\l"
-.string "...\p"
-.string "Oh, never mind. Keep it!$"
+	.string "听说36号道路上有棵奇怪的树。\p"
+	.string "有人说要是给它浇水，它就会跳起舞\n"
+	.string "来......\p"
+	.string "啊，那是满金道馆的常规徽章！\p"
+	.string "你打败了小茜吗？！\p"
+	.string "既然这样，那就没什么好担心的了，\n"
+	.string "对吧？\p"
+	.string "那这个杰尼龟喷壶就先借给你用用吧\n"
+	.string "。......\p"
+	.string "哎呀，算了。直接送给你啦！$"
 
 GoldenrodCity_FlowerShop_Text_Owner3:
-.string "The odd tree is on ROUTE 36.\n"
-.string "Please be careful!$"
+	.string "那棵奇怪的树就在36号道路上。请\n"
+	.string "一定要小心哦！$"
 
 GoldenrodCity_FlowerShop_Text_Owner4:
-    .string "Lalala lalalala. Have plenty of\n"
-    .string "water, my lovely!$"
+    .string "啦啦啦，啦啦啦。可爱的花儿，多喝\n"
+    .string "点水吧！$"
 
 GoldenrodCity_FlowerShop_Text_FloriaYouBeatWhitney:
-    .string "Wow, you beat WHITNEY? Cool!$"
+    .string "哇，你打败了小茜？太帅了！$"
 
 GoldenrodCity_FlowerShop_Text_FloriaItWasAMon:
-    .string "So it really was a POKéMON!$"
+    .string "原来那真的就是宝可梦啊！$"
 
 
 GoldenrodCity_FlowerShop_EventScript_RandomBerryGirl::

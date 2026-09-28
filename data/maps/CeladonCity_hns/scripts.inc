@@ -76,12 +76,12 @@ CeladonCity_Text_Fisher:
 	.string "into a frog POKéMON.$"
 
 CeladonCity_Text_Poliwrath:
-	.string "POLIWRATH: Croak!$"
+	.string "快泳蛙：呱！$"
 
 CeladonCity_Text_Teacher1:
-	.string "I lost at the slot machines again…\p"
-	.string "We girls also play the slots now.\p"
-	.string "You should check them out too.$"
+	.string "老虎机又输光了......\p"
+	.string "现在我们女孩子也玩这个呢。\p"
+	.string "你也应该去试试看嘛。$"
 
 CeladonCity_Text_Gramps1:
 	.string "GRIMER have been appearing lately.\p"
@@ -95,9 +95,8 @@ CeladonCity_Text_Gramps2:
 	.string "girls are allowed here!$"
 
 CeladonCity_Text_Youngster1:
-	.string "Want to know a secret?\p"
-	.string "CELADON MANSION has a hidden back\n"
-	.string "door.$"
+	.string "想知道一个秘密吗？\p"
+	.string "玉虹大厦其实有个隐蔽的后门哦。$"
 
 CeladonCity_Text_Youngster2:
 	.string "They're holding an eating contest\n"
@@ -141,8 +140,8 @@ CeladonCity_EventScript_TrainerTips::
 	end
 
 CeladonCity_Text_Sign:
-	.string "CELADON CITY\p"
-	.string "The City of Rainbow Dreams$"
+	.string "玉虹市\p"
+	.string "描绘彩虹梦想之城$"
 
 CeladonGym_Text_Sign:
 	.string "CELADON CITY POKéMON GYM LEADER:\n"
@@ -150,11 +149,10 @@ CeladonGym_Text_Sign:
 	.string "The Nature-Loving Princess$"
 
 CeladonCity_Text_DeptStoreSign:
-	.string "Find What You Need at CELADON\n"
-	.string "DEPT.STORE!$"
+	.string "应有尽有的玉虹百货大楼！$"
 
 CeladonCity_Text_MansionSign:
-	.string "CELADON MANSION$"
+	.string "玉虹大厦$"
 
 CeladonCity_Text_GameCornerSign:
 	.string "The Playground for Everybody--\n"

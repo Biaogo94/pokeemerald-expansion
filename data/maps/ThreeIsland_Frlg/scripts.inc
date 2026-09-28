@@ -463,9 +463,8 @@ ThreeIsland_Text_Biker2Defeat::
 	.string "别胡闹了！$"
 
 ThreeIsland_Text_Biker2PostBattle::
-	.string "What's the matter with you,\n"
-	.string "getting all hot like that?\p"
-	.string "Totally uncool, man!$"
+	.string "你怎么回事啊，突然发这么大脾气？\p"
+	.string "真是一点都不帅气，老兄！$"
 
 ThreeIsland_Text_Biker3Intro::
 	.string "我们把老大请来这里，可竟然全被你\n"

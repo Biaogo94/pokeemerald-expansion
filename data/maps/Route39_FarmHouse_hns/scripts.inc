@@ -104,20 +104,20 @@ Route39_Text_FarmerMNoMoney:
 	.string "No cash, no sale!$"
 
 Route39_Text_FarmerMNoRoom:
-	.string "I reckon yer PACK's full.$"
+	.string "看来你的背包已经满了啊。$"
 
 Route39_Text_FarmerMNoSale:
 	.string "You don't want it?\n"
 	.string "Come again, hear?$"
 
 Route39FarmHouse_Text_WouldYouLikeAnother:
-	.string "How bout another?$"
+	.string "要不再来一瓶？$"
 
 Route39_Text_GotMilk:
-	.string "{PLAYER} got MOOMOO MILK.$"
+	.string "{PLAYER}获得了哞哞鲜奶。$"
 
 Route39_Text_FarmerMMilking:
-	.string "I best go do my milkin'.$"
+	.string "我得去挤奶啦。$"
 
 Route39_Text_FarmerFInTrouble:
 	.string "Our milk even goes out to\n"

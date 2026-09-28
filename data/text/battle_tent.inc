@@ -302,10 +302,10 @@ SlateportCity_BattleTentLobby_Text_BeenWaitingForYou:
 	.string "。$"
 
 SlateportCity_BattleTentLobby_Text_DidntSaveBeforeQuitting:
-	.string "I'm sorry to say this, but you didn't\n"
-	.string "save before you quit playing last time.\p"
-	.string "As a result, you have been disqualified\n"
-	.string "from your challenge.$"
+	.string "非常遗憾，您上次在退出游戏前没有\n"
+	.string "保存记录。\p"
+	.string "因此，您本次的挑战已被判定为取消\n"
+	.string "资格。$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReturnPersonalMons:
@@ -424,5 +424,6 @@ VerdanturfTown_BattleTentLobby_Text_RulesAreListed:
 	.string "上面列出了绿茵镇对战帐篷的规则。$"
 
 BattleTentLobby_Text_EarnedBattlePoints:
-	.string "You've earned {STR_VAR_1} Battle Points!$"
+	.string "获得了{STR_VAR_1}点对\n"
+	.string "战点数！$"
 

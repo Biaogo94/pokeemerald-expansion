@@ -35,14 +35,13 @@ GoldenrodDeptStore2_EventScript_Sign::
 	end
 
 GoldenrodDeptStore_Text_2FYoungster:
-    .string "POKéGEAR can store up to 100 phone\n"
-    .string "numbers.\p"
-    .string "It's hard to decide which numbers\n"
-    .string "to keep.$"
+    .string "宝可梦齿轮最多能存100个电话号\n"
+    .string "码。\p"
+    .string "真难决定该保留谁的号码呢。$"
 
 GoldenrodDeptStore_Text_2FCooltrainerF:
-    .string "I got my ABRA at the GAME CORNER.\p"
-    .string "Now it's my best partner.$"
+    .string "我的凯西是在游戏城换来的。\p"
+    .string "现在它是我最棒的搭档！$"
 
 GoldenrodDeptStore_Text_2FGentleman:
     .string "This DEPT.STORE makes me realize\n"
@@ -210,20 +209,21 @@ GoldenrodDeptStore_Text_WhichDrinkWouldYouLike:
 	.string "Which drink would you like?$"
 
 GoldenrodDeptStore_Text_DrinkClankedDown:
-	.string "Clang!\p"
-	.string "A can of {STR_VAR_1} dropped down.$"
+	.string "咣当！\p"
+	.string "掉下来了一罐\n"
+	.string "{STR_VAR_1}。$"
 
 GoldenrodDeptStore_Text_ExtraDrinkClankedDown:
-	.string "Clang!\p"
-	.string "Score! An extra can of {STR_VAR_1}\n"
-	.string "dropped down!$"
+	.string "咣当！\p"
+	.string "中奖了！多掉下来了一罐\n"
+	.string "{STR_VAR_1}！$"
 
 GoldenrodDeptStore_Text_NotEnoughMoney:
-	.string "Not enough money…$"
+	.string "钱不够......$"
 
 GoldenrodDeptStore_Text_DecidedAgainstBuyingDrink:
-	.string "Decided against buying a drink.$"
+	.string "决定不买饮料了。$"
 
 GoldenrodDeptStore_Text_2FDirectory:
-    .string "Your Travel Companion\p"
-    .string "2F TRAINER'S MARKET$"
+    .string "旅行的好伙伴\p"
+    .string "2F 训练家卖场$"

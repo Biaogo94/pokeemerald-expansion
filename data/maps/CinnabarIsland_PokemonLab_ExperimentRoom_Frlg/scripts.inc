@@ -318,9 +318,8 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoIsTooBad::
 
 @ Unused
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalkJP::
-	.string "ちょっと　じかん　かかるよ！\p"
-	.string "そこらへんを　すこし\n"
-	.string "ブラブラ　してくると　よろしー！$"
+	.string "稍微需要一点时间哦！\p"
+	.string "你先在附近随便逛逛吧！$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_FossilMonBackToLife::
 	.string "你来晚了。你跑哪儿去了？\p"
@@ -334,7 +333,7 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_ReceivedMonFromDoctor::
 
 @ Unused
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoRoomForPokemon::
-	.string "ポケモン　いっぱいで　もてないね！$"
+	.string "你的宝可梦已经满啦，带不下了呢！$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_ThatFossilIsOfMonMakeItLiveAgain::
 	.string "喔！那正是{STR_VAR_2}\n"

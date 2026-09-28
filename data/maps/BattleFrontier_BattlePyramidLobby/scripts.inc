@@ -565,12 +565,12 @@ BattleFrontier_BattlePyramidLobby_Text_SelectThreeMons:
 	.string "梦。$"
 
 BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "A slight problem, adventurer!\p"
-	.string "You seem to not have the three\n"
-	.string "POKéMON qualified for the challenge.\p"
-	.string "Please also remember to take all\n"
-	.string "items from your POKéMON.\p"
-	.string "EGGS{STR_VAR_1}.$"
+	.string "探险者，出了点小问题！\p"
+	.string "你好像没有3只符合挑战资格的宝可\n"
+	.string "梦。\p"
+	.string "另外，也请不要让你的宝可梦携带任\n"
+	.string "何道具。\p"
+	.string "蛋{STR_VAR_1}。$"
 
 BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLv50:
 	.string "探险家啊，有点小问题！\p"

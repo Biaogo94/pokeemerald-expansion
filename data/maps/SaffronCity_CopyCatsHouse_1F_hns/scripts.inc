@@ -30,15 +30,15 @@ CopycatsHouse1F_Text_PokefanM:
 	.string "nickname COPYCAT around here.$"
 
 CopycatsHouse1F_Text_PokefanF:
-	.string "My daughter is so self-centered…\p"
-	.string "She only has a few friends.$"
+	.string "我女儿太以自我为中心了.....\n"
+	.string ".\p"
+	.string "所以她朋友少得可怜。$"
 
 CopycatsHouse1F_Text_PokefanF_ReturnedPart:
-	.string "She recently lost the POKé DOLL\n"
-	.string "that a boy gave her three years\l"
-	.string "ago.\p"
-	.string "Ever since then, she's gotten even\n"
-	.string "better at mimicry…$"
+	.string "她最近弄丢了三年前一个男孩子送给\n"
+	.string "她的宝可梦玩偶。\p"
+	.string "从那以后，她的模仿技术反而变得更\n"
+	.string "加炉火纯青了......$"
 
 CopycatsHouse1F_Text_Blissey:
-	.string "BLISSEY: Bliisii!$"
+	.string "幸福蛋：波哩嘻--！$"

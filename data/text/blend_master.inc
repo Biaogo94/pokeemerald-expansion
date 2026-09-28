@@ -21,11 +21,10 @@ BerryBlender_Text_BlendMasterNoBerries:
 	.string "回来！$"
 
 BerryBlender_Text_BlendMasterKnowHowToMakePokeblocks:
-	.string "Of course!\n"
-	.string "Of course!\p"
-	.string "Incidentally…\n"
-	.string "You do know how to blend {POKEBLOCK}S\l"
-	.string "from BERRIES?$"
+	.string "当然！当然啦！\p"
+	.string "顺便问一句......你知道怎么\n"
+	.string "用树果制作{POKEBLOCK}\l"
+	.string "吧？$"
 
 BerryBlender_Text_BlendMasterExplainBerryBlending:
 	.string "嗯！\p"
@@ -42,21 +41,23 @@ BerryBlender_Text_BlendMasterLetsBerryBlender:
 	.string "与混合名人一起，开始树果混合吧！$"
 
 BerryBlender_Text_BlendMasterNoPokeblockCase:
-	.string "Hmmm!\p"
-	.string "You don't appear to have gotten\n"
-	.string "the {POKEBLOCK} CASE!\p"
-	.string "I shall be here all day!\n"
-	.string "Obtain the {POKEBLOCK} CASE and hurry back!$"
+	.string "嗯哼！\p"
+	.string "你好像还没有得到\n"
+	.string "{POKEBLOCK}盒呢！\p"
+	.string "我整天都会在这里！拿到\n"
+	.string "{POKEBLOCK}盒之后就赶\l"
+	.string "快回来吧！$"
 
 BerryBlender_Text_BlendMasterPokeblockCaseFull:
-	.string "Hmmm!\p"
-	.string "Your {POKEBLOCK} CASE appears to be full!\p"
-	.string "I shall be here all day!\n"
-	.string "Use some {POKEBLOCK}S and hurry back!$"
+	.string "嗯哼！\p"
+	.string "你的{POKEBLOCK}盒好像\n"
+	.string "装满了！\p"
+	.string "我整天都会在这里！用掉一些\n"
+	.string "{POKEBLOCK}之后就赶快\l"
+	.string "回来吧！$"
 
 BerryBlender_Text_WhoaAwesome:
-	.string "Whoa!\n"
-	.string "Awesome!$"
+	.string "哇！太厉害了！$"
 
 BerryBlender_Text_WickedlyFast:
 	.string "真是快得惊人！$"
@@ -65,8 +66,8 @@ BerryBlender_Text_WhatAnExpert:
 	.string "真是专家啊！$"
 
 BerryBlender_Text_MadeAmazingPokeblocksWithMaster:
-	.string "When I blended with the MASTER,\n"
-	.string "we made amazing {POKEBLOCK}S!$"
+	.string "我和名匠一起制作的时候，做出了超\n"
+	.string "级厉害的{POKEBLOCK}！$"
 
 BerryBlender_Text_QualitiesOfBlendMaster:
 	.string "如机器般精准追踪箭头的双眼……\p"

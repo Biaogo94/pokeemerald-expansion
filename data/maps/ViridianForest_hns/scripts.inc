@@ -68,12 +68,10 @@ ViridianForest_EventScript_Bugsy::
 	end
 
 ViridianForest_Text_Bugsy:
-	.string "BUGSY: I came to KANTO to look for\n"
-	.string "BUG-TYPE POKéMON, so I can become\l"
-	.string "a stronger BUG-TYPE POKéMON\l"
-	.string "TRAINER!\p"
-    .string "If you're ready for another match,\n"
-    .string "I'll be at the DOJO in SAFFRON!$"
+	.string "阿笔：我为了成为更强的虫属性训练\n"
+	.string "家，特地来关都寻找虫属性宝可梦！\p"
+	.string "如果你准备好再切磋一场，我就在金\n"
+	.string "黄市的格斗道场等你！$"
 
 ViridianForest_TriggerScript_Pichu1::
 	lock

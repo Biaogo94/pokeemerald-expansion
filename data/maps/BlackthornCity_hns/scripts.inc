@@ -39,17 +39,18 @@ BlackthornCity_Text_ElmName:
 	.string "空木博士$"
 
 BlackthornCity_Text_BaobaCall:
-	.string "WARDEN BAOBA: {PLAYER}!\p"
-	.string "This is WARDEN BAOBA.\p"
-	.string "I'm calling to tell you that\n"
-	.string "the SAFARI ZONE has expanded!\p"
-	.string "Please come visit!$"
+	.string "巴奥巴园长：{PLAYER}！\p"
+	.string "我是巴奥巴园长。\p"
+	.string "我打电话是想通知你，狩猎地带扩建\n"
+	.string "了！\p"
+	.string "请一定要来看看哦！$"
 
 BlackthornCity_Text_ElmCall:
-	.string "PROF.ELM: Hello, {PLAYER}?\p"
-	.string "I have something here for you.\n"
-	.string "Could you swing by my LAB?\p"
-	.string "See you later!$"
+	.string "空木博士：喂喂，是\n"
+	.string "{PLAYER}吗？\p"
+	.string "我有样东西想交给你，你能来一趟研\n"
+	.string "究所吗？\p"
+	.string "待会儿见啦！$"
 
 BlackThornCity_EventScript_Sage::
 	lock
@@ -179,83 +180,82 @@ BlackthornCity_EventScript_SantosCompleted::
 
 
 BlackthornCity_Text_ClairNotReady:
-	.string "CLAIR, our GYM LEADER, has been\n"
-	.string "following your progress.\p"
-	.string "However, she only battles trainers\n"
-	.string "who already have 7 badges.$"
+	.string "我们的道馆馆主小椿，一直在关注你\n"
+	.string "的表现。\p"
+	.string "不过，她只会与已经收集了7枚徽章\n"
+	.string "的训练家对战。$"
 
 BlackthornCity_Text_ClairIsIn:
-	.string "CLAIR, our GYM LEADER, is waiting\n"
-	.string "for you.\p"
-	.string "However, it would be impossible for\n"
-	.string "a run-of-the-mill trainer to win.$"
+	.string "我们的道馆馆主小椿正在等你。\p"
+	.string "不过，泛泛之辈的训练家是绝对赢不\n"
+	.string "了她的。$"
 
 BlackthornCity_Text_ClairIsBeaten:
-	.string "You defeated CLAIR?\p"
-	.string "That's amazing!\p"
-	.string "I've never heard of her losing to\n"
-	.string "anyone other than LANCE.$"
+	.string "你打赢了小椿？！\p"
+	.string "太不可思议了！\p"
+	.string "除了阿渡先生之外，我还没听说过有\n"
+	.string "谁能赢过她。$"
 
 BlackthornGrampsRefusesEntryText:
-	.string "No. Only chosen trainers may train\n"
-	.string "here.\p"
-	.string "Please leave.$"
+	.string "不行，只有被选中的训练家才能在这\n"
+	.string "里修行。\p"
+	.string "请回吧。$"
 
 BlackthornGrampsGrantsEntryText:
-	.string "If CLAIR allows it, her grand-\n"
-	.string "father--our MASTER--will also.\p"
-	.string "You may enter.$"
+	.string "既然小椿允许了，她的祖父--也就\n"
+	.string "是我们的长老想必也是。\p"
+	.string "你可以进去了。$"
 
 BlackBeltText_VoicesInMyHead:
-	.string "Arooo! Voices in my head!\p"
-	.string "Huh? I'm listening to my radio!$"
+	.string "哇啊--！脑子里有声音！\p"
+	.string "咦？原来是我在听收音机啊！$"
 
 BlackthornCooltrainerF1Text:
-	.string "Are you going to make your POKéMON\n"
-	.string "remember some moves?$"
+	.string "你是打算让你的宝可梦回忆起招式吗\n"
+	.string "？$"
 
 BlackthornYoungsterText:
-	.string "Dragon masters all come from the city\n"
-	.string "of BLACKTHORN.$"
+	.string "所有的龙属性大师，都是出自烟墨市\n"
+	.string "哦。$"
 
 BlackthornCity_MeetSantosText:
-	.string "SANTOS: …\p"
-	.string "I'm SANTOS of the weekday family.\p"
-	.string "Take a guess.$"
+	.string "土夫：......\p"
+	.string "我是星期兄弟姐妹里的土夫。\p"
+	.string "猜猜看是星期几......$"
 
 BlackthornCity_SantosGivesGiftText:
-	.string "You can have this…$"
+	.string "这个给你......$"
 
 BlackthornCity_SantosGaveGiftText:
-	.string "SANTOS: …\p"
-	.string "SPELL TAG…\p"
-	.string "GHOST-type moves get stronger…\p"
-	.string "It will frighten you…$"
+	.string "土夫：......\p"
+	.string "诅咒之符......\p"
+	.string "能提升幽灵属性招式的威力....\n"
+	.string "..\p"
+	.string "可别被吓到了......$"
 
 BlackthornCity_SantosSaturdayText:
-	.string "SANTOS: …\p"
-	.string "See you again on another Saturday…\p"
-	.string "I won't have any more gifts…$"
+	.string "土夫：......\p"
+	.string "等下个星期六再见吧......\p"
+	.string "不过我不会再送礼物了......$"
 
 BlackthornCity_SantosNopeText:
-	.string "SANTOS: No.$"
+	.string "土夫：不是。$"
 
 BlackthornCooltrainerF2Text:
-	.string "Wow, you came through the ICE PATH?\p"
-	.string "You must be a real hotshot trainer!$"
+	.string "哇，你是穿过冰之通路过来的吗？\p"
+	.string "那你一定是个身手不凡的训练家！$"
 
 BlackthornCitySignText:
-	.string "BLACKTHORN CITY\p"
-	.string "A Quiet Mountain Retreat$"
+	.string "烟墨市\p"
+	.string "群山环抱的静谧山居$"
 
 BlackthornGymSignText:
-	.string "BLACKTHORN CITY POKéMON GYM\n"
-	.string "LEADER: CLAIR\p"
-	.string "The Blessed User of Dragon POKéMON$"
+	.string "烟墨市宝可梦道馆馆主：小椿\p"
+	.string "圣洁的龙属性宝可梦使者$"
 
 BlackthornCity_Text_MoveDeletersHouseSign:
-	.string "MOVE BROS' HOUSE$"
+	.string "招式专家之家$"
 
 BlackthornCity_Text_DragonDenSign:
-	.string "DRAGON'S DEN AHEAD$"
+	.string "前方 龙之穴$"
 

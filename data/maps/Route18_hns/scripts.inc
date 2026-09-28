@@ -34,28 +34,26 @@ Route18_EventScript_Sign::
 	end
 
 Route18_Text_BirdKeeperBorisSeen:
-	.string "If you're looking for POKéMON,\n"
-	.string "you have to look in the tall grass.$"
+	.string "要是想找宝可梦的话，就得去草丛里\n"
+	.string "找找看。$"
 
 Route18_Text_BirdKeeperBorisBeaten:
-	.string "Ayieee!$"
+	.string "哎呀--！$"
 
 Route18_Text_BirdKeeperBorisAfterBattle:
-	.string "Since you're so strong, it must be\n"
-	.string "fun to battle.$"
+	.string "你这么强，对战起来一定很有意思吧\n"
+	.string "。$"
 
 Route18_Text_BirdKeeperBobSeen:
-	.string "CYCLING ROAD is a quick shortcut\n"
-	.string "to CELADON.$"
+	.string "走自行车道是去玉虹市的捷径。$"
 
 Route18_Text_BirdKeeperBobBeaten:
-	.string "…Whew!$"
+	.string "......呼！$"
 
 Route18_Text_BirdKeeperBobAfterBattle:
-	.string "If you don't have a BICYCLE,\n"
-	.string "you're not allowed to use the\l"
-	.string "shortcut.$"
+	.string "要是没有自行车的话，是不准走这条\n"
+	.string "捷径的。$"
 
 Route18_Text_Sign:
-	.string "ROUTE 18\p"
-	.string "CELADON CITY - FUCHSIA CITY$"
+	.string "18号道路\p"
+	.string "玉虹市 - 浅红市$"

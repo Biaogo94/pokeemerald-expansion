@@ -60,93 +60,90 @@ SaffronCity_Gym_EventScript_Sabrina_Defeated::
 	end
 
 SaffronCity_Gym_Text_SabrinaIntro:
-	.string "SABRINA: I knew you were coming…\p"
-	.string "Three years ago I had a vision\n"
-	.string "of your arrival.\p"
-	.string "You're after my BADGE.\p"
-	.string "I don't enjoy battling, but it's\n"
-	.string "my duty as a LEADER to confer\l"
-	.string "BADGES on anyone who has proven\l"
-	.string "him- or herself worthy.\p"
-	.string "Since you wish it, I will show\n"
-	.string "you my psychic powers!$"
+	.string "娜姿：我知道你会来......\p"
+	.string "早在三年前，我就预见到了你的到来\n"
+	.string "。\p"
+	.string "你是为了得到我的徽章吧。\p"
+	.string "我并不喜欢对战，但作为馆主，把徽\n"
+	.string "章授予证明了自身实力的挑战者是我\l"
+	.string "的职责所在。\p"
+	.string "既然这是你的愿望，那就让你见识一\n"
+	.string "下我的超能力吧！$"
 
 SaffronCity_Gym_Text_SabrinaWinLoss:
-	.string "SABRINA: Your power…\p"
-	.string "It far exceeds what I foresaw…\p"
-	.string "Maybe it isn't possible to fully\n"
-	.string "predict what the future holds…\p"
-	.string "OK, you win. You earned yourself\n"
-	.string "MARSHBADGE.$"
+	.string "娜姿：你的力量......\p"
+	.string "远远超出了我的预见......\p"
+	.string "也许，要彻底看透未来是不可能的吧\n"
+	.string "......\p"
+	.string "好吧，你赢了。这是你应得的金黄徽\n"
+	.string "章。$"
 
 SaffronCity_Gym_Text_ReceivedMarshBadge:
-	.string "{PLAYER} received MARSHBADGE.$"
+	.string "{PLAYER}获得了金黄徽章！$"
 
 SaffronCity_Gym_Text_MarshBadgeInfo:
-	.string "SABRINA: MARSHBADGE draws out\n"
-	.string "your subliminal powers…\p"
-	.string "Although I failed to accurately\n"
-	.string "predict your power, this much I\l"
-	.string "know to be true.\p"
-	.string "You will become a celebrated and\n"
-	.string "beloved CHAMPION!$"
+	.string "娜姿：金黄徽章能激发出你的潜在能\n"
+	.string "力......\p"
+	.string "虽然我没能准确预见出你的力量，但\n"
+	.string "唯有这一点我深信不疑。\p"
+	.string "你定会成为一位受人爱戴的顶尖冠军\n"
+	.string "！$"
 
 SaffronCity_Gym_Text_Sabrina_GiveTM:
-	.string "Here, take this as well.$"
+	.string "来，把这个也收下吧。$"
 
 SaffronCity_Gym_Text_Sabrina_ExplainTM:
-	.string "It holds SKILL SWAP.\p"
-	.string "It can take your opponents' abilities\n"
-	.string "away from them and give them your own.\p"
-	.string "Use it wisely...$"
+	.string "里面记录着特性互换。\p"
+	.string "它能将对手的特性夺走，并与自己的\n"
+	.string "特性进行交换。\p"
+	.string "要好好运用它......$"
 
 SaffronCity_Gym_Text_SabrinaPostBattle:
-	.string "SABRINA: Your love for your\n"
-	.string "POKéMON overwhelmed my psychic\l"
-	.string "power…\p"
-	.string "The power of love, I think, is\n"
-	.string "also a kind of psychic power…$"
+	.string "娜姿：你对宝可梦的爱，压倒了我的\n"
+	.string "超能力......\p"
+	.string "我想，爱的力量也是一种超能力吧.\n"
+	.string ".....$"
 
 SaffronCity_Gym_Text_SabrinaRematch:
-	.string "SABRINA: Ah, the KANTO CHAMPION.\p"
-	.string "I sensed your return.\p"
-	.string "Your power has grown immensely.\p"
-	.string "Even now, I feel your aura.\p"
-	.string "Want to have a rematch with me?$"
+	.string "娜姿：啊，关都的冠军。\p"
+	.string "我感应到你的归来了。\p"
+	.string "你的力量大幅增长了呢。\p"
+	.string "即便现在，我也能感受到你的气场。\p"
+	.string "想和我再对战一场吗？$"
 
 SaffronCity_Gym_Text_SabrinaRematchDefeat:
-	.string "SABRINA: Your love for your\n"
-	.string "POKéMON again overwhelmed my\l"
-	.string "psychic power…$"
+	.string "娜姿：你对宝可梦的爱，再次压倒了\n"
+	.string "我的超能力......$"
 
 SaffronCity_Gym_Text_MediumRebeccaSeen:
-	.string "The power of all those you\n"
-	.string "defeated comes to me!$"
+	.string "被你打倒的那些人的力量，都汇聚到\n"
+	.string "我这里了！$"
 
 SaffronCity_Gym_Text_MediumRebeccaBeaten:
-	.string "Strong… Far too strong…$"
+	.string "好强......实在太强了...\n"
+	.string "...$"
 
 SaffronCity_Gym_Text_MediumRebeccaAfter:
-	.string "What is the source of your power?$"
+	.string "你力量的源泉究竟是什么？$"
 
 SaffronCity_Gym_Text_PsychicFranklinSeen:
-	.string "Psychic power is the power of\n"
-	.string "your soul.$"
+	.string "超能力就是心灵的力量。$"
 
 SaffronCity_Gym_Text_PsychicFranklinBeaten:
-	.string "Your soul has more power than\n"
-	.string "mine!$"
+	.string "你心灵的力量在我之上！$"
 
 SaffronCity_Gym_Text_PsychicFranklinAfter:
 	.string "You made your soul stronger, not\n"
 	.string "just your abilities.$"
 
 SaffronCity_Gym_Text_MediumDorisSeen:
-	.string "Fufufufu… I see it clearly.\p"
-	.string "I can see into your soul!$"
+	.string "呵呵呵呵......我看得很清楚\n"
+	.string "。\p"
+	.string "我能看透你的灵魂！$"
 
 SaffronCity_Gym_Text_MediumDorisBeaten:
-	.string "Though I read you, I still lost…$"
+	.string "虽然读懂了你的心思，我还是输了.\n"
+	.string ".....$"
 
 SaffronCity_Gym_Text_MediumDorisAfter:
 	.string "Darn! I forgot that I predicted I\n"
@@ -157,7 +154,7 @@ SaffronCity_Gym_Text_PsychicJaredSeen:
 	.string "once this city's GYM.$"
 
 SaffronCity_Gym_Text_PsychicJaredBeaten:
-	.string "I was no match…$"
+	.string "我完全不是对手......$"
 
 SaffronCity_Gym_Text_PsychicJaredAfter:
 	.string "KARATE KING, the master of the\n"
@@ -174,7 +171,7 @@ SaffronCity_Gym_Text_GymGuideIntro:
 	.string "Good luck!$"
 
 SaffronCity_Gym_Text_GymGuideWin:
-	.string "That was another fantastic battle!$"
+	.string "刚才那场对战也很精彩啊！$"
 
 SaffronCity_Gym_EventScript_GymStatue::
 	lockall

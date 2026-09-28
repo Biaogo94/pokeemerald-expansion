@@ -46,8 +46,7 @@ Text_BodySlamTaught::
 	.string "啪啪啪$"
 
 FourIsland_House1_Text_FatMan::
-	.string "それ　ぼよーん！\n"
-	.string "おまえ　おもいなあー！$"
+	.string "看招，啵呦--！你可真沉啊--！$"
 
 FourIsland_PokemonCenter_1F_Text_RareIceMonsInCave::
 	.string "在那个洞穴里住着一只稀有的冰属性\n"

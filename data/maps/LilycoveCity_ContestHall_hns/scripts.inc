@@ -311,148 +311,142 @@ LilycoveCity_ContestHall_EventScript_SmartStageSign_hns::
 	end
 
 LilycoveCity_ContestHall_Text_TodayWonSmartnessContest_hns:
-	.string "This POKéMON won the BEAUTY CONTEST\n"
-	.string "here before.\p"
-	.string "Well, guess what? Today, I made it\n"
-	.string "win a SMARTNESS CONTEST!\p"
-	.string "My abilities scare even me…$"
+	.string "这只宝可梦之前在这里拿过美丽大赛\n"
+	.string "的冠军。\p"
+	.string "你猜怎么着？今天我又让它赢下了聪\n"
+	.string "明大赛！\p"
+	.string "我连自己的才能都感到害怕了...\n"
+	.string "...$"
 
 LilycoveCity_ContestHall_Text_EnteredBunchOfContests_hns:
-	.string "I've entered a bunch of CONTESTS,\n"
-	.string "so I'm seeing how things work.\p"
-	.string "If you're in a COOLNESS CONTEST,\n"
-	.string "cool moves go over as appeals.\p"
-	.string "But smart moves and cute moves\n"
-	.string "don't go over well, for instance.$"
+	.string "我参加过很多次华丽大赛，所以差不\n"
+	.string "多摸清门道了。\p"
+	.string "比如在帅气大赛中，帅气的招式就能\n"
+	.string "获得热烈反响。\p"
+	.string "但要是用聪明或可爱的招式，反响就\n"
+	.string "不会太好了。$"
 
 LilycoveCity_ContestHall_Text_ManWhoWonEarlierHadPokeblocks_hns:
-	.string "That young man who won earlier had\n"
-	.string "a whole bunch of different {POKEBLOCK}S.\p"
-	.string "Can you win if you had that many\n"
-	.string "of those things?$"
+	.string "刚才获胜的那个小伙子有好多不同种\n"
+	.string "类的{POKEBLOCK}呢。\p"
+	.string "只要拥有那么多，就能获胜吗？$"
 
 LilycoveCity_ContestHall_Text_IsntThisPlaceHumongous_hns:
-	.string "Whoa, isn't this place humongous!\p"
-	.string "The tension in the air… It's not\n"
-	.string "like a CONTEST hall in the sticks.$"
+	.string "哇，这地方也太大了吧！\p"
+	.string "空气中弥漫的紧张感......跟\n"
+	.string "乡下的华丽大赛会场完全不同。$"
 
 LilycoveCity_ContestHall_Text_GiveItBestSmartAppeal_hns:
-	.string "MC: Okay, SMART POKéMON and their\n"
-	.string "TRAINERS, are you ready?!\p"
-	.string "Give it your best showing!\n"
-	.string "Let's appeal!$"
+	.string "主持人：好啦，各位聪明的宝可梦和\n"
+	.string "训练家们，准备好了吗？！\p"
+	.string "发挥出你们最棒的实力吧！表演开始\n"
+	.string "！$"
 
 LilycoveCity_ContestHall_Text_AreYouEnjoyingThisContest_hns:
-	.string "JUDGE: Are you enjoying this CONTEST?\p"
-	.string "Come back with three friends, and\n"
-	.string "all of you may enter a CONTEST!$"
+	.string "评审：这次华丽大赛玩得开心吗？\p"
+	.string "叫上三个朋友一起来，大家就能一起\n"
+	.string "参加华丽大赛了哦！$"
 
 LilycoveCity_ContestHall_Text_EnteredWrongContest_hns:
-	.string "Ayayayay…\n"
-	.string "I entered the wrong CONTEST.\p"
-	.string "I entered this tough POKéMON in\n"
-	.string "the SMARTNESS CONTEST…\p"
-	.string "Come on, wow them with a smart-looking\n"
-	.string "ROCK SMASH.$"
+	.string "哎呀呀呀......我报错组别了\n"
+	.string "。\p"
+	.string "居然把这只擅长强壮的宝可梦报进了\n"
+	.string "聪明大赛......\p"
+	.string "上吧，用看起来很聪明的碎岩震撼全\n"
+	.string "场吧！$"
 
 LilycoveCity_ContestHall_Text_RaisedMonToBeSmart_hns:
-	.string "I've spent many a year, and all my\n"
-	.string "wisdom besides, raising this POKéMON\l"
-	.string "to be smart.\p"
-	.string "It won't be easily bested by some\n"
-	.string "young pup's POKéMON.\p"
-	.string "My dear wife, are you seeing this?$"
+	.string "我耗费了多年心血和全部智慧，才把\n"
+	.string "这只宝可梦培养得如此聪明。\p"
+	.string "它可不会轻易输给那些年轻毛头的宝\n"
+	.string "可梦。\p"
+	.string "老伴啊，你看到了吗？$"
 
 LilycoveCity_ContestHall_Text_IfMonPullsSmartMoveNext_hns:
-	.string "There it is!\p"
-	.string "If my POKéMON pulls a smart move next,\n"
-	.string "the audience's excitement will peak!$"
+	.string "机会来了！\p"
+	.string "如果我的宝可梦接下来用出聪明的招\n"
+	.string "式，全场观众的热情就会达到最高潮\l"
+	.string "！$"
 
 LilycoveCity_ContestHall_Text_DontAppreciateCuteLeechLife_hns:
-	.string "Oh, dear, no!\p"
-	.string "My darling ZUBAT's LEECH LIFE is so\n"
-	.string "cute I kept using it over and over!\p"
-	.string "But these mean people don't appreciate\n"
-	.string "it at all!$"
+	.string "哎呀，怎么这样！\p"
+	.string "我家宝贝超音蝠的吸血那么可爱，所\n"
+	.string "以我才连续用了好几次嘛！\p"
+	.string "这些不解风情的人完全不懂得欣赏！$"
 
 LilycoveCity_ContestHall_Text_YoureBeautifulGrandpa_hns:
-	.string "Kiyaaah! You're beautiful, Grandpa!$"
+	.string "呀啊--！爷爷好美啊！$"
 
 LilycoveCity_ContestHall_Text_AllSeemToUseDifferentMoves_hns:
-	.string "Even when TRAINERS enter the same\n"
-	.string "kind of POKéMON, they all seem to use\l"
-	.string "different moves for appeals.\p"
-	.string "It's just like the way people have\n"
-	.string "different styles for battling.$"
+	.string "即使训练家派出了同一种宝可梦，表\n"
+	.string "演时使用的招式似乎也各不相同呢。\p"
+	.string "就像每个人都有不同的对战风格一样\n"
+	.string "。$"
 
 LilycoveCity_ContestHall_Text_PokemonSmarterThanTrainers_hns:
-	.string "I think the POKéMON look smarter\n"
-	.string "than their TRAINERS. By a lot.$"
+	.string "我觉得那些宝可梦看起来比它们的训\n"
+	.string "练家聪明多了，而且是聪明得多。$"
 
 LilycoveCity_ContestHall_Text_StillLoveSmartnessContests_hns:
-	.string "When all's said and done, I still love\n"
-	.string "SMARTNESS CONTESTS.\p"
-	.string "That intellectual green color…\n"
-	.string "It's so… So… Cool.$"
+	.string "说到底，我还是最喜欢聪明大赛。\p"
+	.string "那充满知性的绿色......真是\n"
+	.string "太......太帅气了。$"
 
 LilycoveCity_ContestHall_Text_AreYouEnteringBeautyContest_hns:
-	.string "MC: Are you entering the BEAUTY\n"
-	.string "CONTEST, too? Good luck!$"
+	.string "主持人：你也要参加美丽组的华丽大\n"
+	.string "赛吗？祝你好运！$"
 
 LilycoveCity_ContestHall_Text_EveryPokemonPristineBeauty_hns:
-	.string "JUDGE: Ah, every POKéMON here is\n"
-	.string "a model of pristine beauty!\p"
-	.string "Why, I almost forgot to score them!$"
+	.string "评委：啊，这里的每一只宝可梦都是\n"
+	.string "纯粹美丽的典范！\p"
+	.string "哎呀，我都陶醉得差点忘了打分了！$"
 
 LilycoveCity_ContestHall_Text_EyesWillBeGluedToMyBeauty_hns:
-	.string "A POKéMON this beautiful…\n"
-	.string "There isn't another one like it.\p"
-	.string "Everyone's eyes will be glued to\n"
-	.string "my beauty.$"
+	.string "这么美丽的宝可梦......绝找\n"
+	.string "不出第二只。\p"
+	.string "大家的目光都会被我的美丽所吸引。$"
 
 LilycoveCity_ContestHall_Text_OverdidGrooming_hns:
-	.string "Waaaah!\p"
-	.string "I brushed and groomed my POKéMON\n"
-	.string "carefully for this CONTEST…\p"
-	.string "But I overdid it…\n"
-	.string "My POKéMON's coat turned all scraggly…\p"
-	.string "What should I do?$"
+	.string "哇啊啊！\p"
+	.string "为了这次华丽大赛，我明明很用心地\n"
+	.string "给宝可梦梳理毛发了......\p"
+	.string "但我弄得太起劲了......它的\n"
+	.string "毛发全变得乱蓬蓬的了......\p"
+	.string "我该怎么办啊？$"
 
 LilycoveCity_ContestHall_Text_JudgeWontSeeAuroraBeam_hns:
-	.string "This AURORA BEAM is so dazzling,\n"
-	.string "the JUDGE won't be able to see it.\p"
-	.string "Uh, wait a second…\n"
-	.string "That'll be meaningless, then!$"
+	.string "这招极光束实在是太耀眼了，耀眼得\n"
+	.string "评委都看不清了。\p"
+	.string "呃，等等......这样一来不就\n"
+	.string "完全没有意义了吗！$"
 
 LilycoveCity_ContestHall_Text_PokemonLooksLikeYoungerMe_hns:
-	.string "This pretty POKéMON looks just like\n"
-	.string "me when I was younger.\p"
-	.string "Right when I said that, my husband\n"
-	.string "spewed the coffee he was drinking.\p"
-	.string "Did I say something funny?$"
+	.string "这只漂亮的宝可梦，长得就像我年轻\n"
+	.string "的时候一样呢。\p"
+	.string "结果我刚这么一说，我丈夫就把嘴里\n"
+	.string "的咖啡喷了出来。\p"
+	.string "我有说什么好笑的事吗？$"
 
 LilycoveCity_ContestHall_Text_WinBeautyContestMakesMeHappy_hns:
-	.string "You know, if I win at a BEAUTY\n"
-	.string "CONTEST, sure it makes me\l"
-	.string "happy. More than usual, anyway.$"
+	.string "要是能在美丽组的大赛中获胜，真的\n"
+	.string "会让人超级开心呢。不管怎样，都比\l"
+	.string "平时高兴多了。$"
 
 LilycoveCity_ContestHall_Text_GanderAtAllThosePrettyPokemon_hns:
-	.string "Wahahahah!\p"
-	.string "Will you take a gander at all those\n"
-	.string "pretty POKéMON!\l"
-	.string "I just love this sort of glitz!$"
+	.string "哇哈哈哈哈！\p"
+	.string "快瞧瞧那些漂亮的宝可梦！我就喜欢\n"
+	.string "这种光彩夺目的场面！$"
 
 LilycoveCity_ContestHall_Text_CantWinOnBeautyAlone_hns:
-	.string "You can't always win on just beauty\n"
-	.string "alone.\p"
-	.string "You have to groom your POKéMON so\n"
-	.string "it's nice and glossy like mine.$"
+	.string "光靠天生漂亮可赢不了比赛。\p"
+	.string "你必须好好打理你的宝可梦，让它像\n"
+	.string "我这只一样光鲜亮丽才行。$"
 
 LilycoveCity_ContestHall_Text_InTheMiddleOfContest_hns:
-	.string "MC: Uh-oh! Hello!\n"
-	.string "We're in the middle of a CONTEST!\p"
-	.string "Please enter at our registration\n"
-	.string "counter and come out, okay?$"
+	.string "主持人：哎呀！你好呀！我们正在举\n"
+	.string "行华丽大赛呢！\p"
+	.string "如果想登台，请先到接待处报名登记\n"
+	.string "再入场好吗？$"
 
 LilycoveCity_ContestHall_Text_SuchCharmingCuteAppeals_hns:
 	.string "JUDGE: Oh, such charming and cute\n"
@@ -461,53 +455,52 @@ LilycoveCity_ContestHall_Text_SuchCharmingCuteAppeals_hns:
 	.string "adorable WATER SPORT appeal!$"
 
 LilycoveCity_ContestHall_Text_MyAzurillWasDistracted_hns:
-	.string "Oh, no… My sweet AZURILL was\n"
-	.string "distracted by another POKéMON.$"
+	.string "哎呀，糟了......我可爱的露\n"
+	.string "力丽被别的宝可梦分散了注意力。$"
 
 LilycoveCity_ContestHall_Text_NeverWonBattleButContest_hns:
-	.string "My POKéMON has never won in a battle,\n"
-	.string "but put it in a CONTEST and look out!$"
+	.string "我的宝可梦在对战中从没赢过，但要\n"
+	.string "是来华丽大赛，可得小心它的厉害了\l"
+	.string "！$"
 
 LilycoveCity_ContestHall_Text_PetalDanceIsMarvel_hns:
-	.string "My POKéMON's PETAL DANCE is a marvel\n"
-	.string "of elegance.\p"
-	.string "I won't let anyone disturb its\n"
-	.string "performance.$"
+	.string "我的宝可梦跳出的花瓣舞，那可是优\n"
+	.string "雅的极致。\p"
+	.string "我绝不会让任何人打扰它的表演。$"
 
 LilycoveCity_ContestHall_Text_MyMonAppealSoMuchCuter_hns:
-	.string "Everyone's POKéMON are very cute.\p"
-	.string "However, if my POKéMON were to make\n"
-	.string "a cute appeal…\p"
-	.string "I'm sure that it would be so much \n"
-	.string "cuter than the others.$"
+	.string "大家的宝可梦都很可爱。\p"
+	.string "不过，要是我家宝可梦使出可爱表演\n"
+	.string "的话......\p"
+	.string "我相信绝对会比其他人可爱得多。$"
 
 LilycoveCity_ContestHall_Text_MyChildIsInContest_hns:
-	.string "My child is in this CONTEST.$"
+	.string "我的孩子正在参加这场比赛呢。$"
 
 LilycoveCity_ContestHall_Text_ComeOnDear_hns:
-	.string "Come on, dear. Go for it!\n"
-	.string "Your POKéMON is the best!$"
+	.string "加油啊，宝贝，冲呀！你的宝可梦是\n"
+	.string "最棒的！$"
 
 LilycoveCity_ContestHall_Text_ThatGirlThereIsCutest_hns:
-	.string "I think that girl over there is\n"
-	.string "the cutest of the lot.\p"
-	.string "What's that? They're judging\n"
-	.string "POKéMON by their looks?$"
+	.string "我觉得那边那个女孩子是所有人里最\n"
+	.string "可爱的。\p"
+	.string "你说什么？这里评审的是宝可梦的外\n"
+	.string "貌？$"
 
 LilycoveCity_ContestHall_Text_WantCuteMonOfMyOwn_hns:
-	.string "Ohh, seeing all these cute POKéMON,\n"
-	.string "they make we want to get my own!\p"
-	.string "I'm going to go catch some!$"
+	.string "哇......看着这些可爱的宝可\n"
+	.string "梦，我也好想拥有自己的宝可梦啊！\p"
+	.string "我这就去抓几只！$"
 
 LilycoveCity_ContestHall_Text_BeautyContestStage_hns:
-	.string "BEAUTY CONTEST STAGE\n"
-	.string "BE ALLURED BY BEAUTIFUL POKéMON!$"
+	.string "美丽组华丽大赛舞台为美丽的宝可梦\n"
+	.string "倾倒吧！$"
 
 LilycoveCity_ContestHall_Text_CuteContestStage_hns:
-	.string "CUTENESS CONTEST STAGE\n"
-	.string "BE CHARMED BY CUTE POKéMON!$"
+	.string "可爱组华丽大赛舞台沉醉在可爱宝可\n"
+	.string "梦的魅力中吧！$"
 
 LilycoveCity_ContestHall_Text_SmartContestStage_hns:
-	.string "SMARTNESS CONTEST STAGE\n"
-	.string "BE IMPRESSED BY SMART POKéMON!$"
+	.string "聪明组华丽大赛舞台感受聪明宝可梦\n"
+	.string "的过人智慧！$"
 

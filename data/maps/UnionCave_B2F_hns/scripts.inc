@@ -56,7 +56,7 @@ UnionCave_B2F_Text_CooltrainermNickSeen:
 	.string "What kind of person are you?$"
 
 UnionCave_B2F_Text_CooltrainermNickBeaten:
-	.string "You've got dazzling style!$"
+	.string "你的格调真是光彩夺目！$"
 
 UnionCave_B2F_Text_CooltrainermNickAfter:
 	.string "Your POKéMON style is stunning and\n"
@@ -64,10 +64,10 @@ UnionCave_B2F_Text_CooltrainermNickAfter:
 	.string "You'll just keep getting better!$"
 
 UnionCave_B2F_Text_CooltrainerfGwenSeen:
-	.string "I'm in training. Care for a round?$"
+	.string "我正在特训。要来过过招吗？$"
 
 UnionCave_B2F_Text_CooltrainerfGwenBeaten:
-	.string "Aww, no! You're too good for me.$"
+	.string "呜哇，不行！你实在太厉害了。$"
 
 UnionCave_B2F_Text_CooltrainerfGwenAfter:
 	.string "I'm going to train by myself until I\n"
@@ -79,7 +79,8 @@ UnionCave_B2F_Text_CooltrainerfEmmaSeen:
 	.string "That's what a real trainer does.$"
 
 UnionCave_B2F_Text_CooltrainerfEmmaBeaten:
-	.string "I'd rather pet my babies than this!$"
+	.string "与其做这个，我还不如去摸摸我的小\n"
+	.string "宝贝们！$"
 
 UnionCave_B2F_Text_CooltrainerfEmmaAfter:
 	.string "Just once a week, a POKéMON comes to\n"

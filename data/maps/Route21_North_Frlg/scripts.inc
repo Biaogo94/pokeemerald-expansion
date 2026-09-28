@@ -38,14 +38,13 @@ Route21_North_Text_SpencerPostBattle::
 
 @ "What's wrong with me swimming?"
 Route21_North_Text_CueBallIntro::
-	.string "おれだって　たまには\n"
-	.string "およぎに　くるぜ！$"
+	.string "大爷我偶尔也是会来游泳的！$"
 
 @ "Cheap shot!"
 Route21_North_Text_CueBallDefeat::
-	.string "ぐわわ！$"
+	.string "哇啊啊！$"
 
 @ "I look like what? A studded inner tube? Get lost!"
 Route21_North_Text_CueBallPostBattle::
-	.string "うきやすそう　だと？\n"
-	.string "うるせー　おおきな　おせわだッ！$"
+	.string "说我看着很容易浮起来？吵死啦，要\n"
+	.string "你多管闲事！$"

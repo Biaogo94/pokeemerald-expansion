@@ -267,15 +267,14 @@ PokemonLeague_ChampionsRoom_Text_Defeat::
 	.string "但我的时代已经结束了这不公平！$"
 
 PokemonLeague_ChampionsRoom_Text_Victory::
-	.string "はーはッ！\n"
-	.string "かった！　かった！　かった！\p"
-	.string "{PLAYER}に　まける　ような\n"
-	.string "おれさま　では　なーい！\p"
-	.string "ま！　ポケモンの\n"
-	.string "てんさい　{RIVAL}さま　あいてに\l"
-	.string "ここまで　よく　がんばった！\p"
-	.string "ほめて　つかわす！\n"
-	.string "はーッ！　はーはッはッ！$"
+	.string "哈-哈！赢了！赢了！本大爷赢了！\p"
+	.string "本大爷怎么可能会输给\n"
+	.string "{PLAYER}呢！\p"
+	.string "嘛！作为宝可梦天才{RIVAL}\n"
+	.string "大人的对手，你能撑到现在已经很努\l"
+	.string "力了！\p"
+	.string "就好好夸奖你一下吧！哈-！哈哈-\n"
+	.string "哈！$"
 
 PokemonLeague_ChampionsRoom_Text_PostBattle::
 	.string "为什么？我为什么会输？\p"

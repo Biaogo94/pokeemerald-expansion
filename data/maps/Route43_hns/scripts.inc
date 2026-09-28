@@ -81,67 +81,63 @@ Route43_EventScript_Item_Max_Ether::
 	end
 
 Route43_Text_PokemaniacBenSeen:
-    .string "I love POKéMON!\p"
-    .string "That's why I started--and why I'll\n"
-    .string "keep on collecting POKéMON!$"
+    .string "我最喜欢宝可梦了！\p"
+    .string "正因如此我才开始收集，而且以后也\n"
+    .string "会一直收集下去！$"
 
 Route43_Text_PokemaniacBenBeaten:
-    .string "How could you do this to me?$"
+    .string "你怎么能这样对我？！$"
 
 Route43_Text_PokemaniacBenAfter:
-    .string "What else do I like besides\n"
-    .string "POKéMON?\p"
-    .string "MARY on the radio. I bet she's\n"
-    .string "cute!$"
+    .string "除了宝可梦我还喜欢什么？\p"
+    .string "当然是收音机里的玛丽啦。她一定超\n"
+    .string "级可爱！$"
 
 Route43_Text_PokemaniacBrentSeen:
-    .string "Hey! Do you have any rare\n"
-    .string "POKéMON?$"
+    .string "嘿！你有稀有的宝可梦吗？$"
 
 Route43_Text_PokemaniacBrentBeaten:
-    .string "Oh, my poor POKéMON! Darlings!$"
+    .string "噢，我可怜的宝可梦！宝贝们！$"
 
 Route43_Text_PokemaniacBrentAfter:
-    .string "I'd be happy just to own a single\n"
-    .string "rare POKéMON.$"
+    .string "哪怕只要有一只稀有的宝可梦，我就\n"
+    .string "心满意足了。$"
 
 Route43_Text_BrentRegister:
-    .string "I'd be happy just to own a single\n"
-    .string "rare POKéMON.$"
+    .string "哪怕只要有一只稀有的宝可梦，我就\n"
+    .string "心满意足了。$"
 
 Route43_Text_BrentRematchIntro:
-    .string "Hey! Do you have any rare\n"
-    .string "POKéMON?$"
+    .string "嘿！你有稀有的宝可梦吗？$"
 
 Route43_Text_BrentRematchDefeat:
-    .string "Oh, my poor POKéMON! Darlings!$"
+    .string "噢，我可怜的宝可梦！宝贝们！$"
 
 Route43_Text_BrentPostRematch:
-    .string "I'd be happy just to own a single\n"
-    .string "rare POKéMON.$"
+    .string "哪怕只要有一只稀有的宝可梦，我就\n"
+    .string "心满意足了。$"
 
 Route43_Text_PokemaniacRonSeen:
-    .string "Would you get this?\p"
-    .string "Some {RIVAL} guy made fun of my\n"
-    .string "POKéMON!\p"
-    .string "Darn it! My POKéMON's great!$"
+    .string "你能相信吗？\p"
+    .string "有个叫{RIVAL}的家伙居然嘲\n"
+    .string "笑我的宝可梦！\p"
+    .string "可恶！我的宝可梦明明很棒！$"
 
 Route43_Text_PokemaniacRonBeaten:
-    .string "My NIDOKING did pretty right on!$"
+    .string "我的尼多王表现得棒极了！$"
 
 Route43_Text_PokemaniacRonAfter:
-    .string "It's okay for people to like\n"
-    .string "different types of POKéMON.\p"
-    .string "POKéMON isn't just about having the\n"
-    .string "most powerful one.$"
+    .string "每个人喜欢不同类型的宝可梦，这本\n"
+    .string "来就很正常。\p"
+    .string "宝可梦可不仅仅是看谁最厉害而已。$"
 
 Route43_Text_FisherMarvinSeen:
-    .string "I'm in a slump.\p"
-    .string "Maybe it's the gear I'm using.\p"
-    .string "Let's battle for a change of pace!$"
+    .string "我最近状态低迷。\p"
+    .string "也许是钓具的问题吧。\p"
+    .string "来对战一场换换心情吧！$"
 
 Route43_Text_FisherMarvinBeaten:
-    .string "I lost, but I feel better anyway.$"
+    .string "虽然输了，但我感觉心情好多啦。$"
 
 Route43_Text_FisherMarvinAfter:
     .string "KURT's LURE BALL is the best for\n"
@@ -154,45 +150,45 @@ Route43_Text_CamperSpencerSeen:
     .string "POKéMON--it's super-fun!$"
 
 Route43_Text_CamperSpencerBeaten:
-    .string "Losing isn't fun at all…$"
+    .string "输掉可一点都不好玩......$"
 
 Route43_Text_CamperSpencerAfter:
-    .string "What is going on at LAKE OF RAGE?\p"
-    .string "We were planning to camp there.$"
+    .string "愤怒之湖到底出什么事了？\p"
+    .string "我们本来还打算在那儿露营呢。$"
 
 Route43_Text_PicnickerTiffanySeen:
-    .string "Are you going to LAKE OF RAGE too?\p"
-    .string "Let's play for a little while!$"
+    .string "你也是要去愤怒之湖吗？\p"
+    .string "先来陪我玩一会儿吧！$"
 
 Route43_Text_PicnickerTiffanyBeaten:
-    .string "I played too much!$"
+    .string "玩得太过火啦！$"
 
 Route43_Text_PicnickerTiffanyWantsPicnic:
-    .string "I'm having a picnic with POKéMON.\p"
-    .string "Won't you join us?$"
+    .string "我正和宝可梦野餐呢。\p"
+    .string "你要不要也加入我们？$"
 
 Route43_Text_TiffanyRegister:
-    .string "I'm having a picnic with POKéMON.\p"
-    .string "Won't you join us?$"
+    .string "我正和宝可梦野餐呢。\p"
+    .string "你要不要也加入我们？$"
 
 Route43_Text_TiffanyRematchIntro:
-    .string "Are you going to LAKE OF RAGE too?\p"
-    .string "Let's play for a little while!$"
+    .string "你也是要去愤怒之湖吗？\p"
+    .string "先来陪我玩一会儿吧！$"
 
 Route43_Text_TiffanyRematchDefeat:
-    .string "I played too much!$"
+    .string "玩得太过火啦！$"
 
 Route43_Text_TiffanyPostRematch:
-    .string "I'm having a picnic with POKéMON.\p"
-    .string "Won't you join us?$"
+    .string "我正和宝可梦野餐呢。\p"
+    .string "你要不要也加入我们？$"
 
 Route43_Sign1:
-    .string "ROUTE 43\p"
-    .string "LAKE OF RAGE - MAHOGANY TOWN$"
+    .string "43号道路\p"
+    .string "愤怒之湖 - 卡吉镇$"
 
 Route43_Sign2:
-    .string "ROUTE 43\p"
-    .string "LAKE OF RAGE - MAHOGANY TOWN$"
+    .string "43号道路\p"
+    .string "愤怒之湖 - 卡吉镇$"
 
 Route43_TrainerTips:
     .string "TRAINER TIPS\p"

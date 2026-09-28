@@ -262,106 +262,96 @@ BattleFrontier_BattlePikeThreePathRoom_Movement_HintGiverReturnToPos_hns:
 	step_end
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom1_hns:
-	.string "You are currently in\n"
-	.string "the 1st room…$"
+	.string "你目前在第1间房间......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom3_hns:
-	.string "You are currently in\n"
-	.string "the 3rd room…$"
+	.string "你目前在第3间房间......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom5_hns:
-	.string "You are currently in\n"
-	.string "the 5th room…$"
+	.string "你目前在第5间房间......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom7_hns:
-	.string "You are currently in\n"
-	.string "the 7th room…$"
+	.string "你目前在第7间房间......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom9_hns:
-	.string "You are currently in\n"
-	.string "the 9th room…$"
+	.string "您目前在第9个房间......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom1_hns1_hns:
-	.string "You are currently in\n"
-	.string "the 11th room…$"
+	.string "您目前在第11个房间......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom1_hns3_hns:
-	.string "You are currently in\n"
-	.string "the 13th room…$"
+	.string "您目前在第13个房间......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_ContinueWithChallenge_hns:
-	.string "Will you continue with\n"
-	.string "your challenge?$"
+	.string "要继续进行挑战吗？$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SaveChallengeAndQuit_hns:
-	.string "Would you like to save your challenge\n"
-	.string "and quit the game for now?$"
+	.string "要保存挑战记录并暂时退出游戏吗？$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_RetireFromChallenge_hns:
-	.string "Do you wish to retire from your\n"
-	.string "Battle Choice challenge?$"
+	.string "您要放弃对战水管的挑战吗？$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_AwaitingReturnSaveBeforeResume_hns:
-	.string "We've been awaiting your return…\p"
-	.string "Before resuming your Battle Choice\n"
-	.string "challenge, let me save the game…$"
+	.string "一直在恭候您的归来......\p"
+	.string "在重新开始对战水管的挑战前，请先\n"
+	.string "记录......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_PleaseEnjoyChallenge_hns:
-	.string "Please do enjoy your Battle Choice\n"
-	.string "challenge…$"
+	.string "请尽情享受对战水管的挑战吧...\n"
+	.string "...$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SavingYourData_hns:
-	.string "I am saving your data…\n"
-	.string "A little time, please…$"
+	.string "正在保存数据......请稍候片\n"
+	.string "刻......$"
 
 BattleFrontier_BattlePike_Text_PathBlockedNoTurningBack_hns:
-	.string "The path is blocked!\n"
-	.string "And there is no turning back…$"
+	.string "道路被封住了！而且无法原路返回.\n"
+	.string ".....$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_FindingItDifficultToChoose_hns:
-	.string "I beg your pardon, but…\p"
-	.string "Are you perhaps finding it difficult\n"
-	.string "to choose your path?$"
+	.string "恕我冒昧，不过......\p"
+	.string "您是否在为该选择哪条道路而烦恼呢\n"
+	.string "？$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_ApologizeForImpertinence_hns:
-	.string "I see…\n"
-	.string "I apologize for my impertinence…$"
+	.string "这样啊......请原谅我的冒失\n"
+	.string "......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutRightPath_hns:
-	.string "Ah, let me see… There is something\n"
-	.string "about the path on the right…$"
+	.string "啊，让我想想......右边的那\n"
+	.string "条路好像有些不同寻常......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutCenterPath_hns:
-	.string "Ah, let me see… There is something\n"
-	.string "about the path in the center…$"
+	.string "啊，让我想想......中间的那\n"
+	.string "条路好像有些不同寻常......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutLeftPath_hns:
-	.string "Ah, let me see… There is something\n"
-	.string "about the path on the left…$"
+	.string "啊，让我想想......左边的那\n"
+	.string "条路好像有些不同寻常......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_AromaOfPokemon_hns:
-	.string "It seems to have the distinct aroma\n"
-	.string "of POKéMON wafting around it…$"
+	.string "那里似乎飘散着宝可梦特有的气味.\n"
+	.string ".....$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_PresenceOfPeople_hns:
-	.string "Is it… A TRAINER?\n"
-	.string "I sense the presence of people…$"
+	.string "难道是......训练家？我感觉\n"
+	.string "到了人的气息......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_HeardWhispering_hns:
-	.string "I seem to have heard something…\n"
-	.string "It may have been whispering…$"
+	.string "我好像听到了什么声音......\n"
+	.string "也许是窃窃私语声......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_WaveOfNostaliga_hns:
-	.string "For some odd reason, I felt a wave\n"
-	.string "of nostalgia coming from it…$"
+	.string "不知为何，我从中感受到了一种令人\n"
+	.string "怀念的气息......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_TerrifyingEvent_hns:
-	.string "I am sorry to say…\p"
-	.string "A terrifying event, yes, a horrible one,\n"
-	.string "is about to befall you…\p"
-	.string "I urge you to pay the utmost care\n"
-	.string "and prepare for the worst…$"
+	.string "很抱歉......\p"
+	.string "一件可怕的、非常可怕的事情即将降\n"
+	.string "临到您的头上......\p"
+	.string "请您务必格外小心，并做好最坏的心\n"
+	.string "理准备......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_DreadfulPresence_hns:
-	.string "From every path I sense a dreadful\n"
-	.string "presence…$"
+	.string "无论哪条路，我都感受到了可怕的气\n"
+	.string "息......$"

@@ -298,7 +298,7 @@ TrainerTower_Text_XMinYZSec::
 	.string "{STR_VAR_3}秒。$"
 
 TrainerTower_Lobby_Text_HereAreTheResults::
-	.string "せいせきひょうです$"
+	.string "这是成绩表。$"
 
 TrainerTower_Lobby_Text_NeedTwoMonsForDouble::
 	.string "这是一场二对二的战斗。\p"

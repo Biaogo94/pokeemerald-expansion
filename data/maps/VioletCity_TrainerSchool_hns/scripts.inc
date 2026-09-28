@@ -163,10 +163,10 @@ VioletCity_TrainerSchool_Text_Blackboard:
 	.string "be taught to be used.$"
 
 VioletCity_TrainerSchool_Text_Notebook:
-	.string "It's this kid's notebook…\p"
-	.string "Catch POKéMON using POKé BALLS.\p"
-	.string "Up to six can be in your party.\p"
-	.string "Keep reading?$"
+	.string "这是这个孩子的笔记本......\p"
+	.string "使用精灵球来捕捉宝可梦。\p"
+	.string "同行宝可梦最多可以携带6只。\p"
+	.string "要继续阅读吗？$"
 
 VioletCity_TrainerSchool_Text_Notebook1:
 	.string "Before throwing a POKé BALL,\n"

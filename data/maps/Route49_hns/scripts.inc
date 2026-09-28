@@ -34,39 +34,37 @@ Route49_EventScript_SkylarAfter::
 	end
 
 Route49_Text_SkylarDefeat:
-	.string "OKAY, you can have the PLATE.$"
+	.string "好吧，这块石板就归你了。$"
 
 Route49_Text_SkylarAfter:
-	.string "As cool as that PLATE is,\n"
-	.string "you earned it fair and square.\p"
-	.string "I'll just buy something at the gift\n"
-	.string "shop instead.$"
+	.string "虽然那块石板确实很酷，但这是你堂\n"
+	.string "堂正正赢去的。\p"
+	.string "我还是去纪念品商店买点别的吧。$"
 
 Route49_Text_SkylarBeforeBattle:
-	.string "What?\p"
-	.string "You want the PLATE?\n"
-	.string "It's an artifact imbued with an\l"
-	.string "ancient power with a connection\l"
-	.string "to the legendary POKéMON?!\p"
-	.string "Well now I'm definitely keeping it.\p"
-	.string "Fine.\p"
-	.string "You'll just have to battle me for it.$"
+	.string "什么？！\p"
+	.string "你想要这块石板？这可是蕴含着古代\n"
+	.string "力量、还与传说的宝可梦有关的文物\l"
+	.string "啊？！\p"
+	.string "那我可就更不能交出去了。\p"
+	.string "好吧。\p"
+	.string "想拿走就先在对战中赢过我！$"
 
 Route49_Text_SkylarBefore:
-	.string "When I was hitting the slopes, my\n"
-	.string "skis snagged on something.\p"
-	.string "It was this strange SKY-blue PLATE.\p"
-	.string "I think I'll hold onto it as a\n"
-	.string "souvenir!$"
+	.string "我在雪道上滑雪的时候，滑雪板被什\n"
+	.string "么东西给绊了一下。\p"
+	.string "结果就发现了这块奇怪的天蓝色石板\n"
+	.string "。\p"
+	.string "我打算留着它当纪念品呢！$"
 
 Route49_EventScript_SkierM::
 	msgbox Route49_Text_SkierM, MSGBOX_NPC
 	end
 
 Route49_Text_SkierM::
-	.string "Hey, watch out for my board!\p"
-	.string "What? You want to battle?\n"
-	.string "No way, these slopes are too wicked!$"
+	.string "喂，小心我的滑雪板！\p"
+	.string "什么？你想对战？才不要，这斜坡太\n"
+	.string "刺激了，我可停不下来！$"
 
 Route49_EventScripts_KimonoGirl::
     delay 10
@@ -114,14 +112,12 @@ Route49_KimonoGitl_Movement2:
 	step_end
 
 Route49_Text_KimonoGirl:
-    .string "You....\p"
-	.string "You must be {PLAYER}, correct?\n"
-    .string "I've heard all about you and\l"
-	.string "your deeds from my cousins\l"
-	.string "in ECRUTEAK CITY.\p"
-	.string "My sisters wish to meet with you.\l"
-	.string "If you find the time, please\n"
-	.string "seek us out in the town up ahead.$"
+    .string "你......\p"
+    .string "你就是{PLAYER}，对吧？我\n"
+    .string "从圆朱市的堂姐妹那里听说过关于你\l"
+    .string "的种种事迹。\p"
+    .string "我的姐妹们也想与你相见。如果有空\n"
+    .string "的话，请去前面的城镇找我们吧。$"
 
 Route49_EventScript_Item_StarDust::
     finditem ITEM_STARDUST
@@ -136,8 +132,7 @@ Route49_EventScript_Sign::
     end
 
 Route49_Text_Sign:
-    .string "The sign is faded.\n"
-    .string "ROUTE 49$"
+    .string "路牌上的字迹模糊不清。49号道路$"
 
 Route49_EventScript_ActivateOverqwil::
     lock

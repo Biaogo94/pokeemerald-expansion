@@ -232,125 +232,115 @@ BattleFrontier_OutsideEast_EventScript_Camper_hns::
 	end
 
 BattleFrontier_OutsideEast_Text_BattleTowerSign_hns:
-	.string "This is the BATTLE TOWER!\n"
-	.string "Keep the win streak as the toughest\l"
-	.string "TRAINER!$"
+	.string "这里是对战塔！以最强训练家为目标\n"
+	.string "保持连胜吧！$"
 
 BattleFrontier_OutsideEast_Text_BattlePalaceSign_hns:
-	.string "This is the BATTLE PALACE!\n"
-	.string "Keep your eyes on POKéMON battles!$"
+	.string "这里是对战宫殿！目不转睛地注视宝\n"
+	.string "可梦的战斗吧！$"
 
 BattleFrontier_OutsideEast_Text_BattleArenaSign_hns:
-	.string "This is the BATTLE ARENA!\n"
-	.string "Let the toughest teams gather!$"
+	.string "这里是对战竞技场！最强的队伍聚集\n"
+	.string "于此吧！$"
 
 BattleFrontier_OutsideEast_Text_BattlePyramidSign_hns:
-	.string "This is the BATTLE PYRAMID!\n"
-	.string "Advance through the Battle Quest!$"
+	.string "这里是对战金字塔！在对战探险中勇\n"
+	.string "往直前吧！$"
 
 BattleFrontier_OutsideEast_Text_RankingHallSign_hns:
-	.string "BATTLE FRONTIER RANKING HALL\n"
-	.string "Set your sights on new records!$"
+	.string "对战开拓区排名大厅瞄准新纪录发起\n"
+	.string "冲击吧！$"
 
 BattleFrontier_OutsideEast_Text_ExchangeCornerSign_hns:
-	.string "BATTLE POINT EXCHANGE SERVICE CORNER\n"
-	.string "Exchange your Battle Points!$"
+	.string "对战点数兑换处兑换你的对战点数吧\n"
+	.string "！$"
 
 BattleFrontier_OutsideEast_Text_BattleTowerFeelsSpecial_hns:
-	.string "Wow!\n"
-	.string "It's huge!\p"
-	.string "The BATTLE TOWER feels special.\n"
-	.string "It's different from the others.$"
+	.string "哇！好大啊！\p"
+	.string "对战塔感觉格外特别呢。和其他设施\n"
+	.string "都不一样。$"
 
 BattleFrontier_OutsideEast_Text_ConquerLeagueAndFrontier_hns:
-	.string "My grand ambition is to conquer both\n"
-	.string "the BATTLE FRONTIER and the POKéMON\l"
-	.string "LEAGUE.\p"
-	.string "And if my dream comes true…\p"
-	.string "I… I'm going to ask MIMI next door\n"
-	.string "if she will be friends with me!$"
+	.string "我的宏伟抱负就是制霸对战开拓区和\n"
+	.string "宝可梦联盟。\p"
+	.string "如果我的梦想实现了......\p"
+	.string "我......我就去问隔壁的美美\n"
+	.string "愿不愿意和我做朋友！$"
 
 BattleFrontier_OutsideEast_Text_PyramidTooHarsh_hns:
-	.string "The BATTLE PYRAMID's too harsh!\n"
-	.string "I just can't make it to the top!\p"
-	.string "Since I'm out of options, maybe I can\n"
-	.string "climb the outside…$"
+	.string "对战金字塔太残酷了！我根本到不了\n"
+	.string "顶层！\p"
+	.string "既然已经无计可施了，也许我能从外\n"
+	.string "面爬上去......$"
 
 BattleFrontier_OutsideEast_Text_ThriveInDarkness_hns:
-	.string "I thrive in darkness…\n"
-	.string "Yes… What is worthy of me?\l"
-	.string "None other than the BATTLE PYRAMID…\p"
-	.string "What say you to wandering in darkness\n"
-	.string "and in utter and total desperation?$"
+	.string "我在黑暗中茁壮成长......是\n"
+	.string "的......有什么配得上我？非\l"
+	.string "对战金字塔莫属......\p"
+	.string "在彻头彻尾的绝望黑暗中漫步，你觉\n"
+	.string "得如何？$"
 
 BattleFrontier_OutsideEast_Text_PutTogetherUltimateTeam_hns:
-	.string "I didn't sleep for a week, but then\n"
-	.string "I put together the ultimate team!\p"
-	.string "I can't see myself losing, no joke.\n"
-	.string "We're storming the BATTLE ARENA!$"
+	.string "我一个星期没睡觉，但终于组建出了\n"
+	.string "究极队伍！\p"
+	.string "不夸张地说，我都不知道自己怎么输\n"
+	.string "。我们要横扫对战竞技场！$"
 
 BattleFrontier_OutsideEast_Text_DidScottBringYouHere_hns:
-	.string "Did SCOTT bring you here, too?\n"
-	.string "What is it with that guy?\p"
-	.string "It sounds like he really does know\n"
-	.string "how to spot talented TRAINERS, but…\p"
-	.string "I've never seen him battling in person\n"
-	.string "ever.$"
+	.string "也是亚希达带你来的吗？那家伙到底\n"
+	.string "是怎么回事？\p"
+	.string "虽然听上去他确实挺有发掘优秀训练\n"
+	.string "家的眼光，但是......\p"
+	.string "我从没亲眼见过他亲自对战过。$"
 
 BattleFrontier_OutsideEast_Text_BelieveInYouBuddy_hns:
-	.string "ZIGG!\n"
-	.string "I believe in you, little buddy!\p"
-	.string "I'll make my little ZIGG any favorite\n"
-	.string "tasty treats you like if you win!$"
+	.string "蛇蛇！我相信你，小搭档！\p"
+	.string "要是赢了，无论什么你爱吃的美味零\n"
+	.string "食，我都给你做！$"
 
 BattleFrontier_OutsideEast_Text_ZigzagoonLooksVacant_hns:
-	.string "ZIGZAGOON looks vacant…$"
+	.string "蛇纹熊一脸茫然......$"
 
 BattleFrontier_OutsideEast_Text_PeopleCallMeBusybody_hns:
-	.string "People call me a busybody,\n"
-	.string "but I can't help it.\p"
-	.string "Your hat's on crooked!\n"
-	.string "Oh, no, trash on the ground!\l"
-	.string "Oops, it's almost dinnertime!\p"
-	.string "I don't know if I can stand to just\n"
-	.string "watch at the BATTLE PALACE…$"
+	.string "人们都说我是个爱管闲事的人，但我\n"
+	.string "就是忍不住嘛。\p"
+	.string "你的帽子戴歪了！哎呀不行，地上有\n"
+	.string "垃圾！糟了，快到吃晚饭的时间了！\p"
+	.string "在对战宫殿只能在旁边看着，我都不\n"
+	.string "知道自己忍不忍得住......$"
 
 BattleFrontier_OutsideEast_Text_OnceBeatGymLeader_hns:
-	.string "I may not look that impressive now,\n"
-	.string "but I once beat a GYM LEADER.\p"
-	.string "Who knows, maybe I should give it\n"
-	.string "another shot at glory.$"
+	.string "我现在看着可能不起眼，但我曾经打\n"
+	.string "败过道馆馆主哦。\p"
+	.string "谁知道呢，说不定我应该再去重温一\n"
+	.string "下当年的荣耀。$"
 
 BattleFrontier_OutsideEast_Text_FastOnBikeAndBattles_hns:
-	.string "I'm fast on my BIKE, and that goes for\n"
-	.string "the way I battle, too.\p"
-	.string "I win matches in the blink of\n"
-	.string "an eye!$"
+	.string "我骑自行车飞快，我的对战风格也是\n"
+	.string "如此。\p"
+	.string "我眨眼之间就能赢得比赛！$"
 
 BattleFrontier_OutsideEast_Text_BetterThanDaddyAtPokemon_hns:
-	.string "I'm better than my daddy\n"
-	.string "at POKéMON.$"
+	.string "我玩宝可梦比我爸爸还厉害！$"
 
 BattleFrontier_OutsideEast_Text_GoRackUpSomeWinsForDaddy_hns:
-	.string "Go on, my baby sweetie!\n"
-	.string "Go rack up some wins for Daddy!\p"
-	.string "You're just like your mother,\n"
-	.string "so you'll be dominating!$"
+	.string "去吧，我的小宝贝！去给爸爸多拿几\n"
+	.string "场胜利回来！\p"
+	.string "你跟你妈妈一模一样，绝对能所向披\n"
+	.string "靡！$"
 
 BattleFrontier_OutsideEast_Text_HeardPrettyGirlAtBattleArena_hns:
-	.string "It wasn't easy getting here,\n"
-	.string "but I'd heard about this knockout\l"
-	.string "pretty girl at the BATTLE ARENA.\p"
-	.string "Instead of her, do you know what\n"
-	.string "I found?\p"
-	.string "A whole teeming mob of sweaty,\n"
-	.string "stinky, and primitive martial artists!$"
+	.string "来到这里可不容易，因为我听说在对\n"
+	.string "战竞技场有个倾国倾城的大美女。\p"
+	.string "结果呢，你猜我看到了什么？\p"
+	.string "一大群浑身臭汗、粗鲁又野蛮的格斗\n"
+	.string "家！$"
 
 BattleFrontier_OutsideEast_Text_SometimesImportantOldManInThere_hns:
-	.string "I sometimes see this really important-\n"
-	.string "looking old man going in there.\p"
-	.string "He has these really awesome POKéMON.\n"
-	.string "He seems really nice, though.$"
+	.string "我有时会看到一个看起来很有威望的\n"
+	.string "老人走进去。\p"
+	.string "他的宝可梦非常厉害，不过他人看起\n"
+	.string "来非常和善。$"
 
 BattleFrontier_OutsideEast_Text_LegendOfBattlePyramid_hns:
 	.string "Do you know it?\n"
@@ -365,73 +355,64 @@ BattleFrontier_OutsideEast_Text_LegendOfBattlePyramid_hns:
 	.string "That, my friend, I can't say!$"
 
 BattleFrontier_OutsideEast_Text_GotWipedOut_hns:
-	.string "Man! Oh man!\n"
-	.string "I've never lost once before!\p"
-	.string "But I got wiped out with no saving\n"
-	.string "grace at all!\p"
-	.string "And then I'm told I don't have any\n"
-	.string "talent?! Man!$"
+	.string "天哪！天哪！我以前可是一次都没输\n"
+	.string "过！\p"
+	.string "结果被毫无悬念地全灭了！\p"
+	.string "然后居然还被说毫无才能？！搞什么\n"
+	.string "啊！$"
 
 BattleFrontier_OutsideEast_Text_ToughTrainerInBattleTower_hns:
-	.string "This guy ran into a horribly tough\n"
-	.string "TRAINER while he was on the BATTLE\l"
-	.string "TOWER challenge.\p"
-	.string "Now look at him…\p"
-	.string "You need to be cautious if you ever\n"
-	.string "decide to go to the BATTLE TOWER.$"
+	.string "这家伙在挑战对战塔的时候，遇到了\n"
+	.string "一个强得可怕的训练家。\p"
+	.string "现在看看他成了什么样......\p"
+	.string "如果你想去对战塔，可一定要小心谨\n"
+	.string "慎。$"
 
 BattleFrontier_OutsideEast_Text_EnoughBattlePointsForDoll_hns:
-	.string "Yes!\n"
-	.string "I've finally got enough Battle Points!\p"
-	.string "I guess I'll trade for another giant\n"
-	.string "plush DOLL!$"
+	.string "太好了！我的对战点数终于攒够了！\p"
+	.string "这就去再换一个超大的毛绒玩偶吧！$"
 
 BattleFrontier_OutsideEast_Text_LikeToHaveNameRecordedHere_hns:
-	.string "Oh, yeah, okay!\n"
-	.string "So this is the RANKING HALL!\p"
-	.string "I'd like to go down in history as\n"
-	.string "a super champ and have my name\l"
-	.string "recorded here for posterity.$"
+	.string "噢，原来如此！这里就是排行大厅啊\n"
+	.string "！\p"
+	.string "我想作为超级冠军名垂青史，把名字\n"
+	.string "永远刻在这里供后人瞻仰。$"
 
 BattleFrontier_OutsideEast_Text_CanDoAnythingWithYou_hns:
-	.string "With you by my side, I can do anything.$"
+	.string "只要有你在我身边，我什么都做得到\n"
+	.string "。$"
 
 BattleFrontier_OutsideEast_Text_PowerOfOurLoveWillOvercome_hns:
-	.string "Ooh, darling, you are so wonderful!\p"
-	.string "Ooh, I just can't wait anymore!\p"
-	.string "Let's go to a MULTI BATTLE ROOM\n"
-	.string "right this instant!\p"
-	.string "If we get together in the BATTLE SALON,\n"
-	.string "the power of our love will overcome\l"
-	.string "everyone we meet.\p"
-	.string "Why, before us, darling, everything\n"
-	.string "will topple like dominoes!$"
+	.string "噢，亲爱的，你太棒了！\p"
+	.string "噢，我真是一刻也等不及了！\p"
+	.string "我们马上就去多人对战室吧！\p"
+	.string "只要我们在对战沙龙携手，我们爱的\n"
+	.string "力量就能战胜遇到的所有人。\p"
+	.string "哎呀亲爱的，在我们面前，一切都会\n"
+	.string "像多米诺骨牌一样应声倒下！$"
 
 BattleFrontier_OutsideEast_Text_FrontierNotExclusivelyForToughTrainers_hns:
-	.string "The BATTLE FRONTIER isn't exclusively\n"
-	.string "for tough TRAINERS.\p"
-	.string "Many people with special abilities\n"
-	.string "have been invited, it seems.\p"
-	.string "That man SCOTT…\p"
-	.string "He may have built this place to serve\n"
-	.string "a bigger objective…$"
+	.string "对战开拓区可不只是为强大的训练家\n"
+	.string "准备的。\p"
+	.string "看起来，许多身怀绝技的人也都受到\n"
+	.string "了邀请。\p"
+	.string "亚希达那个人......\p"
+	.string "建造这个地方，也许是为了更大的目\n"
+	.string "标......$"
 
 BattleFrontier_OutsideEast_Text_OddTreeHereSeemsToWiggle_hns:
-	.string "Excuse me, young one.\n"
-	.string "Have you good eyesight?\p"
-	.string "There is an odd tree past here, and to\n"
-	.string "my tired eyes it seems to wiggle.$"
+	.string "打扰一下，年轻人。你的视力好吗？\p"
+	.string "前面有一棵奇怪的树，在我这双老花\n"
+	.string "眼里，它好像在晃动。$"
 
 BattleFrontier_OutsideEast_Text_OnceAnOddTreePastHere_hns:
-	.string "Excuse me, young one.\n"
-	.string "Have you a good memory?\p"
-	.string "I have this feeling there once was\n"
-	.string "an odd tree past here.$"
+	.string "打扰一下，年轻人。你的记性好吗？\p"
+	.string "我总觉得过去这里曾经有棵奇怪的树\n"
+	.string "。$"
 
 BattleFrontier_OutsideEast_Text_StickyMonWithLongTail_hns:
-	.string "I…\n"
-	.string "I saw it!\p"
-	.string "There was a sticky sort of a POKéMON\n"
-	.string "with a long tail up ahead!\p"
-	.string "It was hiding under a boulder, and\n"
-	.string "it kept staring at me!$"
+	.string "我......我看见了！\p"
+	.string "前面有一只黏糊糊的、长着长尾巴的\n"
+	.string "宝可梦！\p"
+	.string "它藏在一块巨石下面，还一直死死盯\n"
+	.string "着我看！$"

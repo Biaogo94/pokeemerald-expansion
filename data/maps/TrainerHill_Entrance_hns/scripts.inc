@@ -281,78 +281,73 @@ TrainerHill_Entrance_hns_Pokemart_Basic:
 	end
 
 TrainerHill_Entrance_hns_Text_HereToGetMoney:
-	.string "I'm here to make some cash!\n"
-	.string "Why? Because every time you reach\l"
-	.string "the top, you get a money reward!\p"
-	.string "I wonder when they'll finally open.\n"
-	.string "I can't wait!$"
+	.string "我是来赚点钱的！为什么？因为每次\n"
+	.string "登顶，都能拿到奖金啊！\p"
+	.string "不知道他们什么时候才开门。我都等\n"
+	.string "不及了！$"
 
 TrainerHill_Entrance_hns_Text_Money:
-	.string "Every time you reach the top,\n"
-	.string "you earn some money.\p"
-	.string "I heard you can win up to 1.000.000¥\n"
-	.string "if you finish within ten minutes!\p"
-	.string "But if it takes longer, the reward\n"
-	.string "will be reduced…$"
+	.string "每次登上顶楼，都能赚到一笔奖金。\p"
+	.string "我听说只要在10分钟以内通关，最\n"
+	.string "多能拿到1.000.000¥呢！\p"
+	.string "但要是花的时间太长，奖励就会减少\n"
+	.string "......$"
 
 TrainerHill_Entrance_hns_Text_StillGettingReady:
-	.string "This is the TRAINER HILL where\n"
-	.string "you may enjoy tag battles with many\l"
-	.string "TRAINERS.\p"
-	.string "Unfortunately, we're still getting\n"
-	.string "things ready. Please come back later!$"
+	.string "这里是训练家之丘，在这里可以体验\n"
+	.string "与众多训练家的双打对战。\p"
+	.string "不过很遗憾，我们目前还在筹备中。\n"
+	.string "请过段时间再来吧！$"
 
 TrainerHill_Entrance_hns_Text_WelcomeToTrainerHill:
-	.string "Welcome!\p"
-	.string "This is the TRAINER HILL where\n"
-	.string "you may enjoy tag battles with many\l"
-	.string "TRAINERS!$"
+	.string "欢迎光临！\p"
+	.string "这里是训练家之丘，在这里可以体验\n"
+	.string "与众多训练家的双打对战！$"
 
 TrainerHill_Entrance_hns_Text_SaveGameBeforeEnter:
-	.string "Is this your first visit here?\p"
-	.string "Before you enter, please save\n"
-	.string "your game.$"
+	.string "你是第一次来这里吗？\p"
+	.string "在进入之前，请先记录一下游戏进度\n"
+	.string "。$"
 
 TrainerHill_Entrance_hns_Text_TrainersUpToFloorX:
-	.string "Let's see…\n"
-	.string "The TRAINERS here now are…\p"
-	.string "Up to floor no. {STR_VAR_1}.$"
+	.string "我看看......现在驻留在此的\n"
+	.string "训练家......\p"
+	.string "分布到了第{STR_VAR_1}\n"
+	.string "层。$"
 
 TrainerHill_Entrance_hns_Text_TrainersInEveryRoom:
-	.string "Let's see…\n"
-	.string "The TRAINERS here now are…\p"
-	.string "There appear to be TRAINERS gathered\n"
-	.string "in every room.$"
+	.string "我看看......现在驻留在此的\n"
+	.string "训练家......\p"
+	.string "似乎每一个房间里都聚集了训练家。$"
 
 TrainerHill_Entrance_hns_Text_LikeToChallengeTrainers:
-	.string "Would you like to challenge the\n"
-	.string "waiting TRAINERS?$"
+	.string "你要向在此等候的训练家们发起挑战\n"
+	.string "吗？$"
 
 TrainerHill_Entrance_hns_Text_TimeProgessGetSetGo:
-	.string "I will time your progress.\n"
-	.string "Best of luck!\p"
-	.string "On your marks…\p"
-	.string "Get set…\p"
-	.string "Go!$"
+	.string "我将为你记录挑战用时。祝你好运！\p"
+	.string "各就各位......\p"
+	.string "预备......\p"
+	.string "跑！$"
 
 TrainerHill_Entrance_hns_Text_PleaseVisitUsAgain:
-	.string "Please do visit us again!$"
+	.string "欢迎下次再来！$"
 
 TrainerHill_Entrance_hns_Text_TooBadTremendousEffort:
-	.string "That was too bad.\p"
-	.string "I think you put in a tremendous\n"
-	.string "effort in your battling.\p"
-	.string "Please come back and try again!$"
+	.string "真可惜啊。\p"
+	.string "不过我觉得你的对战已经非常非常努\n"
+	.string "力了。\p"
+	.string "请随时回来再次挑战！$"
 
 TrainerHill_Entrance_hns_Text_HopeYouGiveItYourBest:
-	.string "I hope you give it your best.$"
+	.string "希望你能全力以赴。$"
 
 TrainerHill_Entrance_hns_Text_MovedReceptionHereForSwitch:
-	.string "When the TRAINERS switch places,\n"
-	.string "the movement can be hectic.\p"
-	.string "To avoid the stampede, we moved\n"
-	.string "the reception counter here.\p"
-	.string "I'm sorry for the inconvenience.$"
+	.string "当训练家们轮换位置时，场面可能会\n"
+	.string "相当混乱。\p"
+	.string "为了避免拥挤推搡，我们把接待处搬\n"
+	.string "到了这里。\p"
+	.string "给您带来不便，敬请谅解。$"
 
 TrainerHill_Entrance_hns_Text_ThankYouForPlaying:
 	.string "感谢您的游玩！$"
@@ -371,25 +366,23 @@ TrainerHill_Entrance_hns_Text_ExplainTrainerHill:
 	.string "be awarded.$"
 
 TrainerHill_Entrance_hns_Text_WhatSortOfTrainersAreAhead:
-	.string "Who knows what sort of TRAINERS\n"
-	.string "and POKéMON combos are ahead?\p"
-	.string "All I know is that I'll knock aside\n"
-	.string "anyone that stands in my way!$"
+	.string "天晓得前面会有怎样的训练家和宝可\n"
+	.string "梦组合在等着我们？\p"
+	.string "我只知道，谁敢挡我的路，我就把谁\n"
+	.string "打倒！$"
 
 TrainerHill_Entrance_hns_Text_CantWaitToTestTheWaters:
-	.string "I heard tough TRAINERS come to this\n"
-	.string "TRAINER HILL from all over.\p"
-	.string "I can't wait to test the waters!\p"
-	.string "I'll knock aside anyone that stands\n"
-	.string "in my way!$"
+	.string "听说来自各地的强力训练家都聚集到\n"
+	.string "了这座训练家之丘。\p"
+	.string "我都等不及想试探一下实力了！\p"
+	.string "谁敢挡我的路，我就把谁打倒！$"
 
 TrainerHill_Entrance_hns_Text_FriendsTryingToReachTimeBoardTop:
-	.string "Do you see the Time Board over there?\p"
-	.string "My friends and I are trying to see who\n"
-	.string "can reach the top in the least time.$"
+	.string "你看到那边的计时板了吗？\p"
+	.string "我和朋友们正在比赛，看谁能以最短\n"
+	.string "的时间登顶呢。$"
 
 TrainerHill_Entrance_hns_Text_DoYouKnowWhenTheyOpen:
-	.string "Do you know when they're opening\n"
-	.string "this place up?\p"
-	.string "I'm waiting here to be the first\n"
-	.string "challenger ever!$"
+	.string "你知道这里什么时候开门吗？\p"
+	.string "我一直守在这儿，就是想成为第一位\n"
+	.string "挑战者！$"

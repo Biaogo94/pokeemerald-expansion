@@ -209,64 +209,66 @@ SaffronCity_CopyCatsHouse_2F_EventScript_CopycatAfterDollReturned_Female::
 	end
 
 Copycat_Text_Male_1:
-	.string "{PLAYER}: Hi! Do you like POKéMON?\p"
-	.string "{PLAYER}: Uh, no, I just asked you.\p"
-	.string "{PLAYER}: Huh? You're strange!$"
+	.string "{PLAYER}：你好！你喜欢宝\n"
+	.string "可梦吗？\p"
+	.string "{PLAYER}：呃，不对，是我\n"
+	.string "在问你呢。\p"
+	.string "{PLAYER}：咦？你这人好奇\n"
+	.string "怪啊！$"
 
 Copycat_Text_QuickMimicking:
-	.string "COPYCAT: Hmm? Quit mimicking?\p"
-	.string "But that's my favorite hobby!$"
+	.string "模仿少女：嗯？叫我别模仿了？\p"
+	.string "可这是我最大的爱好呀！$"
 
 Copycat_Text_Male_2:
-	.string "{PLAYER}: Hi! I heard that you\n"
-	.string "lost your favorite POKé DOLL.\p"
-	.string "{PLAYER}: If I find it, you'll give\n"
-	.string "me a rail PASS?\p"
-	.string "{PLAYER}: I'll go find it for you.\p"
-	.string "You think you lost it when you\n"
-	.string "went to VERMILION CITY?$"
+	.string "{PLAYER}：你好！听说你弄\n"
+	.string "丢了最喜欢的宝可梦玩偶？\p"
+	.string "{PLAYER}：如果我能帮你找\n"
+	.string "到，你就会送我磁悬浮列车乘车票？\p"
+	.string "{PLAYER}：我去帮你找回来\n"
+	.string "吧。\p"
+	.string "你觉得是去枯叶市的时候弄丢的吗？$"
 
 Copycat_Text_Worried:
-	.string "COPYCAT: Pardon?\p"
-	.string "I shouldn't decide what you\n"
-	.string "should do?\p"
-	.string "But I'm really worried… What if\n"
-	.string "someone finds it?$"
+	.string "模仿少女：你说什么？\p"
+	.string "我不该擅自替你做决定？\p"
+	.string "可我真的好担心啊......万一\n"
+	.string "被别人捡走了怎么办？$"
 
 Copycat_Text_GiveDoll:
-	.string "COPYCAT: Yay! That's my CLEFAIRY\n"
-	.string "POKé DOLL!\p"
-	.string "See the tear where the right leg\n"
-	.string "is sewn on? That's proof!$"
+	.string "模仿少女：太棒啦！这是我的皮皮玩\n"
+	.string "偶！\p"
+	.string "看到右腿缝补过的痕迹了吗？这就是\n"
+	.string "证据！$"
 
 Copycat_Text_GivePass:
-	.string "OK. Here's the MAGNET TRAIN PASS\n"
-	.string "like I promised!$"
+	.string "好啦。按照约定，这磁悬浮列车乘车\n"
+	.string "票就给你吧！$"
 
 Copycat_Text_ExplainPass:
-	.string "COPYCAT: That's the PASS for the\n"
-	.string "MAGNET TRAIN.\p"
-	.string "The rail company man gave me\n"
-	.string "that when they tore down our old\l"
-	.string "house for the STATION.$"
+	.string "模仿少女：那是磁悬浮列车的乘车票\n"
+	.string "。\p"
+	.string "当时铁路公司要建车站，拆了我们家\n"
+	.string "老房子，那个叔叔给我的。$"
 
 Copycat_Text_Male_3:
-	.string "{PLAYER}: Hi! Thanks a lot for the\n"
-	.string "rail PASS!\p"
-	.string "{PLAYER}: Pardon?\p"
-	.string "{PLAYER}: Is it that fun to mimic\n"
-	.string "my every move?$"
+	.string "{PLAYER}：你好！非常感谢\n"
+	.string "你送我乘车票！\p"
+	.string "{PLAYER}：你说什么？\p"
+	.string "{PLAYER}：模仿我的一举一\n"
+	.string "动真的有那么好玩吗？$"
 
 Copycat_Text_ItsAScream:
-	.string "COPYCAT: You bet! It's a scream!$"
+	.string "模仿少女：那当然！简直太有意思了\n"
+	.string "！$"
 
 Copycat_Text_Dodrio1:
-	.string "DODRIO: Gii giii!$"
+	.string "嘟嘟利：唧唧--！$"
 
 Copycat_Text_Dodrio2:
-	.string "MIRROR, MIRROR ON THE WALL,\n"
-	.string "WHO'S THE FAIREST ONE OF ALL?$"
+	.string "魔镜，魔镜，挂在墙上，谁是世界上\n"
+	.string "最美的人？$"
 
 Copycat_Text_2FDoll:
-	.string "This is a rare POKéMON! Huh?\p"
-	.string "It's only a doll…$"
+	.string "这是稀有的宝可梦！咦？\p"
+	.string "原来只是个玩偶啊......$"

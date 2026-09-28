@@ -86,33 +86,32 @@ FuchsiaCity_Gym_EventScript_Janine_Defeated::
 	end
 
 FuchsiaCity_Gym_Text_Janine_DisappointYou:
-	.string "Fufufufu…\p"
-	.string "I'm sorry to disappoint you…\p"
-	.string "I'm only joking!\p"
-	.string "I'm the real deal!\p"
-	.string "JANINE of FUCHSIA GYM, that's me!$"
+	.string "呼呼呼呼......\p"
+	.string "让你失望了呢......\p"
+	.string "开玩笑的啦！\p"
+	.string "本姑娘才是货真价实的！\p"
+	.string "浅红道馆馆主阿杏，正是我！$"
 
 FuchsiaCity_Gym_Text_Janine_ToughOne:
-	.string "JANINE: You're a tough one. You\n"
-	.string "definitely won…\p"
-	.string "Here's SOULBADGE. Take it.$"
+	.string "阿杏：你真厉害。毫无疑问，是你赢\n"
+	.string "了......\p"
+	.string "这是灵魂徽章。拿去吧。$"
 
 FuchsiaCity_Gym_Text_ReceivedSoulBadge:
-	.string "{PLAYER} received SOULBADGE.$"
+	.string "{PLAYER}获得了灵魂徽章。$"
 
 FuchsiaCity_Gym_Text_Janine_GiveTM:
-	.string "JANINE: You're so tough! I have a\n"
-	.string "special gift!$"
+	.string "阿杏：你实力很强嘛！我有一份特别\n"
+	.string "的礼物送你！$"
 
 FuchsiaCity_Gym_Text_Janine_ExplainTM:
 	.string "It's POISON JAB, a powerful Poison-type\n"
 	.string "move that may poison its victim.$"
 
 FuchsiaCity_Gym_Text_Janine_ApplyMyself:
-	.string "JANINE: I'm going to really apply\n"
-	.string "myself and improve my skills.\p"
-	.string "I want to become better than both\n"
-	.string "Father and you!$"
+	.string "阿杏：我也要全力以赴，好好磨砺自\n"
+	.string "己的本领。\p"
+	.string "我要变得比父亲和你都更加强大！$"
 
 FuchsiaCity_Gym_EventScript_Alice_J::
 	lock
@@ -212,47 +211,47 @@ FuchsiaCity_Gym_EventScript_Barry::
 	end
 
 FuchsiaCity_Gym_Text_LassAlice_Before:
-	.string "Fufufu!\p"
-	.string "I'm JANINE, the GYM LEADER!\p"
-	.string "No, I'm not! Gotcha, sucker!$"
+	.string "呼呼呼！\p"
+	.string "我就是道馆馆主阿杏！\p"
+	.string "--骗你的啦！上当了吧，笨蛋！$"
 
 FuchsiaCity_Gym_Text_LassAlice_Beaten:
-	.string "I had you fooled…$"
+	.string "还以为把你骗到了呢......$"
 
 FuchsiaCity_Gym_Text_LassAlice_After:
-	.string "How will you distinguish our real\n"
-	.string "LEADER?$"
+	.string "你能分辨出哪位才是我们真正的馆主\n"
+	.string "吗？$"
 
 FuchsiaCity_Gym_Text_LassLinda_Before:
-	.string "Fooled you! Hahaha!$"
+	.string "上当了吧！哈哈哈！$"
 
 FuchsiaCity_Gym_Text_LassLinda_Beaten:
-	.string "Ooh… I lost… You're not weak…$"
+	.string "呜呜......输了......\n"
+	.string "你还挺有一手的嘛......$"
 
 FuchsiaCity_Gym_Text_LassLinda_After:
-	.string "Well? Wasn't my disguise perfect?$"
+	.string "怎么样？我的变装很完美吧？$"
 
 FuchsiaCity_Gym_Text_PicnickerCindy_Before:
-	.string "I'm JANINE!\p"
-	.string "How did you know I was real?\p"
-	.string "Let's battle!$"
+	.string "我就是阿杏！\p"
+	.string "你是怎么看穿我是本尊的？\p"
+	.string "来对战吧！$"
 
 FuchsiaCity_Gym_Text_PicnickerCindy_Beaten:
-	.string "Darn it! I wanted to win!$"
+	.string "可恶！真想赢一次啊！$"
 
 FuchsiaCity_Gym_Text_PicnickerCindy_After:
-	.string "You must be getting tired.$"
+	.string "你肯定已经晕头转向了吧。$"
 
 FuchsiaCity_Gym_Text_CamperBarry_Before:
-	.string "Wahahaha!\p"
-	.string "You betcha! I'm JANINE!$"
+	.string "哇哈哈哈！\p"
+	.string "被你猜中啦！我就是阿杏！$"
 
 FuchsiaCity_Gym_Text_CamperBarry_Beaten:
-	.string "My disguise was right on! Dang!$"
+	.string "我的变装明明惟妙惟肖！可恶！$"
 
 FuchsiaCity_Gym_Text_CamperBarry_After:
-	.string "Hey, you. Was my disguise cute or\n"
-	.string "what, huh?$"
+	.string "喂，你瞧。我扮得可不可爱，嗯？$"
 
 FuchsiaCity_Gym_EventScript_GymGuy::
 	goto_if_set FLAG_DEFEATED_FUCHSIA_GYM, FuchsiaCity_Gym_EventScript_GymGuyAfter
@@ -276,25 +275,22 @@ FuchsiaCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 FuchsiaCity_Gym_Text_GymStatue::
-    .string "FUCHSIA POKéMON GYM\n"
-    .string "LEADER: JANINE\p"
-	.string "WINNING TRAINERS:\n"
-	.string "BLUE, RED$"
+    .string "浅红宝可梦道馆馆主：阿杏\p"
+    .string "胜出训练家：青绿、赤红$"
 
 FuchsiaCity_Gym_Text_GymStatuePlayerWon::
-    .string "FUCHSIA POKéMON GYM\n"
-    .string "LEADER: JANINE\p"
-    .string "WINNING TRAINERS:\n"
-    .string "BLUE, RED, {PLAYER}$"
+    .string "浅红市宝可梦道馆馆主：阿杏\p"
+    .string "胜出训练家：青绿、赤红、\n"
+    .string "{PLAYER}$"
 
 FuchsiaCity_Gym_Text_Guide:
-	.string "Yo, CHAMP in making!\p"
-	.string "Whoops! Take a good look around you.\p"
-	.string "The trainers all look like the\n"
-	.string "LEADER, JANINE.\p"
-	.string "Which of them is the real JANINE?$"
+	.string "哟，未来的冠军！\p"
+	.string "哎呀！仔细看看你周围吧。\p"
+	.string "这里的训练家全都打扮得和馆主阿杏\n"
+	.string "一模一样。\p"
+	.string "到底哪一个才是真正的阿杏呢？$"
 
 FuchsiaCity_Gym_Text_GuideWin:
-	.string "That was a great battle, trainer\n"
-	.string "from JOHTO!$"
+	.string "刚才的对战真精彩，来自城都的训练\n"
+	.string "家！$"
 

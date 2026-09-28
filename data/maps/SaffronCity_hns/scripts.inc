@@ -7,7 +7,7 @@ SaffronCity_EventScript_CityEnter::
 	end
 
 SaffronCity_Text_BaobaName:
-	.string "BAOBA$"
+	.string "巴奥巴$"
 
 SaffronCity_Text_Baoba:
 	.string "WARDEN BAOBA: {PLAYER}!\p"
@@ -95,7 +95,7 @@ SaffronCity_EventScript_Elli::
 	end
 
 SaffronCity_Text_Elli:
-	.string "I love VULPIX! :D$"
+	.string "我最喜欢六尾了！:D$"
 
 SaffronCity_Text_Lass1:
 	.string "A little girl who is an expert at\n"
@@ -160,27 +160,21 @@ SaffronCity_Text_Lass2:
 	.string "too.$"
 
 SaffronCity_Text_Sign:
-	.string "SAFFRON CITY\p"
-	.string "Shining, Golden Land of Commerce$"
+	.string "金黄市\p"
+	.string "闪耀黄金光芒的商业之都$"
 
 SaffronCity_Text_GymSign:
-	.string "SAFFRON CITY\n"
-	.string "POKéMON GYM\l"
-	.string "LEADER: SABRINA\p"
-	.string "The Master of Psychic POKéMON!$"
+	.string "金黄市宝可梦道馆馆主：娜姿\p"
+	.string "超能力宝可梦的大师！$"
 
 SaffronCity_Text_FightingDojoSign:
-	.string "Everyone Welcome!\n"
-	.string "FIGHTING DOJO$"
+	.string "欢迎任何人挑战！格斗道场$"
 
 SaffronCity_Text_SilphCoSign:
-	.string "SILPH CO.\n"
-	.string "OFFICE BUILDING$"
+	.string "西尔佛公司办公大楼$"
 
 SaffronCity_Text_MrPsychicHouseSign:
-	.string "MR.PSYCHIC'S\n"
-	.string "HOUSE$"
+	.string "超能力大叔的家$"
 
 SaffronCity_Text_MagnetTrainStationSign:
-	.string "SAFFRON CITY\n"
-	.string "MAGNET TRAIN STATION$"
+	.string "金黄市磁浮列车站$"

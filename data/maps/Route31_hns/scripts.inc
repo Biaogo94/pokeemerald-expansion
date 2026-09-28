@@ -116,54 +116,52 @@ Route31_EventScript_ItemAntidote::
 	end
 
 Route31_Text_CooltrainerM:
-	.string "DARK CAVE…\p"
-	.string "If POKéMON could light it up,\n"
-	.string "I'd explore it.$"
+	.string "黑暗穴......\p"
+	.string "如果有宝可梦能把里面照亮，我也想\n"
+	.string "去探索一番呢。$"
 
 Route31_Text_BugCatcherWade1_Seen:
-	.string "I caught a bunch of POKéMON.\n"
-	.string "Let me battle with you!$"
+	.string "我抓了好多宝可梦。来和我对战吧！$"
 
 Route31_Text_BugCatcherWade1_Beaten:
-	.string "Awwwww…$"
+	.string "啊啊啊啊......$"
 
 Route31_Text_BugCatcherWade1_After:
-	.string "You can catch POKéMON even if\n"
-	.string "you have six with you.\p"
-	.string "If you catch one, it'll go to\n"
-	.string "your BOX automatically.$"
+	.string "就算随身带了6只宝可梦，也一样可\n"
+	.string "以捕捉新的宝可梦哦。\p"
+	.string "抓到的宝可梦会自动传送到你的盒子\n"
+	.string "里。$"
 
 Route31_Text_SleepyMan:
-	.string "… Hnuurg… Huh?\p"
-	.string "I walked too far today looking\n"
-	.string "for POKéMON.\p"
-	.string "My feet hurt and I'm sleepy…\p"
-	.string "If I were a wild POKéMON, I'd\n"
-	.string "be easy to catch…\p"
-	.string "…Zzzz…$"
+	.string "......呼噜噜......嗯\n"
+	.string "？\p"
+	.string "今天为了找宝可梦，走得太远了。\p"
+	.string "脚好酸，好困啊......\p"
+	.string "如果我是野生宝可梦，肯定一下就被\n"
+	.string "捉住了吧......\p"
+	.string "......呼--呼--....\n"
+	.string "..$"
 
 Route31_Text_SleepyManGotMail:
-	.string "…Zzzz… Huh?\p"
-	.string "What's that? You have MAIL\n"
-	.string "for me?$"
+	.string "......呼--......嗯\n"
+	.string "？\p"
+	.string "那是什么？你有邮件要给我吗？$"
 
 Route31_Text_SleepyManFail:
-	.string "…Zzzz…$"
+	.string "......呼--呼--....\n"
+	.string "..$"
 
 Route31_Text_HandOverMailMon:
-	.string "{PLAYER} handed over the\n"
-	.string "POKéMON holding the MAIL.$"
+	.string "{PLAYER}交出了携带邮件的\n"
+	.string "宝可梦。$"
 
 Route31_Text_ReadingMail:
-	.string "Let's see…\p"
-	.string "Thanks for bringing this to\n"
-	.string "me.\p"
-	.string "My friend's a good guy, and\n"
-	.string "you're swell too!\p"
-	.string "I'd like to do something good\n"
-	.string "in return too!\p"
-	.string "I know! I want you to have\n"
-	.string "this!$"
+	.string "我来看看......\p"
+	.string "谢谢你特地送来给我。\p"
+	.string "我朋友真是个大好人，你也是个热心\n"
+	.string "肠！\p"
+	.string "我也得好好报答你一下！\p"
+	.string "有了！这个就送给你吧！$"
 
 Route31_Text_DescribeRest:
 	.string "...Zzz...\p"
@@ -174,71 +172,58 @@ Route31_Text_DescribeRest:
 	.string "some HP.$"
 
 Route31_Text_WrongMail:
-	.string "This MAIL isn't for me.$"
+	.string "这封邮件不是给我的。$"
 
 Route31_Text_MissingMail:
-	.string "Why is this POKéMON so special?\p"
-	.string "It doesn't have any MAIL.$"
+	.string "这只宝可梦有什么特别的吗？\p"
+	.string "上面根本没有携带邮件呀。$"
 
 Route31_Text_DeclinedToHandOverMail:
-	.string "What? You don't want\n"
-	.string "anything?$"
+	.string "什么？你什么都不想要吗？$"
 
 Route31_Text_CantTakeLastMon:
-	.string "If I take that POKéMON from\n"
-	.string "you,\p"
-	.string "what are you going to use in\n"
-	.string "battle?$"
+	.string "如果我把那只宝可梦收下了，\p"
+	.string "你接下来要用什么去战斗呢？$"
 
 Route31_Text_Youngster:
-	.string "I found a good POKéMON in DARK\n"
-	.string "CAVE.\p"
-	.string "I'm going to raise it to take\n"
-	.string "on FALKNER.\p"
-	.string "He's the leader of VIOLET\n"
-	.string "CITY's GYM.$"
+	.string "我在黑暗穴抓到了一只很棒的宝可梦\n"
+	.string "。\p"
+	.string "我打算好好培育它，再去挑战阿速。\p"
+	.string "他就是桔梗道馆的馆主哦。$"
 
 Route31_Text_Sign:
-	.string "ROUTE 31\p"
-	.string "VIOLET CITY - CHERRYGROVE CITY$"
+	.string "31号道路\p"
+	.string "桔梗市 - 吉花市$"
 
 Route31_Text_WadeRegister:
-	.string "You're awesome! I like you!\p"
-	.string "I look for POKéMON here every\n"
-	.string "day.\p"
-	.string "When I'm in the grass, I find\n"
-	.string "all kinds of BERRIES.\p"
-	.string "If you'd like, I'll share\n"
-	.string "some.$"
+	.string "你真厉害！我很中意你！\p"
+	.string "我每天都在这里寻找宝可梦。\p"
+	.string "钻草丛的时候，总能发现各种各样的\n"
+	.string "树果。\p"
+	.string "如果你喜欢的话，我就分你一些吧。$"
 
 Route31_Text_WadeRematchIntro:
-	.string "I was waiting for you.\n"
-	.string "Let's battle!$"
+	.string "我可等你好久了。来对战吧！$"
 
 Route31_Text_WadeRematchDefeat:
-	.string "Awwwww…$"
+	.string "啊啊啊啊......$"
 
 Route31_Text_WadePostRematch:
-	.string "You'll hear from me as soon\n"
-	.string "as I find anything that you\l"
-	.string "might like.$"
+	.string "只要我一找到你可能会喜欢的东西，\n"
+	.string "就会立刻联系你！$"
 
 Route31_Text_WadeHasItem:
-	.string "Hey! I've been looking for\n"
-	.string "you!\p"
-	.string "I found something while I\n"
-	.string "was in the grass.\p"
-	.string "Here, you can have it!$"
+	.string "嘿！我正找你呢！\p"
+	.string "我在草丛里发现了好东西。\p"
+	.string "给你，拿去吧！$"
 
 Route31_Text_WadeGaveItem:
-	.string "I'll let you know if I find\n"
-	.string "anything else!$"
+	.string "如果再找到别的东西，我还会通知你\n"
+	.string "的！$"
 
 Route31_Text_WadeNoRoom:
-	.string "Hmm, looks like your BAG\n"
-	.string "is full.\p"
-	.string "Come back when you have\n"
-	.string "room!$"
+	.string "唔，看起来你的背包已经满了。\p"
+	.string "等整理出空位再来找我吧！$"
 
 Route31_Text_DarkCaveSign:
-	.string "DARK CAVE$"
+	.string "黑暗穴$"

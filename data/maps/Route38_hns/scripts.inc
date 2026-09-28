@@ -181,7 +181,7 @@ Route38_Text_SailorHarrySeen:
 	.string "POKéMON!$"
 
 Route38_Text_SailorHarryBeaten:
-	.string "Your skill is world class!$"
+	.string "你的实力堪称世界级！$"
 
 Route38_Text_SailorHarryAfter:
 	.string "All kinds of people around\n"
@@ -193,8 +193,7 @@ Route38_Text_BeautyOliviaSeen:
 	.string "and I are beautiful?$"
 
 Route38_Text_BeautyOliviaBeaten:
-	.string "We drink MOOMOO MILK every\n"
-	.string "day.$"
+	.string "我们每天都喝哞哞鲜奶呢。$"
 
 Route38_Text_BeautyOliviaAfter:
 	.string "MOOMOO MILK is good for\n"
@@ -203,8 +202,8 @@ Route38_Text_BeautyOliviaAfter:
 	.string "only sell one bottle at a time.$"
 
 Route38_Text_Sign:
-	.string "ROUTE 38\p"
-	.string "OLIVINE CITY - ECRUTEAK CITY$"
+	.string "38号道路\p"
+	.string "浅黄市 - 圆朱市$"
 
 Route38_Text_TrainerTips:
 	.string "TRAINER TIPS\p"
@@ -242,13 +241,12 @@ Route38_Text_DanaPostRematch:
 	.string "famous for its flavor.$"
 
 Route38_Text_DanaHasItem:
-	.string "Hey! I found something\n"
-	.string "interesting!\p"
-	.string "Here, you can have it!$"
+	.string "喂！我发现了好玩的东西！\p"
+	.string "诺，这个送给你！$"
 
 Route38_Text_DanaGaveItem:
-	.string "I'll let you know if I find\n"
-	.string "anything else!$"
+	.string "如果再找到别的东西，我还会通知你\n"
+	.string "的！$"
 
 Route38_Text_DanaNoRoom:
 	.string "Hmm, your BAG is full.\p"

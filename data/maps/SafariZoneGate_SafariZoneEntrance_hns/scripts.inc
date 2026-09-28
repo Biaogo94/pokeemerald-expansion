@@ -181,76 +181,66 @@ SafariZoneGate_SafariZoneEntrance_EventScript_Test::
 	end
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaBeachDone:
-	.string "Thank you, {PLAYER}!\n"
-	.string "Here, take this money to upgrade\l"
-	.string "your SAFARI LEVEL and show me an\l"
-	.string "exotic POKéMON from the BRUSH area\l"
-	.string "next!$"
+	.string "谢谢你，{PLAYER}！来，收\n"
+	.string "下这笔钱去提升你的狩猎地带等级，\l"
+	.string "接下来再去灌木区抓一只稀有的宝可\l"
+	.string "梦给我瞧瞧吧！$"
 	
 SafariZoneGate_SafariZoneEntrance_Text_BaobaBrushDone:
-	.string "Thank you, {PLAYER}!\n"
-	.string "Here, take this money to upgrade\l"
-	.string "your SAFARI LEVEL and show me an\l"
-	.string "exotic POKéMON from the MOUNTAIN\l"
-	.string "area next!$"
+	.string "谢谢你，{PLAYER}！来，收\n"
+	.string "下这笔钱去提升你的狩猎地带等级，\l"
+	.string "接下来再去山岳区抓一只稀有的宝可\l"
+	.string "梦给我瞧瞧吧！$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaMountainDone:
-	.string "Thank you, {PLAYER}!\n"
-	.string "Here, take this money to upgrade\l"
-	.string "your SAFARI LEVEL and show me an\l"
-	.string "exotic POKéMON from the CAVE area\l"
-	.string "next!$"
+	.string "谢谢你，{PLAYER}！来，收\n"
+	.string "下这笔钱去提升你的狩猎地带等级，\l"
+	.string "接下来再去洞窟区抓一只稀有的宝可\l"
+	.string "梦给我瞧瞧吧！$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaCaveDone:
-	.string "Thank you, {PLAYER}!\n"
-	.string "That's all I need to see.\p"
-	.string "Now that I know what DEVON is up\n"
-	.string "to, I'll be able to keep my SAFARI\l"
-	.string "competitive. Here, take this as a\l"
-	.string "reward for your troubles.$"
+	.string "谢谢你，{PLAYER}！我想看\n"
+	.string "的全都看到了。\p"
+	.string "既然知道了得文公司的打算，我就能\n"
+	.string "让我的狩猎地带保持竞争力了。来，\l"
+	.string "拿上这个当作酬谢吧。$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaWrong:
-	.string "That can't be right!$"
+	.string "这怎么可能！$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaBeach:
-	.string "Ah, {PLAYER}!\p"
-	.string "Did you bring an exotic POKéMON\n"
-	.string "from the BEACH area of the FUCHSIA\l"
-	.string "SAFARI ZONE to show me?$"
+	.string "啊，{PLAYER}！\p"
+	.string "你从浅红市狩猎地带的沙滩区带回稀\n"
+	.string "有的宝可梦给我看了吗？$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaBrush:
-	.string "Ah, {PLAYER}!\p"
-	.string "Did you bring an exotic POKéMON\n"
-	.string "from the BRUSH area of the FUCHSIA\l"
-	.string "SAFARI ZONE to show me?$"
+	.string "啊，{PLAYER}！\p"
+	.string "你从浅红市狩猎地带的灌木区带回稀\n"
+	.string "有的宝可梦给我看了吗？$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaMountain:
-	.string "Ah, {PLAYER}!\p"
-	.string "Did you bring an exotic POKéMON\n"
-	.string "from the MOUNTAIN area of the\l"
-	.string "FUCHSIA SAFARI ZONE to show me?$"
+	.string "啊，{PLAYER}！\p"
+	.string "你从浅红市狩猎地带的山岳区带回稀\n"
+	.string "有的宝可梦给我看了吗？$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaCave:
-	.string "Ah, {PLAYER}!\p"
-	.string "Did you bring an exotic POKéMON\n"
-	.string "from the CAVE area of the FUCHSIA\l"
-	.string "SAFARI ZONE to show me?$"
+	.string "啊，{PLAYER}！\p"
+	.string "你从浅红市狩猎地带的洞窟区带回稀\n"
+	.string "有的宝可梦给我看了吗？$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaDeclined:
-	.string "What will I do now?\n"
-	.string "We'll never keep up with DEVON!$"
+	.string "我现在该怎么办？我们根本赶不上得\n"
+	.string "文公司啊！$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaLastMon:
-	.string "I can't take your last POKéMON!$"
+	.string "我不能拿走你最后一只宝可梦！$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaDone:
-	.string "Ah, {PLAYER}!\p"
-	.string "Thanks to you, the SAFARI ZONE is\n"
-	.string "thriving!\p"
-	.string "Maybe I should name you OWNER of\n"
-	.string "the safari zone...\p"
-	.string "No, that would be ridiculous.\n"
-	.string "Ahahahaha.$"
+	.string "啊，{PLAYER}！\p"
+	.string "多亏了你，狩猎地带现在蒸蒸日上！\p"
+	.string "也许我该任命你为狩猎地带的园长.\n"
+	.string ".....\p"
+	.string "不，那也太荒唐了。哈哈哈哈！$"
 
 SafariZoneGate_SafariZoneEntrance_EventScript_EntranceCounterTrigger::
 	lockall
@@ -380,47 +370,39 @@ SafariZoneGate_SafariZoneEntrance_Movement_ReturnToTable:
 	step_end
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaWelcome:
-	.string "Hi {PLAYER}!\n"
-	.string "I've been waiting for you.\n"
-	.string "What do you think?\p"
-	.string "This is a brand new SAFARI ZONE\n"
-	.string "by the way...\p"
-	.string "And it's still expanding!\p"
-	.string "So far, we have two zones open\n"
-	.string "and 4 more on the way!\p"
-	.string "Enjoy the SAFARI ZONE! I'll\n"
-	.string "call you when the other zones\l"
-	.string "are ready!$"
+	.string "嗨，{PLAYER}！我等你很久\n"
+	.string "了。你觉得这里怎么样？\p"
+	.string "顺便说一句，这是个全新的狩猎地带\n"
+	.string "......\p"
+	.string "而且还在扩建中呢！\p"
+	.string "目前我们已经开放了两个区域，还有\n"
+	.string "另外4个区域正在筹备中！\p"
+	.string "尽情享受狩猎地带吧！等其他区域准\n"
+	.string "备就绪，我会给你打电话的！$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaPokeblocks:
-	.string "Oh! I almost forgot.\p"
-	.string "POKéBLOCKS are an essential\n"
-	.string "feature of my SAFARI ZONE, so\l"
-	.string "you'd better have one of these!$"
+	.string "哎呀！我差点忘了。\p"
+	.string "宝可方块是我这狩猎地带的一大特色\n"
+	.string "，也是不可或缺的，所以你最好带上\l"
+	.string "这个！$"
 
 SafariZoneGate_SafariZoneEntrance_Text_Baoba:
-	.string "Hi {PLAYER}!\p"
-	.string "How are you enjoying the SAFARI\n"
-	.string "ZONE?$"
+	.string "嗨，{PLAYER}！\p"
+	.string "狩猎地带玩得开心吗？$"
 
 SafariZoneGate_SafariZoneEntrance_Text_Boy:
-	.string "Do you know about POKéBLOCK\n"
-	.string "feeders?\p"
-	.string "Putting a POKéBLOCK in the feeder\n"
-	.string "brings out POKéMON with HIDDEN\l"
-	.string "ABILITIES!\p"
-	.string "The type of POKéBLOCK also affects\n"
-	.string "the POKéMON's nature.\p"
-	.string "And best of all, the type of POKéBLOCK\n"
-	.string "you use can attract POKéMON with\l"
-	.string "perfect IVs!\p"
-	.string "Those charts on the wall have all\n"
-	.string "the details.$"
+	.string "你知道宝可方块喂食器吗？\p"
+	.string "只要把宝可方块放进喂食器里，就能\n"
+	.string "引出拥有隐藏特性的宝可梦哦！\p"
+	.string "宝可方块的种类还会影响宝可梦的性\n"
+	.string "格。\p"
+	.string "更棒的是，根据使用的宝可方块种类\n"
+	.string "，还能吸引到满个体值的宝可梦呢！\p"
+	.string "墙上的图表写满了详细信息。$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BoyGiveCase:
-	.string "Here, you seem like you need this.$"
+	.string "来，这个你好像用得上。$"
 
 SafariZoneGate_SafariZoneEntrance_Text_Engineer:
-	.string "Sorry Trainer, this area is still\n"
-	.string "under construction. Check back\l"
-	.string "later!$"
+	.string "训练家，抱歉啦！这里还在施工中呢\n"
+	.string "。过一阵子再来看看吧！$"

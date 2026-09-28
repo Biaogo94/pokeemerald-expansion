@@ -22,8 +22,8 @@ TohjoFalls_GiovanniRoom_EventScript_Radio::
 	end
 
 TohjoFalls_GiovanniRoom_Text_RadioObject::
-	.string "A radio...\n"
-	.string "The battery is dead...$"
+	.string "是一台收音机......电池已经\n"
+	.string "没电了......$"
 
 TohjoFalls_GiovanniRoom_CancelScene::
 	setvar VAR_TOHJO_FALLS_GIOVANNI_STATE, 0
@@ -189,45 +189,37 @@ TohjoFalls_Movement_GiovanniLeave:
 	step_end
 
 TohjoFalls_GiovanniRoom_Text_Radio:
-	.string "RADIO: ... ...\n"
-	.string "Ahem, we are TEAM ROCKET!\l"
-	.string "After three years of preparation,\l"
-	.string "we have risen again from the ashes!\l"
-	.string "GIOVANNI! Can you hear us?\l"
-	.string "We did it!\l"
-	.string "Where is our boss?\l"
-	.string "Is he listening?$"
+	.string "收音机：...... .....\n"
+	.string ".咳咳，我们是火箭队！经过三年的\l"
+	.string "潜心蛰伏，我们如今浴火重生了！坂\l"
+	.string "木老大！您能听到吗？！我们成功了\l"
+	.string "！我们的首领在哪？他有在听吗？！$"
 
 TohjoFalls_GiovanniRoom_Text_GiovanniIntro:
-	.string "GIOVANNI: ...\p"
-	.string "I don't know why you have come\n"
-	.string "here.\p"
-	.string "Anyway, I have to warn you that\n"
-	.string "this is not a place for kids like\l"
-	.string "you.\p"
-	.string "You have a certain look.\n"
-	.string "It reminds me of the kid who stood\l"
-	.string "in front of me three years ago...\p"
-	.string "You have the same eyes...\p"
-	.string "...\p"
-	.string "I'm on my way to GOLDENROD CITY\n"
-	.string "to answer the call and join my team.\l"
-	.string "Are you going to get in my way?$"
+	.string "坂木：......\p"
+	.string "我不知道你为何会来这里。\p"
+	.string "不过，我必须警告你，这里可不是你\n"
+	.string "这种小鬼该来的地方。\p"
+	.string "你的眼神......让我想起了三\n"
+	.string "年前站在我面前的那个小鬼....\l"
+	.string "..\p"
+	.string "你们有着一模一样的眼神.....\n"
+	.string ".\p"
+	.string "......\p"
+	.string "我正准备前往满金市，回应呼唤并与\n"
+	.string "我的部下汇合。你打算挡我的路吗？$"
 
 TohjoFalls_GiovanniRoom_Text_GiovanniBeforeBattle:
-	.string "My old associates need me...\n"
-	.string "We will not repeat the failure of\l"
-	.string "three years ago!$"
+	.string "曾经的同伴正在需要我......\n"
+	.string "我们绝不会重蹈三年前的覆辙！$"
 
 TohjoFalls_GiovanniRoom_Text_GiovanniDefeat:
-	.string "What in the world are you?$"
+	.string "你这家伙到底是什么人？！$"
 
 TohjoFalls_GiovanniRoom_Text_GiovanniAfter:
-	.string "GIOVANNI: How is this possible...?\n"
-	.string "The past three years have been a\l"
-	.string "waste...?\p"
-	.string "How can a kid like you manage to\n"
-	.string "destroy my dream once again?\p"
-	.string "The precious dream of TEAM ROCKET\n"
-	.string "has become little more than an\l"
-	.string "illusion...$"
+	.string "坂木：怎么可能......？这三\n"
+	.string "年来全都白费了吗......？\p"
+	.string "为什么又会是你这种小鬼，再次粉碎\n"
+	.string "了我的梦想？！\p"
+	.string "火箭队珍视的梦想，如今竟已彻底沦\n"
+	.string "为幻影了吗......$"

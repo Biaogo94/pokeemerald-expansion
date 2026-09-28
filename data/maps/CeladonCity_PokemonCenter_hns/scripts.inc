@@ -31,9 +31,9 @@ CeladonCity_PokemonCenter1F_Text_Pharmacist:
 	.string "ago.$"
 
 Celadon_Text_Eusine1:
-	.string "EUSINE: Hi!\p"
-	.string "I'm back visiting my hometown.\p"
-	.string "It's been quite a while.$"
+	.string "米那君：嗨！\p"
+	.string "我回故乡来看看。\p"
+	.string "真是有段日子没回来了。$"
 
 Celadon_Text_EusineLeaves:
 	.string "{PLAYER}, have you heard?\p"

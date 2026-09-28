@@ -17,11 +17,11 @@ MahoganyTown_Gym_EventScript_Statue2::
 	end
 
 MahoganyTown_Gym_Text_GymStatue:
-	.string "MAHOGANY TOWN POKéMON GYM$"
+	.string "卡吉镇宝可梦道馆$"
 
 MahoganyTown_Gym_Text_GymStatueCertified:
-	.string "MAHOGANY TOWN POKéMON GYM\p"
-	.string "PRYCE'S CERTIFIED TRAINERS:\n"
+	.string "卡吉镇宝可梦道馆\p"
+	.string "柳伯认可的训练家：\n"
 	.string "{PLAYER}$"
 
 
@@ -123,27 +123,26 @@ MahoganyTown_Gym_EventScript_Pryce_Defeated::
 	end
 
 MahoganyTown_Gym_Text_PryceIntro:
-    .string "POKéMON have many experiences\n"
-    .string "in their lives, just like we do.\p"
-    .string "I, too, have seen and suffered\n"
-    .string "much in my life.\p"
-    .string "Since I am your elder, let me\n"
-    .string "show you what I mean.\p"
-    .string "I have been with POKéMON since\n"
-    .string "before you were born.\p"
-    .string "I do not lose easily.\p"
-    .string "I, PRYCE--the winter trainer--\n"
-    .string "shall demonstrate my power!$"
+    .string "宝可梦的一生中，也会和我们一样经\n"
+    .string "历各种各样的事情。\p"
+    .string "老夫在漫长的人生中，也经历过许多\n"
+    .string "风浪与磨难。\p"
+    .string "既然老夫年长于你，就让你见识一下\n"
+    .string "其中的深意吧。\p"
+    .string "早在你出生之前，老夫便一直与宝可\n"
+    .string "梦相伴至今。\p"
+    .string "老夫可不会轻易言败。\p"
+    .string "就由我冬之训练家--柳伯，来向你\n"
+    .string "展示我的实力！$"
 
 MahoganyTown_Gym_Text_PryceImpressed:
-    .string "Ah, I am impressed by your\n"
-    .string "prowess.\p"
-    .string "With your strong will, I know you\n"
-    .string "will overcome all life's obstacles.\p"
-    .string "You are worthy of this BADGE!$"
+    .string "嗯，你的精湛实力让老夫深感佩服。\p"
+    .string "凭借你那坚强的意志，定能跨越人生\n"
+    .string "中的所有阻碍。\p"
+    .string "这枚徽章非你莫属！$"
 
 MahoganyTown_Gym_Text_ReceivedBadge:
-    .string "{PLAYER} received GLACIERBADGE.$"
+    .string "{PLAYER}获得了冰之徽章！$"
 
 MahoganyTown_Gym_Text_GlacierBadgeSpeech:
     .string "That BADGE will raise the SPECIAL\n"
@@ -161,100 +160,93 @@ MahoganyTown_Gym_Text_HailSpeech:
     .string "of winter.$"
 
 MahoganyTown_Gym_Text_CherishPokemon:
-    .string "When the ice and snow melt,\n"
-    .string "spring arrives.\p"
-    .string "You and your POKéMON will be\n"
-    .string "together for many years to come.\p"
-    .string "Cherish your time together!$"
+    .string "当冰雪消融，春天就会来临。\p"
+    .string "你和你的宝可梦在未来的漫长岁月里\n"
+    .string "，也将一直相伴相随。\p"
+    .string "好好珍惜你们在一起的时光吧！$"
 
 MahoganyTown_Gym_Text_PryceRematch:
-    .string "Ah, JOHTO CHAMPION!\p"
-    .string "Your skills are indeed\n"
-    .string "remarkable.\p"
-    .string "I am impressed.\p"
-    .string "But even now, there is much to\n"
-    .string "learn from each other.\p"
-    .string "I, PRYCE--the winter trainer--\n"
-    .string "still have a few tricks left.\p"
-    .string "Want to have a rematch with me?$"
+    .string "啊，城都的冠军！\p"
+    .string "你的实力的确非同凡响。\p"
+    .string "令老夫深感钦佩。\p"
+    .string "不过即使到了现在，我们彼此之间也\n"
+    .string "仍有许多可以切磋学习的地方。\p"
+    .string "老夫柳伯--这位冬之训练家--可\n"
+    .string "还有几手绝活没亮出来呢。\p"
+    .string "要和老夫再战一场吗？$"
 
 MahoganyTown_Gym_Text_PryceRematchDefeat:
-    .string "Ah, yet again I'm impressed by\n"
-    .string "your prowess.\p"
-    .string "With your strong will, I know you\n"
-    .string "will overcome all life's obstacles.$"
+    .string "啊，老夫又一次被你的高超实力所折\n"
+    .string "服。\p"
+    .string "凭着你那坚强的意志，必定能克服人\n"
+    .string "生中的一切艰难险阻。$"
 
 MahoganyTown_Gym_Text_Guide:
-    .string "PRYCE is a veteran who has\n"
-    .string "trained POKéMON for some 50 years.\p"
-    .string "He's got a solid lineup of\n"
-    .string "POKéMON to cover whatever\l"
-    .string "you bring his way.\p"
-    .string "Fire is a good place to start,\n"
-    .string "but watch out for the rain!$"
+    .string "柳伯是位培育宝可梦长达50年之久\n"
+    .string "的泰斗级老将。\p"
+    .string "无论你派出怎样的宝可梦，他都有万\n"
+    .string "全的阵容来应对。\p"
+    .string "虽然火属性是不错的突破口，但千万\n"
+    .string "要当心下雨天哦！$"
 
 MahoganyTown_Gym_Text_GuideWin:
-    .string "PRYCE is something, but you're\n"
-    .string "something else!\p"
-    .string "That was a hot battle that\n"
-    .string "bridged the generation gap!$"
+    .string "柳伯实力非凡，但你更是技高一筹！\p"
+    .string "那场跨越世代代沟的对决，真是让人\n"
+    .string "热血沸腾啊！$"
 
 MahoganyTown_Gym_Text_BoarderRonaldSeen:
-    .string "I'll freeze your POKéMON,\n"
-    .string "so you can't do a thing!$"
+    .string "我要把你的宝可梦冻成冰块，让你动\n"
+    .string "弹不得！$"
 
 MahoganyTown_Gym_Text_BoarderRonaldBeaten:
-    .string "Darn. I couldn't do a thing.$"
+    .string "可恶，动弹不得的反而是我。$"
 
 MahoganyTown_Gym_Text_BoarderRonaldAfter:
-    .string "I think there's a move a\n"
-    .string "POKéMON can use while it's\l"
-    .string "frozen.$"
+    .string "我记得宝可梦就算被冻住了，好像也\n"
+    .string "有招式可以使用呢。$"
 
 MahoganyTown_Gym_Text_BoarderBradSeen:
-    .string "This GYM has a slippery floor.\p"
-    .string "It's fun, isn't it?\p"
-    .string "But hey--we're not playing\n"
-    .string "games here!$"
+    .string "这家道馆的地面很滑吧。\p"
+    .string "滑起来很过瘾，对不对？\p"
+    .string "不过听好了--我们可不是在闹着玩\n"
+    .string "的！$"
 
 MahoganyTown_Gym_Text_BoarderBradBeaten:
-    .string "Do you see how serious we are?$"
+    .string "见识到我们有多认真了吧？$"
 
 MahoganyTown_Gym_Text_BoarderBradAfter:
-    .string "This GYM is great.\n"
-    .string "I love boarding with my\l"
-    .string "POKéMON!$"
+    .string "这家道馆太棒了。我最喜欢和我的宝\n"
+    .string "可梦一起滑雪板了！$"
 
 MahoganyTown_Gym_Text_BoarderDouglasSeen:
-    .string "I know PRYCE's secret.$"
+    .string "我知道柳伯的秘密哦。$"
 
 MahoganyTown_Gym_Text_BoarderDouglasBeaten:
-    .string "OK. I'll tell you PRYCE's secret.$"
+    .string "好吧，我就把柳伯的秘密告诉你。$"
 
 MahoganyTown_Gym_Text_BoarderDouglasAfter:
-    .string "The secret behind PRYCE's power…\p"
-    .string "He meditates under a waterfall\n"
-    .string "daily to strengthen his mind\l"
-    .string "and body.$"
+    .string "柳伯强大的秘密就是......\p"
+    .string "他每天都会在瀑布下冥想，以此来锻\n"
+    .string "炼自己的身心。$"
 
 MahoganyTown_Gym_Text_SkierRoxanneSeen:
-    .string "To get to PRYCE, our GYM LEADER,\n"
-    .string "you need to think before you skate.$"
+    .string "想见到我们的道馆馆主柳伯，滑冰前\n"
+    .string "可得先动动脑筋。$"
 
 MahoganyTown_Gym_Text_SkierRoxanneBeaten:
-    .string "I wouldn't lose to you in skiing!$"
+    .string "要是比滑雪，我才不会输给你！$"
 
 MahoganyTown_Gym_Text_SkierRoxanneAfter:
-    .string "If you don't skate with precision,\n"
-    .string "you won't get far in this GYM.$"
+    .string "滑冰时如果不精准掌控方向，在这家\n"
+    .string "道馆可寸步难行哦。$"
 
 MahoganyTown_Gym_Text_SkierClarissaSeen:
-    .string "Check out my parallel turn!$"
+    .string "来见识一下我的平行转弯吧！$"
 
 MahoganyTown_Gym_Text_SkierClarissaBeaten:
-    .string "No! You made me wipe out!$"
+    .string "哇啊！你害我摔了个大跟头！$"
 
 MahoganyTown_Gym_Text_SkierClarissaAfter:
-    .string "I shouldn't have been bragging\n"
-    .string "about my skiing…$"
+    .string "我真不该吹嘘自己的滑雪技术...\n"
+    .string "...$"
 

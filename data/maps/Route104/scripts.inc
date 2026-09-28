@@ -1108,12 +1108,12 @@ Route104_Text_MayDefeat:
 	.string "呜哇！比想象中厉害得多……$"
 
 Route104_Text_MayPostBattle:
-	.string "MAY: I can tell you've gotten pretty\n"
-	.string "good with the way you handle POKéMON.\p"
-	.string "But instead of only making them\n"
-	.string "battle, you should be like MR. BRINEY.\p"
-	.string "It's important to become friends with\n"
-	.string "POKéMON, too.$"
+	.string "小遥：看得出来，你培育宝可梦的手\n"
+	.string "法已经相当熟练了呢。\p"
+	.string "不过，可不能光让它们去战斗，也要\n"
+	.string "向哈奇老人多多学习呀。\p"
+	.string "与宝可梦成为心灵相通的朋友也是非\n"
+	.string "常重要的哦！$"
 
 Route104_Text_BrendanWeShouldRegister:
 	.string "小悠：嘿，{PLAYER}！\p"
@@ -1123,8 +1123,8 @@ Route104_Text_BrendanWeShouldRegister:
 	.string "就能随时联系了。$"
 
 Route104_Text_RegisteredBrendan:
-	.string "{PLAYER} registered BRENDAN\n"
-	.string "in the POKéNAV.$"
+	.string "{PLAYER}将佑树登记到了宝\n"
+	.string "可梦领航员。$"
 
 Route104_Text_BrendanHowsYourPokedex:
 	.string "小悠：{PLAYER}，你的宝可\n"

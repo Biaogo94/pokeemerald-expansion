@@ -15,12 +15,14 @@ PewterCity_PokemonCenter_EventScript_BugCatcher::
 	end
 
 PewterCity_PokemonCenter1F_Text_Teacher:
-	.string "…Yeah, and the GYM in CINNABAR's gone.\p"
-	.string "I was really amazed.\p"
-	.string "…Yes? I'm on the phone. Go away!$"
+	.string "...对啊，而且红莲岛的道馆也没\n"
+	.string "了。\p"
+	.string "我当时真是惊呆了。\p"
+	.string "...嗯？我正在打电话呢。走开啦\n"
+	.string "！$"
 
 PewterCity_PokemonCenter1F_Text_Jigglypuff:
-	.string "JIGGLYPUFF: Puu pupuu.$"
+	.string "胖丁：波~波哩哩。$"
 
 PewterCity_PokemonCenter_EventScript_Mondo::
 	lock
@@ -48,29 +50,29 @@ PewterCity_PokemonCenter_EventScript_TradeCompleted::
 	end
 
 PewterCity_PokemonCenter_Text_WantToTrade:
-	.string "I've been traveling all over, looking\n"
-	.string "for a good {STR_VAR_1}.\p"
-	.string "Would you trade one for my\n"
-	.string "{STR_VAR_2}?$"
+	.string "我四处旅行，一直在寻找优秀的\n"
+	.string "{STR_VAR_1}。\p"
+	.string "你愿意用它来交换我的\n"
+	.string "{STR_VAR_2}吗？$"
 
 PewterCity_PokemonCenter_Text_TakeCare:
-	.string "Thanks a bunch!\n"
-	.string "Take good care of my {STR_VAR_1}!$"
+	.string "太感谢啦！要好好照顾我的\n"
+	.string "{STR_VAR_1}哦！$"
 
 PewterCity_PokemonCenter_Text_DeclineTrade:
-	.string "No? That's too bad…\n"
-	.string "I think you'd like my HAUNTER.$"
+	.string "不行吗？真遗憾......我觉得\n"
+	.string "你应该会喜欢我的鬼斯通呢。$"
 
 PewterCity_PokemonCenter_Text_NotRequestedMon:
-	.string "Hmm, that's not a {STR_VAR_1}.\n"
-	.string "That's not what I'm looking for.$"
+	.string "唔，这不是{STR_VAR_1}\n"
+	.string "啊。不是我要找的那种。$"
 
 PewterCity_PokemonCenter_Text_TradeCompleted:
-	.string "How's that HAUNTER treating you?\n"
-	.string "It's a real trickster!$"
+	.string "那只鬼斯通跟你相处得怎么样？它可\n"
+	.string "是个不折不扣的淘气鬼呢！$"
 
 PewterCity_PokemonCenter1F_Text_BugCatcher:
-	.string "Most POKéMON get drowsy if they hear a\n"
-	.string "JIGGLYPUFF singing.\p"
-	.string "There are several moves that can be\n"
-	.string "used only while a POKéMON is asleep.$"
+	.string "大部分宝可梦听了胖丁的歌声都会犯\n"
+	.string "困。\p"
+	.string "有些招式只有在宝可梦睡着时才能使\n"
+	.string "用哦。$"

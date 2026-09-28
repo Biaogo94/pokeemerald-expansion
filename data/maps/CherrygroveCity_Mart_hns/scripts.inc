@@ -50,8 +50,8 @@ Cherrygrove_Pokemart_Pokemart:
 	end
 
 Cherrygrove_Pokemart_Text_CooltrainerM:
-	.string "They're fresh out of POKé BALLS!\p"
-	.string "When will they get more of them?$"
+	.string "精灵球刚卖光了！\p"
+	.string "什么时候才会再进货啊？$"
 
 Cherrygrove_Pokemart_Text_CooltrainerM_PokeBallsInStock:
 	.string "POKé BALLS are in stock!\n"

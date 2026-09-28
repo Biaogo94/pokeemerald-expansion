@@ -26,25 +26,23 @@ PalletTown_EventScript_OaksLabSign::
 	end	
 
 PalletTown_Text_Teacher:
-	.string "I'm raising POKéMON too.\p"
-	.string "They serve as my private\n"
-	.string "guards.$"
+	.string "我也在培育宝可梦呢。\p"
+	.string "它们是我的私人保镖。$"
 
 PalletTown_Text_Fisher:
-	.string "Technology is incredible!\p"
-	.string "You can now trade POKéMON\n"
-	.string "across time like e-mail.$"
+	.string "科技的力量真厉害！\p"
+	.string "现在的宝可梦竟然能像发电子邮件一\n"
+	.string "样跨越时空进行交换！$"
 
 PalletTown_Text_Sign:
-	.string "PALLET TOWN\p"
-	.string "A Tranquil Setting of Peace\n"
-	.string "& Purity$"
+	.string "真新镇\p"
+	.string "象征和平与纯净的静谧之地$"
 
 PalletTown_Text_RedsHouseSign:
-	.string "RED'S HOUSE$"
+	.string "赤红的家$"
 
 PalletTown_Text_OaksLabSign:
 	.string "大木宝可梦研究所$"
 
 PalletTown_Text_BluesHouseSign:
-	.string "BLUE'S HOUSE$"
+	.string "青绿的家$"

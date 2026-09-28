@@ -21,11 +21,11 @@ Route10_EventScript_Surge::
     end
 
 Route10_Text_Surge:
-    .string "Hey, kid!\p"
-	.string "Keep your guard up out here,\n"
-	.string "this place is cracklin' with power!\p"
-	.string "If you want a rematch, report to\n"
-	.string "the FIGHTING DOJO!$"
+    .string "嘿，小鬼！\p"
+    .string "在这儿可别放松警惕，这地方正噼里\n"
+    .string "啪啦地充满着电劲呢！\p"
+    .string "如果想和我再打一场，就去格斗道馆\n"
+    .string "找我吧！$"
 
 Route10_EventScript_Item_Rock_Polish::
     finditem ITEM_TM_ROCK_POLISH
@@ -74,29 +74,30 @@ Route10_EventScript_ZapdosRan::
 
 
 Route10_Text_HikerJimSeen:
-	.string "Hahahah!$"
+	.string "哈哈哈哈！$"
 
 Route10_Text_HikerJimBeaten:
-	.string "Hahaha-hachoo!$"
+	.string "哈哈哈哈--阿嚏！$"
 
 Route10_Text_HikerJimAfter:
-	.string "Hay fever is making me sneeze!\n"
-	.string "Ahahah-CHOO!$"
+	.string "花粉症让我喷嚏打个不停！啊哈哈-\n"
+	.string "-阿嚏！$"
 
 Route10_Text_PokefanmRobertSeen:
-	.string "You like POKéMON, don't you?\p"
-	.string "Me too!$"
+	.string "你很喜欢宝可梦，对吧？\p"
+	.string "我也喜欢！$"
 
 Route10_Text_PokefanmRobertBeaten:
-	.string "I'd have to say that's my loss.$"
+	.string "不得不承认是我输了。$"
 
 Route10_Text_PokefanmRobertAfter:
-	.string "Look what you did to my POKéMON…\p"
-	.string "I won't forget this…$"
+	.string "看你把我的宝可梦伤成什么样了..\n"
+	.string "....\p"
+	.string "我可不会忘记这笔账的......$"
 
 Route10_Text_PowerPlant:
-	.string "POWER PLANT$"
+	.string "发电厂$"
 
 Route10_Text_Sign:
-	.string "ROUTE 10\p"
-	.string "CERULEAN CITY - LAVENDER TOWN$"
+	.string "10号道路\p"
+	.string "华蓝市 - 紫苑镇$"

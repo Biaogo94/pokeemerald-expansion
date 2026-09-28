@@ -158,37 +158,38 @@ Alola_Ulaula_House_Phant_Movement_5:
 	step_end
 
 Alola_Ulaula_House_Phant_Text_0:
-	.string "Welcome, {PLAYER}.\p"
-	.string "Thanks again for playing!$"
+	.string "欢迎，{PLAYER}。\p"
+	.string "再次感谢你游玩本作！$"
 
 Alola_Ulaula_House_Phant_Text_1:
-	.string "I hope you're prepared…\n"
-	.string "good luck.$"
+	.string "希望你已经做好了准备......\n"
+	.string "祝你好运。$"
 
 Alola_Ulaula_House_Phant_Text_2:
-	.string "Congratulations, {PLAYER}!$"
+	.string "恭喜你，{PLAYER}！$"
 
 Alola_Ulaula_House_Phant_Text_3:
-	.string "I think you've earned this.$"
+	.string "这是你应得的奖励。$"
 
 Alola_Ulaula_House_Phant_Text_4:
-	.string "You received an EGG from PHANTONOMY!$"
+	.string "从PHANTONOMY那里获得了\n"
+	.string "蛋！$"
 
 Alola_Ulaula_House_Phant_Text_5:
-	.string "That EGG contains my favorite POKéMON.\p"
-	.string "Please, take good care of it…$"
+	.string "那颗蛋里是我最喜欢的宝可梦。\p"
+	.string "请一定要好好照顾它......$"
 
 Alola_Ulaula_House_Phant_Text_6:
-	.string "No worries, {PLAYER}.\n"
-	.string "Come back when you're ready…$"
+	.string "没关系的，{PLAYER}。等你\n"
+	.string "准备好了再来吧......$"
 
 Alola_Ulaula_House_Phant_Text_7:
-	.string "I hope you enjoyed this taste of ALOLA.\p"
-	.string "I'm working on a full demake of the\n"
-	.string "region called ULTRA ECLIPSE.$"
+	.string "希望你喜欢这次阿罗拉的小小体验。\p"
+	.string "我目前正在制作阿罗拉地区的完整复\n"
+	.string "古重制版，名为《究极日蚀》。$"
 
 Alola_Ulaula_House_Noivern_Text_0:
-	.string "Scree!$"
+	.string "嘶嘁--！$"
 
 Alola_Ulaula_House_Typholosion_Text_0:
-	.string "Graa!$"
+	.string "吼啊！$"

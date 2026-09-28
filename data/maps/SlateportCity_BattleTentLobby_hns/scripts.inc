@@ -312,6 +312,5 @@ SlateportCity_BattleTentLobby_hns_Text_BattleEvenWithoutToughMons:
 	.string "if you don't have any tough POKéMON.$"
 
 SlateportCity_BattleTentLobby_hns_Text_NiceIfMoreSelection:
-	.string "Wouldn't it be nice if they had more of\n"
-	.string "a selection?$"
+	.string "要是能有更多选择就好了，不是吗？$"
 

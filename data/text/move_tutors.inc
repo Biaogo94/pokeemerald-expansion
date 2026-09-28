@@ -222,13 +222,12 @@ MoveTutor_Text_HeadbuttTeach:
 	.string "if you'd like. It's fun!$"
 	
 MoveTutor_Text_HeadbuttWhichMon:
-	.string "Ehehe, sure thing! It'd be great if\n"
-	.string "the POKéMON looked like me.$"
+	.string "嘿嘿，好嘞！要是那只宝可梦长得像\n"
+	.string "我那就更棒了。$"
 
 MoveTutor_Text_HeadbuttDeclined:
-	.string "You don't need to be shy about it.\n"
-	.string "Let's butt heads!$"
+	.string "不用那么害羞嘛。一起来用头撞吧！$"
 
 MoveTutor_Text_HeadbuttTaught:
-	.string "Rattle trees with HEADBUTT.\n"
-	.string "Sometimes, sleeping POKéMON fall out.$"
+	.string "用头锤摇晃树木吧。有时候睡着的宝\n"
+	.string "可梦会掉下来哦。$"

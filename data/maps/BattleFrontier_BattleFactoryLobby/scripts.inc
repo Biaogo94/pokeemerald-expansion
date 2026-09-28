@@ -398,10 +398,10 @@ BattleFrontier_BattleFactoryLobby_Text_WaitingForYouToResume:
 	.string "。$"
 
 BattleFrontier_BattleFactoryLobby_Text_DidntSaveBeforeQuitting:
-	.string "I'm sorry to say this, but you didn't\n"
-	.string "save before you quit playing last time.\p"
-	.string "As a result, you have been disqualified\n"
-	.string "from your challenge.$"
+	.string "非常遗憾，您上次在退出游戏前没有\n"
+	.string "保存记录。\p"
+	.string "因此，您本次的挑战已被判定为取消\n"
+	.string "资格。$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WellReturnMons:

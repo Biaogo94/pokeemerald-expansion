@@ -369,7 +369,8 @@ AzaleaTown_Text_RivalAfter:
 	.string "like you is only a distraction.$"
 
 AzaleaTown_Text_RivalLoss:
-	.string "…Humph! I knew you were lying.$"
+	.string "......哼！我就知道你在说谎\n"
+	.string "。$"
 
 AzaleaTown_Text_Rocket1:
 	.string "It's unsafe to go in there,\n"
@@ -393,9 +394,8 @@ AzaleaTown_Text_GrampsAfter:
 	.string "been goofing off somewhere.$"
 
 AzaleaTown_Text_Teacher:
-	.string "Did you come to get KURT to make\n"
-	.string "some BALLS?\p"
-	.string "A lot of people do just that.$"
+	.string "你是来找钢铁制作精灵球的吗？\p"
+	.string "很多人都是为此而来的。$"
 
 AzaleaTown_Text_Youngster:
 	.string "Cut through AZALEA and you'll be\n"
@@ -406,15 +406,16 @@ AzaleaTown_Text_Youngster:
 	.string "can CUT down trees.$"
 
 AzaleaTown_Text_Slowpoke1:
-	.string "SLOWPOKE:..........\p"
-	.string "...............YAWN?$"
+	.string "呆呆兽：......\p"
+	.string "......哈欠？$"
 
 AzaleaTown_Text_Kurt1:
-	.string "ILEX FOREST is restless!\p"
-	.string "What is going on?$"
+	.string "栎树林骚动不安！\p"
+	.string "到底发生什么事了？$"
 
 AzaleaTown_Text_Kurt2:
-	.string "{PLAYER}, here's your GS BALL back!$"
+	.string "{PLAYER}，把GS球还给你\n"
+	.string "！$"
 
 AzaleaTown_Text_Kurt3:
 	.string "Could you go see why ILEX FOREST\n"
@@ -426,7 +427,7 @@ AzaleaTown_Text_Sign:
 	.string "Happy Harmony.$"
 
 AzaleaTown_Text_KurtsHouseSign:
-	.string "KURT'S HOUSE$"
+	.string "钢铁的家$"
 
 AzaleaTown_Text_GymSign:
 	.string "AZALEA TOWN\n"
@@ -436,16 +437,16 @@ AzaleaTown_Text_GymSign:
 	.string "Encyclopedia$"
 
 AzaleaTown_Text_SlowpokeWellSign:
-	.string "SLOWPOKE WELL\p"
-	.string "Also known as the RAINMAKER WELL.\p"
-	.string "Locals believe that a SLOWPOKE's\n"
-	.string "yawn summons rain.\p"
-	.string "Records show that a SLOWPOKE's\n"
-	.string "yawn ended a drought 400 years ago.$"
+	.string "呆呆兽之井\p"
+	.string "别名：祈雨之井。\p"
+	.string "当地的人们相信呆呆兽打哈欠就会降\n"
+	.string "雨。\p"
+	.string "据记载，在400年前，呆呆兽的哈\n"
+	.string "欠终结了一场大旱。$"
 
 AzaleaTown_Text_CharcoalKilnSign:
-	.string "CHARCOAL KILN$"
+	.string "炭窑$"
 
 AzaleaTown_Text_IlexForestSign:
-	.string "ILEX FOREST\p"
-	.string "Enter through the gate.$"
+	.string "桐树林\p"
+	.string "穿过大门即是。$"

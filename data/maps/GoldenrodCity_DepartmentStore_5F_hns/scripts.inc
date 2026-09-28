@@ -63,32 +63,33 @@ GoldenrodDeptStore5_EventScript_Receptionist_Already::
 	end
 
 GoldenrodDeptStore_Text_5FReceptionistOhYourMon:
-    .string "Hello. Oh, your POKéMON…$"
+    .string "你好呀。哎呀，你的宝可梦....\n"
+    .string "..$"
 
 GoldenrodDeptStore_Text_5FReceptionistWait:
-    .string "Wait, I already gave you that TM!$"
+    .string "等等，那个招式学习器我不是已经给\n"
+    .string "你了吗！$"
 
 GoldenrodDeptStore_Text_5FReceptionistPutInSomeMoreEffort:
-	.string "Hmm…\n"
-	.string "It's not bad, but it's also not good.\p"
-	.string "You, as the TRAINER, need to put in\n"
-	.string "some more effort.$"
+	.string "嗯......说不上差，但也谈不\n"
+	.string "上好。\p"
+	.string "作为训练家，你还需要再多加努力才\n"
+	.string "行。$"
 
 GoldenrodDeptStore_Text_5FReceptionistThisMoveShouldBePerfect:
-    .string "It's very attached to you.\p"
-    .string "This move should be perfect for a\n"
-    .string "pair like you.$"
+    .string "它非常依恋你呢。\p"
+    .string "这个招式最适合像你们这样亲密无间\n"
+    .string "的组合了。$"
 
 GoldenrodDeptStore_Text_5FLass:
-    .string "During the day, a lady comes to check\n"
-    .string "out POKéMON.\p"
-    .string "She even gives away TMs!$"
+    .string "白天的时候，会有一位女士过来观察\n"
+    .string "宝可梦的情况。\p"
+    .string "她甚至还会赠送招式学习器呢！$"
 
 GoldenrodDeptStore_Text_5FPokefanM:
-    .string "You can't rename a POKéMON you get\n"
-    .string "in a trade.\p"
-    .string "The name is a reflection of the\n"
-    .string "original trainer's feelings for it.$"
+    .string "交换得来的宝可梦是不能改名的。\p"
+    .string "因为那个名字寄托了原训练家对它的\n"
+    .string "感情。$"
 
 GoldenrodDeptStore_Text_Girl:
 	.string "The lady gave me RETURN!\n"
@@ -120,5 +121,5 @@ GoldenrodDeptStore5_Pokemart:
 
 
 GoldenrodDeptStore_Text_5FDirectory:
-    .string "Customize Your POKéMON\p"
-    .string "5F TM CORNER$"
+    .string "打造独一无二的宝可梦\p"
+    .string "5F 招式学习器专柜$"

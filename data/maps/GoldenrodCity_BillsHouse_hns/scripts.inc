@@ -60,61 +60,59 @@ GoldenrodCity_BillsHouse_EventScript_Bill_Refused::
 	end
 
 BillHouse_Text_TakeThisEevee:
-    .string "BILL: Hi, {PLAYER}! Do us a favor and\n"
-    .string "take this EEVEE.\p"
-    .string "It was left in our care while\n"
-    .string "I was away working on my system.\p"
-    .string "Someone has to take care of it,\n"
-    .string "but I don't like being outside.\p"
-    .string "Can I count on you to play with it,\n"
-    .string "{PLAYER}?$"
+    .string "正辉：嗨，{PLAYER}！帮我\n"
+    .string "个忙，收下这只伊布吧。\p"
+    .string "这是我外出调整系统的时候，别人寄\n"
+    .string "养在这里的。\p"
+    .string "得有个人来照顾它才行，但我又不太\n"
+    .string "喜欢出门。\p"
+    .string "{PLAYER}，能拜托你多陪陪\n"
+    .string "它玩吗？$"
 
 BillHouse_Text_CountingOnYou:
-    .string "BILL: I knew you'd come through!\p"
-    .string "Way to go! You're the real deal!\p"
-    .string "OK, I'm counting on you.\p"
-    .string "Take good care of it!$"
+    .string "正辉：我就知道你靠得住！\p"
+    .string "太棒了！你真是帮了大忙！\p"
+    .string "好，那就拜托你了。\p"
+    .string "一定要好好照顾它哦！$"
 
 BillHouse_Text_ReceivedEevee:
-    .string "{PLAYER} received EEVEE!$"
+    .string "{PLAYER}得到了伊布！$"
 
 BillHouse_Text_EeveeMayEvolve:
-    .string "BILL: PROF.ELM claims EEVEE may\n"
-    .string "evolve in new and unknown ways.$"
+    .string "正辉：空木博士说，伊布可能存在全\n"
+    .string "新且未知的进化方式。$"
 
 BillHouse_Text_PartyFull:
-    .string "Whoa, wait. You can't carry any\n"
-    .string "more POKéMON.$"
+    .string "哇，等等。你的同行宝可梦已经满了\n"
+    .string "。$"
 
 BillHouse_Text_NoEevee:
-    .string "Oh… Now what to do?$"
+    .string "哎呀......这下该怎么办呢？$"
 
 BillHouse_Text_PopWontWork:
-    .string "BILL: My pop, he won't work. All he\n"
-    .string "does is goof off all day long.\p"
-    .string "He's getting to be a real headache…$"
+    .string "正辉：我老爸他根本不工作，成天就\n"
+    .string "只知道游手好闲。\p"
+    .string "真是让人头疼啊......$"
 
 BillHouse_Text_MomBeforeEcruteak:
-    .string "Oh, you collect POKéMON? My son\n"
-    .string "BILL is an expert.\p"
-    .string "He just got called to the POKéMON\n"
-    .string "CENTER in ECRUTEAK CITY.\p"
-    .string "My husband went off to the GAME\n"
-    .string "CORNER without being called…$"
+    .string "哎呀，你在收集宝可梦吗？我儿子正\n"
+    .string "辉可是这方面的专家。\p"
+    .string "他刚刚被叫去圆朱市的宝可梦中心了\n"
+    .string "。\p"
+    .string "我丈夫则是不请自去，一溜烟跑去了\n"
+    .string "满金游戏城......$"
 
 BillHouse_Text_MomAfterEcruteak:
-    .string "My husband was once known as a\n"
-    .string "POKéMANIAC.\p"
-    .string "BILL must have taken after his\n"
-    .string "father.$"
+    .string "我丈夫以前被称为宝可梦狂人呢。\p"
+    .string "正辉肯定也是随了他爸爸。$"
 
 BillHouse_Text_SisterUsefulNumber:
-    .string "Are you a TRAINER?\p"
-    .string "I've got a useful phone number\n"
-    .string "for you.$"
+    .string "你是训练家吗？\p"
+    .string "我这有个对你很有用的电话号码哦。$"
 
 BillHouse_Text_RecordedBillsNumber:
-    .string "{PLAYER} recorded BILL's number.$"
+    .string "{PLAYER}记录了正辉的电话\n"
+    .string "号码。$"
 
 BillHouse_Text_SisterRefusedNumber:
     .string "My brother made the PC POKéMON\n"
@@ -123,7 +121,7 @@ BillHouse_Text_SisterRefusedNumber:
     .string "number…$"
 
 BillHouse_Text_SisterPhoneFull:
-    .string "You can't record any more numbers.$"
+    .string "无法记录更多的电话号码了。$"
 
 BillHouse_Text_SisterStorageSystem:
     .string "My big brother BILL made the PC\n"

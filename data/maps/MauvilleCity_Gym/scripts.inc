@@ -327,17 +327,15 @@ MauvilleCity_Gym_Text_AngeloPostBattle:
 	.string "，我好兴奋！$"
 
 MauvilleCity_Gym_Text_WattsonIntro:
-	.string "I've given up on my plans to convert\n"
-	.string "the city, I have.\p"
-	.string "And so, I put my time into making\n"
-	.string "door traps in my GYM.\p"
-	.string "Oh? Now, what are you doing here?\p"
-	.string "What's that? You say you've gotten\n"
-	.string "past all my rigged doors?\p"
-	.string "Wahahahah!\n"
-	.string "Now, that is amusing!\p"
-	.string "Then, I, WATTSON, the LEADER of\n"
-	.string "MAUVILLE GYM, shall electrify you!$"
+	.string "改造城市的计划我早就放弃啦。\p"
+	.string "所以我把时间都花在道馆的机关门上\n"
+	.string "了。\p"
+	.string "哦？那你在这里做什么？\p"
+	.string "你说什么？你说你破解了我所有的机\n"
+	.string "关门？\p"
+	.string "哇哈哈哈哈！真是有意思！\p"
+	.string "那么，就让我紫堇道馆的馆主铁旋，\n"
+	.string "给你来点电击的刺激吧！$"
 
 MauvilleCity_Gym_Text_WattsonDefeat:
 	.string "哇哈哈哈！好，我输了！\p"

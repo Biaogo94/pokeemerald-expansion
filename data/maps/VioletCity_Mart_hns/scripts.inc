@@ -28,15 +28,13 @@ VioletCity_Mart_EventScript_Rocker::
 	end
 	
 VioletCity_Mart_Text_Granny:
-	.string "When you first catch a POKéMON,\n"
-	.string "it may be weak.\p"
-	.string "But it will eventually grow to\n"
-	.string "be strong.\p"
-	.string "It's important to treat POKéMON\n"
-	.string "with love.$"
+	.string "刚收服宝可梦的时候，它可能还很弱\n"
+	.string "小。\p"
+	.string "但它终究会成长得越来越强大。\p"
+	.string "用爱心去关怀宝可梦是非常重要的。$"
 
 VioletCity_Mart_Text_CooltrainerM:
-	.string "POKéMON can hold items like\n"
-	.string "POTION and ANTIDOTE.\p"
-	.string "But they don't appear to know\n"
-	.string "how to use man-made items.$"
+	.string "宝可梦可以携带伤药或解毒药之类的\n"
+	.string "道具。\p"
+	.string "不过它们好像不知道该怎么使用人造\n"
+	.string "的道具呢。$"

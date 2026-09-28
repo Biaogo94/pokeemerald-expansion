@@ -73,7 +73,7 @@ VioletGym_Text_Falkner_WinLoss:
 	.string "ZEPHYRBADGE.$"
 
 VioletGym_Text_ReceivedZephyrBadge:
-	.string "{PLAYER} received ZEPHYRBADGE.$"
+	.string "{PLAYER}获得了飞翼徽章。$"
 
 VioletGym_Text_Falkner_BadgeExplain:
 	.string "ZEPHYRBADGE raises the ATTACK\n"
@@ -101,17 +101,16 @@ VioletGym_Text_Falkner_AfterFight:
 	.string "become the greatest bird master!$"
 
 VioletGym_Text_Falkner_Rematch:
-	.string "Congratulations on defeating\n"
-	.string "the ELITE 4!\p"
-	.string "I've been training my\n"
-	.string "FLYING-type POKéMON even harder.\p"
-	.string "Think you can take on the power\n"
-	.string "of the skies again?$"
+	.string "恭喜你击败了四天王！\p"
+	.string "我更加刻苦地特训了我的飞行属性宝\n"
+	.string "可梦。\p"
+	.string "你觉得自己还能再次对抗来自天空的\n"
+	.string "力量吗？$"
 
 VioletGym_Text_Falkner_RematchLoss:
-	.string "Wow… You beat me again.\p"
-	.string "I'm going to train harder to\n"
-	.string "become the greatest bird master!$"
+	.string "哇......我又输给你了。\p"
+	.string "我会更加努力修行，成为最出色的鸟\n"
+	.string "使者！$"
 
 VioletGym_Text_BirdKeeperRod_Seen:
 	.string "The keyword is guts!\p"
@@ -120,19 +119,18 @@ VioletGym_Text_BirdKeeperRod_Seen:
 	.string "Come on!$"
 
 VioletGym_Text_BirdKeeperRod_Beaten:
-	.string "Gaaah!$"
+	.string "哇啊啊！$"
 
 VioletGym_Text_BirdKeeperRod_After:
-	.string "FALKNER's skills are for real!\p"
-	.string "Don't get cocky just because\n"
-	.string "you beat me!$"
+	.string "阿速馆主的实力可是名不虚传！\p"
+	.string "别以为赢了我就能得意忘形！$"
 
 VioletGym_Text_BirdKeeperAbe_Seen:
 	.string "Let me see if you are good\n"
 	.string "enough to face FALKNER!$"
 
 VioletGym_Text_BirdKeeperAbe_Beaten:
-	.string "This can't be true!$"
+	.string "这不可能！$"
 
 VioletGym_Text_BirdKeeperAbe_After:
 	.string "This is pathetic, losing to some\n"
@@ -157,9 +155,8 @@ VioletGym_Text_GymGuide_Intro:
 	.string "their stuff!$"
 
 VioletGym_Text_GymGuide_Win:
-	.string "Nice battle! Keep it up,\n"
-	.string "and you'll be the CHAMP in no\l"
-	.string "time at all!$"
+	.string "精彩的对战！保持这个势头，用不了\n"
+	.string "多久你就能成为冠军了！$"
 
 VioletCity_Gym_EventScript_Statue::
 	lock
@@ -176,7 +173,7 @@ VioletCity_Gym_EventScript_Statue2::
 	end
 
 VioletCity_Gym_Text_GymStatue:
-	.string "VIOLET CITY POKéMON GYM$"
+	.string "桔梗市宝可梦道馆$"
 
 VioletCity_Gym_Text_GymStatueCertified:
 	.string "VIOLET CITY POKéMON GYM\p"

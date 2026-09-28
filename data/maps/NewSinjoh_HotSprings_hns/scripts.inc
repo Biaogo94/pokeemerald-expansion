@@ -37,33 +37,29 @@ NewSinjoh_HotSprings_EventScript_MualaniAfter::
 	end
 
 NewSinjoh_HotSprings_Text_MualaniBefore:
-	.string "Am I a local or a visitor?\n"
-    .string "What a rude question!\p"
-    .string "If you must know, I'm a local.\p"
-    .string "My family was among the first to\n"
-    .string "enjoy these springs.\p"
-    .string "See, I even have this SPLASH PLATE\n"
-    .string "to prove it.$"
+	.string "问我是本地人还是游客？真没礼貌！\p"
+	.string "非要问的话，我是本地人。\p"
+	.string "我的家族可是最早享用这片温泉的。\p"
+	.string "你看，我甚至有这块水滴石板为证呢\n"
+	.string "。$"
 
 NewSinjoh_HotSprings_Text_MualaniBeforeBattle:
-	.string "Wait...\p"
-	.string "You need the SPLASH PLATE\n"
-	.string "to tame the legendary POKéMON?\p"
-	.string "If the KIMONO GIRLS think you\n"
-	.string "are worthy, then so do I.\p"
-	.string "But you'll still need to earn\n"
-	.string "it.$"
+	.string "等等......\p"
+	.string "你需要用水滴石板去平息传说的宝可\n"
+	.string "梦？\p"
+	.string "既然舞姬们都认可了你的实力，那我\n"
+	.string "也不多说了。\p"
+	.string "不过，你还是得靠本事来赢取它。$"
 
 NewSinjoh_HotSprings_Text_MualaniDefeat:
-	.string "Well earned.$"
+	.string "这是你应得的。$"
 
 NewSinjoh_HotSprings_Text_MualaniAfter:
-	.string "It is hard for me to let that\n"
-	.string "plate go.\p"
-	.string "But when the situation changes,\n"
-	.string "it is important for us to change\l"
-	.string "too.\p"
-	.string "The plate is yours.$"
+	.string "要割舍那块石板，对我来说确实不易\n"
+	.string "。\p"
+	.string "但世事变迁，我们自身也必须顺应改\n"
+	.string "变才行。\p"
+	.string "这块石板就归你了。$"
 
 
 NewSinjoh_HotSprings_EventScript_Sign1::
@@ -71,33 +67,30 @@ NewSinjoh_HotSprings_EventScript_Sign1::
     end
 
 NewSinjoh_HotSprings_Text_Sign1:
-    .string "NEW SINJOH\n"
-    .string "HOT SPRINGS$"
+    .string "新神都温泉$"
 
 NewSinjoh_HotSprings_EventScript_Sign2::
     msgbox NewSinjoh_HotSprings_Text_Sign2, MSGBOX_SIGN
     end
 
 NewSinjoh_HotSprings_Text_Sign2:
-    .string "DANGER\n"
-    .string "WILD HIBERNATION DEN$"
+    .string "危险野生宝可梦冬眠巢穴$"
 
 NewSinjoh_HotSprings_EventScript_SkierF::
     msgbox NewSinjoh_HotSprings_Text_SkierF, MSGBOX_NPC
     end
 
 NewSinjoh_HotSprings_Text_SkierF:
-	.string "I hate the cold!\p"
-    .string "I'm just here for the hot springs!$"
+	.string "我最讨厌冷天了！\p"
+	.string "我来这儿完全就是为了泡温泉！$"
 
 NewSinjoh_HotSprings_EventScript_SkierM::
     msgbox NewSinjoh_HotSprings_Text_SkierM, MSGBOX_NPC
     end
 
 NewSinjoh_HotSprings_Text_SkierM:
-	.string "I came here to snowboard\n"
-    .string "but all my girlfriend wants to do\l"
-    .string "is sit in the springs all day!$"
+	.string "我本来是想来滑雪板的，可我女朋友\n"
+	.string "却只想一整天都泡在温泉里！$"
 
 
 NewSinjoh_HotSprings_EventScript_OldLady::
@@ -105,18 +98,19 @@ NewSinjoh_HotSprings_EventScript_OldLady::
     end
 
 NewSinjoh_HotSprings_Text_OldLady:
-	.string "Ignore my husband.\p"
-    .string "Let your worries melt away.$"
+	.string "别理我丈夫。\p"
+	.string "让所有的烦恼都随温水消散吧。$"
 
 NewSinjoh_HotSprings_EventScript_CreepyMan::
 	msgbox NewSinjoh_HotSprings_Text_CreepyMan, MSGBOX_NPC
 	end
 
 NewSinjoh_HotSprings_Text_CreepyMan:
-	.string "Ouughh...\p"
-	.string "This water feels magical on my back.\p"
-	.string "If you have back pain too,\n"
-	.string "you should stay here with me...$"
+	.string "呼啊......\p"
+	.string "这泉水泡得我后背太舒服了，简直像\n"
+	.string "有魔力一样。\p"
+	.string "要是你也腰酸背痛的话，不妨留下来\n"
+	.string "和我一起多泡泡......$"
 
 NewSinjoh_HotSprings_EventScript_PLATutor::
 	lock
@@ -239,69 +233,69 @@ NewSinjoh_HotSprings_EventScript_PLATutorDecline::
 	end
 
 NewSinjoh_HotSprings_Text_PLATutorIntro:
-	.string "The ancient power flows\n"
-	.string "through these springs.\p"
-	.string "I can teach your POKeMON moves\n"
-	.string "from a forgotten age.\p"
-	.string "Interested?$"
+	.string "远古的力量在这些泉水中流淌。\p"
+	.string "我可以传授你的宝可梦来自那个被遗\n"
+	.string "忘时代的古老招式。\p"
+	.string "有兴趣吗？$"
 
 NewSinjoh_HotSprings_Text_PLATutorChoose:
-	.string "Which move would you like?$"
+	.string "你想学哪个招式？$"
 
 NewSinjoh_HotSprings_Text_PLATutorConfirm:
-	.string "You'd like to learn {STR_VAR_1}?$"
+	.string "想要学习{STR_VAR_1}吗\n"
+	.string "？$"
 
 NewSinjoh_HotSprings_Text_PLATutorWhichMon:
-	.string "Which POKeMON should learn it?$"
+	.string "要让哪只宝可梦学习呢？$"
 
 NewSinjoh_HotSprings_Text_PLATutorDone:
-	.string "Done! Your POKeMON has mastered\n"
-	.string "the ancient technique.$"
+	.string "搞定！你的宝可梦已经掌握了这门古\n"
+	.string "老的秘技。$"
 
 NewSinjoh_HotSprings_Text_PLATutorComeBack:
-	.string "Come back anytime.$"
+	.string "欢迎随时再来。$"
 
 NewSinjoh_HotSprings_Text_PLAMove_VictoryDance:
-	.string "VICTORY DANCE$"
+	.string "胜利之舞$"
 
 NewSinjoh_HotSprings_Text_PLAMove_MountainGale:
-	.string "MOUNTAIN GALE$"
+	.string "冰山风$"
 
 NewSinjoh_HotSprings_Text_PLAMove_BitterMalice:
-	.string "BITTER MALICE$"
+	.string "冤冤相报$"
 
 NewSinjoh_HotSprings_Text_PLAMove_SpringtideStorm:
-	.string "SPRINGTIDE STORM$"
+	.string "阳春风暴$"
 
 NewSinjoh_HotSprings_Text_PLAMove_LunarBlessing:
-	.string "LUNAR BLESSING$"
+	.string "新月祈祷$"
 
 NewSinjoh_HotSprings_Text_PLAMove_BleakwindStorm:
-	.string "BLEAKWIND STORM$"
+	.string "枯叶风暴$"
 
 NewSinjoh_HotSprings_Text_PLAMove_WildboltStorm:
-	.string "WILDBOLT STORM$"
+	.string "鸣雷风暴$"
 
 NewSinjoh_HotSprings_Text_PLAMove_SandsearStorm:
-	.string "SANDSEAR STORM$"
+	.string "热沙风暴$"
 
 NewSinjoh_HotSprings_Text_PLAMove_Shelter:
-	.string "SHELTER$"
+	.string "闭关$"
 
 NewSinjoh_HotSprings_Text_PLAMove_EsperWing:
-	.string "ESPER WING$"
+	.string "气场之翼$"
 
 NewSinjoh_HotSprings_Text_PLAMove_TakeHeart:
-	.string "TAKE HEART$"
+	.string "振奋$"
 
 NewSinjoh_HotSprings_Text_PLAMove_MysticalPower:
-	.string "MYSTICAL POWER$"
+	.string "神奇之力$"
 
 NewSinjoh_HotSprings_Text_PLAMove_WaveCrash:
-	.string "WAVE CRASH$"
+	.string "波动冲$"
 
 NewSinjoh_HotSprings_Text_PLAMove_PowerShift:
-	.string "POWER SHIFT$"
+	.string "力量转换$"
 
 NewSinjoh_HotSprings_Text_PLAMove_Cancel:
 	.string "取消$"

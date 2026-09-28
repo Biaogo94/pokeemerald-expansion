@@ -113,7 +113,7 @@ Route35_Text_CamperIvanSeen:
 	.string "my radio. I think I'm good.$"
 
 Route35_Text_CamperIvanBeaten:
-	.string "I give!$"
+	.string "我认输！$"
 
 Route35_Text_CamperIvanAfter:
 	.string "Music on the radio changes the\n"
@@ -124,38 +124,38 @@ Route35_Text_CamperElliotSeen:
 	.string "hot stuff!$"
 
 Route35_Text_CamperElliotBeaten:
-	.string "I wish you would have lost for me…$"
+	.string "真希望你能故意输给我啊.....\n"
+	.string ".$"
 
 Route35_Text_CamperElliotAfter:
-	.string "I was humiliated in front of my\n"
-	.string "girlfriend…$"
+	.string "在女朋友面前丢大人了......$"
 
 Route35_Text_PicnickerBrookeSeen:
 	.string "My boyfriend's weak, so I can't rely\n"
 	.string "on him.$"
 
 Route35_Text_PicnickerBrookeBeaten:
-	.string "Oh, my! You're so strong!$"
+	.string "哎呀！你好强啊！$"
 
 Route35_Text_PicnickerBrookeAfter:
 	.string "I can count on my POKéMON more than\n"
 	.string "my boyfriend.$"
 
 Route35_Text_PicnickerKimSeen:
-	.string "Are you going to the GYM? Me too!$"
+	.string "你也是要去道馆吗？我也是！$"
 
 Route35_Text_PicnickerKimBeaten:
-	.string "Oh. I couldn't win…$"
+	.string "哎呀。没赢过呢......$"
 
 Route35_Text_PicnickerKimAfter:
 	.string "The GYM BADGES are pretty. I collect\n"
 	.string "them.$"
 
 Route35_Text_BirdKeeperBryanSeen:
-	.string "What kinds of BALLS do you use?$"
+	.string "你平时都用些什么球呀？$"
 
 Route35_Text_BirdKeeperBryanBeaten:
-	.string "Yikes! Not fast enough!$"
+	.string "呀！速度还不够快！$"
 
 Route35_Text_BirdKeeperBryanAfter:
 	.string "Some POKéMON flee right away.\p"
@@ -166,10 +166,10 @@ Route35_Text_BirdKeeperBryanAfter:
 	.string "He turns it into a custom BALL.$"
 
 Route35_Text_JugglerIrwinSeen:
-	.string "Behold my graceful BALL dexterity!$"
+	.string "见识见识我优雅的控球杂耍吧！$"
 
 Route35_Text_JugglerIrwinBeaten:
-	.string "Whew! That was a jolt!$"
+	.string "呼！真是被震撼到了！$"
 
 Route35_Text_JugglerIrwinAfter:
 	.string "I was going to dazzle you with my\n"
@@ -181,7 +181,7 @@ Route35_Text_BugCatcherArnieSeen:
 	.string "appear there.$"
 
 Route35_Text_BugCatcherArnieBeaten:
-	.string "Huh? I shouldn't have lost that…$"
+	.string "咦？我不该输的呀......$"
 
 Route35_Text_BugCatcherArnieAfter:
 	.string "My VENONAT won me the Bug-Catching\n"
@@ -201,43 +201,42 @@ Route35_Text_ArnieRematchIntro:
 	.string "appear there.$"
 
 Route35_Text_ArnieRematchDefeat:
-	.string "Huh? I shouldn't have lost that…$"
+	.string "咦？我不该输的呀......$"
 
 Route35_Text_ArniePostRematch:
 	.string "My VENONAT won me the Bug-Catching\n"
 	.string "Contest at the NATIONAL PARK.$"
 
 Route35_Text_BugCatcherArnieYanma:
-	.string "Wow… Look at all those YANMA!\p"
-	.string "I'm so blown away, I can't move.$"
+	.string "哇......看那些蜻蜻蜓！\p"
+	.string "太震撼了，我都看呆了。$"
 
 Route35_Text_FirebreatherWaltSeen:
-	.string "I'm practicing my fire breathing.$"
+	.string "我正在练习喷火呢。$"
 
 Route35_Text_FirebreatherWaltBeaten:
-	.string "Ow! I scorched the tip of my nose!$"
+	.string "好烫！把鼻尖给烧到了！$"
 
 Route35_Text_FirebreatherWaltAfter:
 	.string "The POKéMON March on the radio\n"
 	.string "lures wild POKéMON.$"
 
 Route35_Text_OfficerDirkSeen:
-	.string "Danger lurks in the night!$"
+	.string "夜晚可是危机四伏的！$"
 
 Route35_Text_OfficerDirkBeaten:
-	.string "Whoops!$"
+	.string "哎呀！$"
 
 Route35_Text_OfficerDirkAfter:
-	.string "You know, night time is fun in its\n"
-	.string "own ways.\p"
-	.string "But don't overdo it, OK?$"
+	.string "夜晚其实也有别样的乐趣。\p"
+	.string "但可别玩得太疯了，好吗？$"
 
 Route35_Text_OfficerDirkTough:
-	.string "Your POKéMON look pretty tough.\p"
-	.string "You could go anywhere safely.$"
+	.string "你的宝可梦看起来挺强悍的嘛。\p"
+	.string "去哪儿应该都很安全。$"
 
 Route35_Text_Sign:
-	.string "ROUTE 35$"
+	.string "35号道路$"
 
 Route35_Text_Sign2:
-	.string "NATIONAL PARK GATE$"
+	.string "自然公园 大门$"

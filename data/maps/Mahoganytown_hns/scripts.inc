@@ -248,21 +248,21 @@ MahoganyTown_Movement_PlayerMerchant2:
 	step_end
 
 MahoganyTown_Text_RageCandyBarMerchantTryOne:
-	.string "Hiya, kid!\p"
-	.string "I see you're new in MAHOGANY TOWN.\p"
-	.string "Since you're new, you should try a\n"
-	.string "yummy RAGECANDYBAR!\p"
-	.string "Right now, it can be yours for just\n"
-	.string "¥300! Want one?$"
+	.string "嗨，小朋友！\p"
+	.string "看样子你是第一次来卡吉镇吧。\p"
+	.string "既然是新来的，那就该尝尝美味的愤\n"
+	.string "怒馒头！\p"
+	.string "现在只要300日元就能买到一个！\n"
+	.string "要来一个吗？$"
 
 MahoganyTown_Text_RageCandyBarMerchantSavorIt:
-    .string "Good! Savor it!$"
+    .string "好嘞！好好品尝吧！$"
 
 MahoganyTown_Text_RageCandyBarMerchantNotEnoughMoney:
     .string "你的钱不够。$"
 
 MahoganyTown_Text_RageCandyBarMerchantRefused:
-    .string "Oh, fine then…$"
+    .string "哎，那就算了吧......$"
 
 MahoganyTown_Text_RageCandyBarMerchantSoldOut:
     .string "RAGECANDYBAR's sold out.\p"
@@ -290,17 +290,17 @@ MahoganyTown_Text_Lass:
     .string "stuff that nobody else has.$"
 
 MahoganyTown_Text_Sign:
-    .string "MAHOGANY TOWN\p"
-    .string "Welcome to the Home of the Ninja$"
+    .string "卡吉镇\p"
+    .string "欢迎来到忍者之里$"
 
 MahoganyTown_Text_RagecandybarSign:
     .string "While visiting MAHOGANY TOWN, try\n"
     .string "a RAGECANDYBAR!$"
 
 MahoganyTown_Text_GymSign:
-    .string "MAHOGANY TOWN POKéMON GYM\p"
-    .string "LEADER: PRYCE\p"
-    .string "The Teacher of Winter's Harshness$"
+    .string "卡吉镇宝可梦道馆\p"
+    .string "馆主：柳伯\p"
+    .string "传授冬之严冬的老师$"
 
 ElmPhoneRadioTowerRocketTakeoverText:
 	.string "PROF.ELM: {PLAYER}, how are\n"

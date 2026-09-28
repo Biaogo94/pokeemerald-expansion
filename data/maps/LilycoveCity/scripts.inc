@@ -449,13 +449,15 @@ LilycoveCity_Text_MayGoingBackToLittleroot:
 	.string "鉴也进展顺利，我想回家给爸爸看。$"
 
 LilycoveCity_Text_MayYouGoingToCollectBadges:
-	.string "{PLAYER}{KUN}, what are you going to do?\p"
-	.string "Collect all the GYM BADGES and take\n"
-	.string "the POKéMON LEAGUE challenge?\p"
-	.string "Well, while you're collecting BADGES,\n"
-	.string "{PLAYER}{KUN}, I'm going to work on my\l"
-	.string "POKéDEX. I'll complete it before you!\p"
-	.string "See you!$"
+	.string "{PLAYER}{KUN}，你接\n"
+	.string "下来打算怎么做？\p"
+	.string "集齐所有道馆徽章，去挑战宝可梦联\n"
+	.string "盟吗？\p"
+	.string "那好，在{PLAYER}\n"
+	.string "{KUN}收集徽章的时候，我就去\l"
+	.string "全力完成宝可梦图鉴。我一定会比你\l"
+	.string "更快集齐的！\p"
+	.string "再见啦！$"
 
 LilycoveCity_Text_MayYouGoingToPokemonLeague:
 	.string "{PLAYER}{KUN}，你接\n"
@@ -702,16 +704,17 @@ LilycoveCity_Text_DoYouKnowAboutBerryBlender:
 	.string "你知道叫做树果混合器的机器吗？$"
 
 LilycoveCity_Text_FasterSpinBetterPokeblocks:
-	.string "People have to work together to get it\n"
-	.string "to spin faster.\p"
-	.string "The faster you can make it spin, the\n"
-	.string "better {POKEBLOCK}S you can get, I've heard.$"
+	.string "大家必须齐心协力才能让它转得更快\n"
+	.string "。\p"
+	.string "听说转得越快，就能做出品质越好的\n"
+	.string "{POKEBLOCK}呢。$"
 
 LilycoveCity_Text_ExplainBerryBlender:
-	.string "It's used for making a kind of candy\n"
-	.string "called a {POKEBLOCK}.\p"
-	.string "If you give a good {POKEBLOCK} to a POKéMON,\n"
-	.string "its condition will improve by a lot.$"
+	.string "这是用来制作一种叫作\n"
+	.string "{POKEBLOCK}的糖果的。\p"
+	.string "给宝可梦喂食高品质的\n"
+	.string "{POKEBLOCK}，它的状态\l"
+	.string "就会大幅提升哦。$"
 
 LilycoveCity_Text_HeardTowerCalledSkyPillar:
 	.string "据说水路某处有座塔，\p"

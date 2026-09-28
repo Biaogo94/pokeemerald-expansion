@@ -210,9 +210,9 @@ static const struct MenuAction MultichoiceList_Mechadoll5_Q3[] =
 
 static const struct MenuAction MultichoiceList_VendingMachine[] =
 {
-    {COMPOUND_STRING("FRESH WATER{CLEAR_TO 0x48}¥200")},
-    {COMPOUND_STRING("SODA POP{CLEAR_TO 0x48}¥300")},
-    {COMPOUND_STRING("LEMONADE{CLEAR_TO 0x48}¥350")},
+    {COMPOUND_STRING("美味之水\n{CLEAR_TO 0x48}¥\l200")},
+    {COMPOUND_STRING("劲爽汽水\n{CLEAR_TO 0x48}¥\l300")},
+    {COMPOUND_STRING("果汁牛奶\n{CLEAR_TO 0x48}¥\l350")},
     {gText_Exit},
 };
 
@@ -267,39 +267,39 @@ static const struct MenuAction MultichoiceList_GameCornerDolls[] =
 
 static const struct MenuAction MultichoiceList_GameCornerDolls2[] =
 {
-    {COMPOUND_STRING("REGIROCK DOLL{CLEAR_TO 0x58}9,000 C.")},
-    {COMPOUND_STRING("REGICE DOLL{CLEAR_TO 0x58}9,000 C.")},
-    {COMPOUND_STRING("REGISTEEL DOLL{CLEAR_TO 0x58}9,000 C.")},
+    {COMPOUND_STRING("雷吉洛克玩偶\n{CLEAR_TO 0x58}9\l,000枚")},
+    {COMPOUND_STRING("雷吉艾斯玩偶\n{CLEAR_TO 0x58}9\l,000枚")},
+    {COMPOUND_STRING("雷吉斯奇鲁玩偶\n{CLEAR_TO 0x58}9\l,000枚")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_PrizeMons[] = 
 {
-    {COMPOUND_STRING("ABRA{CLEAR_TO 0x61}120 C.")},
-    {COMPOUND_STRING("CLEFAIRY{CLEAR_TO 0x61}500 C.")},
-    {COMPOUND_STRING("MUNCHLAX{CLEAR_TO 0x58}2,800 C.")},
-    {COMPOUND_STRING("DRATINI{CLEAR_TO 0x58}5,500 C.")},
-    {COMPOUND_STRING("PORYGON{CLEAR_TO 0x58}6,500 C.")},
+    {COMPOUND_STRING("凯西\n{CLEAR_TO 0x61}1\l20枚")},
+    {COMPOUND_STRING("皮皮\n{CLEAR_TO 0x61}5\l00枚")},
+    {COMPOUND_STRING("小卡比兽\n{CLEAR_TO 0x58}2\l,800枚")},
+    {COMPOUND_STRING("迷你龙\n{CLEAR_TO 0x58}5\l,500枚")},
+    {COMPOUND_STRING("多边兽\n{CLEAR_TO 0x58}6\l,500枚")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_GameCornerTMs[] =
 {
-    {COMPOUND_STRING("DOUBLE TEAM{CLEAR_TO 0x58}1,500 C.")},
-    {COMPOUND_STRING("PSYCHIC{CLEAR_TO 0x58}3,500 C.")},
-    {COMPOUND_STRING("ICE BEAM{CLEAR_TO 0x58}4,000 C.")},
-    {COMPOUND_STRING("THUNDERBOLT{CLEAR_TO 0x58}4,000 C.")},
-    {COMPOUND_STRING("FLAMETHROWER{CLEAR_TO 0x58}4,000 C.")},
+    {COMPOUND_STRING("影子分身\n{CLEAR_TO 0x58}1\l,500枚")},
+    {COMPOUND_STRING("精神强念\n{CLEAR_TO 0x58}3\l,500枚")},
+    {COMPOUND_STRING("冰冻光束\n{CLEAR_TO 0x58}4\l,000枚")},
+    {COMPOUND_STRING("十万伏特\n{CLEAR_TO 0x58}4\l,000枚")},
+    {COMPOUND_STRING("喷射火焰\n{CLEAR_TO 0x58}4\l,000枚")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_GameCornerCoins[] =
 {
-    {COMPOUND_STRING("50 COINS{CLEAR_TO 0x48}¥500")},
-    {COMPOUND_STRING("500 COINS{CLEAR_TO 0x48}¥5,000")},
-    {COMPOUND_STRING("1,000 COINS{CLEAR_TO 0x48}¥10,000")},
-    {COMPOUND_STRING("2,500 COINS{CLEAR_TO 0x48}¥25,000")},
-    {COMPOUND_STRING("5,000 COINS{CLEAR_TO 0x48}¥50,000")},
+    {COMPOUND_STRING("50枚代币\n{CLEAR_TO 0x48}¥\l500")},
+    {COMPOUND_STRING("500枚代币\n{CLEAR_TO 0x48}¥\l5,000")},
+    {COMPOUND_STRING("1,000枚代币\n{CLEAR_TO 0x48}¥\l10,000")},
+    {COMPOUND_STRING("2,500枚代币\n{CLEAR_TO 0x48}¥\l25,000")},
+    {COMPOUND_STRING("5,000枚代币\n{CLEAR_TO 0x48}¥\l50,000")},
     {gText_Exit},
 };
 
@@ -628,11 +628,11 @@ static const struct MenuAction MultichoiceList_Fossil[] =
 
 static const struct MenuAction MultichoiceList_FossilHns[] =
 {
-    {COMPOUND_STRING("CLAW FOSSIL")},
-    {COMPOUND_STRING("ROOT FOSSIL")},
-    {COMPOUND_STRING("HELIX FOSSIL")},
-    {COMPOUND_STRING("DOME FOSSIL")},
-    {COMPOUND_STRING("OLD AMBER")},
+    {COMPOUND_STRING("爪子化石")},
+    {COMPOUND_STRING("根状化石")},
+    {COMPOUND_STRING("贝壳化石")},
+    {COMPOUND_STRING("甲壳化石")},
+    {COMPOUND_STRING("秘密琥珀")},
     {gText_Exit},
 };
 
@@ -647,7 +647,7 @@ static const struct MenuAction MultichoiceList_FrontierRules[] =
     {COMPOUND_STRING("两种模式")},
     {COMPOUND_STRING("Lv. 50级")},
     {COMPOUND_STRING("自由等级")},
-    {COMPOUND_STRING("{PKMN} TYPE & NO.")},
+    {COMPOUND_STRING("{PKMN}属性与编号")},
     {COMPOUND_STRING("持有物")},
     {gText_Exit},
 };
@@ -672,7 +672,7 @@ static const struct MenuAction MultichoiceList_BattleArenaRules[] =
 static const struct MenuAction MultichoiceList_BattleTowerRules[] =
 {
     {COMPOUND_STRING("对战塔信息")},
-    {COMPOUND_STRING("BATTLE {PKMN}")},
+    {COMPOUND_STRING("出战{PKMN}")},
     {COMPOUND_STRING("对战沙龙")},
     {COMPOUND_STRING("多人连线")},
     {gText_Exit},
@@ -810,7 +810,7 @@ static const struct MenuAction MultichoiceList_BerryPlot[] =
 };
 
 static const struct MenuAction sMultichoiceList_BikeShop[] = {
-    { COMPOUND_STRING("BICYCLE{CLEAR_TO 0x49}{FONT_SMALL}¥1,000,000") },
+    { COMPOUND_STRING("自行车\n{CLEAR_TO 0x49}\l{FONT_SMALL}¥1,0\l00,000") },
     { COMPOUND_STRING("不买了") }
 };
 
@@ -826,10 +826,10 @@ static const u8 gText_SeviiIslands[] = _("七之岛");
 static const u8 gText_OneIsland[] = _("第1岛");
 static const u8 gText_TwoIsland[] = _("第2岛");
 static const u8 gText_ThreeIsland[] = _("第3岛");
-static const u8 gText_FourIsland[] = _("FOUR ISLAND");
-static const u8 gText_FiveIsland[] = _("FIVE ISLAND");
-static const u8 gText_SixIsland[] = _("SIX ISLAND");
-static const u8 gText_SevenIsland[] = _("SEVEN ISLAND");
+static const u8 gText_FourIsland[] = _("4之岛");
+static const u8 gText_FiveIsland[] = _("5之岛");
+static const u8 gText_SixIsland[] = _("6之岛");
+static const u8 gText_SevenIsland[] = _("7之岛");
 
 static const struct MenuAction sMultichoiceList_Island23[] = {
     { gText_TwoIsland },
@@ -906,50 +906,50 @@ const u8 sText_NoThanks[] = _("不用了");
 static const struct MenuAction sMultichoiceList_GameCornerPokemonPrizes[] = {
 #if defined(FIRERED)
     { COMPOUND_STRING("ABRA{CLEAR_TO 0x55}{FONT_SMALL} 180 COINS") },
-    { COMPOUND_STRING("CLEFAIRY{CLEAR_TO 0x55}{FONT_SMALL} 500 COINS") },
-    { COMPOUND_STRING("DRATINI{CLEAR_TO 0x4B}{FONT_SMALL} 2,800 COINS") },
-    { COMPOUND_STRING("SCYTHER{CLEAR_TO 0x4B}{FONT_SMALL} 5,500 COINS") },
+    { COMPOUND_STRING("皮皮\n{CLEAR_TO 0x55}\l{FONT_SMALL} 500\l枚代币") },
+    { COMPOUND_STRING("迷你龙\n{CLEAR_TO 0x4B}\l{FONT_SMALL} 2,8\l00枚代币") },
+    { COMPOUND_STRING("飞天螳螂\n{CLEAR_TO 0x4B}\l{FONT_SMALL} 5,5\l00枚代币") },
     { COMPOUND_STRING("PORYGON{CLEAR_TO 0x4B}{FONT_SMALL} 9,999 COINS") },
 #else
     { COMPOUND_STRING("ABRA{CLEAR_TO 0x55}{FONT_SMALL} 120") },
-    { COMPOUND_STRING("CLEFAIRY{CLEAR_TO 0x55}{FONT_SMALL} 750") },
-    { COMPOUND_STRING("PINSIR{CLEAR_TO 0x4B}{FONT_SMALL} 2,500") },
-    { COMPOUND_STRING("DRATINI{CLEAR_TO 0x4B}{FONT_SMALL} 4,600") },
+    { COMPOUND_STRING("皮皮\n{CLEAR_TO 0x55}\l{FONT_SMALL} 750") },
+    { COMPOUND_STRING("凯罗斯\n{CLEAR_TO 0x4B}\l{FONT_SMALL} 2,5\l00") },
+    { COMPOUND_STRING("迷你龙\n{CLEAR_TO 0x4B}\l{FONT_SMALL} 4,6\l00") },
     { COMPOUND_STRING("PORYGON{CLEAR_TO 0x4B}{FONT_SMALL} 6,500") },
 #endif
     { sText_NoThanks }
 };
 
 static const struct MenuAction sMultichoiceList_GameCornerTMPrizes[] = {
-    { COMPOUND_STRING("TM13{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS") },
-    { COMPOUND_STRING("TM23{CLEAR_TO 0x48}{FONT_SMALL}3,500 COINS") },
-    { COMPOUND_STRING("TM24{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS") },
-    { COMPOUND_STRING("TM30{CLEAR_TO 0x48}{FONT_SMALL}4,500 COINS") },
-    { COMPOUND_STRING("TM35{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS") },
+    { COMPOUND_STRING("招式学习器13\n{CLEAR_TO 0x48}\l{FONT_SMALL}4,00\l0代币") },
+    { COMPOUND_STRING("招式学习器23\n{CLEAR_TO 0x48}\l{FONT_SMALL}3,50\l0代币") },
+    { COMPOUND_STRING("招式学习器24\n{CLEAR_TO 0x48}\l{FONT_SMALL}4,00\l0代币") },
+    { COMPOUND_STRING("招式学习器30\n{CLEAR_TO 0x48}\l{FONT_SMALL}4,50\l0代币") },
+    { COMPOUND_STRING("招式学习器35\n{CLEAR_TO 0x48}\l{FONT_SMALL}4,00\l0代币") },
     { sText_NoThanks }
 };
 
 static const struct MenuAction sMultichoiceList_GameCornerBattleItemPrizes[] = {
-    { COMPOUND_STRING("SMOKE BALL{CLEAR_TO 0x5A}{FONT_SMALL}800 COINS") },
-    { COMPOUND_STRING("MIRACLE SEED{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS") },
-    { COMPOUND_STRING("CHARCOAL{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS") },
-    { COMPOUND_STRING("MYSTIC WATER{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS") },
-    { COMPOUND_STRING("YELLOW FLUTE{CLEAR_TO 0x50}{FONT_SMALL}1,600 COINS") },
+    { COMPOUND_STRING("烟幕球\n{CLEAR_TO 0x5A}\l{FONT_SMALL}800代\l币") },
+    { COMPOUND_STRING("奇迹种子\n{CLEAR_TO 0x50}\l{FONT_SMALL}1,00\l0代币") },
+    { COMPOUND_STRING("木炭\n{CLEAR_TO 0x50}\l{FONT_SMALL}1,00\l0代币") },
+    { COMPOUND_STRING("神秘水滴\n{CLEAR_TO 0x50}\l{FONT_SMALL}1,00\l0代币") },
+    { COMPOUND_STRING("黄色玻璃哨\n{CLEAR_TO 0x50}\l{FONT_SMALL}1,60\l0代币") },
     { sText_NoThanks }
 };
 
 static const struct MenuAction sMultichoiceList_DeptStoreElevator[] = {
-    { COMPOUND_STRING("5F") },
-    { COMPOUND_STRING("4F") },
-    { COMPOUND_STRING("3F") },
-    { COMPOUND_STRING("2F") },
-    { COMPOUND_STRING("1F") },
+    { COMPOUND_STRING("5楼") },
+    { COMPOUND_STRING("4楼") },
+    { COMPOUND_STRING("3楼") },
+    { COMPOUND_STRING("2楼") },
+    { COMPOUND_STRING("1楼") },
     { gText_Exit }
 };
 
 static const struct MenuAction sMultichoiceList_GameCornerCoinPurchaseCounter[] = {
-    { COMPOUND_STRING("{FONT_SMALL} 50 COINS{CLEAR_TO 0x45}¥1,000") },
-    { COMPOUND_STRING("{FONT_SMALL}500 COINS{CLEAR_TO 0x40}¥10,000") },
+    { COMPOUND_STRING("{FONT_SMALL} 50枚\n代币\l{CLEAR_TO 0x45}¥\l1,000") },
+    { COMPOUND_STRING("{FONT_SMALL}500枚\n代币\l{CLEAR_TO 0x40}¥\l10,000") },
     { gText_Exit }
 };
 
@@ -961,9 +961,9 @@ static const struct MenuAction sMultichoiceList_LinkedDirectUnion[] = {
 };
 
 static const struct MenuAction sMultichoiceList_CeladonVendingMachine[] = {
-    { COMPOUND_STRING("FRESH WATER{CLEAR_TO 0x57}{FONT_SMALL}¥200") },
-    { COMPOUND_STRING("SODA POP{CLEAR_TO 0x57}{FONT_SMALL}¥300") },
-    { COMPOUND_STRING("LEMONADE{CLEAR_TO 0x57}{FONT_SMALL}¥350") },
+    { COMPOUND_STRING("美味之水\n{CLEAR_TO 0x57}\l{FONT_SMALL}¥200") },
+    { COMPOUND_STRING("劲爽汽水\n{CLEAR_TO 0x57}\l{FONT_SMALL}¥300") },
+    { COMPOUND_STRING("果汁牛奶\n{CLEAR_TO 0x57}\l{FONT_SMALL}¥350") },
     { gText_Exit }
 };
 
@@ -1240,15 +1240,15 @@ static const struct MenuAction MultichoiceList_MomMenu[] =
 
 static const struct MenuAction MultichoiceList_LinkServicesHns[] =
 {
-    {COMPOUND_STRING("TRADE")},
-    {COMPOUND_STRING("BATTLE")},
+    {COMPOUND_STRING("交换")},
+    {COMPOUND_STRING("战斗用品")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_BattleModeHns[] =
 {
-    {COMPOUND_STRING("SINGLE BATTLE")},
-    {COMPOUND_STRING("DOUBLE BATTLE")},
+    {COMPOUND_STRING("单打对战")},
+    {COMPOUND_STRING("双打对战")},
     {gText_Exit},
 };
 

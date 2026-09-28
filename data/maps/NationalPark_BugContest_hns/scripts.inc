@@ -158,10 +158,10 @@ NationalPark_BugContest_Movement_AttendantSide:
 	step_end
 
 NationalPark_BugContest_Text_Trash:
-	.string "Nothing here.$"
+	.string "这里什么都没有。$"
 
 NationlParkBugContest_Text_EnjoyTheContest:
-	.string "ATTENDANT: Enjoy the Contest!$"
+	.string "接待员：请尽情享受大赛吧！$"
 
 NationalParkBugContest_Text_Attendant:
 	.string "ATTENDANT: Would you like to end\n"
@@ -176,32 +176,30 @@ NationalParkBugContest_Text_Contestant2A:
 	.string "sleep with SPORE.$"
 
 NationalParkBugContest_Text_ContestantShaun:
-	.string "SHAUN: I'm not concerned about\n"
-	.string "winning.\p"
-	.string "I'm just looking for rare POKéMON.$"
+	.string "肖恩：我不在乎拿不拿优胜。\p"
+	.string "我只是想找稀有的宝可梦。$"
 
 NationalParkBugContest_Text_Contestant6A:
-	.string "BARRY: You should weaken bug\n"
-	.string "POKéMON first,\p"
-	.string "then throw a BALL.$"
+	.string "巴里：先削弱虫宝可梦的体力，\p"
+	.string "然后再扔精灵球比较好哦。$"
 
 NationalParkBugContest_Text_Contestant7A:
-	.string "CINDY: I love bug POKéMON.\p"
-	.string "I guess you must like them too.$"
+	.string "辛迪：我最喜欢虫属性宝可梦了。\p"
+	.string "想必你也一定很喜欢吧？$"
 
 NationalParkBugContest_Text_Contestant8A:
-	.string "JOSH: I've been collecting bug\n"
-	.string "POKéMON since I was just a baby.\p"
-	.string "There's no way I'm going to lose!$"
+	.string "乔希：我从小婴儿时就在收集虫宝可\n"
+	.string "梦了。\p"
+	.string "我绝对不可能输给别人的！$"
 
 NationalParkBugContest_Text_Contestant9A:
 	.string "SAMUEL: If you've got the time to\n"
 	.string "chat, go find some bug POKéMON.$"
 
 NationalParkBugContest_Text_Contestant10A:
-	.string "KIPP: I've studied about bug\n"
-	.string "POKéMON a lot.\p"
-	.string "I'm going to win for sure.$"
+	.string "基普：我可是好好研究过虫宝可梦的\n"
+	.string "。\p"
+	.string "这次赢的人一定是我。$"
 
 NationalParkBugContest_Text_Sign_RelaxationSquare:
 	.string "RELAXATION SQUARE\n"

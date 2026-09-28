@@ -97,46 +97,39 @@ EcruteakCity_PokemonCenter_Movement_BillBot:
 
 
 EcruteakCity_PokemonCenter1F_Text_Bill1:
-	.string "Hi, I'm BILL. And who are you?\p"
-	.string "Hmm, {PLAYER}, huh?\n"
-	.string "You've come at the right time.$"
+	.string "嗨，我是正辉。你叫什么名字？\p"
+	.string "唔，是{PLAYER}啊？你来得\n"
+	.string "正好！$"
 
 EcruteakCity_PokemonCenter1F_Text_Bill2:
-	.string "I just finished adjustments on my\n"
-	.string "POKéMON STORAGE SYSTEM.\p"
-	.string "You know that PC you use to store\n"
-	.string "all your POKéMON?\p"
-	.string "I developed that myself!\p"
-	.string "Now that I've installed this one,\n"
-	.string "my PC is running at all\l"
-	.string "POKéMON CENTERS in JOHTO and KANTO.\p"
-	.string "I have to hurry on back to\n"
-	.string "GOLDENROD and see my folks. Feel\l"
-	.string "free to visit anytime!\p"
-	.string "Buh-bye!$"
+	.string "我刚刚完成了宝可梦储存系统的最终\n"
+	.string "调整。\p"
+	.string "你知道用来存放宝可梦的那台电脑吗\n"
+	.string "？\p"
+	.string "那可是我亲自开发的哦！\p"
+	.string "现在这里的也安装好了，城都和关都\n"
+	.string "的所有宝可梦中心都可以使用我的电\l"
+	.string "脑系统了。\p"
+	.string "我得赶回满金市去见我家人了。随时\n"
+	.string "欢迎来我家玩哦！\p"
+	.string "拜拜啦！$"
 
 EcruteakCity_PokemonCenter1F_Text_PokefanM:
-	.string "The way the KIMONO GIRLS dance is\n"
-	.string "marvelous.\p"
-	.string "Just like the way they use their\n"
-	.string "POKéMON.$"
+	.string "艺伎们的舞姿真是太美妙了。\p"
+	.string "正如她们指挥宝可梦时那般优雅。$"
 
 EcruteakCity_PokemonCenter1F_Text_PokefanM_Mobile:
-	.string "You must be hoping to battle more\n"
-	.string "people, right?\p"
-	.string "There's apparently some place where\n"
-	.string "trainers gather.\p"
-	.string "Where, you ask?\p"
-	.string "It's a little past OLIVINE CITY.$"
+	.string "你一定很想和更多的人对战吧？\p"
+	.string "听说有个训练家聚集的场所哦。\p"
+	.string "你问在哪里？\p"
+	.string "从浅黄市再往前走一点就是了。$"
 
 EcruteakCity_PokemonCenter1F_Text_CooltrainerF:
-	.string "MORTY, the GYM LEADER, is soooo\n"
-	.string "cool.\p"
-	.string "His POKéMON are really tough too.$"
+	.string "道馆馆主松叶真是太--帅了！\p"
+	.string "他的宝可梦也是强得没话说。$"
 
 EcruteakCity_PokemonCenter1F_Text_GymGuide:
-	.string "LAKE OF RAGE…\p"
-	.string "The appearance of a GYARADOS\n"
-	.string "swarm…\p"
-	.string "I smell a conspiracy. I know it!$"
+	.string "愤怒之湖......\p"
+	.string "大量出现的暴鲤龙......\p"
+	.string "我嗅到了阴谋的味道。绝对没错！$"
 

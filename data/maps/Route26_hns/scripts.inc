@@ -63,110 +63,108 @@ Route26_EventScript_Richard::
 	end
 
 Route26_Text_CooltrainermJakeSeen:
-    .string "I'm making my final preparations\n"
-    .string "for the POKéMON LEAGUE.$"
+    .string "我正在为挑战宝可梦联盟做最后的准\n"
+    .string "备呢。$"
 
 Route26_Text_CooltrainermJakeBeaten:
-    .string "I blew it!$"
+    .string "搞砸了！$"
 
 Route26_Text_CooltrainermJakeAfter:
-    .string "It's going to be tough to win at\n"
-    .string "the LEAGUE.\p"
-    .string "I need to do some more training.\p"
-    .string "I hear that the LEAGUE's ELITE\n"
-    .string "FOUR are tougher than GYM LEADERS.$"
+    .string "想要在联盟获胜可真不容易。\p"
+    .string "我得再多修行修行才行。\p"
+    .string "听说联盟的四天王比道馆馆主还要厉\n"
+    .string "害呢。$"
 
 Route26_Text_CooltrainermGavenSeen:
-    .string "By experiencing tough battles, you\n"
-    .string "gain power.$"
+    .string "经历过艰难的对战，才能获得强大的\n"
+    .string "力量。$"
 
 Route26_Text_CooltrainermGavenBeaten:
-    .string "Gaah! Life is even tougher!$"
+    .string "哇啊！人生可比这还要艰难啊！$"
 
 Route26_Text_CooltrainermGavenAfter:
-    .string "To get to POKéMON LEAGUE, you have\n"
-    .string "to get through VICTORY ROAD.\p"
-    .string "But VICTORY ROAD is tough.\p"
-    .string "Practically nobody goes there!$"
+    .string "要想前往宝可梦联盟，就必须穿过冠\n"
+    .string "军之路。\p"
+    .string "但是冠军之路非常艰险。\p"
+    .string "几乎没有人能去那里！$"
 
 Route26_Text_GavenRegister:
-    .string "To get to POKéMON LEAGUE, you have\n"
-    .string "to get through VICTORY ROAD.\p"
-    .string "But VICTORY ROAD is tough.\p"
-    .string "Practically nobody goes there!$"
+    .string "要想前往宝可梦联盟，就必须穿过冠\n"
+    .string "军之路。\p"
+    .string "但是冠军之路非常艰险。\p"
+    .string "几乎没有人能去那里！$"
 
 Route26_Text_GavenRematchIntro:
-    .string "By experiencing tough battles, you\n"
-    .string "gain power.$"
+    .string "经历过艰难的对战，才能获得强大的\n"
+    .string "力量。$"
 
 Route26_Text_GavenRematchDefeat:
-    .string "Gaah! Life is even tougher!$"
+    .string "哇啊！人生可比这还要艰难啊！$"
 
 Route26_Text_GavenPostRematch:
-    .string "To get to POKéMON LEAGUE, you have\n"
-    .string "to get through VICTORY ROAD.\p"
-    .string "But VICTORY ROAD is tough.\p"
-    .string "Practically nobody goes there!$"
+    .string "要想前往宝可梦联盟，就必须穿过冠\n"
+    .string "军之路。\p"
+    .string "但是冠军之路非常艰险。\p"
+    .string "几乎没有人能去那里！$"
 
 Route26_Text_CooltrainerfJoyceSeen:
-    .string "Since you've come this far,\n"
-    .string "you must be good.\p"
-    .string "I'm going to give this battle\n"
-    .string "everything I've got!$"
+    .string "既然你能走到这里，实力一定非同小\n"
+    .string "可。\p"
+    .string "这场对战我也会全力以赴的！$"
 
 Route26_Text_CooltrainerfJoyceBeaten:
-    .string "No! I don't believe this!$"
+    .string "不！这不可能！$"
 
 Route26_Text_CooltrainerfJoyceAfter:
-    .string "I've defeated eight GYM LEADERS,\n"
-    .string "so I was feeling confident.\p"
-    .string "I'll have to try harder next time.$"
+    .string "我已经打赢了8位道馆馆主，本来还\n"
+    .string "挺有自信的。\p"
+    .string "看来下次得更加努力才行了。$"
 
 Route26_Text_CooltrainerfBethSeen:
-    .string "I lost to a trainer named {RIVAL}.\p"
-    .string "He was really strong, but…\p"
-    .string "It was as if he absolutely had to\n"
-    .string "win at any cost.\p"
-    .string "I felt sorry for his POKéMON.$"
+    .string "我输给了一个叫{RIVAL}的训\n"
+    .string "练家。\p"
+    .string "他确实很强，但是......\p"
+    .string "他给人的感觉就像是不择手段也一定\n"
+    .string "要赢似的。\p"
+    .string "真替他的宝可梦感到难过。$"
 
 Route26_Text_CooltrainerfBethBeaten:
-    .string "POKéMON aren't tools of war.$"
+    .string "宝可梦可不是争斗的工具。$"
 
 Route26_Text_CooltrainerfBethAfter:
-    .string "POKéMON are in-valuable, lifelong\n"
-    .string "partners.$"
+    .string "宝可梦是无比珍贵、相伴一生的伙伴\n"
+    .string "。$"
 
 Route26_Text_BethRegister:
-    .string "POKéMON are invaluable, lifelong\n"
-    .string "partners.$"
+    .string "宝可梦是无比珍贵、相伴一生的伙伴\n"
+    .string "。$"
 
 Route26_Text_BethRematchIntro:
-    .string "I lost to a trainer named {RIVAL}.\p"
-    .string "But I won't lose to you!$"
+    .string "我输给了一个叫{RIVAL}的训\n"
+    .string "练家。\p"
+    .string "但我可不会再输给你！$"
 
 Route26_Text_BethRematchDefeat:
-    .string "POKéMON aren't tools of war.$"
+    .string "宝可梦可不是争斗的工具。$"
 
 Route26_Text_BethPostRematch:
-    .string "POKéMON are invaluable, lifelong\n"
-    .string "partners.$"
+    .string "宝可梦是无比珍贵、相伴一生的伙伴\n"
+    .string "。$"
 
 Route26_Text_PsychicRichardSeen:
-    .string "Wow, look at all those BADGES!\n"
-    .string "I'm impressed.\p"
-    .string "But you're not satisfied by just\n"
-    .string "collecting them, right?$"
+    .string "哇，瞧瞧你身上这一排徽章！真让人\n"
+    .string "佩服。\p"
+    .string "不过你不会光收集到徽章就满足了吧\n"
+    .string "？$"
 
 Route26_Text_PsychicRichardBeaten:
-    .string "Good battle!$"
+    .string "精彩的对战！$"
 
 Route26_Text_PsychicRichardAfter:
-    .string "People and POKéMON grow from their\n"
-    .string "experiences.\p"
-    .string "Don't get lazy and complacent.$"
+    .string "人和宝可梦都是从经验中成长的。\p"
+    .string "可千万别懈怠自满哦。$"
 
 Route26_Text_Sign:
-    .string "ROUTE 26\p"
-    .string "POKéMON LEAGUE\n"
-    .string "RECEPTION GATE$"
+    .string "26号道路\p"
+    .string "宝可梦联盟接待大门$"
 

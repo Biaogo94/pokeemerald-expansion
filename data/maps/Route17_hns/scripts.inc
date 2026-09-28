@@ -97,84 +97,85 @@ Route17_EventScript_RematchCharlesTryGiveItem::
 	end
 
 Route17_Text_BikerRileySeen:
-	.string "Hey, you! You're from JOHTO, huh?$"
+	.string "喂，你！你是从城都来的吧？$"
 
 Route17_Text_BikerRileyBeaten:
-	.string "Whoa, you kick!$"
+	.string "哇，真有两下子！$"
 
 Route17_Text_BikerRileyAfterBattle:
-	.string "Don't get cocky, you JOHTO punk!$"
+	.string "别太得意了，你这城都来的小鬼！$"
 
 Route17_Text_BikerJoelSeen:
-	.string "Wow. That's a cool BICYCLE!$"
+	.string "哇，那辆自行车真帅！$"
 
 Route17_Text_BikerJoelBeaten:
-	.string "But you don't just look cool…$"
+	.string "但你不光是看起来帅而已.....\n"
+	.string ".$"
 
 Route17_Text_BikerJoelAfterBattle:
-	.string "I look cool, but I'm weak, so I'm\n"
-	.string "not really cool.\p"
-	.string "I have to train harder…$"
+	.string "我看起来很酷，但实力太弱，所以根\n"
+	.string "本算不上真帅。\p"
+	.string "我必须更加努力特训才行.....\n"
+	.string ".$"
 
 Route17_Text_BikerGlennSeen:
-	.string "Hey! Want to have a speed battle?$"
+	.string "喂！想来一场速度的对决吗？$"
 
 Route17_Text_BikerGlennBeaten:
-	.string "Yikes! You've got awesome torque!$"
+	.string "哇呀！你的冲劲真猛！$"
 
 Route17_Text_BikerGlennAfterBattle:
-	.string "Hands-free riding is considered\n"
-	.string "cool on CYCLING ROAD.$"
+	.string "在自行车道上，双手脱把骑行才叫帅\n"
+	.string "气。$"
 
 Route17_Text_BikerCharlesSeen:
-	.string "We're fearless highway stars!$"
+	.string "我们可是无所畏惧的公路之星！$"
 
 Route17_Text_BikerCharlesBeaten:
-	.string "Arrrgh! Crash and burn!$"
+	.string "啊啊啊！彻底翻车啦！$"
 
 Route17_Text_BikerCharlesAfterBattle:
-	.string "Reckless driving causes accidents!\n"
-	.string "Take it easy!$"
+	.string "危险驾驶会导致事故的！骑慢点悠着\n"
+	.string "点！$"
 
 Route17_Text_RileyRegister:
-	.string "Not bad for a JOHTO kid!$"
+	.string "对城都的小鬼来说，算不错了！$"
 
 Route17_Text_RileyRematchIntro:
-	.string "JOHTO punks can only win once!$"
+	.string "城都小鬼也就只能赢这么一回！$"
 
 Route17_Text_RileyRematchDefeat:
-	.string "I got kicked...$"
+	.string "我被打趴了......$"
 
 Route17_Text_RileyPostRematch:
-	.string "Maybe I should train in JOHTO\n"
-	.string "after all.$"
+	.string "也许我也应该去城都修行一下了。$"
 
 Route17_Text_JoelRegister:
-	.string "You're pretty cool after all!\n"
-	.string "Let's trade numbers!$"
+	.string "你果然挺帅气的嘛！来交换电话号码\n"
+	.string "吧！$"
 
 Route17_Text_JoelRematchIntro:
-	.string "Let's see who's cooler now!$"
+	.string "来看看现在到底谁更帅！$"
 
 Route17_Text_JoelRematchDefeat:
-	.string "Still not cool enough…$"
+	.string "还是不够帅气啊......$"
 
 Route17_Text_JoelPostRematch:
-	.string "I'll keep training to be as cool\n"
-	.string "as you, kid!$"
+	.string "小鬼，为了能变得和你一样帅，我会\n"
+	.string "继续特训的！$"
 
 Route17_Text_CharlesRegister:
-	.string "You're a heartbreaker like me, kid!\n"
-	.string "Give me your number!$"
+	.string "小鬼，你跟我一样是个芳心纵火犯啊\n"
+	.string "！把你的号码告诉我吧！$"
 
 Route17_Text_CharlesRematchIntro:
-	.string "I'm not just a highway star,\n"
-	.string "I'm a heartbreaker!$"
+	.string "我可不仅是公路之星，还是个芳心纵\n"
+	.string "火犯！$"
 
 Route17_Text_CharlesRematchDefeat:
-	.string "Crashed and burned again!$"
+	.string "又彻底翻车了！$"
 
 Route17_Text_CharlesPostRematch:
-	.string "I met a trainer like you in UNOVA.\n"
-	.string "Don't crash out!$"
+	.string "我在合众地区也遇到过像你这样的训\n"
+	.string "练家。可别翻车咯！$"
 

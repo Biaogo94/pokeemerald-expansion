@@ -12,8 +12,8 @@ Route22_EventScript_Sign::
 	end
 
 Route22_Text_VictoryRoadEntranceSign:
-	.string "POKéMON LEAGUE\p"
-	.string "VICTORY ROAD ENTRANCE$"
+	.string "宝可梦联盟\p"
+	.string "冠军之路 入口$"
 
 Route22_EventScript_ResetActivation::
 	setvar VAR_TEMP_0, 0
@@ -284,11 +284,10 @@ Route22_Movement_CelebiPush:
 
 
 Route22_Text_Silver1:
-	.string "{RIVAL}: You told me...\n"
-	.string "you were the number one in the whole\l"
-	.string "world!\p"
-	.string "Are you gonna quit?\p"
-	.string "What are you going to do now?$"
+	.string "{RIVAL}：你明明说过...\n"
+	.string "...自己要成为世界第一的！\p"
+	.string "你就这么放弃了吗？\p"
+	.string "那你接下来打算怎么办？$"
 
 Route22_Text_Giovanni1:
 	.string "....................\p"
@@ -316,8 +315,9 @@ Route22_Text_Giovanni2:
 	.string "revival of me and my TEAM ROCKET!$"
 
 Route22_Text_Silver3:
-	.string "{RIVAL}: I don't understand you!\p"
-	.string "You don't make any sense!$"
+	.string "{RIVAL}：我才听不懂你在说\n"
+	.string "什么！\p"
+	.string "你说的根本就莫名其妙！$"
 
 Route22_Text_Giovanni3:
 	.string ".......................\p"
@@ -337,8 +337,9 @@ Route22_Text_Silver4:
 	.string "by myself!$"
 
 Route22_Text_Silver5:
-	.string "ALL BY MYSELF!$"
+	.string "只凭我自己一个人！$"
 
 Route22_Text_Silver6:
-	.string "{RIVAL}: ... What are you staring at?$"
+	.string "{RIVAL}：......你看\n"
+	.string "什么看？$"
 

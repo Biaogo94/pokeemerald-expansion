@@ -27,34 +27,31 @@ NewSinjoh_Cafe_Pokemart_Resturant:
 	end
 
 NewSinjoh_Cafe_Text_ResturantGreeting:
-	.string "H-hello! Welcome to our Cafe!\n"
-	.string "How can I help you today?$"
+	.string "你、你好！欢迎光临咖啡馆！今天想\n"
+	.string "点些什么呢？$"
 
 NewSinjoh_Cafe_Text_ResturantEnd:
-	.string "Please come again!$"
+	.string "欢迎下次再来！$"
 
 NewSinjoh_Cafe_EventScript_BaldingMan::
 	msgbox NewSinjoh_Cafe_Text_BaldingMan, MSGBOX_NPC
 	end
 
 NewSinjoh_Cafe_Text_BaldingMan:
-	.string "A local family has run this\n"
-	.string "cafe for as long as anyone\l"
-	.string "can remember.\p"
-	.string "Their youngest girl over there\n"
-	.string "isn't used to serving so many\l"
-	.string "strangers.$"
+	.string "从大家有记忆起，这间咖啡馆就一直\n"
+	.string "由当地的一户人家经营着。\p"
+	.string "那边那个小女孩还不习惯招待这么多\n"
+	.string "生面孔呢。$"
 
 NewSinjoh_Cafe_EventScript_ScientistF::
 	msgbox NewSinjoh_Cafe_Text_ScientistF, MSGBOX_NPC
 	end
 
 NewSinjoh_Cafe_Text_ScientistF:
-	.string "This drink is so goo--ood!\n"
-	.string ".......\p"
-	.string ".......\p"
-	.string "Hahaha\p"
-	.string ".......$"
+	.string "这喝的太棒--了！......\p"
+	.string "......\p"
+	.string "哈哈哈\p"
+	.string "......$"
 
 NewSinjoh_Cafe_EventScript_ScientistM::
 	lock
@@ -65,22 +62,22 @@ NewSinjoh_Cafe_EventScript_ScientistM::
 	end
 
 NewSinjoh_Cafe_Text_ScientistM:
-	.string "Please forgive my colleague...\p"
-	.string "The drinks here are stronger than\n"
-	.string "what we're used to in HOENN.\p"
-	.string "I tried to warn her, but she said\n"
-	.string "she needed to unwind.\p"
-	.string "This research expedition has been\n"
-	.string "hard on us all.$"
+	.string "请原谅我这位同事的失态.....\n"
+	.string ".\p"
+	.string "这里的饮品后劲比我们在丰缘平时喝\n"
+	.string "的烈得多。\p"
+	.string "我试过劝她，但她说她想放松一下。\p"
+	.string "这次学术考察对我们所有人来说都太\n"
+	.string "不容易了。$"
 
 NewSinjoh_Cafe_EventScript_Gentleman::
 	msgbox NewSinjoh_Cafe_Text_Gentleman, MSGBOX_NPC
 	end
 
 NewSinjoh_Cafe_Text_Gentleman:
-	.string "What are you staring at, kid?\p"
-	.string "Nothin' wrong with a man and his\n"
-	.string "POKéMON eating at the same table.$"
+	.string "你看什么看，小鬼？\p"
+	.string "大老爷们儿和自己的宝可梦坐在同一\n"
+	.string "张桌子前吃饭，有什么不可以的！$"
 
 NewSinjoh_EventScript_Scyther::
 	lock
@@ -93,4 +90,4 @@ NewSinjoh_EventScript_Scyther::
 	end
 
 NewSinjoh_Text_Scyther:
-	.string "Scyyy!$"
+	.string "唰--！$"

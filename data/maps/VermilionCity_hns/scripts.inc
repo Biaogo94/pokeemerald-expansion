@@ -309,79 +309,74 @@ VermilionCity_Movement_EusineLeave:
 	step_end
 
 VermilionCity_Text_Eusine:
-	.string "EUSINE: That was so close!\n"
-	.string "I though I could corner it by\l"
-	.string "ambushing it here.\p"
-	.string "But running on the water is beyond\n"
-	.string "me.\p"
-	.string "Still, I am starting to see\n"
-	.string "a pattern.\p"
-	.string "SUICUNE prefers water!\p"
-	.string "That means...$"
+	.string "米那君：太可惜了！我还以为埋伏在\n"
+	.string "这里就能把它逼入绝境呢。\p"
+	.string "但要在水面上奔跑，我可办不到啊。\p"
+	.string "不过，我开始摸清它的行踪规律了。\p"
+	.string "水君偏爱水边！\p"
+	.string "也就是说......$"
 
 VermilionCity_Text_Eusine2:
-	.string "Sorry {PLAYER}, I've got to go!$"
+	.string "抱歉啦，{PLAYER}，我得先\n"
+	.string "走了！$"
 
 VermilionCity_Text_Teacher:
-	.string "VERMILION PORT is KANTO's seaside\n"
-	.string "gateway.\p"
-	.string "Luxury liners from around the\n"
-	.string "world dock here.$"
+	.string "枯叶港是关都的海上门户。\p"
+	.string "来自世界各地的豪华客轮都会停靠在\n"
+	.string "此。$"
 
 VermilionCity_Text_MachopOwner:
-	.string "My POKéMON is preparing the land\n"
-	.string "for construction.\p"
-	.string "But I have no money to start the\n"
-	.string "project…$"
+	.string "我的宝可梦正在整备土地准备施工。\p"
+	.string "但我根本没钱启动这个工程....\n"
+	.string "..$"
 
 VermilionCity_Text_Machop1:
-	.string "MACHOP: Guooh gogogoh!$"
+	.string "腕力：果哦！果果果！$"
 
 VermilionCity_Text_Machop2:
-	.string "A MACHOP is growling while\n"
-	.string "stomping the ground flat.$"
+	.string "腕力正一边低吼着，一边把地面踩得\n"
+	.string "平平整整。$"
 
 VermilionCity_Text_SuperNerd:
-	.string "There are eight GYMS in KANTO.\p"
-	.string "That big building is VERMILION's\n"
-	.string "POKéMON GYM.$"
+	.string "关都一共有8座道馆。\p"
+	.string "那栋大建筑就是枯叶市的宝可梦道馆\n"
+	.string "。$"
 
 VermilionCity_Text_SnorlaxSleeping:
-	.string "SNORLAX is snoring peacefully…$"
+	.string "卡比兽正香甜地打着呼噜.....\n"
+	.string ".$"
 
 VermilionCity_Text_RadioNearSnorlax:
-	.string "The POKéGEAR was placed near \n"
-	.string "the sleeping SNORLAX…\p"
-	.string "…\p"
-	.string "SNORLAX woke up!$"
+	.string "把宝可梦齿轮放到了睡着的卡比兽身\n"
+	.string "旁......\p"
+	.string "......\p"
+	.string "卡比兽醒过来了！$"
 
 VermilionCity_Text_BadgeGuy_Trainer:
-	.string "Skilled trainers gather in KANTO.\p"
-	.string "GYM LEADERS are especially strong.\p"
-	.string "They won't be easy to defeat.$"
+	.string "实力高强的训练家都聚集在关都。\p"
+	.string "道馆馆主们更是非同小可。\p"
+	.string "想打败他们可没那么容易。$"
 
 VermilionCity_Text_BadgeGuy_SomeBadges:
-	.string "You've started to collect KANTO\n"
-	.string "GYM BADGES?\p"
-	.string "Don't you agree that the trainers\n"
-	.string "here are tough?$"
+	.string "你开始收集关都的道馆徽章了吗？\p"
+	.string "是不是也觉得这里的训练家都很强？$"
 
 VermilionCity_Text_BadgeGuy_MostBadges:
-	.string "I guess you'll be finished with\n"
-	.string "your conquest of KANTO GYMS soon.\p"
-	.string "Let me know if you get all eight\n"
-	.string "BADGES.$"
+	.string "看来你很快就能称霸关都的所有道馆\n"
+	.string "了。\p"
+	.string "如果你集齐了8枚徽章，记得来告诉\n"
+	.string "我一声。$"
 
 VermilionCity_Text_BadgeGuy_AllBadges:
-	.string "Congratulations!\p"
-	.string "You got all the KANTO GYM BADGES.\p"
-	.string "I've got a reward for your efforts.$"
+	.string "恭喜你！\p"
+	.string "你集齐了关都的所有道馆徽章。\p"
+	.string "这是对你努力付出的奖励。$"
 
 VermilionCity_Text_BadgeGuy_BattleEdge:
-	.string "Having a variety of POKéMON types\n"
-	.string "should give you an edge in battle.\p"
-	.string "I'm sure the KANTO GYM BADGES will\n"
-	.string "help you.$"
+	.string "拥有多种不同属性的宝可梦，能在对\n"
+	.string "战中占据优势。\p"
+	.string "我相信关都地区的道馆徽章一定会对\n"
+	.string "你有所帮助的。$"
 
 VermilionCity_EventScript_CitySign::
 	msgbox VermilionCity_Text_Sign, MSGBOX_SIGN
@@ -397,25 +392,23 @@ VermilionCity_EventScript_DiglettsCaveSign::
 	end
 
 VermilionCity_Text_Sign:
-	.string "VERMILION CITY\p"
-	.string "The Port of Exquisite Sunsets$"
+	.string "枯叶市\p"
+	.string "落日染红的港湾$"
 
 VermilionCity_Text_GymSign:
-	.string "VERMILION CITY\n"
-	.string "POKéMON GYM\p"
-	.string "LEADER: LT.SURGE\p"
-	.string "The Lightning American$"
+	.string "枯叶市宝可梦道馆\p"
+	.string "馆主：马志士\p"
+	.string "闪电美国人$"
 
 VermilionCity_Text_FanClubSign:
-	.string "POKéMON FAN CLUB\p"
-	.string "All POKéMON Fans Welcome!$"
+	.string "宝可梦发烧友俱乐部\p"
+	.string "欢迎所有宝可梦爱好者！$"
 
 VermilionCity_Text_DiglettsCaveSign:
 	.string "地鼠洞$"
 
 VermilionCity_Text_PortSign:
-	.string "VERMILION PORT\n"
-	.string "ENTRANCE$"
+	.string "枯叶港入口$"
 
 VermilionCity_EventScript_TriggerStevenLeft::
 	lock
@@ -501,34 +494,29 @@ VermilionCity_Movement_StevenWalkToPlayer:
 	step_end
 
 VermilionCity_Text_StevenIntro:
-	.string "Hi!\n"
-	.string "My name is Steven.\l"
-	.string "The Champion from the HOENN region.\p"
-	.string "Have we met...before?\p"
-	.string "That's not possible. \n"
-	.string "All the trainers I have battled\l"
-	.string "seem to have the same look, anyway.\p"
-	.string "Especially the ones who gave me\n"
-	.string "tough battles.\p"
-	.string "I'm in KANTO for business.\n"
-	.string "Recently many HOENN POKéMON have\l"
-	.string "migrated to this region.\l"
-	.string "This influx risks disrupting the\l"
-	.string "natural ecosystem here.\p"
-	.string "So with the help of my company,\n"
-	.string "I'm creating a special habitat\l"
-	.string "to attract and contain the most\l"
-	.string "invasive species.\p"
-	.string "Make sure you keep an eye out\n"
-	.string "and catch any HOENN POKéMON you see.\p"
-	.string "Some trainers have even reported\n"
-	.string "one that soars through the sky like\l"
-	.string "a jet... What color was it again?$"
+	.string "你好！我叫大吾。是来自丰缘地区的\n"
+	.string "冠军。\p"
+	.string "我们以前......见过面吗？\p"
+	.string "不可能吧。不过跟我对战过的训练家\n"
+	.string "，眼神看起来都差不多。\p"
+	.string "尤其是那些曾与我展开过恶战的训练\n"
+	.string "家。\p"
+	.string "我来关都是为了公事。最近有很多丰\n"
+	.string "缘地区的宝可梦迁徙到了这个地区。\l"
+	.string "这种涌入可能会破坏这里的自然生态\l"
+	.string "系统。\p"
+	.string "所以在我公司的协助下，我正在建立\n"
+	.string "一个特殊的栖息地，以吸引并收容那\l"
+	.string "些外来物种。\p"
+	.string "请你多加留意，尽量收服遇见的丰缘\n"
+	.string "宝可梦。\p"
+	.string "甚至有训练家报告称，看到一只像喷\n"
+	.string "气机一样在空中翱翔的宝可梦...\l"
+	.string "...那家伙到底是什么颜色来着？$"
 
 VermilionCity_Text_StevenOutro:
-	.string "Ah, that's right.\p"
-	.string "I must go.\n"
-	.string "May our journeys cross again.$"
+	.string "啊，对了。\p"
+	.string "我该走了。愿我们的旅途再次交汇。$"
 
 VermilionCity_EventScript_TriggerSamson::
 	lock
@@ -577,16 +565,14 @@ VermilionCity_Movement_SamsonLeave:
 	step_end
 
 VermilionCity_Text_Samson:
-	.string "Whoah!\p"
-	.string "Sorry kiddo, I'm in a hurry!\p"
-	.string "The ferry on ROUTE 13 will be\n"
-	.string "leaving for the ISLES soon, and\l"
-	.string "I've got to be on it!\p"
-	.string "Phew... Phew...\p"
-	.string "I ran all the way here from\n"
-	.string "MT. MOON.\p"
-	.string "See this tchotchke here?\p"
-	.string "I picked up this STRANGE SOUVENIR\n"
-	.string "at the GIFT SHOP.\p"
-	.string "It's my ticket onto the ISLES.\p"
-	.string "Well, see-ya!$"
+	.string "哇啊！\p"
+	.string "抱歉啊小朋友，我赶时间！\p"
+	.string "13号道路前往群岛的渡轮马上就要\n"
+	.string "开了，我必须赶上它才行！\p"
+	.string "呼......呼......\p"
+	.string "我可是一路从月见山跑过来的。\p"
+	.string "看到这个小玩意儿了吗？\p"
+	.string "我是在礼品店买到这个奇妙纪念物的\n"
+	.string "。\p"
+	.string "这可是我去群岛的凭证。\p"
+	.string "好啦，回头见！$"

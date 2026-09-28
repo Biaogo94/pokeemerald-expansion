@@ -86,47 +86,44 @@ CeladonGameCorner_EventScript_Woman::
 	end
 
 CeladonGameCorner_Text_PokefanM:
-	.string "The slot machines are all state\n"
-	.string "of the art.$"
+	.string "这里的游戏机全都是最新型的呢。$"
 
 CeladonGameCorner_Text_Teacher:
-	.string "It's this machine I want.\p"
-	.string "It cleaned me out yesterday, so it\n"
-	.string "should pay out today.$"
+	.string "我就要玩这台机器。\p"
+	.string "昨天它让我输得精光，今天总该吐币\n"
+	.string "了吧。$"
 
 CeladonGameCorner_Text_FishingGuru:
-	.string "I think this slot machine will pay\n"
-	.string "out…\p"
-	.string "The odds vary among machines.$"
+	.string "我觉得这台机器能中大奖.....\n"
+	.string ".\p"
+	.string "每台机器的中奖概率都不一样呢。$"
 
 CeladonGameCorner_Text_Fisher1:
-	.string "Gahahaha!\p"
-	.string "The coins just keep coming in!\p"
-	.string "Hm? What, kid? You want to play?\p"
-	.string "I'll share my luck with you!$"
+	.string "嘎哈哈哈哈！\p"
+	.string "代币一直掉个不停啊！\p"
+	.string "嗯？怎么了，小朋友？你也想玩吗？\p"
+	.string "那我就把我的好运分给你吧！$"
 
 CeladonGameCorner_Text_Fisher2:
-	.string "Gahahaha!\p"
-	.string "It makes me feel good to do nice\n"
-	.string "things for other people!$"
+	.string "嘎哈哈哈哈！\p"
+	.string "能帮到别人，感觉真是太爽快啦！$"
 
 CeladonGameCorner_Text_GymGuide:
-	.string "Hey! CHAMP in making!\p"
-	.string "Are you playing the slots too?\p"
-	.string "I'm trying to get enough coins for\n"
-	.string "a prize POKéMON.\p"
-	.string "But I don't have enough coins yet…$"
+	.string "哟！未来的冠军！\p"
+	.string "你也在玩老虎机吗？\p"
+	.string "我想攒够代币换宝可梦奖品。\p"
+	.string "不过代币还远远不够呢......$"
 
 CeladonGameCorner_Text_PokefanF:
-	.string "Roulette…\p"
-	.string "I prefer it over the slots because\n"
-	.string "it's easier to figure the odds.\p"
-	.string "But the payout is much lower.$"
+	.string "轮盘啊......\p"
+	.string "比起老虎机，我更喜欢玩这个，因为\n"
+	.string "赔率更容易算。\p"
+	.string "不过中奖的报酬也低很多就是了。$"
 
 CeladonGameCorner_Text_Gramps:
-	.string "Hmmm… The odds are surely\n"
-	.string "better putting it all on blue,\l"
-	.string "but… what to do?$"
+	.string "嗯......全部押在蓝色上的胜\n"
+	.string "率肯定更高，但是......该怎\l"
+	.string "么办呢？$"
 
 CeladonGameCorner_Text_Woman:
-	.string "I can't stop winning!$"
+	.string "赢个不停，根本停不下来！$"

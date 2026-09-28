@@ -111,7 +111,7 @@ Route44_Text_FisherWilton1Seen:
     .string "What are you going to do about it?$"
 
 Route44_Text_FisherWilton1Beaten:
-    .string "Just forget about it.$"
+    .string "算了，当我没说。$"
 
 Route44_Text_FisherWiltonHugePoliwag:
     .string "That POLIWAG that got away…\n"
@@ -131,7 +131,7 @@ Route44_Text_WiltonRematchIntro:
     .string "What are you going to do about it?$"
 
 Route44_Text_WiltonRematchDefeat:
-    .string "Just forget about it.$"
+    .string "算了，当我没说。$"
 
 Route44_Text_WiltonPostRematch:
     .string "That POLIWAG that got away…\n"
@@ -159,18 +159,18 @@ Route44_Text_FisherEdgarSeen:
     .string "POKéMON.$"
 
 Route44_Text_FisherEdgarBeaten:
-    .string "Hmmmm… This isn't right.$"
+    .string "唔......这不对劲啊。$"
 
 Route44_Text_FisherEdgarAfter:
-    .string "That's 100 wins to 101 losses.\p"
-    .string "I won't battle again for a while.$"
+    .string "这样战绩就是100胜101负了。\p"
+    .string "我暂时都不想再对战了。$"
 
 Route44_Text_BirdKeeperVance1Seen:
     .string "Do you know about the legendary\n"
     .string "bird POKéMON?$"
 
 Route44_Text_BirdKeeperVance1Beaten:
-    .string "Whew! You're hot stuff.$"
+    .string "呼！你可真有一手。$"
 
 Route44_Text_BirdKeeperVanceBirds:
     .string "ARTICUNO, ZAPDOS and MOLTRES are\n"
@@ -189,7 +189,7 @@ Route44_Text_VanceRematchIntro:
     .string "bird POKéMON?$"
 
 Route44_Text_VanceRematchDefeat:
-    .string "Whew! You're hot stuff.$"
+    .string "呼！你可真有一手。$"
 
 Route44_Text_VancePostRematch:
     .string "ARTICUNO, ZAPDOS and MOLTRES are\n"
@@ -198,10 +198,11 @@ Route44_Text_VancePostRematch:
     .string "birds, though.$"
 
 Route44_Text_PsychicPhilSeen:
-    .string "I'm gonna win, for sure!$"
+    .string "这场我赢定了！$"
 
 Route44_Text_PsychicPhilBeaten:
-    .string "Arrgh… That's a shocking loss…$"
+    .string "啊......居然输得这么彻底.\n"
+    .string ".....$"
 
 Route44_Text_PsychicPhilAfter:
     .string "It's important to have conviction\n"
@@ -227,7 +228,7 @@ Route44_Text_CooltrainermAllenSeen:
     .string "see that you are too.$"
 
 Route44_Text_CooltrainermAllenBeaten:
-    .string "Tch! It's a total loss on my part.$"
+    .string "啧！是我彻底输了。$"
 
 Route44_Text_CooltrainermAllenAfter:
     .string "Wow. You have a lot of BADGES.\p"
@@ -242,7 +243,7 @@ Route44_Text_CooltrainerfCybilSeen:
     .string "opponents instinctively.$"
 
 Route44_Text_CooltrainerfCybilBeaten:
-    .string "Nope! This won't do at all.$"
+    .string "不行！这样完全不行啊。$"
 
 Route44_Text_CooltrainerfCybilAfter:
     .string "We all get better by experiencing\n"
@@ -255,6 +256,6 @@ Route44_Text_Sign1:
     .string "ICE PATH AHEAD$"
 
 Route44_Text_Sign2:
-    .string "ROUTE 44\p"
-    .string "MAHOGANY TOWN - BLACKTHORN CITY$"
+    .string "44号道路\p"
+    .string "卡吉镇 - 烟墨市$"
 

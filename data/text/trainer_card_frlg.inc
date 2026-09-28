@@ -9,7 +9,7 @@ CeladonCity_GameCorner_Text_DontHaveEnoughMoney::
 	.string "你的钱不够。$"
 
 CeladonCity_GameCorner_Text_ChoosePrintType::
-	.string "Please choose the print type.$"
+	.string "请选择打印类型。$"
 
 CeladonCity_GameCorner_Text_BigSmileForPhoto::
 	.string "A big smile for the photo, please!\n"
@@ -78,9 +78,8 @@ FourIsland_House2_Text_HoFStickerApplied::
 	.string "applied to the TRAINER CARD.$"
 
 FourIsland_House2_Text_ComeBackWithBetterStoryHoF::
-	.string "Hmm…\p"
-	.string "Come back with a better story next\n"
-	.string "time, okay?$"
+	.string "嗯......\p"
+	.string "下次带个更厉害的故事来，好吗？$"
 
 FourIsland_House2_Text_LivingLegendHoF::
 	.string "Oh, no, no can do.\p"
@@ -117,9 +116,8 @@ FourIsland_House2_Text_EggStickerApplied::
 	.string "to the TRAINER CARD.$"
 
 FourIsland_House2_Text_ComeBackWithBetterStoryEggs::
-	.string "Hmm…\p"
-	.string "Come back with a better story next\n"
-	.string "time, okay?$"
+	.string "嗯......\p"
+	.string "下次带个更厉害的故事来，好吗？$"
 
 FourIsland_House2_Text_LivingLegendEggs::
 	.string "Oh, no, no can do.\p"
@@ -157,9 +155,8 @@ FourIsland_House2_Text_VictoryStickerApplied::
 	.string "to the TRAINER CARD.$"
 
 FourIsland_House2_Text_ComeBackWithBetterStoryLinkWins::
-	.string "Hmm…\p"
-	.string "Come back with a better story next\n"
-	.string "time, okay?$"
+	.string "嗯......\p"
+	.string "下次带个更厉害的故事来，好吗？$"
 
 FourIsland_House2_Text_LivingLegendLinkWins::
 	.string "Oh, no, no can do.\p"

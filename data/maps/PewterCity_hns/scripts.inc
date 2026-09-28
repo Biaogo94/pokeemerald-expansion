@@ -58,8 +58,8 @@ PewterCity_EventScript_Cooltrainer::
 	end
 
 PewterCity_Text_CooltrainerF:
-	.string "Have you visited PEWTER GYM?\p"
-	.string "The LEADER uses ROCK-type POKéMON.$"
+	.string "你去过深灰道馆了吗？\p"
+	.string "馆主使用的是岩石属性的宝可梦。$"
 
 PewterCity_Text_BugCatcher:
 	.string "At night, CLEFAIRY come out to play at\n"
@@ -77,9 +77,9 @@ PewterCity_Text_Gramps:
 	.string "found in JOHTO.$"
 
 PewterCity_Text_Gramps_GotSilverWing:
-	.string "Going to new, unknown places and seeing\n"
-	.string "new people…\p"
-	.string "Those are the joys of travel.$"
+	.string "去往未知的崭新之地，邂逅形形色色\n"
+	.string "的人......\p"
+	.string "这就是旅行的乐趣所在啊。$"
 
 PewterCity_EventScript_CitySign::
 	msgbox PewterCity_Text_Sign, MSGBOX_NPC
@@ -116,9 +116,9 @@ PewterCity_Text_MuseumSign:
 	.string "renovations…$"
 
 PewterCity_Text_MtMoonGiftShopSign:
-	.string "There's a notice here…\p"
-	.string "MT.MOON GIFT SHOP NOW OPEN!$"
+	.string "这里贴着一张告示......\p"
+	.string "月见山纪念品商店现已开业！$"
 
 PewterCity_Text_WelcomeSign:
-	.string "WELCOME TO PEWTER CITY!$"
+	.string "欢迎来到深灰市！$"
 

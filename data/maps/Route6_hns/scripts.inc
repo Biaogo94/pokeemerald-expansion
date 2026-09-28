@@ -35,32 +35,26 @@ Route6_Text_PokefanM:
 	.string "solved.$"
 
 Route6_Text_UndergroundPathSign:
-	.string "UNDERGROUND PATH\p"
-	.string "CERULEAN CITY - VERMILION CITY$"
+	.string "地下通道\p"
+	.string "华蓝市~枯叶市$"
 
 PokefanM_Text_RexSeen:
-	.string "My STANTLER is the cutest in the\n"
-	.string "world.$"
+	.string "我的惊角鹿是世界上最可爱的。$"
 
 PokefanM_Text_RexBeaten:
-	.string "My STANTLER!$"
+	.string "我的惊角鹿！$"
 
 PokefanM_Text_RexAfter:
-	.string "Look how adorable my STANTLER\n"
-	.string "acts!\p"
-	.string "Isn't it cute enough to make\n"
-	.string "your heart melt?$"
+	.string "快看我的惊角鹿有多惹人喜爱！\p"
+	.string "是不是可爱到心都要融化了？$"
 
 PokefanM_Text_AllanSeen:
-	.string "My GRANBULL is the cutest in the\n"
-	.string "world.$"
+	.string "我的布鲁皇是世界上最可爱的。$"
 
 PokefanM_Text_AllanBeaten:
-	.string "My GRANBULL!$"
+	.string "我的布鲁皇！$"
 
 PokefanM_Text_AllanAfter:
-	.string "Look how adorable my GRANBULL\n"
-	.string "acts!\p"
-	.string "Isn't it cute enough to make\n"
-	.string "your heart melt?$"
+	.string "快看我的布鲁皇有多惹人喜爱！\p"
+	.string "是不是可爱到心都要融化了？$"
 

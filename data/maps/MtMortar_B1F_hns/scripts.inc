@@ -72,7 +72,7 @@ MountMortar4_Text_KiyoTyrogueReward:
 	.string "POKéMON.$"
 
 MountMortar4_Text_ReceiveTyrogue:
-	.string "{PLAYER} received TYROGUE.$"
+	.string "{PLAYER}收到了无畏小子。$"
 
 MountMortar4_Text_KiyoGotTyrogue:
 	.string "TYROGUE is a FIGHTING-type.\p"
@@ -83,4 +83,4 @@ MountMortar4_Text_KiyoGotTyrogue:
 	.string "Farewell!$"
 
 MountMortar4_Text_KiyoFullParty:
-	.string "You have no room in your party!$"
+	.string "你的同行宝可梦已经满了！$"

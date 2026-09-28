@@ -16,16 +16,15 @@ Route41_EventScript_Charlie::
 	end
 
 Route41_Text_SwimmermCharlieSeen:
-	.string "The water's warm here.\n"
-	.string "I'm loose and limber.\p"
-	.string "Sure, I'll take you on!$"
+	.string "这里的水温好暖和。我筋骨都活动开\n"
+	.string "了。\p"
+	.string "好啊，我来跟你切磋切磋！$"
 
 Route41_Text_SwimmermCharlieBeaten:
-	.string "Yikes! I've got prune skin!$"
+	.string "哎呀！手皮都泡皱了！$"
 
 Route41_Text_SwimmermCharlieAfter:
-	.string "Isn't it relaxing just floating\n"
-	.string "like this?$"
+	.string "像这样漂浮在水上，不是很惬意吗？$"
 
 Route41_EventScript_George::
 	trainerbattle_single TRAINER_GEORGE_HNS, Route41_Text_SwimmermGeorgeSeen, Route41_Text_SwimmermGeorgeBeaten
@@ -33,17 +32,16 @@ Route41_EventScript_George::
 	end
 
 Route41_Text_SwimmermGeorgeSeen:
-	.string "I'm a bit tired.\n"
-	.string "If I win, lend me your POKéMON.$"
+	.string "我游得有点累了。如果我赢了，把你\n"
+	.string "的宝可梦借我骑骑。$"
 
 Route41_Text_SwimmermGeorgeBeaten:
-	.string "Pant, pant…$"
+	.string "呼......哈......$"
 
 Route41_Text_SwimmermGeorgeAfter:
-	.string "It's so far to CIANWOOD.\p"
-	.string "But it's no easy return trip\n"
-	.string "to OLIVINE either.\p"
-	.string "What should I do?$"
+	.string "去湛蓝市还有好远啊。\p"
+	.string "可回浅黄市也没那么容易了。\p"
+	.string "我该怎么办啊？$"
 
 Route41_EventScript_Berke::
 	trainerbattle_single TRAINER_BERKE_HNS, Route41_Text_SwimmermBerkeSeen, Route41_Text_SwimmermBerkeBeaten
@@ -51,20 +49,18 @@ Route41_EventScript_Berke::
 	end
 
 Route41_Text_SwimmermBerkeSeen:
-	.string "See those islands that are\n"
-	.string "blocked by whirlpools?\p"
-	.string "There just has to be a secret!$"
+	.string "看到那些被漩涡包围的岛屿了吗？\p"
+	.string "那里肯定藏着什么秘密！$"
 
 Route41_Text_SwimmermBerkeBeaten:
-	.string "What's the secret to your\n"
-	.string "strength?$"
+	.string "你强大的秘诀究竟是什么？$"
 
 Route41_Text_SwimmermBerkeAfter:
-	.string "It was a dark and stormy night…\p"
-	.string "I saw this giant POKéMON flying\n"
-	.string "from the islands.\p"
-	.string "It was scattering feathers\n"
-	.string "from its silver wings.$"
+	.string "那是一个漆黑而暴风雨交加的夜晚.\n"
+	.string ".....\p"
+	.string "我看见一只巨大的宝可梦从岛上飞了\n"
+	.string "出来。\p"
+	.string "它银色的羽翼上洒下点点光芒。$"
 
 Route41_EventScript_Kirk::
 	trainerbattle_single TRAINER_KIRK_HNS, Route41_Text_SwimmermKirkSeen, Route41_Text_SwimmermKirkBeaten
@@ -72,12 +68,11 @@ Route41_EventScript_Kirk::
 	end
 
 Route41_Text_SwimmermKirkSeen:
-	.string "The waves are wild here.\p"
-	.string "They tire you out while\n"
-	.string "you swim.$"
+	.string "这里的风浪好大啊。\p"
+	.string "游起泳来特别耗费体力。$"
 
 Route41_Text_SwimmermKirkBeaten:
-	.string "I'm beat!$"
+	.string "我认输了！$"
 
 Route41_Text_SwimmermKirkAfter:
 	.string "The currents keep me from\n"
@@ -93,11 +88,11 @@ Route41_Text_SwimmermMathewSeen:
 	.string "of WHIRL ISLANDS?$"
 
 Route41_Text_SwimmermMathewBeaten:
-	.string "Ooh, you've got great endurance!$"
+	.string "呜哇，你的体力真好！$"
 
 Route41_Text_SwimmermMathewAfter:
-	.string "A secret about WHIRL ISLANDS…\p"
-	.string "It's pitch-black inside!$"
+	.string "关于漩涡列岛的秘密嘛......\p"
+	.string "里面可是黑得伸手不见五指！$"
 
 Route41_EventScript_Kaylee::
 	trainerbattle_single TRAINER_KAYLEE_HNS, Route41_Text_SwimmerfKayleeSeen, Route41_Text_SwimmerfKayleeBeaten
@@ -105,11 +100,11 @@ Route41_EventScript_Kaylee::
 	end
 
 Route41_Text_SwimmerfKayleeSeen:
-	.string "I'm on my way to WHIRL ISLANDS.\p"
-	.string "I'm going exploring with friends.$"
+	.string "我正打算前往漩涡列岛。\p"
+	.string "准备和朋友们一起去探险。$"
 
 Route41_Text_SwimmerfKayleeBeaten:
-	.string "Is that how you do it?$"
+	.string "原来是这么对战的吗？$"
 
 Route41_Text_SwimmerfKayleeAfter:
 	.string "There's supposed to be a big\n"
@@ -126,7 +121,7 @@ Route41_Text_SwimmerfSusieSeen:
 	.string "riding your POKéMON.$"
 
 Route41_Text_SwimmerfSusieBeaten:
-	.string "I'm crushed…$"
+	.string "我惨败了......$"
 
 Route41_Text_SwimmerfSusieAfter:
 	.string "Wasn't there a hit song about\n"
@@ -142,12 +137,12 @@ Route41_Text_SwimmerfDeniseSeen:
 	.string "I'm in a daze!$"
 
 Route41_Text_SwimmerfDeniseBeaten:
-	.string "Ohhh!$"
+	.string "哎呀--！$"
 
 Route41_Text_SwimmerfDeniseAfter:
-	.string "A sunburn is the worst for skin.\p"
-	.string "But I don't use a sunblock.\p"
-	.string "I won't pollute the water.$"
+	.string "晒伤对皮肤最不好了。\p"
+	.string "不过我可不用防晒霜，\p"
+	.string "因为我不想污染海水。$"
 
 Route41_EventScript_Kara::
 	trainerbattle_single TRAINER_KARA_HNS, Route41_Text_SwimmerfKaraSeen, Route41_Text_SwimmerfKaraBeaten
@@ -161,7 +156,7 @@ Route41_Text_SwimmerfKaraSeen:
 	.string "so you can keep on going strong.$"
 
 Route41_Text_SwimmerfKaraBeaten:
-	.string "Oh! You have more energy than I do.$"
+	.string "哎呀！你的体力比我还充沛呢。$"
 
 Route41_Text_SwimmerfKaraAfter:
 	.string "I heard roars from deep inside\n"
@@ -177,7 +172,7 @@ Route41_Text_SwimmerfWendySeen:
 	.string "the water's surface.$"
 
 Route41_Text_SwimmerfWendyBeaten:
-	.string "Oh, dear…$"
+	.string "天哪......$"
 
 Route41_Text_SwimmerfWendyAfter:
 	.string "The clusters of STARYU light up\n"
@@ -285,10 +280,10 @@ Route41_EventScript_TentacruelAttack4::
 	end
 
 Route41_Text_Tentacruel:
-	.string "TENTACRUEL: Cruooo...$"
+	.string "毒刺水母：咕噜噜噜......$"
 
 Route41_Text_TentacruelAttack:
-	.string "TENTACRUEL: CRUOOOOOO!$"
+	.string "毒刺水母：咕噜噜噜--！$"
 
 Route41_Text_TentacruelHeal:
 	.string "The TENTACRUEL used RECOVER!\n"

@@ -49,66 +49,63 @@ Route46_EventScript_Item_Revive::
 	end
 
 Route46_Text_HikerBaileySeen:
-	.string "Awright! I'll show you the\n"
-	.string "power of mountain POKéMON!$"
+	.string "好咧！就让你见识一下大山里宝可梦\n"
+	.string "的威力吧！$"
 
 Route46_Text_HikerBaileyBeaten:
-	.string "Mercy! You showed me your\n"
-	.string "power!$"
+	.string "认输了！我见识到你的厉害了！$"
 
 Route46_Text_HikerBaileyAfterBattle:
-	.string "It's over. I don't mind.\n"
-	.string "We HIKERS are like that.$"
+	.string "结束了啊。不过我不在意。我们登山\n"
+	.string "男向来都是这么豁达。$"
 
 Route46_Text_CamperTedSeen:
-	.string "I'm raising POKéMON too!\p"
-	.string "Will you battle with me?$"
+	.string "我也在培育宝可梦哦！\p"
+	.string "能和我对战一场吗？$"
 
 Route46_Text_CamperTedBeaten:
-	.string "Wha…?$"
+	.string "怎么会......？$"
 
 Route46_Text_CamperTedAfterBattle:
-	.string "I did my best but came up\n"
-	.string "short.\p"
-	.string "No excuses--I admit I lost.$"
+	.string "我已经拼尽全力了，但还是棋差一招\n"
+	.string "。\p"
+	.string "不找借口--我承认是我输了。$"
 
 Route46_Text_PicnickerErinSeen:
-	.string "I raise POKéMON too!\p"
-	.string "Will you battle with me?$"
+	.string "我也在培育宝可梦呢！\p"
+	.string "能和我对战一场吗？$"
 
 Route46_Text_PicnickerErinBeaten:
-	.string "Oh, rats!$"
+	.string "哎呀，真倒霉！$"
 
 Route46_Text_PicnickerErinAfterBattle:
-	.string "I've been to many GYMS, but the\n"
-	.string "GYM in GOLDENROD is my favorite.\p"
-	.string "It's filled with pretty flowers!$"
+	.string "我去过很多道馆，但我最喜欢的还是\n"
+	.string "满金市的道馆。\p"
+	.string "因为那里到处都开满了漂亮的花！$"
 
 Route46_Text_ErinRegister:
-	.string "I've been to many GYMS, but the\n"
-	.string "GYM in GOLDENROD is my favorite.\p"
-	.string "It's filled with pretty flowers!$"
+	.string "我去过很多道馆，但我最喜欢的还是\n"
+	.string "满金市的道馆。\p"
+	.string "因为那里到处都开满了漂亮的花！$"
 
 Route46_Text_ErinRematchIntro:
-	.string "I raise POKéMON too!\p"
-	.string "Will you battle with me?$"
+	.string "我也在培育宝可梦呢！\p"
+	.string "能和我对战一场吗？$"
 
 Route46_Text_ErinRematchDefeat:
-	.string "Oh, rats!$"
+	.string "哎呀，真倒霉！$"
 
 Route46_Text_ErinPostRematch:
-	.string "I've been to many GYMS, but the\n"
-	.string "GYM in GOLDENROD is my favorite.\p"
-	.string "It's filled with pretty flowers!$"
+	.string "我去过很多道馆，但我最喜欢的还是\n"
+	.string "满金市的道馆。\p"
+	.string "因为那里到处都开满了漂亮的花！$"
 
 Route46_Text_PicnickerErin2Beaten:
-	.string "Aww… I keep losing all the time!\p"
-	.string "I'll just have to try harder!\n"
-	.string "Anyway, thanks for battling\n"
-	.string "me again and again.\p"
-	.string "Here's that present from the\n"
-	.string "other time.$"
+	.string "呜......我怎么总是一直输啊\n"
+	.string "！\p"
+	.string "看来我必须更加努力才行！不管怎样\n"
+	.string "，谢谢你一次又一次陪我对战。\p"
+	.string "这是上次说好要送你的礼物。$"
 
 Route46_Text_Sign:
-	.string "ROUTE 46\n"
-	.string "MOUNTAIN RD. AHEAD$"
+	.string "46号道路前方山路$"

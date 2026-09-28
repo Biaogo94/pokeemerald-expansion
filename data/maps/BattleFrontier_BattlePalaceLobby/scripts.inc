@@ -412,16 +412,15 @@ BattleFrontier_BattlePalaceLobby_Text_WhichChallenge:
 	.string "由等级，您要挑战哪种？$"
 
 BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsLv50:
-	.string "Sigh…\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for the challenge.\p"
-	.string "To enter, you must provide three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "These POKéMON must all be of\n"
-	.string "Level 50 or lower.\p"
-	.string "They also must not be holding\n"
-	.string "the same kinds of items.\p"
-	.string "EGGS{STR_VAR_1}.$"
+	.string "唉......\p"
+	.string "你并没有带齐挑战所需的3只宝可梦\n"
+	.string "。\p"
+	.string "若要参赛，你必须准备3种不同种类\n"
+	.string "的宝可梦。\p"
+	.string "且这些宝可梦的等级必须全都在50\n"
+	.string "级或以下。\p"
+	.string "它们也不得携带相同种类的道具。\p"
+	.string "蛋{STR_VAR_1}。$"
 
 BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsEnd:
 	.string "请在准备就绪之后，再来参加吧。$"

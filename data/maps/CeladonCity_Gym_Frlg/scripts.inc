@@ -84,20 +84,19 @@ CeladonCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 CeladonCity_Gym_Text_ErikaIntro::
-	.string "Hello…\n"
-	.string "Lovely weather, isn't it?\l"
-	.string "It's so pleasant…\p"
-	.string "…Oh, dear…\n"
-	.string "I must have dozed off. Welcome.\p"
-	.string "My name is ERIKA.\n"
-	.string "I am the LEADER of CELADON GYM.\p"
-	.string "I am a student of the art of\n"
-	.string "flower arranging.\p"
-	.string "My POKéMON are solely of the\n"
-	.string "GRASS type.\p"
-	.string "…Oh, I'm sorry, I had no idea that\n"
-	.string "you wished to challenge me.\p"
-	.string "Very well, but I shall not lose.{PLAY_BGM MUS_RG_ENCOUNTER_GYM_LEADER}$"
+	.string "你好......天气真好呢，对吧\n"
+	.string "？让人感觉好舒服......\p"
+	.string "......哎呀......我刚\n"
+	.string "才不小心打瞌睡了呢。欢迎你的到来\l"
+	.string "。\p"
+	.string "我的名字叫莉佳。是玉虹道馆的馆主\n"
+	.string "。\p"
+	.string "我正在修习花道。\p"
+	.string "我的宝可梦全都是草属性的。\p"
+	.string "......哎呀，对不起，我不知\n"
+	.string "道原来你是来向我挑战的。\p"
+	.string "好吧，不过我可不会输给你哦。\n"
+	.string "{PLAY_BGM MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 CeladonCity_Gym_Text_ErikaDefeat::
 	.string "啊！我认输了。你真是太强了。\p"

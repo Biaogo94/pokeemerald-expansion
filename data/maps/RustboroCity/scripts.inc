@@ -1166,15 +1166,16 @@ RustboroCity_Text_RegisteredBrendan:
 	.string "把小悠登记到宝可导航里了。$"
 
 RustboroCity_Text_BrendanPassedBrineyWantToBattle:
-	.string "BRENDAN: By the way, {PLAYER}, I walked\n"
-	.string "by MR. BRINEY in PETALBURG WOODS.\p"
-	.string "I bet he was on his way home to his\n"
-	.string "cottage by the sea.\p"
-	.string "{PLAYER}, how's your POKéDEX?\n"
-	.string "Have you filled in any pages yet?\p"
-	.string "Mine rules.\p"
-	.string "Want to have a battle to test how\n"
-	.string "far you've progressed?$"
+	.string "祐树：对了，{PLAYER}，我\n"
+	.string "刚才在橙华森林路过哈奇老人的身旁\l"
+	.string "。\p"
+	.string "我猜他正准备回海边的小屋吧。\p"
+	.string "{PLAYER}，你的宝可梦图鉴\n"
+	.string "收集得怎么样了？已经登记了不少吗\l"
+	.string "？\p"
+	.string "我的可是相当厉害哦。\p"
+	.string "要不要来一场对战，检验一下你成长\n"
+	.string "了多少？$"
 
 RustboroCity_Text_BrendanNoConfidenceInPokemon:
 	.string "小悠：怎么了？对自己的宝可梦没信\n"

@@ -286,20 +286,16 @@ TinTower_RoofDay_EventScript_KuniAfter::
 	end
 
 TinTower_RoofDay_Text_Kimono_AfterNotCaught:
-	.string "You have not only made HO-OH\n"
-	.string "appear, but you have also defeated\l"
-	.string "it...\p"
-	.string "There is nothing more for us to\n"
-	.string "say. Take care of yourself in your\l"
-	.string "journey...$"
+	.string "你不仅唤来了凤王，甚至还击败了它\n"
+	.string "......\p"
+	.string "我们已经没有什么好嘱咐的了。旅途\n"
+	.string "中请多保重......$"
 
 TinTower_RoofDay_Text_Kimono_AfterCaught:
-	.string "You have not only made HO-OH\n"
-	.string "appear, but you have also caught\l"
-	.string "it...\p"
-	.string "There is nothing more for us to\n"
-	.string "say. Take care of yourself in your\l"
-	.string "journey...$"
+	.string "你不仅唤来了凤王，甚至还将它收服\n"
+	.string "了......\p"
+	.string "我们已经没有什么好嘱咐的了。旅途\n"
+	.string "中请多保重......$"
 
 TinTower_RoofDay_Movement_CameraPanUp:
 	walk_up
@@ -554,24 +550,23 @@ TinTower_RoofDay_Movement_Kimono_Dance_Shift_Right2:
 	step_end
 
 TinTower_RoofDay_Text_Zuki_Before::
-	.string "ZUKI: Go, face HO-OH. $"
+	.string "玉绪：去吧，面对凤王。 $"
 TinTower_RoofDay_Text_Naoko_Before::
-	.string "NAOKO: Go, face HO-OH. $"
+	.string "桃子：去吧，面对凤王。 $"
 TinTower_RoofDay_Text_Miki_Before::
-	.string "MIKI: Go, face HO-OH. $"
+	.string "美树：去吧，面对凤王。 $"
 TinTower_RoofDay_Text_Sayo_Before::
-	.string "SAYO: Go, face HO-OH. $"
+	.string "小夜：去吧，面对凤王。 $"
 TinTower_RoofDay_Text_Kuni_Before::
-	.string "KUNI: Go, face HO-OH. $"
+	.string "小国：去吧，面对凤王。 $"
 
 TinTower_RoofDay_Text_Kimono_Opening::
-	.string "KIMONO GIRL: That's right.\n"
-	.string "This is where we welcome HO-OH.\p"
-	.string "When the dance we practiced many\n"
-	.string "days becomes one with the sound of the\p"
-	.string "CLEAR BELL we entrusted to you, then\n"
-	.string "HO-OH shall come down from the great\l"
-	.string "arch of the sky once again. $"
+	.string "和服少女：正是如此。这里就是迎接\n"
+	.string "凤王的地方。\p"
+	.string "当我们练习多日的舞蹈与托付给你的\n"
+	.string "透明铃铛之声合而为一，\p"
+	.string "凤王便会再次自九天苍穹降临于此。\n"
+	.string " $"
 
 TinTower_RoofDay_Text_Kimono_Closing1::
 	.string "That is indeed HO-OH...\n"
@@ -588,5 +583,5 @@ TinTower_RoofDay_Text_Kimono_Closing1::
 	.string "Wouldn't you agree? $"
 
 TinTower_RoofDay_Text_Kimono_After::
-	.string "You have done a great job.\n"
-	.string "Say hello to PROF.ELM for us.$"
+	.string "你做得很出色。请代我们向空木博士\n"
+	.string "问好。$"

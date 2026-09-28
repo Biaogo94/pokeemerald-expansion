@@ -23,32 +23,32 @@ Route21_EventScript_Arnold::
 	end
 
 Route21_Text_SwimmermSethSeen:
-	.string "Land ho! Gotta keep going!$"
+	.string "看到陆地了！要加把劲游过去！$"
 
 Route21_Text_SwimmermSethBeaten:
-	.string "Glug…$"
+	.string "咕嘟......$"
 
 Route21_Text_SwimmermSethAfterBattle:
-	.string "This arrogant guy was at CINNABAR's\n"
-	.string "volcano.$"
+	.string "红莲岛的火山那边，有个神气活现的\n"
+	.string "家伙。$"
 
 Route21_Text_SwimmerfNikkiSeen:
-	.string "If I win, you have to help me with\n"
-	.string "my suntan lotion!$"
+	.string "如果我赢了，你可得帮我涂防晒油哦\n"
+	.string "！$"
 
 Route21_Text_SwimmerfNikkiBeaten:
-	.string "I'm worried about sunburn…$"
+	.string "真担心会被晒伤啊......$"
 
 Route21_Text_SwimmerfNikkiAfterBattle:
-	.string "I have to watch out for blemishes\n"
-	.string "caused by the sun.$"
+	.string "我可得留心别被大太阳晒出斑点才行\n"
+	.string "。$"
 
 Route21_Text_FisherArnoldSeen:
-	.string "I'm bored by fishing. Let's battle!$"
+	.string "钓鱼钓腻了。来对战吧！$"
 
 Route21_Text_FisherArnoldBeaten:
-	.string "Utter failure…$"
+	.string "一败涂地......$"
 
 Route21_Text_FisherArnoldAfterBattle:
-	.string "I'll just go back to fishing…$"
+	.string "我还是回去钓鱼吧......$"
 

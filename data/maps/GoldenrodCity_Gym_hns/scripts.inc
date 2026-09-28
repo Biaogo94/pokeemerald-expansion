@@ -115,7 +115,7 @@ GoldenrodCity_Gym_EventScript_Statue2::
 	end
 
 GoldenrodCity_Gym_Text_GymStatue:
-	.string "GOLDENROD POKéMON GYM$"
+	.string "满金宝可梦道馆$"
 
 GoldenrodCity_Gym_Text_GymStatueCertified:
 	.string "GOLDENROD TOWN POKéMON GYM\p"
@@ -137,9 +137,10 @@ GoldenrodCity_Gym_Text_WhitneyShouldntBeSoSerious:
     .string "you child, you!$"
 
 GoldenrodCity_Gym_Text_WhitneyYouMeanie:
-    .string "Waaaaah!\p"
-    .string "Waaaaah!\p"
-    .string "…Snivel, hic… …You meanie!$"
+    .string "哇啊啊啊！\p"
+    .string "哇啊啊啊！\p"
+    .string "......呜呜，嗝......\n"
+    .string "......大坏蛋！$"
 
 GoldenrodCity_Gym_Text_WhitneyWhatDoYouWant:
     .string "…Sniff…\p"
@@ -148,7 +149,7 @@ GoldenrodCity_Gym_Text_WhitneyWhatDoYouWant:
     .string "PLAINBADGE.$"
 
 GoldenrodCity_Gym_Text_PlayerReceivedPlainBadge:
-    .string "{PLAYER} received PLAINBADGE.$"
+    .string "{PLAYER}获得了常规徽章。$"
 
 GoldenrodCity_Gym_Text_WhitneyPlainBadge:
     .string "PLAINBADGE lets your POKéMON use\n"
@@ -164,38 +165,39 @@ GoldenrodCity_Gym_Text_WhitneyAttract:
     .string "like me?$"
 
 GoldenrodCity_Gym_Text_WhitneyGoodCry:
-    .string "Ah, that was a good cry!$"
+    .string "呼，痛痛快快哭了一场真舒服！$"
 
 GoldenrodCity_Gym_Text_WhitneyRematch:
-    .string "Hi! It's you!\p"
-    .string "Wow, JOHTO CHAMPION now?\p"
-    .string "You really are amazing!\p"
-    .string "I want to see how strong you are.\p"
-    .string "Want to have a rematch with me?$"
+    .string "嗨！是你呀！\p"
+    .string "哇，你现在已经是城都冠军啦？\p"
+    .string "真是太厉害了！\p"
+    .string "我也想看看你到底有多强。\p"
+    .string "要不要和我再来对战一场？$"
 
 GoldenrodCity_Gym_Text_WhitneyRematchDefeat:
-    .string "Waaaaah!\p"
-    .string "Waaaaah!\p"
-    .string "…Snivel, hic… …You meanie!$"
+    .string "哇啊啊啊！\p"
+    .string "哇啊啊啊！\p"
+    .string "......呜呜，嗝......\n"
+    .string "......大坏蛋！$"
 
 GoldenrodCity_Gym_Text_LassCarrieSeen:
-    .string "Don't let my POKéMON's cute looks\n"
-    .string "fool you.\p"
-    .string "They can whip you!$"
+    .string "可别被我宝可梦可爱的外表骗了。\p"
+    .string "它们可是能把你打得落花流水呢！$"
 
 GoldenrodCity_Gym_Text_LassCarrieBeaten:
-    .string "Darn… I thought you were weak…$"
+    .string "可恶......我还以为你很弱呢\n"
+    .string "......$"
 
 GoldenrodCity_Gym_Text_LassCarrieAfter:
-    .string "Do my POKéMON think I'm cute?$"
+    .string "我的宝可梦会觉得我很可爱吗？$"
 
 GoldenrodCity_Gym_Text_LassBridgetSeen:
-    .string "I like cute POKéMON better than\n"
-    .string "strong POKéMON.\p"
-    .string "But I have strong and cute POKéMON!$"
+    .string "比起强大的宝可梦，我更喜欢可爱的\n"
+    .string "。\p"
+    .string "不过我的宝可梦既强大又可爱！$"
 
 GoldenrodCity_Gym_Text_LassBridgetBeaten:
-    .string "Oh, no, no, no!$"
+    .string "哎呀，不行不行不行！$"
 
 GoldenrodCity_Gym_Text_LassBridgetAfter:
     .string "I'm trying to beat WHITNEY, but…\n"
@@ -209,11 +211,13 @@ GoldenrodCity_Gym_Text_BridgetWhitneyCries:
     .string "always cries when she loses.$"
 
 GoldenrodCity_Gym_Text_BeautyVictoriaSeen:
-    .string "Oh, you are a cute little trainer!\p"
-    .string "I like you, but I won't hold back!$"
+    .string "哎呀，你真是个可爱的小训练家！\p"
+    .string "虽然我挺喜欢你，但我可不会手下留\n"
+    .string "情！$"
 
 GoldenrodCity_Gym_Text_BeautyVictoriaBeaten:
-    .string "Let's see… Oops, it's over?$"
+    .string "等等看......哎呀，已经结束\n"
+    .string "了？$"
 
 GoldenrodCity_Gym_Text_BeautyVictoriaAfter:
     .string "Wow, you must be good to beat me!\n"
@@ -224,7 +228,7 @@ GoldenrodCity_Gym_Text_BeautySamanthaSeen:
     .string "you down!$"
 
 GoldenrodCity_Gym_Text_BeautySamanthaBeaten:
-    .string "No! Oh, MEOWTH, I'm so sorry!$"
+    .string "怎么会！呜呜，喵喵，对不起啊！$"
 
 GoldenrodCity_Gym_Text_BeautySamanthaAfter:
     .string "I taught MEOWTH moves for taking on\n"

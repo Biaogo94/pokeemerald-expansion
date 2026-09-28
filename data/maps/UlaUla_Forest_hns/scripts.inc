@@ -336,18 +336,18 @@ Alola_Ulaula_TotemBattle_Trigger_Movement_0:
 	step_end
 
 Alola_Ulaula_TotemBattle_Text_0:
-	.string "Graah!$"
+	.string "咕噜啊！$"
 
 Alola_Ulaula_TotemBattle_Text_1:
-	.string "Totem TANGROWTH was defeated!\n"
-	.string "It scampered off somewhere…$"
+	.string "霸主巨蔓藤被击败了！它不知道逃到\n"
+	.string "哪里去了......$"
 
 Alola_Ulaula_TotemBattle_Text_2:
-	.string "Graah!$"
+	.string "咕噜啊！$"
 
 Alola_Ulaula_TotemBattle_Text_3:
-	.string "Totem PRIMEAPE was defeated!\n"
-	.string "It scampered off somewhere…$"
+	.string "霸主火暴猴被击败了！它不知道逃到\n"
+	.string "哪里去了......$"
 
 UlaUla_Forest_hns_Movement_FacePlayerUpAfterTotemWarp:
 	face_up
@@ -355,29 +355,28 @@ UlaUla_Forest_hns_Movement_FacePlayerUpAfterTotemWarp:
 
 
 Alola_Ulaula_Totem_sign_Text_0:
-	.string "The totem is emanating a strong\n"
-	.string "energy…\p"
-	.string "Touch the totem to teleport to another\n"
-	.string "Isle?$"
+	.string "图腾正散发出一股强烈的能量...\n"
+	.string "...\p"
+	.string "要触碰图腾传送至其他岛屿吗？$"
 
 Alola_Ulaula_Totem_sign_Text_1:
-	.string "MELEMELE ISLE$"
+	.string "美乐美乐岛$"
 
 Alola_Ulaula_Totem_sign_Text_2:
-	.string "AKALA ISLE$"
+	.string "阿卡拉岛$"
 
 Alola_Ulaula_Totem_sign_Text_3:
-	.string "ULA'ULA ISLE$"
+	.string "乌拉乌拉岛$"
 
 Alola_Ulaula_Totem_sign_Text_4:
-	.string "PONI ISLE$"
+	.string "波尼岛$"
 
 Alola_Ulaula_Totem_sign_Text_5:
 	.string "取消$"
 
 Alola_Ulaula_Totem_sign_Text_6:
-	.string "A strange totem stands here,\n"
-	.string "power is emanating from it…$"
+	.string "这里伫立着一个奇异的图腾，正散发\n"
+	.string "出一股能量......$"
 
 Alola_Ulaula_BattleVsTapuBulu_Text_0:
-	.string "Bu-Bulu!$"
+	.string "哞-哞噜！$"

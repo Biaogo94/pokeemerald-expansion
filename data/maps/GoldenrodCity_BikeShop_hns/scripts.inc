@@ -42,49 +42,45 @@ GoldenrodCity_BikeShop_EventScript_Bike::
 	end
 
 GoldenrodCity_BikeShop_Text_Clerk2:
-	.string "Riding the BIKE is as simple as\n"
-	.string "pressing a button if you\l"
-	.string "REGISTER it from the BAG.\p"
-	.string "If you need to go faster,\n"
-	.string "you first need to come to a stop!\p"
-	.string "That might seem like strange\n"
-	.string "advice, but you can only change\l"
-	.string "gears on the BIKE while stopped.\p"
-	.string "Press your R button when stopped\n"
-	.string "and the next time you pedal,\l"
-	.string "you will reach greater speeds!$"
+	.string "只要在包包里登记好自行车，按一个\n"
+	.string "键就能轻松骑上了。\p"
+	.string "如果你想骑得更快，就得先停下来才\n"
+	.string "行！\p"
+	.string "这听起来可能有点奇怪，但自行车的\n"
+	.string "变速档位只有在停下时才能切换。\p"
+	.string "停下时按下R键，再次蹬车时就能达\n"
+	.string "到更快的速度！$"
 
 GoldenrodCity_BikeShop_Text_ClerkIntro:
-    .string "…sigh… I moved here, but I can't\n"
-    .string "sell my BICYCLES. Why is that?\p"
-    .string "Could you ride a BICYCLE and\n"
-    .string "advertise for me?$"
+    .string "......唉......虽然搬\n"
+    .string "到了这里，但自行车却一台都卖不出\l"
+    .string "去。怎么会这样呢？\p"
+    .string "你能骑上自行车，帮我做做宣传吗？$"
 
 GoldenrodCity_BikeShop_Text_ClerkAgreed:
-    .string "Really? Great!\p"
-    .string "Give me your name and phone number,\n"
-    .string "and I'll loan you a BICYCLE.$"
+    .string "真的吗？太好了！\p"
+    .string "告诉我你的名字和电话号码，我就借\n"
+    .string "你一台自行车。$"
 
 GoldenrodCity_BikeShop_Text_BorrowedBicycle:
-    .string "{PLAYER} borrowed a BICYCLE.$"
+    .string "{PLAYER}借到了自行车。$"
 
 GoldenrodCity_BikeShop_Text_Mainshop:
-	.string "Business has been hard to come\n"
-	.string "by since we moved from KANTO.\l"
-	.string "We appreciate your help!\p"
-	.string "Can you make sure to show off\n"
-	.string "our patented gear-changing tech?\p"
-	.string "It's as simple as pressing R when\n"
-	.string "you are stopped on your BIKE.\p"
-	.string "Beware! You will then go faster!$"
+	.string "自从从关都搬过来之后，生意一直很\n"
+	.string "难做。真的很感谢你的帮忙！\p"
+	.string "请务必向大家展示我们专利的变速技\n"
+	.string "术哦！\p"
+	.string "停下自行车时按一下R键就行，非常\n"
+	.string "简单。\p"
+	.string "注意哦！接下来速度会变得更快！$"
 
 GoldenrodCity_BikeShop_Text_Refused:
-    .string "…sigh… Oh, for the kindness of\n"
-    .string "people…$"
+    .string "......唉......人心的\n"
+    .string "温暖啊......$"
 
 GoldenrodCity_BikeShop_Text_JustReleasedCompact:
-    .string "Just released!\p"
-    .string "First-rate compact BICYCLES!$"
+    .string "全新发售！\p"
+    .string "一流的折叠式自行车！$"
 
 GoldenrodCity_BikeShop_Text_Bicycle:
-    .string "It's a shiny new BICYCLE!$"
+    .string "是一台崭新的自行车！$"

@@ -98,8 +98,8 @@ LavenderTown_RadioStation_Text_Gentleman_GotExpnCard:
 	.string "Gahahahaha!$"
 
 LavenderTown_RadioStation_Text_SuperNerd2:
-	.string "Hey there!\p"
-	.string "I am the super MUSIC DIRECTOR!\p"
+	.string "嗨，你好呀！\p"
+	.string "我就是超级音乐总监！\p"
 	.string "Huh? Your RADIO can't tune into\n" @POKéGEAR
 	.string "my music programs. How unfortunate!\p"
 	.string "If you get an EXPN CARD upgrade,\n"
@@ -115,18 +115,16 @@ LavenderTown_RadioStation_Text_SuperNerd2_GotExpnCard:
 	.string "off the air!$"
 
 LavenderTown_RadioStation_Text_Directory:
-	.string "1F RECEPTION 2F SALES\p"
-	.string "3F PERSONNEL 4F PRODUCTION\p"
-	.string "5F DIRECTOR'S OFFICE$"
+	.string "1楼 接待处  2楼 营业部\p"
+	.string "3楼 人事部  4楼 制作部\p"
+	.string "5楼 台长室$"
 
 LavenderTown_RadioStation_Text_PokeFluteSign:
-	.string "Perk Up POKéMON with Mellow\n"
-	.string "Sounds of the POKé FLUTE on\l"
-	.string "CHANNEL 20$"
+	.string "频道20用宝可梦之笛的悠扬旋律唤\n"
+	.string "醒宝可梦吧！$"
 
 LavenderTown_RadioStation_Text_ReferenceLibrary:
-	.string "Wow! A full rack of POKéMON CDs\n"
-	.string "and videos.\p"
-	.string "This must be the reference\n"
-	.string "library.$"
+	.string "哇！架子上摆满了宝可梦的CD和录\n"
+	.string "像带。\p"
+	.string "这里一定是资料室吧。$"
 

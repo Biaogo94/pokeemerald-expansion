@@ -223,86 +223,85 @@ Route14_EventScript_RematchTrevorTryGiveItem::
 
 
 Route14_Text_Eusine:
-	.string "EUSINE: {PLAYER}! Not again!\n"
-	.string "I'll be there first next time!\p"
-	.string "Having followed it here, I'm\n"
-	.string "starting to understand what SUICUNE\l"
-	.string "is after.\p"
-	.string "To be honest, I would like to keep\n"
-	.string "this information to myself.\p"
-	.string "But I want to be an honest trainer\n"
-	.string "in front of SUICUNE!\p"
-	.string "That's why I am sharing a clue with\n"
-	.string "you.\p"
-	.string "It seems that...\n"
-	.string "SUICUNE prefers a hilly place...\l"
-	.string "Near water...\l"
-	.string "Somewhere north...\p"
-	.string "I don't know exactly where yet.\n"
-	.string "It will just be you and me!\p"
-	.string "Who'll find it first?\n"
-	.string "I challenge you!$"
+	.string "米那君：{PLAYER}！又慢了\n"
+	.string "一步！下次我一定会先赶到的！\p"
+	.string "一路追踪到这里，我开始明白水君在\n"
+	.string "追求什么了。\p"
+	.string "说实话，这个情报我原本是想藏私的\n"
+	.string "。\p"
+	.string "但在水君面前，我想做个光明磊落的\n"
+	.string "训练家！\p"
+	.string "所以，我就把线索也分享给你吧。\p"
+	.string "据说......水君喜欢高地..\n"
+	.string "....靠近水边......而且\l"
+	.string "在北方某个地方......\p"
+	.string "具体在哪里我现在还不知道。只有我\n"
+	.string "和你！\p"
+	.string "看谁能先找到它！我要向你发起挑战\n"
+	.string "！$"
 
 Route14_Text_PokefanmTrevorSeen:
-	.string "Hi. Did you know…?\p"
-	.string "POKéMON get more friendly if you\n"
-	.string "train them in a place that they\l"
-	.string "remember.$"
+	.string "你好。你知道吗......？\p"
+	.string "如果带宝可梦在它们有记忆的地方培\n"
+	.string "育，它们会变得更加亲密哦。$"
 
 Route14_Text_PokefanmTrevorBeaten:
-	.string "Where did I meet this SCIZOR?$"
+	.string "我是在哪里遇到这只巨钳螳螂的来着\n"
+	.string "？$"
 
 Route14_Text_PokefanmTrevorAfterBattle:
-	.string "If only there were an easy way to\n"
-	.string "identify where I got my POKéMON…$"
+	.string "要是有个能轻松查出宝可梦是在哪儿\n"
+	.string "捕获的方法就好了......$"
 
 Route14_Text_TrevorRegister:
-	.string "You're interesting!\n"
-	.string "Can I have your number?$"
+	.string "你真有意思！能把电话号码告诉我吗\n"
+	.string "？$"
 
 Route14_Text_TrevorRematchIntro:
-	.string "I've been training with my\n"
-	.string "POKéMON in familiar places!$"
+	.string "我一直在宝可梦熟悉的地方和它们一\n"
+	.string "起特训呢！$"
 
 Route14_Text_TrevorRematchDefeat:
-	.string "Maybe I need new places…$"
+	.string "也许我该去些新地方了......$"
 
 Route14_Text_TrevorPostRematch:
-	.string "Friendship makes POKéMON\n"
-	.string "stronger. I'm sure of it!$"
+	.string "亲密度能让宝可梦变得更强。我对此\n"
+	.string "坚信不疑！$"
 
 Route14_Text_PokefanmCarterSeen:
-	.string "Let me tell you, I had a hard time\n"
-	.string "catching my prized POKéMON.$"
+	.string "我跟你说，我为了捉到我最宝贝的宝\n"
+	.string "可梦，可吃了不少苦头呢。$"
 
 Route14_Text_PokefanmCarterBeaten:
-	.string "Awaaah!$"
+	.string "哇啊啊啊！$"
 
 Route14_Text_PokefanmCarterAfterBattle:
-	.string "TOTODILE, CYNDAQUIL, CHIKORITA…\p"
-	.string "I think that's a well-balanced mix.$"
+	.string "小锯鳄、火球鼠、菊草叶.....\n"
+	.string ".\p"
+	.string "我觉得这是个搭配很均衡的组合。$"
 
 Route14_Text_CarterRegister:
-	.string "You know your starters!\n"
-	.string "Let me get your number!$"
+	.string "你很懂最初的伙伴嘛！把电话号码留\n"
+	.string "给我吧！$"
 
 Route14_Text_CarterRematchIntro:
-	.string "I've found even more rare starters\n"
-	.string "to show off! Battle me!$"
+	.string "我又找到了更多稀有的最初伙伴来炫\n"
+	.string "耀了！来对战吧！$"
 
 Route14_Text_CarterRematchDefeat:
-	.string "My precious starters…$"
+	.string "我宝贝的最初伙伴们......$"
 
 Route14_Text_CarterPostRematch:
-	.string "There are so many starters from\n"
-	.string "different regions to collect!$"
+	.string "不同地区有好多最初的伙伴可以收集\n"
+	.string "呢！$"
 
 Route14_Text_BirdKeeperRoySeen:
-	.string "My dream is to fly with my beloved\n"
-	.string "bird POKéMON.$"
+	.string "我的梦想是和我心爱的鸟宝可梦一起\n"
+	.string "在天空中翱翔。$"
 
 Route14_Text_BirdKeeperRoyBeaten:
-	.string "I can dream, but I can't ever fly…$"
+	.string "做梦归做梦，可我根本飞不起来啊.\n"
+	.string ".....$"
 
 Route14_Text_BirdKeeperRoyAfterBattle:
 	.string "You have POKéMON that know the HM\n"
@@ -399,11 +398,11 @@ Route14_Movement_StuckPidgeottoJump:
 	step_end
 
 Route14_Text_Pidgeotto:
-	.string "PIDGEOTTO: Kaaaaa!$"
+	.string "比比鸟：嘎啊啊--！$"
 Route14_Text_PidgeottoBerry:
-	.string "Give the PIDGEOTTO a BERRY?$"
+	.string "要给比比鸟树果吗？$"
 Route14_Text_PidgeottoAteBerry:
-	.string "PIDGEOTTO enjoyed the QUALOT BERRY!$"
+	.string "比比鸟很开心地吃了蜜柚果！$"
 Route14_Text_PidgeottoTurnedAway:
-	.string "PIDGEOTTO doesn't like it!$"
+	.string "比比鸟不喜欢这个！$"
 

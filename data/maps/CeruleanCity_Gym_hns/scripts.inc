@@ -166,17 +166,14 @@ CeruleanCity_Gym_Text_GymStatue::
 	.string "BLUE, RED$"
 
 CeruleanCity_Gym_Text_GymStatuePlayerWon::
-    .string "CERULEAN POKéMON GYM\n"
-    .string "LEADER: MISTY\p"
-    .string "WINNING TRAINERS:\n"
-	.string "BLUE, RED, {PLAYER}$"
+    .string "华蓝市宝可梦道馆馆主：小霞\p"
+    .string "胜出训练家：青绿、赤红、\n"
+    .string "{PLAYER}$"
 
 CeruleanGym_Text_Note:
-	.string "Sorry, I'll be out for a while.\n"
-	.string "MISTY, GYM LEADER\p"
-	.string "Since MISTY's out, we'll be away\n"
-	.string "too.\l"
-	.string "GYM TRAINERS$"
+	.string "抱歉，我出门一阵子。馆主 小霞\p"
+	.string "既然小霞不在，我们也就出去啦。道\n"
+	.string "馆训练家们$"
 
 
 CeruleanCity_Gym_EventScript_Misty::
@@ -214,15 +211,13 @@ CeruleanCity_Gym_EventScript_Misty_Defeated::
 	end
 
 CeruleanGym_Text_GruntIntro:
-	.string "Oops! I so sorry! You not hurt,\n"
-	.string "okay?\p"
-	.string "I very busy. No time for talking\n"
-	.string "with you. Not good for me if\l"
-	.string "seen by somebody.$"
+	.string "哎呀！真对不起！你没受伤吧？\p"
+	.string "我忙得很。没时间跟你废话。要是被\n"
+	.string "谁看到，我可就麻烦了。$"
 
 CeruleanGym_Text_GruntBigMistake:
-	.string "Oh no! You seen me already!\n"
-	.string "I make big mistake!$"
+	.string "糟了！你已经看到我了！我犯了大失\n"
+	.string "误！$"
 
 CeruleanGym_Text_GruntBye:
 	.string "Hey, you! Forget you see me,\n"
@@ -232,82 +227,74 @@ CeruleanGym_Text_GruntBye:
 	.string "Bye-bye a go-go!$"
 
 CeruleanGym_Text_Note1:
-	.string "Sorry, I'll be out for a while.\n"
-	.string "MISTY, GYM LEADER\p"
-	.string "Since MISTY's out, we'll be away\n"
-	.string "too. GYM TRAINERS$"
+	.string "抱歉，我出门一阵子。馆主 小霞\p"
+	.string "既然小霞不在，我们也就出去啦。道\n"
+	.string "馆训练家们$"
 
 CeruleanGym_Text_MistyIntro:
-	.string "MISTY: I was expecting you, you\n"
-	.string "pest!\p"
-	.string "You may have a lot of JOHTO GYM\n"
-	.string "BADGES, but you'd better not\l"
-	.string "take me too lightly.\p"
-	.string "My WATER-type POKéMON are\n"
-	.string "tough!$"
+	.string "小霞：我可一直在等你呢，你这个碍\n"
+	.string "事鬼！\p"
+	.string "就算你拿到了很多城都的徽章，也最\n"
+	.string "好别太小看我哦。\p"
+	.string "我的水属性宝可梦可是很厉害的！$"
 
 CeruleanGym_Text_MistyWinLoss:
-	.string "MISTY: You really are good…\p"
-	.string "I'll admit that you are skilled…\p"
-	.string "Here you go. It's CASCADEBADGE.$"
+	.string "小霞：你真的很强呢......\p"
+	.string "我承认你的实力了......\p"
+	.string "这个给你。这是蓝色徽章。$"
 
 CeruleanGym_Text_ReceivedBadge:
-	.string "{PLAYER} received CASCADEBADGE.$"
+	.string "{PLAYER}获得了蓝色徽章。$"
 
 CeruleanGym_Text_MistyFightDone:
-	.string "MISTY: Are there many strong\n"
-	.string "trainers in JOHTO? Like you, I\l"
-	.string "mean.\p"
-	.string "I'm going to travel one day, so\n"
-	.string "I can battle some skilled\l"
-	.string "trainers.$"
+	.string "小霞：城都地区有很多像你一样厉害\n"
+	.string "的训练家吗？\p"
+	.string "总有一天我也要去旅行，去会会那些\n"
+	.string "实力出众的训练家。$"
 
 CeruleanGym_Text_MistyRematch:
-	.string "MISTY: Wow, you're the KANTO\n"
-	.string "CHAMPION now!\p"
-	.string "That's amazing! You've come a\n"
-	.string "long way, {PLAYER}.\p"
-	.string "But I'm not backing down.\p"
-	.string "Want to have a rematch with me?$"
+	.string "小霞：哇，你现在已经是关都的冠军\n"
+	.string "了啊！\p"
+	.string "太厉害了！你这一路成长了好多呢，\n"
+	.string "{PLAYER}。\p"
+	.string "但我可不会认输哦。\p"
+	.string "要跟我再比一场吗？$"
 
 CeruleanGym_Text_MistyRematchDefeat:
-	.string "MISTY: You really are good…$"
+	.string "小霞：你真的很厉害呢......$"
 
 CeruleanGym_Text_SwimmerfDianaSeen:
-	.string "Sorry about being away. Let's get\n"
-	.string "on with it!$"
+	.string "抱歉刚刚不在。我们快开始吧！$"
 
 CeruleanGym_Text_SwimmerfDianaBeaten:
-	.string "I give up! You're the winner!$"
+	.string "我认输！是你赢了！$"
 
 CeruleanGym_Text_SwimmerfDianaAfter:
-	.string "I'll be swimming quietly.$"
+	.string "我就安安静静地游会儿泳吧。$"
 
 CeruleanGym_Text_SwimmerfBrianaSeen:
-	.string "Don't let my elegant swimming\n"
-	.string "unnerve you.$"
+	.string "可别被我优雅的泳姿扰乱了心神哦。$"
 
 CeruleanGym_Text_SwimmerfBrianaBeaten:
-	.string "Ooh, you calmly disposed of me…$"
+	.string "呜，你居然这么从容地就解决了我.\n"
+	.string ".....$"
 
 CeruleanGym_Text_SwimmerfBrianaAfter:
-	.string "Don't be too smug about beating\n"
-	.string "me.\p"
-	.string "MISTY will destroy you if you get\n"
-	.string "complacent.$"
+	.string "打赢了我可别太得意忘形。\p"
+	.string "你要是大意的话，小霞一定会把你打\n"
+	.string "得落花流水的。$"
 
 CeruleanGym_Text_SwimmermParkerSeen:
-	.string "Glub…\p"
-	.string "I'm first! Come and get me!$"
+	.string "咕噜咕噜......\p"
+	.string "我是第一个！放马过来吧！$"
 
 CeruleanGym_Text_SwimmermParkerBeaten:
-	.string "This can't be…$"
+	.string "怎么会这样......$"
 
 CeruleanGym_Text_SwimmermParkerAfter:
-	.string "MISTY has gotten much better in\n"
-	.string "the past few years.\p"
-	.string "Don't let your guard down, or\n"
-	.string "you'll be crushed!$"
+	.string "小霞这几年的实力可是突飞猛进呢。\p"
+	.string "千万别掉以轻心，否则会被彻底击垮\n"
+	.string "的！$"
 
 CeruleanGym_Text_GuideIntro:
 	.string "Yo! CHAMP in making!\p"
@@ -315,13 +302,12 @@ CeruleanGym_Text_GuideIntro:
 	.string "for some fun too. He-he-he.$"
 
 CeruleanGym_Text_GuideWin:
-	.string "Hoo, you showed me how tough you\n"
-	.string "are.\p"
-	.string "As always, that was one heck of a\n"
-	.string "great battle!$"
+	.string "呼，让我见识到了你的厉害！\p"
+	.string "一如既往，真是一场无比精彩的对战\n"
+	.string "啊！$"
 
 CeruleanGym_Text_Misty_GiveTM:
-	.string "Here, take this too.$"
+	.string "来，把这个也收下吧。$"
 
 CeruleanGym_Text_Misty_ExplainTM:
 	.string "It's the WATER PULSE TM.\p"

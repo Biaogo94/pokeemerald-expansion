@@ -667,105 +667,105 @@ Alola_MeleMele_TapuKoko_Flyover_Movement_0:
 	step_end
 
 Alola_Melemele_GetOffBoat_Text_0:
-	.string "Welcome back to the ISLES!\p"
-	.string "Come back if you'd like to take a trip\n"
-	.string "to mainland KANTO!$"
+	.string "欢迎回到群岛！\p"
+	.string "如果想去关都大陆旅行，随时再来找\n"
+	.string "我！$"
 
 Alola_Melemele_TravelToKanto_Text_0:
-	.string "Ahoy!\p"
-	.string "Would you like to travel to mainland\n"
-	.string "KANTO?$"
+	.string "嗨！\p"
+	.string "想去关都大陆吗？$"
 
 Alola_Melemele_TravelToKanto_Text_1:
-	.string "Ahoy! Let's get you on board!$"
+	.string "嗨！这就带你上船！$"
 
 Alola_Melemele_TravelToKanto_Text_2:
-	.string "Ahoy!\n"
-	.string "Come back when you'd like to set sail.$"
+	.string "嗨！想启航的时候随时再来。$"
 
 Alola_Melemele_Mailbox_Text_0:
-	.string "SAMSON OAK's VILLA$"
+	.string "成也・大木的别墅$"
 
 Alola_Melemele_Melemele_Sign_Text_0:
-	.string "Welcome to MELEMELE ISLE!$"
+	.string "欢迎来到美乐美乐岛！$"
 
 Alola_Melemele_Pokecenter_Sign_Text_0:
-	.string "Welcome to the MELEMELE ISLE\n"
-	.string "POKéMON CENTER!\p"
-	.string "This is the only POKéMON CENTER on the\n"
-	.string "ALOLA ISLES but you can rest on\l"
-	.string "benches around the ISLES.$"
+	.string "欢迎来到美乐美乐岛的宝可梦中心！\p"
+	.string "这里是阿罗拉群岛上唯一的宝可梦中\n"
+	.string "心，不过你也可以在群岛各处的长椅\l"
+	.string "上休息。$"
 
 Alola_Melemele_MelemeleMart_Sign_Text_0:
-	.string "MELEMELE ISLE MART$"
+	.string "美乐美乐岛 友好商店$"
 
 Alola_Melemele_BattleSandygast_Text_0:
-	.string "Coorr!$"
+	.string "库呜--！$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_0:
-	.string "ALOLA!$"
+	.string "阿罗拉！$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_1:
-	.string "Welcome to the ALOLA ISLES!$"
+	.string "欢迎来到阿罗拉群岛！$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_2:
-	.string "My name is SAMSON OAK!\n"
-	.string "I'm a POKéMON PROFESSOR.\p"
-	.string "What's your name?$"
+	.string "我叫成也・大木！是一名宝可梦博士\n"
+	.string "。\p"
+	.string "你叫什么名字？$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_3:
-	.string "Ah, {PLAYER}.\n"
-	.string "A fine name!\p"
-	.string "You may know my cousin, PROFESSOR OAK,\n"
-	.string "from the KANTO region.\p"
-	.string "Let me show you to town!$"
+	.string "啊，{PLAYER}。真是个好名\n"
+	.string "字！\p"
+	.string "你可能认识我在关都地区的堂兄--\n"
+	.string "大木博士吧。\p"
+	.string "来，我带你去镇上！$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_4:
-	.string "This is the main town on these islands.\p"
-	.string "It's eerily similar to HAU'OLI CITY in\n"
-	.string "ALOLA… {PAUSE 30}And when I think about it…\p"
-	.string "This whole island reminds me of MELEMELE\n"
-	.string "ISLAND…$"
+	.string "这里是群岛的主要城镇。\p"
+	.string "它和阿罗拉的好奥乐市惊人地相似.\n"
+	.string ".....{PAUSE 30}这\l"
+	.string "么一想......\p"
+	.string "这整座岛也让我联想到了美乐美乐岛\n"
+	.string "......$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_5:
-	.string "Well, anyways!\p"
-	.string "I research variations of POKéMON that \n"
-	.string "can be found in different regions!\p"
-	.string "On my way back from the ALOLA region,\n"
-	.string "I stumbled across these isles…\p"
-	.string "Surprisingly, many of the POKéMON I saw\n"
-	.string "in ALOLA were here as well, so I've\l"
-	.string "called this place… {PAUSE 30}the ALOLA ISLES!$"
+	.string "哎呀，不管怎么说！\p"
+	.string "我致力于研究不同地区的宝可梦形态\n"
+	.string "！\p"
+	.string "在从阿罗拉地区回来的路上，我偶然\n"
+	.string "发现了这些岛屿......\p"
+	.string "令人惊讶的是，我在阿罗拉见过的许\n"
+	.string "多宝可梦这里居然也有，所以我把这\l"
+	.string "里称为......\l"
+	.string "{PAUSE 30}阿罗拉群岛！$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_6:
-	.string "Now I haven't completely explored the\n"
-	.string "ISLES yet… {PAUSE 30}I just landed here myself.\p"
-	.string "I'd like to know if all of the variants\n"
-	.string "native to ALOLA are here.\p"
-	.string "If you happen to come across any,\n"
-	.string "please come by my villa on the east side\l"
-	.string "of the ISLE and show them to me!\p"
-	.string "Oh. And feel free to explore the ISLE\n"
-	.string "while on your way!\p"
-	.string "See you there!$"
+	.string "虽说我还没把群岛彻底调查一遍..\n"
+	.string "....{PAUSE 30}毕竟\l"
+	.string "我也是刚登岛不久。\p"
+	.string "我想知道阿罗拉独有的形态是否都在\n"
+	.string "这里。\p"
+	.string "要是你碰巧遇到了，请顺路来岛东侧\n"
+	.string "的别墅给我瞧瞧！\p"
+	.string "哦，去别墅的路上也别忘了好好探索\n"
+	.string "这座岛屿！\p"
+	.string "回头见啦！$"
 
 Alola_Melemele_NeedToTalkToSamsonOak_Text_0:
-	.string "SAMSON is waiting for you at his villa…\n"
-	.string "{PAUSE 30}best not make him wait too long!$"
+	.string "成也博士正在别墅等你呢.....\n"
+	.string ".{PAUSE 30}最好别让他\l"
+	.string "等太久！$"
 
 Alola_Melemele_TotemBattle_Text_0:
-	.string "Leee!$"
+	.string "哩--！$"
 
 Alola_Melemele_TotemBattle_Text_1:
-	.string "Totem LEAFEON was defeated!\n"
-	.string "It scampered off somewhere…$"
+	.string "霸主叶伊布被击溃了！它不知道逃窜\n"
+	.string "到哪里去了......$"
 
 Alola_Melemele_TotemBattle_Text_2:
-	.string "Thhhh!$"
+	.string "嘶--！$"
 
 Alola_Melemele_TotemBattle_Text_3:
-	.string "Totem RATICATE was defeated!\n"
-	.string "It scampered off somewhere…$"
+	.string "霸主拉达被打倒了！它不知逃窜到哪\n"
+	.string "里去了......$"
 
 MelemeleIsle_hns_Movement_FacePlayerUpAfterTotemWarp:
 	face_up
@@ -773,54 +773,54 @@ MelemeleIsle_hns_Movement_FacePlayerUpAfterTotemWarp:
 
 
 Alola_Melemele_Totem_sign_Text_0:
-	.string "The totem is emanating a strong\n"
-	.string "energy…\p"
-	.string "Touch the totem to teleport to another\n"
-	.string "Isle?$"
+	.string "图腾正散发出一股强烈的能量...\n"
+	.string "...\p"
+	.string "要触碰图腾传送至其他岛屿吗？$"
 
 Alola_Melemele_Totem_sign_Text_1:
-	.string "MELEMELE ISLE$"
+	.string "美乐美乐岛$"
 
 Alola_Melemele_Totem_sign_Text_2:
-	.string "AKALA ISLE$"
+	.string "阿卡拉岛$"
 
 Alola_Melemele_Totem_sign_Text_3:
-	.string "ULA'ULA ISLE$"
+	.string "乌拉乌拉岛$"
 
 Alola_Melemele_Totem_sign_Text_4:
-	.string "PONI ISLE$"
+	.string "波尼岛$"
 
 Alola_Melemele_Totem_sign_Text_5:
 	.string "取消$"
 
 Alola_Melemele_Totem_sign_Text_6:
-	.string "A strange totem stands here,\n"
-	.string "power is emanating from it…$"
+	.string "这里伫立着一个奇异的图腾，正散发\n"
+	.string "出一股能量......$"
 
 Alola_Melemele_BattleVsTapuKoko_Text_0:
-	.string "Ko-Ko-Kooo!$"
+	.string "咯咯--咯--！$"
 
 Alola_Melemele_TrainerBattleSwimmer_Text_0:
-	.string "The waters are warm here by the ISLES!$"
+	.string "群岛这边的海水真暖和啊！$"
 
 Alola_Melemele_TrainerBattleSwimmer_Text_1:
-	.string "Maybe I should dry off on land for\na bit…$"
+	.string "也许我该上岸晒干一下身体....\n"
+	.string "..$"
 
 Alola_Melemele_TrainerBattleSwimmer_Text_2:
-	.string "There are plenty of neat POKéMON in\n"
-	.string "the water, try all your fishing rods!$"
+	.string "水里有好多很棒的宝可梦，把你所有\n"
+	.string "的钓竿都试一遍吧！$"
 
 Alola_Melemele_Bugcatcher_Text_0:
-	.string "The bug POKéMON on the ALOLA ISLES\n"
-	.string "are much bigger than those in KANTO!$"
+	.string "阿罗拉群岛上的虫属性宝可梦，可比\n"
+	.string "关都的大得多呢！$"
 
 Alola_Melemele_camper_Text_0:
-	.string "I traveled all the way from KANTO to see\n"
-	.string "a variant of my favorite cat POKéMON,\l"
-	.string "MEOWTH!$"
+	.string "我大老远从关都赶来，就是为了见识\n"
+	.string "一下我最喜欢的猫猫宝可梦--喵喵\l"
+	.string "的其他形态！$"
 
 Alola_Melemele_Picnicker_Text_0:
-	.string "These ISLES are chock full of unique\n"
-	.string "POKéMON!\p"
-	.string "I need to stock up on POKé BALLS so I\n"
-	.string "can catch them all!$"
+	.string "这些群岛上到处都是与众不同的宝可\n"
+	.string "梦！\p"
+	.string "我得多备点精灵球，把它们全部收服\n"
+	.string "才行！$"

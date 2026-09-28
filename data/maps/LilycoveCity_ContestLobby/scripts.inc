@@ -981,14 +981,16 @@ LilycoveCity_ContestLobby_EventScript_LittleGirlHaveCase::
 	end
 
 LilycoveCity_ContestLobby_Text_LadyGaveMePokeblockCase:
-	.string "Yippee!\p"
-	.string "The lady at the reception counter\n"
-	.string "gave me a case for {POKEBLOCK}S!$"
+	.string "好耶！\p"
+	.string "接待处的大姐姐给了我一个\n"
+	.string "{POKEBLOCK}盒！$"
 
 LilycoveCity_ContestLobby_Text_MakePokeblocksDifferentBerries:
-	.string "Make {POKEBLOCK}S and put them in there.\p"
-	.string "When you make a {POKEBLOCK}, everyone\n"
-	.string "has to put in a different BERRY.$"
+	.string "把做好的{POKEBLOCK}放\n"
+	.string "进盒子里吧。\p"
+	.string "做{POKEBLOCK}的时候，\n"
+	.string "每个人都要放入不同种类的树果才行\l"
+	.string "。$"
 
 LilycoveCity_ContestLobby_Text_YourPokemonSpurredMeToPaint:
 	.string "祝贺你！\p"
@@ -1066,8 +1068,10 @@ LilycoveCity_ContestLobby_Text_LavishedCareOnMon:
 	.string "，胜利是属于我的！$"
 
 LilycoveCity_ContestLobby_Text_MadePokeblocksWithFamily:
-	.string "I made {POKEBLOCK}S with Mom, Dad, and\n"
-	.string "Big Sister. They turned out great!\p"
-	.string "I bet you can make smoother, better\n"
-	.string "{POKEBLOCK}S if you have more people.$"
+	.string "我和爸爸、妈妈还有姐姐一起做了\n"
+	.string "{POKEBLOCK}。做得很成\l"
+	.string "功哦！\p"
+	.string "人越多的话，做出来的\n"
+	.string "{POKEBLOCK}肯定会越细\l"
+	.string "腻、越高级！$"
 

@@ -161,16 +161,16 @@ Route24_Text_RocketDisappears:
 
 
 Route24_Text_Woman:
-	.string "Isn't it a lovely view?$"
+	.string "这里的景色很美吧？$"
 Route24_Text_Man:
-	.string "I could stay here all day.$"
+	.string "我能在这里呆上一整天。$"
 
 Route24_Text_WomanRocket:
-	.string "Nobody pushes me!$"
+	.string "谁也别想推我！$"
 Route24_Text_ManRocket:
-	.string "Nobody pushes my girlfriend!$"
+	.string "谁也别想推我女朋友！$"
 
 Route24_Text_WomanAfterRocket:
-	.string "What was that all about?$"
+	.string "刚才那是怎么回事？$"
 Route24_Text_ManAfterRocket:
-	.string "Was that a ROCKET?$"
+	.string "那是火箭队的人吗？$"

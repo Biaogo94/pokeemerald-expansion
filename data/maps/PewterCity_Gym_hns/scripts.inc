@@ -55,10 +55,10 @@ PewterCity_Gym_Text_Brock_WinLoss:
 	.string "Go ahead--take this BADGE.$"
 
 PewterCity_Gym_Text_ReceivedBoulderBadge:
-	.string "{PLAYER} received BOULDERBADGE.$"
+	.string "{PLAYER}获得了灰色徽章。$"
 
 PewterCity_Gym_Text_Brock_GiveTM:
-	.string "Here, take this TM with you.$"
+	.string "来，把这个招式学习器也带上吧。$"
 
 PewterCity_Gym_Text_Brock_ExplainTM:
 	.string "It contains ROCK SLIDE.\p"
@@ -87,7 +87,8 @@ PewterCity_Gym_Text_CamperJerry_Seen:
 	.string "Are you ready for this?$"
 
 PewterCity_Gym_Text_CamperJerry_Beaten:
-	.string "I have to win these battles…$"
+	.string "我一定要赢下这些对战才行....\n"
+	.string "..$"
 
 PewterCity_Gym_Text_CamperJerry_AfterBattle:
 	.string "Hey, you! Trainer from JOHTO! BROCK is\n"

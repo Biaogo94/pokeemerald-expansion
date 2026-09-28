@@ -6,7 +6,7 @@ Route16FuchsiaSpeechHouse_EventScript_SuperNerd::
 	end
 
 Route16FuchsiaSpeechHouse_Text_SuperNerd:
-	.string "A celebrity used to live here.$"
+	.string "以前这里住过一位名人。$"
 Route16FuchsiaSpeechHouse_Text_SuperNerdOld:
-	.string "If you cruise down CYCLING ROAD,\n"
-	.string "you will end up in FUCHSIA CITY.$"
+	.string "如果顺着自行车道一路滑下去，就能\n"
+	.string "到达浅红市。$"

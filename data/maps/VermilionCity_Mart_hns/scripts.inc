@@ -10,10 +10,8 @@ VermilionCity_Mart_EventScript_Woman::
 	end
 
 VermilionMart_Text_SuperNerd:
-	.string "TEAM ROCKET is no longer in\n"
-	.string "KANTO.\p"
-	.string "That alone makes me happy.$"
+	.string "火箭队已经不在关都了。\p"
+	.string "光是这一点就足以让我开心了。$"
 
 VermilionMart_Text_Beauty:
-	.string "I'm thinking about going shopping\n"
-	.string "in SAFFRON.$"
+	.string "我正在考虑去金黄市买东西呢。$"

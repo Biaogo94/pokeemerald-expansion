@@ -8,17 +8,15 @@ Route47_EventScript_Hiker::
 	end
 
 Route47_Text_HikerSeen::
-	.string "Longing for others is...\n"
-	.string "what it is. \p"
-	.string "But battles are battles,\n"
-	.string "so let's go!$"
+	.string "想念别人......也就那样吧。\p"
+	.string "但对战就是对战，放马过来吧！$"
 
 Route47_Text_HikerBeaten::
-	.string "Wahaha!$"
+	.string "哇哈哈！$"
 
 Route47_Text_HikerAfter::
-	.string "After a battle you should always leave\n"
-	.string "with a parting laugh!$"
+	.string "对战结束后，就该潇洒地大笑着道别\n"
+	.string "嘛！$"
 
 Route47_EventScript_Camper::
 	trainerbattle_single TRAINER_GRANT_HNS, Route47_Text_CamperSeen, Route47_Text_CamperBeaten
@@ -26,16 +24,15 @@ Route47_EventScript_Camper::
 	end
 
 Route47_Text_CamperSeen::
-	.string "I'm not good with large crowds, so\n"
-	.string "I'm camping out here with my\l"
-	.string "POKéMON!$"
+	.string "我不擅长应付人多的地方，所以才和\n"
+	.string "宝可梦在这里露营！$"
 
 Route47_Text_CamperBeaten::
-	.string "I should be headed deeper into the\n"
-	.string "mountain I guess...$"
+	.string "我想我该往更深的山里走走了...\n"
+	.string "...$"
 
 Route47_Text_CamperAfter::
-	.string "See ya!$"
+	.string "回见啦！$"
 
 Route47_EventScript_Thom::
 	trainerbattle_double TRAINER_THOM_AND_KAE_HNS, Route47_Text_Couple1Seen, Route47_Text_Couple1Beaten, Route104_Text_GinaNotEnoughMons
@@ -50,23 +47,22 @@ Route47_EventScript_Kae::
 	end
 
 Route47_Text_Couple1Seen::
-	.string "THOM: One plus one is two. But the\n"
-	.string "two of us together is much\l"
-	.string "stronger!\p"
-	.string "KAE: The two of us aren't just some\n"
-	.string "boring pair!$"
+	.string "THOM: 1加1等于2，但只要\n"
+	.string "我们两人联手，就会变得更强！\p"
+	.string "KAE: 我们可不是什么普普通通\n"
+	.string "的组合哦！$"
 
 Route47_Text_Couple1Beaten::
-	.string "THOM: That wasn't what I expected.\l"
-	.string "KAE: You're unusual too!$"
+	.string "THOM: 这可真出乎我的意料。\n"
+	.string "KAE: 你也太不按常理出牌了！$"
 
 Route47_Text_Couple1After1::
-	.string "THOM: It seems your power is\n"
-	.string "impossible to predict!$"
+	.string "THOM: 看来你的实力真是难以\n"
+	.string "预测啊！$"
 
 Route47_Text_Couple1After2::
-	.string "KAE: I figured you were an ordinary\n"
-	.string "lone trainer. Boy was I wrong!$"
+	.string "KAE: 我还以为你只是个普通的\n"
+	.string "独行训练家，真是看走眼了！$"
 
 Route47_EventScript_Duff::
 	trainerbattle_double TRAINER_DUFF_AND_EDA_HNS, Route47_Text_Couple2Seen, Route47_Text_Couple2Beaten, Route104_Text_GinaNotEnoughMons
@@ -80,23 +76,23 @@ Route47_EventScript_Eda::
 	end
 
 Route47_Text_Couple2Seen::
-	.string "DUFF: Watching over my girlfriend\n"
-	.string "makes my heart soar!\p"
-	.string "EDA: My heart's feelings for my\n"
-	.string "boyfriend are as wide and deep\l"
-	.string "the ocean!$"
+	.string "DUFF: 守护着我的女朋友，我\n"
+	.string "的心情就会激动澎湃！\p"
+	.string "EDA: 我对男朋友的爱意，比大\n"
+	.string "海还要辽阔深沉！$"
 
 Route47_Text_Couple2Beaten::
-	.string "DUFF: I was no match for you...\l"
-	.string "EDA: You are really something...$"
+	.string "DUFF: 完全不是你的对手..\n"
+	.string "....EDA: 你真是不简单啊\l"
+	.string "......$"
 
 Route47_Text_Couple2After1::
-	.string "DUFF: Thank you for the awe-\n"
-	.string "inspiring battle! Bye!$"
+	.string "DUFF: 感谢你带来如此精彩的\n"
+	.string "对战！再见啦！$"
 
 Route47_Text_Couple2After2::
-	.string "EDA: You should really find a\n"
-	.string "wonderful partner, too!$"
+	.string "EDA: 你也一定要找一个绝妙的\n"
+	.string "伴侣哦！$"
 
 Route47_EventScript_Sage::
 	lock
@@ -107,25 +103,21 @@ Route47_EventScript_Sage::
 	end
 
 EmbeddedTower_Text_OldManIntro:
-	.string "Well, hello!\p"
-	.string "It's said that past this hole used to\n"
-	.string "be a huge tower reaching far into\l"
-	.string "the sky.\p"
-	.string "They say that it was a rather strange\n"
-	.string "tower with half of it embedded\l"
-	.string "in the cliff.\p"
-	.string "It was not just a tall tower reaching\n"
-	.string "up to the sky, but also reaching deep\l"
-	.string "down underground!\p"
-	.string "It is rumored that it even reached\n"
-	.string "the bottom of the ocean!\p"
-	.string "In short, the ruins used to connect\n"
-	.string "the sky, the land, and the sea to\l"
-	.string "each other...\p"
-	.string "Most of the tower is now crumbled,\n"
-	.string "and the only things that remain are\l"
-	.string "the entrance and its interior, where\l"
-	.string "you'll see strange patterns.$"
+	.string "你好呀！\p"
+	.string "据说穿过这个洞穴，以前曾耸立着一\n"
+	.string "座直插云霄的高大巨塔。\p"
+	.string "他们说那是一座非常奇特的塔，有半\n"
+	.string "截甚至嵌在悬崖之中。\p"
+	.string "它不仅是一座高耸入云的巨塔，更是\n"
+	.string "深潜入地底之下！\p"
+	.string "甚至有传闻说它一路延伸到了海底的\n"
+	.string "最深处！\p"
+	.string "简而言之，那处遗迹曾经将天空、大\n"
+	.string "地与海洋彼此连接在一起.....\l"
+	.string ".\p"
+	.string "如今巨塔的大部分都已坍塌，残留的\n"
+	.string "只有入口与内部，在那里能看到一些\l"
+	.string "奇异的纹路。$"
 
 Route47_EventScript_Item_Pearl::
     finditem ITEM_PEARL
@@ -158,4 +150,4 @@ Route47_EventScript_Chinchou::
 	end
 
 Route47_Text_Chinchou:
-	.string "CHINCHOU: Chou!$"
+	.string "灯笼鱼：啾--！$"

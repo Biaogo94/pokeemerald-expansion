@@ -123,104 +123,97 @@ Route13_EventScript_DirectionsSign::
 	end
 
 Route13_Text_PokefanmAlexSeen:
-	.string "Bow down before my regal POKéMON!$"
+	.string "拜倒在我高贵的宝可梦面前吧！$"
 
 Route13_Text_PokefanmAlexBeaten:
-	.string "How… How dare you mock royalty!$"
+	.string "怎......怎么敢对王室无礼！$"
 
 Route13_Text_PokefanmAlexAfterBattle:
-	.string "Doesn't everyone wish to someday\n"
-	.string "be a king?$"
+	.string "难道不是每个人都梦想着有朝一日成\n"
+	.string "为国王吗？$"
 
 Route13_Text_AlexRegister:
-	.string "You're not royalty but you're good.\n"
-	.string "Let me get your number.$"
+	.string "虽然你不是王室，但实力确实很强。\n"
+	.string "能把电话号码告诉我吗？$"
 
 Route13_Text_AlexRematchIntro:
-	.string "I've added knights to my court!\n"
-	.string "Let's battle!$"
+	.string "我的宫廷里又添了新的骑士！来对战\n"
+	.string "吧！$"
 
 Route13_Text_AlexRematchDefeat:
-	.string "Dethroned again…$"
+	.string "又被拉下王座了......$"
 
 Route13_Text_AlexPostRematch:
-	.string "Maybe I'm just a pawn after all.$"
+	.string "或许我终究不过是一枚小卒罢了。$"
 
 Route13_Text_PokefanmJoshuaSeen:
-	.string "Nihihi! Would you like to battle\n"
-	.string "my PIKACHU gang?$"
+	.string "嘻嘻嘻！想挑战一下我的皮卡丘军团\n"
+	.string "吗？$"
 
 Route13_Text_PokefanmJoshuaBeaten:
-	.string "PI-PIKACHU!$"
+	.string "皮--皮卡丘！$"
 
 Route13_Text_PokefanmJoshuaAfterBattle:
-	.string "You look like you have many\n"
-	.string "POKéMON, but PIKACHU\l"
-	.string "is still the best.$"
+	.string "虽然你的宝可梦看起来很多，但还是\n"
+	.string "皮卡丘最棒了！$"
 
 Route13_Text_BirdKeeperPerrySeen:
-	.string "Agility is the key attribute of\n"
-	.string "bird POKéMON.$"
+	.string "速度可是鸟宝可梦的关键属性！$"
 
 Route13_Text_BirdKeeperPerryBeaten:
-	.string "You beat me with your speed…$"
+	.string "竟然在速度上输给了你......$"
 
 Route13_Text_BirdKeeperPerryAfterBattle:
-	.string "Your POKéMON are remarkably well-\n"
-	.string "trained.$"
+	.string "你的宝可梦训练得真出色。$"
 
 Route13_Text_BirdKeeperBretSeen:
-	.string "Check out my POKéMON. Just look\n"
-	.string "at their coloring and their\l"
-	.string "plumage.$"
+	.string "看看我的宝可梦吧。瞧瞧它们这鲜艳\n"
+	.string "的色泽和美丽的羽毛！$"
 
 Route13_Text_BirdKeeperBretBeaten:
-	.string "Shoot! Not good enough!$"
+	.string "可恶！还差得远呢！$"
 
 Route13_Text_BirdKeeperBretAfterBattle:
-	.string "If you groom them, POKéMON get\n"
-	.string "happy.$"
+	.string "只要好好梳理毛发，宝可梦就会很开\n"
+	.string "心哦。$"
 
 Route13_Text_HikerKennySeen:
-	.string "I should go to ROCK TUNNEL to get\n"
-	.string "myself an ONIX.$"
+	.string "我该去岩山隧道抓一只大岩蛇才对。$"
 
 Route13_Text_HikerKennyBeaten:
-	.string "I lost…$"
+	.string "我输了......$"
 
 Route13_Text_HikerKennyAfterBattle:
-	.string "Geological features don't appear\n"
-	.string "to change.\p"
-	.string "But they actually change, little\n"
-	.string "by little.$"
+	.string "地质地貌看起来毫无变化，\p"
+	.string "但实际上，一直都在一点一点地改变\n"
+	.string "呢。$"
 
 Route13_Text_KennyRegister:
-	.string "Maybe POKéMON change over time too.\n"
-	.string "Let's battle again sometime!$"
+	.string "宝可梦或许也会随着岁月改变吧。改\n"
+	.string "天再来对战吧！$"
 
 Route13_Text_KennyRematchIntro:
-	.string "I've learned from geology!\n"
-	.string "Let's go!$"
+	.string "我从地质学中领悟到了新战术！上吧\n"
+	.string "！$"
 
 Route13_Text_KennyRematchDefeat:
-	.string "Still not enough…$"
+	.string "还是差了点吗......$"
 
 Route13_Text_KennyPostRematch:
-	.string "The power of POKéMON is like\n"
-	.string "erosion. We will persevere!$"
+	.string "宝可梦的力量就如同流水侵蚀一般。\n"
+	.string "我们绝不会放弃！$"
 
 Route13_Text_TrainerTips:
-	.string "TRAINER TIPS\p"
-	.string "Look! Right there, at the left\n"
-	.string "side of the post.$"
+	.string "训练家指南\p"
+	.string "快看！就在路牌的左边。$"
 
 Route13_Text_Sign:
-	.string "ROUTE 13\p"
-	.string "NORTH TO SILENCE BRIDGE$"
+	.string "13号道路\p"
+	.string "北：静止桥$"
 
 Route13_Text_DirectionsSign:
-	.string "NORTH TO LAVENDER TOWN\p"
-	.string "WEST TO FUCHSIA CITY$"
+	.string "北：紫苑镇\p"
+	.string "西：浅红市$"
 
 Route13_GetOffBoat::
 	lock
@@ -423,33 +416,33 @@ Route13_Movement_BoatArrive:
 	step_end
 
 Route13_GetOffBoat_Text_0:
-	.string "Welcome back to mainland Kanto!\p"
-	.string "Come back if you'd like to take a trip\n"
-	.string "to the ALOLA ISLES!$"
+	.string "欢迎回到关都大陆！\p"
+	.string "如果还想去阿罗拉群岛旅行，随时欢\n"
+	.string "迎再来哦！$"
 
 Route13_TravelToAlola_Text_0:
-	.string "Ahoy there!\p"
-	.string "That's one strange souvenir.\n"
-	.string "You must be from the ISLES!$"
+	.string "嗨，你好啊！\p"
+	.string "那可真是一个奇特的纪念品。你一定\n"
+	.string "是从群岛来的吧！$"
 Route13_TravelToAlola_Text_0_5:
-	.string "Would you like to take the next ship?\n"
-	.string "It departs shortly!$"
+	.string "你想乘下一班船吗？马上就要启航了\n"
+	.string "哦！$"
 
 Route13_TravelToAlola_Text_1:
-	.string "Ahoy! Let's get you on board!$"
+	.string "嗨！这就带你上船！$"
 
 Route13_TravelToAlola_Text_2:
-	.string "Ahoy!\n"
-	.string "Come back when you'd like to set sail.$"
+	.string "嗨！想启航的时候随时再来。$"
 
 Route13_TravelToAlola_Text_3:
-	.string "Ah, it's you again!\n"
-	.string "Do you want to go to the ALOLA ISLES?$"
+	.string "啊，又是你呀！你想去阿罗拉群岛吗\n"
+	.string "？$"
 
 Route13_TravelToAlola_Text_4:
-	.string "Ahoy!\n"
-	.string "This port is for residents only.\p"
-	.string "All of the residents of these ISLES\n"
-	.string "carry some… {PAUSE 30}strange souvenirs.\p"
-	.string "It makes them so easy to identify,\n"
-	.string "I don't even need to check tickets!$"
+	.string "嗨！这个港口只限当地居民使用。\p"
+	.string "这片群岛的所有居民都会随身带着一\n"
+	.string "些......\l"
+	.string "{PAUSE 30}奇特的纪念品\l"
+	.string "。\p"
+	.string "只要看那个就能一眼认出来，我连船\n"
+	.string "票都用不着查呢！$"

@@ -154,21 +154,19 @@ SinjohRuins_StairsScene::
     end
 
 SinjohRuins_Text_StevenGotoStairs1:
-    .string "STEVEN: This could only mean one thing.$"
+    .string "大吾：这只能说明一件事。$"
 
 SinjohRuins_Text_StevenGotoStairs2:
-    .string "{PLAYER}. We were able to decipher\n"
-    .string "the rest of the glyphs...\p"
-    .string "If the translation is right, \n"
-    .string "the POKéMON at the top of that\l"
-    .string "staircase is the most powerful\l"
-    .string "being in the universe.\p"
-    .string "And it is my duty as former\n"
-    .string "CHAMPION of the HOENN LEAGUE\l"
-    .string "to make sure you are strong\l"
-    .string "enough to face it.\p"
-    .string "Meet me at that landing\n"
-    .string "when you are ready.$"
+    .string "{PLAYER}。我们已经解读出\n"
+    .string "其余的古代文字了......\p"
+    .string "如果解读没有出错，在那座阶梯顶端\n"
+    .string "的宝可梦，就是全宇宙最强大的存在\l"
+    .string "。\p"
+    .string "而作为丰缘联盟的前任冠军，我有责\n"
+    .string "任确认你是否具备足够直面它的实力\l"
+    .string "。\p"
+    .string "等你准备好了，就到那个平台来找我\n"
+    .string "吧。$"
 
 SinjohRuins_Movement_StevenGoesToStairs:
     walk_up
@@ -321,35 +319,36 @@ SinjohRuins_EventScript_StevenBattle::
     return
 
 SinjohRuins_Text_HealParty::
-    .string "STEVEN: Let me heal your POKéMON\n"
-    .string "before you go.$"
+    .string "大吾：出发之前，让我先为你的宝可\n"
+    .string "梦回复体力吧。$"
 
 SinjohRuins_Text_StevenAfterPlate:
-    .string "STEVEN: Good luck, {PLAYER}\p"
-    .string "Go on, I'm right behind you.$"
+    .string "大吾：祝你好运，{PLAYER}\n"
+    .string "。\p"
+    .string "去吧，我就在你身后。$"
 
 SinjohRuins_Text_StevenAfterBattle:
-	.string "STEVEN: To think, another trainer \n"
-	.string "would defeat me like this.\p"
-    .string "Incredible.\p"
-	.string "Take this, it's the final plate.$"
+	.string "大吾：真没想到，居然又有一位训练\n"
+	.string "家能将我击败至此。\p"
+	.string "真是不可思议。\p"
+	.string "收下这个吧，这是最后一块石板。$"
 
 SinjohRuins_Text_StevenReadytoBattle:
-    .string "STEVEN: {PLAYER}.\p"
-    .string "Ever since I first saw the\n"
-    .string "determination in your eyes,\l"
-    .string "I felt it would lead to this.\p"
-    .string "I will test the bond between you\n"
-    .string "and your POKéMON.\p"
-    .string "Are you ready?$"
+    .string "大吾：{PLAYER}。\p"
+    .string "从我第一次看到你眼中坚定的意志起\n"
+    .string "，我就预感到会有这么一天。\p"
+    .string "就让我来考验你与宝可梦之间的羁绊\n"
+    .string "吧。\p"
+    .string "准备好了吗？$"
 
 SinjohRuins_Text_ChallengeSteven:
-	.string "Okay, {PLAYER}{KUN}, if you're going to mount\n"
-	.string "a serious challenge, expect the worst!$"
+	.string "好，{PLAYER}{KUN}，\n"
+	.string "既然你要全力以赴向我发起挑战，那\l"
+	.string "就做好吃苦头的觉悟吧！$"
 
 SinjohRuins_Text_StevenDefeat:
-	.string "You...\n"
-	.string "You are ready.$"
+	.string "你......你已经做好了万全的\n"
+	.string "准备。$"
 
 SinjohRuins_EventScript_Steven::
     msgbox SinjohRuins_Text_StevenAfterPlate, MSGBOX_NPC
@@ -360,5 +359,5 @@ SinjohRuins_EventScript_Sign::
     end
 
 SinjohRuins_Text_Sign:
-    .string "SINJOH RUINS$"
+    .string "神都遗迹$"
 

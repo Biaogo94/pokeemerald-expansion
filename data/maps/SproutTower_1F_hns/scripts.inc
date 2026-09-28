@@ -48,7 +48,7 @@ SproutTower_Text_SageChow_Seen:
 	.string "to honor all POKéMON.$"
 
 SproutTower_Text_SageChow_Beaten:
-	.string "Th-Thank you!$"
+	.string "多、多谢指教！$"
 
 SproutTower_Text_SageChow_AfterBattle:
 	.string "All living beings coexist\n"
@@ -65,15 +65,14 @@ SproutTower_Text_1F_Sage2:
 	.string "as a place for POKéMON training.$"
 
 SproutTower_Text_1F_Granny:
-	.string "A BELLSPROUT over 100 feet\n"
-	.string "tall…\p"
-	.string "People say that it became the\n"
-	.string "center pillar here.$"
+	.string "高达100英尺的喇叭芽.....\n"
+	.string ".\p"
+	.string "人们都说它化作了这里的中心支柱。$"
 
 SproutTower_Text_1F_Teacher:
-	.string "See the pillar shaking?\p"
-	.string "People are training upstairs.$"
+	.string "看到柱子在摇晃了吗？\p"
+	.string "有人正在楼上修行呢。$"
 
 SproutTower_Text_1F_Statue:
-	.string "A POKéMON statue…\p"
-	.string "It looks very distinguished.$"
+	.string "宝可梦的雕像......\p"
+	.string "看起来非常庄严气派。$"

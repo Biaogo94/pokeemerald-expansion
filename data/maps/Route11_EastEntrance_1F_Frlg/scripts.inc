@@ -11,8 +11,8 @@ Route11_EastEntrance_1F_EventScript_BottomGuard::
 
 @ Unclear where this is originally from
 Route11_EastEntrance_1F_Text_BagIsFull::
-	.string "{PLAYER}{KUN}の　バッグ\n"
-	.string "いっぱい　みたい　だね$"
+	.string "{PLAYER}{KUN}的背包\n"
+	.string "好像已经装满了呢。$"
 
 Route11_EastEntrance_1F_Text_ManInLavenderRatesNames::
 	.string "难道你不认为给宝可梦取一个好名字\n"

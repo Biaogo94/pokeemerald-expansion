@@ -321,12 +321,10 @@ FallarborTown_BattleTentLobby_hns_Text_FallarborTentMyFavorite:
 	.string "their POKéMON.$"
 
 FallarborTown_BattleTentLobby_hns_Text_CameToCampOut:
-	.string "I heard something about some tent,\n"
-	.string "so I came to camp out.\p"
-	.string "I didn't know that tents these days\n"
-	.string "are so luxurious!\p"
-	.string "Since I'm here, I may as well try\n"
-	.string "my hand at battling!$"
+	.string "我听说这里有个帐篷，还以为是来露\n"
+	.string "营的呢。\p"
+	.string "没想到现在的帐篷居然这么豪华！\p"
+	.string "既然都来了，那我也来试试对战吧！$"
 
 FallarborTown_BattleTentLobby_hns_Text_ScottLookingForSomeone:
 	.string "SCOTT: Hi, {PLAYER}{KUN}!\n"

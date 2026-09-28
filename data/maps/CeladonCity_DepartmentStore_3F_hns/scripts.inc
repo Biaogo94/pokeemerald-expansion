@@ -43,26 +43,26 @@ CeladonDept3_EventScript_Directory::
 	end
 
 CeladonDeptStore3F_Text_Youngster:
-	.string "I can't decide which POKéMON I\n"
-	.string "should use this TM on…$"
+	.string "真纠结，该把这个招式学习器给哪只\n"
+	.string "宝可梦用好呢......$"
 
 CeladonDeptStore3F_Text_GameboyKid1:
 	.string "Uh-oh! I traded my POKéMON without\n"
 	.string "removing the UPGRADE from it.$"
 
 CeladonDeptStore3F_Text_GameboyKid2:
-	.string "Yeah! I'm finally getting a\n"
-	.string "PORYGON!\p"
-	.string "I'm no good at the slots, so I\n"
-	.string "could never get enough coins…\p"
-	.string "…Huh?\p"
-	.string "The traded PORYGON turned into a\n"
-	.string "different POKéMON!$"
+	.string "太棒了！我终于拿到多边兽了！\p"
+	.string "我不太擅长玩老虎机，以前代币总是\n"
+	.string "攒不够......\p"
+	.string "......咦？\p"
+	.string "换过来的多边兽变成了另一种宝可梦\n"
+	.string "！？$"
 
 CeladonDeptStore3F_Text_SuperNerd:
-	.string "The TM SHOP sells some rare moves.$"
+	.string "招式学习器专柜售卖一些罕见的招式\n"
+	.string "呢。$"
 
 CeladonDeptStore3F_Text_Directory:
-	.string "3F: TM SHOP\p"
-	.string "Make Your POKéMON Stronger!$"
+	.string "3F：招式学习器卖场\p"
+	.string "让你的宝可梦变得更强！$"
 

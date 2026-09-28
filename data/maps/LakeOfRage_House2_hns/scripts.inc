@@ -140,23 +140,22 @@ LakeOfRage_House2_Text_HaveMagikarp:
     .string "see how big that baby is.$"
 
 LakeOfRage_House2_Text_BigPayout:
-    .string "Wow! This one is outstanding!\p"
-    .string "I tip my hat to you!\p"
-    .string "Here's a little something for your\n"
-	.string "trouble.$"
+    .string "哇！这条真是太出色了！\p"
+    .string "我对你佩服得五体投地！\p"
+    .string "这点薄礼是给你的酬劳。$"
 
 LakeOfRage_House2_Text_Bonus:
-    .string "The record is the important thing.\p"
-    .string "Think of that as a bonus!$"
+    .string "最重要的还是打破纪录。\p"
+    .string "那个就当作是额外的奖励吧！$"
 
 LakeOfRage_House2_Text_TooShort:
-    .string "Wow! This one is outstanding!\p"
-    .string "…I wish I could say that, but I've\n"
-    .string "seen a bigger one before.\p"
-    .string "I guess it's worth something.$"
+    .string "哇！这条真是太出色了！\p"
+    .string "......虽然很想这么说，但我\n"
+    .string "以前见过更大的。\p"
+    .string "不过也是值得奖励的。$"
 
 LakeOfRage_House2_Text_NotMagikarp:
-    .string "What? That's not a MAGIKARP!$"
+    .string "什么？这不是鲤鱼王啊！$"
 
 LakeOfRage_House2_Text_Refused:
     .string "Oh… So you didn't get one good\n"

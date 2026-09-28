@@ -211,7 +211,7 @@ AzaleaTown_KurtsHouse_EventScript_KurtGsBall3::
 	release
 	end
 KurtsHouse_Text_BallAnyway:
-	.string "Anyway, can I make you some BALLS?$"
+	.string "话说回来，要我帮你做几个球吗？$"
 
 AzaleaTown_KurtsHouse_EventScript_OakPhoto::
 	msgbox KurtsHouse_Text_OakPhoto, MSGBOX_SIGN
@@ -261,132 +261,130 @@ AzaleaTown_KurtsHouse_Movement_KurtWalkDown:
 	step_end
 
 KurtsHouse_Text_KurtGetStarted:
-	.string "KURT: I'll get started right now!$"
+	.string "钢铁：我马上开工！$"
 
 KurtsHouse_Text_KurtMakingBallsMustWait:
-	.string "Hm? Who are you?\p"
-	.string "{PLAYER}, eh? You want me to make\n"
-	.string "some BALLS?\p"
-	.string "Sorry, but that'll have to wait.\p"
-	.string "Do you know TEAM ROCKET?\n"
-	.string "Ah, don't worry.\p"
-	.string "I'll tell you anyhow.\p"
-	.string "TEAM ROCKET's an evil gang that\n"
-	.string "uses POKéMON for their dirty work.\p"
-	.string "They're supposed to have disbanded\n"
-	.string "three years ago.\p"
-	.string "Anyway, they're at the WELL,\n"
-	.string "cutting off SLOWPOKETAILS to sell!\p"
-	.string "So I'm going to go give them a\n"
-	.string "lesson in pain!\p"
-	.string "Hang on, SLOWPOKE! Old KURT\n"
-	.string "is on his way!$"
+	.string "嗯？你是谁？\p"
+	.string "是{PLAYER}啊？你想让我帮\n"
+	.string "你做几个球？\p"
+	.string "抱歉，那得等一等了。\p"
+	.string "你听说过火箭队吗？啊，不要紧。\p"
+	.string "反正我也会告诉你的。\p"
+	.string "火箭队是个利用宝可梦干尽坏事的邪\n"
+	.string "恶组织。\p"
+	.string "他们本应在3年前就解散了。\p"
+	.string "可现在他们竟然在井里，割下呆呆兽\n"
+	.string "之尾拿去卖！\p"
+	.string "所以我要去给他们一点苦头尝尝！\p"
+	.string "撑住啊，呆呆兽！钢铁老头马上就来\n"
+	.string "！$"
 
 KurtsHouse_Text_KurtHonoredToMakeBalls:
-	.string "KURT: Hi, {PLAYER}!\p"
-	.string "You handled yourself like a\n"
-	.string "real hero at the WELL.\p"
-	.string "I like your style!\p"
-	.string "I would be honored to make\n"
-	.string "BALLS for a trainer like you.\p"
-	.string "This is all I have now, \n"
-	.string "but take it.$"
+	.string "钢铁：嗨，{PLAYER}！\p"
+	.string "你在井里的表现就像个真正的英雄。\p"
+	.string "我很欣赏你的作风！\p"
+	.string "能为你这样的训练家做球，是我的荣\n"
+	.string "幸。\p"
+	.string "虽然我现在只有这个，但也请收下吧\n"
+	.string "。$"
 
 KurtsHouse_Text_KurtBallsFromApricorns:
-	.string "KURT: I make BALLS from BERRIES.\p"
-	.string "Collect them from trees and bring\n"
-	.string "'em to me.\p"
-	.string "I'll make POKé BALLS out of them.$"
+	.string "钢铁：我能用树果来制作球。\p"
+	.string "从树上采摘下来带给我吧。\p"
+	.string "我会用它们做成精灵球。$"
 
 KurtsHouse_Text_KurtAskYouHaveAnApricorn:
-	.string "KURT: You have BERRIES for me?\p"
-	.string "Fine! I'll turn them into POKé BALLS.$"
+	.string "钢铁：你有树果要给我吗？\p"
+	.string "好！我会把它们做成精灵球。$"
 
 KurtsHouse_Text_KurtThatsALetdown:
-	.string "KURT: I don't see any {STR_VAR_1}s!$"
+	.string "钢铁：我没看到有\n"
+	.string "{STR_VAR_1}啊！$"
 
 KurtsHouse_Text_KurtFinishedPlural:
-	.string "KURT: {PLAYER}!\n"
-	.string "Your {STR_VAR_1}s are done. Here!$"
+	.string "钢铁：{PLAYER}！你的\n"
+	.string "{STR_VAR_1}做好了。给\l"
+	.string "你！$"
 
 KurtsHouse_Text_KurtObtainedPlural:
-	.string "{PLAYER} obtained\n"
-	.string "{STR_VAR_2} {STR_VAR_1}s!$"
+	.string "{PLAYER}获得了\n"
+	.string "{STR_VAR_2}个\l"
+	.string "{STR_VAR_1}！$"
 
 KurtsHouse_Text_KurtFinishedSingular:
-	.string "KURT: {PLAYER}!\n"
-	.string "Your {STR_VAR_1} is done. Here!$"
+	.string "钢铁：{PLAYER}！你的\n"
+	.string "{STR_VAR_1}做好了。给\l"
+	.string "你！$"
 
 KurtsHouse_Text_KurtObtainedSingular:
-	.string "{PLAYER} obtained\n"
-	.string "the {STR_VAR_1}!$"
+	.string "{PLAYER}获得了\n"
+	.string "{STR_VAR_1}！$"
 
 KurtsHouse_Text_KurtTurnedOutGreat:
-	.string "KURT: That turned out great.\p"
-	.string "Try catching POKéMON with it.$"
+	.string "钢铁：成果相当不错。\p"
+	.string "试着用它去捕捉宝可梦吧。$"
 
 KurtsHouse_Text_KurtWhatIsThat:
-	.string "Wh-what is that?\p"
-	.string "I've never seen one before.\p"
-	.string "It looks a like a POKé BALL, but\n"
-	.string "it appears to be something else.\p"
-	.string "Let me check it for you.$"
+	.string "这、这是什么？\p"
+	.string "我以前从没见过这东西。\p"
+	.string "虽然看起来像个精灵球，但似乎又有\n"
+	.string "些不同。\p"
+	.string "让我帮你检查一下吧。$"
 
 KurtsHouse_Text_KurtImCheckingItNow:
-	.string "I'm checking it now.$"
+	.string "我现在正在调查呢。$"
 
 KurtsHouse_Text_KurtAhHaISee:
-	.string "Ah-ha! I see! So…$"
+	.string "啊哈！原来如此！这么说.....\n"
+	.string ".$"
 
 KurtsHouse_Text_KurtThisBallStartedToShake:
-	.string "{PLAYER}!\p"
-	.string "This BALL started to shake\n"
-	.string "while I was checking it.\p"
-	.string "There must be something to this!$"
+	.string "{PLAYER}！\p"
+	.string "在我调查的时候，这个球突然摇晃了\n"
+	.string "起来。\p"
+	.string "这里面一定有什么秘密！$"
 
 KurtsHouse_Text_Kurt_Whatwasthat:
-	.string "What was that sound?!\p"
-	.string "Let's go outside to investigate!$"
+	.string "刚才那是什么声音？！\p"
+	.string "我们去外面看看吧！$"
 
 KurtsHouse_Text_GranddaughterSlowpokeGone:
-	.string "The SLOWPOKE are gone… \n"
-	.string "Were they taken away by bad people?$"
+	.string "呆呆兽们都不见了......是被\n"
+	.string "坏人抓走了吗？$"
 
 KurtsHouse_Text_GranddaughterLonely:
-	.string "Grandpa's gone… I'm so lonely…$"
+	.string "爷爷不在家......好寂寞啊.\n"
+	.string ".....$"
 
 KurtsHouse_Text_GranddaughterSlowpokeBack:
-	.string "The SLOWPOKE my dad gave me came back!\p"
-	.string "Its TAIL is growing back too!$"
+	.string "爸爸送我的呆呆兽回来啦！\p"
+	.string "它的尾巴也长回来了！$"
 
 KurtsHouse_Text_GranddaughterDad:
-	.string "Dad works at SILPH where\n"
-	.string "he studies POKé BALLS.\p"
-	.string "I have to stay home\n"
-	.string "with Grandpa and SLOWPOKE.$"
+	.string "爸爸在西尔佛公司研究精灵球。\p"
+	.string "我要留在家里陪爷爷和呆呆兽。$"
 
 KurtsHouse_Text_GranddaughterHelp:
-	.string "I get to help Grandpa now!\p"
-	.string "We'll make good BALLS\n"
-	.string "for you, so please wait!$"
+	.string "我现在也可以帮爷爷的忙了！\p"
+	.string "我们会为你制作好球的，请稍等一下\n"
+	.string "哦！$"
 
 KurtsHouse_Text_GranddaughterFun:
-	.string "It's fun to make BALLS!$"
+	.string "做球真好玩！$"
 
 KurtsHouse_Text_GranddaughterSound:
-	.string "Did that sound come from\n"
-	.string "ILEX FOREST????$"
+	.string "刚才的声音是从栎树林传来的吗？？\n"
+	.string "？？$"
 
 KurtsHouse_Text_Forest:
-	.string "Did you check ILEX FOREST yet?\n"
-	.string "It sounds very restless.$"
+	.string "你去栎树林看过了吗？听起来那边很\n"
+	.string "不安宁。$"
 
 KurtsHouse_Text_Slowpoke:
-	.string "SLOWPOKE: … Yawn?$"
+	.string "呆呆兽：......呀嗯？$"
 
 KurtsHouse_Text_OakPhoto:
-	.string "…A young PROF. OAK?$"
+	.string "......年轻的大木博士？$"
 
 KurtsHouse_Text_CelebiStatue:
-	.string "It's a statue of the forest's\n"
-	.string "protector.$"
+	.string "这是森林守护神的石像。$"

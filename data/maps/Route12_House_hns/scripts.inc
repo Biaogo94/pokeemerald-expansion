@@ -27,12 +27,10 @@ Route12_House_EventScript_SuperRodGot::
 	end
 
 Route12_House_Text_OfferSuperRod:
-	.string "I'm the FISHING GURU's younger\n"
-	.string "brother.\p"
-	.string "I can see that you like fishing.\p"
-	.string "There's no doubt in my mind at\n"
-	.string "all!\p"
-	.string "So? I know I'm right.$"
+	.string "我是钓鱼名人的弟弟。\p"
+	.string "我一眼就能看出来，你很喜欢钓鱼。\p"
+	.string "我对此深信不疑！\p"
+	.string "怎么样？我没说错吧。$"
 
 Route12_House_Text_GiveSuperRod:
 	.string "Yes, yes. Just as I thought!\p"
@@ -46,5 +44,5 @@ Route12_House_Text_GaveSuperRod:
 	.string "POKéMON using different RODS.$"
 
 Route12_House_Text_DontWantSuperRod:
-	.string "Huh? My own eyes deceived me?$"
+	.string "咦？难道是我看走眼了？$"
 

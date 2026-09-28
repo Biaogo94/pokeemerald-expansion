@@ -1,5 +1,5 @@
 gText_ObtainedTheItem::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "获得了{STR_VAR_2}！$"
 
 gText_TheBagIsFull::
 	.string "包包满了………$"
@@ -33,7 +33,8 @@ gText_TheDecorWasTransferredToThePC::
 	.string "里了。$"
 
 gText_ObtainedTheItems::
-	.string "Obtained {STR_VAR_1} {STR_VAR_2}!$"
+	.string "获得了{STR_VAR_1}个\n"
+	.string "{STR_VAR_2}！$"
 
 gText_PlayerFoundItems::
 	.string "{PLAYER}找到了\n"

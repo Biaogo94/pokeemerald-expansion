@@ -334,10 +334,10 @@ Route25_BillsHouse_hns_Text_Slowking:
 	.string "呆呆王$"
 
 Route25_BillsHouse_hns_Text_Farfetchd:
-	.string "FARFETCH'D$"
+	.string "大葱鸭$"
 
 Route25_BillsHouse_hns_Text_Weezing:
-	.string "WEEZING$"
+	.string "双弹瓦斯$"
 
 Route25_BillsHouse_hns_Text_MrMime:
 	.string "魔墙人偶$"
@@ -355,16 +355,16 @@ Route25_BillsHouse_hns_Text_Corsola:
 	.string "太阳珊瑚$"
 
 Route25_BillsHouse_hns_Text_Zigzagoon:
-	.string "ZIGZAGOON$"
+	.string "蛇纹熊$"
 
 Route25_BillsHouse_hns_Text_Linoone:
-	.string "LINOONE$"
+	.string "直冲熊$"
 
 Route25_BillsHouse_hns_Text_Cancel:
 	.string "取消$"
 
 Route25_BillsHouse_hns_Text_NotInParty:
-	.string "POKéMON NOT DETECTED.$"
+	.string "未检测到宝可梦。$"
 
 @VAR_BILLS_GRANDPA
 
@@ -536,90 +536,81 @@ Route25_BillsHouse_Movement_MonCelebration:
 	step_end
 
 Route25_BillsHouse_Text_GrandpaIntro:
-	.string "Hm? You know BILL? He's my\n"
-	.string "grandson.\p"
-	.string "He's in JOHTO. He does\n"
-	.string "something with PCs, so I'm\l"
-	.string "housesitting.$"
+	.string "嗯？你认识正辉？他是我的孙子。\p"
+	.string "他现在在城都地区。说是去搞什么电\n"
+	.string "脑相关的事，所以我就帮他看家了。$"
 
 Route25_BillsHouse_Text_GrampsMeowth:
-	.string "My grandson BILL told me about\n"
-	.string "a POKéMON that has sharp claws,\l"
-	.string "a charm on its head, and is\p"
-	.string "said to bring good fortune.$"
+	.string "我孙子正辉曾跟我提过一种宝可梦，\n"
+	.string "它有着锋利的爪子，额头上贴着小判\l"
+	.string "金币，\p"
+	.string "据说还会带来财运呢。$"
 
 Route25_BillsHouse_Text_GrampsZigzagoon:
-	.string "BILL mentioned a POKéMON that\n"
-	.string "runs around in a zigzag\l"
-	.string "pattern.\p"
-	.string "It's quite the little\n"
-	.string "scavenger, I hear.$"
+	.string "正辉跟我提过一种总是走之字形路线\n"
+	.string "的宝可梦。\p"
+	.string "听说它还是个很擅长到处捡东西的小\n"
+	.string "家伙呢。$"
 
 Route25_BillsHouse_Text_GrampsPonyta:
-	.string "Do you know of a POKéMON with\n"
-	.string "a fiery mane?\p"
-	.string "I hear it can run faster than\n"
-	.string "most trains.$"
+	.string "你知道一种长着火焰鬃毛的宝可梦吗\n"
+	.string "？\p"
+	.string "听说它跑起来比大多数列车还要快呢\n"
+	.string "。$"
 
 Route25_BillsHouse_Text_GrampsFarfetchd:
-	.string "BILL told me about a POKéMON\n"
-	.string "that always carries a stalk\l"
-	.string "of leek with it.\p"
-	.string "Quite the peculiar creature.$"
+	.string "正辉跟我提过一种总是拿着一根大葱\n"
+	.string "的宝可梦。\p"
+	.string "真是个奇特的家伙啊。$"
 
 Route25_BillsHouse_Text_GrampsSlowpoke:
-	.string "Do you know the POKéMON that\n"
-	.string "is always staring blankly?\p"
-	.string "Its tail is often sold on the\n"
-	.string "black market.$"
+	.string "你知道那种总是呆呆地发愣的宝可梦\n"
+	.string "吗？\p"
+	.string "听说它的尾巴经常在黑市上被贩卖呢\n"
+	.string "。$"
 
 Route25_BillsHouse_Text_TeleporterUnlocked:
-	.string "Oh, one more thing!\p"
-	.string "BILL's TELEPORTER.\n"
-	.string "That's the big machine over there.\p"
-	.string "He never quite got it working.\p"
-	.string "But it does curious things to\n"
-	.string "POKéMON.\p"
-	.string "You're welcome to try it, if\n"
-	.string "you'd like!\p"
-	.string "Just use that computer over there.$"
+	.string "哦，还有一件事！\p"
+	.string "正辉的传送机，就是那边那个大机器\n"
+	.string "。\p"
+	.string "他其实一直没能把它彻底搞好。\p"
+	.string "不过它对宝可梦好像会有些奇妙的作\n"
+	.string "用。\p"
+	.string "如果你想试试的话，随时欢迎！\p"
+	.string "只要操作那边的那台电脑就行了。$"
 
 Route25_BillsHouse_Text_AskToSeeMon:
-	.string "If you have that POKéMON, may I\n"
-	.string "see it, please?$"
+	.string "如果你有那只宝可梦，能让我看一看\n"
+	.string "吗？$"
 
 Route25_BillsHouse_Text_ExcitedToSee:
-	.string "You will show me? How good of\n"
-	.string "you!$"
+	.string "你愿意给我看吗？那真是太好了！$"
 
 Route25_BillsHouse_Text_YouDontHaveIt:
-	.string "You don't have it?\n"
-	.string "That's too bad…$"
+	.string "你身上没有吗？那可真遗憾....\n"
+	.string "..$"
 
 Route25_BillsHouse_Text_ShownPokemon:
-	.string "Ah, so that is {STR_VAR_1}?\p"
-	.string "Isn't it cute! That's so kind\n"
-	.string "of you.$"
+	.string "啊，这就是{STR_VAR_1}\n"
+	.string "吗？\p"
+	.string "真可爱啊！你人真好。$"
 
 Route25_BillsHouse_Text_Appreciation:
-	.string "Thanks!\p"
-	.string "This is a token of my\n"
-	.string "appreciation.$"
+	.string "谢谢你！\p"
+	.string "这点小心意请收下吧。$"
 
 Route25_BillsHouse_Text_ComeAgain:
-	.string "Come visit again sometime.$"
+	.string "有空再来玩啊。$"
 
 Route25_BillsHouse_Text_ShownAll:
-	.string "Thanks for showing me so many\n"
-	.string "cute POKéMON.\p"
-	.string "I really enjoyed myself. I'm\n"
-	.string "glad I've lived such a long life.\p"
-	.string "Feel free to use the TELEPORTER\n"
-	.string "whenever you like.$"
+	.string "谢谢你给我看了这么多可爱的宝可梦\n"
+	.string "。\p"
+	.string "我真的很开心。活了这么大把年纪，\n"
+	.string "真是一件幸事啊。\p"
+	.string "传送机你想用的时候随时都可以用。$"
 
 Route25_BillsHouse_Text_WrongPokemon:
-	.string "Hm?\p"
-	.string "That's not the POKéMON that I\n"
-	.string "was told about.$"
+	.string "嗯？\p"
+	.string "这不是我听说的那只宝可梦啊。$"
 
 

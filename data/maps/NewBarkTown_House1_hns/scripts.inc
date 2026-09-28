@@ -18,19 +18,17 @@ NewBarkTown_House1_EventScript_Daughter::
 	end
 
 NewBarkTown_House1_Text_NeighborsDaughter:
-	.string "PIKACHU is an evolved POKéMON.\p"
-	.string "I was amazed by PROF.ELM's\n"
-	.string "findings.\p"
-	.string "He's so famous for his research\n"
-	.string "on POKéMON evolution.\p"
-	.string "…sigh…\p"
-	.string "I wish I could be a researcher\n"
-	.string "like him…$"
+	.string "皮卡丘是进化后的宝可梦。\p"
+	.string "空木博士的发现真是令我大吃一惊。\p"
+	.string "他在宝可梦进化方面的研究非常出名\n"
+	.string "。\p"
+	.string "......唉......\p"
+	.string "真希望我也能成为像他一样的研究员\n"
+	.string "啊......$"
 
 
 NewBarkTown_House1_Text_Neighbor:
-	.string "My daughter is adamant about\n"
-	.string "becoming PROF.ELM's assistant.\p"
-	.string "She really loves POKéMON!\p"
-	.string "But then, so do I!$"
+	.string "我女儿铁了心要当空木博士的助手。\p"
+	.string "她真的很喜欢宝可梦！\p"
+	.string "不过话说回来，我也一样喜欢！$"
 

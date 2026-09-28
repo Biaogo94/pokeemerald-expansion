@@ -37,11 +37,12 @@ PewterCity_Museum_2F_Text_AskedDaddyToCatchPikachu::
     .string "I asked my daddy to catch me one!$"
 
 PewterCity_Museum_2F_Text_PikachuSoonIPromise::
-    .string "Yeah, a PIKACHU soon, I promise!$"
+    .string "好好好，很快就给你抓皮卡丘，我保\n"
+    .string "证！$"
 
 PewterCity_Museum_2F_Text_SpaceShuttle::
-    .string "Space Shuttle$"
+    .string "航天飞机$"
 
 PewterCity_Museum_2F_Text_MeteoriteThatFellOnMtMoon::
-    .string "A meteorite that fell on MT. MOON.\n"
-    .string "It is thought to be a MOON STONE.$"
+    .string "落在月见山上的陨石。被认为是一块\n"
+    .string "月之石。$"

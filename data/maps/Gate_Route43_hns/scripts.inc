@@ -70,39 +70,36 @@ Gate_Route43_Rocket_EventScript_Rockets::
 	end
 
 Gate_Route43_Rocket_Text_TollFee:
-    .string "Hold it there, kiddo!\p"
-    .string "The toll is ¥500 to go\n"
-    .string "through.$"
+    .string "站住，小鬼！\p"
+    .string "想从这里过，得交500日元的过路\n"
+    .string "费！$"
 
 Gate_Route43_Rocket_Text_ThankYou:
-    .string "Thank you very much!$"
+    .string "多谢惠顾啦！$"
 
 Gate_Route43_Rocket_Text_AllYouGot:
-    .string "Then pay what you have, please.$"
+    .string "那就把身上所有的钱都交出来吧。$"
 
 Gate_Route43_Rocket_Text_KickOut:
-	.string "Wow!\p"
-	.string "You're totally broke!\p"
-	.string "I almost feel sorry for you.\p"
-	.string "Okay, you can pass...\p"
-	.string "Just don't tell the other guard,\n"
-	.string "okay?$"
+	.string "哇哦！\p"
+	.string "你居然身无分文啊！\p"
+	.string "我都忍不住有点同情你了。\p"
+	.string "行吧，放你过去......\p"
+	.string "可千万别告诉另一个守卫，知道了吗\n"
+	.string "？$"
 
 Gate_Route43_Rocket_Text_MakingABundle:
-    .string "He-he-he. We're making a bundle.\p"
-    .string "Everyone wants to see what's going\n"
-    .string "on up at LAKE OF RAGE.$"
+    .string "嘿嘿嘿，这次可赚大发了。\p"
+    .string "大家都想去愤怒之湖看热闹呢。$"
 
 Route43Gate_Text_OfficerFoundTM:
-    .string "I got chased from my post by these\n"
-    .string "thugs in black.\p"
-    .string "They left this behind.\p"
-    .string "It makes me uncomfortable. Could\n"
-    .string "you take it away?$"
+    .string "我被那帮黑衣暴徒赶出了值班室。\p"
+    .string "他们把这东西给落下了。\p"
+    .string "看着怪渗人的。你能把它带走吗？$"
 
 Gate_Route43_Text_ReceivedTM30:
-    .string "{PLAYER} received TM36.$"
+    .string "{PLAYER}获得了招式学习器\n"
+    .string "36。$"
 
 Gate_Route43_Text_OfficerAvoidGrass:
-    .string "Use this gate to avoid walking in\n"
-    .string "the grass.$"
+    .string "走这个关卡就可以避免穿过草丛。$"

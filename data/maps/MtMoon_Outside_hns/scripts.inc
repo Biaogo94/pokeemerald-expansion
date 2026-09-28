@@ -100,20 +100,26 @@ MtMoon_Outside_Movement_Jirachi:
 	step_end
 
 MtMoon_Outside_Text_WhiteRockTouchIt:
-	.string "An unusual white rock.\n"
-	.string "The color reminds you of the moon.\p"
-	.string "Touch it?$"
+	.string "一块奇特的白色岩石。颜色让人联想\n"
+	.string "到皎洁的月亮。\p"
+	.string "要摸摸看吗？$"
 
 MtMoon_Outside_Text_WhiteRockTouchDay:
-	.string "{PLAYER} touched the unusual rock.\n"
-	.string "..........................\l"
-	.string "..........................\l"
-	.string "But nothing happened.$"
+	.string "{PLAYER}摸了摸这块奇特的\n"
+	.string "岩石。.............\l"
+	.string "................\l"
+	.string "................\l"
+	.string "................\l"
+	.string "...........但是什么也\l"
+	.string "没发生。$"
 
 MtMoon_Outside_Text_WhiteRockTouchNight:
-	.string "{PLAYER} touched the unusual rock.\n"
-	.string "..........................\l"
-	.string "..........................$"
+	.string "{PLAYER}摸了摸这块奇特的\n"
+	.string "岩石。.............\l"
+	.string "................\l"
+	.string "................\l"
+	.string "................\l"
+	.string "...........$"
 
 MtMoon_Outside_EventScript_Jirachi::
 	lock
@@ -140,12 +146,11 @@ MtMoon_Outside_EventScript_JirachiRan::
 
 
 MtMoon_Outside_Text_DontLitterSign:
-	.string "MT.MOON SQUARE\n"
-	.string "DON'T LITTER$"
+	.string "月见山广场请勿乱扔垃圾$"
 
 MtMoon_Outside_Text_Jirachi:
-    .string "JIRACHI: Chi!$"
+    .string "基拉祈：奇！$"
 
 MtMoon_Outside_Text_Clefairy:
-    .string "CLEFAIRY: Pi pippippi!$"
+    .string "皮皮：皮，皮匹匹！$"
 

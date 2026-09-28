@@ -83,7 +83,7 @@ Route12_EventScript_Tentacruel::
 	end
 
 Route12_Text_Magikarp:
-	.string "MAGIKARP: Kaaaarp.$"
+	.string "鲤鱼王：咔噜--。$"
 
 Route12_Text_NewFisher:
 	.string "Careful, something vicious lives in\n"
@@ -94,10 +94,11 @@ Route12_Text_FisherMartinSeen:
 	.string "fishing and POKéMON.$"
 
 Route12_Text_FisherMartinBeaten:
-	.string "Gwaaah!$"
+	.string "哇啊--！$"
 
 Route12_Text_FisherMartinAfterBattle:
-	.string "I'm too impatient for fishing…$"
+	.string "我太性急了，果然不适合钓鱼...\n"
+	.string "...$"
 
 Route12_Text_FisherStephenSeen:
 	.string "I feel so content, fishing while\n"
@@ -105,7 +106,7 @@ Route12_Text_FisherStephenSeen:
 	.string "radio.$"
 
 Route12_Text_FisherStephenBeaten:
-	.string "My stupid radio distracted me!$"
+	.string "都是这破收音机让我分心了！$"
 
 Route12_Text_FisherStephenAfterBattle:
 	.string "Have you checked out KANTO's radio\n"
@@ -117,7 +118,7 @@ Route12_Text_FisherBarneySeen:
 	.string "everyday lives?$"
 
 Route12_Text_FisherBarneyBeaten:
-	.string "The answer is coming up next!$"
+	.string "答案马上揭晓！$"
 
 Route12_Text_FisherBarneyAfterBattle:
 	.string "I think electricity is the most\n"
@@ -137,17 +138,17 @@ Route12_Text_KyleRematchIntro:
 	.string "Let's see!$"
 
 Route12_Text_KyleRematchDefeat:
-	.string "You remembered.$"
+	.string "原来你还记得啊。$"
 
 Route12_Text_KylePostRematch:
 	.string "The thrill of battle is almost\n"
 	.string "as good as a big catch!$"
 
 Route12_Text_FisherKyleSeen:
-	.string "Do you remember?$"
+	.string "你还记得吗？$"
 
 Route12_Text_FisherKyleBeaten:
-	.string "You do remember?$"
+	.string "你真的记得吗？$"
 
 Route12_Text_FisherKyleAfterBattle:
 	.string "The tug you feel on the ROD when\n"
@@ -164,9 +165,9 @@ Route12_EventScript_FishingSign::
 	end
 
 Route12_Text_Sign:
-	.string "ROUTE 12\p"
-	.string "NORTH TO LAVENDER TOWN$"
+	.string "12号道路\p"
+	.string "北至紫苑镇$"
 
 Route12_Text_FishingSpotSign:
-	.string "FISHING SPOT$"
+	.string "垂钓圣地$"
 

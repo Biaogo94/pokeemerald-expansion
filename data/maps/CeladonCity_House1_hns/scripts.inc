@@ -60,21 +60,23 @@ CeladonCity_House1_Text_ChefEatathon:
 	.string "Sorry.$"
 
 CeladonCity_House1_Text_Fisher1Snarfle:
-	.string "…Snarfle, chew…$"
+	.string "......呼噜，嚼嚼.....\n"
+	.string ".$"
 
 CeladonCity_House1_Text_Fisher1Concentration:
-	.string "Don't talk to me!\p"
-	.string "You'll break my concentration!$"
+	.string "别跟我说话！\p"
+	.string "会让我分心的！$"
 
 CeladonCity_House1_Text_Fisher2GulpChew:
-	.string "…Gulp… Chew…$"
+	.string "......咕嘟......嚼嚼\n"
+	.string "......$"
 
 CeladonCity_House1_Text_Fisher2Quantity:
-	.string "I take quantity over quality!\p"
-	.string "I'm happy when I'm full!$"
+	.string "比起品质，我更看重分量！\p"
+	.string "只要吃饱就很幸福！$"
 
 CeladonCity_House1_Text_Fisher3MunchMunch:
-	.string "Munch, munch…$"
+	.string "嚼嚼，嚼嚼......$"
 
 CeladonCity_House1_Text_Fisher3GoldenrodIsBest:
 	.string "The food is good here, but\n"
@@ -82,16 +84,16 @@ CeladonCity_House1_Text_Fisher3GoldenrodIsBest:
 	.string "anywhere.$"
 
 CeladonCity_House1_Text_TeacherCrunchCrunch:
-	.string "Crunch… Crunch…$"
+	.string "咯吱......咯吱......$"
 
 CeladonCity_House1_Text_TeacherNoCoinCase:
 	.string "Nobody here will give you a COIN\n"
 	.string "CASE. You should look in JOHTO.$"
 
 CeladonCity_House1_Text_TeacherKeepEating:
-	.string "Crunch… Crunch…\p"
-	.string "I can keep eating!\p"
-	.string "More, CHEF!$"
+	.string "咔嚓......咔嚓......\p"
+	.string "我还能继续吃！\p"
+	.string "老板，再来一份！$"
 
 CeladonCity_House1_Text_EatathonContestPoster:
 	.string "Eatathon Contest! No time limit!\p"

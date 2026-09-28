@@ -27,21 +27,23 @@ BlackthornCity_House2_EventScript_TradeCompleted::
 	end
 
 BlackthornCity_House2_Text_YouWillTradeWontYou:
-	.string "I collect POKéMON!\n"
-	.string "Do you have a {STR_VAR_1}?\p"
-	.string "Want to trade it for my\n"
-	.string "{STR_VAR_2}?$"
+	.string "我正在收集宝可梦！你有\n"
+	.string "{STR_VAR_1}吗？\p"
+	.string "想用它来交换我的\n"
+	.string "{STR_VAR_2}吗？$"
 
 BlackthornCity_House2_Text_MonYouTakeCare:
-	.string "Yay! I got myself {STR_VAR_1}!\p"
-	.string "{STR_VAR_2}, you take care!$"
+	.string "太好啦！我得到\n"
+	.string "{STR_VAR_1}了！\p"
+	.string "{STR_VAR_2}，你要保重\n"
+	.string "哦！$"
 
 BlackthornCity_House2_Text_ThisIsntAMon:
-	.string "Uh, no, I don't think so.\n"
-	.string "That isn't a {STR_VAR_1}.$"
+	.string "呃，不对吧。这并不是\n"
+	.string "{STR_VAR_1}啊。$"
 
 BlackthornCity_House2_Text_YouWontTradeMe:
-	.string "You don't want to trade? Aww...$"
+	.string "不想交换吗？好吧......$"
 
 BlackthornCity_House2_Text_After:
-	.string "Hi, how's my old MR MIME doing?$"
+	.string "嗨，我的魔墙人偶过得还好吗？$"

@@ -957,20 +957,14 @@ BattleFrontier_BattleDomeBattleRoom_Text_RefereeDecisionPleaseWait:
 	.string "请耐心等待最终结果。$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTrainer:
-	.string "The REFEREES have reached\n"
-	.string "a decision!\p"
-	.string "The winner is…\n"
-	.string "Oh, my goodness!\l"
-	.string "The winner is {STR_VAR_1}!\l"
-	.string "Congratulations!$"
+	.string "裁判们做出了判定！\p"
+	.string "胜者是......噢，天哪！胜者\n"
+	.string "是{STR_VAR_1}！恭喜！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerPlayer:
-	.string "The REFEREES have reached\n"
-	.string "a decision!\p"
-	.string "The winner is…\n"
-	.string "Oh, my goodness!\l"
-	.string "The winner is {PLAYER}!\l"
-	.string "Congratulations!$"
+	.string "裁判们做出了判定！\p"
+	.string "胜者是......噢，天哪！胜者\n"
+	.string "是{PLAYER}！恭喜！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_BrightNewHope:
 	.string "新的希望来了！\p"

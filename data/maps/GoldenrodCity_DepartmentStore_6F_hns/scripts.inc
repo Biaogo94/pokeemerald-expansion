@@ -16,11 +16,11 @@ GoldenrodDeptStore6_EventScript_Whitney::
 	end
 
 GoldenrodDeptStore6_Text_Whitney:
-	.string "{PLAYER}! Fancy seeing you here!\p"
-	.string "I'm picking up something for\n"
-	.string "my MILTANK.\p"
-	.string "If you want another battle, come to\n"
-	.string "the FIGHTING DOJO!$"
+	.string "{PLAYER}！真巧，居然在这\n"
+	.string "儿碰到你！\p"
+	.string "我正在给我的大奶罐挑东西呢。\p"
+	.string "要是还想跟我对战的话，就来金黄市\n"
+	.string "的格斗道馆吧！$"
 
 GoldenrodCity_DepartmentStore_6F_EventScript_Jose::
 	lock
@@ -48,24 +48,26 @@ GoldenrodCity_DepartmentStore_6F_EventScript_TradeCompleted::
 	end
 
 GoldenrodCity_DepartmentStore_6F_Text_YouWillTradeWontYou:
-	.string "I collect POKéMON!\n"
-	.string "Do you have a {STR_VAR_1}?\p"
-	.string "Want to trade it for my\n"
-	.string "{STR_VAR_2}?$"
+	.string "我正在收集宝可梦！你有\n"
+	.string "{STR_VAR_1}吗？\p"
+	.string "想用它来交换我的\n"
+	.string "{STR_VAR_2}吗？$"
 
 GoldenrodCity_DepartmentStore_6F_Text_MonYouTakeCare:
-	.string "Yay! I got myself {STR_VAR_1}!\p"
-	.string "{STR_VAR_2}, you take care!$"
+	.string "太好啦！我得到\n"
+	.string "{STR_VAR_1}了！\p"
+	.string "{STR_VAR_2}，你要保重\n"
+	.string "哦！$"
 
 GoldenrodCity_DepartmentStore_6F_Text_ThisIsntAMon:
-	.string "Uh, no, I don't think so.\n"
-	.string "That isn't a {STR_VAR_1}.$"
+	.string "呃，不对吧。这并不是\n"
+	.string "{STR_VAR_1}啊。$"
 
 GoldenrodCity_DepartmentStore_6F_Text_YouWontTradeMe:
-	.string "You don't want to trade? Aww...$"
+	.string "不想交换吗？好吧......$"
 
 GoldenrodCity_DepartmentStore_6F_Text_After:
-	.string "Hi, how's my old MACHOP doing?$"
+	.string "嗨，我以前那只腕力过得还好吗？$"
 
 
 GoldenrodDeptStore6_EventScript_Lass::
@@ -93,19 +95,18 @@ GoldenrodDeptStore6_EventScript_Sign::
 	end
 
 GoldenrodDeptStore_Text_6FLass:
-    .string "Do you listen to LUCKY CHANNEL?\p"
-    .string "They say if you want to win,\n"
-	.string "you should trade POKéMON with as\l"
-    .string "many people as possible to get\l"
-    .string "different ID numbers.\p"
-	.string "However, trading isn't as widely\n"
-	.string "available as it once was.$"
+    .string "你收听幸运号码频道吗？\p"
+    .string "据说要想中奖，就得尽可能多和别人\n"
+    .string "交换宝可梦，来收集不同的ID编号\l"
+    .string "。\p"
+    .string "不过，现在通信交换可没以前那么方\n"
+    .string "便普及了呢。$"
 
 GoldenrodDeptStore_Text_6FSuperNerd:
-    .string "If you're tired, try the vending\n"
-    .string "machine's drinks.\p"
-    .string "Your POKéMON will love them too.$"
+    .string "要是累了，就去自动售货机买点饮料\n"
+    .string "吧。\p"
+    .string "你的宝可梦也会喜欢的。$"
 
 GoldenrodDeptStore_Text_6FDirectory:
-    .string "Take a Break from Shopping!\p"
-    .string "6F TRANQUIL SQUARE$"
+    .string "购物之余歇歇脚！\p"
+    .string "6F 舒心广场$"

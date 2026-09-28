@@ -106,25 +106,21 @@ EcruteakCity_Theater_Movement_KimonoGirlMoveBack:
 	step_end
 
 EcruteakCity_Theater_Text_Rocket1:
-	.string "ROCKET: Stop dancing such a serious\n"
-	.string "dance! Show me something like\l"
-	.string "a hula dance!$"
+	.string "火箭队手下：别跳那种严肃的舞蹈了\n"
+	.string "！给我来点像草裙舞那样的舞步啊！$"
 
 EcruteakCity_Theater_Text_KimonoRocket1:
-	.string "KIMONO GIRL: ...You mustn't push\n"
-	.string "such a request on me.$"
+	.string "舞姬：......请您不要提出这\n"
+	.string "种强人所难的要求呀。$"
 
 EcruteakCity_Theater_Text_Rocket2:
-	.string "ROCKET: Huh?\p"
-	.string "Are you telling me you don't\n"
-	.string "respect what the customer\l"
-	.string "wants?$"
+	.string "火箭队手下：哈？！\p"
+	.string "你这是不打算听取客人的要求咯？$"
 
 EcruteakCity_Theater_Text_Rocket3:
-	.string "Well, then I'll show you how\n"
-	.string "to dance. I'll show you a\l"
-	.string "great one.\p"
-	.string "Wahahaha!$"
+	.string "既然这样，那就让我来教你跳舞吧。\n"
+	.string "让你见识一下大爷我绝妙的舞姿！\p"
+	.string "哇哈哈哈哈！$"
 
 EcruteakCity_Theater_EventScript_Rocket::
 	lock
@@ -178,32 +174,27 @@ EcruteakCity_Theater_Movement_RocketLeave:
 	step_end
 
 EcruteakCity_Theater_Text_RocketSeen:
-	.string "Huh? Who are you?\n"
-	.string "You dare to get in my way?$"
+	.string "哈？你谁啊？居然敢来妨碍我？！$"
 
 EcruteakCity_Theater_Text_RocketBeaten:
-	.string "Oh, no!\n"
-	.string "You make me look like a\l"
-	.string "villain!$"
+	.string "搞什么啊！你这样搞得我像个恶霸一\n"
+	.string "样！$"
 
 EcruteakCity_Theater_Text_RocketAfter:
-	.string "Oops! I have an important mission!\n"
-	.string "If they find out I was wasting\l"
-	.string "time here, they'll make me start\l"
-	.string "over as the lowest ROCKET GRUNT!\p"
-	.string "I better leave now!$"
+	.string "糟糕！我还有重要任务在身！要是被\n"
+	.string "发现我在这里磨蹭，肯定会被降职成\l"
+	.string "最底层的火箭队小兵！\p"
+	.string "我得赶紧溜了！$"
 
 EcruteakCity_Theater_Text_KimonoRocket3:
-	.string "You must be {PLAYER},\n"
-	.string "correct? That was indeed\l"
-	.string "excellent.\p"
-	.string "Kind and strong... Good at\n"
-	.string "raising POKéMON as well...\p"
-	.string "That person does know what\n"
-	.string "to look for in people...\p"
-	.string "Ohoho! That was just me\n"
-	.string "talking to myself.\l"
-	.string "Never mind.$"
+	.string "你就是{PLAYER}吧？刚才的\n"
+	.string "表现真是精彩。\p"
+	.string "温柔又坚强......也很擅长培\n"
+	.string "育宝可梦......\p"
+	.string "那位大人的眼光果然没错.....\n"
+	.string ".\p"
+	.string "呵呵呵！只是我自言自语罢了。别放\n"
+	.string "在心上。$"
 
 
 EcruteakCity_Theater_EventScript_KimonoGirl::
@@ -245,13 +236,10 @@ EcruteakCity_Theater_EventScript_ZukiDuringRocket::
 	end
 
 EcruteakCity_Theater_Text_Kimono:
-	.string "For KIMONO GIRLS like me,\n"
-	.string "dancing is everything.\p"
-	.string "I have never gone a day\n"
-	.string "without a dance practice.\p"
-	.string "POKéMON are the same.\n"
-	.string "They grow with you little\l"
-	.string "by little each day.$"
+	.string "对我们舞姬来说，舞蹈就是一切。\p"
+	.string "我一天都不曾落下过舞蹈练习。\p"
+	.string "宝可梦也是一样的。它们每天都会和\n"
+	.string "你一起一点一点地成长。$"
 
 EcruteakCity_Theater_EventScript_SurfGuy::
 	lock
@@ -400,18 +388,16 @@ EcruteakCity_Theater_Movement_SurfGuy2:
 	step_end
 
 EcruteakCity_Theater_Text_SurfGuyRocket:
-	.string "What's the deal with that\n"
-	.string "Team Rocket Grunt, messing\l"
-	.string "with that KIMONO GIRL?\p"
-	.string "You are a Trainer, right?\n"
-	.string "Please help her!$"
+	.string "那个火箭队手下搞什么鬼啊，居然去\n"
+	.string "纠缠那位舞姬小姐？\p"
+	.string "你是训练家对吧？请帮帮她吧！$"
 
 EcruteakCity_Theater_Text_SurfGuyGiveSurf:
-	.string "Wonderful! You were so\n"
-	.string "courageous for your age!\p"
-	.string "It was a rare sight to see!\n"
-	.string "I want you to have this.\p"
-	.string "Don't be shy--take it!$"
+	.string "太精彩了！小小年纪居然如此有勇气\n"
+	.string "！\p"
+	.string "老夫真是大开眼界！这个就送给你吧\n"
+	.string "。\p"
+	.string "别客气--快收下吧！$"
 
 EcruteakCity_Theater_Text_SurfGuyGaveSurf:
 	.string "That's SURF.\n"
@@ -419,68 +405,61 @@ EcruteakCity_Theater_Text_SurfGuyGaveSurf:
 	.string "swim across water with ease.$"
 
 EcruteakCity_Theater_Text_SurfGuyAfter:
-	.string "Not only are the KIMONO GIRLS\n"
-	.string "great dancers, they're also\l"
-	.string "skilled at POKéMON.\p"
-	.string "But they battle only for good\n"
-	.string "reasons.\p"
-	.string "I don't know if you could beat\n"
-	.string "them if they showed their skill...$"
+	.string "舞姬们不仅舞跳得好，宝可梦对战的\n"
+	.string "实力也相当了得。\p"
+	.string "不过她们只在有正当理由时才会对战\n"
+	.string "。\p"
+	.string "要是她们拿出真本事，不知道你能不\n"
+	.string "能赢过她们呢......$"
 
 EcruteakCity_Theater_Text_Psyduck:
-	.string "PSYDUCK: Dau dau!$"
+	.string "可达鸭：嘎咕嘎咕！$"
 
 EcruteakCity_Theater_Text_BoyBefore:
-	.string "Eeeeek!$"
+	.string "呀啊--！$"
 
 EcruteakCity_Theater_Text_Boy:
-	.string "I was supposed to be the hero...!\n"
-	.string "So much for getting close to\l"
-	.string "a KIMONO GIRL!$"
+	.string "本来该由我来英雄救美的.....\n"
+	.string ".！借机接近舞姬小姐的计划全泡汤\l"
+	.string "了！$"
 
 EcruteakCity_Theater_Text_Granny:
-	.string "That man's always with his\n"
-	.string "PSYDUCK.\p"
-	.string "Says he wants a POKéMON that\n"
-	.string "can SURF and dance.\p"
-	.string "Is he trying to make a POKéMON\n"
-	.string "that stars in synchronized\l"
-	.string "swimming?$"
+	.string "那个人总是和他的可达鸭待在一起。\p"
+	.string "他说想要一只既会冲浪又会跳舞的宝\n"
+	.string "可梦。\p"
+	.string "难道是想培养一只花样游泳的宝可梦\n"
+	.string "明星吗？$"
 
 EcruteakCity_Theater_Text_GrannyBefore:
-	.string "Oh... Ouch...!\n"
-	.string "This stomachache!\p"
-	.string "I wouldn't let this guy act like\n"
-	.string "that if not for this pain...!$"
+	.string "哎哟......好疼啊.....\n"
+	.string ".！肚子痛得要命！\p"
+	.string "要不是肚子这么痛，我才不会让那个\n"
+	.string "家伙那么嚣张......！$"
 
 EcruteakCity_Theater_Text_Gramps:
-	.string "The KIMONO GIRLS are so\n"
-	.string "beautiful...\p"
-	.string "But they have to go through\n"
-	.string "rigorous training.\p"
-	.string "And they have to learn to follow\n"
-	.string "customs before appearing in\l"
-	.string "public.\p"
-	.string "But if you love something,\n"
-	.string "anything is possible.$"
+	.string "舞姬小姐们真是太美丽了.....\n"
+	.string ".\p"
+	.string "但她们必须经历严苛的修行，\p"
+	.string "而且还要学会恪守传统礼节，才能在\n"
+	.string "公众面前登台表演。\p"
+	.string "不过只要心怀热爱，就没有什么做不\n"
+	.string "到的。$"
 
 EcruteakCity_Theater_Text_GrampsBefore:
-	.string "Oh... Ouch...!\n"
-	.string "This back pain!\p"
-	.string "I wouldn't let this guy act like\n"
-	.string "that if not for this pain...!$"
+	.string "哎哟......好痛啊.....\n"
+	.string ".！我的腰痛又犯了！\p"
+	.string "要不是腰这么痛，我才不会让那个家\n"
+	.string "伙那么嚣张......！$"
 
 EcruteakCity_Theater_Text_Girl:
-	.string "The KIMONO GIRLS are my big\n"
-	.string "sisters! I'll be like them one\l"
-	.string "day!$"
+	.string "舞姬小姐们都是我的姐姐！我长大以\n"
+	.string "后也要变得和她们一样！$"
 
 EcruteakCity_Theater_Text_GirlBefore:
-	.string "I like that funny dance!$"
+	.string "我喜欢那个有趣的舞蹈！$"
 
 EcruteakCity_Theater_Text_FancyPanel:
-	.string "It's a fancy panel that's\n"
-	.string "decorated with flowers.$"
+	.string "这是一扇装饰着花朵的精美屏风。$"
 
 EcruteakCity_Theater_Trigger_PreBattleCutsceneLeft::
 	lock
@@ -969,29 +948,26 @@ EcruteakCity_Theater_Text_KimonoGirlBeaten:
 	.string "...$"
 
 EcruteakCity_Theater_Text_ZukiSeen:
-	.string "Welcome. My name is ZUKI.\n"
-	.string "I met you previously in VIOLET\l"
-	.string "CITY.\p"
-	.string "To bring back {STR_VAR_1}, we\n"
-	.string "needed someone with the right bond\l"
-	.string "with POKéMON.\p"
-	.string "We asked MR. POKéMON to give this\n"
-	.string "MYSTERY EGG to\l"
-	.string "whoever showed potential.\p"
-	.string "The EGG went from MR. POKéMON\n"
-	.string "to PROF.ELM, then to you.\p"
-	.string "But being pure alone is not enough\n"
-	.string "to face the power of this POKéMON.$"
+	.string "欢迎光临。我叫小月。之前在桔梗市\n"
+	.string "曾与你见过面呢。\p"
+	.string "为了唤醒{STR_VAR_1}，\n"
+	.string "我们需要一位与宝可梦拥有深厚羁绊\l"
+	.string "的人。\p"
+	.string "我们拜托宝可梦爷爷，把不可思议的\n"
+	.string "蛋交给展现出潜质的人选。\p"
+	.string "那颗蛋从宝可梦爷爷交到了空木博士\n"
+	.string "手中，随后又交到了你的手中。\p"
+	.string "不过，单凭纯洁的心灵，还不足以面\n"
+	.string "对那只宝可梦强大的力量。$"
 
 EcruteakCity_Theater_Text_ZukiSeenAgain:
-	.string "I will test you to see if you are\n"
-	.string "a good Trainer.\p"
-	.string "Are you ready, {PLAYER}?$"
+	.string "就由我来考验一下，看你是否是一名\n"
+	.string "优秀的训练家吧。\p"
+	.string "你准备好了吗，{PLAYER}？$"
 
 EcruteakCity_Theater_Text_ZukiNo:
-	.string "That is fine...\n"
-	.string "I will wait for you to get\l"
-	.string "ready.$"
+	.string "没关系的......我会在这里等\n"
+	.string "你准备好。$"
 
 EcruteakCity_Theater_Text_NaokoSeen:
 	.string "You are quite strong. You helped\n"
@@ -1066,7 +1042,7 @@ EcruteakCity_Theater_Text_ZukiLugia:
 	.string "See you there!$"
 
 EcruteakCity_Theater_Text_KimonoDone:
-	.string "We are rehearsing a dance.$"
+	.string "我们正在排练舞蹈。$"
 
 EcruteakCity_Theater_Text_ZukiAfterAll:
 	.string "Thank you for your help the\n"

@@ -92,98 +92,97 @@ Route15_EventScript_PPup::
 	end
 
 Route15_Text_TeacherColetteSeen:
-	.string "Have you forgotten anything?$"
+	.string "你有没有落下什么东西？$"
 
 Route15_Text_TeacherColetteBeaten:
-	.string "Kyaaah!$"
+	.string "呀啊--！$"
 
 Route15_Text_TeacherColetteAfterBattle:
-	.string "Before I became a teacher, I used\n"
-	.string "to forget a lot of things.$"
+	.string "在当老师之前，我也经常丢三落四的\n"
+	.string "。$"
 
 Route15_Text_TeacherHillarySeen:
-	.string "On sunny days, I think that the\n"
-	.string "kids would rather be playing in the\l"
-	.string "schoolyard than studying in class.$"
+	.string "大晴天的时候，孩子们比起在教室里\n"
+	.string "学习，应该更想在操场上奔跑玩耍吧\l"
+	.string "。$"
 
 Route15_Text_TeacherHillaryBeaten:
-	.string "I didn't want to lose…$"
+	.string "我本来不想输的......$"
 
 Route15_Text_TeacherHillaryAfterBattle:
-	.string "Studying is important, but\n"
-	.string "exercise is just as vital.$"
+	.string "学习固然重要，但体育锻炼也同样不\n"
+	.string "可或缺哦。$"
 
 Route15_Text_HillaryRegister:
-	.string "You've taught me a lesson!\n"
-	.string "May I have your number?$"
+	.string "你可真给我上了一课！能告诉我你的\n"
+	.string "电话号码吗？$"
 
 Route15_Text_HillaryRematchIntro:
-	.string "I'll school you this time!$"
+	.string "这次由我来给你上一课！$"
 
 Route15_Text_HillaryRematchDefeat:
-	.string "Back to the drawing board…$"
+	.string "得从头再学起啦......$"
 
 Route15_Text_HillaryPostRematch:
-	.string "Teaching POKéMON is just like\n"
-	.string "teaching children. Patience!$"
+	.string "培育宝可梦就跟教导小孩子一样，必\n"
+	.string "须要有耐心！$"
 
 Route15_Text_SchoolboyKippSeen:
-	.string "Hang on. I have to phone my mom.$"
+	.string "等等，我得先给我妈妈打个电话。$"
 
 Route15_Text_SchoolboyKippBeaten:
-	.string "Sorry, Mom! I was beaten!$"
+	.string "对不起，妈妈！我打输了！$"
 
 Route15_Text_SchoolboyKippAfterBattle:
-	.string "My mom worries so much about me, I\n"
-	.string "have to phone her all the time.$"
+	.string "我妈妈总是特别担心我，所以我随时\n"
+	.string "都得跟她通个电话。$"
 
 Route15_Text_SchoolboyTommySeen:
-	.string "Let's battle. I won't lose!$"
+	.string "来对战吧！我可不会输！$"
 
 Route15_Text_SchoolboyTommyBeaten:
-	.string "I forgot to do my homework!$"
+	.string "我忘了写作业啦！$"
 
 Route15_Text_SchoolboyTommyAfterBattle:
 	.string "Sayonara! I just learned that in\n"
 	.string "my Japanese class.$"
 
 Route15_Text_SchoolboyJohnnySeen:
-	.string "We're on a field trip to LAVENDER\n"
-	.string "RADIO TOWER for social studies.$"
+	.string "我们的社会实践课是要去紫苑广播电\n"
+	.string "台参观哦。$"
 
 Route15_Text_SchoolboyJohnnyBeaten:
-	.string "You're wickedly tough!$"
+	.string "你也太强了吧！$"
 
 Route15_Text_SchoolboyJohnnyAfterBattle:
-	.string "I'm tired of walking. I need to\n"
-	.string "take a break.$"
+	.string "走得累死我了。我得歇一会儿。$"
 
 Route15_Text_SchoolboyBillySeen:
-	.string "My favorite class is Gym!$"
+	.string "我最喜欢的课就是体育课！$"
 
 Route15_Text_SchoolboyBillyBeaten:
-	.string "Oh, no! How could I lose?$"
+	.string "天啊！我怎么会输？$"
 
 Route15_Text_SchoolboyBillyAfterBattle:
-	.string "If POKéMON were a subject at\n"
-	.string "school, I'd be the best!$"
+	.string "如果学校里有宝可梦这一门课，我肯\n"
+	.string "定是第一名！$"
 
 Route15_Text_BillyRegister:
-	.string "I should've paid more attention in class.\n"
-	.string "Can I have your number?$"
+	.string "看来我上课得多听讲才行了。能把你\n"
+	.string "的电话号码告诉我吗？$"
 
 Route15_Text_BillyRematchIntro:
-	.string "I've been studying hard!\n"
-	.string "Let me show you what I learned!$"
+	.string "我一直都在用功学习！让你见识一下\n"
+	.string "我的学习成果！$"
 
 Route15_Text_BillyRematchDefeat:
-	.string "I need to study more…$"
+	.string "我还得多多用功才行......$"
 
 Route15_Text_BillyPostRematch:
-	.string "Book smarts aren't everything.\n"
-	.string "I need battle experience too!$"
+	.string "光读死书可不行，我还欠缺对战经验\n"
+	.string "啊！$"
 
 Route15_Text_Sign:
-	.string "ROUTE 15\p"
-	.string "FUCHSIA CITY - LAVENDER TOWN$"
+	.string "15号道路\p"
+	.string "浅红市 - 紫苑镇$"
 

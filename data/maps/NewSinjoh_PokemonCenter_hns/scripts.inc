@@ -39,29 +39,26 @@ NewSinjoh_PokemonCenter_hns_Map::
 	end
 
 NewSinjoh_PokemonCenter_Text_Skiier:
-	.string "The snow makes it hard to navigate\n"
-	.string "this place.\p"
-	.string "It all looks the same.\p"
-	.string "So this map is a big help!\p"
-	.string "What a beautiful region!$"
+	.string "大雪让人很难在这里辨别方向。\p"
+	.string "到处看起来都一模一样。\p"
+	.string "所以这幅地图帮了大忙！\p"
+	.string "这真是一片美丽的地区啊！$"
 
 NewSinjoh_Text_Artist:
-	.string "I've found great inspiration in\n"
-	.string "this hidden town!\p"
-	.string "Don't you think the landscape\n"
-    .string "is breathtaking?$"
+	.string "我在这座隐秘的城镇里获得了极大的\n"
+	.string "灵感！\p"
+	.string "你不觉得这里的景色美得令人屏息吗\n"
+	.string "？$"
 
 Text_ItemGiveaway:
-	.string "I see!\n"
-	.string "You must be an artist as well!\p"
-	.string "I happen to have an extra something\n"
-	.string "that'll help you notice the tiny\l"
-    .string "details of life!$"
+	.string "原来如此！你肯定也是一名艺术家吧\n"
+	.string "！\p"
+	.string "我刚好有多余的东西，可以帮你捕捉\n"
+	.string "生活中微小的细节！$"
 
 NewSinjoh_Text_Artist_No:
-    .string "You aren't one of those anti-tourist\n"
-    .string "types are you?\n"
-	.string "Beauty is meant to be shared.$"
+    .string "你该不会是那种排斥游客的人吧？美\n"
+    .string "丽的事物本就该与人分享嘛。$"
 
 NewSinjoh_EventScript_ZoomLens_No::
 	msgbox NewSinjoh_Text_Artist_No, MSGBOX_DEFAULT
@@ -74,19 +71,18 @@ NewSinjoh_EventScript_ZoomLens_Gotten::
 	end
 
 Text_WasGiven_ZoomLensAlready:
-	.string "I hope you enjoy that lens!$"
+	.string "希望你能喜欢那个镜片！$"
 
 NewSinjoh_EventScript_FemAce::
 	msgbox NewSinjoh_Text_FemAce, MSGBOX_NPC
 	end
 
 NewSinjoh_Text_FemAce:
-	.string "We don't have many modern\n"
-	.string "commodities in NEW SINJOH.\p"
-	.string "But at least we have this\n"
-	.string "POKéMON CENTER.$"
+	.string "在新神都并没有多少现代化的便利设\n"
+	.string "施。\p"
+	.string "但好在至少还有这家宝可梦中心。$"
 
 
 NewSinjoh_PokemonCenter_hns_Text_0:
-	.string "{PLAYER} took a closer look at the\n"
-	.string "SINJOH map.$"
+	.string "{PLAYER}仔细端详了神都地\n"
+	.string "图。$"

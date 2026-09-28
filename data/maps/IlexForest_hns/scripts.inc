@@ -650,34 +650,33 @@ IlexForest_Movement_Kurt2:
 	step_end
 
 IlexForest_Text_ApprenticeIntro:
-	.string "Oh, man… My boss is going to be\n"
-	.string "steaming…\p"
-	.string "The FARFETCH'D that CUTS trees\n"
-	.string "for charcoal took off on me.\p"
-	.string "I can't go looking for it here\n"
-	.string "in the ILEX FOREST.\p"
-	.string "It's too big, dark and scary\n"
-	.string "for me…$"
+	.string "哎呀......师父肯定要发飙了\n"
+	.string "......\p"
+	.string "负责砍树做木炭的大葱鸭自己跑掉了\n"
+	.string "。\p"
+	.string "我可不敢进栎树林里面去找它。\p"
+	.string "这里面又大又黑，吓死人了....\n"
+	.string "..$"
 
 IlexForest_Text_ApprenticeAfter:
-	.string "Wow! Thanks a whole bunch!\p"
-	.string "My boss' POKéMON won't obey me\n"
-	.string "because I don't have a BADGE.$"
+	.string "哇！真是太感谢你了！\p"
+	.string "因为我没有徽章，师父的宝可梦根本\n"
+	.string "不听我的话。$"
 
 IlexForest_Text_ItsTheMissingPokemon:
-	.string "It's the missing POKéMON!$"
+	.string "是走失的那只宝可梦！$"
 
 IlexForest_Text_Kwaaaa:
-	.string "FARFETCH'D: Kwaa!$"
+	.string "大葱鸭：嘎啊！$"
 
 IlexForest_Text_CharcoalMasterIntro:
-	.string "Ah! My FARFETCH'D!\p"
-	.string "You found it for us, kid?\p"
-	.string "Without it, we wouldn't be able\n"
-	.string "to CUT trees for charcoal.\p"
-	.string "Thanks, kid!\p"
-	.string "Now, how can I thank you…\p"
-	.string "I know! Here, take this.$"
+	.string "啊！我的大葱鸭！\p"
+	.string "小朋友，是你帮我们找到的吗？\p"
+	.string "要是没有它，我们可就没法砍树来做\n"
+	.string "木炭了。\p"
+	.string "多谢你啊，小朋友！\p"
+	.string "该怎么谢你才好呢......\p"
+	.string "有了！来，拿着这个。$"
 
 IlexForest_Text_CharcoalMasterOutro:
 	.string "That's the CUT HM.\n"
@@ -687,80 +686,78 @@ IlexForest_Text_CharcoalMasterOutro:
 	.string "GYM BADGE from AZALEA to use it.$"
 
 IlexForest_Text_CharcoalMasterTalkAfter:
-	.string "Do you want to apprentice as a\n"
-	.string "charcoal maker with me?\p"
-	.string "You'll be first-rate in ten years!$"
+	.string "你想跟我学做木炭吗？\p"
+	.string "只要学上十年，你也能成为一流的炭\n"
+	.string "师！$"
 
 IlexForest_Text_Lass:
-	.string "Did something happen to the\n"
-	.string "forest's guardian?$"
+	.string "森林的守护神出了什么事吗？$"
 
 IlexForest_Text_Signpost:
-	.string "ILEX FOREST is so overgrown with\n"
-	.string "trees that you can't see the sky.\p"
-	.string "Please watch out for items that may\n"
-	.string "have been dropped.$"
+	.string "栎树林里的树木太茂密了，连天空都\n"
+	.string "看不见。\p"
+	.string "走在路上可要小心脚下掉落的道具哦\n"
+	.string "。$"
 
 IlexForest_Text_Shrine:
-	.string "ILEX FOREST SHRINE…\p"
-	.string "It's in honor of the forest's\n"
-	.string "protector…$"
+	.string "栎树林的神龛......\p"
+	.string "这里供奉着森林的守护神.....\n"
+	.string ".$"
 
 IlexForest_Text_ShrineCelebiEvent:
-	.string "ILEX FOREST SHRINE…\p"
-	.string "It's in honor of the forest's\n"
-	.string "protector…\p"
-	.string "Oh? What is this?\p"
-	.string "It's a hole.\n"
-	.string "It looks like the GS BALL would fit\l"
-	.string "inside it.\p"
-	.string "Want to put the GS BALL here?$"
+	.string "栎树林的神龛......\p"
+	.string "这里供奉着森林的守护神.....\n"
+	.string ".\p"
+	.string "咦？这是什么？\p"
+	.string "这里有个凹槽。看起来刚好可以把G\n"
+	.string "S球放进去。\p"
+	.string "要把GS球放进去吗？$"
 
 IlexForest_Text_InsertGSBall:
-	.string "{PLAYER} put in the GS BALL.$"
+	.string "{PLAYER}把GS球放了进去\n"
+	.string "。$"
 
 IlexForest_Text_KurtCaughtCelebi:
-	.string "Whew, wasn't that something!\p"
-	.string "{PLAYER}, that was fantastic. Thanks!\p"
-	.string "The legends about that SHRINE were\n"
-	.string "real after all.\p"
-	.string "I feel inspired by what I just saw.\p"
-	.string "It motivates me to make better BALLS!\p"
-	.string "I'm going!$"
+	.string "呼，刚才真是不可思议啊！\p"
+	.string "{PLAYER}，真是太精彩了，\n"
+	.string "谢谢你！\p"
+	.string "关于那个神龛的传说果然是真的。\p"
+	.string "刚才所见的一切给了我莫大的灵感。\p"
+	.string "这激励着我要做出更好的球！\p"
+	.string "我先走一步啦！$"
 
 IlexForest_Text_BugCatcherWayneSeen:
-	.string "Don't sneak up on me like that!\p"
-	.string "You frightened a POKéMON away!$"
+	.string "别突然从我背后冒出来啊！\p"
+	.string "你把宝可梦都吓跑了！$"
 
 IlexForest_Text_BugCatcherWayneBeaten:
-	.string "I hadn't seen that POKéMON before…$"
+	.string "那只宝可梦我以前可没见过....\n"
+	.string "..$"
 
 IlexForest_Text_BugCatcherWayneAfter:
-	.string "A POKéMON I've never seen before\n"
-	.string "fell out of the tree when I used\l"
-	.string "HEADBUTT.\p"
-	.string "I ought to use HEADBUTT in other\n"
-	.string "places too.$"
+	.string "我用头锤撞树的时候，掉下来一只我\n"
+	.string "从没见过的宝可梦。\p"
+	.string "看来我得在其他地方也多用用头锤才\n"
+	.string "行。$"
 
 IlexForest_Text_Kimono_Girl1:
-	.string "KIMONO GIRL, KIMONO GIRL, lost and\n"
-	.string "all alone. Poor girl lost in the\l"
-	.string "dark ILEX FOREST.$"
+	.string "舞姬小姐，舞姬小姐，孤身一人迷了\n"
+	.string "路。可怜的女孩迷失在阴暗的栎树林\l"
+	.string "。$"
 
 IlexForest_Text_Kimono_Girl2:
-	.string "You remember me from VIOLET CITY?\n"
-	.string "You must be imagining.\p"
-	.string "Anyway, will you show me how to\n"
-	.string "get out of this forest?$"
+	.string "你在桔梗市见过我？那一定是你看错\n"
+	.string "啦。\p"
+	.string "话说回来，你能带我离开这片森林吗\n"
+	.string "？$"
 
 IlexForest_Text_Kimono_Girl3:
-	.string "Me oh my... You are lost yourself,\n"
-	.string "aren't you?$"
+	.string "哎呀呀......你自己也迷路了\n"
+	.string "，对吧？$"
 
 IlexForest_Text_Kimono_Girl4:
-	.string "Wow! Are you going to show me how\n"
-	.string "to get out?\p"
-	.string "You are such a smart POKéMON!$"
+	.string "哇！你是要给我带路吗？\p"
+	.string "你可真是一只聪明的宝可梦！$"
 
 IlexForest_Text_Kimono_Girl5:
-	.string "See you.$"
+	.string "再见啦。$"

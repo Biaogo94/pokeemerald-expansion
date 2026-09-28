@@ -3426,8 +3426,8 @@ Route124_Text_LilaRematchNotEnoughMons:
 	.string "只宝可梦。$"
 
 Route124_Text_RoyRematchIntro:
-	.string "ROY: If we lose, I'll catch heck.\n"
-	.string "I'm going to go totally all out!$"
+	.string "罗伊：要是输了我可要挨训的。我一\n"
+	.string "定要全力以赴！$"
 
 Route124_Text_RoyRematchDefeat:
 	.string "小勇：啊——哦……我姐姐不可能饶\n"
@@ -4296,8 +4296,8 @@ Route134_Text_HitoshiIntro:
 	.string "吧。$"
 
 Route134_Text_HitoshiDefeat:
-	.string "… … … … … …\n"
-	.string "… … … … … …$"
+	.string "... ... ... ... ... ...\n"
+	.string "... ... ... ... ... ...$"
 
 Route134_Text_HitoshiPostBattle:
 	.string "是我主动发起挑战，结果却输了，真\n"

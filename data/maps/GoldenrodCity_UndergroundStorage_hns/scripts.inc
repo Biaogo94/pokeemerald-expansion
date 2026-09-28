@@ -48,12 +48,12 @@ GoldenrodCity_UndergroundStorage_EventScript_Item_MaxEther::
     end
 
 RadioTowerBasement_Text_GruntM24Seen:
-    .string "How did you get this far?\p"
-    .string "I guess it can't be helped. I'll\n"
-    .string "dispose of you.$"
+    .string "你怎么闯到这里来的？\p"
+    .string "看来没办法了。就由我来把你解决掉\n"
+    .string "！$"
 
 RadioTowerBasement_Text_GruntM24Beaten:
-    .string "I got disposed of…$"
+    .string "被解决掉的反倒是我......$"
 
 RadioTowerBasement_Text_GruntM24After:
     .string "TEAM ROCKET will keep going, waiting\n"
@@ -66,15 +66,15 @@ RadioTowerBasement_Text_GruntM14Seen:
     .string "not even brats!$"
 
 RadioTowerBasement_Text_GruntM14Beaten:
-    .string "Blast it!$"
+    .string "可恶啊！$"
 
 RadioTowerBasement_Text_GruntM14After:
-    .string "I lost…\p"
-    .string "Please forgive me, GIOVANNI!$"
+    .string "我输了......\p"
+    .string "坂木老大，请原谅我！$"
 
 RadioTowerBasement_Text_GruntM15Seen:
-    .string "Hyuck-hyuck-hyuck! Look who it is!\p"
-    .string "Ready? I'm really tough now!$"
+    .string "嘎哈哈哈！瞧瞧是谁来了！\p"
+    .string "准备好了吗？现在的我可是很强的！$"
 
 RadioTowerBasement_Text_GruntM15Beaten:
     .string "Hyuck-hyuck-hyuck! You're so good!\p"

@@ -32,10 +32,12 @@ MossdeepCity_House1_Text_ItLikesXPokeblocks:
 	.string "{STR_VAR_1}！$"
 
 MossdeepCity_House1_Text_DoesntLikeOrDislikePokeblocks:
-	.string "It doesn't appear to like or dislike\n"
-	.string "any {POKEBLOCK}S.$"
+	.string "它看起来对任何\n"
+	.string "{POKEBLOCK}都无所谓喜\l"
+	.string "不喜欢。$"
 
 MossdeepCity_House1_Text_HusbandCanTellPokeblockMonLikes:
-	.string "My husband can tell what kind of\n"
-	.string "{POKEBLOCK}S a POKéMON likes at a glance.$"
+	.string "我丈夫只要看一眼，就能知道宝可梦\n"
+	.string "喜欢什么样的\l"
+	.string "{POKEBLOCK}。$"
 

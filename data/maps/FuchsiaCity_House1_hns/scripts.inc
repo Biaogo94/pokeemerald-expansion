@@ -10,10 +10,10 @@ FuchsiaCity_House1_EventScript_Youngster::
 	end
 
 FuchsiaCity_House1_Text_BillsOlderSister:
-	.string "My grandpa is at my brother BILL's\n"
-	.string "on CERULEAN CAPE.$"
+	.string "我爷爷在我哥哥正辉那里，就在华蓝\n"
+	.string "海岬。$"
 
 FuchsiaCity_House1_Text_Youngster:
-	.string "I saw these weird, slow POKéMON on\n"
-	.string "CYCLING ROAD.$"
+	.string "我在自行车道上看到了这种动作慢吞\n"
+	.string "吞的奇怪宝可梦。$"
 

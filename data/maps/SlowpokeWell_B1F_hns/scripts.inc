@@ -110,7 +110,7 @@ SlowpokeWell_B1F_Text_GruntM29Seen:
 	.string "taking it out on you!$"
 
 SlowpokeWell_B1F_Text_GruntM29Beaten:
-	.string "Arrgh! This is NOT my day!$"
+	.string "啊啊啊！今天真是不走运！$"
 
 SlowpokeWell_B1F_Text_GruntM29After:
 	.string "Sure, we've been hacking the\n"
@@ -157,16 +157,16 @@ SlowpokeWell_B1F_Text_GruntM2After:
 	.string "It's tough being a ROCKET GRUNT!$"
 
 SlowpokeWell_B1F_Text_GruntF1Seen:
-	.string "Stop taking TAILS?\p"
-	.string "Yeah, just try to defeat all\n"
-	.string "of us!$"
+	.string "不要割尾巴？\p"
+	.string "行啊，有本事把我们全都打倒试试看\n"
+	.string "！$"
 
 SlowpokeWell_B1F_Text_GruntF1Beaten:
-	.string "You rotten brat!$"
+	.string "你这个臭小鬼！$"
 
 SlowpokeWell_B1F_Text_GruntF1After:
-	.string "SLOWPOKETAILS grow back fast!\p"
-	.string "What's wrong with selling them?$"
+	.string "呆呆兽之尾很快就会长出来的！\p"
+	.string "拿来卖又有什么关系嘛！$"
 
 SlowpokeWell_B1F_Text_SlowpokeWithMail:
 	.string "A SLOWPOKE with its TAIL cut off…\p"
@@ -180,4 +180,4 @@ SlowpokeWell_B1F_Text_SlowpokeMail:
 	.string "Love, Dad$"
 
 SlowpokeWell_B1F_Text_TaillessSlowpoke:
-	.string "A SLOWPOKE with its TAIL cut off…$"
+	.string "尾巴被割掉的呆呆兽......$"

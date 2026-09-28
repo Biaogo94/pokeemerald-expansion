@@ -307,9 +307,8 @@ CherrygroveCity_Text_GuideGentRoute30:
 	.string "their prized POKéMON there.$"
 
 CherrygroveCity_Text_GuideGentSea:
-	.string "This is the sea, as you can see.\p"
-	.string "Some POKéMON are found only in\n"
-	.string "in water.$"
+	.string "如你所见，这里就是大海啦。\p"
+	.string "有些宝可梦只生活在水里哦。$"
 
 CherrygroveCity_Text_GuideGentMap:
 	.string "Here…\p"
@@ -320,10 +319,9 @@ CherrygroveCity_Text_GuideGentMap:
 	.string "I wish you luck on your journey!$"
 
 CherrygroveCity_Text_GuideGentDecline:
-	.string "Oh… It's something I enjoy\n"
-	.string "doing…\p"
-	.string "Fine. Come see me whenever\n"
-	.string "you like.$"
+	.string "哎呀......这本来也是我的乐\n"
+	.string "趣嘛......\p"
+	.string "好吧，你想来找我随时都可以来。$"
 
 CherrygroveCity_Text_RivalSeen:
 	.string "… … … … … … … …\p"
@@ -336,7 +334,7 @@ CherrygroveCity_Text_RivalSeen:
 	.string "I'll show you what I mean!$"
 
 CherrygroveCity_Text_SilverWin:
-	.string "Humph. Are you happy you won?$"
+	.string "哼，赢了很得意是吧？$"
 
 CherrygroveCity_Text_RivalAfter:
 	.string "… … … … … … … …\p"
@@ -355,8 +353,7 @@ CherrygroveCity_Text_TeacherHaveMapCard:
 	.string "going anywhere is fun.$"
 
 CherrygroveCity_Text_YoungsterNoPokedex:
-	.string "MR. POKéMON's house is still\n"
-	.string "farther up ahead.$"
+	.string "宝可梦爷爷的家还在更前面呢。$"
 
 CherrygroveCity_Text_YoungsterHavePokedex:
 	.string "I battled the trainers on the\n"
@@ -366,31 +363,28 @@ CherrygroveCity_Text_YoungsterHavePokedex:
 	.string "POKéMON CENTER.$"
 
 CherrygroveCity_Text_MysticWaterGuyBefore:
-	.string "A POKéMON I caught had an\n"
-	.string "item.\p"
-	.string "I think it's MYSTIC WATER.\p"
-	.string "I don't need it, so do you\n"
-	.string "want it?$"
+	.string "我抓到的宝可梦身上带着道具。\p"
+	.string "好像是神秘水滴。\p"
+	.string "我也用不上，你想要吗？$"
 
 CherrygroveCity_Text_MysticWaterGuyAfter:
-	.string "Back to fishing for me, then.$"
+	.string "那我继续钓鱼去啦。$"
 
 CherrygroveCity_Text_CitySign:
-	.string "CHERRYGROVE CITY\p"
-	.string "The City of Cute, Fragrant\n"
-	.string "Flowers$"
+	.string "吉花市\p"
+	.string "洋溢着可爱花香的城镇$"
 
 CherrygroveCity_Text_GuideGentsHouseSign:
-	.string "GUIDE GENT'S HOUSE$"
+	.string "向导爷爷的家$"
 
 CherryGroveCity_Text_Staryu:
-	.string "STARYU: Yuuuuuuuu.$"
+	.string "海星星：呦--！$"
 
 CherryGroveCity_Text_Corsola:
-	.string "CORSOLA: Corsola! La!$"
+	.string "太阳珊瑚：珊瑚！拉！$"
 
 CherryGroveCity_Text_Krabby:
-	.string "KRABBY: KOOOOKEEE!$"
+	.string "大钳蟹：库--唧！$"
 
 CherryGroveCity_Movement_Trigger_Gent:
 	walk_down

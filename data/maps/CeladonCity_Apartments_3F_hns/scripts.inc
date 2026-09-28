@@ -32,31 +32,27 @@ GameFreak_Text_GameDesigner:
 	.string "but don't give up!$"
 
 GameFreak_Text_GameDesignerCompletedPokedex:
-	.string "Wow! Excellent! You completed\n"
-	.string "your POKéDEX!\p"
-	.string "Congratulations!$"
+	.string "哇！太棒了！你集齐了宝可梦图鉴！\p"
+	.string "恭喜你！$"
 
 GameFreak_Text_GraphicArtist:
 	.string "I'm the GRAPHIC ARTIST.\p"
 	.string "I drew you!$"
 
 GameFreak_Text_GraphicArtistPrintDiploma:
-	.string "I'm the GRAPHIC ARTIST.\p"
-	.string "Oh, you completed your POKéDEX?\p"
-	.string "Want me to print out your\n"
-	.string "DIPLOMA?$"
+	.string "我是美工设计师。\p"
+	.string "哎呀，你集齐宝可梦图鉴了吗？\p"
+	.string "想要我把奖状打印出来吗？$"
 
 GameFreak_Text_GraphicArtistRefused:
-	.string "Give me a shout if you want your\n"
-	.string "DIPLOMA printed.$"
+	.string "如果想要打印奖状，随时叫我一声。$"
 
 GameFreak_Text_GraphicArtistError:
-	.string "Something's wrong. I'll have to\n"
-	.string "cancel printing.$"
+	.string "好像出问题了。只好取消打印了。$"
 
 GameFreak_Text_Programmer:
-	.string "Who, me? I'm the PROGRAMMER.\p"
-	.string "Play the slot machines!$"
+	.string "咦，我吗？我是程序员。\p"
+	.string "去玩玩老虎机吧！$"
 
 GameFreak_Text_CharacterDesigner:
 	.string "Aren't the TWINS adorable?\p"
@@ -64,18 +60,16 @@ GameFreak_Text_CharacterDesigner:
 	.string "Oh, I love them!$"
 
 CeladonMansion3F_Text_DevRoomSign:
-	.string "GAME FREAK DEVELOPMENT ROOM$"
+	.string "GAME FREAK 开发室$"
 
 CeladonMansion3F_Text_Drawing:
-	.string "It's a detailed drawing of a\n"
-	.string "pretty girl.$"
+	.string "这是一张画得很精细的漂亮美少女画\n"
+	.string "像。$"
 
 CeladonMansion3F_Text_GameProgram:
-	.string "It's the game program. Messing\n"
-	.string "with it could put a bug in the\n"
-	.string "game!$"
+	.string "这是游戏的程序代码。乱动的话说不\n"
+	.string "定会让游戏出现BUG！$"
 
 CeladonMansion3F_Text_ReferenceMaterial:
-	.string "It's crammed with reference\n"
-	.string "materials. There's even a\n"
-	.string "POKé DOLL.$"
+	.string "堆满了各种参考资料。甚至还有一个\n"
+	.string "宝可梦玩偶。$"

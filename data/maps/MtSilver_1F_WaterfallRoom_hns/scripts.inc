@@ -35,11 +35,14 @@ MtSilver_1F_WaterfallRoom_Scientist_Scene::
 	end
 
 MtSilver_1F_WaterfallRoom_Text_Scientist:
-	.string "This is the entrance to the\n"
-	.string "unexplored branch... {PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}\p"
-	.string "Does it feel cold here to you?\p"
-	.string "Okay, I'm going to leave now.\p"
-	.string "Good luck!$"
+	.string "这里就是未探索分支区域的入口了.\n"
+	.string ".....\l"
+	.string "{PAUSE 0x0F}\l"
+	.string "{PAUSE 0x0F}\l"
+	.string "{PAUSE 0x0F}\p"
+	.string "你有没有觉得这里有点冷？\p"
+	.string "好了，我要先走了。\p"
+	.string "祝你好运！$"
 
 MtSilver_1F_Movement_Scientist:
 	jump_2_down

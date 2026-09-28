@@ -42,84 +42,77 @@ BattleFrontier_Lounge5_EventScript_LittleBoy_hns::
 	end
 
 BattleFrontier_Lounge5_Text_NatureGirlGreeting_hns::
-	.string "Ehehe!\n"
-	.string "I can tell what POKéMON are thinking!\p"
-	.string "Please!\n"
-	.string "Can I see your POKéMON?$"
+	.string "嘿嘿！我能知道宝可梦心里在想什么\n"
+	.string "哦！\p"
+	.string "拜托！能让我看看你的宝可梦吗？$"
 
 BattleFrontier_Lounge5_Text_NatureGirlNoneShown_hns::
-	.string "Boo!\n"
-	.string "Cheapie!$"
+	.string "切--！小气鬼！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighAttackLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "It will battle even if it has a lot\l"
-	.string "of ouchies!$"
+	.string "嗯嗯......\p"
+	.string "它说它喜欢战斗！即使受了很痛很痛\n"
+	.string "的伤，它也还是会继续战斗！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighDefenseLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will worry about itself!$"
+	.string "嗯嗯......\p"
+	.string "它说它喜欢战斗！但要是受了很痛很\n"
+	.string "痛的伤，它就会先顾着保护自己！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighSupportLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will turn sneaky!$"
+	.string "嗯嗯......\p"
+	.string "它说它喜欢战斗！但要是受了很痛很\n"
+	.string "痛的伤，它就会变得爱耍小花招！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighAttackLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will hit back!$"
+	.string "嗯嗯......\p"
+	.string "它说它很懂得照顾自己！但要是受了\n"
+	.string "很痛很痛的伤，它就会全力反击回去\l"
+	.string "！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighDefenseLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "It says it worries about itself whether\l"
-	.string "or not it has a lot of ouchies!$"
+	.string "嗯嗯......\p"
+	.string "它说它很懂得照顾自己！它说不管受\n"
+	.string "没受很痛的伤，它都总是在担心自己\l"
+	.string "！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighSupportLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will turn sneaky!$"
+	.string "嗯嗯......\p"
+	.string "它说它很懂得照顾自己！但要是受了\n"
+	.string "很痛很痛的伤，它就会变得爱耍小花\l"
+	.string "招！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighAttackLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will hit back!$"
+	.string "嗯嗯......\p"
+	.string "它说它喜欢耍小花招！但要是受了很\n"
+	.string "痛很痛的伤，它就会全力反击回去！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighDefenseLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will worry about itself!$"
+	.string "嗯嗯......\p"
+	.string "它说它喜欢耍小花招！但要是受了很\n"
+	.string "痛很痛的伤，它就会先顾着保护自己\l"
+	.string "！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighSupportLow_hns::
-	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "It says it likes to be sneaky even\l"
-	.string "if it has a lot of ouchies!$"
+	.string "嗯嗯......\p"
+	.string "它说它喜欢耍小花招！它说即使受了\n"
+	.string "很痛很痛的伤，它也还是最喜欢耍小\l"
+	.string "花招！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlEgg_hns::
-	.string "That's silly! An EGG is asleep!\n"
-	.string "I can't talk to it!$"
+	.string "真傻！蛋还在睡觉呢！我没法跟它说\n"
+	.string "话！$"
 
 BattleFrontier_Lounge5_Text_LadyClaimsSheUnderstandsPokemon_hns::
-	.string "How charming!\n"
-	.string "That little lady claims she can\l"
-	.string "understand POKéMON!$"
+	.string "真有意思！那个小女孩竟然声称自己\n"
+	.string "能听懂宝可梦的心声！$"
 
 BattleFrontier_Lounge5_Text_GirlSayingSomethingProfound_hns::
-	.string "I have this feeling that the little girl\n"
-	.string "is saying something profound.$"
+	.string "我总觉得那个小女孩说的话其实大有\n"
+	.string "深意。$"
 
 BattleFrontier_Lounge5_Text_GirlPlaysAtRedHouseALot_hns::
-	.string "I know something!\p"
-	.string "That little girl plays at the red house\n"
-	.string "a lot!$"
+	.string "我知道一个秘密！\p"
+	.string "那个小女孩经常在那座红色的房子里\n"
+	.string "玩！$"
 

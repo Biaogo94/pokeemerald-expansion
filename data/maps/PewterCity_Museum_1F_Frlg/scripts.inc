@@ -223,7 +223,7 @@ PewterCity_Museum_1F_Text_AmberIsFossilizedSap::
 
 @ Unused
 PewterCity_Museum_1F_Text_PleaseGoAround::
-	.string "あちらへ　おまわりください$"
+	.string "请绕到那边。$"
 
 PewterCity_Museum_1F_Text_ShouldBeGratefulForLongLife::
 	.string "感谢上苍让我活了这么长时间。\p"

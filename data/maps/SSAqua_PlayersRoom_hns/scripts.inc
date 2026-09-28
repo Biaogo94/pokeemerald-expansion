@@ -19,9 +19,8 @@ SSAquaRooms_EventScript_Bed_PokecenterChallenge::
 
 
 SSAquaRooms_Text_TakeRestOnBed_PokecenterChallenge:
-	.string "Sorry, you are playing with\n"
-	.string "the POKéCENTER challenge!$"
+	.string "抱歉，你正在进行宝可梦中心挑战！$"
 
 SSAquaRooms_Text_TakeRestOnBed:
-	.string "There's a bed…\n"
-	.string "Let's take a rest.$"
+	.string "这里有张床......好好休息一\n"
+	.string "下吧。$"

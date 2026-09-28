@@ -317,12 +317,12 @@ SinjohRuins_ArceusRoom_EventScript_ArceusRan::
 	end
 
 SinjohRuins_ArceusRoom_Text_CryArceus:
-    .string "ARCEUS: Dodogyuuun!$"
+    .string "阿尔宙斯：咚咚咕呜--！$"
 
 SinjohRuins_ArceusRoom_Text_CryArceus2:
-	.string "ARCEUS: Dodogyuuun!\p"
-	.string "The ARCEUS is weakened...\n"
-	.string "Can be caught?$"
+	.string "阿尔宙斯：咚咚咕呜--！\p"
+	.string "阿尔宙斯已经衰弱了......可\n"
+	.string "以捕捉了吗？$"
 
 SinjohRuins_ArceusRoom_TriggerSteven::
 	lock
@@ -358,23 +358,26 @@ SinjohRuins_ArceusRoom_Movement_StevenWalkDown:
 	step_end
 
 SinjohRuins_ArceusRoom_Text_StevenCongrats:
-    .string "STEVEN: You did it, {PLAYER}!\p"
-	.string "That battle was breathtaking.\p"
-	.string "Seeing your power made me realize.\p"
-	.string "The KIMONO GIRLS didn't send you\n"
-	.string "to help our research.\p"
-	.string "I think they sent you because\n"
-	.string "you were the only one worthy of\l"
-	.string "taming the legendary POKéMON.\p"
-	.string "They didn't trust my team and I\n"
-	.string "to handle it.\p"
-	.string "And after what I've just seen...\p"
-	.string "I think they were right.\p"
-	.string "I've brought a lot of unwanted\n"
-	.string "attention to this town.\p"
-	.string "I think I'll spend some time\n"
-	.string "with the locals.\p"
-	.string "After all of this, you and your\n"
-	.string "POKéMON deserve some rest.\p"
-	.string "I'll be at the village if you need me.\p"
-	.string "Fufufu, what could you need from me?$"
+    .string "大吾：你成功了，{PLAYER}\n"
+    .string "！\p"
+    .string "刚才那场对战真是惊心动魄。\p"
+    .string "见识到你的实力后，我终于明白了。\p"
+    .string "舞姬们送你过来，并不是为了协助我\n"
+    .string "们的调查。\p"
+    .string "我想，她们是因为唯有你才配得上收\n"
+    .string "服传说中的宝可梦，才让你前来的吧\l"
+    .string "。\p"
+    .string "她们并不放心让我和我的队伍来处理\n"
+    .string "这件事。\p"
+    .string "而在亲眼目睹了刚才的一切后...\n"
+    .string "...\p"
+    .string "我认为她们是对的。\p"
+    .string "我给这座小镇带来了太多不必要的关\n"
+    .string "注。\p"
+    .string "我想我得花些时间陪陪这里的当地人\n"
+    .string "。\p"
+    .string "经历了这一切后，你和你的宝可梦都\n"
+    .string "该好好休息一下了。\p"
+    .string "如果有什么事找我，我就在村子里。\p"
+    .string "呵呵呵，不过你又能有什么事找我呢\n"
+    .string "？$"

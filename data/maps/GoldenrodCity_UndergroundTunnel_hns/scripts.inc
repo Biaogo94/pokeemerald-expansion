@@ -111,17 +111,15 @@ GoldenrodCity_UndergroundTunnel_Movement_Kimono_Leave2:
 
 
 GoldenrodCity_UndergroundTunnel_Text_Kimono1:
-	.string "Team Rocket members in black suits\n"
-	.string "have been running around...\p"
-	.string "I was wondering what was going on.\n"
-	.string "So, you took on Team Rocket?\l"
-	.string "You are impressive!\p"
-	.string "You may be able to face the\n"
-	.string "legendary POKé...$"
+	.string "穿黑衣服的火箭队到处乱窜....\n"
+	.string "..\p"
+	.string "我还纳闷发生什么事了呢。原来是你\n"
+	.string "击退了火箭队？真了不起！\p"
+	.string "如果是你的话，说不定能够面对传说\n"
+	.string "的宝可......$"
 
 GoldenrodCity_UndergroundTunnel_Text_Kimono2:
-	.string "Hahaha! Never mind.\n"
-	.string "I must go now.$"
+	.string "哈哈！没什么。我得先走了。$"
 
 GoldenrodUnderground_EventScript_Eric::
 	trainerbattle_single TRAINER_ERIC_HNS, GoldenrodUnderground_Text_SupernerdEricSeen, GoldenrodUnderground_Text_SupernerdEricBeaten
@@ -321,73 +319,73 @@ GoldenrodCity_UndergroundTunnel_EventScript_Item_Antidote::
 
 
 GoldenrodUnderground_Text_YoungerBrotherOffer:
-    .string "Welcome to the POKéMON SALON!\p"
-    .string "I'm the younger and less expensive\n"
-    .string "of the two HAIRCUT BROTHERS.\p"
-    .string "I'll spiff up your POKéMON for just\n"
-    .string "¥300.\p"
-    .string "So? How about it?$"
+    .string "欢迎光临宝可梦美容沙龙！\p"
+    .string "我是理发兄弟里的弟弟，价格更实惠\n"
+    .string "哦。\p"
+    .string "只要¥300，我就能把你的宝可梦\n"
+    .string "打扮得精神抖擞。\p"
+    .string "怎么样？要试试看吗？$"
 
 GoldenrodUnderground_Text_YoungerBrotherAskWhich:
-    .string "OK, which POKéMON should I do?$"
+    .string "好嘞，要给哪只宝可梦打理呢？$"
 
 GoldenrodUnderground_Text_YoungerBrotherLookCool:
-    .string "OK! I'll make it look cool!$"
+    .string "好！我会把它打扮得帅帅的！$"
 
 GoldenrodUnderground_Text_YoungerBrotherAllDone:
-    .string "There we go! All done!$"
+    .string "好啦！大功告成！$"
 
 GoldenrodUnderground_Text_YoungerBrotherDisappointed:
-    .string "No? How disappointing!$"
+    .string "不要吗？真遗憾！$"
 
 GoldenrodUnderground_Text_YoungerBrotherShortOnFunds:
-    .string "You're a little short on funds.$"
+    .string "你的钱好像不够呢。$"
 
 GoldenrodUnderground_Text_YoungerBrotherOnePerDay:
-    .string "I can do only one haircut a day.\p"
-    .string "Sorry, but I'm all done for today.$"
+    .string "我一天只理一次发。\p"
+    .string "不好意思，今天已经打烊啦。$"
 
 
 
 GoldenrodUnderground_Text_OlderBrotherOffer:
-    .string "Welcome!\p"
-    .string "I run the POKéMON SALON!\p"
-    .string "I'm the older and better of the two\n"
-    .string "HAIRCUT BROTHERS.\p"
-    .string "I can make your POKéMON beautiful\n"
-    .string "for just ¥500.\p"
-    .string "Would you like me to do that?$"
+    .string "欢迎光临！\p"
+    .string "这里是宝可梦美容沙龙！\p"
+    .string "我是理发兄弟里的哥哥，手艺更胜一\n"
+    .string "筹哦。\p"
+    .string "只要¥500，我就能让你的宝可梦\n"
+    .string "变得漂漂亮亮。\p"
+    .string "要来试一试吗？$"
 
 GoldenrodUnderground_Text_OlderBrotherAskWhich:
-    .string "Which POKéMON should I work on?$"
+    .string "要给哪只宝可梦做美容呢？$"
 
 GoldenrodUnderground_Text_OlderBrotherWatchItBeautiful:
-    .string "OK! Watch it become beautiful!$"
+    .string "好嘞！看我把它打扮得漂漂亮亮的！$"
 
 GoldenrodUnderground_Text_OlderBrotherAllDone:
-    .string "There! All done!$"
+    .string "好啦！大功告成！$"
 
 GoldenrodUnderground_Text_OlderBrotherThatsAShame:
-    .string "Is that right? That's a shame!$"
+    .string "这样啊？那可真遗憾！$"
 
 GoldenrodUnderground_Text_OlderBrotherNeedMoreMoney:
-    .string "You'll need more money than that.$"
+    .string "这点钱可不够哦。$"
 
 GoldenrodUnderground_Text_OlderBrotherOnePerDay:
     .string "I do only one haircut a day.\n"
     .string "I'm done for today.$"
 
 GoldenrodUnderground_Text_SupernerdEricSeen:
-    .string "I got booted out of the GAME CORNER.\p"
-    .string "I was trying to cheat using my\n"
-    .string "POKéMON…$"
+    .string "我被游戏城轰出来了。\p"
+    .string "因为我刚才想用宝可梦来作弊...\n"
+    .string "...$"
 
 GoldenrodUnderground_Text_SupernerdEricBeaten:
-    .string "…Grumble…$"
+    .string "......咕哝......$"
 
 GoldenrodUnderground_Text_SupernerdEricAfterBattle:
-    .string "I guess I have to do things fair and\n"
-    .string "square…$"
+    .string "看来还是得堂堂正正地玩啊....\n"
+    .string "..$"
 
 GoldenrodUnderground_Text_SupernerdTeruSeen:
     .string "Do you consider type alignments in\n"
@@ -396,30 +394,29 @@ GoldenrodUnderground_Text_SupernerdTeruSeen:
     .string "you'll do better in battle.$"
 
 GoldenrodUnderground_Text_SupernerdTeruBeaten:
-    .string "Ow, ow, ow!$"
+    .string "哎哟哟！$"
 
 GoldenrodUnderground_Text_SupernerdTeruAfterBattle:
-    .string "I know my POKéMON type alignments.\p"
-    .string "But I only use one type of POKéMON.$"
+    .string "我也懂宝可梦的属性克制啊。\p"
+    .string "但我只培育单属性的宝可梦。$"
 
 GoldenrodUnderground_Text_PokemaniacIssacSeen:
-    .string "My POKéMON just got a haircut!\p"
-    .string "I'll show you how strong it is!$"
+    .string "我的宝可梦刚理过发！\p"
+    .string "让你见识见识它有多强！$"
 
 GoldenrodUnderground_Text_PokemaniacIssacBeaten:
-    .string "Aiyeeee!$"
+    .string "哎呀呀--！$"
 
 GoldenrodUnderground_Text_PokemaniacIssacAfterBattle:
     .string "Your POKéMON will like you more if\n"
     .string "you give them haircuts.$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldSeen:
-    .string "I think you have some rare POKéMON\n"
-    .string "with you.\p"
-    .string "Let me see them!$"
+    .string "你身上一定带着稀有的宝可梦吧。\p"
+    .string "快让我开开眼界！$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldBeaten:
-    .string "Gaah! I lost! That makes me mad!$"
+    .string "哇啊！居然输了！气死我了！$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldAfterBattle:
 	.string "When I was walking near the BIKE\n"
@@ -435,13 +432,13 @@ GoldenrodUnderground_Text_PokemaniacDonaldAfterBattleOld:
     .string "POKéMON.$"
 
 GoldenrodUnderground_Text_DoorsLocked:
-    .string "The door's locked…$"
+    .string "门上着锁......$"
 
 GoldenrodUnderground_Text_DoorIsOpen:
-    .string "The door is open.$"
+    .string "门已经开了。$"
 
 GoldenrodUnderground_Text_KeyOpenedDoor:
-    .string "The BASEMENT KEY opened the door.$"
+    .string "用地下钥匙打开了门。$"
 
 GoldenrodUnderground_Text_NoEntry:
-    .string "NO ENTRY BEYOND THIS POINT$"
+    .string "此处禁止通行$"

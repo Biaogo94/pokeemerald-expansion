@@ -63,30 +63,29 @@ OlivineCity_PortInside_Movement_OakLeave:
 	step_end
 
 OlivineCity_PortInside_Text_Nationaldex1:
-	.string "PROF.OAK: Hello!\n"
-	.string "You are starting to have the\l"
-	.string "attitude of a CHAMPION, {PLAYER}!\p"
-	.string "It's time for your POKéDEX to\n"
-	.string "match who you are.\p"
-	.string "Let me see your POKéDEX for a\n"
-	.string "second.\p"
-	.string "I'll upgrade your POKéDEX with the\n"
-	.string "NATIONAL MODE.$"
+	.string "大木博士：你好啊！\n"
+	.string "{PLAYER}，你现在越来越有\l"
+	.string "冠军的架势了呢！\p"
+	.string "是时候让你的图鉴也配得上现在的你\n"
+	.string "了。\p"
+	.string "把你的宝可梦图鉴借我看一下。\p"
+	.string "我来帮你的宝可梦图鉴升级为全国图\n"
+	.string "鉴模式。$"
 OlivineCity_PortInside_Text_Nationaldex2:
-	.string "{PLAYER}'s POKéDEX was upgraded\n"
-	.string "with the NATIONAL MODE!$"
+	.string "{PLAYER}的宝可梦图鉴升级\n"
+	.string "为全国图鉴模式！$"
 OlivineCity_PortInside_Text_Nationaldex3:
-	.string "PROF.OAK: It won't be easy to\n"
-	.string "complete the NATIONAL POKéDEX...\p"
-	.string "However, I'm sure you will make\n"
-	.string "honest attempt on our behalf!$"
+	.string "大木博士：想要完成全国图鉴可不是\n"
+	.string "件容易的事......\p"
+	.string "不过，我相信你一定会全力以赴去挑\n"
+	.string "战的！$"
 OlivineCity_PortInside_Text_Nationaldex4:
-	.string "Oh, time flies!\p"
-	.string "I have a radio show to record at\n"
-	.string "GOLDENROD RADIO TOWER.\p"
-	.string "You must be heading for KANTO.\p"
-	.string "If you come near PALLET TOWN, do\n"
-	.string "drop by my POKéMON RESEARCH LAB!$"
+	.string "哎呀，时间过得真快！\p"
+	.string "我还要去满金广播电台录制广播节目\n"
+	.string "呢。\p"
+	.string "你接下来肯定是要去关都了吧。\p"
+	.string "如果路过真新镇的话，一定要来我的\n"
+	.string "宝可梦研究所坐坐啊！$"
 
 OlivinePort_EventScript_CooltrainerF::
 	msgbox OlivinePort_Text_CooltrainerF, MSGBOX_NPC
@@ -254,62 +253,60 @@ OlivinePort_Movement_BoatLeave:
 	step_end
 
 OlivinePort_Text_NoPass:
-    .string "{PLAYER} tried to show the\n"
-    .string "{STR_VAR_1}…\p"
-    .string "…But no {STR_VAR_1}!\p"
-    .string "Sorry!\n"
-    .string "You may board only if you have an\l"
-    .string "{STR_VAR_1}.$"
+    .string "{PLAYER}想要出示\n"
+    .string "{STR_VAR_1}.....\l"
+    .string ".\p"
+    .string "......但是没有找到\n"
+    .string "{STR_VAR_1}！\p"
+    .string "非常抱歉！必须持有\n"
+    .string "{STR_VAR_1}才能登船。$"
 
 OlivinePort_Text_SailorGetOnBoard:
-    .string "We're departing soon.\n"
-    .string "Please get on board.$"
+    .string "马上就要启航了。请抓紧时间登船。$"
 
 OlivinePort_Text_CantBoard:
-    .string "Sorry. You can't board now.$"
+    .string "很抱歉，现在还不能登船。$"
 
 OlivinePort_Text_WhereSail:
-    .string "Where would you like to sail?$"
+    .string "请问您想航行到哪里？$"
 
 OlivinePort_Text_AskBoard:
-    .string "Welcome to FAST SHIP S.S.AQUA.\p"
-    .string "Will you be boarding today?$"
+    .string "欢迎乘坐高速船阿库号。\p"
+    .string "您今天要登船吗？$"
 
 OlivinePort_Text_AskTicket:
-    .string "May I see your S.S.TICKET?$"
+    .string "请出示您的船票。$"
 
 OlivinePort_Text_ComeAgain:
     .string "欢迎下次再来！$"
 
 OlivinePort_Text_FlashTicket:
-    .string "{PLAYER} flashed the S.S.TICKET.\p"
-    .string "That's it. Thank you!$"
+    .string "{PLAYER}出示了船票。\p"
+    .string "确认无误。非常感谢！$"
 
 OlivinePort_Text_NoTicket:
-    .string "{PLAYER} tried to show the\n"
-    .string "S.S.TICKET…\p"
-    .string "…But no TICKET!\p"
-    .string "Sorry!\n"
-    .string "You may board only\l"
-    .string "if you have an S.S.TICKET.$"
+    .string "{PLAYER}正准备出示船票.\n"
+    .string ".....\p"
+    .string "......但是没有船票！\p"
+    .string "很抱歉！只有持有船票的乘客才可以\n"
+    .string "登船。$"
 
 OlivinePort_Text_FishingGuru1:
-    .string "SHELLDER are easy to catch here.\p"
-    .string "They're kind of rare elsewhere.$"
+    .string "在这里很容易钓到大舌贝呢。\p"
+    .string "在别的地方可挺少见的。$"
 
 OlivinePort_Text_FishingGuru2:
-    .string "How many RODS do you have?\p"
-    .string "Different RODS catch different\n"
-    .string "POKéMON.$"
+    .string "你有几种钓竿呢？\p"
+    .string "不同的钓竿能钓到不同的宝可梦哦。$"
 
 OlivinePort_Text_Youngster:
-    .string "S.S.AQUA uses jets to skim\n"
-    .string "over the waves!$"
+    .string "高速船阿库号是靠喷射水流破浪前行\n"
+    .string "的哦！$"
 
 OlivinePort_Text_CooltrainerF:
-    .string "There are lots of POKéMON in KANTO.\p"
-    .string "I wish I could go…$"
+    .string "关都地区有很多宝可梦呢。\p"
+    .string "真想去看看啊......$"
 
 OlivinePort_Text_SailorBeforeHOF:
-    .string "We don't want you to fall into the\n"
-    .string "sea, so you're not allowed in.$"
+    .string "掉进海里可就危险了，所以禁止入内\n"
+    .string "哦。$"

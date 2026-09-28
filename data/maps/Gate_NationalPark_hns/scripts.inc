@@ -207,79 +207,73 @@ Gate_NationalPark_Movement_Player_EnterParkBotB:
 	step_end
 
 Route35NationalParkGate_Text_OfficerAskToParticipate:
-	.string "Hello Trainer! The Bug-Catching\n"
-	.string "Contest is on today.\p"
-	.string "The rules are simple.\p"
-	.string "Using one of your POKéMON, catch a\n"
-	.string "bug POKéMON to be judged.\p"
-	.string "Would you like to give it a try?$"
+	.string "你好，训练家！捕虫大会今天正在举\n"
+	.string "办哦。\p"
+	.string "规则非常简单。\p"
+	.string "只使用你的一只宝可梦，捕获虫属性\n"
+	.string "宝可梦来进行评判。\p"
+	.string "你要来参加挑战吗？$"
 
 Route35NationalParkGate_Text_OfficerGiveSportBalls:
-	.string "Any EXP your POKéMON gains during\n"
-	.string "the contest will be reverted when\l"
-	.string "you leave.\p"
-	.string "Here are the SPORT BALLS for the\n"
-	.string "Contest.$"
+	.string "宝可梦在比赛期间获得的经验值，会\n"
+	.string "在你离开时全部还原。\p"
+	.string "这是比赛专用的竞赛球。$"
 
 Route35NationalParkGate_Text_ReceivedSportBalls:
-	.string "{PLAYER} received SPORT BALLS.$"
+	.string "{PLAYER}获得了竞赛球。$"
 
 Route35NationalParkGate_Text_OfficerExplainRules:
-	.string "The person who gets the strongest\n"
-	.string "bug POKéMON is the winner.\p"
-	.string "If you run out of SPORT BALLS,\n"
-	.string "you're done.\p"
-	.string "You can catch up to 5 POKéMON. The\n"
-	.string "last one caught will be the only\l"
-	.string "one kept and placed in the contest.\p"
-	.string "Go out and catch the strongest bug\n"
-	.string "POKéMON you can find!$"
+	.string "捕获到最强虫属性宝可梦的人就是胜\n"
+	.string "者。\p"
+	.string "如果竞赛球用光了，比赛就结束了。\p"
+	.string "你最多可以捕获5只宝可梦。但最终\n"
+	.string "只能保留并评判最后抓到的那一只。\p"
+	.string "去捕获你能找到的最强的虫属性宝可\n"
+	.string "梦吧！$"
 
 Route35NationalParkGate_Text_OfficerAskToUseFirstMon:
-	.string "If you have more than one POKéMON,\n"
-	.string "you'll have to use the\l"
-	.string "first POKéMON in your party.\p"
-	.string "Is that OK with you?$"
+	.string "如果你携带了不止一只宝可梦，就只\n"
+	.string "能使用同伴队伍里的第一只。\p"
+	.string "这样可以吗？$"
 
 Route35NationalParkGate_Text_OfficerHoldYourMon:
-	.string "Fine, we'll hold your other POKéMON\n"
-	.string "while you compete.$"
+	.string "好的，在比赛期间，我们会代为保管\n"
+	.string "你的其他宝可梦。$"
 
 Route35NationalParkGate_Text_MonLeftWithHelper:
-	.string "{PLAYER}'s POKéMON were left with the\n"
-	.string "CONTEST HELPER.$"
+	.string "{PLAYER}将宝可梦寄放在了\n"
+	.string "大会服务人员那里。$"
 
 Route35NationalParkGate_Text_ChooseMonAndComeBack:
-	.string "Please choose the POKéMON to be used\n"
-	.string "in the Contest, then come see me.$"
+	.string "请选好要参加比赛的宝可梦，然后再\n"
+	.string "来找我吧。$"
 
 Route35NationalParkGate_Text_TakePartInFuture:
-	.string "OK. We hope you'll take part in the\n"
-	.string "future.$"
+	.string "好的。期待你下次的参与！$"
 
 Route35NationalParkGate_Text_FirstMonCantBattle:
-	.string "Uh-oh… The first POKéMON in your\n"
-	.string "party can't battle.\p"
-	.string "Please switch it with the POKéMON\n"
-	.string "you want to use, then come see me.$"
+	.string "哎呀......你同行队伍排在首\n"
+	.string "位的宝可梦无法战斗。\p"
+	.string "请把它换成你想派出的宝可梦，然后\n"
+	.string "再来找我吧。$"
 
 Route35NationalParkGate_Text_MakeRoom:
-	.string "Uh-oh… Both your party and your\n"
-	.string "PC BOX are full.\p"
-	.string "You have no room to put the bug\n"
-	.string "POKéMON you catch.\p"
-	.string "Please make room in your party or\n"
-	.string "your PC BOX, then come see me.$"
+	.string "哎呀......你的同行队伍和电\n"
+	.string "脑盒子全都满了。\p"
+	.string "这样就没有空间存放你捕获的虫属性\n"
+	.string "宝可梦了。\p"
+	.string "请整理出同行队伍或电脑盒子的空位\n"
+	.string "后再来找我吧。$"
 
 Route35NationalParkGate_Text_EggAsFirstMon:
-	.string "Uh-oh… You have an EGG as the first\n"
-	.string "POKéMON in your party.\p"
-	.string "Please switch it with the POKéMON\n"
-	.string "you want to use, then come see me.$"
+	.string "哎呀......你同行队伍排在首\n"
+	.string "位的是一颗蛋呢。\p"
+	.string "请把它换成你想派出的宝可梦，然后\n"
+	.string "再来找我吧。$"
 
 Route35NationalParkGate_Text_ContestIsOver:
-	.string "Today's Contest is over. We hope you\n"
-	.string "will participate in the future.$"
+	.string "今天的比赛已经结束了。期待你下次\n"
+	.string "再来参加。$"
 
 Route35NationalParkGate_EventScript_Policeman::
 	lock
@@ -322,28 +316,25 @@ Route35NationalParkGate_EventScript_Beauty::
 	end
 
 Route35NationalParkGate_Text_Rocker:
-	.string "I love bird POKéMON! I found a\n"
-	.string "DARK-type bird in the park\l"
-	.string "last night!$"
+	.string "我最喜欢鸟宝可梦了！昨晚我在公园\n"
+	.string "里发现了一只恶属性的鸟呢！$"
 
 Route35NationalParkGate_Text_BC2:
-	.string "I caught a whopping SCYTHER!$"
+	.string "我抓到了一只超大的飞天螳螂！$"
 
 Route35NationalParkGate_Text_Beauty:
-	.string "He always wins these contests!$"
+	.string "每次比赛获胜的都是他！$"
 
 Route35NationalParkGate_Text_WeHoldContests:
-	.string "We hold Contests regularly in the\n"
-	.string "PARK. You should give it a shot.$"
+	.string "公园里会定期举办比赛。你也该来挑\n"
+	.string "战一下。$"
 
 Route35NationalParkGate_Text_YoungsterWonders:
-	.string "When is the next Bug-Catching Contest\n"
-	.string "going to be?$"
+	.string "下一次捕虫大赛是什么时候呀？$"
 
 Route35NationalParkGate_Text_ContestExplanation:
-	.string "The Bug-Catching Contest is held on\n"
-	.string "Tuesday, Thursday and Saturday.\p"
-	.string "Not only do you earn a prize just\n"
-	.string "for participating,\p"
-	.string "you also get to keep the bug POKéMON\n"
-	.string "you may have at the end of the contest.$"
+	.string "捕虫大赛会在周二、周四和周六举办\n"
+	.string "。\p"
+	.string "只要参加就能获得奖品，\p"
+	.string "而且比赛结束时留下的虫属性宝可梦\n"
+	.string "也能直接带走哦。$"

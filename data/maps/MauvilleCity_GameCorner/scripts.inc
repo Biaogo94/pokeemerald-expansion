@@ -975,16 +975,16 @@ MauvilleCity_GameCorner_Text_NoRoomFor50Coins:
 	.string "coming back!$"
 
 MauvilleCity_GameCorner_Text_NoRoomForCoins:
-	.string "Oh?\n"
-	.string "Your COIN CASE can't fit those COINS...$"
+	.string "咦？你的代币盒装不下那么多代币呢\n"
+	.string "......$"
 
 MauvilleCity_GameCorner_Text_DontNeedCoinsThen:
 	.string "哦……您现在不需要代币吗？那么，\n"
 	.string "祝您旅途愉快！$"
 
 MauvilleCity_GameCorner_Text_ThanksBuyCoins:
-	.string "Thank you for buying some COINS!\n"
-	.string "Good luck on your adventure!$"
+	.string "感谢购买代币！祝你的冒险一切顺利\n"
+	.string "！$"
 
 MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
 	.string "欢迎！\p"

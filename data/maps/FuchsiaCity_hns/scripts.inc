@@ -18,7 +18,7 @@ FuchsiaCity_EventScript_BaobaCall::
 	end
 
 FuchsiaCity_Text_BaobaName:
-	.string "BAOBA$"
+	.string "巴奥巴$"
 
 FuchsiaCity_Text_Baoba:
 	.string "WARDEN BAOBA: {PLAYER}!\p"
@@ -97,44 +97,38 @@ FuchsiaCity_EventScript_SafariZone::
 	end
 
 FuchsiaCity_Text_Youngster:
-	.string "One of the ELITE FOUR used to be\n"
-	.string "the LEADER of FUCHSIA's GYM.$"
+	.string "四天王中的一位，曾经是浅红道馆的\n"
+	.string "馆主。$"
 
 FuchsiaCity_Text_PokefanM:
-	.string "KOGA's daughter succeeded him as\n"
-	.string "the GYM LEADER after he joined the\l"
-	.string "ELITE FOUR.$"
+	.string "阿桔加入四天王后，他的女儿接替了\n"
+	.string "他成为道馆馆主。$"
 
 FuchsiaCity_Text_Teacher:
-	.string "The SAFARI ZONE is under new\n"
-	.string "management.\p"
-	.string "And it has tons of new POKéMON!$"
+	.string "狩猎地带换了新的管理者。\p"
+	.string "而且里面有好多新的宝可梦呢！$"
 
 FuchsiaCity_Text_Sign:
-	.string "FUCHSIA CITY\p"
-	.string "Behold! It's Passion Pink!$"
+	.string "浅红市\p"
+	.string "看啊！这热情的粉红！$"
 
 FuchsiaCity_Text_GymSign:
-	.string "FUCHSIA CITY POKéMON GYM\n"
-	.string "LEADER: JANINE\p"
-	.string "The Poisonous Ninja Master$"
+	.string "浅红市宝可梦道馆馆主：阿杏\p"
+	.string "剧毒的忍者大师$"
 
 FuchsiaCity_Text_SafariZoneOfficeSign:
-	.string "There's a notice here…\p"
-	.string "SAFARI ZONE OFFICE is closed until\n"
-	.string "further notice.$"
+	.string "这里贴着一张告示......\p"
+	.string "狩猎地带事务局暂时关闭，开放时间\n"
+	.string "另行通知。$"
 
 FuchsiaCity_Text_SafariZone:
-	.string "SAFARI ZONE\n"
-	.string "NOW OWNED BY\l"
-	.string "DEVON CORP.$"
+	.string "狩猎地带现归属于得文公司$"
 
 FuchsiaCity_Text_SafariZoneClosedSign:
-	.string "The WARDEN is traveling abroad.\p"
-	.string "Therefore, the SAFARI ZONE is\n"
-	.string "closed.$"
+	.string "园长出远门去海外旅行了。\p"
+	.string "因此，狩猎地带暂时关闭。$"
 
 FuchsiaCity_Text_NoLitteringSign:
-	.string "No littering.\p"
-	.string "Please take your waste with you.$"
+	.string "请勿乱扔垃圾。\p"
+	.string "请随身带走您的废弃物。$"
 

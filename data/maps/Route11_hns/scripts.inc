@@ -36,32 +36,30 @@ Route11_EventScript_Item_Grass_Knot::
     end
 
 Route11_Text_Engineer:
-	.string "I saw a strange POKéMON climbing\n"
-	.string "in the trees, but it didn't\l"
-	.string "look like MANKEY...$"
+	.string "我看见树上有只奇怪的宝可梦爬来爬\n"
+	.string "去，不过看起来不像猴怪.....\l"
+	.string ".$"
 
 Route11_Text_YoungsterOwenSeen:
-	.string "There's no cheating in POKéMON.\p"
-	.string "Let's keep it fair and square!$"
+	.string "宝可梦对战中可不能耍小聪明。\p"
+	.string "让我们堂堂正正地比一场吧！$"
 
 Route11_Text_YoungsterOwenBeaten:
-	.string "Huh? How did this happen?$"
+	.string "咦？怎么会这样？！$"
 
 Route11_Text_YoungsterOwenAfterBattle:
-	.string "I fought fair and square with\n"
-	.string "honor.\p"
-	.string "I don't regret this at all.$"
+	.string "我光明磊落、问心无愧地战斗了。\p"
+	.string "我一点都不后悔。$"
 
 Route11_Text_YoungsterJasonSeen:
-	.string "It itches and tickles a bit when\n"
-	.string "I wear shorts in the grass.$"
+	.string "穿着短裤走在草丛里，腿上总是痒痒\n"
+	.string "的。$"
 
 Route11_Text_YoungsterJasonBeaten:
-	.string "Aiyaaah! I got stomped!$"
+	.string "哎呀--！我被打得落花流水！$"
 
 Route11_Text_YoungsterJasonAfterBattle:
-	.string "I'm going to catch more POKéMON in\n"
-	.string "the grass.$"
+	.string "我要去草丛里捉更多宝可梦！$"
 
 Route11_Text_PsychicHermanSeen:
 	.string "…$"
@@ -70,21 +68,24 @@ Route11_Text_PsychicHermanBeaten:
 	.string "…$"
 
 Route11_Text_PsychicHermanAfterBattle:
-	.string "…\p"
-	.string "I lost while I had my eyes closed…$"
+	.string "......\p"
+	.string "我闭着眼睛的时候居然输了....\n"
+	.string "..$"
 
 Route11_Text_PsychicFidelSeen:
-	.string "I can see it…\p"
-	.string "Everything to see about you…$"
+	.string "我看见了......\p"
+	.string "关于你的一切，我都看透了....\n"
+	.string "..$"
 
 Route11_Text_PsychicFidelBeaten:
-	.string "I couldn't foresee your power…$"
+	.string "我竟然无法预见你的力量.....\n"
+	.string ".$"
 
 Route11_Text_PsychicFidelAfterBattle:
-	.string "Strength in conviction…\p"
-	.string "You're strong because you believe\n"
-	.string "in your POKéMON.$"
+	.string "信念的力量......\p"
+	.string "你之所以强大，是因为你全心信任着\n"
+	.string "自己的宝可梦。$"
 
 Route11_Text_Sign:
-	.string "ROUTE 11$"
+	.string "11号道路$"
 

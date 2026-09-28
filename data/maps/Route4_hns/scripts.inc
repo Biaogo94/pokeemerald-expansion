@@ -35,11 +35,11 @@ Route4_EventScript_Sign::
 	end
 
 Route4_Text_BirdKeeperHank_Seen:
-	.string "I'm raising my POKéMON. Want to battle\n"
-	.string "with me?$"
+	.string "我正在培育我的宝可梦。想和我对战\n"
+	.string "一场吗？$"
 
 Route4_Text_BirdKeeperHank_Beaten:
-	.string "Ack! I lost that one…$"
+	.string "哎呀！这局竟然输了......$"
 
 Route4_Text_BirdKeeperHank_AfterBattle:
 	.string "If you have a specific POKéMON that you\n"
@@ -48,15 +48,15 @@ Route4_Text_BirdKeeperHank_AfterBattle:
 	.string "That's how to do it.$"
 
 Route4_Text_PicnickerHope_Seen:
-	.string "I have a feeling that I can win.\p"
-	.string "Let's see if I'm right!$"
+	.string "我有种能赢的预感。\p"
+	.string "来看看我的直觉准不准吧！$"
 
 Route4_Text_PicnickerHope_Beaten:
-	.string "Aww, you are too strong.$"
+	.string "啊~你太强了吧。$"
 
 Route4_Text_PicnickerHope_AfterBattle:
-	.string "I heard CLEFAIRY appear at MT.MOON.\p"
-	.string "But where could they be?$"
+	.string "我听说月见山会有皮皮出没。\p"
+	.string "但它们究竟在哪里呢？$"
 
 Route4_Text_PicnickerSharon_Seen:
 	.string "Um…\n"
@@ -66,10 +66,10 @@ Route4_Text_PicnickerSharon_Beaten:
 	.string "…$"
 
 Route4_Text_PicnickerSharon_AfterBattle:
-	.string "……I'll go train some more…$"
+	.string "......我还是再去多修行一下\n"
+	.string "吧......$"
 
 Route4_Text_MtMoonSquareSign:
-	.string "MT.MOON NEW ENTRANCE\n"
-	.string "DUE TO CAVE-IN\p"
-	.string "WATCH YOUR STEP$"
+	.string "月见山因塌方开辟新入口\p"
+	.string "请注意脚下安全$"
 

@@ -31,30 +31,34 @@ CeladonCity_Gym_EventScript_Erika_Defeated::
 	end
 
 CeladonCity_Gym_Text_ErikaBeforeBattle:
-	.string "ERIKA: Hello… Lovely weather,\n"
-	.string "isn't it? It's so pleasant…\p"
-	.string "…I'm afraid I may doze off…\p"
-	.string "My name is ERIKA. I am the LEADER\n"
-	.string "of CELADON GYM.\p"
-	.string "…Oh? All the way from JOHTO, you\n"
-	.string "say? How nice…\p"
-	.string "Oh. I'm sorry, I didn't realize\n"
-	.string "that you wished to challenge me.\p"
-	.string "Very well, but I shall not lose.$"
+	.string "莉佳：你好......天气真好呢\n"
+	.string "，对吧？让人感觉好舒服.....\l"
+	.string ".\p"
+	.string "......我感觉自己都要打瞌睡\n"
+	.string "了......\p"
+	.string "我的名字叫莉佳。是玉虹道馆的馆主\n"
+	.string "。\p"
+	.string "......哎呀？你说你是一路从\n"
+	.string "城都地区赶来的？真好呢.....\l"
+	.string ".\p"
+	.string "啊，对不起，我之前没察觉到你是想\n"
+	.string "向我挑战呀。\p"
+	.string "好吧，不过我可不会输给你哦。$"
 
 CeladonCity_Gym_Text_ErikaBeaten:
-	.string "ERIKA: Oh! I concede defeat…\p"
-	.string "You are remarkably strong…\p"
-	.string "I shall give you RAINBOWBADGE…$"
+	.string "莉佳：啊！我甘拜下风......\p"
+	.string "你真是强得令人惊叹......\p"
+	.string "这枚彩虹徽章就交给你吧.....\n"
+	.string ".$"
 
 CeladonCity_Gym_Text_PlayerReceivedRainbowBadge:
-	.string "{PLAYER} received RAINBOWBADGE.$"
+	.string "{PLAYER}获得了彩虹徽章。$"
 
 CeladonCity_Gym_Text_Erika_GiveTM:
-	.string "ERIKA: That was a delightful\n"
-	.string "match.\p"
-	.string "I felt inspired. Please, I wish\n"
-	.string "you to have this TM.$"
+	.string "莉佳：真是一场令人心情愉快的对战\n"
+	.string "呢。\p"
+	.string "让我深有感触。请收下这枚招式学习\n"
+	.string "器吧。$"
 
 CeladonCity_Gym_Text_Erika_ExplainTM:
 	.string "It is GIGA DRAIN.\p"
@@ -64,25 +68,26 @@ CeladonCity_Gym_Text_Erika_ExplainTM:
 	.string "Please use it if it pleases you…$"
 
 CeladonCity_Gym_Text_ErikaAfterBattle:
-	.string "ERIKA: Losing leaves a bitter\n"
-	.string "aftertaste…\p"
-	.string "But knowing that there are strong\n"
-	.string "trainers spurs me to do better…$"
+	.string "莉佳：输掉对战还是会让人有些心有\n"
+	.string "不甘呢......\p"
+	.string "但知道世上还有如此强大的训练家，\n"
+	.string "也会激励我更加努力精进.....\l"
+	.string ".$"
 
 CeladonCity_Gym_Text_ErikaRematch:
-	.string "ERIKA: Oh, hello.\p"
-	.string "What a surprise, KANTO CHAMPION!\p"
-	.string "It's so lovely to see you again.\p"
-	.string "Your journey must have been so\n"
-	.string "exciting.\p"
-	.string "Even champions enjoy a challenge.\p"
-	.string "Want to have a rematch with me?$"
+	.string "莉佳：哎呀，你好呀。\p"
+	.string "真让人惊喜，关都的冠军！\p"
+	.string "能再次见到你真是太高兴了。\p"
+	.string "你的旅程一定非常精彩吧。\p"
+	.string "就算是冠军，也会渴望挑战的吧。\p"
+	.string "要和我再来一场对战吗？$"
 
 CeladonCity_Gym_Text_ErikaRematchDefeat:
-	.string "ERIKA: Losing still leaves a\n"
-	.string "bitter aftertaste…\p"
-	.string "But knowing that there are strong\n"
-	.string "trainers spurs me to do better…$"
+	.string "莉佳：输掉对战果然还是会让人心有\n"
+	.string "不甘呢......\p"
+	.string "但知道世上还有如此强大的训练家，\n"
+	.string "也会激励我更加努力精进.....\l"
+	.string ".$"
 
 CeladonCity_Gym_EventScript_Michelle::
 	trainerbattle_single TRAINER_MICHELLE_HNS, CeladonCity_Gym_Text_LassMichelleSeen, CeladonCity_Gym_Text_LassMichelleBeaten
@@ -90,14 +95,13 @@ CeladonCity_Gym_EventScript_Michelle::
 	end
 
 CeladonCity_Gym_Text_LassMichelleSeen:
-	.string "Do you think a girls-only GYM is\n"
-	.string "rare?$"
+	.string "你觉得只有女孩子的道馆很罕见吗？$"
 
 CeladonCity_Gym_Text_LassMichelleBeaten:
-	.string "Oh, bleah!$"
+	.string "啊，讨厌！$"
 
 CeladonCity_Gym_Text_LassMichelleAfter:
-	.string "I just got careless, that's all!$"
+	.string "我只是一时大意罢了！$"
 
 
 CeladonCity_Gym_EventScript_Tanya::
@@ -110,7 +114,7 @@ CeladonCity_Gym_Text_PicnickerTanyaSeen:
 	.string "but OK!$"
 
 CeladonCity_Gym_Text_PicnickerTanyaBeaten:
-	.string "Oh, that's it?$"
+	.string "哎，这就结束了吗？$"
 
 CeladonCity_Gym_Text_PicnickerTanyaAfter:
 	.string "Oh, look at all your BADGES. No\n"
@@ -126,7 +130,7 @@ CeladonCity_Gym_Text_BeautyJuliaSeen:
 	.string "or at me?$"
 
 CeladonCity_Gym_Text_BeautyJuliaBeaten:
-	.string "How annoying!$"
+	.string "真讨厌！$"
 
 CeladonCity_Gym_Text_BeautyJuliaAfter:
 	.string "How do I go about becoming\n"
@@ -148,19 +152,19 @@ CeladonCity_Gym_Text_TwinsJoAndZoe1Seen:
 	.string "ERIKA taught us!$"
 
 CeladonCity_Gym_Text_TwinsJoAndZoe1Beaten:
-	.string "Oh… We lost…$"
+	.string "呜......输掉了......$"
 
 CeladonCity_Gym_Text_TwinsJoAndZoe1After:
-	.string "ERIKA will get you back for us!$"
+	.string "莉佳小姐会替我们赢回来的！$"
 
 CeladonCity_Gym_Text_TwinsJoAndZoe2Seen:
-	.string "We're going to protect ERIKA!$"
+	.string "我们要保护莉佳小姐！$"
 
 CeladonCity_Gym_Text_TwinsJoAndZoe2Beaten:
-	.string "We couldn't win…$"
+	.string "还是赢不了啊......$"
 
 CeladonCity_Gym_Text_TwinsJoAndZoe2After:
-	.string "ERIKA is much, much stronger!$"
+	.string "莉佳小姐可要强得多得多呢！$"
 
 CeladonCity_Gym_EventScript_GymStatue::
 	lockall

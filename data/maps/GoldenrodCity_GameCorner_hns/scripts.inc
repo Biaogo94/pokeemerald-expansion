@@ -490,32 +490,45 @@ GoldenrodCity_GameCorner_PrizeRoom_EventScript_CancelTMSelect::
 	end
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM44:
-	.string "REST{CLEAR_TO 0x58}2,000 C.$"
+	.string "睡觉\n"
+	.string "{CLEAR_TO 0x58}2\l"
+	.string ",000枚$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM90:
-	.string "SUBSTITUTE{CLEAR_TO 0x58}2,000 C.$"
+	.string "替身\n"
+	.string "{CLEAR_TO 0x58}2\l"
+	.string ",000枚$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM75:
-	.string "SWORDS DANCE{CLEAR_TO 0x58}3,000 C.$"
+	.string "剑舞\n"
+	.string "{CLEAR_TO 0x58}3\l"
+	.string ",000枚$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM13:
-	.string "ICE BEAM{CLEAR_TO 0x58}4,000 C.$"
+	.string "冰冻光束\n"
+	.string "{CLEAR_TO 0x58}4\l"
+	.string ",000枚$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM24:
-	.string "THUNDERBOLT{CLEAR_TO 0x58}4,000 C.$"
+	.string "十万伏特\n"
+	.string "{CLEAR_TO 0x58}4\l"
+	.string ",000枚$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM35:
-	.string "FLAMETHROWER{CLEAR_TO 0x58}4,000 C.$"
+	.string "喷射火焰\n"
+	.string "{CLEAR_TO 0x58}4\l"
+	.string ",000枚$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_Cancel:
-	.string "EXIT$"
+	.string "退出$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_SoYourChoiceIsTM:
-	.string "So your choice is\n"
-	.string "the {STR_VAR_1} {STR_VAR_2}?$"
+	.string "你要兑换的是\n"
+	.string "{STR_VAR_1} \l"
+	.string "{STR_VAR_2}对吗？$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_YouAlreadyHaveThis:
-	.string "You already have that item.$"
+	.string "你已经拥有该道具了。$"
 
 GoldenrodCity_GameCorner_EventScript_PokefanM::
 	lock
@@ -582,63 +595,62 @@ GoldenrodCity_GameCorner_EventScript_Pharmacist::
 	end
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_YouWantPrize:
-	.string "{STR_VAR_1} is what you want?$"
+	.string "你想要的是{STR_VAR_1}\n"
+	.string "吗？$"
 
 GoldenrodCity_GameCorner_Text_PlayerObtainedTheMon:
-	.string "{PLAYER} got {STR_VAR_1}!$"
+	.string "{PLAYER}获得了\n"
+	.string "{STR_VAR_1}！$"
 
 GoldenrodGamecorner_Text_GiveNicknameToThisMon:
-	.string "Nickname {STR_VAR_1}?$"
+	.string "要给{STR_VAR_1}起昵称\n"
+	.string "吗？$"
 
 GoldenrodCity_GameCorner_Text_PrizeVendorIntro:
-    .string "Welcome!\p"
-    .string "We exchange your game coins for\n"
-    .string "fabulous prizes!$"
+    .string "欢迎光临！\p"
+    .string "这里可以用游戏代币兑换精美奖品！$"
 
 GoldenrodCity_GameCorner_Text_PrizeVendorWhichPrize:
-    .string "Which prize would you like?$"
+    .string "你想要兑换哪种奖品呢？$"
 
 GoldenrodCity_GameCorner_Text_PrizeVendorHereYouGo:
     .string "给你！$"
 
 GoldenrodCity_GameCorner_Text_PrizeVendorNeedMoreCoins:
-    .string "Sorry! You need more coins.$"
+    .string "真抱歉！你的代币不够呢。$"
 
 GoldenrodCity_GameCorner_Text_PrizeVendorNoMoreRoom:
-    .string "Sorry. You can't carry any more.$"
+    .string "真抱歉，你身上已经拿不下了。$"
 
 GoldenrodCity_GameCorner_Text_PrizeVendorQuit:
-    .string "OK. Please save your coins and come\n"
-    .string "again!$"
+    .string "好的。请攒够代币后再来吧！$"
 
 GoldenrodCity_GameCorner_Text_PrizeVendorNoCoinCase:
-    .string "Oh? You don't have a COIN CASE.$"
+    .string "哎呀？你没有代币盒呢。$"
 
 GoldenrodCity_GameCorner_Text_Pharmacist:
-    .string "I always play this slot machine.\n"
-    .string "It pays out more than others,\l"
-    .string "I think.$"
+    .string "我总是在这台老虎机上玩。我觉得这\n"
+    .string "台吐出的代币比其他的都要多。$"
 
 GoldenrodCity_GameCorner_Text_Woman:
-    .string "I can't stop winning!$"
+    .string "赢个不停，根本停不下来！$"
 
 GoldenrodCity_GameCorner_Text_PokefanM1:
-    .string "I just love this new slot machine.\p"
-    .string "It's more of a challenge than the\n"
-    .string "ones in CELADON.$"
+    .string "我太喜欢这个新老虎机了。\p"
+    .string "比玉虹市的那些可有挑战性多了。$"
 
 GoldenrodCity_GameCorner_Text_CooltrainerM:
-    .string "Life is a gamble. I'm going to pull\n"
-    .string "till I drop!$"
+    .string "人生就是一场豪赌。不摇到底我绝不\n"
+    .string "罢休！$"
 
 GoldenrodCity_GameCorner_Text_PokefanF:
-    .string "Roulette…\p"
-    .string "I prefer it over the slots because\n"
-    .string "it's easier to figure the odds.\p"
-    .string "But the payout is much lower.$"
+    .string "轮盘啊......\p"
+    .string "比起老虎机，我更喜欢玩这个，因为\n"
+    .string "赔率更容易算。\p"
+    .string "不过中奖的报酬也低很多就是了。$"
 
 GoldenrodCity_GameCorner_Text_CooltrainerF:
-    .string "I won't quit until I win!$"
+    .string "不赢我是绝对不会收手的！$"
 
 GoldenrodCity_GameCorner_Text_Gentleman:
     .string "I taught ICE BEAM to my POKéMON.\p"
@@ -646,17 +658,17 @@ GoldenrodCity_GameCorner_Text_Gentleman:
     .string "it, but it was worth it.$"
 
 GoldenrodCity_GameCorner_Text_PokefanM2:
-    .string "I couldn't win at the slots, and I\n"
-    .string "blew it on roulette.\p"
-    .string "I got so furious, I tossed out my\n"
-    .string "COIN CASE in the UNDERGROUND.$"
+    .string "老虎机赢不了，轮盘也输得一塌糊涂\n"
+    .string "。\p"
+    .string "我气得把代币盒扔到地下通道去了。$"
 
 GoldenrodCity_GameCorner_Text_MoveTutorInside:
-    .string "Wahahah! The coins keep rolling in!$"
+    .string "哇哈哈！代币哗啦哗啦进账停不下来\n"
+    .string "！$"
 
 GoldenrodCity_GameCorner_Text_LeftTheirDrink:
-    .string "Someone left their drink.\p"
-    .string "It smells sweet.$"
+    .string "有人把饮料落在这里了。\p"
+    .string "闻起来甜甜的。$"
 
 @ ========================================
 @ VOLTORB FLIP GAME IMPLEMENTATION
@@ -799,32 +811,34 @@ GoldenrodCity_GameCorner_EventScript_VFAttendant2::
 
 @ Voltorb Flip Menu Option Strings
 GoldenrodCity_GameCorner_Text_VF_OptPlay:
-	.string "PLAY$"
+	.string "开始游戏$"
 
 GoldenrodCity_GameCorner_Text_VF_OptGameInfo:
-	.string "GAME INFO$"
+	.string "游戏说明$"
 
 GoldenrodCity_GameCorner_Text_VF_OptQuit:
-	.string "QUIT$"
+	.string "退出$"
 
 GoldenrodCity_GameCorner_Text_VF_OptHowToPlay:
-	.string "HOW TO PLAY$"
+	.string "玩法介绍$"
 
 GoldenrodCity_GameCorner_Text_VF_OptHint:
-	.string "HINT$"
+	.string "游戏技巧$"
 
 GoldenrodCity_GameCorner_Text_VF_OptAboutNotes:
-	.string "ABOUT NOTES$"
+	.string "关于标记$"
 
 GoldenrodCity_GameCorner_Text_VF_OptReturn:
-	.string "RETURN$"
+	.string "返回$"
 
 @ Voltorb Flip Dialogue Strings
 GoldenrodCity_GameCorner_Text_VF_Welcome:
-	.string "Welcome to VOLTORB FLIP!\p$"
+	.string "欢迎来到霹雳电球翻牌！\p"
+	.string "$"
 
 GoldenrodCity_GameCorner_Text_VF_PlayLevel:
-	.string "Play VOLTORB Flip Lv. {STR_VAR_1}?$"
+	.string "要挑战霹雳电球翻牌 Lv. \n"
+	.string "{STR_VAR_1}吗？$"
 
 GoldenrodCity_GameCorner_Text_VF_GameClear:
 	.string "Game clear!\p"
@@ -832,24 +846,26 @@ GoldenrodCity_GameCorner_Text_VF_GameClear:
 	.string "x2 and x3 cards!$"
 
 GoldenrodCity_GameCorner_Text_VF_ReceivedCoins:
-	.string "You have received\n"
-	.string "{STR_VAR_1} Coin(s)!$"
+	.string "获得了{STR_VAR_1}枚代\n"
+	.string "币！$"
 
 GoldenrodCity_GameCorner_Text_VF_Advanced:
-	.string "Advanced to Game Lv. {STR_VAR_1}!$"
+	.string "晋级到了等级\n"
+	.string "{STR_VAR_1}！$"
 
 GoldenrodCity_GameCorner_Text_VF_OhNo:
-	.string "Oh no! You get 0 Coins!$"
+	.string "糟了！获得了0枚代币！$"
 
 GoldenrodCity_GameCorner_Text_VF_Dropped:
-	.string "Dropped to Game Lv. {STR_VAR_1}.$"
+	.string "降回了等级{STR_VAR_1}\n"
+	.string "。$"
 
 GoldenrodCity_GameCorner_Text_VF_CoinCap:
-	.string "You've gathered 9,999 COINS.\n"
-	.string "You cannot gather any more.$"
+	.string "你已经攒了9999枚代币。不能持\n"
+	.string "有更多了。$"
 
 GoldenrodCity_GameCorner_Text_VF_WhichInfo:
-	.string "Which set of info?$"
+	.string "想看哪方面的内容？$"
 
 GoldenrodCity_GameCorner_Text_VF_HowToPlay:
 	.string "VOLTORB FLIP is a game in which you flip\n"
@@ -886,7 +902,7 @@ GoldenrodCity_GameCorner_Text_VF_AboutNotes:
 	.string "Apply a note again to remove it.$"
 
 GoldenrodCity_GameCorner_Text_VF_NeedCoinCase:
-	.string "Oh? You don't have a COIN CASE.$"
+	.string "哎呀？你没有代币盒呢。$"
 
 GoldenrodCity_GameCorner_Text_VFAttendant1:
 	.string "You want to play VOLTORB FLIP?\p"
@@ -894,5 +910,4 @@ GoldenrodCity_GameCorner_Text_VFAttendant1:
 	.string "side of the table.$"
 
 GoldenrodCity_GameCorner_Text_VFAttendant2:
-	.string "Try the other side of\n"
-	.string "the table, pal.$"
+	.string "朋友，到桌子对面去玩吧。$"

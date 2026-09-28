@@ -233,139 +233,130 @@ BlackthornGym_EventScript_ClairAfterLeague::
 	end
 
 BlackthornGym_Text_ClairIntroText:
-    .string "I am CLAIR.\p"
-    .string "The world's best dragon master.\p"
-    .string "I can hold my own against even the\n"
-    .string "POKéMON LEAGUE's ELITE FOUR.\p"
-    .string "Do you still want to take me on?\p"
-    .string "…Fine. Let's do it!\p"
-    .string "As a GYM LEADER, I will use my full\n"
-    .string "power against any opponent!$"
+    .string "我是小椿。\p"
+    .string "世界第一的龙属性使者！\p"
+    .string "哪怕是面对宝可梦联盟的四天王，我\n"
+    .string "也绝不会落下风。\p"
+    .string "即使如此，你还打算向我挑战吗？\p"
+    .string "......好啊，那就来吧！\p"
+    .string "身为道馆馆主，面对任何对手我都会\n"
+    .string "全力以赴！$"
 
 BlackthornGym_Text_ClairWinText:
-    .string "I lost?\p"
-    .string "I don't believe it. There must be\n"
-    .string "some mistake…$"
+    .string "我输了？\p"
+    .string "难以置信。一定是有什么地方搞错了\n"
+    .string "......$"
 
 BlackthornGym_Text_ClairText_GoToDragonsDen:
-    .string "I won't admit this.\p"
-    .string "I may have lost, but you're still\n"
-    .string "not ready for the POKéMON LEAGUE.\p"
-    .string "I know. You should take the dragon-\n"
-    .string "user challenge.\p"
-    .string "Behind this GYM is a place called\n"
-    .string "DRAGON'S DEN.\p"
-    .string "There is a small shrine at its\n"
-    .string "center. Go there.\p"
-    .string "If you can prove that you've lost\n"
-    .string "your lazy ideals, I will recognize\l"
-    .string "you as a trainer worthy of a GYM\l"
-    .string "BADGE!$"
+    .string "我才不承认呢。\p"
+    .string "就算是我输了，但现在的你还是没资\n"
+    .string "格挑战宝可梦联盟。\p"
+    .string "对了，你去接受龙使者的考验吧。\p"
+    .string "在道馆后面有一个叫龙穴的地方。\p"
+    .string "其中心有一座小祠堂，去那里吧。\p"
+    .string "只要你能证明自己没有怠惰虚浮的杂\n"
+    .string "念，我就会认可你是有资格获得道馆\l"
+    .string "徽章的训练家！$"
 
 BlackthornGym_Text_ClairText_TooMuchToExpect:
-    .string "What's the matter?\p"
-    .string "Is it too much to expect of you?$"
+    .string "怎么了？\p"
+    .string "难道是我对你抱的期望太高了吗？$"
 
 BlackthornGym_Text_ClairText_YouKeptMeWaiting:
-    .string "You've kept me waiting!\p"
-    .string "Here! Take this!$"
+    .string "让我好等啊！\p"
+    .string "拿去！把这个收下！$"
 
 BlackthornGym_Text_ClairText_DescribeTM:
     .string "That contains DRAGON CLAW.\p"
     .string "You can figure out what it does.$"
 
 BlackthornGym_Text_ClairText_League:
-    .string "What's the matter?\p"
-    .string "Aren't you headed to the POKéMON\n"
-    .string "LEAGUE?\p"
-    .string "Don't you know where it is?\p"
-    .string "From here, go to NEW BARK TOWN.\p"
-    .string "Then SURF east. The route there is\n"
-    .string "very tough.\p"
-    .string "Don't you dare lose at the POKéMON\n"
-    .string "LEAGUE!\p"
-    .string "If you do, I'll feel even worse\n"
-    .string "about having lost to you!\p"
-    .string "Give it everything you've got.$"
+    .string "怎么啦？\p"
+    .string "你不是要去宝可梦联盟吗？\p"
+    .string "不知道路怎么走吗？\p"
+    .string "从这里先回若叶镇，\p"
+    .string "然后向东冲浪过去。那条路可不好走\n"
+    .string "呢。\p"
+    .string "你可千万别在宝可梦联盟输掉啊！\p"
+    .string "要是你输了，输给你的我岂不是更丢\n"
+    .string "脸！\p"
+    .string "给我全力以赴地上吧！$"
 
 BlackthornGym_Text_ClairAfterLeague:
-    .string "You did it, huh?\p"
-    .string "You are now the JOHTO CHAMP.$"
+    .string "你做到了啊。\p"
+    .string "现在你已经是城都的冠军了。$"
 
 BlackthornGym_Text_ClairRematchText:
-    .string "You did it, huh?\p"
-    .string "You are now the JOHTO CHAMP.\p"
-    .string "You've proven your strength but can\n"
-    .string "you handle me again?\p"
-    .string "As a Dragon Master, I won't hold\n"
-    .string "back.\p"
-    .string "Not this time.\p"
-    .string "Want to have a rematch with me?$"
+    .string "你做到了啊。\p"
+    .string "现在你已经是城都的冠军了。\p"
+    .string "你证明了自己的实力，但你还能赢得\n"
+    .string "了我吗？\p"
+    .string "身为龙之大师，我绝不会手下留情。\p"
+    .string "这一次绝不放水。\p"
+    .string "要跟我再来对战一场吗？$"
 
 BlackthornGym_Text_ClairRematchDefeatText:
-    .string "I lost?\p"
-    .string "Again?\p"
-    .string "I don't believe it. There must be\n"
-    .string "some mistake…$"
+    .string "我输了？\p"
+    .string "又输了？\p"
+    .string "真不敢相信。一定是哪里搞错了..\n"
+    .string "....$"
 
 BlackthornGym_Text_CooltrainermCodySeenText:
-    .string "I just got access to use DRAGON-\n"
-    .string "type POKéMON!$"
+    .string "我才刚被允许使用龙属性宝可梦呢！$"
 
 BlackthornGym_Text_CooltrainermCodyBeatenText:
-    .string "Rats! If only I had a DRAGONITE!$"
+    .string "可恶！要是我有一只快龙就好了！$"
 
 BlackthornGym_Text_CooltrainermCodyAfterBattleText:
-    .string "Members of our dragon-user clan\n"
-    .string "can use dragon POKéMON only after\l"
-    .string "our MASTER allows it.$"
+    .string "我们驯龙一族的成员，只有在得到师\n"
+    .string "父的许可后才能使用龙宝可梦。$"
 
 BlackthornGym_Text_CooltrainerfFranSeenText:
-    .string "I can't allow a nameless trainer\n"
-    .string "past me!\p"
-    .string "CLAIR would be livid if I did!$"
+    .string "我可不能让无名训练家从我这里过去\n"
+    .string "！\p"
+    .string "要是放你过去，小椿大人会暴跳如雷\n"
+    .string "的！$"
 
 BlackthornGym_Text_CooltrainerfFranBeatenText:
-    .string "Awww… I lost…$"
+    .string "呜呜......我输了.....\n"
+    .string ".$"
 
 BlackthornGym_Text_CooltrainerfFranAfterBattleText:
-    .string "Uh-oh… CLAIR is going to be mad…$"
+    .string "哎呀......小椿大人要生气了\n"
+    .string "......$"
 
 BlackthornGym_Text_CooltrainermPaulSeenText:
-    .string "Your first battle against dragons?\p"
-    .string "I'll show you how tough they are!$"
+    .string "第一次跟龙交手吗？\p"
+    .string "就让你见识一下它们有多强悍！$"
 
 BlackthornGym_Text_CooltrainermPaulBeatenText:
-    .string "My dragon POKéMON lost?$"
+    .string "我的龙宝可梦竟然输了？$"
 
 BlackthornGym_Text_CooltrainermPaulAfterBattleText:
-    .string "LANCE told you that he'd like to\n"
-    .string "see you again?\p"
-    .string "Not a chance!$"
+    .string "阿渡大人说想再见到你？\p"
+    .string "怎么可能！$"
 
 BlackthornGym_Text_CooltrainermMikeSeenText:
-    .string "My chance of losing? Not even one\n"
-    .string "percent!$"
+    .string "我输掉的几率？连百分之一都不到！$"
 
 BlackthornGym_Text_CooltrainermMikeBeatenText:
-    .string "That's odd.$"
+    .string "真奇怪。$"
 
 BlackthornGym_Text_CooltrainermMikeAfterBattleText:
-    .string "I know my short-comings now.\p"
-    .string "Thanks for showing me!$"
+    .string "我知道自己的不足了。\p"
+    .string "谢谢你让我看清！$"
 
 BlackthornGym_Text_CooltrainerfLolaSeenText:
-    .string "Dragons are sacred POKéMON.\p"
-    .string "They are full of life energy.\p"
-    .string "If you're not serious, you won't\n"
-    .string "be able to beat them.$"
+    .string "龙是神圣的宝可梦。\p"
+    .string "它们体内充盈着生命能量。\p"
+    .string "若是不动真格，你根本不可能赢得了\n"
+    .string "它们。$"
 
 BlackthornGym_Text_CooltrainerfLolaBeatenText:
-    .string "Way to go!$"
+    .string "干得漂亮！$"
 
 BlackthornGym_Text_CooltrainerfLolaAfterBattleText:
-    .string "Dragons are weak against DRAGON-\n"
-    .string "type moves.$"
+    .string "龙宝可梦对龙属性招式很脆弱。$"
 
 BlackthornGym_EventScript_GymGuy::
 	lock
@@ -388,34 +379,29 @@ BlackthornGym_EventScript_GymGuy3::
 	end	
 
 BlackthornGym_Text_GuideText:
-    .string "Yo! CHAMP in making!\p"
-    .string "It's been a long journey, but we\n"
-    .string "are almost done! Count on me!\p"
-    .string "While CLAIR looks up to the Dragon\n"
-    .string "Master, LANCE, she's managed to\l"
-    .string "create her own identity with a\l"
-    .string "team consisting of dragons from\l"
-    .string "the sea.\p"
-    .string "Dragons are supposed to be\n"
-    .string "weak against ICE-type moves,\l"
-    .string "but you'll need some DRAGON-type\l"
-	.string "or FAIRY-type moves of your own if\l"
-    .string "you want to win.$"
-    .string "You got this!$"
+    .string "哟！未来的冠军！\p"
+    .string "漫长的旅程终于快走到终点了！看我\n"
+    .string "的吧！\p"
+    .string "虽说小椿十分憧憬龙之大师阿渡，但\n"
+    .string "她也凭借来自大海的龙系伙伴，组建\l"
+    .string "起了自己独具风格的队伍。\p"
+    .string "按理说龙宝可梦害怕冰属性招式，但\n"
+    .string "要想拿下胜利，你自己最好也准备一\l"
+    .string "些龙属性或妖精属性的招式。$"
+    .string "加油，你行的！$"
 
 BlackthornGym_Text_GuideGotoDragonsDen:
-	.string "You were great to beat CLAIR!\p"
-    .string "She can be a bit of a sore loser,\n"
-	.string "though\p"
-    .string "Sounds like you need to head to the\n"
-    .string "DRAGON'S DEN if you want that GYM BADGE!$"
+	.string "能打赢小椿，你真是太棒了！\p"
+	.string "不过，她输了以后脾气有点倔...\n"
+	.string "...\p"
+	.string "看来要想拿到道馆徽章，你得去一趟\n"
+	.string "龙穴才行了！$"
 
 BlackthornGym_Text_GuideWinText:
-    .string "You were great to beat CLAIR!\p"
-    .string "All that's left is the POKéMON\n"
-    .string "LEAGUE challenge.\p"
-    .string "You're on the way to becoming the\n"
-    .string "POKéMON CHAMPION!$"
+    .string "你能打败小椿真是太厉害了！\p"
+    .string "接下来就只剩下挑战宝可梦联盟了。\p"
+    .string "你离成为宝可梦冠军只差一步之遥了\n"
+    .string "！$"
 
 
 BlackthornGym_EventScript_Statue::
@@ -433,9 +419,9 @@ BlackthornGym_EventScript_Statue2::
 	end
 
 BlackthornGym_Text_GymStatue:
-	.string "BLACKTHORN CITY POKéMON GYM$"
+	.string "烟墨市宝可梦道馆$"
 
 BlackthornGym_Text_GymStatueCertified:
-	.string "BLACKTHORN CITY POKéMON GYM\p"
-	.string "CLAIR'S CERTIFIED TRAINERS:\n"
+	.string "烟墨市宝可梦道馆\p"
+	.string "小椿认可的训练家：\n"
 	.string "{PLAYER}$"

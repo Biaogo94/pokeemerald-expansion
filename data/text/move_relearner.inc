@@ -1,6 +1,6 @@
 MoveRelearner_Text_WouldLearnNewMoves:
-	.string "Hi, I'm the Move Relearner.\n"
-	.string "Would you like to learn new moves?$"
+	.string "你好，我是招式回忆狂。想让宝可梦\n"
+	.string "回忆起招式吗？$"
 
 MoveRelearner_Text_LevelUpMoves:
 	.string "升级招式$"
@@ -27,8 +27,8 @@ MoveRelearner_Text_HaveNoPkmn:
 	.string "你没有同行的宝可梦！$"
 
 MoveRelearner_Text_CantTeachMoveToEgg:
-	.string "Sorry…\n"
-	.string "But an Egg can't learn moves.$"
+	.string "抱歉......但是蛋是没法学会\n"
+	.string "招式的。$"
 
 MoveRelearner_Text_CantTeachMoveToPkmn:
 	.string "抱歉……\p"

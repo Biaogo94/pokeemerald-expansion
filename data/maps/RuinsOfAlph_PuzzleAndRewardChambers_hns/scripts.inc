@@ -370,58 +370,54 @@ RuinsOfAlph_PuzzleAndRewardChambers_EventScript_RewardGotten::
 	end
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Reward:
-	.string "The chamber reacts!\n"
-	.string "The way is open.$"
+	.string "石室产生了反应！道路开启了。$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Mon:
-	.string "Some kind of ancient sensor.\n"
-	.string "What is it looking for?$"
+	.string "似乎是某种古代感应装置。它到底在\n"
+	.string "感应什么呢？$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Solved:
-	.string "The way is open.$"
+	.string "道路开启了。$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Receptionist1:
-	.string "Welcome to this chamber.\p"
-	.string "There are sliding panels that depict\n"
-	.string "a POKéMON drawn by the ancients.\p"
-	.string "Slide the panels around to form\n"
-	.string "the picture.\p"
-	.string "To the left is a description of\n"
-	.string "the POKéMON.\p"
-	.string "Scientists in the lab are examin-\n"
-	.string "-ing some newly found patterns.$"
+	.string "欢迎来到这个石室。\p"
+	.string "这里的滑块石板上描绘着古代人所画\n"
+	.string "的宝可梦。\p"
+	.string "滑动这些石板拼出完整的图案吧。\p"
+	.string "左边写着关于这只宝可梦的描述。\p"
+	.string "研究所的科学家们正在研究最新发现\n"
+	.string "的花纹图案呢。$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Receptionist2:
-	.string "A hole just opened up in the floor!\n"
-	.string "I'd better tell the others.$"
+	.string "地面上突然开了一个大洞！我得赶快\n"
+	.string "去告诉其他人。$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Receptionist3:
-	.string "Now a hole in the wall too?!\n"
-	.string "This is getting spooky.$"
+	.string "这次连墙上也开了一个洞？！真是越\n"
+	.string "来越诡异了。$"
 
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Kabuto:
-	.string "A POKéMON that hid on the sea floor.\n"
-	.string "Eyes on its back scanned the area.$"
+	.string "潜藏在海底的宝可梦。背上的眼睛会\n"
+	.string "环视周围。$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_UnownText:
-	.string "It's UNOWN text!$"
+	.string "这是未知图腾文字！$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Statue:
-	.string "It's a replica of an ancient\n"
-	.string "POKéMON.$"
+	.string "这是古代宝可梦的模型。$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Aerodactyl:
-	.string "This flying POKéMON attacked its\n"
-	.string "prey with saw-like fangs.$"
+	.string "翱翔于天空，以锯齿状尖牙袭击猎物\n"
+	.string "的宝可梦。$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Omanyte:
-	.string "This POKéMON drifted in the sea\n"
-	.string "by twisting its ten tentacles.$"
+	.string "扭动着10只触手，在海中游曳的宝\n"
+	.string "可梦。$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Hooh:
-	.string "A POKéMON that flew gracefully on\n"
-	.string "rainbow-colored wings.$"
+	.string "展开七彩翅膀，优雅翱翔于天空的宝\n"
+	.string "可梦。$"
 
 @==========================================================================================================================================================
 @ Hooh

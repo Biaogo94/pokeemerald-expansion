@@ -67,10 +67,10 @@ LilycoveCity_MoveDeletersHouse_EventScript_LastMonWithSurf::
 	end
 
 LilycoveCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove:
-	.string "Uh…\n"
-	.string "Oh, yes, I'm the MOVE DELETER.\p"
-	.string "I can make POKéMON forget their moves.\p"
-	.string "Would you like me to do that?$"
+	.string "呃......噢，对了，我是招式\n"
+	.string "遗忘爷爷。\p"
+	.string "我能让宝可梦忘记它们学会的招式。\p"
+	.string "需要我帮忙吗？$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMonShouldForget:
 	.string "要选哪只宝可梦哩？$"

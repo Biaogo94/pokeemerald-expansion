@@ -41,28 +41,28 @@ Route32_PokemonCenter_EventScript_FishingGuru3::
 
 
 Route32_Pokecenter_Text_FishingGuruQuestion:
-	.string "This is a great fishing spot.\p"
-	.string "You saw people fishing?\n"
-	.string "How about you?\p"
-	.string "Would you like one of my RODS?$"
+	.string "这里是个绝佳的钓鱼点。\p"
+	.string "你看到有人在钓鱼了吧？你觉得怎么\n"
+	.string "样？\p"
+	.string "想要一根我的钓竿吗？$"
 
 Route32_Pokecenter_Text_FishingGuruYes:
-	.string "Heh, that's good to hear.\p"
-	.string "Now you're an angler too!$"
+	.string "嘿，听到你这么说真高兴。\p"
+	.string "现在你也是钓鱼人啦！$"
 
 Route32_Pokecenter_Text_FishingGuruGiveRod:
-	.string "Fishing is great!\p"
-	.string "If there's water, be it the sea or\n"
-	.string "a stream, try out your ROD.$"
+	.string "钓鱼太棒了！\p"
+	.string "只要有水，不管是大海还是小溪，都\n"
+	.string "去试试你的钓竿吧。$"
 
 Route32_Pokecenter_Text_FishingGuruNo:
-	.string "Oh. That's rather disappointing…$"
+	.string "哎呀。真让人失望啊......$"
 
 Route32_Pokecenter_Text_FishingGuruAfter:
-	.string "Yo, kid. How are they biting?$"
+	.string "哟，小朋友。鱼上钩了吗？$"
 
 Route32_Pokecenter_Text_CooltrainerF:
-	.string "What should I make my POKéMON hold?\p"
-	.string "Maybe an item that increases\n"
-	.string "ATTACK power…$"
+	.string "该让我的宝可梦携带什么好呢？\p"
+	.string "也许是能提升攻击威力的道具...\n"
+	.string "...$"
 

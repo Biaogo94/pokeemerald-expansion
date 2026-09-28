@@ -2,16 +2,16 @@ EcruteakCity_House2_hns_MapScripts::
 	.byte 0
 
 Ecruteak_Text_ItemfinderAdventure:
-	.string "Ah. You're on an adventure with\n"
-	.string "your POKéMON?\p"
-	.string "Well, what's an adventure without\n"
-	.string "treasure hunting?\p"
-	.string "Am I right, or am I right?$"
+	.string "啊，你正带着宝可梦到处冒险吗？\p"
+	.string "话说回来，冒险怎么能少得了寻宝呢\n"
+	.string "？\p"
+	.string "你说对不对，嗯？$"
 
 Ecruteak_Text_ItemfinderTrueSpirit:
-	.string "Good! You understand the true\n"
-	.string "spirit of adventure.\p"
-	.string "I like that! Take this with you.$"
+	.string "太好了！你很懂得冒险的真正意义嘛\n"
+	.string "。\p"
+	.string "我喜欢你这样的孩子！把这个带上吧\n"
+	.string "。$"
 
 Ecruteak_Text_ItemfinderExplanation:
 	.string "There are many items lying about\n"
@@ -24,7 +24,8 @@ Ecruteak_Text_ItemfinderExplanation:
 	.string "in ECRUTEAK's BURNED TOWER.$"
 
 Ecruteak_Text_ItemfinderToEachHisOwn:
-	.string "Oh… To each his own, I suppose…$"
+	.string "哎......真是人各有志呢..\n"
+	.string "....$"
 
 EcruteakCity_House2_EventScript_ItemFinderMan::
 	lock
@@ -69,30 +70,29 @@ EcruteakCity_House2_EventScript_Book3::
 	end
 
 Ecruteak_Text_ItemFinderMan::
-	.string "ECRUTEAK is a very old city.\n"
-	.string "Many generations passed down\l"
-	.string "their history in books like these.$"
+	.string "圆朱市是一座历史悠久的城市。许多\n"
+	.string "世代的人们都把历史记录在这样的书\l"
+	.string "籍中代代相传。$"
 
 Ecruteak_Text_HistoryBook:
-	.string "HISTORY OF ECRUTEAK\p"
-	.string "Want to read it?$"
+	.string "《圆朱市的历史》\p"
+	.string "要阅读吗？$"
 
 Ecruteak_Text_TwoTowers:
-	.string "In ECRUTEAK, there were two towers.\p"
-	.string "Each tower was the roost of\n"
-	.string "powerful flying POKéMON.\p"
-	.string "But one of the towers burned to\n"
-	.string "the ground.\p"
-	.string "The two POKéMON haven't been seen\n"
-	.string "since…\p"
-	.string "Keep reading?$"
+	.string "圆朱市曾经耸立着两座高塔。\p"
+	.string "两座塔分别是两只强大的飞翔宝可梦\n"
+	.string "的栖居之所。\p"
+	.string "但其中一座塔被大火烧毁殆尽。\p"
+	.string "自那以后，这两只宝可梦便再也没有\n"
+	.string "现身过......\p"
+	.string "要继续阅读吗？$"
 
 Ecruteak_Text_ThreeMon:
-	.string "ECRUTEAK was also home to three\n"
-	.string "POKéMON that raced around the town.\p"
-	.string "They were said to have been born\n"
-	.string "of water, lightning and fire.\p"
-	.string "But they could not contain their\n"
-	.string "excessive power.\p"
-	.string "So they say the three ran like the\n"
-	.string "wind off into the grassland.$"
+	.string "在圆朱市，还曾有三只宝可梦在此疾\n"
+	.string "驰奔跑。\p"
+	.string "据说它们分别诞生于水、雷电与烈火\n"
+	.string "之中。\p"
+	.string "但它们无法抑制体内过于庞大的力量\n"
+	.string "。\p"
+	.string "因此据说这三只宝可梦如同疾风一般\n"
+	.string "奔向了草原深处。$"

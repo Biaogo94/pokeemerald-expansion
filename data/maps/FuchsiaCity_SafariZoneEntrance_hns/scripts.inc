@@ -69,7 +69,7 @@ FuchsiaCity_SafariZoneEntrance_EventScript_StevenGiveCase::
 	return
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenGiveCase:
-	.string "Oh and you might need this.$"
+	.string "哦，对了，你可能会需要这个。$"
 
 FuchsiaCity_SafariZoneEntrance_Steven::
 	lock
@@ -217,21 +217,18 @@ FuchsiaCity_SafariZoneEntrance_Movement_ReturnToTable:
 	step_end
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenWelcome:
-	.string "Hello again, {PLAYER}!\p"
-	.string "Welcome to the DEVON SAFARI ZONE!\p"
-	.string "This specially designed safari\n"
-	.string "has 4 different habitats that\l"
-	.string "attract and house different invasive\l"
-	.string "species from the HOENN region.\p"
-	.string "We encourage trainers to capture\n"
-	.string "as many as they can to safely\l"
-	.string "remove them from the environment.\p"
-	.string "You'll find very rare POKéMON\n"
-	.string "here. Especially if you increase\l"
-	.string "your SAFARI LEVEL.\p"
-	.string "Just speak to the attendant here\n"
-	.string "any time to increase your SAFARI\l"
-	.string "LEVEL.$"
+	.string "又见面了，{PLAYER}！\p"
+	.string "欢迎来到德文原野区！\p"
+	.string "这个特别设计的原野区拥有4种不同\n"
+	.string "的生态环境，用以吸引并容纳来自丰\l"
+	.string "缘地区的外来物种。\p"
+	.string "我们鼓励训练家们尽可能多地捕捉它\n"
+	.string "们，以此安全地将它们移出自然环境\l"
+	.string "。\p"
+	.string "你在这里会发现非常罕见的宝可梦。\n"
+	.string "尤其是当你提升了原野区等级之后。\p"
+	.string "随时都可以找这里的接待员来提升你\n"
+	.string "的原野区等级。$"
 
 FuchsiaCity_SafariZoneEntrance_UpgradeGuy::
 	goto_if_eq VAR_KANTO_SAFARI_ZONE_PROGRESS, 1, FuchsiaCity_SafariZoneEntrance_UpgradeGuy1
@@ -296,10 +293,9 @@ FuchsiaCity_SafariZoneEntrance_UpgradeGuyNotEnoughMoney::
 	end
 
 FuchsiaCity_SafariZoneEntrance_Text_Steven:
-	.string "Oh, hey, {PLAYER}.\p"
-	.string "I hope you're enjoying the SAFARI.\p"
-	.string "Have you seen any rare stones\n"
-	.string "lately?$"
+	.string "哎呀，你好，{PLAYER}。\p"
+	.string "原野区玩得还开心吗？\p"
+	.string "你最近有没有见到什么罕见的石头？$"
 
 FuchsiaCity_SafariZoneEntrance_Text_Level1:
 	.string "Hello {PLAYER}, would you\n"
@@ -317,7 +313,8 @@ FuchsiaCity_SafariZoneEntrance_Text_Level3:
 	.string "to 4? It will cost you ¥400,000.$"
 
 FuchsiaCity_SafariZoneEntrance_Text_UpgradeGuyDeclined:
-	.string "Oh, that's too bad, then...$"
+	.string "哎呀，那可真是太遗憾了.....\n"
+	.string ".$"
 
 FuchsiaCity_SafariZoneEntrance_Text_UpgradeGuyAccepted:
 	.string "Enjoy the premium SAFARI ZONE\n"

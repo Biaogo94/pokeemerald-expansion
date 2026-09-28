@@ -102,8 +102,8 @@ CianwoodCity_Text_ChucksWifeBeatChuck:
 	.string "I'll have a nice gift for you.$"
 
 CianwoodCity_Text_ChucksWifeGiveHM:
-	.string "That's CIANWOOD's GYM BADGE!\p"
-	.string "Then you should take this HM.$"
+	.string "那是湛蓝道馆的徽章！\p"
+	.string "那么这顶秘传学习器就交给你了。$"
 
 CianwoodCity_Text_ChucksWifeFlySpeech:
 	.string "Teach FLY to your POKéMON.\p"
@@ -287,16 +287,15 @@ CianwoodCity_Text_EusineSuicune:
 	.string "Come on, {PLAYER}. Let's battle now!$"
 
 CianwoodCity_Text_EusineBeaten:
-	.string "I hate to admit it, but you win.$"
+	.string "虽然很不甘心，但我输了。$"
 
 CianwoodCity_Text_EusineAfter:
-	.string "You're amazing, {PLAYER}!\p"
-	.string "No wonder POKéMON gravitate to you.\p"
-	.string "I get it now.\p"
-	.string "I'm going to keep searching for\n"
-	.string "SUICUNE.\p"
-	.string "I'm sure we'll see each other again.\p"
-	.string "See you around!$"
+	.string "你太厉害了，{PLAYER}！\p"
+	.string "难怪宝可梦都会被你吸引。\p"
+	.string "我明白了。\p"
+	.string "我要继续去追寻水君了。\p"
+	.string "我们一定还会再见面的。\p"
+	.string "回见啦！$"
 
 CianwoodCity_EventScript_CitySign::
 	lock
@@ -306,8 +305,8 @@ CianwoodCity_EventScript_CitySign::
 	end
 
 CianwoodCity_Text_Sign:
-	.string "CIANWOOD CITY\p"
-	.string "A Port Surrounded by Rough Seas$"
+	.string "湛蓝市\p"
+	.string "怒涛环绕的港湾都市$"
 
 CianwoodCity_EventScript_GymSign::
 	lock
@@ -317,9 +316,9 @@ CianwoodCity_EventScript_GymSign::
 	end
 
 CianwoodCity_Text_GymSign:
-	.string "CIANWOOD CITY POKéMON GYM\p"
-	.string "LEADER: CHUCK\p"
-	.string "His Roaring Fists Do the Talking$"
+	.string "湛蓝市宝可梦道馆\p"
+	.string "馆主：阿四\p"
+	.string "用轰鸣的铁拳说话的男人$"
 
 CianwoodCity_EventScript_Pharmacy::
 	lock
@@ -329,9 +328,9 @@ CianwoodCity_EventScript_Pharmacy::
 	end
 
 CianwoodCity_Text_PharmacySign:
-	.string "500 Years of Tradition\p"
-	.string "CIANWOOD CITY PHARMACY\p"
-	.string "We Await Your Medicinal Queries$"
+	.string "延续500年的传统\p"
+	.string "湛蓝药房\p"
+	.string "为您排解各种用药困扰$"
 
 CianwoodCity_EventScript_CaveSign::
 	lock
@@ -349,10 +348,8 @@ CianwoodCity_EventScript_Engineer::
 	end
 
 CianwoodCity_Text_Safari:
-	.string "CLIFF EDGE CAVE\n"
-	.string "Road to the SAFARI ZONE.$"
+	.string "断崖之洞窟通往狩猎地带之路。$"
 
 CianwoodCity_Text_Engineer:
-	.string "This path is under construction.\n"
-	.string "We're getting the new SAFARI ZONE\l"
-	.string "up and running!$"
+	.string "这条路正在施工中。我们正在加紧建\n"
+	.string "设全新的狩猎地带呢！$"

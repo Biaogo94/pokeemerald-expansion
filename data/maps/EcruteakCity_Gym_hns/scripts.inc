@@ -77,37 +77,34 @@ EcruteakCity_Gym_EventScript_Statue2::
 	end
 
 EcruteakCity_Gym_Text_GymStatue:
-	.string "ECRUTEAK CITY POKéMON GYM$"
+	.string "圆朱市宝可梦道馆$"
 
 EcruteakCity_Gym_Text_GymStatueCertified:
-	.string "ECRUTEAK CITY POKéMON GYM\p"
-	.string "MORTY'S CERTIFIED TRAINERS:\n"
+	.string "圆朱市宝可梦道馆\p"
+	.string "小松认可的训练家：\n"
 	.string "{PLAYER}$"
 
 MortyIntroText:
-	.string "Good of you to have come.\p"
-	.string "Here in ECRUTEAK, POKéMON have\n"
-	.string "always been revered.\p"
-	.string "It's said that a rainbow-colored\n"
-	.string "POKéMON will come down to\l"
-	.string "appear before a true Trainer.\p"
-	.string "I believed that tale, so I've\n"
-	.string "trained here in secret.\p"
-	.string "As a result, I can now see what\n"
-	.string "others cannot.\p"
-	.string "Just a bit more...\p"
-	.string "With a little more, I could see\n"
-	.string "a future where I meet the\l"
-	.string "rainbow-colored POKéMON.\p"
-	.string "You're going to help me reach\n"
-	.string "that level!$"
+	.string "欢迎你的到来。\p"
+	.string "在圆朱市，宝可梦自古以来就一直受\n"
+	.string "到人们的崇敬。\p"
+	.string "传说中，彩虹色的宝可梦会降临在真\n"
+	.string "正的训练家面前。\p"
+	.string "我坚信着这个传说，并一直在此隐秘\n"
+	.string "修行。\p"
+	.string "其结果，便是我如今能看见常人所看\n"
+	.string "不见的东西。\p"
+	.string "还差一点点......\p"
+	.string "只要再精进一点，我就能预见到与那\n"
+	.string "只彩虹色宝可梦相遇的未来。\p"
+	.string "就由你来助我达到那个境界吧！$"
 
 MortyWinLossText:
-	.string "I'm not good enough yet...\p"
-	.string "All right. This BADGE is yours.$"
+	.string "我还修行得不够啊......\p"
+	.string "好吧。这枚徽章就归你了。$"
 
 Text_ReceivedFogBadge:
-	.string "{PLAYER} received the FOGBADGE.$"
+	.string "{PLAYER}获得了魅影徽章。$"
 
 MortyText_FogBadgeSpeech:
 	.string "With the FOGBADGE, POKéMON up\n"
@@ -124,99 +121,92 @@ MortyText_ShadowBallSpeech:
 	.string "Use it if it suits you.$"
 
 MortyFightDoneText:
-	.string "I see...\p"
-	.string "Your journey has taken you to\n"
-	.string "far-off places.\p"
-	.string "You've witnessed more than I\n"
-	.string "ever have.\p"
-	.string "I envy you for that...$"
+	.string "原来如此......\p"
+	.string "你的旅途引领你走过了许许多多遥远\n"
+	.string "的地方。\p"
+	.string "你所见证过的天地远胜于我。\p"
+	.string "这可真让我羡慕啊......$"
 
 MortyRematchText:
-	.string "Ah, the JOHTO CHAMPION!\n"
-	.string "Good of you to come.\p"
-	.string "You've shown strength and skill,\n"
-	.string "but have you grown since we\l"
-	.string "last battled?\p"
-	.string "I've trained with my GHOST-type\n"
-	.string "POKéMON ever since.\p"
-	.string "Let's see if you can overcome\n"
-	.string "the shadows again.\p"
-	.string "Want to have a rematch?$"
+	.string "啊，城都的冠军！欢迎你的到来。\p"
+	.string "你展现过非凡的实力与身手，但不知\n"
+	.string "自从上次对战以来，你是否又有所成\l"
+	.string "长？\p"
+	.string "在那之后，我也一直与我的幽灵属性\n"
+	.string "宝可梦共同修行。\p"
+	.string "就让我看看，你是否还能再次驱散眼\n"
+	.string "前的阴影吧。\p"
+	.string "要再来切磋一场吗？$"
 
 Morty_RematchDefeatText:
-	.string "I'm not good enough yet...\p"
-	.string "You've witnessed more than I\n"
-	.string "ever have.\p"
-	.string "I envy you for that...$"
+	.string "我还修行得不够啊......\p"
+	.string "你所见证过的天地远胜于我。\p"
+	.string "这可真让我羡慕啊......$"
 
 SageJeffreySeenText:
-	.string "I spent the spring with my\n"
-	.string "POKéMON.\p"
-	.string "Then summer, fall, and winter...\p"
-	.string "Then spring came again.\n"
-	.string "We've been together a long time.$"
+	.string "我和我的宝可梦一起度过了春天。\p"
+	.string "接着是夏天、秋天和冬天.....\n"
+	.string ".\p"
+	.string "然后春天又一次来临。我们已经相伴\n"
+	.string "了许久。$"
 
 SageJeffreyBeatenText:
-	.string "Wins and losses--I've known\n"
-	.string "them both.$"
+	.string "胜利与失败--我皆已历经。$"
 
 SageJeffreyAfterBattleText:
-	.string "Where did POKéMON come from?$"
+	.string "宝可梦究竟是从何而来的呢？$"
 
 SagePingSeenText:
-	.string "Can you inflict any damage\n"
-	.string "on our POKéMON?$"
+	.string "你能对我们的宝可梦造成哪怕一点伤\n"
+	.string "害吗？$"
 
 SagePingBeatenText:
-	.string "Ah! Well done!$"
+	.string "啊！干得漂亮！$"
 
 SagePingAfterBattleText:
-	.string "We use GHOST-type POKéMON.\p"
-	.string "No NORMAL-type attacks can\n"
-	.string "harm them!$"
+	.string "我们使用的是幽灵属性宝可梦。\p"
+	.string "一般属性的攻击可是伤不到它们分毫\n"
+	.string "的！$"
 
 MediumMarthaSeenText:
-	.string "I shall win!$"
+	.string "胜者必将是我！$"
 
 MediumMarthaBeatenText:
-	.string "I... I... I lost!$"
+	.string "我......我......我输\n"
+	.string "了！$"
 
 MediumMarthaAfterBattleText:
-	.string "The one who wants to win the\n"
-	.string "most is the one who will!$"
+	.string "求胜心最强烈的人，才是最终的赢家\n"
+	.string "！$"
 
 MediumGraceSeenText:
-	.string "Stumped by our dark corridors?\n"
-	.string "Defeat me if you want a hint!$"
+	.string "被我们这里的黑暗走廊难住了吗？想\n"
+	.string "得到提示的话，就先打赢我吧！$"
 
 MediumGraceBeatenText:
-	.string "Wha-what?$"
+	.string "怎、怎么会？！$"
 
 MediumGraceAfterBattleText:
-	.string "Fine. I'll tell you the secret\n"
-	.string "of the shadows.\p"
-	.string "The path is right in front of\n"
-	.string "your eyes!$"
+	.string "好吧。我就告诉你暗影的秘密。\p"
+	.string "真正的道路，就在你的眼前！$"
 
 EcruteakCity_GymGuideText:
-	.string "Hey CHAMP! You're almost\n"
-	.string "halfway there!\p"
-	.string "Trainers here use GHOST and\n"
-	.string "DARK-type POKéMON.\p"
-	.string "While MORTY is a GHOST-type\n"
-	.string "expert, be wary of his mystic\l"
-	.string "deer.\p"
-	.string "It's said to cause strange\n"
-	.string "nightmares...$"
+	.string "嗨，未来的冠军！你的旅程差不多已\n"
+	.string "经走完一半了！\p"
+	.string "这里的训练家使用的是幽灵属性和恶\n"
+	.string "属性的宝可梦。\p"
+	.string "虽然松叶是幽灵属性的专家，但也要\n"
+	.string "当心他那只神秘的鹿。\p"
+	.string "据说那只宝可梦能引发诡异的噩梦.\n"
+	.string ".....$"
 
 EcruteakCity_GymGuideWinText:
-	.string "Whew, {PLAYER}. You did great!\p"
-	.string "I was cowering in the corner\n"
-	.string "out of pure terror!$"
+	.string "呼，{PLAYER}。你干得太棒\n"
+	.string "了！\p"
+	.string "我刚才可是吓得缩在角落里瑟瑟发抖\n"
+	.string "呢！$"
 
 EcruteakCity_GymClosedText:
-	.string "MORTY, the GYM LEADER, is\n"
-	.string "absent.\p"
-	.string "Sorry, but you'll have to\n"
-	.string "leave.\p"
-	.string "Hohohoho.$"
+	.string "道馆馆主松叶现在不在。\p"
+	.string "很抱歉，请你先回吧。\p"
+	.string "呵呵呵呵。$"

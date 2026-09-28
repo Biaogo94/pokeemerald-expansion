@@ -357,22 +357,21 @@ Route32_Movement_SlowpokeRight::
 	step_end
 
 Route32_Text_CooltrainerM_WhatsTheHurry:
-	.string "Wait up!\n"
-	.string "What's the hurry?$"
+	.string "等等！急急忙忙的干什么去呀？$"
 
 Route32_Text_CooltrainerM_AideIsWaiting:
-	.string "{PLAYER}, right?\n"
-	.string "Some guy wearing glasses\p"
-	.string "was looking for you.\p"
-	.string "See for yourself. He's waiting for\n"
-	.string "you at the POKéMON CENTER.$"
+	.string "你是{PLAYER}对吧？刚才有\n"
+	.string "个戴眼镜的男的\p"
+	.string "一直在找你呢。\p"
+	.string "你自己去瞧瞧吧。他正在宝可梦中心\n"
+	.string "等你呢。$"
 
 Route32_Text_CooltrainerM_SproutTower:
-	.string "Have you gone to SPROUT TOWER?\n"
-	.string "If you ever visit VIOLET CITY,\p"
-	.string "they'll expect you to train there.\n"
-	.string "That's basic for trainers.\p"
-	.string "Go to SPROUT TOWER!$"
+	.string "你去过喇叭芽之塔了吗？既然来到了\n"
+	.string "桔梗市，\p"
+	.string "大家都会期待你在那里修行呢。这对\n"
+	.string "训练家来说可是基本功哦。\p"
+	.string "快去喇叭芽之塔吧！$"
 
 Route32_Text_CooltrainerM_VioletGym:
 	.string "Have you gone to the POKéMON GYM?\n"
@@ -392,73 +391,67 @@ Route32_Text_CooltrainerM_HaveThisSeed:
 	.string "type moves.$"
 
 Route32_Text_CooltrainerM_Experiences:
-	.string "Your experiences in VIOLET CITY\n"
-	.string "should be useful for your journey.$"
+	.string "在桔梗市积累的经验，一定会对你的\n"
+	.string "旅程大有帮助的。$"
 
 Route32_Text_SlowpokeTailOffer:
-	.string "How would you like to have this\n"
-	.string "tasty, nutritious SLOWPOKETAIL?\p"
-	.string "For you right now, just\n"
-	.string "¥1,000,000!\p"
-	.string "You'll want this!$"
+	.string "要不要来一根美味又有营养的呆呆兽\n"
+	.string "之尾？\p"
+	.string "现在算你的话，只要¥1,000,\n"
+	.string "000！\p"
+	.string "你肯定很想买吧！$"
 
 Route32_Text_ThoughtKidsLoaded:
-	.string "Tch! I thought kids\n"
-	.string "these days were loaded…$"
+	.string "切！我还以为现在的小鬼都很有钱呢\n"
+	.string "......$"
 
 Route32_Text_RefusedSlowpokeTail:
-	.string "You don't want it?\n"
-	.string "Then scram. Shoo!$"
+	.string "不买？那就闪一边去。走走走！$"
 
 Route32_Text_FisherJustin_Seen:
-	.string "Whoa!\p"
-	.string "You made me lose that fish!$"
+	.string "哇啊！\p"
+	.string "你害我把上钩的鱼放跑了！$"
 
 Route32_Text_FisherJustin_Beaten:
-	.string "Sploosh!$"
+	.string "噗通！$"
 
 Route32_Text_FisherJustin_After:
-	.string "Calm, collected… The essence of\n"
-	.string "fishing and POKéMON is the same.$"
+	.string "沉着、冷静......钓鱼和宝可\n"
+	.string "梦对战的精髓是相通的。$"
 
 Route32_Text_FisherRalph1_Seen:
-	.string "I'm really good at both\n"
-	.string "fishing and POKéMON.\p"
-	.string "I'm not about to lose to any kid!$"
+	.string "不管是钓鱼还是宝可梦对战，我都非\n"
+	.string "常拿手。\p"
+	.string "我才不会输给毛头小孩呢！$"
 
 Route32_Text_FisherRalph1_Beaten:
-	.string "Tch! I tried to rush\n"
-	.string "things…$"
+	.string "切！太操之过急了......$"
 
 Route32_Text_FisherRalph1_After:
-	.string "Fishing is a lifelong\n"
-	.string "passion.\p"
-	.string "POKéMON are lifelong friends!$"
+	.string "钓鱼是一生的热爱。\p"
+	.string "宝可梦是一生的挚友！$"
 
 Route32_Text_RalphRegister:
-	.string "Fishing is a lifelong\n"
-	.string "passion.\p"
-	.string "POKéMON are lifelong friends!$"
+	.string "钓鱼是一生的热爱。\p"
+	.string "宝可梦是一生的挚友！$"
 
 Route32_Text_RalphRematchIntro:
-	.string "I'm really good at both\n"
-	.string "fishing and POKéMON.\p"
-	.string "I'm not about to lose to any kid!$"
+	.string "不管是钓鱼还是宝可梦对战，我都非\n"
+	.string "常拿手。\p"
+	.string "我才不会输给毛头小孩呢！$"
 
 Route32_Text_RalphRematchDefeat:
-	.string "Tch! I tried to rush\n"
-	.string "things…$"
+	.string "切！太操之过急了......$"
 
 Route32_Text_RalphPostRematch:
-	.string "Fishing is a lifelong\n"
-	.string "passion.\p"
-	.string "POKéMON are lifelong friends!$"
+	.string "钓鱼是一生的热爱。\p"
+	.string "宝可梦是一生的挚友！$"
 
 Route32_Text_FisherHenry_Seen:
-	.string "My POKéMON? Freshly caught!$"
+	.string "我的宝可梦？刚钓上来的！$"
 
 Route32_Text_FisherHenry_Beaten:
-	.string "SPLASH?$"
+	.string "跃起？！$"
 
 Route32_Text_FisherHenry_After:
 	.string "Freshly caught POKéMON are\n"
@@ -469,31 +462,30 @@ Route32_Text_YoungsterAlbert_Seen:
 	.string "So you think you are pretty tough?$"
 
 Route32_Text_YoungsterAlbert_Beaten:
-	.string "You're strong!$"
+	.string "你好强！$"
 
 Route32_Text_YoungsterAlbert_After:
-	.string "I'm going to try to be the\n"
-	.string "best with my favorites.\p"
-	.string "I'm not using the same tough\n"
-	.string "POKéMON as everyone else.$"
+	.string "我要带着自己最喜欢的宝可梦争当第\n"
+	.string "一。\p"
+	.string "我才不要和大家一样用那些千篇一律\n"
+	.string "的强力宝可梦呢。$"
 
 Route32_Text_YoungsterGordon_Seen:
-	.string "I found some good POKéMON\n"
-	.string "in the grass!\p"
-	.string "I think they'll do it for me!$"
+	.string "我在草丛里抓到了挺不错的宝可梦！\p"
+	.string "我觉得有它们在一定没问题！$"
 
 Route32_Text_YoungsterGordon_Beaten:
-	.string "Darn. I thought I could win.$"
+	.string "可恶，我还以为能赢的。$"
 
 Route32_Text_YoungsterGordon_After:
-	.string "The grass is full of\n"
-	.string "clingy things.$"
+	.string "草丛里粘了好多甩不掉的草刺。$"
 
 Route32_Text_CamperRoland_Seen:
-	.string "That glance… It's intriguing.$"
+	.string "刚才那个眼神......真让人在\n"
+	.string "意啊。$"
 
 Route32_Text_CamperRoland_Beaten:
-	.string "Hmmm. This is disappointing.$"
+	.string "唔......真让人扫兴。$"
 
 Route32_Text_CamperRoland_After:
 	.string "If you don't want to battle,\n"
@@ -505,14 +497,13 @@ Route32_Text_PicnickerLiz1_Seen:
 	.string "Oh, all right. But make it fast.$"
 
 Route32_Text_PicnickerLiz1_Beaten:
-	.string "Oh! I've got to relieve\n"
-	.string "my anger!$"
+	.string "哎呀！气死我了，我得发泄一下！$"
 
 Route32_Text_PicnickerLiz1_After:
-	.string "I was having a nice chat too.$"
+	.string "我刚才明明聊得很开心呢。$"
 
 Route32_Text_LizRegister:
-	.string "I was having a nice chat too.$"
+	.string "我刚才明明聊得很开心呢。$"
 
 Route32_Text_LizRematchIntro:
 	.string "Uh-huh. Yeah, and you know…\p"
@@ -520,22 +511,20 @@ Route32_Text_LizRematchIntro:
 	.string "Oh, all right. But make it fast.$"
 
 Route32_Text_LizRematchDefeat:
-	.string "Oh! I've got to relieve\n"
-	.string "my anger!$"
+	.string "哎呀！气死我了，我得发泄一下！$"
 
 Route32_Text_LizPostRematch:
-	.string "I was having a nice chat too.$"
+	.string "我刚才明明聊得很开心呢。$"
 
 Route32_Text_BirdKeeperPeter_Seen:
 	.string "That BADGE! It's from VIOLET CITY!\n"
 	.string "You beat FALKNER?$"
 
 Route32_Text_BirdKeeperPeter_Beaten:
-	.string "I know what my weaknesses are.$"
+	.string "我知道自己的弱点在哪了。$"
 
 Route32_Text_BirdKeeperPeter_After:
-	.string "I should train again at the\n"
-	.string "GYM in VIOLET CITY.$"
+	.string "我应该回桔梗市的道馆重新修行了。$"
 
 Route32_Text_RoarIntro:
 	.string "WROOOOAR! PEOPLE RUN WHEN I\n"
@@ -558,31 +547,27 @@ Route32_Text_FriedaGivesGift:
 	.string "Here's a POISON BARB for you!$"
 
 Route32_Text_FriedaGaveGift:
-	.string "FRIEDA: Give it to a POKéMON\n"
-	.string "that has POISON-type moves.\p"
-	.string "Oh!\p"
-	.string "It's wicked!\p"
-	.string "You'll be shocked how good it\n"
-	.string "makes poison moves!$"
+	.string "金美：让学会毒属性招式的宝可梦携\n"
+	.string "带吧。\p"
+	.string "哇！\p"
+	.string "超厉害的！\p"
+	.string "毒属性招式的威力会强到让你大吃一\n"
+	.string "惊哦！$"
 
 Route32_Text_FriedaFriday:
-	.string "FRIEDA: Hiya! What day do\n"
-	.string "you like?\p"
-	.string "I love Friday. No doubt about\n"
-	.string "it!\p"
-	.string "Don't you think it's great too?$"
+	.string "金美：嗨！你喜欢星期几？\p"
+	.string "我最喜欢星期五了！毫无疑问！\p"
+	.string "你不觉得星期五很棒吗？$"
 
 Route32_Text_FriedaNope:
-	.string "FRIEDA: Not that one!$"
+	.string "金美：不是那个啦！$"
 
 Route32_Text_Sign1:
-	.string "ROUTE 32\p"
-	.string "VIOLET CITY - AZALEA TOWN$"
+	.string "32号道路\p"
+	.string "桔梗市 - 桧皮镇$"
 
 Route32_Text_Sign2:
-	.string "RUINS OF ALPH\n"
-	.string "EAST ENTRANCE$"
+	.string "阿露福遗迹东侧入口$"
 
 Route32_Text_Sign3:
-	.string "UNION CAVE\n"
-	.string "AHEAD$"
+	.string "前方是互连洞$"

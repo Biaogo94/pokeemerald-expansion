@@ -16,11 +16,10 @@ BlackthornCity_House1EventScript_Dratini::
 	end
 
 BlackthornCity_House1_Text_Granny:
-	.string "A clan of trainers who can freely\n"
-	.string "command dragons live right here in\l"
-	.string "BLACKTHORN.\p"
-	.string "As a result, there are many legends\n"
-	.string "about dragons in this town.$"
+	.string "能够随心驾驭巨龙的一族，就生活在\n"
+	.string "烟墨市。\p"
+	.string "因此，这座城镇里流传着许多与龙相\n"
+	.string "关的传说。$"
 
 BlackthornCity_House1_Text_Dratini:
-	.string "DRATINI: Draa!$"
+	.string "迷你龙：咪呜--！$"

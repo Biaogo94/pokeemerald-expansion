@@ -35,27 +35,30 @@ VioletCity_House1_EventScript_TradeCompleted::
 	end
 
 VioletCity_House1_Text_YouWillTradeWontYou:
-	.string "I collect POKéMON!\n"
-	.string "Do you have a {STR_VAR_1}?\p"
-	.string "Want to trade it for my\n"
-	.string "{STR_VAR_2}?$"
+	.string "我正在收集宝可梦！你有\n"
+	.string "{STR_VAR_1}吗？\p"
+	.string "想用它来交换我的\n"
+	.string "{STR_VAR_2}吗？$"
 
 VioletCity_House1_Text_MonYouTakeCare:
-	.string "Yay! I got myself {STR_VAR_1}!\p"
-	.string "{STR_VAR_2}, you take care!$"
+	.string "太好啦！我得到\n"
+	.string "{STR_VAR_1}了！\p"
+	.string "{STR_VAR_2}，你要保重\n"
+	.string "哦！$"
 
 VioletCity_House1_Text_ThisIsntAMon:
-	.string "Uh, no, I don't think so.\n"
-	.string "That isn't a {STR_VAR_1}.$"
+	.string "呃，不对吧。这并不是\n"
+	.string "{STR_VAR_1}啊。$"
 
 VioletCity_House1_Text_YouWontTradeMe:
-	.string "You don't want to trade? Aww...$"
+	.string "不想交换吗？好吧......$"
 
 VioletCity_House1_Text_After:
-	.string "Hi, how's my old ONIX doing?$"
+	.string "嗨，之前换给你的大岩蛇过得怎么样\n"
+	.string "？$"
 
 VioletCity_House1_Text_PokefanM:
-	.string "A POKéMON you get in a trade\n"
-	.string "grows quickly.\p"
-	.string "But if you don't have the right\n"
-	.string "GYM BADGE, they may disobey you.$"
+	.string "通过交换得到的宝可梦成长得非常快\n"
+	.string "。\p"
+	.string "但要是没有对应的道馆徽章，它们可\n"
+	.string "能就不会听话哦。$"

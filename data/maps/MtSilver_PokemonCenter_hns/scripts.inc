@@ -88,5 +88,5 @@ MtSilver_PokemonCenter_Text_Prompt:
 	.string "explore it for more artifacts?$"
 
 MtSilver_PokemonCenter_Text_Meara3:
-	.string "Ready to search for more artifacts?$"
+	.string "准备好去寻找更多遗物了吗？$"
 

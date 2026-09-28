@@ -36,39 +36,35 @@ NewSinjoh_House1_EventScript_GiveWooperPaldea::
     end
 
 NewSinjoh_House1_Text_Looking4Celebi:
-    .string "Hey there, Trainer!\p"
-	.string "You came all the way from\n"
-	.string "NEW BARK TOWN?\p"
-	.string "I have a request for someone as\n"
-	.string "well traveled as you are.\l"
-	.string "You see, my favorite POKEMON in the\l"
-	.string "whole world just so happens to be\l"
-	.string "the mythical POKEMON known as CELEBI.\p"
-	.string "If you happen to have one, would\n"
-	.string "you mind showing it to me?$"
+    .string "训练家，你好呀！\p"
+    .string "你是一路从若叶镇远道而来的吗？\p"
+    .string "我有件事想拜托像你这样见多识广的\n"
+    .string "旅行者。其实呢，我在这世界上最喜\l"
+    .string "欢的宝可梦，正好就是被称为幻之宝\l"
+    .string "可梦的时拉比。\p"
+    .string "如果你正好收服了它，能不能借我瞧\n"
+    .string "一眼呢？$"
 
 NewSinjoh_House1_Text_NicePokemonButNotCelebi:
-    .string "That's a very wonderful POKEMON\n"
-	.string "you have there but that's\l"
-	.string "not exactly what I was looking for..$"
+    .string "你的这只宝可梦真是太棒了，不过这\n"
+    .string "并不是我想见的那一只呢.....\l"
+    .string ".$"
 
 NewSinjoh_House1_OffersWooper:
-    .string "That's it! That's a real living CELEBI!!\p"
-	.string "Thank you show much for bringing it\n"
-	.string "all the way up north for me to see.\p"
-    .string "Here, my girlfriend happened to\n"
-	.string "catch a few too many of these during\l"
-	.string "her trip to a far away region..\p"
-    .string "Please take this special WOOPER as\n"
-	.string "thanks, {PLAYER}.$"
+    .string "就是它！是活生生的时拉比！！\p"
+    .string "太感谢你了，居然特地把它带到遥远\n"
+    .string "的北方来给我看。\p"
+    .string "拿去吧，我女朋友去遥远地区旅行时\n"
+    .string "抓了太多这种宝可梦......\p"
+    .string "这个特别的乌波就送给你当做谢礼吧\n"
+    .string "，{PLAYER}。$"
 
 NewSinjoh_House1_Text_Decline:
-	.string "That's too bad. I really wanted\n"
-	.string "to see one.$"
+	.string "真遗憾啊。我真的很想亲眼见见它呢\n"
+	.string "。$"
 
 NewSinjoh_House1_Text_TakeCareOfWooper:
-    .string "Take good care of that WOOPER\n"
-	.string "for me okay?$"
+    .string "一定要替我好好照顾那只乌波哦？$"
 
 NewSinjoh_House1_EventScript_Elizabeth_AfterGift::
 	msgbox NewSinjoh_House1_Text_GoodToSeeYouAgain MSGBOX_DEFAULT
@@ -76,10 +72,8 @@ NewSinjoh_House1_EventScript_Elizabeth_AfterGift::
 	end
 
 NewSinjoh_House1_Text_GoodToSeeYouAgain:
-    .string "It's good to see you again,\n"
-	.string "{PLAYER}.\p"
-	.string "How have you been treating that\n"
-	.string "that WOOPER?$"
+    .string "又见面了呢，{PLAYER}。\p"
+    .string "你和那只乌波相处得怎么样了？$"
 
 NewSinjoh_House1_Bookshelf::
     lock
@@ -88,8 +82,7 @@ NewSinjoh_House1_Bookshelf::
 	end
 
 NewSinjoh_House1_Bookshelf_Text:
-    .string "It's a shelf packed full of\n"
-	.string "computer games and graphic novels!$"
+    .string "书架上塞满了电脑游戏和漫画书！$"
 
 NewSinjoh_House1_Eevee::
     lock
@@ -102,4 +95,4 @@ NewSinjoh_House1_Eevee::
 	end
 
 NewSinjoh_House1_Text_Eevee_Cry:
-    .string "Vee Vee?$"
+    .string "咿--布？$"

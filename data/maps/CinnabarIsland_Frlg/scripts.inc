@@ -402,13 +402,12 @@ CinnabarIsland_Text_MyPalsBoatArrived::
 	.string "他是特意来红莲镇接我的。$"
 
 CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain::
-	.string "Hey, wasn't that a long cruise?\p"
-	.string "My buddy CELIO seemed to enjoy\n"
-	.string "your company.\p"
-	.string "I'm sure he'd welcome you if you\n"
-	.string "were to visit him again.\p"
-	.string "If you have a TRI-PASS, you can\n"
-	.string "always take a ferry there from\l"
-	.string "VERMILION PORT.\p"
-	.string "All right, thanks for your company!$"
+	.string "嘿，航程还挺长的吧？\p"
+	.string "我的好哥们锦辉好像很喜欢有你作伴\n"
+	.string "呢。\p"
+	.string "要是你再去拜访他，他肯定会很欢迎\n"
+	.string "你的。\p"
+	.string "只要你有三岛通行证，随时都能从枯\n"
+	.string "叶港搭乘轮渡过去。\p"
+	.string "好啦，谢谢你陪我跑这一趟！$"
 

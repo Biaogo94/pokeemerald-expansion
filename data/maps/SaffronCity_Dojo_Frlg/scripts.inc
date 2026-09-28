@@ -224,8 +224,8 @@ SaffronCity_Dojo_Text_YouWantHitmonchan::
 	.string "你想要这只擅长拳击的快拳郎？$"
 
 SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster2::
-	.string "{PLAYER}は　カラテ　だいおう　から\n"
-	.string "{STR_VAR_1}を　もらった！$"
+	.string "{PLAYER}从空手道大王那里\n"
+	.string "得到了{STR_VAR_1}！$"
 
 SaffronCity_Dojo_Text_BetterNotGetGreedy::
 	.string "不要贪心……$"

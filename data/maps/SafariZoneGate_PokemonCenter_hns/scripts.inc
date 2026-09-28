@@ -31,19 +31,19 @@ SafariZoneGate_PokemonCenter_Text_Boy::
 	end
 
 SafariZoneGate_PokemonCenter_Text_NPC1:
-	.string "Those who come to a POKéMON CENTER\n"
-	.string "often take good care of their POKéMON.\p"
-	.string "Wouldn't you agree?$"
+	.string "经常来宝可梦中心的人，往往都把自\n"
+	.string "己的宝可梦照顾得很好。\p"
+	.string "你觉得是不是这样？$"
 
 SafariZoneGate_PokemonCenter_Text_NPC2:
-	.string "After a long walk in the mountains to\n"
-	.string "find a POKéMON CENTER, when you're\l"
-	.string "just about to fall flat...\p"
-	.string "Then it feels like you are in paradise!$"
+	.string "在山路上走了好久，累得快要倒下时\n"
+	.string "，终于找到了宝可梦中心.....\l"
+	.string ".\p"
+	.string "那感觉就像来到了天堂一样！$"
 
 SafariZoneGate_PokemonCenter_Text_SafariSong:
-	.string "Safari, safari, it is so much fun.\n"
-	.string "Safari, safari, so interesting, huh!\p"
-	.string "So many POKéMON are waiting for us!\p"
-	.string "...That's a song I made up.\n"
-	.string "I sing it when I am in the SAFARI ZONE.$"
+	.string "狩猎、狩猎，真好玩~~狩猎、狩猎\n"
+	.string "，真有趣呀~~\p"
+	.string "好多宝可梦都在等着我们！\p"
+	.string "......这是我自己编的歌。来\n"
+	.string "狩猎地带的时候我就会唱呢。$"

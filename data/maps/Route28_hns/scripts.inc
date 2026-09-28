@@ -16,7 +16,7 @@ Route28_EventScript_Item_Flamethrower::
     end
 
 Route28_Text_Sign:
-	.string "ROUTE 28$"
+	.string "28号道路$"
 
 Route28_EventScript_Trigger_Scientist::
 	lock
@@ -72,19 +72,19 @@ Route28_Movement_ScientistLeave:
 	step_end
 
 Route28_Text_Scientist:
-	.string "Hiya, Boss.\p"
-	.string "Yes, I've found several artifacts,\n"
-	.string "but no sign of the AZURE FLUTE.\p"
-	.string "It may be inside the MOUNTAIN, but\n"
-	.string "the wild POKéMON here are strong,\l"
-	.string "and my team needs some rest...\p"
+	.string "喂，老大。\p"
+	.string "是的，我找到了几件遗物，但完全没\n"
+	.string "有天界之笛的踪影。\p"
+	.string "它可能在山里面，不过这里的野生宝\n"
+	.string "可梦实力很强，我的队伍需要休息一\l"
+	.string "下......\p"
 	.string "..................\p"
-	.string "You're breaking up...\l"
-	.string "Boss....?\p"
-	.string "I'm going to the POKéMON CENTER.\p"
-	.string "I'll call back if I find the FLUTE.$"
+	.string "听不清你在说什么......老大\n"
+	.string "......？\p"
+	.string "我要去一趟宝可梦中心。\p"
+	.string "等我找到笛子再打给您。$"
 
 Route28_Text_Scientist2:
-	.string ".......CLICK\p"
-	.string "The signal in SINJOH sucks...$"
+	.string "......嘟--\p"
+	.string "神都的信号真是烂透了......$"
 

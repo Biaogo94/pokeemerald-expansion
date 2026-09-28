@@ -36,44 +36,36 @@ Route33_EventScript_Lass::
 	end
 
 Route33_Text_HikerAnthony2Seen:
-	.string "I came through the tunnel,\n"
-	.string "but I still have plenty\l"
-	.string "of energy left.$"
+	.string "我一路穿过隧道走过来，但还是精力\n"
+	.string "充沛呢！$"
 
 Route33_Text_HikerAnthony2Beaten:
-	.string "Whoa! You've got more zip\n"
-	.string "than me!$"
+	.string "哇！你比我还要有干劲啊！$"
 
 Route33_Text_HikerAnthony2After:
-	.string "We HIKERS are at our best\n"
-	.string "in the mountains.$"
+	.string "我们登山男在山里可是最精神的！$"
 
 Route33_Text_AnthonyRegister:
-	.string "We HIKERS are at our best\n"
-	.string "in the mountains.$"
+	.string "我们登山男在山里可是最精神的！$"
 
 Route33_Text_AnthonyRematchIntro:
-	.string "I came through the tunnel,\n"
-	.string "but I still have plenty\l"
-	.string "of energy left.$"
+	.string "我一路穿过隧道走过来，但还是精力\n"
+	.string "充沛呢！$"
 
 Route33_Text_AnthonyRematchDefeat:
-	.string "Whoa! You've got more zip\n"
-	.string "than me!$"
+	.string "哇！你比我还要有干劲啊！$"
 
 Route33_Text_AnthonyPostRematch:
-	.string "We HIKERS are at our best\n"
-	.string "in the mountains.$"
+	.string "我们登山男在山里可是最精神的！$"
 
 Route33_Text_HikerAnthonyDunsparce:
-	.string "Hey, did you get a DUNSPARCE?\p"
-	.string "I caught one too.\p"
-	.string "Take a look at it in the light.\n"
-	.string "It's got a funny face!$"
+	.string "嘿，你抓到土龙弟弟了吗？\p"
+	.string "我也抓到了一只。\p"
+	.string "放到光亮的地方看看吧。它的长相可\n"
+	.string "搞笑了！$"
 
 Route33_Text_Lass:
-	.string "Pant, pant…\p"
-	.string "That cave was bigger than\n"
-	.string "I'd expected.\p"
-	.string "I got too tired exploring\n"
-	.string "for MARILL, so I came outside.$"
+	.string "呼，呼......\p"
+	.string "那个洞窟比我想象的还要大。\p"
+	.string "为了找玛力露探险累得够呛，所以我\n"
+	.string "就先出来了。$"

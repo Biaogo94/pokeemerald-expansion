@@ -118,12 +118,12 @@ EcruteakCity_Movement_Silver2:
 	step_end
 
 EcruteakCity_Text_Silver1:
-	.string "THUD!!$"
+	.string "咚！！$"
 
 EcruteakCity_Text_Silver2:
-	.string "{RIVAL}: How...? How is this\n"
-	.string "possible? How can I lose to mere\l"
-	.string "KIMONO GIRLS...?$"
+	.string "{RIVAL}：怎么会.....\n"
+	.string ".？这怎么可能？我怎么可能会输给\l"
+	.string "区区的舞姬......？！$"
 
 EcruteakCity_Text_Silver3:
 	.string "{RIVAL}: You were watching me,\n"
@@ -281,10 +281,10 @@ EcruteakCity_EventScript_Item_RareCandy::
 	end
 
 EcruteakCity_Text_Eevee:
-	.string "EEVEE: Veee!$"
+	.string "伊布：布咿！$"
 
 EcruteakCity_Text_Vulpix:
-	.string "VULPIX: Vullll Pix!$"
+	.string "六尾：呜呜--尾！$"
 
 
 EcruteakCity_Text_UnusedMissingDaughter:
@@ -312,10 +312,9 @@ EcruteakCity_Text_Lass1:
 	.string "THEATER. Care to join me?$"
 
 EcruteakCity_Text_Lass2:
-	.string "The tower that used to be here…\p"
-	.string "My grandma told me it used to be\n"
-	.string "much taller.\p"
-	.string "I hear there are ghosts in it now.$"
+	.string "曾经伫立在这里的塔......\p"
+	.string "我奶奶说它过去可比现在高多了。\p"
+	.string "听说现在里面到处都是幽灵呢。$"
 
 EcruteakCity_Text_Lass2_ReleasedBeasts:
 	.string "Three big POKéMON ran off in different\n"
@@ -361,13 +360,12 @@ EcruteakCity_Text_Sign:
 	.string "Where the Past Meets the Present$"
 
 EcruteakCity_Text_TinTowerSign:
-	.string "TIN TOWER\p"
-	.string "A legendary POKéMON is said to\n"
-	.string "roost here.$"
+	.string "铃铛塔\p"
+	.string "相传有传说的宝可梦栖息于此。$"
 
 EcruteakCity_Text_OfficeSign:
-	.string "Barrier Station to TIN TOWER\p"
-	.string "No Trespassing by the Unworthy.$"
+	.string "铃铛塔关卡\p"
+	.string "无资格者严禁入内。$"
 
 EcruteakCity_Text_GymSign:
 	.string "ECRUTEAK CITY POKéMON GYM\n"
@@ -375,10 +373,9 @@ EcruteakCity_Text_GymSign:
 	.string "The Mystic Seer of the Future$"
 
 EcruteakCity_Text_DanceTheaterSign:
-	.string "ECRUTEAK DANCE THEATER$"
+	.string "圆朱歌舞剧场$"
 
 EcruteakCity_Text_BurnedTowerSign:
-	.string "BURNED TOWER\p"
-	.string "It was destroyed by a mysterious\n"
-	.string "fire.\p"
-	.string "Please stay away, as it is unsafe.$"
+	.string "烧焦塔\p"
+	.string "因一场神秘的大火而烧毁。\p"
+	.string "此处危险，请勿靠近。$"

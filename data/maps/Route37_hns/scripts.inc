@@ -81,8 +81,7 @@ Route37_EventScript_Sign::
 	end
 
 Route37_Text_TwinsAnnAndAnne1_Seen:
-	.string "ANN: ANNE and I are in this\n"
-	.string "together!$"
+	.string "安：我和安妮可是齐心协力的！$"
 
 Route37_Text_TwinsAnnAndAnne1_Beaten:
 	.string "ANN & ANNE: Nnn… A little too\n"
@@ -93,8 +92,7 @@ Route37_Text_TwinsAnnAndAnne1_After:
 	.string "my POKéMON are thinking.$"
 
 Route37_Text_TwinsAnnAndAnne2_Seen:
-	.string "ANNE: ANN and I are in this\n"
-	.string "together!$"
+	.string "安妮：我和安可是齐心协力的！$"
 
 Route37_Text_TwinsAnnAndAnne2_Beaten:
 	.string "ANN & ANNE: Nnn… A little too\n"
@@ -105,12 +103,12 @@ Route37_Text_TwinsAnnAndAnne2_After:
 	.string "our POKéMON.$"
 
 Route37_Text_PsychicGreg_Seen:
-	.string "POKéMON can't do a thing if they are\n"
-	.string "asleep.\p"
-	.string "I'll show you how scary that is!$"
+	.string "宝可梦睡着之后就什么也做不了。\p"
+	.string "就让我来让你见识见识这有多可怕吧\n"
+	.string "！$"
 
 Route37_Text_PsychicGreg_Beaten:
-	.string "I lost. That's pretty sad…$"
+	.string "我输了。好难过啊......$"
 
 Route37_Text_PsychicGreg_After:
 	.string "Putting POKéMON to sleep or paralyz-\n"

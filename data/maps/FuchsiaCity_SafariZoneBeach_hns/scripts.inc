@@ -73,4 +73,4 @@ SafariZoneFuchsia_Text_Attendant3:
 	.string "SAFARI LEVEL 4.$"
 
 SafariZoneFuchsia_Text_Approved:
-	.string "Go right ahead.$"
+	.string "请进吧。$"

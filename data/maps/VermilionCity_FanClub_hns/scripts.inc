@@ -124,8 +124,8 @@ PokemonFanClub_Text_Chairman_MoreTales:
 	.string "tell…$"
 
 PokemonFanClub_Text_Chairman_Disappointed:
-	.string "How disappointing…\p"
-	.string "Come back if you want to listen.$"
+	.string "真令人失望......\p"
+	.string "想听的时候随时再来找我吧。$"
 
 PokemonFanClub_Text_Receptionist:
 	.string "Our CHAIRMAN is very vocal when\n"
@@ -159,16 +159,15 @@ PokemonFanClub_Text_ClefairyGuy_GoingToGetOne:
 @============================================================================================================================
 
 PokemonFanClub_Text_Teacher:
-	.string "Look at my darling BAYLEEF!\p"
-	.string "The leaf on its head is so cute!$"
+	.string "看看我心爱的月桂叶！\p"
+	.string "它头上的那片叶子实在太可爱啦！$"
 
 PokemonFanClub_Text_ClefairyDoll:
-	.string "It's a CLEFAIRY! Huh?\p"
-	.string "Oh, right. It's a CLEFAIRY POKé\n"
-	.string "DOLL.$"
+	.string "是一只皮皮！咦？\p"
+	.string "啊，对了。原来只是个皮皮玩偶啊。$"
 
 PokemonFanClub_Text_Bayleef:
-	.string "BAYLEEF: Li liif!$"
+	.string "月桂叶：哩哩--！$"
 
 PokemonFanClub_Text_Listen:
 	.string "Let's all listen politely to\n"

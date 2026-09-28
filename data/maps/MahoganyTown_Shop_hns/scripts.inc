@@ -233,7 +233,7 @@ MahoganyTown_Shop_Text_Granny:
 	.string "right now.$"
 
 MahoganyMart1F_Text_Pharmacist_Lance:
-    .string "ROCKETS have hijacked my basement!$"
+    .string "火箭队霸占了我的地下室！$"
 
 MahoganyMart1F_Text_BlackBelt:
     .string "Heheh! The experi- ment worked like\n"
@@ -242,11 +242,11 @@ MahoganyMart1F_Text_BlackBelt:
     .string "GYARADOS are big moneymakers.$"
 
 MahoganyMart1F_Text_BlackBelt_Lance:
-    .string "Urrgh…\p"
-    .string "That guy's POKéMON are tough…$"
+    .string "唔呃......\p"
+    .string "那家伙的宝可梦太强了......$"
 
 MahoganyMart1F_Text_Lance_HyperBeam:
-    .string "LANCE: DRAGONITE, HYPER BEAM.$"
+    .string "阿渡：快龙，破坏光线。$"
 
 MahoganyMart1F_Text_Lance_Radio:
     .string "What took you, {PLAYER}?\p"

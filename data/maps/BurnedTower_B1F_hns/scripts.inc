@@ -184,22 +184,20 @@ BurnedTower_B1F_Movement_EusineLeave:
 	step_end
 
 BurnedTowerB1FEusineText:
-	.string "EUSINE: I'm shocked!\p"
-	.string "SUICUNE raced by like a blur,\n"
-	.string "right in front of my eyes!\p"
-	.string "For ten years I chased\n"
-	.string "SUICUNE, and I finally got to\l"
-	.string "see it.\p"
-	.string "I'm all choked up!\p"
-	.string "{PLAYER}, I owe this all to you!\p"
-	.string "Thank you!\p"
-	.string "I heard that the legendary\n"
-	.string "POKéMON of ECRUTEAK test\l"
-	.string "chosen humans by allowing them\l"
-	.string "to get close.\p"
-	.string "I'm going to track SUICUNE.\p"
-	.string "{PLAYER}, let's meet again!\p"
-	.string "Farewell!$"
+	.string "米纳君：太令人震惊了！\p"
+	.string "水君像一道幻影一样，从我眼前飞奔\n"
+	.string "而过！\p"
+	.string "我追寻了水君整整十年，终于亲眼见\n"
+	.string "到它了。\p"
+	.string "我感动得都快哽咽了！\p"
+	.string "{PLAYER}，这一切都多亏了\n"
+	.string "你！\p"
+	.string "真是太感谢你了！\p"
+	.string "我听说圆朱市的传说的宝可梦，会通\n"
+	.string "过允许接近来考验被选中的人类。\p"
+	.string "我这就去追随水君的踪迹。\p"
+	.string "{PLAYER}，我们后会有期！\p"
+	.string "再见！$"
 
 
 BurnedTower_B1F_EventScript_Item_Taunt::

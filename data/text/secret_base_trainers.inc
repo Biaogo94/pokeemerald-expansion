@@ -76,10 +76,9 @@ SecretBase_Text_Trainer1PreChampion:
 	.string "！$"
 
 SecretBase_Text_Trainer6Intro:
-	.string "Welcome to my POKéMON LAB.\p"
-	.string "I carry out research on battling in\n"
-	.string "secrecy.\p"
-	.string "Would you like to see how strong I am?$"
+	.string "欢迎来到我的宝可梦研究所。\p"
+	.string "我正在秘密进行对战研究。\p"
+	.string "想见识一下我有多强吗？$"
 
 SecretBase_Text_Trainer6AcceptBattle:
 	.string "我会全力以赴的！$"
@@ -95,9 +94,8 @@ SecretBase_Text_Trainer6PostBattle:
 	.string "谢谢你和我对战，明天也来玩吧。$"
 
 SecretBase_Text_Trainer6PreChampion:
-	.string "Welcome to my POKéMON LAB.\p"
-	.string "I carry out research on battling in\n"
-	.string "secrecy.$"
+	.string "欢迎来到我的宝可梦研究所。\p"
+	.string "我正在秘密进行对战研究。$"
 
 SecretBase_Text_Trainer2Intro:
 	.string "拥有一座宅邸当然好，但我更喜欢这\n"

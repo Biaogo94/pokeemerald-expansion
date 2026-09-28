@@ -17,10 +17,9 @@ Alola_Melemele_Pokecenter_EventScript_Swimmer::
 	end
 
 Alola_Melemele_Pokecenter_Text_Swimmer:
-	.string "Ah, it's so hard to keep these\n"
-	.string "isles straight!\p"
-	.string "I always seem to mix them up!\p"
-	.string "Thank goodness for this map!$"
+	.string "哎呀，这些岛屿真是让人分不清！\p"
+	.string "我总是会把它们搞混！\p"
+	.string "多亏有这张地图在！$"
 
 Alola_Melemele_Pokecenter_Map::
 	lockall
@@ -70,16 +69,16 @@ Alola_Melemele_Pokecenter_BugCatcher_Movement_0:
 	step_end
 
 Alola_Melemele_Pokecenter_AceTrainer_Text_0:
-	.string "There are so many unique POKéMON here!\n"
-	.string "I'm gonna catch 'em all!$"
+	.string "这里有好多特别的宝可梦！我要把它\n"
+	.string "们全部收服！$"
 
 Alola_Melemele_Pokecenter_BugCatcher_Text_0:
-	.string "I found some brand new POKéMON\n"
-	.string "here on the ISLES!\p"
-	.string "Like my new friend RATTATA here!$"
+	.string "我在群岛上发现了一些全新的宝可梦\n"
+	.string "！\p"
+	.string "比如我的新朋友--这只小拉达！$"
 
 Alola_Melemele_Pokecenter_Grubbin_Text_0:
-	.string "Grrr!$"
+	.string "咕噜噜！$"
 
 
 @ Jessica's Paldean Tauros trade. Which Tauros she offers depends on the
@@ -153,20 +152,20 @@ Alola_Melemele_Pokecenter_Jessica_TradeCompleted::
 	end
 
 Alola_Melemele_Pokecenter_Jessica_Text_WantToTrade:
-	.string "The {STR_VAR_2} out here aren't like\n"
-	.string "the ones on the mainland.\p"
-	.string "Want to trade for my {STR_VAR_2}?$"
+	.string "这里的{STR_VAR_2}和大\n"
+	.string "陆上的不大一样。\p"
+	.string "想拿你的宝可梦来换我的\n"
+	.string "{STR_VAR_2}吗？$"
 
 Alola_Melemele_Pokecenter_Jessica_Text_TakeCare:
-	.string "Thanks!\n"
-	.string "TORY, you take care!$"
+	.string "谢谢你！托里，你要多保重啊！$"
 
 Alola_Melemele_Pokecenter_Jessica_Text_DeclineTrade:
-	.string "You don't want to trade? Aww...$"
+	.string "不想交换吗？好吧......$"
 
 Alola_Melemele_Pokecenter_Jessica_Text_TradeCompleted:
-	.string "Hi, how's my old TORY doing?$"
+	.string "嗨，我的老托里过得怎么样？$"
 
 Alola_Melemele_Pokecenter_Map_Text_0:
-	.string "{PLAYER} took a closer look at the\n"
-	.string "ALOLA ISLES map.$"
+	.string "{PLAYER}仔细查看了阿罗拉\n"
+	.string "群岛的地图。$"

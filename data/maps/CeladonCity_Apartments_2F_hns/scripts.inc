@@ -15,20 +15,20 @@ CeladonCity_Apartments_2F_EventScript_Sign::
 	end
 
 CeladonMansion2F_Text_Computer:
-	.string "{PLAYER} turned on the PC.\p"
-	.string "…\p"
-	.string "Someone was in the middle of\n"
-	.string "composing an e-mail.\p"
-	.string "…I hope you'll come visit KANTO.\p"
-	.string "I think you'll be surprised at\n"
-	.string "how much things have changed here.\p"
-	.string "You'll also see many POKéMON that\n"
-	.string "aren't native to JOHTO.\p"
-	.string "To the PRODUCER\p"
-	.string "…$"
+	.string "{PLAYER}打开了电脑。\p"
+	.string "......\p"
+	.string "有人正在写一封电子邮件。\p"
+	.string "......真希望你能来关都看看\n"
+	.string "。\p"
+	.string "我想这里的巨大变化一定会让你大吃\n"
+	.string "一惊。\p"
+	.string "你还会看到许多城都地区没有的宝可\n"
+	.string "梦。\p"
+	.string "致 制作人\p"
+	.string "......$"
 
 CeladonMansion2F_Text_DevOfficeSign:
-	.string "HEART & SOUL DEVELOPMENT OFFICE$"
+	.string "心金・魂银 开发室$"
 
 CeladonMansion2F_EventScript_LilDill::
 	msgbox CeladonMansion2F_Text_LilDill, MSGBOX_NPC
@@ -55,19 +55,20 @@ CeladonMansion2F_EventScript_DaniRainbow::
     end
 
 CeladonMansion2F_Text_LilDill:
-	.string "Hi all, Patch 15--\p"
-	.string "Sorry, I mean...\p"
-	.string "Hi there, I'm the GAME DIRECTOR!\p"
-	.string "I built the maps, the tilesets, the\n"
-	.string "the scripts, and much more.\p"
-	.string "But I couldn't have done it without\n"
-	.string "the other devs and the playtesters.\p"
-	.string "Thank you for playing! I hope you've\n"
-	.string "enjoyed POKéMON HEART & SOUL.$"
+	.string "嗨大家好，补丁15--\p"
+	.string "抱歉，口误了......\p"
+	.string "你好呀，我是游戏总监！\p"
+	.string "地图、图块集、脚本以及许多内容都\n"
+	.string "是由我制作的。\p"
+	.string "但如果没有其他开发者和测试员的帮\n"
+	.string "助，我一个人是绝对完成不了的。\p"
+	.string "感谢你的游玩！希望你能喜欢《宝可\n"
+	.string "梦 心金・魂银》。$"
 
 CeladonMansion2F_Text_InfiniteBacon:
-	.string "We're working to rebuild this game\n"
-	.string "in pokeemerald expansion!$"
+	.string "我们正致力于在 pokeemer\n"
+	.string "ald expansion项目中\l"
+	.string "重构这款游戏！$"
 
 CeladonMansion2F_Text_TixoRebel:
 	.string "Have you heard of THE EGGENING?\n"
@@ -77,18 +78,18 @@ CeladonMansion2F_Text_TixoRebel:
 	.string "I developed the fix for it!$"
 
 CeladonMansion2F_Text_Phant:
-	.string "I love DEMAKES!\p"
-	.string "Have you played SWORD AND SHIELD\n"
-	.string "ULTIMATE PLUS - ENGLISH?\l"
-	.string "I translated it!\p"
-	.string "For my next DEMAKE, I think I'll\n"
-	.string "do ALOLA!$"
+	.string "我最喜欢降级移植版(DEMAKE\n"
+	.string ")了！\p"
+	.string "你玩过《宝可梦 剑/盾终极增强版\n"
+	.string " 英文版》吗？就是我翻译的哦！\p"
+	.string "至于下一个降级版，我想做阿罗拉地\n"
+	.string "区的！$"
 
 CeladonMansion2F_Text_Exclsior:
-	.string "I implemented the unique surfing\n"
-	.string "surfing sprites for each POKéMON!\p"
-	.string "Since the project is OPEN SOURCE,\n"
-	.string "you can add your own features too!$"
+	.string "我为每只宝可梦都实装了专属的冲浪\n"
+	.string "贴图！\p"
+	.string "因为这个项目是开源的，你也可以添\n"
+	.string "加属于你自己的功能哦！$"
 
 CeladonMansion2F_Text_DaniRaibow:
 	.string "Hi!\p"

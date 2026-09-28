@@ -46,10 +46,11 @@ MtMortar_1F_North_EventScript_Markus::
 	end
 
 MountMortar2_Text_PokemaniacMillerSeen:
-	.string "I'm not losing this time!$"
+	.string "这次我可不会输！$"
 
 MountMortar2_Text_PokemaniacMillerBeaten:
-	.string "I lost to some kid...?$"
+	.string "我居然输给了一个小鬼......\n"
+	.string "？$"
 
 MountMortar2_Text_PokemaniacMillerAfter:
 	.string "A while back, this karate dude\n"
@@ -61,11 +62,10 @@ MountMortar2_Text_PokemaniacMillerAfter:
 	.string "I wonder how he is?$"
 
 MountMortar2_Text_SupernerdMarkusSeen:
-	.string "Hey! HUGH!$"
+	.string "喂！修！$"
 
 MountMortar2_Text_SupernerdMarkusBeaten:
-	.string "I mistook you for someone\n"
-	.string "else…$"
+	.string "我认错人了......$"
 
 MountMortar2_Text_SupernerdMarkusAfter:
 	.string "I came to explore MT.MORTAR,\n"

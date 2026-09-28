@@ -110,35 +110,36 @@ VioletCity_PokemonCenter_Text_BookshelfWoman::
 
 
 VioletCity_PokeCenter_Text_ElmsAideFavor:
-	.string "{PLAYER}, long time, no see.\p"
-	.string "PROF.ELM asked me to find you.\p"
-	.string "He has another favor to ask.\p"
-	.string "Would you take the POKéMON EGG?$"
+	.string "{PLAYER}，好久不见。\p"
+	.string "空木博士让我来找你。\p"
+	.string "他还有一件事想拜托你。\p"
+	.string "你能收下这颗宝可梦的蛋吗？$"
 
 VioletCity_PokeCenter_Text_ElmsAideNoRoom:
-	.string "{PLAYER}, long time, no see.\p"
-	.string "PROF.ELM asked me to find you.\p"
-	.string "He has another favor to ask.\p"
-	.string "Would you take the POKéMON EGG?\p"
-	.string "Oh, wait... You need to make room\n"
-	.string "in your party first.$"
+	.string "{PLAYER}，好久不见。\p"
+	.string "空木博士让我来找你。\p"
+	.string "他还有一件事想拜托你。\p"
+	.string "你能收下这颗宝可梦的蛋吗？\p"
+	.string "啊，等等......你得先给同行\n"
+	.string "的队伍腾出空位才行。$"
 
 VioletCity_PokeCenter_Text_ElmsAideGiveEgg:
-	.string "We discovered that a POKéMON won't\n"
-	.string "hatch until it grows in the EGG.\p"
-	.string "It also has to be with other\n"
-	.string "active POKéMON to hatch.\p"
-	.string "{PLAYER}, you're the only person\n"
-	.string "we can rely on.$"
+	.string "我们发现，宝可梦在蛋里成长成熟之\n"
+	.string "前是不会孵化的。\p"
+	.string "而且似乎还要和有活力的宝可梦呆在\n"
+	.string "一起才会孵化出来。\p"
+	.string "{PLAYER}，我们能依靠的就\n"
+	.string "只有你了。$"
 
 VioletCity_PokeCenter_Text_ElmsAideGiveItem:
-	.string "Oh, and this might help when it hatches.$"
+	.string "噢，还有这个，孵化的时候也许能派\n"
+	.string "上用场。$"
 
 VioletCity_PokeCenter_Text_ElmsAideFullParty:
-	.string "Oh, no. You can't carry any more\n"
-	.string "POKéMON with you.\p"
-	.string "I'll wait here while you make\n"
-	.string "room for the EGG.$"
+	.string "哎呀，糟糕。你已经带不下更多宝可\n"
+	.string "梦了。\p"
+	.string "你先去给蛋腾出个位置吧，我在这里\n"
+	.string "等着你。$"
 
 VioletCity_PokeCenter_Text_ElmsAideEggToPC:
 	.string "Oh, but you can't carry any more\n"
@@ -147,7 +148,8 @@ VioletCity_PokeCenter_Text_ElmsAideEggToPC:
 	.string "BILL'S PC for you.$"
 
 VioletCity_PokeCenter_Text_ElmsAideRefuse:
-	.string "B-but… PROF.ELM asked for you…$"
+	.string "可、可是......空木博士有事\n"
+	.string "找你......$"
 
 VioletCity_PokeCenter_Text_BooksAreGreat:
 	.string "While my POKéMON are recovering\n"

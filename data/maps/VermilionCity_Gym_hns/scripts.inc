@@ -301,11 +301,11 @@ VermilionGym_Text_LtSurgeIntro:
 	.string "enemies in war!$"
 
 VermilionGym_Text_LtSurgeWinLoss:
-	.string "SURGE: Arrrgh! You are strong!\p"
-	.string "OK, kid. You get THUNDERBADGE!$"
+	.string "马志士：呃啊啊！实力真硬啊！\p"
+	.string "好吧，小鬼。这枚橙色徽章归你了！$"
 
 VermilionGym_Text_ReceivedThunderBadge:
-	.string "{PLAYER} received THUNDERBADGE.$"
+	.string "{PLAYER}获得了橙色徽章。$"
 
 VermilionGym_Text_ThunderBadgeInfo:
 	.string "SURGE: THUNDERBADGE increases\n"
@@ -329,9 +329,10 @@ VermilionGym_Text_LtSurgeThunderstone:
 
 
 VermilionGym_Text_LtSurgePostBattle:
-	.string "SURGE: Hey, kid! Still slugging\n"
-	.string "and chugging away?\p"
-	.string "My POKéMON and I are still at it!$"
+	.string "马志士：嘿，小鬼！还在继续奋勇向\n"
+	.string "前吗？\p"
+	.string "我和我的宝可梦也依然在全力操练着\n"
+	.string "呢！$"
 
 VermilionGym_Text_SurgeRematch:
 	.string "SURGE: So, you're now KANTO\n"
@@ -341,12 +342,12 @@ VermilionGym_Text_SurgeRematch:
 	.string "How about we have a go again?$"
 
 VermilionGym_Text_SurgeRematchDefeat:
-	.string "SURGE: Arrrgh! You're still just\n"
-	.string "as strong!$"
+	.string "马志士：哇啊啊！你果然还是那么厉\n"
+	.string "害啊！$"
 
 VermilionGym_Text_GentlemanGregorySeen:
-	.string "You're here to defeat LT.SURGE?\p"
-	.string "Not if I can help it!$"
+	.string "你是来打倒马志士馆长的？\p"
+	.string "有我在，你休想得逞！$"
 
 VermilionGym_Text_GentlemanGregoryBeaten:
 	.string "Sorry I failed you,\n"
@@ -357,30 +358,27 @@ VermilionGym_Text_GentlemanGregoryAfter:
 	.string "LT.SURGE saved my life.$"
 
 VermilionGym_Text_GuitaristVincentSeen:
-	.string "LT.SURGE recognized my potential\n"
-	.string "with electric POKéMON.\p"
-	.string "Think you can beat me?$"
+	.string "马志士长官认可了我使用电属性宝可\n"
+	.string "梦的潜力。\p"
+	.string "你觉得你能战胜我吗？$"
 
 VermilionGym_Text_GuitaristVincentBeaten:
-	.string "Ooh, how shocking!$"
+	.string "哎哟，电得我发麻！$"
 
 VermilionGym_Text_GuitaristVincentAfter:
-	.string "Mom told me not to quit my\n"
-	.string "day job, but what am I supposed\l"
-	.string "to do when I'm not finding\l"
-	.string "success there either?$"
+	.string "妈妈叫我别辞掉本职工作，但既然我\n"
+	.string "在那边也毫无起色，又能怎么办呢？$"
 
 VermilionGym_Text_JugglerHortonSeen:
-	.string "I'm going to take you down!\n"
-	.string "Prepare to be shocked!$"
+	.string "我要打倒你！准备好被电得麻酥酥的\n"
+	.string "吧！$"
 
 VermilionGym_Text_JugglerHortonBeaten:
-	.string "Gwaaah! I was overpowered…$"
+	.string "哇啊！被彻底压制了......$"
 
 VermilionGym_Text_JugglerHortonAfter:
-	.string "Don't get too comfortable about\n"
-	.string "beating me…\p"
-	.string "LT.SURGE is tough.$"
+	.string "赢了我可别太得意......\p"
+	.string "马志士馆主可是非常厉害的。$"
 
 VermilionCity_Gym_Text_GymGuyAdvice::
     .string "Yo!\n"
@@ -398,39 +396,31 @@ VermilionCity_Gym_Text_GymGuyAdvice::
     .string "be easy getting to him.$"
 
 VermilionCity_Gym_Text_GymGuyPostVictory::
-	.string "Whew! That was an electrifying\n"
-	.string "bout!\p"
-	.string "It sure made me nervous.$"
+	.string "呼！真是一场激动人心的战斗！\p"
+	.string "看得我都紧张死了。$"
 
 VermilionCity_Gym_Text_GymStatue::
-    .string "VERMILION POKéMON GYM\n"
-    .string "LEADER: LT. SURGE\p"
-	.string "WINNING TRAINERS:\n"
-	.string "BLUE, RED$"
+    .string "枯叶市宝可梦道馆馆主：马志士\p"
+    .string "获胜训练家：青绿、赤红$"
 
 
 VermilionCity_Gym_Text_GymStatuePlayerWon::
-    .string "VERMILION POKéMON GYM\n"
-    .string "LEADER: LT. SURGE\p"
-    .string "WINNING TRAINERS:\n"
-    .string "BLUE, RED, {PLAYER}$"
+    .string "枯叶市宝可梦道馆馆主：马志士\p"
+    .string "获胜训练家：青绿、赤红、\n"
+    .string "{PLAYER}$"
 
 VermilionCity_Gym_Text_NopeOnlyTrashHere::
-    .string "Nope!\n"
-    .string "There's only trash here.$"
+    .string "不对！这里只有垃圾。$"
 
 VermilionCity_Gym_Text_SwitchUnderTrashFirstLockOpened::
-    .string "Hey! There's a switch under the\n"
-    .string "trash! Turn it on!\p"
-    .string "The first electric lock opened!$"
+    .string "嘿！垃圾桶底下有个开关！按下去！\p"
+    .string "第1道电子锁打开了！$"
 
 VermilionCity_Gym_Text_SecondLockOpened::
-    .string "The second electric lock opened!\n"
-    .string "The motorized door opened!$"
+    .string "第2道电子锁打开了！电动门开启了\n"
+    .string "！$"
 
 VermilionCity_Gym_Text_OnlyTrashLocksWereReset::
-    .string "Nope!\n"
-    .string "There's only trash here.\p"
-    .string "Hey!\n"
-    .string "The electric locks were reset!$"
+    .string "不对！这里只有垃圾。\p"
+    .string "哎呀！电子锁被重置了！$"
 

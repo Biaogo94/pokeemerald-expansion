@@ -25,10 +25,9 @@ ViridianCity_Text_OakName:
 	.string "大木$"
 
 ViridianCity_Text_OakCall:
-	.string "OAK: Ah, {PLAYER}!\p"
-	.string "Come and see my at my\n"
-	.string "LAB in PALLET TOWN\l"
-	.string "when you get the chance.$"
+	.string "大木博士：啊，{PLAYER}！\p"
+	.string "你有空的时候，请来一趟真新镇的研\n"
+	.string "究所吧。$"
 
 ViridianCity_EventScript_Gramps::
 	lock
@@ -83,77 +82,77 @@ ViridianCity_EventScript_GymSign::
 	end
 
 ViridianCity_Text_CoffeeGramps_Question:
-	.string "Hey, kid! I just had a double shot\n"
-	.string "of espresso, and I am wired!\p"
-	.string "I need to talk to someone, so you'll\n"
-	.string "have to do!\p"
-	.string "I might not look like much now, but\n"
-	.string "I was an expert at catching POKéMON.\p"
-	.string "Do you believe me?$"
+	.string "喂，小鬼！我刚喝了双份浓缩咖啡，\n"
+	.string "现在精神头足得很！\p"
+	.string "我正想找人聊聊呢，就你了吧！\p"
+	.string "虽然我现在看起来平平无奇，但我以\n"
+	.string "前可是抓宝可梦的名手呢。\p"
+	.string "你相信吗？$"
 
 ViridianCity_Text_CoffeeGramps_Believed:
-	.string "Good, good. Yes, I was something\n"
-	.string "out of the ordinary, let me tell\l"
-	.string "you!$"
+	.string "很好，很好。跟你说，我年轻时可真\n"
+	.string "不是一般人啊！$"
 
 ViridianCity_Text_CoffeeGramps_Doubted:
-	.string "What? You little whelp!\p"
-	.string "If I were just a bit younger, I'd\n"
-	.string "show you a thing or two. Humph!$"
+	.string "什么？你这个不知天高地厚的小鬼！\p"
+	.string "要是我再年轻几岁，非得让你见识见\n"
+	.string "识不可。哼！$"
 
 ViridianCity_Text_GrampsNearGym:
-	.string "This GYM didn't have a LEADER\n"
-	.string "until recently.\p"
-	.string "A young man from PALLET became\n"
-	.string "the LEADER, but he's often away.$"
+	.string "这家道馆直到最近都还没有馆主呢。\p"
+	.string "后来有个来自真新镇的年轻人当上了\n"
+	.string "馆主，不过他经常不在。$"
 
 ViridianCity_Text_GrampsNearGym_BlueReturned:
-	.string "Are you going to battle the\n"
-	.string "LEADER?\p"
-	.string "Good luck to you. You'll need it.$"
+	.string "你要去挑战道馆馆主吗？\p"
+	.string "祝你好运，你肯定会需要运气的。$"
 
 ViridianCity_Text_DreamEaterFisherNew:
-	.string "…Zzzzz…\p" 
-	.string "Yawn!\p"
-	.string "I must have dozed off in the sun.\p"
-	.string "What? I remind you of somebody?\p"
-	.string "I don't know, here, have this.$"
+	.string "......呼--噜--....\n"
+	.string "..\p"
+	.string "哈欠--！\p"
+	.string "不知不觉在太阳底下睡着了。\p"
+	.string "怎么？我让你想起谁了吗？\p"
+	.string "我也不清楚，喏，这个给你吧。$"
 
 
 ViridianCity_Text_DreamEaterFisher_GotTM::
-	.string "…Zzzzz…$"
+	.string "......呼--噜--....\n"
+	.string "..$"
 
 ViridianCity_Text_DreamEaterFisher:
-	.string "Yawn!\p"
-	.string "I must have dozed off in the sun.\p"
-	.string "…I had this dream about a DROWZEE\n"
-	.string "eating my dream. Weird, huh?\p"
-	.string "Huh? What's this?\p"
-	.string "Where did this TM come from?\p"
-	.string "This is spooky! Here, you can have\n"
-	.string "this TM.$"
+	.string "哈欠--！\p"
+	.string "不知不觉在太阳底下睡着了。\p"
+	.string "......我刚才做了个梦，梦见\n"
+	.string "一只催眠貘吃掉了我的梦。很奇怪吧\l"
+	.string "？\p"
+	.string "咦？这是什么？\p"
+	.string "这张招式学习器是从哪来的？\p"
+	.string "真邪门！喏，这招式学习器就送给你\n"
+	.string "吧。$"
 
 ViridianCity_Text_DreamEaterFisher_GotDreamEater:
 	.string "TM42 contains DREAM EATER…\p"
 	.string "…Zzzzz…$"
 
 ViridianCity_Text_Youngster:
-	.string "I heard that there are many items\n"
-	.string "on the ground in VIRIDIAN FOREST.$"
+	.string "听说常青森林的地上掉落着不少道具\n"
+	.string "呢。$"
 
 ViridianCity_Text_Sign:
-	.string "VIRIDIAN CITY\p"
-	.string "The Eternally Green Paradise$"
+	.string "常青市\p"
+	.string "绿意常在的常青乐土$"
 
 ViridianCity_Text_GymSign:
-	.string "VIRIDIAN CITY POKéMON GYM\n"
-	.string "LEADER: …\p"
-	.string "The rest of the text is illegible…$"
+	.string "常青市宝可梦道馆馆主：.....\n"
+	.string ".\p"
+	.string "后面的文字模糊不清，看不清了..\n"
+	.string "....$"
 
 ViridianCity_Text_WelcomeSign:
-	.string "WELCOME TO VIRIDIAN CITY,\p"
-	.string "THE GATEWAY TO INDIGO PLATEAU$"
+	.string "常青市欢迎你，\p"
+	.string "通往石英高原的玄关$"
 
 ViridianCity_Text_TrainerHouseSign:
-	.string "TRAINER HOUSE\p"
-	.string "The Club for Top Trainer Battles$"
+	.string "训练家之舍\p"
+	.string "顶级训练家对战俱乐部$"

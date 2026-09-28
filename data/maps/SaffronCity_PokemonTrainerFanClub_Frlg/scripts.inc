@@ -449,13 +449,13 @@ SaffronCity_PokemonTrainerFanClub_Text_BrocksMyHero::
 	.string "！$"
 
 SaffronCity_PokemonTrainerFanClub_Text_BrocksFanToBitterEnd::
-	.string "…  …\p"
-	.string "…  …\n"
-	.string "I'm BROCK's fan!\p"
-	.string "Even if I were his only fan,\n"
-	.string "I swear it on my rock-hard will,\l"
-	.string "and on my shorts!\p"
-	.string "I'll be his fan to the bitter end!$"
+	.string "......  ......\p"
+	.string "......  ......我是\n"
+	.string "小刚的粉丝！\p"
+	.string "就算全世界只剩我一个粉丝，我也赌\n"
+	.string "上如磐石般的意志，以及我的短裤发\l"
+	.string "誓！\p"
+	.string "我要一辈子当他的铁杆粉丝！$"
 
 SaffronCity_PokemonTrainerFanClub_Text_BrocksLastWordOnCool::
 	.string "小刚在战斗结束后说的话太帅了！表\n"

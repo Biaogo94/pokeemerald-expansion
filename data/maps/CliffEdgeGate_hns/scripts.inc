@@ -18,20 +18,18 @@ CliffEdgeGate_EventScript_Picnicker::
 	end
 
 CliffEdgeGate_Text_IntroOpen:
-	.string "Did you know? There's a SAFARI ZONE\n"
-	.string "just around the corner.\p"
-	.string "It's really fun!\n"
-	.string "You will see many different kinds of\l"
-	.string "POKéMON, and it's all you can catch!\p"
-	.string "There is no reason not to go, right?\n"
-	.string "Just around the corner.$"
+	.string "你知道吗？前面不远处新开了一家狩\n"
+	.string "猎地带哦。\p"
+	.string "那里可有意思了！不仅能见到形形色\n"
+	.string "色的宝可梦，还能抓个痛快！\p"
+	.string "根本没有不去的理由嘛，对吧？就在\n"
+	.string "前面不远处哦。$"
 
 CliffEdgeGate_Text_Expectations:
-	.string "I appreciate that everybody is looking\n"
-	.string "forward to it.\p"
-	.string "But the lady at the reception seems\n"
-	.string "a bit too dramatic...\p"
-	.string "Don't get your expectations too high!$"
+	.string "大家都很期待是挺好的啦。\p"
+	.string "不过前台那位接待小姐似乎有点戏太\n"
+	.string "过了......\p"
+	.string "可别抱太高的期望哦！$"
 
 CliffEdgeGate_EventScript_CaveSign::
 	lock
@@ -41,8 +39,7 @@ CliffEdgeGate_EventScript_CaveSign::
 	end
 
 CliffEdgeGate_Text_SignOpen:
-	.string "Everything Is Thrilling!\n"
-	.string "Explore to Find Wild POKéMON!\l"
-	.string "Warden BAOBA's SAFARI ZONE\l"
-	.string "Up and Running!$"
+	.string "处处皆刺激！探险寻找野生宝可梦！\n"
+	.string "巴奥巴园长的狩猎地带现已盛大开业\l"
+	.string "！$"
 

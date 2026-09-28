@@ -6,7 +6,6 @@ VermilionCity_House3_EventScript_Gentleman::
 	end
 
 VermilionCity_House3_Text_Gentleman:
-	.string "Over many years, DIGLETT dug a\n"
-	.string "large tunnel.\p"
-	.string "That tunnel goes to a distant\n"
-	.string "town.$"
+	.string "地鼠们花了许多年，挖出了一条大隧\n"
+	.string "道。\p"
+	.string "那条隧道一直通往遥远的城镇呢。$"

@@ -99,8 +99,8 @@ RocketHideout_B3F_EventScript_RocketKO::
 	end
 
 RocketHideout_B3F_Text_B3FRocket:
-    .string "Urrggh… The guy in the cape is\n"
-    .string "incredibly tough…$"
+    .string "呜呃......那个穿披风的家伙\n"
+    .string "强得离谱......$"
 
 
 RocketHideout_B3F_Trigger_MurkrowStairs::
@@ -269,13 +269,13 @@ RocketHideout_B3F_EventScript_Item_HyperPotion::
 	end
 
 RocketHideout_B3F_Text_B3FLockedDoorNeedsPassword:
-    .string "The door's closed…\p"
-    .string "It needs two passwords to open.$"
+    .string "门紧闭着......\p"
+    .string "需要两个密码才能打开。$"
 
 RocketHideout_B3F_Text_B3FLockedDoorOpenSesame:
-    .string "The door's closed…\p"
-    .string "{PLAYER} entered the two passwords.\p"
-    .string "The door opened!$"
+    .string "门紧闭着......\p"
+    .string "{PLAYER}输入了两个密码。\p"
+    .string "门打开了！$"
 
 RocketHideout_B3F_Text_Rival:
     .string "…\p"
@@ -561,20 +561,18 @@ RocketHideout_B3F_Movement_Spin2:
 	step_end
 
 RocketHideout_B3F_Text_PetrelIntro:
-    .string "Muhahaha, we've been waiting\n"
-    .string "for you. So, you are {PLAYER}...\p"
-    .string "Me? You don't know who I am?\n"
-    .string "It is me, GIOVANNI.\p"
-    .string "The majestic GIOVANNI himself!\n"
-    .string "Wahahaha!$"
+    .string "桀桀桀，我们等你好久了。原来你就\n"
+    .string "是{PLAYER}......\p"
+    .string "我？你不认得我是谁吗？就是我啊，\n"
+    .string "坂木！\p"
+    .string "大名鼎鼎的坂木老大本尊！哇哈哈哈\n"
+    .string "哈！$"
 
 RocketHideout_B3F_Text_PetrelDisbelief:
-    .string "...Huh?\n"
-    .string "I don't sound anything like\l"
-    .string "GIOVANNI?\p"
-    .string "I don't even look like GIOVANNI?\n"
-    .string "How come? I've worked so hard\l"
-    .string "to mimic him!$"
+    .string "......咦？声音一点都不像坂\n"
+    .string "木老大？\p"
+    .string "连长相都完全不像？怎么会？！我明\n"
+    .string "明那么努力去模仿他了！$"
 
 RocketHideout_B3F_Text_PetrelReveal:
     .string "PETREL: I am a Team Rocket\n"
@@ -593,20 +591,19 @@ RocketHideout_B3F_Text_PetrelReveal:
     .string "my voice.$"
 
 RocketHideout_B3F_Text_PetrelBeaten:
-    .string "I… I couldn't do a thing…\p"
-    .string "GIOVANNI, please forgive me…$"
+    .string "我......我竟然毫无还手之力\n"
+    .string "......\p"
+    .string "坂木老大，请原谅我......$"
 
 RocketHideout_B3F_Text_PetrelAfterBattle:
-    .string "PETREL: Since disbanding Team\n"
-    .string "Rocket three years ago, our\l"
-    .string "GIOVANNI has been missing.\p"
-    .string "But we're certain he's been\n"
-    .string "waiting for the right time for\l"
-    .string "our revival... Wahahaha!\p"
-    .string "Losing to you won't change the\n"
-    .string "fact that you are unable to get\l"
-    .string "in the radio-transmitter room!\p"
-    .string "You need my voice to unlock it!$"
+    .string "拉姆达：自从三年前解散火箭队之后\n"
+    .string "，我们的坂木老大就一直下落不明。\p"
+    .string "但我们坚信，他一定是在等待让我们\n"
+    .string "东山再起的最佳时机......哇\l"
+    .string "哈哈哈！\p"
+    .string "虽然输给了你，但这改变不了你根本\n"
+    .string "进不去发射机室的事实！\p"
+    .string "想开门就必须得有我的声音！$"
 
 RocketHideout_B3F_EventScript_Murkrow::
 	lock
@@ -619,31 +616,28 @@ RocketHideout_B3F_EventScript_Murkrow::
 	end
 
 RocketHideout_B3F_Text_MurkrowSpeak1:
-    .string "MURKROW: Hail GIOVANNI.$"
+    .string "黑暗鸦：坂木老大万岁。$"
 
 RocketHideout_B3F_Text_MurkrowMimic:
-    .string "MURKROW is mimicking\n"
-    .string "the voice of PETREL!\p"
-    .string "You may be able to...!?$"
+    .string "黑暗鸦正在模仿拉姆达的声音！\p"
+    .string "这样说不定就能......！？$"
 
 RocketHideout_B3F_Text_Murkrow:
-    .string "MURKROW: The password is…\p"
-    .string "HAIL GIOVANNI.$"
+    .string "黑暗鸦：密码是......\p"
+    .string "坂木老大万岁。$"
 
 RocketHideout_B3F_Text_GruntF5Seen:
-    .string "Do I know the password?\p"
-    .string "Maybe.\p"
-    .string "But no weakling's going to get\n"
-    .string "it!$"
+    .string "问我知不知道密码？\p"
+    .string "也许吧。\p"
+    .string "但我可不会平白便宜了弱者！$"
 
 RocketHideout_B3F_Text_GruntF5Beaten:
-    .string "All right. Stop. I'll tell you.$"
+    .string "好啦好啦！快住手！我招就是了！$"
 
 RocketHideout_B3F_Text_GruntF5After:
-    .string "The password to the boss' room\n"
-    .string "is SLOWPOKETAIL.\p"
-    .string "But it's useless unless you have\n"
-    .string "two passwords.$"
+    .string "老大房间的密码是呆呆兽之尾。\p"
+    .string "不过要是凑不齐两个密码，知道了也\n"
+    .string "没用。$"
 
 RocketHideout_B3F_Text_GruntM28Seen:
     .string "Hyuck-hyuck-hyuck!\p"
@@ -657,40 +651,39 @@ RocketHideout_B3F_Text_GruntM28Seen:
     .string "room!$"
 
 RocketHideout_B3F_Text_GruntM28Beaten:
-    .string "Hyuck-hyuck-hyuck! You're good!$"
+    .string "哎嘿嘿嘿！真有两下子！$"
 
 RocketHideout_B3F_Text_GruntM28After:
-    .string "Hyuck-hyuck-hyuck!\p"
-    .string "The password to the boss' room…\p"
-    .string "Uh…, I think it is RATICATE TAIL.$"
+    .string "哎嘿嘿嘿！\p"
+    .string "老大房间的密码嘛......\p"
+    .string "呃......我想想，好像是拉达\n"
+    .string "之尾。$"
 
 RocketHideout_B3F_Text_ScientistRossSeen:
-    .string "I used to work for SILPH, but now\n"
-    .string "I run research for TEAM ROCKET.\p"
-    .string "A meddlesome child like you needs\n"
-    .string "to be punished.$"
+    .string "我以前在西尔佛公司工作，但现在负\n"
+    .string "责为火箭队进行研究。\p"
+    .string "像你这种爱管闲事的小鬼，就得好好\n"
+    .string "教训一下。$"
 
 RocketHideout_B3F_Text_ScientistRossBeaten:
-    .string "A mere tactical error cost me…$"
+    .string "只是战术上的失误才让我输了...\n"
+    .string "...$"
 
 RocketHideout_B3F_Text_ScientistRossAfter:
-    .string "A radio signal that drives\n"
-    .string "POKéMON mad…\p"
-    .string "My experiment is a complete\n"
-    .string "success.\p"
-    .string "My promotion is assured. This\n"
-    .string "loss means absolutely nothing.$"
+    .string "能让宝可梦陷入狂躁的电波....\n"
+    .string "..\p"
+    .string "我的实验取得了彻底的成功。\p"
+    .string "我的升职已成定局。输掉这一场根本\n"
+    .string "就无关紧要。$"
 
 RocketHideout_B3F_Text_ScientistMitchSeen:
-    .string "I don't care that POKéMON are hurt\n"
-    .string "by our experiment.$"
+    .string "宝可梦因为实验受伤，我可一点都不\n"
+    .string "在乎。$"
 
 RocketHideout_B3F_Text_ScientistMitchBeaten:
-    .string "Thinking is my strong suit, not\n"
-    .string "battling.$"
+    .string "动脑筋才是我的强项，可不是对战。$"
 
 RocketHideout_B3F_Text_ScientistMitchAfter:
-    .string "If we turn up the power of our\n"
-    .string "radio signal for broadcast\l"
-    .string "nationwide…\p"
-    .string "The very thought excites me!$"
+    .string "要是把我们电波的功率调大，在全国\n"
+    .string "范围内进行广播......\p"
+    .string "光是想象一下就让人兴奋不已！$"

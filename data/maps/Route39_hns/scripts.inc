@@ -218,8 +218,8 @@ Route39_EventScript_Woman::
 	end
 
 Route39_Text_Woman:
-	.string "That shadow... Maybe it was a giant\n"
-	.string "PIDGEY?$"
+	.string "刚才那个影子......难道是只\n"
+	.string "巨大的波波？$"
 
 Route39_EventScript_Miltank::
 	lock
@@ -232,7 +232,7 @@ Route39_EventScript_Miltank::
 	end
 
 Route39_Text_Miltank:
-	.string "MILTANK: Mooo!$"
+	.string "大奶罐：哞--！$"
 
 Route39_EventScript_Eugene::
 	trainerbattle_single TRAINER_EUGENE_HNS, Route39_Text_SailorEugeneSeen, Route39_Text_SailorEugeneBeaten
@@ -240,11 +240,11 @@ Route39_EventScript_Eugene::
 	end
 
 Route39_Text_SailorEugeneSeen:
-	.string "I just got back to OLIVINE.\p"
-	.string "So how about a POKéMON battle?$"
+	.string "我刚回到浅黄市。\p"
+	.string "来一场宝可梦对战怎么样？$"
 
 Route39_Text_SailorEugeneBeaten:
-	.string "Awaaargh!$"
+	.string "哇啊啊啊！$"
 
 Route39_Text_SailorEugeneAfter:
 	.string "My POKéMON were caught and\n"
@@ -286,12 +286,11 @@ Route39_EventScript_DerekNoRoom::
 	end
 
 Route39_Text_PokefanMDerekSeen:
-	.string "This is a good time to brag\n"
-	.string "about my PIKACHU!$"
+	.string "正好是夸耀我的皮卡丘的好时机！$"
 
 Route39_Text_PokefanMDerekBeaten:
-	.string "I had no time to show off\n"
-	.string "PIKACHU…$"
+	.string "我连展示皮卡丘的机会都没有...\n"
+	.string "...$"
 
 Route39_Text_PokefanMDerekAfter:
 	.string "I'm not listening to your\n"
@@ -305,17 +304,15 @@ Route39_EventScript_Ruth::
 	end
 
 Route39_Text_PokefanFRuthSeen:
-	.string "Such darling POKéMON.\p"
-	.string "Let's show our POKéMON\n"
-	.string "together at the same time.$"
+	.string "多么可爱的宝可梦啊。\p"
+	.string "让我们同时亮出各自的宝可梦吧。$"
 
 Route39_Text_PokefanFRuthBeaten:
-	.string "I don't mind losing.$"
+	.string "输了也没关系啦。$"
 
 Route39_Text_PokefanFRuthAfter:
-	.string "Do you know about baby\n"
-	.string "POKéMON?\p"
-	.string "I bet they're just adorable!$"
+	.string "你知道幼年宝可梦吗？\p"
+	.string "它们肯定超级可爱！$"
 
 Route39_EventScript_Norman::
 	trainerbattle_single TRAINER_NORMAN_HNS, Route39_Text_PsychicNormanSeen, Route39_Text_PsychicNormanBeaten
@@ -327,8 +324,7 @@ Route39_Text_PsychicNormanSeen:
 	.string "POKéMON are capable of.$"
 
 Route39_Text_PsychicNormanBeaten:
-	.string "Ooh, your POKéMON have\n"
-	.string "potential.$"
+	.string "哦，你的宝可梦很有潜力嘛。$"
 
 Route39_Text_PsychicNormanAfter:
 	.string "You know how POKéMON have\n"
@@ -343,22 +339,19 @@ Route39_EventScript_Jamie::
 	end
 
 Route39_Text_PokefanFJaimeSeen:
-	.string "You came at just the right\n"
-	.string "time.\p"
-	.string "Let's battle.$"
+	.string "你来得正是时候。\p"
+	.string "来对战吧。$"
 
 Route39_Text_PokefanFJaimeBeaten:
-	.string "Oh, how disappointing…$"
+	.string "哎，真让人失望......$"
 
 Route39_Text_PokefanFJaimeAfter:
-	.string "I met UMBREON at night right\n"
-	.string "here on ROUTE 39.\p"
-	.string "I'm not sure why, but it\n"
-	.string "seems to like it when I\l"
-	.string "train here.\p"
-	.string "It seems to become friendlier\n"
-	.string "by training here than\l"
-	.string "anywhere else.$"
+	.string "我就是在夜里的这条39号道路上遇\n"
+	.string "见月亮伊布的。\p"
+	.string "虽然不知道为什么，但它似乎很喜欢\n"
+	.string "我在这里特训呢。\p"
+	.string "比起在其他地方，在这里特训好像能\n"
+	.string "让它更亲近我呢。$"
 
 Route39_EventScript_Sign1::
 	lock
@@ -368,8 +361,8 @@ Route39_EventScript_Sign1::
 	end
 
 Route39_Text_Sign:
-	.string "ROUTE 39\p"
-	.string "OLIVINE CITY - ECRUTEAK CITY$"
+	.string "39号道路\p"
+	.string "浅黄市 - 圆朱市$"
 
 Route39_EventScript_Sign2::
 	lock
@@ -379,8 +372,8 @@ Route39_EventScript_Sign2::
 	end
 
 Route39_Text_MoomooFarmSign:
-	.string "MOOMOO FARM\p"
-	.string "Enjoy Our Fresh and Tasty Milk$"
+	.string "哞哞牧场\p"
+	.string "请品尝新鲜美味的牛奶$"
 
 Route39_EventScript_Sign3::
 	lock
@@ -390,13 +383,11 @@ Route39_EventScript_Sign3::
 	end
 
 Route39_Text_TrainerTips:
-	.string "TRAINER TIPS\p"
-	.string "Use HEADBUTT on trees to shake\n"
-	.string "POKéMON out.\p"
-	.string "Different kinds of POKéMON\n"
-	.string "drop out of trees.\p"
-	.string "Use HEADBUTT on any tree\n"
-	.string "you see!$"
+	.string "训练家心得\p"
+	.string "对着树木使出头锤，就能把宝可梦摇\n"
+	.string "下来。\p"
+	.string "不同种类的宝可梦会从树上掉下来。\p"
+	.string "看见树就尽管使出头锤吧！$"
 
 Route39_Text_DerekRegister:
 	.string "I'm not listening to your\n"
@@ -405,13 +396,13 @@ Route39_Text_DerekRegister:
 	.string "of not listening to bragging!$"
 
 Route39_Text_DerekHasItem:
-	.string "Hey! I was showing off my\n"
-	.string "PIKACHU and found something.\p"
-	.string "Here, you can have it!$"
+	.string "嘿！我刚刚带着皮卡丘到处炫耀时捡\n"
+	.string "到了这个东西。\p"
+	.string "给你，送你啦！$"
 
 Route39_Text_DerekGaveItem:
-	.string "PIKACHU is it!\n"
-	.string "Don't you agree?$"
+	.string "皮卡丘就是最棒的！你也是这么觉得\n"
+	.string "的吧？$"
 
 Route39_Text_DerekNoRoom:
 	.string "Hmm, your BAG is full.\p"

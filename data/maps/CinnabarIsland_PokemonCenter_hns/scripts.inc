@@ -15,10 +15,8 @@ CinnabarIsland_PokemonCenter_EventScript_Fisher::
 	end
 
 CinnabarIsland_PokemonCenter1F_Text_CooltrainerF:
-	.string "CINNABAR GYM's BLAINE apparently\n"
-	.string "lives alone in the SEAFOAM ISLANDS\l"
-	.string "cave…$"
+	.string "听说红莲道馆的夏伯正一个人住在双\n"
+	.string "子岛的洞窟里......$"
 
 CinnabarIsland_PokemonCenter1F_Text_Fisher:
-	.string "It's been a year since the volcano\n"
-	.string "erupted.$"
+	.string "火山爆发已经过去一年了。$"

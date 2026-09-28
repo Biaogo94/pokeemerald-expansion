@@ -157,45 +157,41 @@ NewBarkTown_PlayersHouse_1F_EventScript_ExitSavings::
 	return
 
 NewBarkTown_PlayersHouse_1F_Text_MomAnythingElse:
-	.string "Is there anything else I can\n"
-	.string "help you with, sweetie?$"
+	.string "还有什么妈妈能帮你的吗，宝贝？$"
 
 NewBarkTown_PlayersHouse_1F_Text_CurrentSavings:
-	.string "I'm holding {STR_VAR_2}\n"
-	.string "for you right now.$"
+	.string "我现在帮你存了\n"
+	.string "{STR_VAR_2}哦。$"
 
 NewBarkTown_PlayersHouse_1F_Text_EnableSaving:
-	.string "Do you want me to save some of the\n"
-	.string "money you earn?$"
+	.string "要让妈妈帮你存一部分赚到的钱吗？$"
 
 NewBarkTown_PlayersHouse_1F_Text_SavingEnabled:
-	.string "Okay! I'll save 25% of\n"
-	.string "the money you earn from battles.$"
+	.string "好的！那对战赚到的奖金，妈妈就帮\n"
+	.string "你存上25%啦。$"
 
 NewBarkTown_PlayersHouse_1F_Text_DisableSaving:
-	.string "Would you like me to stop\n"
-	.string "saving for you?$"
+	.string "你想暂停存钱吗？$"
 
 NewBarkTown_PlayersHouse_1F_Text_SavingDisabled:
-	.string "Okay, I'll stop saving for now.$"
+	.string "好的，那妈妈先不帮你存了。$"
 
 NewBarkTown_PlayersHouse_1F_Text_Goodbye:
-	.string "Take care, sweetie!$"
+	.string "路上小心哦，宝贝！$"
 
 NewBarkTown_PlayersHouse_1F_Text_DepositSuccess:
-	.string "MOM: Sounds good! I'll put that in\n"
-	.string "savings for you.$"
+	.string "妈妈：好嘞！妈妈帮你存起来。$"
 
 NewBarkTown_PlayersHouse_1F_Text_WithdrawSuccess:
-	.string "MOM: Here you go!$"
+	.string "妈妈：给你，拿好哦！$"
 
 NewBarkTown_PlayersHouse_1F_Text_NoMoneyToDeposit:
-	.string "MOM: You don't have any money to\n"
-	.string "deposit right now, sweetie.$"
+	.string "妈妈：宝贝，你现在没有钱可以存呢\n"
+	.string "。$"
 
 NewBarkTown_PlayersHouse_1F_Text_NoMoneyToWithdraw:
-	.string "MOM: I haven't saved any money\n"
-	.string "for you yet, honey.$"
+	.string "妈妈：亲爱的，妈妈这里还没帮你存\n"
+	.string "钱呢。$"
 
 NewBarkTown_PlayersHouse_1F_EventScript_MomsIntroTrigger1::
 	lock
@@ -335,12 +331,12 @@ NewBarkTown_PlayersHouse_1F_Text_MomHurryUpElmIsWaiting:
 	.string "快去吧，宝贝！$"
 
 NewBarkTown_PlayersHouse_1F_Text_MomsFriend:
-	.string "Hi, {PLAYER}!\p"
-	.string "I'm visiting!\p"
-	.string "Have you heard?\p"
-	.string "My daughter is adamant about\n"
-	.string "becoming PROF.ELM's assistant.\p"
-	.string "She really loves POKéMON!$"
+	.string "嗨，{PLAYER}！\p"
+	.string "我来串门啦！\p"
+	.string "你听说了吗？\p"
+	.string "我女儿一心想去当空木博士的助手呢\n"
+	.string "。\p"
+	.string "她真的很喜欢宝可梦！$"
 
 NewBarkTown_PlayersHouse_1F_Text_MomLeaving:
 	.string "妈妈：哇，好可爱的宝可梦。是从哪\n"

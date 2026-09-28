@@ -17,11 +17,11 @@ SaffronCity_House1_EventScript_MrPsychicAfter::
 	end
 
 MrPsychic_Text_1:
-	.string "…\p"
-	.string "…\p"
-	.string "…\p"
-	.string "…I got it!\p"
-	.string "You wanted this!$"
+	.string "......\p"
+	.string "......\p"
+	.string "......\p"
+	.string "......我知道了！\p"
+	.string "你想要的是这个吧！$"
 
 MrPsychic_Text_2:
 	.string "TM29 is PSYCHIC.\p"

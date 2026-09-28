@@ -16,13 +16,13 @@ GoldenrodCity_NameRatersHouse_EventScript_ToggleShiniesRefused::
 	end
 
 GoldenrodCity_NameRatersHouse_Text_AskToggleShinies:
-	.string "Would you like to toggle the Unique\n"
-	.string "Shiny Colors setting?$"
+	.string "要切换异色宝可梦的专属配色设置吗\n"
+	.string "？$"
 
 GoldenrodCity_NameRatersHouse_Text_ToggleShinies:
-	.string "Shiny Colors Toggled!\p"
-	.string "View your setting at the CHALLENGE\n"
-	.string "VIEWER at any PC.$"
+	.string "已切换异色配色设置！\p"
+	.string "可以在任意电脑的挑战查看器中查看\n"
+	.string "你的设置。$"
 
 GoldenrodCity_NameRatersHouse_EventScript_RenameRival::
 	msgbox GoldenrodCity_NameRatersHouse_Text_RenameRival, MSGBOX_DEFAULT
@@ -32,10 +32,9 @@ GoldenrodCity_NameRatersHouse_EventScript_RenameRival::
 	end
 
 GoldenrodCity_NameRatersHouse_Text_RenameRival:
-	.string "It's the news...\p"
-	.string "The POLICE are looking for this\n"
-	.string "REDHEADED BOY!\p"
-	.string "Do YOU know his name?$"
+	.string "是新闻......\p"
+	.string "警察正在寻找这个红发少年！\p"
+	.string "你知道他的名字吗？$"
 
 GoldenrodCity_NameRatersHouse_EventScript_NameRater::
 	lock
@@ -99,51 +98,50 @@ GoldenrodCity_NameRatersHouse_EventScript_NewNameDifferent::
 	end
 
 GoldenrodCity_NameRatersHouse_Text_PleasedToRateMonNickname:
-	.string "Hi, hi! I'm the NAME RATER!\n"
-	.string "I'm the fortune-teller of names!\p"
-	.string "I shall be pleased to rate your\n"
-	.string "POKéMON's nickname.$"
+	.string "你好呀！我是姓名鉴定师！我能为名\n"
+	.string "字占卜算命哦！\p"
+	.string "我很乐意为你宝可梦的昵称进行一番\n"
+	.string "鉴定。$"
 
 GoldenrodCity_NameRatersHouse_Text_CritiqueWhichMonNickname:
-	.string "Which POKéMON's nickname should\n"
-	.string "I critique?$"
+	.string "你想让我为哪只宝可梦鉴定昵称呢？$"
 
 GoldenrodCity_NameRatersHouse_Text_FineNameSuggestBetterOne:
-	.string "Hmmm… {STR_VAR_1}, is it? That is\n"
-	.string "quite a fine name you bestowed.\p"
-	.string "But! What say you, if I were to\n"
-	.string "suggest a slightly better name?$"
+	.string "唔......叫\n"
+	.string "{STR_VAR_1}是吧？起得\l"
+	.string "相当不错嘛。\p"
+	.string "不过！如果让我给它改一个稍微好听\n"
+	.string "一点的名字，你意下如何？$"
 
 GoldenrodCity_NameRatersHouse_Text_WhatShallNewNameBe:
-	.string "Ah, good. Then, what shall the new\n"
-	.string "nickname be?$"
+	.string "啊，太好了。那么，新的昵称要叫什\n"
+	.string "么呢？$"
 
 GoldenrodCity_NameRatersHouse_Text_MonShallBeKnownAsName:
-	.string "Done! From now on, this POKéMON\n"
-	.string "shall be known as {STR_VAR_1}!\p"
-	.string "It is a better name than before!\n"
-	.string "How fortunate for you!$"
+	.string "搞定！从现在起，这只宝可梦的名字\n"
+	.string "就叫做{STR_VAR_1}了！\p"
+	.string "比以前的名字更好听呢！真是太幸运\n"
+	.string "啦！$"
 
 GoldenrodCity_NameRatersHouse_Text_DoVisitAgain:
-	.string "I see.\n"
-	.string "Do come visit again.$"
+	.string "这样啊。欢迎下次再来。$"
 
 GoldenrodCity_NameRatersHouse_Text_NameNoDifferentYetSuperior:
-	.string "Done! From now on, this POKéMON\n"
-	.string "shall be known as {STR_VAR_1}!\p"
-	.string "It looks no different from before,\n"
-	.string "and yet, this is vastly superior!\p"
-	.string "How fortunate for you!$"
+	.string "搞定！从现在起，这只宝可梦的名字\n"
+	.string "就叫做{STR_VAR_1}了！\p"
+	.string "虽然看起来和之前一样，但这可是比\n"
+	.string "原来大有长进哦！\p"
+	.string "真是太幸运啦！$"
 
 GoldenrodCity_NameRatersHouse_Text_MagnificentName:
-	.string "Hmmm… {STR_VAR_1} it is!\p"
-	.string "This is a magnificent nickname!\n"
-	.string "It is impeccably beyond reproach!\p"
-	.string "You'll do well to cherish your\n"
-	.string "{STR_VAR_1} now and beyond.$"
+	.string "唔......是\n"
+	.string "{STR_VAR_1}啊！\p"
+	.string "这真是一个极好的昵称！简直无可挑\n"
+	.string "剔！\p"
+	.string "从今往后，你也要好好珍惜你的\n"
+	.string "{STR_VAR_1}哦。$"
 
 GoldenrodCity_NameRatersHouse_Text_ThatIsMerelyAnEgg:
-	.string "Now, now.\n"
-	.string "That is merely an EGG!$"
+	.string "哎呀呀。这只是个蛋呀！$"
 
 

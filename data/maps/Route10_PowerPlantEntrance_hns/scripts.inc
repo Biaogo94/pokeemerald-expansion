@@ -107,61 +107,52 @@ Route10_PowerPlantEntrance_Movement_WalkBack:
 	step_end
 
 Route10_PowerPlantEntrance_Text_Officer1AThiefBrokeIn:
-	.string "A thief broke into the POWER\n"
-	.string "PLANT…\p"
-	.string "What is the world coming to?$"
+	.string "竟然有贼潜入了发电厂......\p"
+	.string "这世道到底是怎么了？$"
 
 Route10_PowerPlantEntrance_Text_Officer1CeruleanShadyCharacter:
-	.string "I just got word from CERULEAN.\p"
-	.string "It appears that a shady\n"
-	.string "character has been loitering\l"
-	.string "around.$"
+	.string "我刚收到来自华蓝市的消息。\p"
+	.string "据说有个形迹可疑的家伙在那一带鬼\n"
+	.string "鬼祟祟地游荡。$"
 
 Route10_PowerPlantEntrance_Text_Officer1CouldIAskForYourCooperation:
-	.string "Could I ask for your\n"
-	.string "cooperation?$"
+	.string "能请你协助我们调查吗？$"
 
 Route10_PowerPlantEntrance_Text_Officer1HaveToBeefUpSecurity:
-	.string "We'll have to beef up our\n"
-	.string "security presence.$"
+	.string "看来我们必须加强安保力量了。$"
 
 Route10_PowerPlantEntrance_Text_Engineer1SomeoneStoleAPart:
-	.string "Someone made off with a part\n"
-	.string "that's essential for the\l"
-	.string "generator.\p"
-	.string "Without it, the new generator's\n"
-	.string "useless!$"
+	.string "有人偷走了发电机所必需的重要零件\n"
+	.string "。\p"
+	.string "要是没有那个，新发电机就根本无法\n"
+	.string "运转！$"
 
 Route10_PowerPlantEntrance_Text_Engineer1GeneratorUpAndRunning:
-	.string "The generator's up and running.\n"
-	.string "It's making electricity to spare.$"
+	.string "发电机已经顺利运转起来了。现在电\n"
+	.string "力充沛，甚至绰绰有余呢。$"
 
 Route10_PowerPlantEntrance_Text_Engineer2PowerPlantUpAndRunning:
-	.string "This POWER PLANT had been\n"
-	.string "abandoned in the past.\p"
-	.string "We got it back up and running to\n"
-	.string "provide power to the MAGNET\l"
-	.string "TRAIN.$"
+	.string "这座发电厂过去曾经被废弃过。\p"
+	.string "为了给磁浮列车供电，我们才让它重\n"
+	.string "新恢复运转。$"
 
 Route10_PowerPlantEntrance_Text_Engineer2GeneratorIsRunningAgain:
-	.string "The generator's running again!$"
+	.string "发电机又重新运转了！$"
 
 Route10_PowerPlantEntrance_Text_Officer2ManagerHasBeenSadAndFurious:
-	.string "The POWER PLANT's MANAGER is in\n"
-	.string "the back room with the generator.\p"
-	.string "But since someone wrecked the\n"
-	.string "generator, he's been both sad and\l"
-	.string "furious…$"
+	.string "发电厂的厂长在后面的发电机机房里\n"
+	.string "。\p"
+	.string "不过自从有人破坏了发电机之后，他\n"
+	.string "就又伤心又愤怒......$"
 
 Route10_PowerPlantEntrance_Text_Officer2ManagerHasBeenCheerful:
-	.string "Since the generator's been fixed,\n"
-	.string "the MANAGER has been cheerful.$"
+	.string "自从发电机修好之后，厂长的心情就\n"
+	.string "变得特别好。$"
 
 Route10_PowerPlantEntrance_Text_Engineer4MagnetTrainConsumesElectricity:
-	.string "The MAGNET TRAIN consumes a lot\n"
-	.string "of electricity.\p"
-	.string "It can't move if the new\n"
-	.string "generator isn't operating.$"
+	.string "磁浮列车要消耗大量的电力。\p"
+	.string "要是新发电机不运转的话，列车根本\n"
+	.string "就动不了。$"
 
 Route10_PowerPlantEntrance_EventScript_Lorenzo::
 	lock
@@ -189,30 +180,27 @@ Route10_PowerPlantEntrance_EventScript_TradeCompleted::
 	end
 
 Route10_PowerPlantEntrance_Text_WantToTrade:
-	.string "I work here at the POWER PLANT.\n"
-	.string "My MAGNETON's been my partner\l"
-	.string "for years.\p"
-	.string "But I've always wanted a\n"
-	.string "{STR_VAR_1}.\p"
-	.string "Would you trade one for my\n"
-	.string "{STR_VAR_2}?$"
+	.string "我在这家发电厂工作。我的三合一磁\n"
+	.string "怪伴随我好多年了。\p"
+	.string "但我一直很想要一只\n"
+	.string "{STR_VAR_1}。\p"
+	.string "你愿意用它来交换我的\n"
+	.string "{STR_VAR_2}吗？$"
 
 Route10_PowerPlantEntrance_Text_TakeCare:
-	.string "Thanks! Take good care of\n"
-	.string "MAGGIE for me!$"
+	.string "谢谢你！请替我好好照顾小磁！$"
 
 Route10_PowerPlantEntrance_Text_DeclineTrade:
-	.string "No? That's a shame.\n"
-	.string "My MAGNETON's a hard worker.$"
+	.string "不行吗？那可真遗憾。我的三合一磁\n"
+	.string "怪工作可卖力了。$"
 
 Route10_PowerPlantEntrance_Text_NotRequestedMon:
-	.string "Hmm, that's not a {STR_VAR_1}.\n"
-	.string "That's not what I had in mind.$"
+	.string "唔，这不是{STR_VAR_1}\n"
+	.string "呀。不是我想要的宝可梦呢。$"
 
 Route10_PowerPlantEntrance_Text_TradeCompleted:
-	.string "How's MAGGIE doing?\n"
-	.string "She loves magnetic fields!$"
+	.string "小磁过得还好吗？它可喜欢磁场了！$"
 
 Route10_PowerPlantEntrance_Text_Engineer4WeCanGetMagnetTrainRunning:
-	.string "All right! We can finally get the\n"
-	.string "MAGNET TRAIN running again.$"
+	.string "太好了！磁浮列车终于可以重新运行\n"
+	.string "了。$"

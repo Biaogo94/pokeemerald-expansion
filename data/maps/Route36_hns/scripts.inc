@@ -233,26 +233,24 @@ Route36_Movement_SudoWoodo:
 	step_end
 
 Route36_Text_UseSquirtbottle:
-	.string "Use SQUIRTBOTTLE?$"
+	.string "要使用杰尼龟喷壶吗？$"
 
 Route36_Text_UsedSquirtbottle:
-	.string "{PLAYER} used the SQUIRTBOTTLE.$"
+	.string "{PLAYER}使用了杰尼龟喷壶\n"
+	.string "。$"
 
 Route36_Text_SudowoodoAttacked:
-	.string "The weird tree doesn't like the\n"
-	.string "SQUIRTBOTTLE!\p"
-	.string "The weird tree attacked!$"
+	.string "奇怪的树好像很讨厌杰尼龟喷壶！\p"
+	.string "奇怪的树袭击过来了！$"
 
 Route36_Text_RockSmashGuy1:
-	.string "Wa-hey!\p"
-	.string "I was going to snap that tree\n"
-	.string "with my straight-arm punch.\p"
-	.string "But I couldn't! I'm a failure!$"
+	.string "哇啊！\p"
+	.string "本想用我的直拳把那棵树给打断的。\p"
+	.string "可我居然做不到！真是太失败了！$"
 
 Route36_Text_RockSmashGuy2:
-	.string "Did you clear that wretched tree?\p"
-	.string "I'm impressed!\n"
-	.string "I want you to have this.$"
+	.string "你把那棵讨厌的树搞定了吗？\p"
+	.string "真令人佩服！这个就送给你吧。$"
 
 Route36_Text_RockSmashGuy3:
 	.string "That happens to be ROCK SMASH.\p"
@@ -262,77 +260,71 @@ Route36_Text_RockSmashGuy3:
 	.string "just smash 'em up!$"
 
 Route36_Text_OddTree:
-	.string "A weird tree is blocking the way.$"
+	.string "一棵奇怪的树挡住了去路。$"
 
 Route36_Text_Lass1:
-	.string "Be careful at night on this route!\p"
-	.string "I saw a POKéMON that looked like\n"
-	.string "GROWLITHE, but it had a scary aura\l"
-	.string "to it.$"
+	.string "晚上走这条路可要当心！\p"
+	.string "我看到过一只长得像卡蒂狗的宝可梦\n"
+	.string "，但它身上散发着非常恐怖的气息。$"
 
 Route36_Text_Lass2_ClearedSudowoodo:
-	.string "That odd tree disappeared without\n"
-	.string "a trace.\p"
-	.string "Oh! That tree was really a\n"
-	.string "POKéMON?$"
+	.string "那棵奇怪的树消失得无影无踪了。\p"
+	.string "咦！原来那棵树其实是宝可梦吗？$"
 
 Route36_Text_PsychicMarkSeen:
-	.string "I'm going to read your thoughts!$"
+	.string "我要读取你的心思！$"
 
 Route36_Text_PsychicMarkBeaten:
-	.string "I misread you!$"
+	.string "居然读错了吗！$"
 
 Route36_Text_PsychicMarkAfter:
-	.string "I'd be strong if only I could tell\n"
-	.string "what my opponent was thinking.$"
+	.string "要是能看透对手的心思，我就能所向\n"
+	.string "披靡了。$"
 
 Route36_Text_SchoolboyAlan1Seen:
-	.string "Thanks to my studies, I'm ready\n"
-	.string "for any POKéMON!$"
+	.string "经过刻苦用功，我对付什么宝可梦都\n"
+	.string "胸有成竹！$"
 
 Route36_Text_SchoolboyAlan1Beaten:
-	.string "Oops! Computation error?$"
+	.string "糟糕！计算失误了吗？$"
 
 Route36_Text_SchoolboyAlanAfter:
-	.string "Darn. I study five hours a day too.\p"
-	.string "There's more to learning than just\n"
-	.string "reading books.$"
+	.string "可恶，我明明每天苦读五个小时呢。\p"
+	.string "看来光死读书还是远远不够的啊。$"
 
 Route36_Text_MeetArthur:
-	.string "ARTHUR: Who are you?\n"
-	.string "I'm ARTHUR of the WEEKDAY FAMILY.\p"
-	.string "If you can guess my favorite day,\n"
-	.string "I'll give you a reward.$"
+	.string "阿木：你是谁？我是星期家族的阿木\n"
+	.string "。\p"
+	.string "要是你能猜出我最喜欢星期几，我就\n"
+	.string "送你一件礼物。$"
 
 Route36_Text_ArthurNope:
-	.string "Not quite!$"
+	.string "不对哦！$"
 
 Route36_Text_ArthurGivesGift:
-	.string "Here. You can have this.$"
+	.string "给，这个送给你。$"
 
 Route36_Text_ArthurGaveGift:
-	.string "ARTHUR: A POKéMON that uses ROCK-\n"
-	.string "type moves should hold on to that.\p"
-	.string "It pumps up ROCK-type attacks.$"
+	.string "阿木：让擅长使用岩石属性招式的宝\n"
+	.string "可梦携带它吧。\p"
+	.string "它能提升岩石属性招式的威力。$"
 
 Route36_Text_ArthurThursday:
-	.string "ARTHUR: I'm ARTHUR of Thursday.\n"
-	.string "I'm the fifth son out of seven.$"
+	.string "阿木：我是星期四的阿木。在七兄妹\n"
+	.string "里排行老五。$"
 
 Route36_Text_Sign:
-	.string "ROUTE 36$"
+	.string "36号道路$"
 
 Route36_Text_Sign_RuinsNorth:
-	.string "RUINS OF ALPH\n"
-	.string "NORTH ENTRANCE$"
+	.string "阿露福遗迹北侧入口$"
 
 Route36_Text_Tips1:
-	.string "TRAINER TIPS\n"
-	.string "POKéMON stats vary--even within\l"
-	.string "the same species.\p"
-	.string "Their stats may be similar at first.\p"
-	.string "However, differences will become\n"
-	.string "pronounced as the POKéMON grow.$"
+	.string "宝可梦指南即便是同一种宝可梦，能\n"
+	.string "力值也会有所不同。\p"
+	.string "起初它们的能力可能相差无几。\p"
+	.string "然而，随着宝可梦的成长，彼此间的\n"
+	.string "差异会变得越发明显。$"
 
 Route36_Text_Tips2:
 	.string "TRAINER TIPS\n"
@@ -342,30 +334,27 @@ Route36_Text_Tips2:
 	.string "caves and other landmarks.$"
 
 Route36_Text_AlanRegister:
-	.string "Darn. I study five hours a day too.\p"
-	.string "There's more to learning than just\n"
-	.string "reading books.$"
+	.string "可恶，我明明每天苦读五个小时呢。\p"
+	.string "看来光死读书还是远远不够的啊。$"
 
 Route36_Text_AlanRematchIntro:
-	.string "Thanks to my studies, I'm ready\n"
-	.string "for any POKéMON!$"
+	.string "经过刻苦用功，我对付什么宝可梦都\n"
+	.string "胸有成竹！$"
 
 Route36_Text_AlanRematchDefeat:
-	.string "Oops! Computation error?$"
+	.string "糟糕！计算失误了吗？$"
 
 Route36_Text_AlanPostRematch:
-	.string "Darn. I study five hours a day too.\p"
-	.string "There's more to learning than just\n"
-	.string "reading books.$"
+	.string "可恶，我明明每天苦读五个小时呢。\p"
+	.string "看来光死读书还是远远不够的啊。$"
 
 Route36_Text_AlanHasItem:
-	.string "Hey! I found something\n"
-	.string "while studying!\p"
-	.string "Here, you can have it!$"
+	.string "嘿！我在学习的时候捡到了这个！\p"
+	.string "来，送给你吧！$"
 
 Route36_Text_AlanGaveItem:
-	.string "I'll let you know if I find\n"
-	.string "anything else!$"
+	.string "如果再找到别的东西，我还会通知你\n"
+	.string "的！$"
 
 Route36_Text_AlanNoRoom:
 	.string "Hmm, your BAG is full.\p"

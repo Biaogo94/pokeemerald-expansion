@@ -243,13 +243,12 @@ RustboroCity_DevonCorp_3F_Text_ThankYouForDeliveringLetter:
 	.string "家有所帮助。$"
 
 RustboroCity_DevonCorp_3F_Text_ExplainExpShare:
-	.string "MR. STONE: A POKéMON holding that\n"
-	.string "EXP. SHARE will be given some of the\l"
-	.string "EXP Points from battle.\p"
-	.string "It will get EXP Points even if it didn't\n"
-	.string "actually battle.\p"
-	.string "I would say EXP. SHARE is quite useful\n"
-	.string "for raising weak POKéMON.$"
+	.string "得抚社长：让宝可梦携带那个学习装\n"
+	.string "置，就能在战斗中分得经验值。\p"
+	.string "即使没有亲自上场对战，也能获得经\n"
+	.string "验值哦。\p"
+	.string "我觉得学习装置在培育弱小的宝可梦\n"
+	.string "时可是相当有用的。$"
 
 RustboroCity_DevonCorp_3F_Text_NotFamiliarWithTrends:
 	.string "兹伏奇：我从年轻时起，就一直全身\n"

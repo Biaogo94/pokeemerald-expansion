@@ -304,85 +304,86 @@ Alola_Ulaula_Bench_Heal_Movement_0:
 	step_end
 
 Alola_Ulaula_BattlePalossand_Text_0:
-	.string "Shuck!$"
+	.string "壶壶！$"
 
 Alola_Ulaula_MtLanikalaSign_Text_0:
-	.string "This mountain is affectionately\n"
-	.string "referred to as MT. LANIKALA by the\l"
-	.string "locals, as it is the tallest mountain\l"
-	.string "on the ALOLA ISLES.\p"
-	.string "The real name of this mountain has been\n"
-	.string "lost to time.$"
+	.string "当地人亲切地称这座山为拉纳基拉山\n"
+	.string "，因为它是阿罗拉群岛中最高的山峰\l"
+	.string "。\p"
+	.string "至于这座山真正的名字，早已随着岁\n"
+	.string "月流逝被人们遗忘了。$"
 
 Alola_Ulaula_UlaulaSign_Text_0:
-	.string "ULA'ULA ISLE$"
+	.string "乌拉乌拉岛$"
 
 Alola_Ulaula_Phant_outside_Text_0:
-	.string "Hello there, {PLAYER}!\p"
-	.string "I'm the developer who built this\n"
-	.string "section of the game!\p"
-	.string "I hope you enjoyed this taste of ALOLA.\p"
-	.string "I'm working on a full demake of the\n"
-	.string "region called ULTRA ECLIPSE.$"
+	.string "你好啊，{PLAYER}！\p"
+	.string "我是制作了这个游戏区域的开发者！\p"
+	.string "希望你喜欢这处阿罗拉的风景。\p"
+	.string "我目前正在制作阿罗拉地区的复古重\n"
+	.string "制作品--《究极日蚀》。$"
 
 Alola_Ulaula_Phant_outside_Text_1:
-	.string "Please come visit me at my house at\n"
-	.string "the top of this isle.\l"
-	.string "I'll make it worth your while!$"
+	.string "欢迎来我位于这座岛屿山顶的家里坐\n"
+	.string "坐。绝对不会让你白跑一趟的！$"
 
 Alola_Ulaula_TrainerBattlePicnicker_Text_0:
-	.string "Surprise!\nI was in the trees!$"
+	.string "惊喜吧！我其实一直躲在树上呢！$"
 
 Alola_Ulaula_TrainerBattlePicnicker_Text_1:
-	.string "Back into hiding I go…$"
+	.string "我又躲回去啦......$"
 
 Alola_Ulaula_TrainerBattlePicnicker_Text_2:
-	.string "I thought I saw something red flying\n"
-	.string "through the sky.\p"
-	.string "Could it have been a POKéMON?$"
+	.string "我刚才好像看到有什么红色的东西在\n"
+	.string "天上飞。\p"
+	.string "难道那是宝可梦吗？$"
 
 Alola_Ulaula_TrainerBattleYoungster_Text_0:
-	.string "Hey, I'm going to be the first to climb\nMT. LANIKALA!$"
+	.string "嘿，我绝对会成为第一个登顶拉纳基\n"
+	.string "拉山的人！$"
 
 Alola_Ulaula_TrainerBattleYoungster_Text_1:
-	.string "It's not even the real MT. LANIKALA…$"
+	.string "这里甚至都不是真正的拉纳基拉山.\n"
+	.string ".....$"
 
 Alola_Ulaula_TrainerBattleYoungster_Text_2:
-	.string "My dad never told me the real name of\n"
-	.string "this mountain.\p"
-	.string "We've always just called it MT. LANIKALA.$"
+	.string "老爸从没告诉过我这座山真正的名字\n"
+	.string "。\p"
+	.string "我们一直都管它叫拉纳基拉山。$"
 
 Alola_Ulaula_TrainerBattleHiker_Text_0:
-	.string "You must be tough to handle this\nrough terrain!$"
+	.string "能在这么险峻的地形上行动，你一定\n"
+	.string "很有两下子吧！$"
 
 Alola_Ulaula_TrainerBattleHiker_Text_1:
-	.string "Oof,\nI should've trained harder…$"
+	.string "呜呃......我真该更刻苦训练\n"
+	.string "的......$"
 
 Alola_Ulaula_TrainerBattleHiker_Text_2:
-	.string "ULA'ULA ISLE has the best hiking!\p"
-	.string "The locals refer to this mountain as\n"
-	.string "MT. LANIKALA, as it is the tallest on\l"
-	.string "the ALOLA ISLES!$"
+	.string "乌拉乌拉岛可是徒步旅行的绝佳去处\n"
+	.string "！\p"
+	.string "当地人称这座山为拉纳基拉山，因为\n"
+	.string "它是阿罗拉群岛中最高的山峰！$"
 
 Alola_Ulaula_TrainerBattleCooltrainer_Text_0:
-	.string "This cave smells terrible!\nLet's battle to get my mind off of it!$"
+	.string "这个洞窟闻起来太糟糕了！赶紧对战\n"
+	.string "一场，转移一下注意力吧！$"
 
 Alola_Ulaula_TrainerBattleCooltrainer_Text_1:
-	.string "Should've brought some air freshener…$"
+	.string "真该带个空气清新剂来的.....\n"
+	.string ".$"
 
 Alola_Ulaula_TrainerBattleCooltrainer_Text_2:
-	.string "You should plug your nose if you plan\n"
-	.string "on going in that cave.$"
+	.string "如果你打算进那个洞窟，最好先把鼻\n"
+	.string "子捏住。$"
 
 Alola_Ulaula_LassNPC_Text_0:
-	.string "The sea by the ISLES is truly\n"
-	.string "breathtaking.\p"
-	.string "I could sit here all day and just\n"
-	.string "watch the waves.$"
+	.string "群岛附近的大海真是美得令人屏息。\p"
+	.string "我可以整天坐在这里，静静地看波浪\n"
+	.string "翻涌。$"
 
 Alola_Ulaula_Bench_Heal_Text_0:
-	.string "Would you like to take a rest on this\n"
-	.string "bench?$"
+	.string "你想在这张长椅上休息一下吗？$"
 
 Alola_Ulaula_EventScript_MoveTutor::
 	lock
@@ -590,116 +591,111 @@ Alola_Ulaula_EventScript_MoveTutorNoScales::
 	end
 
 Alola_Ulaula_Text_MoveTutorIntro:
-	.string "URGH!\n"
-	.string "AGH!\p"
-	.string "YOU!\p"
-	.string "Did the others send you here?\n"
-	.string "Did they tell you that I am the\l"
-	.string "master of POKéMON moves?\p"
-	.string "........................\p"
-	.string "I can train your POKéMON in the\n"
-	.string "ways of the ISLES, but first, a\l"
-	.string "small fee.\p"
-	.string "The price is 5 HEART SCALES.\p"
-	.string "Do you have them?$"
+	.string "唔啊！啊！\p"
+	.string "你！\p"
+	.string "是其他人让你来这儿的吗？他们告诉\n"
+	.string "你我是精通宝可梦招式的大师了吗？\p"
+	.string "..................\p"
+	.string "我可以按群岛的方式传授你的宝可梦\n"
+	.string "，不过嘛，得先收一点点费用。\p"
+	.string "价格是5个心之鳞片。\p"
+	.string "你带来了吗？$"
 
 Alola_Ulaula_Text_MoveTutorPaid:
-	.string "My wife loves these things.\p"
-	.string "From now on, my services are\n"
-	.string "granted to you.$"
+	.string "我老婆最喜欢这东西了。\p"
+	.string "从现在起，我的本领随时任你差遣。$"
 
 Alola_Ulaula_Text_MoveTutorNoScales:
-	.string "Five HEART SCALES.\n"
-	.string "Not four.\p"
-	.string "Try smashing rocks.\n"
-	.string "With your POKéMON, or your fists!$"
+	.string "是5个心之鳞片。可不是4个。\p"
+	.string "去试试碎岩吧。不管是让宝可梦来，\n"
+	.string "还是用你的拳头！$"
 
 Alola_Ulaula_Text_MoveTutorChoose:
-	.string "Which move would you like?$"
+	.string "你想学哪个招式？$"
 
 Alola_Ulaula_Text_MoveTutorConfirm:
-	.string "You'd like to learn {STR_VAR_1}?$"
+	.string "想要学习{STR_VAR_1}吗\n"
+	.string "？$"
 
 Alola_Ulaula_Text_MoveTutorWhichMon:
-	.string "Which POKéMON should learn it?$"
+	.string "要让哪只宝可梦学习？$"
 
 Alola_Ulaula_Text_MoveTutorDone:
-	.string "EXCELLENT!\p"
-	.string "Your POKéMON holds the knowledge\n"
-	.string "of the ISLES.$"
+	.string "太棒了！\p"
+	.string "你的宝可梦已经领悟了群岛的招式奥\n"
+	.string "秘。$"
 
 Alola_Ulaula_Text_MoveTutorComeBack:
-	.string "The ISLES aren't going anywhere.\n"
-	.string "Come back anytime.$"
+	.string "群岛又不会跑掉。随时欢迎你再来。$"
 
 Alola_Ulaula_Text_TutorMove_Acrobatics:
-	.string "ACROBATICS$"
+	.string "特技演员$"
 
 Alola_Ulaula_Text_TutorMove_AuroraVeil:
-	.string "AURORA VEIL$"
+	.string "极光幕$"
 
 Alola_Ulaula_Text_TutorMove_BrutalSwing:
-	.string "BRUTAL SWING$"
+	.string "狂舞挥打$"
 
 Alola_Ulaula_Text_TutorMove_Bulldoze:
-	.string "BULLDOZE$"
+	.string "重踏$"
 
 Alola_Ulaula_Text_TutorMove_Confide:
-	.string "CONFIDE$"
+	.string "密语$"
 
 Alola_Ulaula_Text_TutorMove_DazzlingGleam:
 	.string "魔法闪耀$"
 
 Alola_Ulaula_Text_TutorMove_DragonTail:
-	.string "DRAGON TAIL$"
+	.string "龙尾$"
 
 Alola_Ulaula_Text_TutorMove_EchoedVoice:
-	.string "ECHOED VOICE$"
+	.string "回声$"
 
 Alola_Ulaula_Text_TutorMove_FlameCharge:
-	.string "FLAME CHARGE$"
+	.string "蓄能焰袭$"
 
 Alola_Ulaula_Text_TutorMove_FrostBreath:
-	.string "FROST BREATH$"
+	.string "冰息$"
 
 Alola_Ulaula_Text_TutorMove_Infestation:
-	.string "INFESTATION$"
+	.string "死缠烂打$"
 
 Alola_Ulaula_Text_TutorMove_LeechLife:
 	.string "吸血$"
 
 Alola_Ulaula_Text_TutorMove_LowSweep:
-	.string "LOW SWEEP$"
+	.string "下盘踢$"
 
 Alola_Ulaula_Text_TutorMove_Psyshock:
-	.string "PSYSHOCK$"
+	.string "精神冲击$"
 
 Alola_Ulaula_Text_TutorMove_Quash:
-	.string "QUASH$"
+	.string "延后$"
 
 Alola_Ulaula_Text_TutorMove_Round:
-	.string "ROUND$"
+	.string "轮唱$"
 
 Alola_Ulaula_Text_TutorMove_Scald:
-	.string "SCALD$"
+	.string "热水$"
 
 Alola_Ulaula_Text_TutorMove_SkyDrop:
-	.string "SKY DROP$"
+	.string "自由落体$"
 
 Alola_Ulaula_Text_TutorMove_SludgeWave:
-	.string "SLUDGE WAVE$"
+	.string "污泥波$"
 
 Alola_Ulaula_Text_TutorMove_SmackDown:
-	.string "SMACK DOWN$"
+	.string "击落$"
 
 Alola_Ulaula_Text_TutorMove_SmartStrike:
-	.string "SMART STRIKE$"
+	.string "修长之角$"
 
 Alola_Ulaula_Text_TutorMove_Snarl:
-	.string "SNARL$"
+	.string "大声咆哮$"
 
 Alola_Ulaula_Text_TutorMove_Venoshock:
-	.string "VENOSHOCK$"
+	.string "毒液冲击$"
 
 Alola_Ulaula_Text_TutorMove_VoltSwitch:
 	.string "伏特替换$"
@@ -708,7 +704,7 @@ Alola_Ulaula_Text_TutorMove_WildCharge:
 	.string "疯狂伏特$"
 
 Alola_Ulaula_Text_TutorMove_WorkUp:
-	.string "WORK UP$"
+	.string "自我激励$"
 
 Alola_Ulaula_Text_TutorMove_Cancel:
 	.string "取消$"

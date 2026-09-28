@@ -15,8 +15,8 @@ EcruteakCity_SageOffice1_EventScript_Sign::
 	end
 
 EcruteakCity_SageOffice1_Text_Sign:
-	.string "The bell of tin rings clearly for\n"
-	.string "those under the tower's wing.$"
+	.string "铃铛之音清脆悠扬，为受高塔庇佑之\n"
+	.string "人鸣响。$"
 
 EcruteakCity_SageOffice2_EventScript_SageA::
 	lock
@@ -89,63 +89,56 @@ EcruteakCity_SageOffice2_Movement_StandAside:
 	step_end
 
 EcruteakTinTowerEntrance_Text_SageNoBadge:
-	.string "TIN TOWER is off limits to the\n"
-	.string "unworthy. Sorry but you'll have\l"
-	.string "to leave.$"
+	.string "未经认可之人不得进入铃铛塔。很抱\n"
+	.string "歉，请你离开这里。$"
 
 EcruteakTinTowerEntrance_Text_SageWithBadge:
-	.string "TIN TOWER is off limits to anyone\n"
-	.string "without ECRUTEAK GYM's BADGE.\p"
-	.string "Ah!\p"
-	.string "ECRUTEAK's GYM BADGE! Please, go\n"
-	.string "right through.$"
+	.string "没有圆朱道馆徽章的人，是禁止进入\n"
+	.string "铃铛塔的。\p"
+	.string "啊！\p"
+	.string "那是圆朱道馆的徽章！请进，请直接\n"
+	.string "通过吧。$"
 
 EcruteakTinTowerEntrance_Text_SageNoClearBell:
-	.string "A momentous event has occurred.\p"
-	.string "I beg your pardon, but I must ask\n"
-	.string "you to leave.\p"
-	.string "…What soothes the soul…\p"
-	.string "The WISE TRIO say things that are\n"
-	.string "so very difficult to understand…$"
+	.string "发生了非常重大的事。\p"
+	.string "恕我冒昧，必须请你离开。\p"
+	.string "......抚慰心灵之物....\n"
+	.string "..\p"
+	.string "缘寿三老说的话总是这么深奥难懂.\n"
+	.string ".....$"
 
 EcruteakTinTowerEntrance_Text_SageHearsClearBell1:
-	.string "A momentous event has occurred.\p"
-	.string "I beg your pardon, but I must ask\n"
-	.string "you to leave.\p"
-	.string "..............................$"
+	.string "发生了非常重大的事。\p"
+	.string "恕我冒昧，必须请你离开。\p"
+	.string "....................................$"
 EcruteakTinTowerEntrance_Text_SageHearsClearBell2:
-	.string "Ah!\p"
-	.string "The sound of that CLEAR BELL!\p"
-	.string "It… It's sublime!\p"
-	.string "I've never heard so beautiful a\n"
-	.string "sound before!\p"
-	.string "That bell's chime is indicative of\n"
-	.string "the bearer's soul.\p"
-	.string "You…\p"
-	.string "You may be able to make it through\n"
-	.string "TIN TOWER.\p"
-	.string "Please, do go on.$"
+	.string "啊！\p"
+	.string "那是透明铃铛的声音！\p"
+	.string "这......这真是太美妙了！\p"
+	.string "我从未听过如此动听的声音！\p"
+	.string "这铃声正映照着持有者纯洁的心灵。\p"
+	.string "你......\p"
+	.string "或许你能通过这里，登上铃铛塔。\p"
+	.string "请，快请进吧。$"
 
 EcruteakTinTowerEntrance_Text_SagePleaseDoGoOn:
-	.string "Please, do go on.$"
+	.string "请，快请进吧。$"
 
 EcruteakTinTowerEntrance_Text_SageDone:
-	.string "That bell's chime is indicative of\n"
-	.string "the bearer's soul.\p"
-	.string "You…\n"
-	.string "Truly are worthy.$"
+	.string "这铃声正映照着持有者纯洁的心灵。\p"
+	.string "你......确实是天选之人。$"
 
 EcruteakTinTowerEntrance_Text_WanderingSage:
-	.string "The TIN TOWER ahead is a nine-\n"
-	.string "tier tower of divine beauty.\p"
-	.string "It soothes the soul of all who\n"
-	.string "see it.$"
+	.string "前方的铃铛塔是一座神圣而美丽的九\n"
+	.string "层高塔。\p"
+	.string "目睹它的人，心灵都将得到抚慰。$"
 
 EcruteakTinTowerEntrance_Text_WanderingSageClearBell:
-	.string "The TIN TOWER shook! A POKéMON must\n"
-	.string "have returned to the top!$"
+	.string "铃铛塔摇晃起来了！一定是那只宝可\n"
+	.string "梦回到塔顶了！$"
 
 EcruteakTinTowerEntrance_Text_Gramps:
-	.string "Two towers… Two POKéMON…\p"
-	.string "But when one burned down, both\n"
-	.string "POKéMON flew away, never to return.$"
+	.string "两座塔......两只宝可梦..\n"
+	.string "....\p"
+	.string "但当其中一座被烧毁时，两只宝可梦\n"
+	.string "便都飞离而去，再未归来。$"

@@ -65,7 +65,7 @@ Route50_Text_WesselBeforeBattle:
 	.string "Fine, we will battle for it.$"
 
 Route50_Text_WesselDefeat:
-	.string "My hypothesis was wrong...$"
+	.string "我的假说果然错了......$"
 
 Route50_Text_WesselAfter:
 	.string "Take the PLATE. I don't want to\n"
@@ -120,11 +120,11 @@ Route50_Text_FinleyBeforeBattle:
 	.string "But can you conquer my dragons?$"
 
 Route50_Text_FinleyDefeat:
-	.string "My dragons fought well.$"
+	.string "我的龙宝可梦们表现得很不错。$"
 
 Route50_Text_FinleyAfter:
-	.string "Perhaps you are even strong enough\n"
-	.string "to beat LANCE...$"
+	.string "也许你甚至有实力战胜阿渡....\n"
+	.string "..$"
 
 Route50_EventScript_Item_ULtraBall::
     finditem ITEM_ULTRA_BALL

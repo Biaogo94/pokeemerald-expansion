@@ -240,71 +240,65 @@ BattleFrontier_BattleFactoryBattleRoom_EventScript_ScientistsFaceBattle_hns::
 	return
 
 BattleFrontier_BattleFactoryBattleRoom_Text_GetAMoveOn_hns:
-	.string "Hey, hey!\n"
-	.string "Get a move on!$"
+	.string "喂、喂！动作快点！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead_hns:
-	.string "Hey, my name's NOLAND!\n"
-	.string "I'm basically in charge of this place,\l"
-	.string "which is why I'm the FACTORY HEAD!\p"
-	.string "I had a look at your Battle Swap data.\p"
-	.string "You seem to have the right idea,\n"
-	.string "but you're still square in your head!\p"
-	.string "Listen up, okay? Knowledge isn't only\n"
-	.string "about reading books or doing desk work.\p"
-	.string "Just doing that sort of thing…\n"
-	.string "It may as well be useless!\p"
-	.string "You have to experience things with\n"
-	.string "your heart and your body, understand?\p"
-	.string "I'll take you on under the same\n"
-	.string "conditions as you.\p"
-	.string "I'll be using rental POKéMON, too!$"
+	.string "嘿，我叫达拉！基本上这里由我管辖\n"
+	.string "，所以我是这里的工厂头目！\p"
+	.string "我看过你的交换对战记录了。\p"
+	.string "虽然能看出你的思路，但你的脑子还\n"
+	.string "是太死板了！\p"
+	.string "听好了，懂吗？知识可不光是看书或\n"
+	.string "是死做案头工作。\p"
+	.string "光做那些事情......根本就毫\n"
+	.string "无用处！\p"
+	.string "你得用心和身体去亲身体会，明白吗\n"
+	.string "？\p"
+	.string "我和你一样，在相同的条件下跟你对\n"
+	.string "决。\p"
+	.string "我也会使用租借的宝可梦！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ShakeOutKnowledgeBringItOn_hns:
-	.string "Shake out every last bit of your\n"
-	.string "knowledge and bring it on!$"
+	.string "把你所有的知识都抖落出来，尽管放\n"
+	.string "马过来吧！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandLetsSeeFrontierPass_hns:
-	.string "NOLAND: Smart going!\n"
-	.string "Let's see your FRONTIER PASS.$"
+	.string "达拉：干得漂亮！把你的开拓区通行\n"
+	.string "证拿出来看看。$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ReceivedKnowledgeSymbol_hns:
-	.string "The Knowledge Symbol was embossed\n"
-	.string "on the FRONTIER PASS!$"
+	.string "知识象征被刻在了开拓区通行证上！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NextTimeNoHoldsBarred_hns:
-	.string "Heh…\n"
-	.string "You're a pretty bright spark…\p"
-	.string "Next time, I'll come after you hard.\n"
-	.string "No holds barred, understand?\p"
-	.string "You keep up your studies!$"
+	.string "嘿......你这小子还挺机灵的\n"
+	.string "嘛......\p"
+	.string "下次我可要动真格的了。绝不留情，\n"
+	.string "懂吗？\p"
+	.string "你可要好好保持钻研啊！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_HarderLookThanLastTime_hns:
-	.string "NOLAND: Hey, hey! How's it going?\n"
-	.string "You keeping up with your studies?\p"
-	.string "…Oh?\p"
-	.string "You've taken on a harder look than\n"
-	.string "the last time I saw you.\p"
-	.string "Now, this should be fun!\n"
-	.string "I'm getting excited, hey!$"
+	.string "达拉：喂，喂！最近怎么样？有在好\n"
+	.string "好钻研吗？\p"
+	.string "......哦？\p"
+	.string "看起来比上次见你时还要精悍成熟了\n"
+	.string "呢。\p"
+	.string "这下可有意思了！我都开始兴奋起来\n"
+	.string "了，喂！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_AllRightBringItOn_hns:
-	.string "All right!\n"
-	.string "Bring it on!$"
+	.string "好嘞！放马过来吧！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass_hns:
-	.string "NOLAND: What the…\n"
-	.string "You're getting out of my league!\p"
-	.string "Sheesh!\n"
-	.string "Let's see that FRONTIER PASS!$"
+	.string "达拉：搞什么......你已经远\n"
+	.string "远超出我的水平了啊！\p"
+	.string "真是的！把开拓通行证拿来让我看看\n"
+	.string "！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_KnowledgeSymbolTookGoldenShine_hns:
-	.string "The Knowledge Symbol took on\n"
-	.string "a golden shine!$"
+	.string "知识象征闪耀起金色的光芒！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_LastTimeILoseToYou_hns:
-	.string "Pfft, man!\p"
-	.string "That's absolutely the last time\n"
-	.string "I lose to you!\p"
-	.string "We have to do this again, hey?$"
+	.string "切，真是的！\p"
+	.string "我保证这是我最后一次输给你了！\p"
+	.string "我们一定要再战一场啊，喂！$"
 

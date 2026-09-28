@@ -97,74 +97,73 @@ Route20_EventScript_Headlocker::
 	end
 
 Route20_Text_Dennis:
-	.string "DENNIS: SHAAAAAAAA!$"
+	.string "丹尼斯：沙----！$"
 
 Route20_Text_Headlocker:
-	.string "There's a rare POKéMON on this\n"
-	.string "route.\p"
-	.string "And sometimes it carries a rare\n"
-	.string "evolution item.\p"
-	.string "That's double rare!\p"
-	.string "I need to finish my POKéDEX, so\n"
-	.string "I've been fishing here for hours!$"
+	.string "这条路上有种稀有的宝可梦。\p"
+	.string "而且它有时还会携带着稀有的进化道\n"
+	.string "具。\p"
+	.string "可以说是双重稀有！\p"
+	.string "为了完成我的宝可梦图鉴，我已经在\n"
+	.string "这里钓了好几个小时了！$"
 
 Route20_Text_Seel:
-	.string "SEEL: Seel seel!$"
+	.string "小海狮：叭恰叭恰！$"
 
 Route20_Text_Dewgong:
-	.string "DEWGONG: Goooong!$"
+	.string "白海狮：昂----！$"
 
 Route20_Text_SeafoamSign:
-	.string "SEAFOAM ISLANDS$"
+	.string "双子岛$"
 
 Route20_Text_NicoleRegister:
-	.string "Your POKéMON swims fast!\n"
-	.string "Let me get your number!$"
+	.string "你的宝可梦游得真快！告诉我你的电\n"
+	.string "话号码吧！$"
 
 Route20_Text_NicoleRematchIntro:
-	.string "All this swimming has made my\n"
-	.string "POKéMON stronger! Let's battle!$"
+	.string "游了这么久，我的宝可梦更强健了！\n"
+	.string "来对战吧！$"
 
 Route20_Text_NicoleRematchDefeat:
-	.string "Swept away again…$"
+	.string "又被冲走了......$"
 
 Route20_Text_NicolePostRematch:
-	.string "Win or lose, I'm getting fit and\n"
-	.string "so are my POKéMON!$"
+	.string "不管输赢，反正我和我的宝可梦身体\n"
+	.string "都锻炼得棒棒的！$"
 
 Route20_Text_SwimmerfNicoleSeen:
-	.string "I feel so much lighter in water.$"
+	.string "在水里感觉整个人都变轻盈了。$"
 
 Route20_Text_SwimmerfNicoleBeaten:
-	.string "Oh, no!$"
+	.string "怎么会这样！$"
 
 Route20_Text_SwimmerfNicoleAfterBattle:
-	.string "Swimming exercises your full body.\p"
-	.string "It's really good for you.$"
+	.string "游泳能锻炼到全身肌肉。\p"
+	.string "对身体真的特别好呢。$"
 
 Route20_Text_SwimmerfLoriSeen:
-	.string "What an impressive collection of\n"
-	.string "GYM BADGES. We should battle!$"
+	.string "你收集的道馆徽章可真壮观啊。我们\n"
+	.string "来对战一场吧！$"
 
 Route20_Text_SwimmerfLoriBeaten:
-	.string "No!$"
+	.string "不会吧！$"
 
 Route20_Text_SwimmerfLoriAfterBattle:
-	.string "SURF is no longer the only HM move\n"
-	.string "you use in water.$"
+	.string "冲浪已经不是唯一能在水上使用的秘\n"
+	.string "传招式了。$"
 
 Route20_Text_SwimmermCameronSeen:
-	.string "I guess it's impossible to swim\n"
-	.string "all the way to JOHTO.$"
+	.string "看来想要一路游到城都，果然还是不\n"
+	.string "可能的啊。$"
 
 Route20_Text_SwimmermCameronBeaten:
-	.string "Aiyah!$"
+	.string "哎呀！$"
 
 Route20_Text_SwimmermCameronAfterBattle:
-	.string "Besides the sea, I can also swim\n"
-	.string "in ponds and rivers.$"
+	.string "除了大海，我平时在池塘和小河里也\n"
+	.string "能游泳哦。$"
 
 Route20_Text_CinnabarIsland_GymUnusedSign:
-	.string "What does this sign say?\p"
-	.string "CINNABAR GYM LEADER: BLAINE$"
+	.string "这块指示牌上写着什么？\p"
+	.string "红莲道馆 馆主：夏伯$"
 

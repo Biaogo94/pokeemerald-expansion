@@ -115,8 +115,8 @@ CeladonCity_Condominiums_RoofRoom_Text_ObtainedAnEevee::
 	.string "{PLAYER}获得了伊布！$"
 
 CeladonCity_Condominiums_RoofRoom_Text_BoxIsFull::
-	.string "ポケモンが　いっぱいだ\n"
-	.string "ボックスを　かえて　きなさい$"
+	.string "同行宝可梦已经满了。去宝可梦中心\n"
+	.string "切换一下盒子吧。$"
 
 CeladonCity_Condominiums_RoofRoom_Text_WirelessAdapterLecture::
 	.string "宝可梦讲座\p"

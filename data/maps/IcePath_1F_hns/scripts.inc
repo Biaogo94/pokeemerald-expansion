@@ -88,7 +88,8 @@ IcePath_Movement_KimonoLeave:
 	step_end
 
 IcePath_1F_Text_Leave:
-	.string "KIMONO GIRL: .....................$"
+	.string "舞妓：.............\n"
+	.string ".....$"
 
 IcePath_1F_Text_Stuck1:
     .string "Me oh my... Is that you, {PLAYER}?\n"
@@ -114,12 +115,11 @@ IcePath_1F_Text_Stuck2:
     .string "Would you push my back?$"
 
 IcePath_1F_Text_Shove:
-    .string "....SHOVE!....$"
+    .string "......推！......$"
 
 IcePath_1F_Text_Cruel:
-    .string "Don't be so cruel.\n"
-    .string "You will push my back, won't you?$"
+    .string "别那么无情嘛。你会从后面推我一把\n"
+    .string "的，对吧？$"
 
 IcePath_1F_Text_Thanks:
-    .string "You really are kind.\n"
-    .string "Thank you so much!$"
+    .string "你真是个好人。太谢谢你了！$"

@@ -17,7 +17,7 @@ Route27_EventScript_BaobaCall::
 	end
 
 Route27_Text_BaobaName:
-	.string "BAOBA$"
+	.string "巴奥巴$"
 
 Route27_EventScript_FirstSteps::
     lock
@@ -170,7 +170,7 @@ Route27_EventScript_TohjoFallsSign::
     end
 
 Route27_Text_FisherHey:
-    .string "Hey!$"
+    .string "喂！$"
 
 Route27_Text_FisherMessage:
     .string "Do you know what you just did?\p"
@@ -179,135 +179,133 @@ Route27_Text_FisherMessage:
     .string "Check your POKéGEAR MAP and see.$"
 
 Route27_Text_CooltrainermBlakeSeen:
-    .string "You look pretty strong.\n"
-    .string "Let me battle you!$"
+    .string "你看上去挺强的嘛。来和我对战一场\n"
+    .string "吧！$"
 
 Route27_Text_CooltrainermBlakeBeaten:
-    .string "Yow!$"
+    .string "哇啊！$"
 
 Route27_Text_CooltrainermBlakeAfter:
-    .string "If you prevail on this harsh trek,\n"
-    .string "the truth will be revealed!\p"
-    .string "Heh, sorry, I just wanted to say\n"
-    .string "something cool.$"
+    .string "若你能挺过这严酷的旅程，真相终将\n"
+    .string "大白！\p"
+    .string "嘿嘿，不好意思，我只是想说句帅气\n"
+    .string "的话而已。$"
 
 Route27_Text_CooltrainermBrianSeen:
-    .string "Hm? You're good, aren't you?$"
+    .string "嗯？你挺厉害的嘛？$"
 
 Route27_Text_CooltrainermBrianBeaten:
-    .string "Just as I thought!$"
+    .string "果然不出我所料！$"
 
 Route27_Text_CooltrainermBrianAfter:
-    .string "A good trainer can recognize other\n"
-    .string "good trainers.$"
+    .string "优秀的训练家一眼就能看出对方是不\n"
+    .string "是顶尖高手。$"
 
 Route27_Text_CooltrainerfReenaSeen:
-    .string "You shouldn't underestimate the\n"
-    .string "wild POKéMON in these parts.$"
+    .string "你可千万别小看这一带的野生宝可梦\n"
+    .string "啊。$"
 
 Route27_Text_CooltrainerfReenaBeaten:
-    .string "Oh! You're much too strong!$"
+    .string "哎呀！你也太强了吧！$"
 
 Route27_Text_CooltrainerfReenaAfter:
-    .string "You're just a kid, but you're not\n"
-    .string "to be underestimated either.$"
+    .string "虽然你年纪还小，但也绝对是个不可\n"
+    .string "小觑的对手啊。$"
 
 Route27_Text_ReenaRegister:
-    .string "You're just a kid, but you're not\n"
-    .string "to be underestimated either.$"
+    .string "虽然你年纪还小，但也绝对是个不可\n"
+    .string "小觑的对手啊。$"
 
 Route27_Text_ReenaRematchIntro:
-    .string "You shouldn't underestimate the\n"
-    .string "wild POKéMON in these parts.$"
+    .string "你可千万别小看这一带的野生宝可梦\n"
+    .string "啊。$"
 
 Route27_Text_ReenaRematchDefeat:
-    .string "Oh! You're much too strong!$"
+    .string "哎呀！你也太强了吧！$"
 
 Route27_Text_ReenaPostRematch:
-    .string "You're just a kid, but you're not\n"
-    .string "to be underestimated either.$"
+    .string "虽然你年纪还小，但也绝对是个不可\n"
+    .string "小觑的对手啊。$"
 
 Route27_Text_CooltrainerfMeganSeen:
-    .string "It's rare to see anyone come here.\p"
-    .string "Are you training on your own?$"
+    .string "真少见有人会来这里呢。\p"
+    .string "你是一个人在这里特训吗？$"
 
 Route27_Text_CooltrainerfMeganBeaten:
-    .string "Oh! You're really strong!$"
+    .string "哇！你真的好强！$"
 
 Route27_Text_CooltrainerfMeganAfter:
-    .string "I'm checking out pre- and post-\n"
-    .string "evolution POKéMON.\p"
-    .string "Evolution really does make\n"
-    .string "POKéMON stronger.\p"
-    .string "But evolved forms also learn\n"
-    .string "moves later on.$"
+    .string "我正在观察宝可梦进化前后的区别。\p"
+    .string "进化确实能让宝可梦变得更强，\p"
+    .string "但进化之后的宝可梦学会招式的等级\n"
+    .string "也会变晚呢。$"
 
 Route27_Text_PsychicGilbertSeen:
-    .string "Don't say a thing!\p"
-    .string "Let me guess what you're thinking.\p"
-    .string "Mmmmmmm…\p"
-    .string "I got it! You're on the POKéMON\n"
-    .string "LEAGUE challenge!$"
+    .string "什么都别说！\p"
+    .string "让我来猜猜你在想什么。\p"
+    .string "嗯----......\p"
+    .string "我知道了！你正在挑战宝可梦联盟吧\n"
+    .string "！$"
 
 Route27_Text_PsychicGilbertBeaten:
-    .string "You're too much!$"
+    .string "你也太强了吧！$"
 
 Route27_Text_PsychicGilbertAfter:
-    .string "With your skills, you'll do well at\n"
-    .string "the LEAGUE.\p"
-    .string "That's what my premonition says.$"
+    .string "凭你的实力，在联盟一定能大放异彩\n"
+    .string "。\p"
+    .string "我的预知就是这么说的。$"
 
 Route27_Text_BirdKeeperJoseSeen:
-    .string "Tweet! Tweet! Tetweet!$"
+    .string "啾！啾！啾啾啾！$"
 
 Route27_Text_BirdKeeperJoseBeaten:
-    .string "Tweet!$"
+    .string "啾！$"
 
 Route27_Text_BirdKeeperJoseAfter:
-    .string "BIRD KEEPERS like me mimic bird\n"
-    .string "whistles to command POKéMON.$"
+    .string "像我们养鸟人都是通过模仿真鸟鸣声\n"
+    .string "来指挥宝可梦的。$"
 
 Route27_Text_JoseRegister:
-    .string "BIRD KEEPERS like me mimic bird\n"
-    .string "whistles to command POKéMON.$"
+    .string "像我们养鸟人都是通过模仿真鸟鸣声\n"
+    .string "来指挥宝可梦的。$"
 
 Route27_Text_JoseRematchIntro:
-    .string "Tweet! Tweet! Tetweet!$"
+    .string "啾！啾！啾啾啾！$"
 
 Route27_Text_JoseRematchDefeat:
-    .string "Tweet!$"
+    .string "啾！$"
 
 Route27_Text_JosePostRematch:
-    .string "BIRD KEEPERS like me mimic bird\n"
-    .string "whistles to command POKéMON.$"
+    .string "像我们养鸟人都是通过模仿真鸟鸣声\n"
+    .string "来指挥宝可梦的。$"
 
 Route27_Text_JoseHasItem:
-    .string "Hey! I found something\n"
-    .string "shiny while bird-watching!\p"
-    .string "Here, you can have it!$"
+    .string "嗨！我刚才观鸟的时候捡到了一个闪\n"
+    .string "闪发亮的东西！\p"
+    .string "喏，送给你吧！$"
 
 Route27_Text_JoseGaveItem:
-    .string "I find all sorts of things\n"
-    .string "out here on ROUTE 27.\p"
-    .string "I'll let you know if I find\n"
-    .string "anything else!$"
+    .string "我在27号道路上总能捡到各种东西\n"
+    .string "。\p"
+    .string "要是再发现什么好东西，我会通知你\n"
+    .string "的！$"
 
 Route27_Text_JoseNoRoom:
     .string "Hmm, your BAG is full.\p"
     .string "Come back when you have room.$"
 
 TohjoFalls_Text_Sign:
-    .string "TOHJO FALLS\p"
-    .string "THE LINK BETWEEN KANTO AND JOHTO$"
+    .string "都城瀑布\p"
+    .string "连接关都与城都之瀑布$"
 
 Route27_Text_FisherScottSeen:
-    .string "I'm feeling great today!\p"
-    .string "I feel like I could boot even the\n"
-    .string "LEAGUE CHAMP!$"
+    .string "我今天状态绝佳！\p"
+    .string "感觉就算是联盟冠军我也能一脚踹翻\n"
+    .string "！$"
 
 Route27_Text_FisherScottBeaten:
-    .string "No! Not in this battle!$"
+    .string "怎么会！居然输在这场对战！$"
 
 Route27_Text_FisherScottAfter:
-    .string "Just like in fishing, it's all over\n"
-    .string "in POKéMON if you give up.$"
+    .string "和钓鱼一样，宝可梦对战中一旦放弃\n"
+    .string "就彻底完了。$"

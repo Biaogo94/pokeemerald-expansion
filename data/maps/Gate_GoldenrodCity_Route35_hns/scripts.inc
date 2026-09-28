@@ -76,20 +76,22 @@ Gate_GoldenrodCity_Route35_EventScript_Fisher::
 	end
 
 Route35GoldenrodGate_Text_RandyAskFavor:
-	.string "Excuse me, kid! Can you do a guy\n"
-	.string "a favor?\p"
-	.string "Can you take this POKéMON with MAIL\n"
-	.string "to my friend?\p"
-	.string "He's on ROUTE 31.$"
+	.string "打扰一下，小朋友！能不能帮大叔一\n"
+	.string "个忙？\p"
+	.string "可以帮我把这只带着邮件的宝可梦带\n"
+	.string "给我朋友吗？\p"
+	.string "他在31号道路。$"
 
 Route35GoldenrodGate_Text_RandyThanks:
-	.string "You will? Perfect! Thanks, kid!\p"
-	.string "My pal's a chubby guy who snoozes\n"
-	.string "all the time.\p"
-	.string "You'll recognize him right away!$"
+	.string "愿意帮忙吗？太好了！谢谢你，小朋\n"
+	.string "友！\p"
+	.string "我那个朋友是个胖乎乎的家伙，整天\n"
+	.string "都在打瞌睡。\p"
+	.string "你一眼就能认出他来的！$"
 
 Route35GoldenrodGate_Text_ReceivedMonWithMail:
-	.string "{PLAYER} received a POKéMON with MAIL.$"
+	.string "{PLAYER}收下了带着邮件的\n"
+	.string "宝可梦。$"
 
 Route35GoldenrodGate_Text_RandyWeirdTree:
 	.string "Make sure to put it at the front of\n"
@@ -100,34 +102,34 @@ Route35GoldenrodGate_Text_RandyWeirdTree:
 	.string "I wonder if it's been cleared?$"
 
 Route35GoldenrodGate_Text_CantCarryMoreMon:
-	.string "You can't carry another POKéMON…$"
+	.string "你无法携带更多的宝可梦了....\n"
+	.string "..$"
 
 Route35GoldenrodGate_Text_RandyNeverMind:
-	.string "Oh… Never mind, then…$"
+	.string "这样啊......那就算了吧..\n"
+	.string "....$"
 
 Route35GoldenrodGate_Text_ThanksForDelivery:
-	.string "Thanks, kid! You made the delivery\n"
-	.string "for me!\p"
-	.string "Here's something for your trouble!$"
+	.string "谢谢你，小朋友！你帮我送到了啊！\p"
+	.string "这是给你的谢礼！$"
 
 Route35GoldenrodGate_Text_RandyMyPalSnoozing:
-	.string "My pal was snoozing, right? Heh,\n"
-	.string "what'd I say?$"
+	.string "我那哥们果然在睡觉吧？嘿嘿，我没\n"
+	.string "说错吧？$"
 
 Route35GoldenrodGate_Text_PokefanF_TreeBlocking:
-	.string "A strange tree is blocking the road.\p"
-	.string "It wriggles around if you talk to it.\p"
-	.string "I heard it became wild when someone\n"
-	.string "watered it with a SQUIRTBOTTLE.$"
+	.string "有棵奇怪的树挡住了道路。\p"
+	.string "对着它说话的话，它还会扭来扭去。\p"
+	.string "听说有人用杰尼龟喷壶给它浇水后，\n"
+	.string "它就发狂了。$"
 
 Route35GoldenrodGate_Text_PokefanF_Lullaby:
-	.string "I like the POKéMON Lullaby they play\n"
-	.string "on the radio.$"
+	.string "我很喜欢收音机里放的宝可梦摇篮曲\n"
+	.string "。$"
 
 Route35GoldenrodGate_Text_Fisher:
-	.string "I wonder how many kinds of POKéMON\n"
-	.string "there are in the world.\p"
-	.string "Three years ago, PROF.OAK said that\n"
-	.string "there were 150 different kinds.\p"
-	.string "But recently I heard there's\n"
-	.string "over 400!$"
+	.string "不知道世界上到底有多少种宝可梦呢\n"
+	.string "。\p"
+	.string "3年前，大木博士说一共有150种\n"
+	.string "。\p"
+	.string "但最近我听说已经超过400种了！$"

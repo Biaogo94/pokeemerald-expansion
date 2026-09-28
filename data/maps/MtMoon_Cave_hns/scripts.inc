@@ -85,18 +85,21 @@ MtMoon_Cave_Movement_SilverLeave:
 	step_end
 
 MtMoon_Cave_Text_Rival_Before:
-	.string "..................................\p"
-	.string "It's been a while, {PLAYER}.\p"
-	.string "…Since I lost to you, I thought about\n"
-	.string "what I was lacking with my POKéMON…\p"
-	.string "And we came up with an answer.\p"
-	.string "{PLAYER}, now we'll show you!$"
+	.string "..........................................\p"
+	.string "好久不见了，{PLAYER}。\p"
+	.string "......自从败给你之后，我就\n"
+	.string "一直在思考我和我的宝可梦到底缺少\l"
+	.string "了什么......\p"
+	.string "现在，我们已经找到了答案。\p"
+	.string "{PLAYER}，就让你见识一下\n"
+	.string "我们的成果！$"
 
 MtMoon_Cave_Text_Rival_Win:
-	.string "..................................\p"
-	.string "I thought I raised my POKéMON to be the\n"
-	.string "best they could be…\p"
-	.string "…But it still wasn't enough…$"
+	.string "..........................................\p"
+	.string "我本以为自己已经把宝可梦培育到了\n"
+	.string "最强......\p"
+	.string "......可结果还是不够吗..\n"
+	.string "....$"
 
 MtMoon_Cave_Text_Rival_After:
 	.string "..................................\p"
@@ -110,11 +113,10 @@ MtMoon_Cave_Text_Rival_After:
 	.string "how good I am by beating you.$"
 
 MtMoon_Cave_Text_Rival_Loss:
-	.string "..................................\p"
-	.string "I've repaid my debt to you.\p"
-	.string "With my POKéMON, I'm going to beat the\n"
-	.string "CHAMPION and become the world's greatest\n"
-	.string "trainer.$"
+	.string "..........................................\p"
+	.string "上次欠你的人情我已经还清了。\p"
+	.string "接下来，我和我的宝可梦会去打倒冠\n"
+	.string "军，成为世界第一的训练家。$"
 
 MtMoon_Cave_Text_Sign:
-	.string "MT MOON SQUARE ->$"
+	.string "月见山广场 ->$"

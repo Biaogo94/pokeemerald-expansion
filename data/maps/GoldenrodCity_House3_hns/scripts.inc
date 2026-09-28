@@ -18,11 +18,11 @@ GoldenrodCity_House3_EventScript_Twin::
 	end
 
 GoldenrodHappinessRater_Text_PokefanM:
-    .string "I keep losing in battles, and my\n"
-    .string "POKéMON end up fainting…\p"
-    .string "Maybe that's why my POKéMON don't\n"
-    .string "like me much…$"
+    .string "我对战老是输，宝可梦总是陷入濒死\n"
+    .string "......\p"
+    .string "也许就是因为这样，我的宝可梦才不\n"
+    .string "太亲近我吧......$"
 
 GoldenrodHappinessRater_Text_Twin:
-    .string "When I use an item on my POKéMON,\n"
-    .string "it acts really glad!$"
+    .string "我对宝可梦使用道具的时候，它看起\n"
+    .string "来特别高兴呢！$"

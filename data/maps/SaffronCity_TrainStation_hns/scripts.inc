@@ -290,56 +290,52 @@ SaffronStation_Movement_SlideLeft:
 	step_end
 
 SaffronMagnetTrainStation_Text_OfficerTrainHasntComeIn:
-    .string "The train hasn't come in…\p"
-    .string "I know! I'll carry the passengers\n"
-    .string "on my back!\p"
-    .string "That won't work.$"
+    .string "电车还没来啊......\p"
+    .string "有了！不如由我来背着乘客跑吧！\p"
+    .string "--怎么可能行得通嘛。$"
 
 SaffronMagnetTrainStation_Text_OfficerComingAboard:
-    .string "We'll soon depart for GOLDENROD.\p"
-    .string "Are you coming aboard?$"
+    .string "列车马上就要开往满金市了。\p"
+    .string "你要上车吗？$"
 
 SaffronMagnetTrainStation_Text_OfficerRightThisWay:
-    .string "May I see your rail PASS, please?\p"
-    .string "OK. Right this way, please.$"
+    .string "请出示您的乘车券。\p"
+    .string "好的，请往这边走。$"
 
 SaffronMagnetTrainStation_Text_OfficerNoRailPass:
-    .string "Sorry. You don't have a rail PASS.$"
+    .string "抱歉，您没有乘车券。$"
 
 SaffronMagnetTrainStation_Text_OfficerHopeToSeeYouAgain:
     .string "欢迎下次再来！$"
 
 SaffronMagnetTrainStation_Text_OfficerArrivedInSaffron:
-    .string "We have arrived in SAFFRON.\p"
-    .string "We hope to see you again.$"
+    .string "金黄市到了。\p"
+    .string "期待您的再次乘坐。$"
 
 @=============================================================================================================================
 
 SaffronMagnetTrainStation_Text_Officer_TrainNotOperating:
-	.string "I'm sorry, but the MAGNET TRAIN\n"
-	.string "isn't operating now.$"
+	.string "非常抱歉，磁力列车现在暂停运行。$"
 
 SaffronMagnetTrainStation_Text_GymGuide:
-	.string "The MAGNET TRAIN is a super-modern\n"
-	.string "rail liner that uses electricity\p"
-	.string "and magnets to attain incredible\n"
-	.string "speed.\p"
-	.string "However, if there isn't any\n"
-	.string "electricity…$"
+	.string "磁力列车是用电力和磁力以惊人速度\n"
+	.string "飞驰的\p"
+	.string "超现代化铁路线路。\p"
+	.string "可是，要是没有电的话......$"
 
 SaffronMagnetTrainStation_Text_GymGuide_ReturnedPart:
-	.string "Whew…\p"
-	.string "How many times have I gone back\n"
-	.string "and forth between KANTO and JOHTO?$"
+	.string "呼......\p"
+	.string "我到底在关都和城都之间往返了多少\n"
+	.string "次呢？$"
 
 SaffronMagnetTrainStation_Text_Teacher:
-	.string "Before the MAGNET TRAIN STATION\n"
-	.string "was built, there was a house there.\p"
-	.string "A little girl named COPYCAT used\n"
-	.string "to live there.$"
+	.string "在建磁力列车站之前，那里原本有一\n"
+	.string "栋房子。\p"
+	.string "以前有个叫模仿少女的女孩子住在那\n"
+	.string "里呢。$"
 
 SaffronMagnetTrainStation_Text_Lass:
-	.string "Hi. Do you have a rail PASS?\n"
-	.string "I have one.\p"
-	.string "All the people in SAFFRON who ride\n"
-	.string "the MAGNET TRAIN have PASSES.$"
+	.string "你好。你有乘车券吗？我可是有一张\n"
+	.string "哦。\p"
+	.string "在金黄市搭乘磁力列车的人，大家都\n"
+	.string "有乘车券呢。$"

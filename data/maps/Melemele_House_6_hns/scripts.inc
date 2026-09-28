@@ -19,16 +19,18 @@ Melemele_House6_GameboyKid::
 
 
 Melemele_House6_Hiker_Text_0:
-	.string "I bought this place so that my son\n"
-	.string "and I could explore the outdoors…\p"
-	.string "All he wants to do is play on that\n"
-	.string "Game Boy Advance.$"
+	.string "我买下这栋房子本是想带儿子好好探\n"
+	.string "索一下大自然的......\p"
+	.string "结果他满脑子就只想捧着那台Gam\n"
+	.string "e Boy Advance玩个不\l"
+	.string "停。$"
 
 Melemele_House6_GameboyKid_Text_0:
-	.string "I have a game on my Game Boy Advance\n"
-	.string "that lets me explore the ALOLA Region!\p"
-	.string "It's just like the real thing.\p"
-	.string "It's called ULTRA ECLIPSE,\n"
-	.string "by PHANTONOMY!\p"
-	.string "Haha, look!\n"
-	.string "I'm riding an icy NOIVERN!$"
+	.string "我的Game Boy Advan\n"
+	.string "ce里有个游戏，可以在里面探索阿\l"
+	.string "罗拉地区！\p"
+	.string "跟真的一模一样呢。\p"
+	.string "名字叫《究极日蚀》，是PHANT\n"
+	.string "ONOMY制作的！\p"
+	.string "Haha，快看！我正骑着一只冰属\n"
+	.string "性的音波龙呢！$"

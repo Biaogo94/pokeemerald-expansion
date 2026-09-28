@@ -35,24 +35,23 @@ IndigoPlateau_EventScript_ShigyNinja::
 	end
 
 IndigoPlateau_Text_ShigyNinja:
-	.string "Congrats on making it here!\p"
-	.string "I've seen tons of trainers come\n"
-	.string "through here over the years, and\l"
-	.string "all of them are wonderfully unique.\p"
-	.string "You should be proud of yourself\n"
-	.string "for getting this far!\p"
-	.string "Now, go get 'em!$"
+	.string "恭喜你一路走到这里！\p"
+	.string "这些年我见过无数训练家经过这里，\n"
+	.string "他们每个人都有着独一无二的风采。\p"
+	.string "能走到这一步，你完全值得为自己感\n"
+	.string "到自豪！\p"
+	.string "去吧，全力以赴！$"
 
 IndigoPlateau_Text_Blackbelt:
-	.string "The POKéMON LEAGUE is not taking\n"
-	.string "new challengers at the moment.\p"
-	.string "Please check back later.$"
+	.string "宝可梦联盟目前暂不接受新的挑战者\n"
+	.string "。\p"
+	.string "请稍后再来。$"
 
 IndigoPlateau_Text_CooltrainerM:
-    .string "At the POKéMON LEAGUE, you'll get\n"
-    .string "tested by the ELITE FOUR.\p"
-    .string "You have to beat them all. If you\n"
-    .string "lose, you have to start all over!$"
+    .string "在宝可梦联盟，你将接受四天王的考\n"
+    .string "验。\p"
+    .string "你必须击败他们所有人。哪怕输了一\n"
+    .string "场，就得全部从头再来！$"
 
 IndigoPlateau_EventScript_Silver::
 	lock
@@ -86,24 +85,24 @@ IndigoPlateau_Silver_Battle_Chikorita::
 	return
 
 IndigoPlateau_Text_RivalEntrance1:
-    .string "Hold it.\p"
-    .string "You're going to take the POKéMON\n"
-    .string "LEAGUE challenge now?\p"
-    .string "That's not going to happen.\p"
-    .string "My super-well-trained POKéMON\n"
-    .string "are going to pound you.\p"
-    .string "{PLAYER}!\n"
-    .string "I challenge you!$"
+    .string "站住。\p"
+    .string "你现在就想去挑战宝可梦联盟？\p"
+    .string "别做白日梦了。\p"
+    .string "我精心培育的宝可梦会把你彻底打垮\n"
+    .string "。\p"
+    .string "{PLAYER}！我要向你发起挑\n"
+    .string "战！$"
 
 IndigoPlateau_Text_RivalWin:
-    .string "…\p"
-    .string "OK--I lost…$"
+    .string "......\p"
+    .string "好......我输了......$"
 
 IndigoPlateau_Text_RivalAfter:
-    .string "…Darn… I still can't win…\p"
-    .string "I… I have to think more about my\n"
-    .string "POKéMON…\p"
-    .string "Humph! Try not to lose!$"
+    .string "......可恶......还是\n"
+    .string "赢不了吗......\p"
+    .string "我......我必须更加为我的宝\n"
+    .string "可梦着想才行......\p"
+    .string "哼！可别输得太难看啊！$"
 
 IndigoPlateau_EventScript_Psychic::
 	lock
@@ -146,19 +145,19 @@ IndigoPlateau_EventScript_Abra::
 	end
 
 IndigoPlateau_Text_TeleportGuy1:
-    .string "Ah! You're challenging the ELITE\n"
-    .string "FOUR? Are you sure you're ready?\p"
-    .string "If you need to train some more,\n"
-    .string "my ABRA can help you.\p"
-    .string "It can TELEPORT you home.\p"
-    .string "Would you like to go home now?$"
+    .string "哎呀！你准备挑战四天王了吗？你确\n"
+    .string "定准备好了吗？\p"
+    .string "如果还需要再修行一番，我的凯西可\n"
+    .string "以帮你。\p"
+    .string "它可以使出瞬间移动带你回家。\p"
+    .string "你现在想回家吗？$"
 
 IndigoPlateau_Text_TeleportGuyYes:
-    .string "OK, OK. Picture your house in your\n"
-    .string "mind…$"
+    .string "好，好。在脑海中想象出你家的样子\n"
+    .string "吧......$"
 
 IndigoPlateau_Text_TeleportGuyNo:
-    .string "OK, OK. The best of luck to you!$"
+    .string "好，好。祝你好运！$"
 
 IndigoPlateau_Text_Abra:
-    .string "ABRA: Aabra…$"
+    .string "凯西：开~西......$"

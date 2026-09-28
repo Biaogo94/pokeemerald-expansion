@@ -474,8 +474,7 @@ BattleFrontier_BattleTowerLobby_Text_BattleRecordedOnPass_hns:
 	.string "on the FRONTIER PASS.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SaveAndQuitGame_hns:
-	.string "Would you like to save and\n"
-	.string "quit the game?$"
+	.string "要保存记录并结束游戏吗？$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SavingPleaseWait_hns:
 	.string "Saving your battle data.\n"
@@ -544,19 +543,19 @@ BattleFrontier_BattleTowerBattleRoom_Text_AnabelYouCameBack_hns:
 	.string "without thinking about anything…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_LetsBeginShallWe_hns:
-	.string "Let's begin, shall we?$"
+	.string "那么，开始吧？$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelCongratsYourPassPlease_hns:
-	.string "ANABEL: Fufu, congratulations…\n"
-	.string "Your FRONTIER PASS, please…$"
+	.string "莉拉：呵呵，恭喜你......请\n"
+	.string "出示一下开拓区通关卡......$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AbilitySymbolTookGoldenShine_hns:
-	.string "The Ability Symbol took on\n"
-	.string "a golden shine!$"
+	.string "能力象征散发出了金色的光芒！$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_WishICouldBattleYouAgain_hns:
-	.string "That was fun…\p"
-	.string "I have never had a POKéMON battle\n"
-	.string "so enjoyable before…\p"
-	.string "I wish I could battle with you again…$"
+	.string "真的很开心......\p"
+	.string "我从来没有经历过这么令人愉快的宝\n"
+	.string "可梦对战......\p"
+	.string "要是还能和你对战就好了.....\n"
+	.string ".$"
 

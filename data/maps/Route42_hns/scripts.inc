@@ -151,11 +151,10 @@ Route42_Text_EusineJealous:
 	.string "about SUICUNE from him.$"
 
 Route42_Text_EusineWontGiveUp:
-	.string "SUICUNE...\n"
-	.string "I won't stop following you\l"
-	.string "until I've found out what\l"
-	.string "you're after...\p"
-	.string "You hear me!$"
+	.string "水君......在查明你的真正目\n"
+	.string "的之前，我是绝对不会放弃追踪你的\l"
+	.string "......\p"
+	.string "你听到了吗！$"
 
 
 Route42_EventScript_Tully::
@@ -226,83 +225,74 @@ Route42_EventScript_Item_UltraBall::
 	end
 
 Route42_Text_FisherTullySeen:
-	.string "Let me demonstrate the power\n"
-	.string "of the POKéMON I caught!$"
+	.string "就让你见识一下我亲手钓到的宝可梦\n"
+	.string "有多强吧！$"
 
 Route42_Text_FisherTullyBeaten:
-	.string "What? That's not right.\n"
-	.string "I can't believe this!$"
+	.string "怎么会？这不对劲啊。真不敢相信！$"
 
 Route42_Text_FisherTullyAfter:
-	.string "I want to become the trainer\n"
-	.string "CHAMP using the POKéMON I\l"
-	.string "caught myself.\p"
-	.string "That's the best part of fishing!$"
+	.string "我想用自己钓到的宝可梦成为冠军训\n"
+	.string "练家。\p"
+	.string "这才是钓鱼最棒的地方！$"
 
 Route42_Text_HikerBenjaminSeen:
-	.string "Ah, it's good to be outside!\n"
-	.string "I feel so free!$"
+	.string "啊，在户外真是舒服！感觉好自由啊\n"
+	.string "！$"
 
 Route42_Text_HikerBenjaminBeaten:
-	.string "Gahahah! That was a good\n"
-	.string "battle!$"
+	.string "嘎哈哈！打得真痛快！$"
 
 Route42_Text_HikerBenjaminAfter:
-	.string "Losing feels insignificant\n"
-	.string "if you look up at the big sky!$"
+	.string "抬头望望辽阔的天空，输掉比赛也就\n"
+	.string "微不足道了！$"
 
 Route42_Text_PokemaniacShaneSeen:
-	.string "HEY!\p"
-	.string "This is my secret place!\n"
-	.string "Get lost, you outsider!$"
+	.string "喂！\p"
+	.string "这里是我的秘密基地！闲杂人等快走\n"
+	.string "开！$"
 
 Route42_Text_PokemaniacShaneBeaten:
-	.string "I should have used my\n"
-	.string "MOON STONE…$"
+	.string "早知道就用月之石了......$"
 
 Route42_Text_PokemaniacShaneAfter:
-	.string "You're working on a POKéDEX?\p"
-	.string "Wow, you must know some\n"
-	.string "pretty rare POKéMON!\p"
-	.string "May I please see it?\n"
-	.string "Please?$"
+	.string "你在收集宝可梦图鉴吗？\p"
+	.string "哇，那你一定认识很多稀有的宝可梦\n"
+	.string "吧！\p"
+	.string "能让我看看吗？求求你了！$"
 
 Route42_Text_Sign1:
-	.string "ROUTE 42\p"
-	.string "ECRUTEAK CITY - MAHOGANY TOWN$"
+	.string "42号道路\p"
+	.string "圆朱市 - 卡吉镇$"
 
 Route42_Text_MtMortarSign1:
-	.string "MT.MORTAR\p"
-	.string "WATERFALL CAVE INSIDE$"
+	.string "擂钵山\p"
+	.string "内有瀑布洞窟$"
 
 Route42_Text_TullyRegister:
-	.string "I want to become the trainer\n"
-	.string "CHAMP using the POKéMON I\l"
-	.string "caught myself.\p"
-	.string "That's the best part of fishing!$"
+	.string "我想用自己钓到的宝可梦成为冠军训\n"
+	.string "练家。\p"
+	.string "这才是钓鱼最棒的地方！$"
 
 Route42_Text_TullyRematchIntro:
-	.string "Let me demonstrate the power\n"
-	.string "of the POKéMON I caught!$"
+	.string "就让你见识一下我亲手钓到的宝可梦\n"
+	.string "有多强吧！$"
 
 Route42_Text_TullyRematchDefeat:
-	.string "What? That's not right.\n"
-	.string "I can't believe this!$"
+	.string "怎么会？这不对劲啊。真不敢相信！$"
 
 Route42_Text_TullyPostRematch:
-	.string "I want to become the trainer\n"
-	.string "CHAMP using the POKéMON I\l"
-	.string "caught myself.\p"
-	.string "That's the best part of fishing!$"
+	.string "我想用自己钓到的宝可梦成为冠军训\n"
+	.string "练家。\p"
+	.string "这才是钓鱼最棒的地方！$"
 
 Route42_Text_TullyHasItem:
-	.string "Hey! I found something\n"
-	.string "while I was fishing!\p"
-	.string "Here, you can have it!$"
+	.string "嘿！我钓鱼的时候捡到了好东西！\p"
+	.string "给，这个送你了！$"
 
 Route42_Text_TullyGaveItem:
-	.string "I'll let you know if I\n"
-	.string "reel in anything else!$"
+	.string "要是再钓到什么好东西，我会通知你\n"
+	.string "的！$"
 
 Route42_Text_TullyNoRoom:
 	.string "Hmm, your BAG is full.\p"

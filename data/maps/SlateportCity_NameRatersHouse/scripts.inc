@@ -71,10 +71,11 @@ SlateportCity_NameRatersHouse_Text_CritiqueWhichMonNickname:
 	.string "你想算哪只宝可梦的昵称啊？$"
 
 SlateportCity_NameRatersHouse_Text_FineNameSuggestBetterOne:
-	.string "Hmmm… {STR_VAR_1}, is it? That is\n"
-	.string "quite a fine name you bestowed.\p"
-	.string "But! What say you, if I were to\n"
-	.string "suggest a slightly better name?$"
+	.string "唔......叫\n"
+	.string "{STR_VAR_1}是吧？起得\l"
+	.string "相当不错嘛。\p"
+	.string "不过！如果让我给它改一个稍微好听\n"
+	.string "一点的名字，你意下如何？$"
 
 SlateportCity_NameRatersHouse_Text_WhatShallNewNameBe:
 	.string "是吗，那……取个什么昵称好呢？$"
@@ -89,11 +90,11 @@ SlateportCity_NameRatersHouse_Text_DoVisitAgain:
 	.string "这样啊。知道了，你有空再来吧。$"
 
 SlateportCity_NameRatersHouse_Text_NameNoDifferentYetSuperior:
-	.string "Done! From now on, this POKéMON\n"
-	.string "shall be known as {STR_VAR_1}!\p"
-	.string "It looks no different from before,\n"
-	.string "and yet, this is vastly superior!\p"
-	.string "How fortunate for you!$"
+	.string "搞定！从现在起，这只宝可梦的名字\n"
+	.string "就叫做{STR_VAR_1}了！\p"
+	.string "虽然看起来和之前一样，但这可是比\n"
+	.string "原来大有长进哦！\p"
+	.string "真是太幸运啦！$"
 
 SlateportCity_NameRatersHouse_Text_MagnificentName:
 	.string "唔嗯……{STR_VAR_1}啊\n"

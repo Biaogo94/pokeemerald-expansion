@@ -24,55 +24,53 @@ Route2_EventScript_Nugget::
     end
 
 Route2_Text_RobRegister:
-	.string "Let me get your number!$"
+	.string "把你的电话号码告诉我吧！$"
 
 Route2_Text_RobRematchIntro:
-	.string "I've caught even more bugs!\n"
-	.string "Check them out!$"
+	.string "我又抓到了更多虫宝可梦！快来瞧瞧\n"
+	.string "吧！$"
 
 Route2_Text_RobRematchDefeat:
-	.string "I need better bugs!$"
+	.string "我需要更厉害的虫宝可梦！$"
 
 Route2_Text_RobPostRematch:
-	.string "I caught every bug in VIRIDIAN.\n"
-	.string "Is there a better FOREST somewhere?$"
+	.string "我把常青森林里所有的虫宝可梦都抓\n"
+	.string "遍了。哪里还有更好的森林吗？$"
 
 Route2_Text_BugCatcherRob_Seen:
-	.string "My bug POKéMON are tough. Prepare to\n"
-	.string "lose!$"
+	.string "我的虫宝可梦可是很厉害的。做好认\n"
+	.string "输的准备吧！$"
 
 Route2_Text_BugCatcherRob_Beaten:
-	.string "I was whipped…$"
+	.string "彻底输了......$"
 
 Route2_Text_BugCatcherRob_AfterBattle:
-	.string "I'm going to look for stronger bug\n"
-	.string "POKéMON.$"
+	.string "我要去寻找更强的虫宝可梦。$"
 
 Route2_Text_BugCatcherEd_Seen:
-	.string "If you walk in tall grass wearing\n"
-	.string "shorts, do you get nicks and cuts?$"
+	.string "穿短裤走在草丛里，难道不会被划伤\n"
+	.string "吗？$"
 
 Route2_Text_BugCatcherEd_Beaten:
-	.string "Ouch, ouch, ouch!$"
+	.string "好疼、好疼、好疼！$"
 
 Route2_Text_BugCatcherEd_AfterBattle:
-	.string "They'll really sting when you take a\n"
-	.string "bath.$"
+	.string "洗澡的时候伤口会刺痛得不行呢。$"
 
 Route2_Text_BugCatcherDoug_Seen:
-	.string "Why don't girls like bug POKéMON?$"
+	.string "为什么女孩子都不喜欢虫宝可梦呢？$"
 
 Route2_Text_BugCatcherDoug_Beaten:
-	.string "No good!$"
+	.string "完全不行啊！$"
 
 Route2_Text_BugCatcherDoug_AfterBattle:
-	.string "Bug POKéMON squish like plush toys\n"
-	.string "when you squeeze their bellies.\p"
-	.string "I love how they feel!$"
+	.string "捏捏虫宝可梦的肚子时，软绵绵的手\n"
+	.string "感就像毛绒玩具一样。\p"
+	.string "我最喜欢这种感觉了！$"
 
 Route2_Text_Sign:
-	.string "ROUTE 2\p"
-	.string "VIRIDIAN CITY - PEWTER CITY$"
+	.string "2号道路\p"
+	.string "常青市 - 深灰市$"
 
 Route2_Text_DiglettsCaveSign:
 	.string "地鼠洞$"

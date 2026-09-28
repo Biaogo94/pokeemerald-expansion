@@ -15,13 +15,12 @@ ReceptionGate_EventScript_Janine::
     end
 
 ReceptionGate_Text_Janine:
-    .string "JANINE: I'm on the way to my dad's\n"
-    .string "house to give him his lunch.\p"
-    .string "The ELITE FOUR has no time to rest\n"
-    .string "day or night. It's such hard work,\l"
-    .string "you know?\p"
-    .string "If you're ready for another battle,\n"
-    .string "I'll be at the DOJO later.$"
+    .string "阿杏：我正要去我老爸那里给他送午\n"
+    .string "餐呢。\p"
+    .string "四天王不分昼夜地忙碌，根本没有休\n"
+    .string "息时间，真的很辛苦呢。\p"
+    .string "如果你想再和我对战一场，我待会儿\n"
+    .string "会去道场。$"
 
 
 ReceptionGate_EventScript_Officer::
@@ -67,30 +66,28 @@ ReceptionGate_EventScript_KantoGuard::
     end
 
 VictoryRoadGate_Text_Officer:
-    .string "Only trainers who have proven\n"
-    .string "themselves may pass.$"
+    .string "只有证明过自己实力的训练家方可通\n"
+    .string "过。$"
 
 VictoryRoadGate_Text_Kimono:
-    .string "Sorry kid, this way is closed until\n"
-    .string "someone deals with that LEGENDARY\l"
-    .string "POKéMON...$"
+    .string "抱歉啊小朋友，在有人解决掉那只传\n"
+    .string "说中的宝可梦之前，这里暂时封路了\l"
+    .string "......$"
 
 VictoryRoadGate_Text_NotEnoughBadges:
-    .string "You don't have all the GYM BADGES\n"
-    .string "of JOHTO.\p"
-    .string "I'm sorry, but I can't let you go\n"
-    .string "through.$"
+    .string "你还没有集齐城都地区的全部道馆徽\n"
+    .string "章。\p"
+    .string "很抱歉，我不能让你通过。$"
 
 VictoryRoadGate_Text_EightBadges:
-    .string "Oh! The eight BADGES of JOHTO!\p"
-    .string "Please, go right on through!$"
+    .string "哦！城都地区的8枚徽章！\p"
+    .string "请进，直接过去吧！$"
 
 VictoryRoadGate_Text_LeftBlackBelt:
-    .string "This way leads to MT.SILVER.\p"
-    .string "You'll see scary-strong POKéMON out\n"
-    .string "there.$"
+    .string "这条路通往白银山。\p"
+    .string "那里的宝可梦可是强得吓人哦。$"
 
 VictoryRoadGate_Text_RightBlackBelt:
-    .string "Off to the POKéMON LEAGUE, are you?\p"
-    .string "The ELITE FOUR are so strong it's\n"
-    .string "scary, and they're ready for you!$"
+    .string "准备前往宝可梦联盟，对吗？\p"
+    .string "四天王的实力可是强得吓人，他们已\n"
+    .string "经严阵以待了！$"

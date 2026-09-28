@@ -90,40 +90,34 @@ NewSinjoh_KimonoHideout_Movement_KimonoWalksUp:
 	step_end
 
 NewSinjoh_KimonoHideout_Text_PlayerMeetsKimonos:
-	.string "{PLAYER}.\p"
-	.string "Please, approach.$"
+	.string "{PLAYER}。\p"
+	.string "请到跟前来。$"
 
 NewSinjoh_KimonoHideout_Text_PlayerMeetsMiharu:
-    .string "MIHARU: Welcome to NEW SINJOH, \n"
-	.string "{PLAYER}.\p"
-	.string "For generations, this village has\n"
-	.string "peacefully coexisted with immensely\l"
-	.string "powerful POKéMON, in isolation from\l"
-	.string "the prying eyes of outsiders.\p"
-	.string "Recent events at our sacred temple\n"
-	.string "and a subsequent influx of uninvited\l"
-	.string "guests now threaten to disrupt the\l"
-	.string "careful balance we have long\l"
-	.string "protected.$"
+    .string "美晴：欢迎来到新神都，\n"
+    .string "{PLAYER}。\p"
+    .string "世世代代以来，这个村落一直远离外\n"
+    .string "界探寻的目光，与无比强大的宝可梦\l"
+    .string "和平共处。\p"
+    .string "然而最近神圣神殿中发生的事，以及\n"
+    .string "随之涌入的不速之客，正威胁并打破\l"
+    .string "着我们守护已久的脆弱平衡。$"
 
 NewSinjoh_KimonoHideout_Text_PlayerMeetsShizuko:
-	.string "SHIZUKO: Our cousins in ECRUTEAK\n"
-	.string "CITY made us aware of your\l"
-	.string "connection to the LEGENDARY POKéMON\l"
-	.string "of the JOHTO REGION, and your\l"
-	.string "prowess as a trainer.\p"
-	.string "We believe you can help us in these\n"
-	.string "trying times.$"
+	.string "静子：我们在圆朱市的姐妹们已经告\n"
+	.string "诉我们，你与城都地区的传说中的宝\l"
+	.string "可梦有着深厚羁绊，并且是一名身手\l"
+	.string "不凡的训练家。\p"
+	.string "我们相信，在这个多事之秋，你能够\n"
+	.string "助我们一臂之力。$"
 
 NewSinjoh_KimonoHideout_Text_PlayerMeetsYouko:
-	.string "YOUKO: Go to the SINJOH RUINS, to\n"
-	.string "the north of ROUTE 50.\p"
-	.string "Meet with the scientists there, and\n"
-	.string "investigate the events that invoked\l"
-	.string "their presence.\p"
-	.string "It is imperative that the LEGENDARY\n"
-	.string "POKéMON there are not disturbed\l"
-	.string "by the unworthy.$"
+	.string "洋子：请前往50号道路以北的神都\n"
+	.string "遗迹。\p"
+	.string "去见见那里的研究员，并调查引发他\n"
+	.string "们前来的事件。\p"
+	.string "绝对不能让平庸之辈惊扰了那里的传\n"
+	.string "说中的宝可梦。$"
 
 
 @ ============KIMONO GIRL NPCs=====================================================================================
@@ -164,25 +158,23 @@ NewSinjoh_KimonoHideout_EventScript_MiharuAfter::
 	end
 
 NewSinjoh_KimonoHideout_Text_MiharuBeforeBattle:
-	.string "MIHARU: Just as we predicted.\p"
-	.string "The champion of stone sent you\n"
-	.string "to collect the PLATES.\p"
-	.string "Our order has guarded these\n"
-	.string "PLATES for centuries.\p"
-	.string "We will not part with them\n"
-	.string "readily.$"
+	.string "美晴：正如我们所料。\p"
+	.string "那位痴迷石头的冠军派你来收集石板\n"
+	.string "对吧。\p"
+	.string "我们一门数百年来看守着这些石板。\p"
+	.string "可不会轻易就将它们拱手相让。$"
 
 NewSinjoh_KimonoHideout_Text_MiharuAfter:
-	.string "MIHARU: You are worthy.$"
+	.string "美晴：你确实有此资格。$"
 
 NewSinjoh_KimonoHideout_EventScript_MiharuFinal::
 	msgbox NewSinjoh_KimonoHideout_Text_MiharuFinal, MSGBOX_AUTOCLOSE
 	end
 
 NewSinjoh_KimonoHideout_Text_MiharuFinal:
-	.string "MIHARU: You have done our village\n"
-	.string "a great service, {PLAYER}.\p"
-	.string "We will not forget this.$"
+	.string "美晴：你为我们的村子立下了大功，\n"
+	.string "{PLAYER}。\p"
+	.string "我们绝不会忘记这份恩情。$"
 
 NewSinjoh_KimonoHideout_EventScript_Youko::
 	lock
@@ -220,23 +212,21 @@ NewSinjoh_KimonoHideout_EventScript_YoukoAfter::
 	end
 
 NewSinjoh_KimonoHideout_Text_YoukoBeforeBattle:
-	.string "YOUKO: Our cousins speak so\n"
-	.string "highly of you.\p"
-	.string "Is it true?\p"
-	.string "I will find out.$"
+	.string "洋子：姐妹们把你夸得神乎其神。\p"
+	.string "到底是不是真的呢？\p"
+	.string "就让我亲自来见识一下吧。$"
 
 NewSinjoh_KimonoHideout_Text_YoukoAfter:
-	.string "YOUKO: Our cousins were right\n"
-	.string "about you.$"
+	.string "洋子：姐妹们果然没有看错你。$"
 
 NewSinjoh_KimonoHideout_EventScript_YoukoFinal::
 	msgbox NewSinjoh_KimonoHideout_Text_YoukoFinal, MSGBOX_AUTOCLOSE
 	end
 
 NewSinjoh_KimonoHideout_Text_YoukoFinal:
-	.string "YOUKO: I had my doubts, at first.\p"
-	.string "But after what you've done, it\n"
-	.string "cannot be denied.$"
+	.string "洋子：起初我还有所怀疑。\p"
+	.string "但看到你的所作所为，已经毋庸置疑\n"
+	.string "了。$"
 
 NewSinjoh_KimonoHideout_EventScript_Shizuko::
 	lock
@@ -274,25 +264,24 @@ NewSinjoh_KimonoHideout_EventScript_ShizukoAfter::
 	end
 
 NewSinjoh_KimonoHideout_Text_ShizukoBeforeBattle:
-	.string "SHIZUKO: We are trained in\n"
-	.string "battle as well as dance.\p"
-	.string "Obtaining the PLATEs will\n"
-	.string "require strength and determination.$"
+	.string "静子：我们不仅精通舞蹈，在对战方\n"
+	.string "面也受过严苛的训练。\p"
+	.string "想要获得石板，必须具备强大的实力\n"
+	.string "与坚定的意志。$"
 
 NewSinjoh_KimonoHideout_Text_ShizukoAfter:
-	.string "SHIZUKO: The bond you share\n"
-	.string "with your POKéMON is quite strong.\p"
-	.string "You have earned this PLATE.$"
+	.string "静子：你与宝可梦之间的羁绊十分深\n"
+	.string "厚。\p"
+	.string "这块石板你受之无愧。$"
 
 NewSinjoh_KimonoHideout_EventScript_ShizukoFinal::
 	msgbox NewSinjoh_KimonoHideout_Text_ShizukoFinal, MSGBOX_AUTOCLOSE
 	end
 
 NewSinjoh_KimonoHideout_Text_ShizukoFinal:
-	.string "SHIZUKO: Few trainers in all\n"
-	.string "of SINJOH's storied history have\l"
-	.string "managed what you've just done.\p"
-	.string "Quite impressive, {PLAYER}.$"
+	.string "静子：在神都漫长的历史长河中，鲜\n"
+	.string "有训练家能达成你这样的壮举。\p"
+	.string "真是令人赞叹，{PLAYER}。$"
 
 @ =================================================================================================
 
@@ -301,16 +290,14 @@ NewSinjoh_KimonoHideout_EventScript_OldMan::
 	end
 
 NewSinjoh_KimonoHideout_Text_OldMan:
-    .string "The KIMONO GIRLS have watched\n"
-	.string "over our village since its founding.\p"
-	.string "They have sacrificed much.\p"
-	.string "Blessed by the Gods themselves,\n"
-	.string "they have powers beyond that\l"
-	.string "of any normal trainer!\p"
-	.string "That is to say, be prepared\n"
-	.string "if you ever fight them, young one.$"
+    .string "舞姬们从建村之初就一直守护着我们\n"
+    .string "的村落。\p"
+    .string "她们付出了很多牺牲。\p"
+    .string "受到神明眷顾的她们，所拥有的力量\n"
+    .string "远超普通训练家！\p"
+    .string "也就是说，年轻人，如果要和她们交\n"
+    .string "手，一定要做好万全准备。$"
 
 NewSinjoh_KimonoHideout_Text_OldManAfter:
-    .string "You have bested the champions of\n"
-	.string "our village.\p"
-	.string "What does that make you, young one?$"
+    .string "你竟然击败了我们村子的守护者。\p"
+    .string "年轻人，你究竟是何方神圣？$"

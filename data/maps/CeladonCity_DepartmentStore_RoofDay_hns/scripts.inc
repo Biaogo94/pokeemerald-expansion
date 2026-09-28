@@ -27,27 +27,28 @@ CeladonDept6_EventScript_Directory::
 
 
 CeladonDeptStore6F_Text_Vending:
-	.string "A vending machine! Here's the menu.$"
+	.string "是自动售货机！来看看有什么饮料吧\n"
+	.string "。$"
 
 CeladonDeptStore6F_Text_Clang:
-	.string "Clang!\p"
-	.string "{STRING} popped out.$"
+	.string "匡啷！\p"
+	.string "掉出了{STRING}。$"
 
 CeladonDeptStore6F_Text_VendingNoMoney:
-	.string "Oops, not enough money…$"
+	.string "哎呀，身上的钱不够......$"
 
 CeladonDeptStore6F_Text_VendingNoSpace:
-	.string "There's no more room for stuff…$"
+	.string "背包里已经装不下更多东西了...\n"
+	.string "...$"
 
 CeladonDeptStore6F_Text_SuperNerd:
-	.string "A vending machine with a prize\n"
-	.string "roulette…\p"
-	.string "You never see those anymore.$"
+	.string "带抽奖轮盘的自动售货机.....\n"
+	.string ".\p"
+	.string "现在已经见不到了呢。$"
 
 CeladonDeptStore6F_Text_Youngster:
-	.string "Aww! There's no games here!\p"
-	.string "I wanted to play…$"
+	.string "啊--！这里根本没有游戏机啊！\p"
+	.string "我还想玩呢......$"
 
 CeladonDeptStore6F_Text_Directory:
-	.string "6F: ROOFTOP SQUARE VENDING\n"
-	.string "MACHINES$"
+	.string "6楼：屋顶广场　自动售货机$"

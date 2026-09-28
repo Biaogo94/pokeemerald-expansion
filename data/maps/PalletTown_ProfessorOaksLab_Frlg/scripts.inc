@@ -1529,18 +1529,15 @@ PalletTown_ProfessorOaksLab_Text_AllMonTypesHaveStrongAndWeakPoints::
 	.string "优势和弱势。$"
 
 PalletTown_ProfessorOaksLab_Text_EmailMessage::
-	.string "There's an e-mail message here.\p"
-	.string "…\p"
-	.string "Finally!\n"
-	.string "The ultimate TRAINERS of the\l"
-	.string "POKéMON LEAGUE are ready to\l"
-	.string "take on all comers!\p"
-	.string "Bring your best POKéMON and see\n"
-	.string "how you rate as a TRAINER!\p"
-	.string "POKéMON LEAGUE HQ\n"
-	.string "INDIGO PLATEAU\p"
-	.string "PROF. OAK, please visit us!\n"
-	.string "…$"
+	.string "这里有一封电子邮件。\p"
+	.string "......\p"
+	.string "终于！宝可梦联盟的最强训练家们已\n"
+	.string "经准备好迎接所有挑战者！\p"
+	.string "带上你最强的宝可梦，来测试你作为\n"
+	.string "训练家的真正实力吧！\p"
+	.string "宝可梦联盟本部石英高原\p"
+	.string "大木博士，请务必光临！.....\n"
+	.string ".$"
 
 PalletTown_ProfessorOaksLab_Text_StudyAsOaksAide::
 	.string "我作为大木博士的助手，也在研究宝\n"

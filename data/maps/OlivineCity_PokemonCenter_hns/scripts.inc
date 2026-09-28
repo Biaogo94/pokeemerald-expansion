@@ -30,7 +30,6 @@ OlivineCity_Text_PokecenterFisher:
 	.string "without breaking a sweat.$"
 
 OlivineCity_Text_PokecenterTeacher:
-	.string "There's a person in CIANWOOD\n"
-	.string "CITY across the sea.\p"
-	.string "I heard him bragging about his\n"
-	.string "rare POKéMON all the time.$"
+	.string "大海对面的湛蓝市有个人，\p"
+	.string "听说他整天到处吹嘘自己拥有稀有的\n"
+	.string "宝可梦呢。$"

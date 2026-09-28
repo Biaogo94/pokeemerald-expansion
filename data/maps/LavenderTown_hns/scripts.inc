@@ -39,11 +39,11 @@ LavenderTown_EventScript_SoulHouseSign::
 	end
 
 LavenderTown_Text_PokefanM:
-	.string "That's quite some building, eh?\p"
-	.string "It's KANTO's RADIO TOWER.$"
+	.string "那栋建筑真壮观，对吧？\p"
+	.string "那是关都的广播电台塔。$"
 
 LavenderTown_Text_Teacher:
-	.string "KANTO has many good radio shows.$"
+	.string "关都有很多精彩的广播节目呢。$"
 
 LavenderTown_Text_Gramps:
 	.string "People come from all over to pay\n"
@@ -51,13 +51,13 @@ LavenderTown_Text_Gramps:
 	.string "souls of POKéMON.$"
 
 LavenderTown_Text_Youngster:
-	.string "You need a POKé FLUTE to wake\n"
-	.string "sleeping POKéMON.\p"
-	.string "Every trainer has to know that!$"
+	.string "要唤醒睡着的宝可梦，需要宝可梦之\n"
+	.string "笛。\p"
+	.string "这可是每位训练家都该知道的常识！$"
 
 LavenderTown_Text_Sign:
-	.string "LAVENDER TOWN\p"
-	.string "The Noble Purple Town$"
+	.string "紫苑镇\p"
+	.string "高贵紫色的 安详小镇$"
 
 LavenderTown_Text_KantoRadioStationSign:
 	.string "KANTO RADIO STATION\p"
@@ -69,6 +69,5 @@ LavenderTown_Text_VolunteerPokemonHouseSign:
 	.string "HOUSE$"
 
 LavenderTown_Text_SoulHouseSign:
-	.string "SOUL HOUSE\p"
-	.string "May the Souls of POKéMON Rest\n"
-	.string "Easy$"
+	.string "灵魂之屋\p"
+	.string "愿宝可梦的灵魂在此安息$"

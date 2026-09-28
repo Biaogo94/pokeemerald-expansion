@@ -326,10 +326,9 @@ LilycoveCity_ContestHall_Text_EnteredBunchOfContests:
 	.string "等就吸引不了别人。$"
 
 LilycoveCity_ContestHall_Text_ManWhoWonEarlierHadPokeblocks:
-	.string "That young man who won earlier had\n"
-	.string "a whole bunch of different {POKEBLOCK}S.\p"
-	.string "Can you win if you had that many\n"
-	.string "of those things?$"
+	.string "刚才获胜的那个小伙子有好多不同种\n"
+	.string "类的{POKEBLOCK}呢。\p"
+	.string "只要拥有那么多，就能获胜吗？$"
 
 LilycoveCity_ContestHall_Text_IsntThisPlaceHumongous:
 	.string "哇，这儿好大！\p"

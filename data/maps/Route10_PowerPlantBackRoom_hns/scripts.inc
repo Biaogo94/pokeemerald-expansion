@@ -60,29 +60,28 @@ Route10_PowerPlantBackRoom_EventScript_Engineer::
 	end
 
 Route10_PowerPlantBackRoom_Text_ManagerWhoWouldRuinMyGenerator:
-	.string "MANAGER: I, I, I'm ready to blast\n"
-	.string "someone!\p"
-	.string "Who would dare ruin my\n"
-	.string "generator?\p"
-	.string "I spent so much time on it!\p"
-	.string "If I catch him, he's going to\n"
-	.string "get a taste of my ZAP CANNON!$"
+	.string "所长：我、我、我现在气得快要爆炸\n"
+	.string "了！\p"
+	.string "到底是谁敢破坏我的发电机？！\p"
+	.string "那可是我花了好多心血造出来的！\p"
+	.string "要是让我逮到那家伙，一定要让他尝\n"
+	.string "尝我电磁炮的厉害！$"
 
 Route10_PowerPlantBackRoom_Text_ManagerIWontForgiveCulprit:
-	.string "MANAGER: I won't forgive him!\p"
-	.string "The culprit can cry and\n"
-	.string "apologize,\p"
-	.string "but I'll still hammer him!\p"
-	.string "Gahahahah!$"
+	.string "所长：我绝不饶他！\p"
+	.string "就算那个犯人哭着向我赔礼道歉，\p"
+	.string "我也要狠狠痛扁他一顿！\p"
+	.string "嘎哈哈哈哈！$"
 
 Route10_PowerPlantBackRoom_Text_ManagerThatsThePart:
-	.string "MANAGER: Ah! Yeah!\p"
-	.string "That's the missing PART from my\n"
-	.string "beloved generator! You found it?$"
+	.string "所长：啊！没错！\p"
+	.string "这就是我心爱的发电机上缺少的零件\n"
+	.string "！被你找到了吗？$"
 
 Route10_PowerPlantBackRoom_Text_ManagerTakeThisTM:
-	.string "Wahah! Thanks!\p"
-	.string "Here! Take this TM as a reward!$"
+	.string "哇哈哈！太感谢了！\p"
+	.string "来！收下这个招式学习器作为谢礼吧\n"
+	.string "！$"
 
 Route10_PowerPlantBackRoom_Text_ManagerTM07IsZapCannon:
 	.string "MANAGER: That TM is THUNDER.\p"
@@ -92,9 +91,10 @@ Route10_PowerPlantBackRoom_Text_ManagerTM07IsZapCannon:
 	.string "wallop!$"
 
 Route10_PowerPlantBackRoom_Text_ManagerMyBelovedGenerator:
-	.string "MANAGER: My beloved generator!\p"
-	.string "Keep pumping the electricity out!$"
+	.string "所长：我心爱的发电机啊！\p"
+	.string "继续源源不断地产出电力吧！$"
 
 Route10_PowerPlantBackRoom_Text_Engineer:
-	.string "This door is unsafe without power.$"
+	.string "在没有通电的情况下，这扇门很不安\n"
+	.string "全。$"
 

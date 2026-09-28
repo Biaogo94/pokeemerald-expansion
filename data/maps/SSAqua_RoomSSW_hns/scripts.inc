@@ -12,23 +12,21 @@ SSAqua_RoomSSW_EventScript_Ken::
 	end
 
 SSAqua_RoomSSW_Text_FirebreatherLyleSeen:
-    .string "I'm going to KANTO to put\n"
-    .string "on fire-breathing shows!$"
+    .string "我要去关都表演喷火特技！$"
 
 SSAqua_RoomSSW_Text_FirebreatherLyleBeaten:
-    .string "Fizzle… The flame's tiny…$"
+    .string "扑哧......火苗太小了...\n"
+    .string "...$"
 
 SSAqua_RoomSSW_Text_FirebreatherLyleAfterBattle:
-    .string "I guess fire is weak on the sea.\n"
-    .string "It doesn't matter? Really?$"
+    .string "看来在海上火势会变弱啊。跟这没关\n"
+    .string "系？真的假的？$"
 
 SSAqua_RoomSSW_Text_BugCatcherKenSeen:
-    .string "I'm visiting my grandma to\n"
-    .string "catch me some bugs!$"
+    .string "我要去奶奶家抓虫宝可梦！$"
 
 SSAqua_RoomSSW_Text_BugCatcherKenBeaten:
-    .string "Ooh, wow. You're tough!$"
+    .string "哇啊，你好厉害！$"
 
 SSAqua_RoomSSW_Text_BugCatcherKenAfterBattle:
-    .string "You can find lots of POKéMON\n"
-    .string "in the trees of JOHTO!$"
+    .string "在城都的树上能找到好多宝可梦呢！$"

@@ -122,36 +122,34 @@ Route30_EventScript_Mailbox::
 	end
 
 Route30_Text_Mailbox:
-	.string "MR.POKéMON's House$"
+	.string "宝可梦爷爷的家$"
 
 Route30_Text_UseTackle:
-	.string "Go, RATTATA!\p"
-	.string "TACKLE!$"
+	.string "上啊，小拉达！\p"
+	.string "撞击！$"
 
 Route30_Text_ThisIsABigBattle:
-	.string "What? This is a big battle!\n"
-	.string "Leave me alone!$"
+	.string "干什么？这可是场激烈的对战！别来\n"
+	.string "打扰我！$"
 
 Route30_Text_YoungsterJoey1Seen:
-	.string "I just lost, so I'm trying to\n"
-	.string "find more POKéMON.\p"
-	.string "Wait! You look weak! Come on,\n"
-	.string "let's battle!$"
+	.string "我刚刚输了，所以正打算多抓几只宝\n"
+	.string "可梦。\p"
+	.string "等等！你看上去挺弱的嘛！来，跟我\n"
+	.string "对战一场！$"
 
 Route30_Text_YoungsterJoey1Beaten:
-	.string "Ack! I lost again!\n"
-	.string "Doggone it!$"
+	.string "啊！我又输了！真可恶！$"
 
 Route30_Text_YoungsterJoey1After:
-	.string "Do I have to have more POKéMON\n"
-	.string "in order to battle better?\p"
-	.string "No! I'm sticking with this one\n"
-	.string "no matter what!$"
+	.string "要想对战变得更强，就非得收服更多\n"
+	.string "宝可梦不可吗？\p"
+	.string "不！不管怎样，我都要和这只伙伴坚\n"
+	.string "持到底！$"
 
 Route30_Text_YoungsterMikeySeen:
-	.string "You're a POKéMON trainer,\n"
-	.string "right?\p"
-	.string "Then you have to battle!$"
+	.string "你也是宝可梦训练家，对吧？\p"
+	.string "那就非得和我对战不可啦！$"
 
 Route30_Text_YoungsterMikeyBeaten:
 	.string "That's strange.\n"
@@ -168,7 +166,7 @@ Route30_Text_BugCatcherDonSeen:
 	.string "I found a trainer!$"
 
 Route30_Text_BugCatcherDonBeaten:
-	.string "Argh! You're too strong!$"
+	.string "哎呀！你也太强了吧！$"
 
 Route30_Text_BugCatcherDonAfter:
 	.string "I ran out of POKé BALLS while\n"
@@ -180,9 +178,8 @@ Route30_Text_YoungsterDirectionsToMrPokemon:
 	.string "It's a bit farther ahead.$"
 
 Route30_Text_YoungsterEveryoneIsBattling:
-	.string "Everyone's having fun\n"
-	.string "battling!\p"
-	.string "You should too!$"
+	.string "大家都在开心地对战呢！\p"
+	.string "你也一起来吧！$"
 
 Route30_Text_CooltrainerF:
 	.string "I'm not a trainer.\p"
@@ -190,15 +187,15 @@ Route30_Text_CooltrainerF:
 	.string "eyes, prepare to battle.$"
 
 Route30_Text_Sign:
-	.string "ROUTE 30\p"
-	.string "VIOLET CITY - CHERRYGROVE CITY$"
+	.string "30号道路\p"
+	.string "桔梗市 - 吉花市$"
 
 Route30_Text_MrPokemonsHouseDirectionsSign:
 	.string "MR. POKéMON'S HOUSE\n"
 	.string "STRAIGHT AHEAD!$"
 
 Route30_Text_MrPokemonsHouseSign:
-	.string "MR. POKéMON'S HOUSE$"
+	.string "宝可梦爷爷的家$"
 
 Route30_Text_TrainerTips:
 	.string "TRAINER TIPS\p"
@@ -221,8 +218,7 @@ Route30_Text_JoeyRematchIntro:
 	.string "different! Let's battle!$"
 
 Route30_Text_JoeyRematchDefeat:
-	.string "Ack! I lost again!\n"
-	.string "Doggone it!$"
+	.string "啊！我又输了！真可恶！$"
 
 Route30_Text_JoeyPostRematch:
 	.string "I'm checking out my\n"
@@ -253,4 +249,4 @@ Route30_Text_Elm_Disaster:
 
 
 Route30_Text_Poliwag:
-	.string "POLIWAG: Wag waag!$"
+	.string "蚊香蝌蚪：呦~呦！$"

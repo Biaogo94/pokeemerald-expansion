@@ -486,7 +486,7 @@ Alola_Akala_Bench_Heal_Movement_0:
 	step_end
 
 Alola_Akala_BattleSandygast_Text_0:
-	.string "Coorr!$"
+	.string "库呜--！$"
 
 AkalaIsle_hns_Movement_FacePlayerUpAfterTotemWarp:
 	face_up
@@ -494,122 +494,123 @@ AkalaIsle_hns_Movement_FacePlayerUpAfterTotemWarp:
 
 
 Alola_Akala_Sign_Text_0:
-	.string "AKALA ISLE$"
+	.string "阿卡拉岛$"
 
 Alola_Akala_House_Sign_Text_0:
-	.string "AKALA VILLA\p"
-	.string "A place for visitors to stay while\n"
-	.string "on AKALA ISLE.$"
+	.string "阿卡拉度假别庄\p"
+	.string "专供造访阿卡拉岛的游客住宿的地方\n"
+	.string "。$"
 
 Alola_Akala_Natu_Text_0:
-	.string "NATU: TUUUUU!$"
+	.string "天然雀：嘟--！$"
 
 Alola_Akala_OldManOnBench_Text_0:
-	.string "Ah the weather is so nice today,\n"
-	.string "isn't it?\p"
-	.string "I was just feeding the NATU and this\n"
-	.string "one decided to join me on my bench!$"
+	.string "啊，今天天气真好，不是吗？\p"
+	.string "我刚刚正在喂天然雀，这只就跑来长\n"
+	.string "椅上陪我了！$"
 
 Alola_Akala_TotemBattle_Text_0:
-	.string "Mortaar!$"
+	.string "莫塔--！$"
 
 Alola_Akala_TotemBattle_Text_1:
-	.string "Totem MAGMORTAR was defeated!\n"
-	.string "It scampered off somewhere…$"
+	.string "霸主鸭嘴炎兽被击败了！它不知道逃\n"
+	.string "往哪里去了......$"
 
 Alola_Akala_TotemBattle_Text_2:
-	.string "Prrrob!$"
+	.string "普罗--！$"
 
 Alola_Akala_TotemBattle_Text_3:
-	.string "Totem PROBOPASS was defeated!\n"
-	.string "It scampered off somewhere…$"
+	.string "霸主大朝北鼻被击败了！它不知道逃\n"
+	.string "往哪里去了......$"
 
 Alola_Akala_Totem_sign_Text_0:
-	.string "The totem is emanating a strong\n"
-	.string "energy…\p"
-	.string "Touch the totem to teleport to another\n"
-	.string "Isle?$"
+	.string "图腾正散发出一股强烈的能量...\n"
+	.string "...\p"
+	.string "要触碰图腾传送至其他岛屿吗？$"
 
 Alola_Akala_Totem_sign_Text_1:
-	.string "MELEMELE ISLE$"
+	.string "美乐美乐岛$"
 
 Alola_Akala_Totem_sign_Text_2:
-	.string "ULA'ULA ISLE$"
+	.string "乌拉乌拉岛$"
 
 Alola_Akala_Totem_sign_Text_3:
-	.string "PONI ISLE$"
+	.string "波尼岛$"
 
 Alola_Akala_Totem_sign_Text_4:
 	.string "取消$"
 
 Alola_Akala_Totem_sign_Text_5:
-	.string "A strange totem stands here,\n"
-	.string "power is emanating from it…$"
+	.string "这里伫立着一个奇异的图腾，正散发\n"
+	.string "出一股能量......$"
 
 Alola_Akala_BattleVsTapuLele_Text_0:
-	.string "Le-Lele!$"
+	.string "哩--哩哩！$"
 
 Alola_Akala_TrainerBattleHiker_Text_0:
-	.string "I came to the ISLES to hike the\nmountains!$"
+	.string "我来到这些岛屿是为了登山！$"
 
 Alola_Akala_TrainerBattleHiker_Text_1:
-	.string "And down I tumble…$"
+	.string "结果我摔倒了......$"
 
 Alola_Akala_TrainerBattleHiker_Text_2:
-	.string "AKALA ISLE has the best hiking!\n"
-	.string "It's got lush forests and rugged trails!$"
+	.string "阿卡拉岛最适合登山了！这里有茂密\n"
+	.string "的森林和险峻的山路！$"
 
 Alola_Akala_TrainerBattlePicnicker_Text_0:
-	.string "Ha! Didn't see me, did you?$"
+	.string "哈！没看到我吧？$"
 
 Alola_Akala_TrainerBattlePicnicker_Text_1:
-	.string "I guess the element of surprise isn't\nalways super effective…$"
+	.string "看来出其不意也不是每次都效果绝佳\n"
+	.string "啊......$"
 
 Alola_Akala_TrainerBattlePicnicker_Text_2:
-	.string "It's so lush on AKALA ISLE,\n"
-	.string "I can easily hide in the trees!$"
+	.string "阿卡拉岛草木郁郁葱葱，我可以轻松\n"
+	.string "躲在树林里！$"
 
 Alola_Akala_TrainerBattleCamper_Text_0:
-	.string "I want to be the first to prove myself\nto the Totem POKéMON!$"
+	.string "我想成为第一个向霸主宝可梦证明自\n"
+	.string "己实力的人！$"
 
 Alola_Akala_TrainerBattleCamper_Text_1:
-	.string "Drat,\nthat's not going to help my case.$"
+	.string "可恶，这样可证明不了我的实力啊。$"
 
 Alola_Akala_TrainerBattleCamper_Text_2:
-	.string "There's a weird Totem further ahead but\n"
-	.string "I haven't seen a Totem POKéMON.$"
+	.string "前面有一个奇怪的图腾，但我还没见\n"
+	.string "到霸主宝可梦。$"
 
 Alola_Akala_TrainerBattleSwimmerLand_Text_0:
-	.string "Hey! No shoes on the beach!$"
+	.string "喂！沙滩上可不能穿鞋！$"
 
 Alola_Akala_TrainerBattleSwimmerLand_Text_1:
-	.string "Ouch,\nwhere's a lifeguard when you need one…$"
+	.string "哎哟，需要救生员的时候他们都去哪\n"
+	.string "儿了......$"
 
 Alola_Akala_TrainerBattleSwimmerLand_Text_2:
-	.string "AKALA ISLE has the best beaches!\n"
-	.string "It's got soft sand and clear waters!$"
+	.string "阿卡拉岛的海滩最棒了！沙子又软，\n"
+	.string "海水又清澈！$"
 
 Alola_Akala_TrainerBattleSwimmerWater_Text_0:
-	.string "Out of my way!\nI'm swimming laps!$"
+	.string "借过借过！我正在折返游呢！$"
 
 Alola_Akala_TrainerBattleSwimmerWater_Text_1:
-	.string "Not the break I was looking for…$"
+	.string "我想要的休息可不是这种啊....\n"
+	.string "..$"
 
 Alola_Akala_TrainerBattleSwimmerWater_Text_2:
-	.string "ULA'ULA ISLE has the best beaches!\n"
-	.string "Ignore anyone who says otherwise!$"
+	.string "乌拉乌拉岛的海滩才是最棒的！别听\n"
+	.string "其他人胡说八道！$"
 
 Alola_Akala_TrainerBattleSwimmerWaterM_Text_0:
-	.string "Hah!\nYou need to ride a POKéMON to surf?$"
+	.string "哈！你冲浪居然还要骑宝可梦？$"
 
 Alola_Akala_TrainerBattleSwimmerWaterM_Text_1:
-	.string "If I hadn't swam myself\nmaybe I would've had the energy to win…$"
+	.string "如果不是我自己游过来，也许还有力\n"
+	.string "气能赢呢......$"
 
 Alola_Akala_TrainerBattleSwimmerWaterM_Text_2:
-	.string "The current out here is strong!\n"
-	.string "A POKéMON must be really powerful to\l"
-	.string "migrate all the way out to the ISLES!$"
+	.string "这里的洋流很急！能一路迁徙到这些\n"
+	.string "岛屿上的宝可梦，一定非常强壮吧！$"
 
 Alola_Akala_Bench_Heal_Text_0:
-	.string "Would you like to take a rest on this\n"
-	.string "bench?$"
+	.string "你想在这张长椅上休息一下吗？$"

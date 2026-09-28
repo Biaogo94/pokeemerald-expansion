@@ -35,27 +35,22 @@ GoldenrodDeptStore4_EventScript_Sign::
 	end
 
 GoldenrodDeptStore_Text_4FCooltrainerM:
-    .string "Hey. I love strong POKéMON.\p"
-    .string "I feed them PROTEIN to crank up\n"
-    .string "their ATTACK.$"
+    .string "嗨。我最喜欢强壮的宝可梦了。\p"
+    .string "我经常喂它们吃攻击增强剂来提高它\n"
+    .string "们的攻击。$"
 
 GoldenrodDeptStore_Text_4FBugCatcher:
-    .string "IRON adds to your POKéMON's\n"
-    .string "DEFENSE.$"
+    .string "防御增强剂可以提升宝可梦的防御。$"
 
 GoldenrodDeptStore_Text_4FGameboyKid:
-    .string "There were rumours that some\n"
-    .string "POKéMON evolve only by\l"
-    .string "being traded via a Game Link\l"
-    .string "cable.\p"
-    .string "Pfft...\p"
-    .string "Such misinformation.\p"
-    .string "I know some of the rumoured\n"
-    .string "POKéMON:\l"
-    .string "MACHOKE, KADABRA, HAUNTER and,\l"
-    .string "um, GRAVELER,\l"
-    .string "but they all evolve through\l"
-    .string "level up.$"
+    .string "曾有传言说，有些宝可梦只能通过连\n"
+    .string "接线通信交换才能进化。\p"
+    .string "哼......\p"
+    .string "真是道听途说。\p"
+    .string "我知道传言中的几种宝可梦：豪力、\n"
+    .string "勇基拉、鬼斯通，还有......\l"
+    .string "呃，隆隆石，其实它们只要提升等级\l"
+    .string "就能进化了。$"
 
 GoldenrodDeptStore4_EventScript_Clerk::
 	lock
@@ -78,5 +73,5 @@ GoldenrodDeptStore4_Pokemart:
 	pokemartlistend
 
 GoldenrodDeptStore_Text_4FDirectory:
-    .string "Let Us Pump Up Your POKéMON!\p"
-    .string "4F MEDICINE BOX$"
+    .string "让我们来强健您的宝可梦！\p"
+    .string "4F 药剂专柜$"

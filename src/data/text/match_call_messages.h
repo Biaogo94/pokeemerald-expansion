@@ -308,7 +308,7 @@ const u8 gText_MatchCallPkmnBreeder_Lydia_Intro2[] = _("需要知识和爱。");
 
 const u8 gText_MatchCallPkmnBreeder_Isaac_Strategy[] = _("全力进攻！");
 const u8 gText_MatchCallPkmnBreeder_Isaac_Pokemon[] = _("我什么都会培育。");
-const u8 gText_MatchCallPkmnBreeder_Isaac_Intro1[] = _("I give them {POKEBLOCK}S for");
+const u8 gText_MatchCallPkmnBreeder_Isaac_Intro1[] = _("我喂它们{POKEBLOCK}是\n为了");
 const u8 gText_MatchCallPkmnBreeder_Isaac_Intro2[] = _("为赢得华丽大赛冠军。");
 
 const u8 gText_MatchCallPkmnBreeder_Gabrielle_Strategy[] = _("悉心培育宝可梦。");

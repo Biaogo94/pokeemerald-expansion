@@ -289,20 +289,16 @@ WhirlIslands_LugiaChamber_EventScript_KuniAfter::
 	end
 
 WhirlIslands_LugiaChamber_Text_Kimono_AfterNotCaught:
-	.string "You have not only made LUGIA\n"
-	.string "appear, but you have also defeated\l"
-	.string "it...\p"
-	.string "There is nothing more for us to\n"
-	.string "say. Take care of yourself in your\l"
-	.string "journey...$"	
+	.string "你不仅让洛奇亚现身，还击败了它.\n"
+	.string ".....\p"
+	.string "我们已经没有什么好说的了。前方的\n"
+	.string "旅途请多加保重......$"
 
 WhirlIslands_LugiaChamber_Text_Kimono_AfterCaught:
-	.string "You have not only made LUGIA\n"
-	.string "appear, but you have also caught\l"
-	.string "it...\p"
-	.string "There is nothing more for us to\n"
-	.string "say. Take care of yourself in your\l"
-	.string "journey...$"
+	.string "你不仅让洛奇亚现身，还收服了它.\n"
+	.string ".....\p"
+	.string "我们已经没有什么好说的了。前方的\n"
+	.string "旅途请多加保重......$"
 
 WhirlIslands_LugiaChamber_Movement_CameraPanUp:
 	walk_up
@@ -560,39 +556,37 @@ WhirlIslands_LugiaChamber_Movement_Kimono_Dance_Shift_Right2:
 	step_end
 
 WhirlIslands_LugiaChamber_Text_Zuki_Before::
-	.string "ZUKI: Go, face LUGIA. $"
+	.string "玉绪：去吧，直面洛奇亚。 $"
 WhirlIslands_LugiaChamber_Text_Naoko_Before::
-	.string "NAOKO: Go, face LUGIA. $"
+	.string "菜穗子：去吧，直面洛奇亚。 $"
 WhirlIslands_LugiaChamber_Text_Miki_Before::
-	.string "MIKI: Go, face LUGIA. $"
+	.string "美纪：去吧，直面洛奇亚。 $"
 WhirlIslands_LugiaChamber_Text_Sayo_Before::
-	.string "SAYO: Go, face LUGIA. $"
+	.string "小夜：去吧，直面洛奇亚。 $"
 WhirlIslands_LugiaChamber_Text_Kuni_Before::
-	.string "KUNI: Go, face LUGIA. $"
+	.string "国枝：去吧，直面洛奇亚。 $"
 
 WhirlIslands_LugiaChamber_Text_Kimono_Opening::
-	.string "KIMONO GIRL: That's right.\n"
-	.string "This is where we welcome LUGIA.\p"
-	.string "When the dance we practiced many\n"
-	.string "days becomes one with the sound of the\l"
-	.string "Tidal Bell we entrusted to you, then\l"
-	.string "LUGIA shall come out from deep within\l"
-	.string "the waterfall basin once again. $"
+	.string "艺妓：没错。这里就是迎接洛奇亚的\n"
+	.string "地方。\p"
+	.string "当我们苦练多日的舞蹈，与托付给你\n"
+	.string "的海鸣之铃的铃声融为一体时，洛奇\l"
+	.string "亚便会再次从瀑布潭的深处现身。 $"
 
 WhirlIslands_LugiaChamber_Text_Kimono_Closing1::
-	.string "That is indeed LUGIA...\n"
-	.string "The guardian of these islands from\l"
-	.string "ancient times... \p"
-	.string "So many have tried again and again,\n"
-	.string "only to fail...\p"
-	.string "{PLAYER}, your heart in complete\n"
-	.string "harmony with the Tidal Bell has finally\l"
-	.string "allowed it to appear...\n"
-	.string "{PLAYER}, don't you see?\p"
-	.string "LUGIA... It must have been waiting for\n"
-	.string "someone like you all this time.\p"
-	.string "Wouldn't you agree? $"
+	.string "那确实就是洛奇亚......自古\n"
+	.string "以来便守护着这些岛屿的神明...\l"
+	.string "... \p"
+	.string "无数人一次又一次地尝试，最终却都\n"
+	.string "失败了......\p"
+	.string "{PLAYER}，是你那与海鸣之\n"
+	.string "铃完全交融的心意，才终于让它现身\l"
+	.string "了......{PLAYER}，\l"
+	.string "难道你还不明白吗？\p"
+	.string "洛奇亚......它一直都在等待\n"
+	.string "着像你这样的人出现啊。\p"
+	.string "难道不是吗？ $"
 
 WhirlIslands_LugiaChamber_Text_Kimono_After::
-	.string "KIMONO GIRL: You've proven yourself\n"
-	.string "today, {PLAYER}.$"
+	.string "艺妓：{PLAYER}，你今天证\n"
+	.string "明了自己的实力。$"

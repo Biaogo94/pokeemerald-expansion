@@ -5,10 +5,10 @@ const struct HelpWindow gHelpWindowInfo[] =
 {
     [HELP_DEMO_WINDOW] =
     {
-        .header = COMPOUND_STRING("Information: Help Windows"),
-        .desc = COMPOUND_STRING("This is a help window. You can put\n"
-                                "lots of text on the screen that\n"
-                                "players won't read!\n\nIsn't that great!"
+        .header = COMPOUND_STRING("提示：帮助窗口"),
+        .desc = COMPOUND_STRING("这是一个帮助窗口。你可以在屏幕上\n"
+                                "显示一大堆玩家根本不会读的文字！\l"
+                                "很棒吧！"
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_NORMAL,
@@ -16,13 +16,12 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_GAMESTART_WINDOW] =
     {
-        .header = COMPOUND_STRING("Information: More Options"),
-        .desc = COMPOUND_STRING("The clock can be changed from any\n"
-                                "POKéMON CENTER with no penalty.\n"
-                                "Make sure to check your BAG's KEY ITEMS\n"
-                                "and your OPTIONS MENU for even more\n"
-                                "ways to customize your experience.\n"
-                                "Enjoy!"
+        .header = COMPOUND_STRING("提示：更多选项"),
+        .desc = COMPOUND_STRING("在任何宝可梦中心都可以调整时间，\n"
+                                "且不会受到任何惩罚。请务必查看背\l"
+                                "包里的重要宝物以及设置菜单，探索\l"
+                                "更多自定义游戏体验的方式。祝你玩\l"
+                                "得开心！"
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_NORMAL,
@@ -30,14 +29,14 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_TRADE_WINDOW] =
     {
-        .header = COMPOUND_STRING("WARNING: COMPATIBILITY"),
-        .desc = COMPOUND_STRING("Attempting to link incorrectly may result\n"
-                                "in permanent damage to your save file.\n"
-                                "Only link with another player if:\n"
-                                "You are both playing Heart & Soul.\n"
-                                "You are both on the same version.\n"
-                                "You both have the same challenge settings.\n"
-                                "You are NOT using any randomizer settings."
+        .header = COMPOUND_STRING("警告：兼容性问题"),
+        .desc = COMPOUND_STRING("不正确的联机可能会导致存档数据受\n"
+                                "到永久损坏。仅在满足以下全部条件\l"
+                                "时与其他玩家联机：双方都在游玩《\l"
+                                "Heart & Soul》;双方\l"
+                                "的游戏版本完全一致;双方的挑战难\l"
+                                "度设置完全一致;双方均未开启任何\l"
+                                "随机模式。"
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,
@@ -45,12 +44,10 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_TELEPORTER_WINDOW] =
     {
-        .header = COMPOUND_STRING("OPTIONAL BONUS CONTENT: TELEPORTER"),
-        .desc = COMPOUND_STRING("The TELEPORTER can PERMANENTLY change\n"
-                                "POKéMON into their GALARIAN forms.\n"
-                                "GALARIAN forms are NOT required\n"
-                                "for story progression or\n"
-                                "NATIONAL POKéDEX completion.\n"
+        .header = COMPOUND_STRING("可选追加内容：传送机"),
+        .desc = COMPOUND_STRING("传送机可以永久将宝可梦转变为它们\n"
+                                "的伽勒尔形态。推进故事剧情或完成\l"
+                                "全国图鉴都不强制需要伽勒尔形态。"
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_NORMAL,
@@ -58,13 +55,11 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_SINJOH_WINDOW] =
     {
-        .header = COMPOUND_STRING("OPTIONAL BONUS CONTENT: SINJOH"),
-        .desc = COMPOUND_STRING("This NPC grants access to optional\n"
-                                "bonus content: SINJOH.\n"
-                                "It is NOT required for story\n"
-                                "or NATIONAL POKéDEX completion.\n"
-                                "\n"
-                                "It's just a bonus. If you want it."
+        .header = COMPOUND_STRING("可选追加内容：神都"),
+        .desc = COMPOUND_STRING("与这名NPC对话可体验可选的追加\n"
+                                "内容：神都。通关剧情或集齐全国图\l"
+                                "鉴均不需要该内容。这只是额外的奖\l"
+                                "励内容，全看你想不想去。"
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_NORMAL,
@@ -72,13 +67,11 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_ALOLA_WINDOW] =
     {
-        .header = COMPOUND_STRING("OPTIONAL BONUS CONTENT: ISLES"),
-        .desc = COMPOUND_STRING("This NPC grants access to optional\n"
-                                "bonus content: ISLES.\n"
-                                "It is NOT required for story\n"
-                                "or NATIONAL POKéDEX completion.\n"
-                                "\n"
-                                "It's just a bonus. If you want it."
+        .header = COMPOUND_STRING("额外追加内容：群岛"),
+        .desc = COMPOUND_STRING("与该NPC对话可体验额外追加内容\n"
+                                "：群岛。此内容非主线通关或全国图\l"
+                                "鉴收集所必需。仅作为额外要素供您\l"
+                                "体验。"
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_NORMAL,
@@ -86,14 +79,12 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE1_WINDOW] =
     {
-        .header = COMPOUND_STRING("BABY POKéMON ABILITIES"),
-        .desc = COMPOUND_STRING("PICHU's ability is STATIC.\n"
-                                "CLEFFA's ability is CUTE CHARM.\n"
-                                "IGGLYBUFF's ability is CUTE CHARM.\n"
-                                "TYROGUE's ability is GUTS.\n"
-                                "SMOOCHUM's ability is OBLIVIOUS.\n"
-                                "ELEKID's ability is STATIC.\n"
-                                "MAGBY's ability is FLAME BODY."
+        .header = COMPOUND_STRING("幼童宝可梦的特性"),
+        .desc = COMPOUND_STRING("皮丘的特性是静电。皮宝宝的特性是\n"
+                                "迷人之躯。宝宝丁的特性是迷人之躯\l"
+                                "。无畏小子的特性是毅力。迷唇娃的\l"
+                                "特性是迟钝。电击怪的特性是静电。\l"
+                                "鸭嘴宝宝的特性是火焰之躯。"
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,
@@ -101,14 +92,11 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE2_WINDOW] =
     {
-        .header = COMPOUND_STRING("BABY POKéMON TYPES"),
-        .desc = COMPOUND_STRING("PICHU is ELECTRIC type.\n"
-                                "CLEFFA is NORMAL type.\n"
-                                "IGGLYBUFF is NORMAL type.\n"
-                                "TYROGUE is FIGHTING type.\n"
-                                "SMOOCHUM is ICE type.\n"
-                                "ELEKID is ELECTRIC type.\n"
-                                "MAGBY is FIRE type."
+        .header = COMPOUND_STRING("幼童宝可梦的属性"),
+        .desc = COMPOUND_STRING("皮丘是电属性。皮宝宝是一般属性。\n"
+                                "宝宝丁是一般属性。无畏小子是格斗\l"
+                                "属性。迷唇娃是冰属性。电击怪是电\l"
+                                "属性。鸭嘴宝宝是火属性。"
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,
@@ -116,7 +104,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE3_WINDOW] =
     {
-        .header = COMPOUND_STRING("BABY POKéMON CRIES"),
+        .header = COMPOUND_STRING("幼童宝可梦的叫声"),
         .desc = COMPOUND_STRING("PICHU says WAAAH.\n"
                                 "CLEFFA says EEK.\n"
                                 "IGGLYBUFF says LALALA.\n"
@@ -131,14 +119,12 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE4_WINDOW] =
     {
-        .header = COMPOUND_STRING("BABY POKéMON ACTIONS"),
-        .desc = COMPOUND_STRING("PICHU likes to PLAY all day.\n"
-                                "CLEFFA LOOKS at the moon.\n"
-                                "IGGLYBUFF puts them to SLEEP.\n"
-                                "TYROGUE TRAINS constantly.\n"
-                                "SMOOCHUM likes to SHOW off.\n"
-                                "ELEKID STORES up charge.\n"
-                                "MAGBY often ANGERS."
+        .header = COMPOUND_STRING("幼童宝可梦的习性"),
+        .desc = COMPOUND_STRING("皮丘喜欢整天玩耍。皮宝宝喜欢眺望\n"
+                                "月亮。宝宝丁能让大家入睡。无畏小\l"
+                                "子总是不断修行。迷唇娃喜欢炫耀自\l"
+                                "己。电击怪会积蓄电力。鸭嘴宝宝常\l"
+                                "常容易生气。"
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,
@@ -146,15 +132,15 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_POKEBLOCK_WINDOW] =
     {
-        .header = COMPOUND_STRING("FEEDERS: REGULAR POKéBLOCKS"),
-        .desc = COMPOUND_STRING("POKéBLOCK colors attract perfect IVs:\n"
-                                "RED: HP,ATK,SPE   BLU: HP,SPA,SPE\n"
-                                "PNK: ATK,SPA,SPE  GRN: HP,DEF,SPD\n"
-                                "YEL: HP,ATK,DEF   PUR: ATK,DEF,SPD\n"
-                                "IND: HP,SPA,SPD   BRN: DEF,SPE,SPD\n"
-                                "LBL: SPA,SPE,SPD  OLV: ATK,DEF,SPE\n"
-                                "GRY: HP,ATK,SPA\n"
-                                "Every POKéBLOCK attracts HIDDEN ABILITY."
+        .header = COMPOUND_STRING("喂食器：普通宝可方块"),
+        .desc = COMPOUND_STRING("宝可方块颜色能吸引对应满个体值(\n"
+                                "V)：红色：HP、攻击、速度  \l 蓝色：HP、特攻、速度粉色：攻\l"
+                                "击、特攻、速度  绿色：HP、防\l"
+                                "御、特防黄色：HP、攻击、防御 \l"
+                                "  紫色：攻击、防御、特防靛色：\lHP、特攻、特防   褐色：防御\l"
+                                "、速度、特防浅蓝：特攻、速度、特\l"
+                                "防  橄榄：攻击、防御、速度灰色\l"
+                                "：HP、攻击、特攻所有宝可方块均\l能吸引隐藏特性。"
 
                             ),
         .headerFont = FONT_NORMAL,
@@ -163,14 +149,13 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_GOLD_POKEBLOCK_WINDOW] =
     {
-        .header = COMPOUND_STRING("FEEDERS: GOLD POKéBLOCKS"),
-        .desc = COMPOUND_STRING("GOLD POKéBLOCKS attract POKéMON with\n"
-                                "5 perfect IVs. Flavor determines which\n"
-                                "IV is not perfect.\n"
-                                "SPICY: no SP.ATK    DRY:    no ATTACK\n"
-                                "SWEET: no SP.DEF   BITTER: no SPEED\n"
-                                "SOUR:  no HP\n"
-                                "Every POKéBLOCK attracts HIDDEN ABILITY."
+        .header = COMPOUND_STRING("喂食器：金色宝可方块"),
+        .desc = COMPOUND_STRING("金色宝可方块能吸引拥有5项满个体\n"
+                                "值的宝可梦。口味决定了哪项个体值\l"
+                                "不满：辣味：缺特攻    涩味：\l"
+                                "缺攻击甜味：缺特防    苦味：\l"
+                                "缺速度酸味：缺HP所有宝可方块均\l"
+                                "能吸引隐藏特性。"
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,

@@ -68,5 +68,4 @@ PewterCity_Museum_1F_Text_Oldman:
 	.string "see the bones of a dragon!$"
 
 PewterCity_Museum_1F_Text_Bones:
-	.string "Bones of an ancient dragon\n"
-	.string "POKéMON.$"
+	.string "古代龙宝可梦的骨骼。$"

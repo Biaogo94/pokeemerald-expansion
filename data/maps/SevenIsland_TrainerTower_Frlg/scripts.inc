@@ -34,10 +34,9 @@ SevenIsland_TrainerTower_Text_RodetteDefeat::
 	.string "真是一个令人惊异的训练家！$"
 
 SevenIsland_TrainerTower_Text_RodettePostBattle::
-	.string "Somewhere on this island, peculiar\n"
-	.string "POKéMON are sleeping.\p"
-	.string "Could it be that they're waiting\n"
-	.string "for you?$"
+	.string "在这座岛上的某个地方，沉睡着不同\n"
+	.string "寻常的宝可梦。\p"
+	.string "难道说，它们正在等待你的到来吗？$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerSign::
 	.string "训练家之塔入口上去挑战，训练家！$"

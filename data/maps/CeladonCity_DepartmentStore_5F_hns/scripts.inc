@@ -30,20 +30,22 @@ CeladonDeptStore5_EventScript_Receptionist_Already::
 	end
 
 CeladonDeptStore_Text_5FReceptionistOhYourMon:
-    .string "Hello. Oh, your POKéMON…$"
+    .string "你好呀。哎呀，你的宝可梦....\n"
+    .string "..$"
 
 CeladonDeptStore_Text_5FReceptionistWait:
-    .string "Wait, I already gave you that TM!$"
+    .string "等等，那个招式学习器我不是已经给\n"
+    .string "你了吗！$"
 
 CeladonDeptStore_Text_5FReceptionistPutInSomeMoreEffort:
-	.string "Hmm…\n"
-	.string "It's not bad, but it's also not good.\p"
-	.string "You, as the TRAINER, need to put in\n"
-	.string "some more effort.$"
+	.string "嗯......说不上差，但也谈不\n"
+	.string "上好。\p"
+	.string "作为训练家，你还需要再多加努力才\n"
+	.string "行。$"
 
 CeladonDeptStore_Text_5FReceptionistItLooksEvilHowAboutThisTM:
-    .string "It looks evil. How about this TM\n"
-    .string "for it?$"
+    .string "它的眼神看起来好凶狠啊。给它用这\n"
+    .string "个招式学习器怎么样？$"
 
 CeladonDept5_EventScript_Gent::
 	msgbox CeladonDeptStore5F_Text_Gentleman, MSGBOX_NPC
@@ -72,26 +74,25 @@ CeladonDeptStore5_EventScript_Falkner::
 	end
 
 CeladonDeptStore5_Text_Falkner:
-	.string "{PLAYER}. I didn't expect to see\n"
-	.string "you here.\p"
-	.string "I'm picking up gear for my\n"
-	.string "bird POKéMON.\p"
-	.string "If you want to face me again, I'll\n"
-	.string "be at the DOJO in SAFFRON CITY.$"
+	.string "{PLAYER}。没想到会在这里\n"
+	.string "遇见你。\p"
+	.string "我正在为我的鸟宝可梦挑选装备。\p"
+	.string "如果你还想与我对战，就来金黄市的\n"
+	.string "格斗道馆找我吧。$"
 
 CeladonDeptStore5F_Text_Gentleman:
-	.string "I want to buy some items that\n"
-	.string "raise POKéMON stats, but I don't\l"
-	.string "have enough money…$"
+	.string "我想买些能提升宝可梦能力的道具，\n"
+	.string "可是手头的钱不够......$"
 
 CeladonDeptStore5F_Text_Sailor:
-	.string "I want PP UP, so I can raise the\n"
-	.string "PP of moves. But you can't buy it…$"
+	.string "我好想买PP提升剂来增加招式的P\n"
+	.string "P啊。可惜这东西根本没得卖...\l"
+	.string "...$"
 
 CeladonDeptStore5F_Text_Teacher:
-	.string "Using items on them makes POKéMON\n"
-	.string "happy.\p"
-	.string "They hate certain items, though…$"
+	.string "给宝可梦使用道具会让它们开心。\p"
+	.string "不过，有些道具它们其实很讨厌呢.\n"
+	.string ".....$"
 
 CeladonDeptStore5F_Text_Directory:
-	.string "5F: DRUG STORE$"
+	.string "5F：药剂卖场$"

@@ -310,7 +310,7 @@ GoldenrodCity_Text_HikerNight:
 	.string "in there?!$"
 
 GoldenrodCity_Text_Snubbull:
-	.string "SNUBBULL: SNUUUBUUUULL!$"
+	.string "布鲁：布呜噜--！$"
 
 GoldenrodCity_Text_MrMime:
 	.string "............................$"
@@ -368,7 +368,7 @@ GoldenrodCity_Text_Gramps:
 	.string "I can't find anything at all.$"
 
 GoldenrodCity_Text_RocketScout1:
-	.string "So this is the RADIO TOWER…$"
+	.string "原来这就是广播电台啊......$"
 
 GoldenrodCity_Text_RocketScout2:
 	.string "What do you want, pest?\n"
@@ -379,95 +379,96 @@ GoldenrodCity_Text_Rocket1:
 	.string "Beat it, kid!$"
 
 GoldenrodCity_Text_Rocket2:
-	.string "Take over the RADIO TOWER…\p"
-	.string "What? It's none of your business!$"
+	.string "占领广播电台......\p"
+	.string "看什么看？少多管闲事！$"
 
 GoldenrodCity_Text_Rocket3:
-	.string "POKéMON? They're just tools\n"
-	.string "we use to make money!$"
+	.string "宝可梦？那不过是我们用来赚钱的工\n"
+	.string "具罢了！$"
 
 GoldenrodCity_Text_Rocket4:
-	.string "Our dream will soon come true…\p"
-	.string "It was a long, hard struggle…$"
+	.string "我们的梦想马上就要实现了....\n"
+	.string "..\p"
+	.string "这一路可真是一段漫长而艰辛的奋斗\n"
+	.string "啊......$"
 
 GoldenrodCity_Text_Rocket5:
-	.string "Hey, brat! You don't belong here!\n"
-	.string "Get lost already!$"
+	.string "喂，小鬼！这里可不是你该来的地方\n"
+	.string "！赶紧滚一边去！$"
 
 GoldenrodCity_Text_Rocket6:
-	.string "Come and taste the terror of\n"
-	.string "TEAM ROCKET!$"
+	.string "来体会火箭队带来的恐怖吧！$"
 
 GoldenrodCity_Text_StationSign:
-	.string "GOLDENROD CITY STATION$"
+	.string "满金市车站$"
 
 GoldenrodCity_Text_RadioTowerSign:
-	.string "GOLDENROD CITY RADIO TOWER$"
+	.string "满金广播电台$"
 
 GoldenrodCity_Text_DeptStoreSign:
-	.string "Full Selection of POKéMON Goods!\p"
-	.string "GOLDENROD CITY DEPT.STORE$"
+	.string "各类宝可梦周边一应俱全！\p"
+	.string "满金百货公司$"
 
 GoldenrodCity_Text_GymSign:
-	.string "GOLDENROD CITY POKéMON GYM\n"
-	.string "LEADER: WHITNEY\p"
-	.string "The Incredibly Pretty Girl!$"
+	.string "满金市宝可梦道馆馆主：小茜\p"
+	.string "可爱到不可思议的美少女！$"
 
 GoldenrodCity_Text_CitySign:
-	.string "GOLDENROD CITY\p"
-	.string "The Festive City of Opulent Charm$"
+	.string "满金市\p"
+	.string "热闹繁荣的魅力都市$"
 
 GoldenrodCity_Text_BikeShopSign:
-	.string "The World is a Cycle Path!\n"
-	.string "BIKE SHOP$"
+	.string "整个世界都是自行车道！自行车店$"
 
 GoldenrodCity_Text_GameCornerSign:
-	.string "Your Playground!\p"
-	.string "GOLDENROD CITY GAME CORNER$"
+	.string "属于你的游乐场！\p"
+	.string "满金游戏城$"
 
 GoldenrodCity_Text_NameRaterSign:
-	.string "NAME RATER\p"
-	.string "Get Your POKéMON Nicknames Rated$"
+	.string "姓名鉴定师\p"
+	.string "为你的宝可梦昵称进行鉴定$"
 
 GoldenrodCity_Text_UndergroundNorthSign:
-	.string "UNDERGROUND ENTRANCE$"
+	.string "地下通路入口$"
 
 GoldenrodCity_Text_UndergroundSouthSign:
-	.string "UNDERGROUND ENTRANCE$"
+	.string "地下通路入口$"
 
 
 GoldenrodCity_Text_FlowerShopSign:
-	.string "Blooming Beautiful FLOWER SHOP$"
+	.string "繁花盛开的花店$"
 
 GoldenrodCity_Text_MoveTutorAsk:
-	.string "I can teach your POKéMON some\n"
-	.string "amazing moves!\p"
-	.string "Should I teach one?$"
+	.string "我可以传授给你的宝可梦非常厉害的\n"
+	.string "招式哦！\p"
+	.string "要让我教一个吗？$"
 
 GoldenrodCity_Text_MoveTutorCost:
-	.string "It'll cost you 1000 coins.\n"
-	.string "Okay?$"
+	.string "这需要花费1000枚代币。可以吗\n"
+	.string "？$"
 
 GoldenrodCity_Text_MoveTutorDecline:
-	.string "Aww… But these moves are great!$"
+	.string "啊......可这些招式真的很棒\n"
+	.string "呢！$"
 
 GoldenrodCity_Text_MoveTutorWhich:
-	.string "Wahahah! You won't regret it!\p"
-	.string "Which move should I teach?$"
+	.string "哇哈哈！你绝不会后悔的！\p"
+	.string "要学哪一个招式呢？$"
 
 GoldenrodCity_Text_MoveTutorNoCash:
-	.string "Too bad. Guess I'll need to\n"
-	.string "get some cash from home…$"
+	.string "真遗憾。看来我得找家里要点零用钱\n"
+	.string "了......$"
 
 GoldenrodCity_Text_MoveTutorUnderstand:
-	.string "If you understand this move,\n"
-	.string "you've made it as a trainer.$"
+	.string "如果你能领悟这个招式，你就已经是\n"
+	.string "一个合格的训练家了。$"
 
 GoldenrodCity_Text_MoveTutorFarewell:
-	.string "Wahahah! Farewell, kid!$"
+	.string "哇哈哈！再见啦，小鬼！$"
 
 GoldenrodCity_Text_MoveTutorBut:
-	.string "B-but…$"
+	.string "但、但是......$"
 
 GoldenrodCity_Text_MoveTutorNotEnoughCoins:
-	.string "…You don't have enough coins…$"
+	.string "......你的代币不够哦...\n"
+	.string "...$"

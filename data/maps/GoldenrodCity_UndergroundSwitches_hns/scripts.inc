@@ -533,10 +533,11 @@ GoldenrodUnderground_Text_SilverBefore:
     .string "I will repay my debts!$"
 
 GoldenrodUnderground_Text_SilverWin:
-    .string "…Why… Why do I lose?\p"
-    .string "I've assembled the toughest POKéMON.\p"
-    .string "I didn't ease up on the gas.\p"
-    .string "So why do I lose?$"
+    .string "......为什么......为\n"
+    .string "什么我会输？\p"
+    .string "我集结的明明全是最强的宝可梦。\p"
+    .string "我也从没有一丝松懈。\p"
+    .string "那为什么我还会输？$"
 
 GoldenrodUnderground_Text_SilverAfter:
     .string "…I don't understand…\p"
@@ -559,24 +560,24 @@ GoldenrodUnderground_Text_SilverLoss:
     .string "under my heels.$"
 
 GoldenrodUnderground_Text_GruntM11Seen:
-    .string "Open one shutter, another closes.\p"
-    .string "Bet you can't get where you want!$"
+    .string "开了一扇门，另一扇就会关上。\p"
+    .string "我敢说你绝对到不了想去的地方！$"
 
 GoldenrodUnderground_Text_GruntM11Beaten:
-    .string "Drat! I was sunk by indecision!$"
+    .string "可恶！我一犹豫就彻底翻船了！$"
 
 GoldenrodUnderground_Text_GruntM11After:
     .string "I'm confused too… The switch on the\n"
     .string "end is the one to press first, but…$"
 
 GoldenrodUnderground_Text_GruntM25Seen:
-    .string "Kwahaha!\p"
-    .string "Confounded by the shutters, are we?\p"
-    .string "I'll let you in on a secret if you\n"
-    .string "can beat me!$"
+    .string "嘎哈哈哈！\p"
+    .string "被这些卷帘门搞得团团转了吧？\p"
+    .string "要是你能赢过我，我就告诉你个秘密\n"
+    .string "！$"
 
 GoldenrodUnderground_Text_GruntM25Beaten:
-    .string "Uwww… I blew it.$"
+    .string "呜呜呜......我搞砸了。$"
 
 GoldenrodUnderground_Text_GruntM25After:
     .string "All right. A hint!\p"
@@ -585,67 +586,66 @@ GoldenrodUnderground_Text_GruntM25After:
     .string "open and close.$"
 
 GoldenrodUnderground_Text_BurglarDuncanSeen:
-    .string "Fork over your goodies!$"
+    .string "把身上的好东西乖乖交出来！$"
 
 GoldenrodUnderground_Text_BurglarDuncanBeaten:
-    .string "Mercy!$"
+    .string "饶命啊！$"
 
 GoldenrodUnderground_Text_BurglarDuncanAfter:
     .string "Steal and sell! That's basic in\n"
     .string "crime, kid!$"
 
 GoldenrodUnderground_Text_BurglarEddieSeen:
-    .string "They ditched this project before they\n"
-    .string "finished.\p"
-    .string "I'm searching for leftover loot.$"
+    .string "工程还没搞完，他们就把这里废弃了\n"
+    .string "。\p"
+    .string "我正在找找有没有剩下的值钱玩意。$"
 
 GoldenrodUnderground_Text_BurglarEddieBeaten:
-    .string "Over the top!$"
+    .string "太嚣张了吧！$"
 
 GoldenrodUnderground_Text_BurglarEddieAfter:
-    .string "UNDERGROUND WAREHOUSE?\p"
-    .string "What do you want to go there for?\p"
-    .string "There's nothing down there.$"
+    .string "地下仓库？\p"
+    .string "你想去那里干什么？\p"
+    .string "那下面可什么都没有啊。$"
 
 GoldenrodUnderground_Text_GruntM13Seen:
-    .string "I don't care if you're lost.\p"
-    .string "You show up here, you're nothing but\n"
-    .string "a victim!$"
+    .string "我可不管你是不是迷路的。\p"
+    .string "既然敢闯到这里，你就只能任人宰割\n"
+    .string "！$"
 
 GoldenrodUnderground_Text_GruntM13Beaten:
-    .string "Urk! Yeah, think you're cool, huh?$"
+    .string "呃！哼，真以为自己很神气吗？$"
 
 GoldenrodUnderground_Text_GruntM13After:
-    .string "You must have ice in your veins to\n"
-    .string "diss TEAM ROCKET.$"
+    .string "敢跟火箭队作对，你胆子可真不小啊\n"
+    .string "。$"
 
 GoldenrodUnderground_Text_GruntF3Seen:
-    .string "Are you lost? No, you can't be.\p"
-    .string "You don't have that scared look.\p"
-    .string "I'll give you something to be\n"
-    .string "scared about!$"
+    .string "你迷路了吗？不，看起来不像。\p"
+    .string "你脸上一副天不怕地不怕的样子嘛。\p"
+    .string "那就让我来让你尝尝害怕的滋味吧！$"
 
 GoldenrodUnderground_Text_GruntF3Beaten:
-    .string "How could you?$"
+    .string "怎么会这样？！$"
 
 GoldenrodUnderground_Text_GruntF3After:
-    .string "Go wherever you'd like! Get lost!\n"
-    .string "See if I care!$"
+    .string "想去哪就去哪吧！快滚！我才懒得管\n"
+    .string "你！$"
 
 GoldenrodUnderground_Text_Switch1:
-    .string "SWITCH 1 activated.$"
+    .string "启动了开关1。$"
 
 GoldenrodUnderground_Text_Switch2:
-    .string "SWITCH 2 activated.$"
+    .string "启动了开关2。$"
 
 GoldenrodUnderground_Text_Switch3:
-    .string "SWITCH 3 activated.$"
+    .string "启动了开关3。$"
 
 GoldenrodUnderground_Text_Switch1Off:
-    .string "SWITCH 1 deactivated.$"
+    .string "解除了开关1。$"
 
 GoldenrodUnderground_Text_Switch2Off:
-    .string "SWITCH 2 deactivated.$"
+    .string "解除了开关2。$"
 
 GoldenrodUnderground_Text_Switch3Off:
-    .string "SWITCH 3 deactivated.$"
+    .string "解除了开关3。$"

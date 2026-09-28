@@ -38,10 +38,8 @@ FourIsland_Mart_Text_LoreleiGrewUpOnThisIsland::
 	.string "过她宝可梦的战斗。$"
 
 FourIsland_Mart_Text_IcefallCaveIsFrigid::
-	.string "The SEVII ISLANDS are in a warm\n"
-	.string "region overall.\p"
-	.string "But there is one exception you\n"
-	.string "need to know about.\p"
-	.string "The ICEFALL CAVE is frigid because\n"
-	.string "of the POKéMON that live in it.$"
+	.string "七岛整体来说是个非常温暖的地区。\p"
+	.string "不过有个例外你可得先了解一下。\p"
+	.string "冻瀑洞窟由于生活着许多冰属性宝可\n"
+	.string "梦，所以那里格外寒冷。$"
 

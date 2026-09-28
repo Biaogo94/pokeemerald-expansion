@@ -2012,9 +2012,10 @@ gTVPokemonNewsBattleFrontierText15::
 	.string "恭喜你们创造了破纪录的精彩表现！$"
 
 gTVPokemonNewsBattleFrontierText16::
-	.string "And to the four POKéMON: {STR_VAR_1}!\p"
-	.string "{STR_VAR_2}!\p"
-	.string "{STR_VAR_3}!$"
+	.string "还有献给这4只宝可梦：\n"
+	.string "{STR_VAR_1}！\p"
+	.string "{STR_VAR_2}！\p"
+	.string "{STR_VAR_3}！$"
 
 gTVPokemonNewsBattleFrontierText17::
 	.string "{STR_VAR_1}！\p"
@@ -2470,9 +2471,10 @@ ContestLiveUpdates_Text_GotNervous::
 	.string "{STR_VAR_2}, “Congratulations!”$"
 
 ContestLiveUpdates_Text_StartledFoes::
-	.string "Spectator: That {STR_VAR_2}'s appeal\n"
-	.string "startled even me!\p"
-	.string "{STR_VAR_2}, you were awesome!$"
+	.string "观众：{STR_VAR_2}的招\n"
+	.string "式展示连我都吓了一跳！\p"
+	.string "{STR_VAR_2}，你太棒了\n"
+	.string "！$"
 
 ContestLiveUpdates_Text_UsedCombo::
 	.string "观众：{STR_VAR_2}的组\n"

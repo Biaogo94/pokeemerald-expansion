@@ -52,10 +52,9 @@ SandstormHouse_Text_Woman1:
     .string "Let me see…$"
 
 SandstormHouse_Text_LoyalMon:
-    .string "Ah! Your POKéMON trusts you very\n"
-    .string "much.\p"
-    .string "It's nice to see a good trainer.\p"
-    .string "Here. A gift for your journey.$"
+    .string "啊！你的宝可梦非常信任你呢。\p"
+    .string "能见到优秀的训练家真让人高兴。\p"
+    .string "来，送你一件旅途的礼物。$"
 
 SandstormHouse_Text_TM37Description:
     .string "TM37 happens to be SANDSTORM.\p"
@@ -65,9 +64,8 @@ SandstormHouse_Text_TM37Description:
     .string "Use it if you dare. Good luck!$"
 
 SandstormHouse_Text_DisloyalMon:
-    .string "If it doesn't come to trust you\n"
-    .string "some more, it could be tough going.\p"
-    .string "Trust is the tie that binds POKéMON\n"
-    .string "and trainers.$"
+    .string "如果它不能更信任你的话，接下来可\n"
+    .string "就难办了。\p"
+    .string "信任是维系宝可梦与训练家的纽带。$"
 
 

@@ -150,7 +150,7 @@ OneIsland_Text_PokemonNetCenterSign::
 
 @ Unused
 OneIsland_Text_ReturnToCinnabar::
-	.string "グレンタウンに　もどりますか？$"
+	.string "要回红莲镇吗？$"
 
 OneIsland_Text_IsntWarmClimateHereGreat::
 	.string "嗨，你是这里来观光的吗？这里气候\n"

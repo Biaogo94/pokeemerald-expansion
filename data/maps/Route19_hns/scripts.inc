@@ -68,82 +68,81 @@ Route19_EventScript_Item_Brine::
     end
 
 Route19_Text_SwimmermHaroldSeen:
-	.string "Have you ever gone swimming in the\n"
-	.string "sea at night?$"
+	.string "你曾在夜晚的大海里游过泳吗？$"
 
 Route19_Text_SwimmermHaroldBeaten:
-	.string "Glub…$"
+	.string "咕噜......$"
 
 Route19_Text_SwimmermHaroldAfterBattle:
-	.string "At night, the sea turns black. It\n"
-	.string "feels like it will swallow you up.$"
+	.string "夜晚的大海漆黑一片，感觉就像要把\n"
+	.string "人吞噬掉一样。$"
 
 Route19_Text_SwimmermTuckerSeen:
-	.string "Pant, pant… Just… a little…\p"
-	.string "farther… to… FUCHSIA…$"
+	.string "哈、哈......还差.....\n"
+	.string ".一点......\p"
+	.string "就能到......浅红市了...\n"
+	.string "...$"
 
 Route19_Text_SwimmermTuckerBeaten:
-	.string "I'm drowning!$"
+	.string "我要淹死啦！$"
 
 Route19_Text_SwimmermTuckerAfterBattle:
-	.string "I… asked my girlfriend to swim to\n"
-	.string "FUCHSIA… Gasp…$"
+	.string "我......提议跟女朋友一起游\n"
+	.string "到浅红市......呼.....\l"
+	.string ".$"
 
 Route19_Text_SwimmerfDawnSeen:
-	.string "I'm disgusted by wimpy people!$"
+	.string "我最讨厌软弱无能的人了！$"
 
 Route19_Text_SwimmerfDawnBeaten:
-	.string "I could beat you at swimming…$"
+	.string "要是比游泳的话我可不会输....\n"
+	.string "..$"
 
 Route19_Text_SwimmerfDawnAfterBattle:
-	.string "It's a quick swim between FUCHSIA\n"
-	.string "and SEAFOAM ISLANDS…\p"
-	.string "Sheesh, some big man my boyfriend\n"
-	.string "is! What a wimp!$"
+	.string "从浅红市游到双子岛明明很快的..\n"
+	.string "....\p"
+	.string "真是的，我男朋友算什么男子汉啊！\n"
+	.string "真是个窝囊废！$"
 
 Route19_Text_SwimmermJeromeSeen:
-	.string "Swimming? I'm lousy at it.\p"
-	.string "I'm just splashing around in these\n"
-	.string "shallow waters.$"
+	.string "游泳？我根本游不好。\p"
+	.string "我只是在这片浅滩里玩玩水而已。$"
 
 Route19_Text_SwimmermJeromeBeaten:
-	.string "I thought I could win.$"
+	.string "我还以为能赢呢。$"
 
 Route19_Text_SwimmermJeromeAfterBattle:
-	.string "I might be bad at swimming, but I\n"
-	.string "love the sea.$"
+	.string "虽然我不太会游泳，但我很喜欢大海\n"
+	.string "。$"
 
 Route19_Text_Fisher1:
-	.string "Sorry. This road is closed for\n"
-	.string "construction.\p"
-	.string "If you want to get to CINNABAR,\n"
-	.string "you'd better go south from PALLET\n"
-	.string "TOWN.$"
+	.string "不好意思。这条路因为施工而封闭了\n"
+	.string "。\p"
+	.string "如果你想去红莲岛，最好从真新镇往\n"
+	.string "南走。$"
 
 Route19_Text_Kingler:
-	.string "KINGLER: KEEEEEEEEEEEE$"
+	.string "巨钳蟹：叽----！$"
 
 Route19_Text_Fisher1_RocksCleared:
-	.string "I'm all sweaty. Time for a swim!$"
+	.string "出了一身汗。该去游个泳啦！$"
 
 Route19_Text_Fisher2:
-	.string "Aw man, KINGLER is blocking the\n"
-	.string "beach.$"
+	.string "真倒霉，巨钳蟹把海滩给堵住了。$"
 
 Route19_Text_FisherBefore:
-	.string "No fishing until these KINGLER\n"
-	.string "clear out.$"
+	.string "在这些巨钳蟹离开之前，没法钓鱼了\n"
+	.string "。$"
 
 Route19_Text_Fisher2_RocksCleared:
-	.string "Those KINGLER finally left!\p"
-	.string "Now I can go fishing again.$"
+	.string "那些巨钳蟹终于走掉了！\p"
+	.string "现在我又可以钓鱼啦。$"
 
 Route19_Text_Sign:
-	.string "ROUTE 19\p"
-	.string "FUCHSIA CITY - SEAFOAM ISLANDS$"
+	.string "19号道路\p"
+	.string "浅红市 - 双子岛$"
 
 Route19_Text_CarefulSwimmingSign:
-	.string "Please be careful if you are\n"
-	.string "swimming to SEAFOAM ISLANDS.\p"
-	.string "FUCHSIA POLICE$"
+	.string "游往双子岛时请务必注意安全。\p"
+	.string "浅红警察局$"
 

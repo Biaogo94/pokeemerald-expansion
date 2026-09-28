@@ -39,7 +39,7 @@ GoldenrodDeptStore1_EventScript_Directory::
 	end
 
 GoldenrodDeptStor1_Text_Receptionist:
-    .string "Welcome to GOLDENROD DEPT.STORE.$"
+    .string "欢迎光临满金百货公司。$"
 
 GoldenrodDeptStore1_Text_Gentleman:
     .string "The DEPT.STORE has a decent\n"
@@ -48,12 +48,11 @@ GoldenrodDeptStore1_Text_Gentleman:
     .string "as GAME CORNER prizes.$"
 
 GoldenrodDeptStore1_Text_PokefanF:
-    .string "I'm raring to shop again today!$"
+    .string "今天我也跃跃欲试，准备大买一场！$"
 
 GoldenrodDeptStore1_Text_BugCatcher:
-    .string "Mom's good at bargain hunting.\p"
-    .string "She always buys stuff at lower\n"
-    .string "prices.$"
+    .string "妈妈很擅长淘便宜货，\p"
+    .string "总是能以更优惠的价格买到东西。$"
 
 GoldenrodDeptStore1_Text_Directory:
     .string "1F SERVICE COUNTER\n"

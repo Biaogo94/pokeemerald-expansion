@@ -89,8 +89,8 @@ NationalPark_Normal_Text_Teacher1_QuickClaw:
 	.string "during battle.$"
 
 NationalPark_Normal_Text_Youngster1:
-	.string "I'm playing with stickers I printed\n"
-	.string "from my POKéDEX.$"
+	.string "我在玩从宝可梦图鉴里打印出来的贴\n"
+	.string "纸呢。$"
 
 NationalPark_Normal_Text_Youngster2:
 	.string "I get the other guy's POKéDEX sticker\n"
@@ -104,7 +104,7 @@ NationalPark_Normal_Text_Teacher2:
 	.string "Let me heal your POKéMON for you.$"
 
 NationalPark_Normal_Text_Persian:
-	.string "PERSIAN: Fufushaa!$"
+	.string "猫老大：呜喵--！$"
 
 NationalPark_Normal_EventScript_Jack::
 	trainerbattle_single TRAINER_JACK_HNS, NationalPark_Normal_Text_SchoolboyJack1_Seen, NationalPark_Normal_Text_SchoolboyJack1_Beaten, NationalPark_Normal_EventScript_RegisterJack
@@ -178,38 +178,37 @@ NationalPark_Normal_EventScript_Item_Soothe_Bell::
 	end
 
 NationalPark_Normal_Text_SchoolboyJack1_Seen:
-	.string "The world of POKéMON is deep.\p"
-	.string "There are still lots of things we\n"
-	.string "don't know.\p"
-	.string "But I know more than you do!$"
+	.string "宝可梦的世界可是奥妙无穷的。\p"
+	.string "还有很多很多我们不知道的事情呢。\p"
+	.string "不过，我知道的肯定比你多！$"
 
 NationalPark_Normal_Text_SchoolboyJack1_Beaten:
-	.string "Wha-wha-what?$"
+	.string "什、什、什么？！$"
 
 NationalPark_Normal_Text_SchoolboyJack_After:
-	.string "There is a lot to learn.\p"
-	.string "For example…\p"
-	.string "There are 92 kinds of TMs.\p"
-	.string "Traded POKéMON level up faster.$"
+	.string "要学习的东西还多着呢。\p"
+	.string "比如说......\p"
+	.string "招式学习器一共有92种。\p"
+	.string "通过连接交换来的宝可梦升级更快。$"
 
 NationalPark_Normal_Text_JackRegister:
-	.string "There is a lot to learn.\p"
-	.string "For example…\p"
-	.string "There are 92 kinds of TMs.\p"
-	.string "Traded POKéMON level up faster.$"
+	.string "要学习的东西还多着呢。\p"
+	.string "比如说......\p"
+	.string "招式学习器一共有92种。\p"
+	.string "通过连接交换来的宝可梦升级更快。$"
 
 NationalPark_Normal_Text_JackRematchIntro:
 	.string "I've learned a lot since we\n"
 	.string "last battled! Let's go!$"
 
 NationalPark_Normal_Text_JackRematchDefeat:
-	.string "Wha-wha-what?$"
+	.string "什、什、什么？！$"
 
 NationalPark_Normal_Text_JackPostRematch:
-	.string "There is a lot to learn.\p"
-	.string "For example…\p"
-	.string "There are 92 kinds of TMs.\p"
-	.string "Traded POKéMON level up faster.$"
+	.string "要学习的东西还多着呢。\p"
+	.string "比如说......\p"
+	.string "招式学习器一共有92种。\p"
+	.string "通过连接交换来的宝可梦升级更快。$"
 
 NationalPark_Normal_Text_PokefanFBeverly1_Seen:
 	.string "My POKéMON are simply darling.\p"

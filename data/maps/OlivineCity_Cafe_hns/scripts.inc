@@ -15,15 +15,15 @@ OlivineCity_Cafe_EventScript_Jasmine::
 	end
 
 OlivineCity_Cafe_Text_Jasmine:
-	.string "Oh... Hello, {PLAYER}.\p"
-	.string "These dishes in front of me are\n"
-	.string "not all mine...\p"
-	.string "Uh...\p"
-	.string "Actually, the person who sat here\n"
-	.string "before me ate a lot...\p"
-	.string "If you'd like to battle again,\n"
-	.string "please visit me at the FIGHTING\l"
-	.string "DOJO in SAFFRON CITY.$"
+	.string "哎呀......你好啊，\n"
+	.string "{PLAYER}。\p"
+	.string "我面前的这些空盘子，其实不全是我\n"
+	.string "吃剩下的啦......\p"
+	.string "呃......\p"
+	.string "其实是之前坐在这里的人吃得太多了\n"
+	.string "......\p"
+	.string "如果你还想再和我对战的话，请来金\n"
+	.string "黄市的格斗道场找我吧。$"
 
 OlivineCity_EventScript_SailorA::
 	lock
@@ -63,19 +63,18 @@ OlivineCity_Text_CafeSailorStrength:
 	.string "STRENGTH!$"
 
 OlivineCity_Text_CafeSailorGotStrength:
-	.string "On the sea, the only thing you\n"
-	.string "can count on is your own self!\p"
-	.string "I'm so proud of my buff bod!\n"
-	.string "You should train like me!$"
+	.string "在茫茫大海上，唯一能依靠的就只有\n"
+	.string "你自己！\p"
+	.string "我这身结实的肌肉可是我的骄傲！你\n"
+	.string "也该像我一样好好锻炼！$"
 
 OlivineCity_Text_CafeFishingGuru:
-	.string "OLIVINE CAFE's menu is packed\n"
-	.string "with hearty fare for beefy\l"
-	.string "SAILORS like me!$"
+	.string "浅葱咖啡馆的菜单上，满是为我们这\n"
+	.string "种健壮的水手量身准备的丰盛大餐！$"
 
 OlivineCity_Text_CafeSailor:
-	.string "Whenever I roll into this town,\n"
-	.string "I always visit the OLIVINE CAFE.\p"
-	.string "Everything on the menu makes me\n"
-	.string "feel stronger. I can't stop eating!$"
+	.string "每次来到这个城镇，我都一定要光顾\n"
+	.string "浅葱咖啡馆。\p"
+	.string "菜单上的每道菜都能让我精神百倍。\n"
+	.string "根本停不下来啊！$"
 

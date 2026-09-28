@@ -30,20 +30,20 @@ Route34_DayCare_Bookshelf4::
 	end
 
 Route34_DayCare_Text_Bookshelf1:
-	.string "A BABY POKéMON encyclopedia!\p"
-	.string "VOLUME 1: ALL ABOUT ABILITIES$"
+	.string "幼年宝可梦百科全书！\p"
+	.string "第1卷：特性大揭秘$"
 
 Route34_DayCare_Text_Bookshelf2:
-	.string "A BABY POKéMON encyclopedia!\p"
-	.string "VOLUME 2: TYPICAL TYPES$"
+	.string "幼年宝可梦百科全书！\p"
+	.string "第2卷：常见属性$"
 
 Route34_DayCare_Text_Bookshelf3:
-	.string "A BABY POKéMON encyclopedia!\p"
-	.string "VOLUME 3: BABIES' CRIES$"
+	.string "幼年宝可梦百科全书！\p"
+	.string "第3卷：宝宝们的叫声$"
 
 Route34_DayCare_Text_Bookshelf4:
-	.string "A BABY POKéMON encyclopedia!\p"
-	.string "VOLUME 4: ADORABLE ACTIONS$"
+	.string "幼年宝可梦百科全书！\p"
+	.string "第4卷：可爱的动作$"
 
 Route34_DayCare_EventScript_Clerk::
 	lock
@@ -152,40 +152,38 @@ Route34_DayCare_EventScript_ClerkAfter::
 	end
 
 Route34_DayCare_Text_ClerkBefore:
-	.string "I'm the DAY-CARE couple's son.\p"
-	.string "An ODD EGG was found with a TRAINER's\n"
-	.string "POKéMON, but they didn't want it...\p"
-	.string "I'd offer it to you...\n"
-	.string "But how can I know you'll take good\l"
-	.string "care of it?$"
+	.string "我是培育屋夫妇的儿子。\p"
+	.string "在一位训练家的宝可梦身边发现了一\n"
+	.string "颗不可思议的蛋，但他们并不想要.\l"
+	.string ".....\p"
+	.string "我很想把它交给你......但我\n"
+	.string "怎么能确定你会好好照顾它呢？$"
 
 Route34_DayCare_Text_ClerkNoRoom:
-	.string "It looks like you can't carry another\n"
-	.string "POKéMON anyway.$"
+	.string "看来你身上已经带不下更多的宝可梦\n"
+	.string "了。$"
 
 Route34_DayCare_Text_ClerkQuestion:
-	.string "Answer this question for me.\n"
-	.string "How do you feel about this ODD EGG?$"
+	.string "回答我这个问题。你对这颗不可思议\n"
+	.string "的蛋怎么看？$"
 
 Route34_DayCare_Text_Rejection:
-	.string "Hmm, I think this EGG isn't for you.\p"
-	.string "It would be irresponsible of me to\n"
-	.string "give out a precious EGG like this\l"
-	.string "to someone who isn't as well-read\l"
-	.string "on the subject of baby POKéMON!$"
+	.string "嗯，我觉得这颗蛋不适合你。\p"
+	.string "要是把这么珍贵的蛋交给一个对幼年\n"
+	.string "宝可梦不够了解的人，未免也太不负\l"
+	.string "责任了！$"
 
 Route34_DayCare_Text_ReceivedOddEgg:
-	.string "{PLAYER} Received the ODD EGG.$"
+	.string "{PLAYER}收下了不可思议的\n"
+	.string "蛋。$"
 
 Route34_DayCare_Text_TakeCare:
 	.string "I knew you were the right trainer\n"
 	.string "for the job. Take good care of it!$"
 
 Route34_DayCare_Text_ClerkAfter:
-	.string "We see a lot of those eggs around\n"
-	.string "here.\p"
-	.string "Something was different about that\n"
-	.string "one, though.$"
+	.string "我们在这附近见过很多蛋，\p"
+	.string "不过那个蛋总觉得有点与众不同呢。$"
 
 Route34_DayCare_EventScript_Ditto::
 	lock
@@ -198,7 +196,7 @@ Route34_DayCare_EventScript_Ditto::
 	end
 
 Route34_DayCare_Text_Ditto:
-	.string "DITTO: Tto!$"
+	.string "百变怪：呗哆！$"
 
 Route34_EventScript_DaycareMan::
 	lock
@@ -332,9 +330,9 @@ Route34_DayCare_EventScript_ClosedForChallenge::
 	end
 
 Route34_DayCare_Text_ClosedForChallenge:
-	.string "Sorry, we can't look after your\n"
-	.string "POKéMON during a party limit\l"
-	.string "challenge!$"
+	.string "抱歉，在同行宝可梦数量受限的挑战\n"
+	.string "期间，我们不能代为照顾你的宝可梦\l"
+	.string "！$"
 
 Route34_DayCare_EventScript_OnlyOneMon::
 	msgbox Route34_DayCare_Text_YouHaveJustOneMon, MSGBOX_DEFAULT
@@ -470,141 +468,141 @@ Route34_DayCare_EventScript_TwoMonsInDaycare::
 	end
 
 Route34_Text_SeeWifeIfYoudLikeMeToRaiseMon:
-	.string "I'm the DAY-CARE MAN.\p"
-	.string "I help take care of the precious\n"
-	.string "POKéMON of TRAINERS.\p"
-	.string "If you'd like me to raise your POKéMON,\n"
-	.string "have a word with my wife.$"
+	.string "我是培育屋的爷爷。\p"
+	.string "我负责替训练家照顾他们珍贵的宝可\n"
+	.string "梦。\p"
+	.string "如果你想寄放宝可梦，请跟我老伴说\n"
+	.string "吧。$"
 
 Route34_Text_DoYouWantEgg:
-	.string "Ah, it's you!\p"
-	.string "We were raising your POKéMON,\n"
-	.string "and my goodness, were we surprised!\p"
-	.string "Your POKéMON had an EGG!\p"
-	.string "We don't know how it got there,\n"
-	.string "but your POKéMON had it.\p"
-	.string "You do want it, yes?$"
+	.string "哎呀，是你啊！\p"
+	.string "在照顾你的宝可梦的时候，真是吓了\n"
+	.string "一大跳啊！\p"
+	.string "你的宝可梦竟然抱着一个蛋！\p"
+	.string "虽然不知道是怎么来的，但确实是你\n"
+	.string "的宝可梦带来的。\p"
+	.string "你想要这个蛋吧？$"
 
 Route34_Text_YourMonIsDoingFine:
-	.string "Ah, it's you! Good to see you.\n"
-	.string "Your {STR_VAR_1}'s doing fine.$"
+	.string "哎呀，是你啊！见到你真高兴。你的\n"
+	.string "{STR_VAR_1}精神得很呢\l"
+	.string "。$"
 
 Route34_Text_IllKeepIt:
-	.string "Well then, I'll keep it.\n"
-	.string "Thanks!$"
+	.string "这样啊，那我就自己留着了。谢谢你\n"
+	.string "啦！$"
 
 Route34_Text_YouHaveNoRoomForIt:
-	.string "You have no room for it…\n"
-	.string "Come back when you've made room.$"
+	.string "你的同行宝可梦已经满了.....\n"
+	.string ".腾出空位后再来吧。$"
 
 Route34_Text_ReceivedEgg:
-	.string "{PLAYER} received the EGG from\n"
-	.string "the DAY-CARE MAN.$"
+	.string "{PLAYER}从培育屋爷爷那里\n"
+	.string "收到了蛋！$"
 
 Route34_Text_TakeGoodCareOfIt:
-	.string "Take good care of it.$"
+	.string "要好好照顾它哦。$"
 
 Route34_Text_FriendlyWithOtherTrainersMon:
-	.string "By the way, about your {STR_VAR_1},\n"
-	.string "it seemed to be friendly with\l"
-	.string "{STR_VAR_2}'s {STR_VAR_3}.\p"
-	.string "I may even have seen it receiving\n"
-	.string "a piece of MAIL.$"
+	.string "顺便说一下你的\n"
+	.string "{STR_VAR_1}，它和\l"
+	.string "{STR_VAR_2}的\l"
+	.string "{STR_VAR_3}相处得挺不\l"
+	.string "错呢。\p"
+	.string "我好像还看到它收到了一封邮件呢。$"
 
 @ Unused
 Route34_Text_SeeWifeIfYouWantToPickUpMon:
-	.string "If you want to pick up your POKéMON,\n"
-	.string "have a word with my wife.$"
+	.string "如果你想领回宝可梦，请跟我老伴说\n"
+	.string "吧。$"
 
 Route34_Text_YourMonsAreDoingFine:
-	.string "Ah, it's you! Your {STR_VAR_1} and\n"
-	.string "{STR_VAR_2} are doing fine.$"
+	.string "哎呀，是你啊！你的\n"
+	.string "{STR_VAR_1}和\l"
+	.string "{STR_VAR_2}都精神得很\l"
+	.string "呢。$"
 
 Route34_Text_IWillKeepDoYouWantIt:
-	.string "I really will keep it.\n"
-	.string "You do want this, yes?$"
+	.string "我真的会自己留着的哦。你其实还是\n"
+	.string "想要的，对吧？$"
 
 Route34_DayCare_Text_WouldYouLikeUsToRaiseAMon:
-	.string "I'm the DAY-CARE LADY.\p"
-	.string "We can raise POKéMON for you.\p"
-	.string "Would you like us to raise one?$"
+	.string "我是培育屋的奶奶。\p"
+	.string "我们能替你照顾宝可梦。\p"
+	.string "你想寄放宝可梦吗？$"
 
 Route34_DayCare_Text_WhichMonShouldWeRaise:
-	.string "Which POKéMON should we raise for\n"
-	.string "you?$"
+	.string "要把哪只宝可梦寄放在这里呢？$"
 
 Route34_DayCare_Text_WellRaiseYourMon:
-	.string "Fine, we'll raise your {STR_VAR_1}\n"
-	.string "for a while.\p"
-	.string "Come back for it later.$"
+	.string "好的，我们会替你照顾\n"
+	.string "{STR_VAR_1}一阵子的。\p"
+	.string "过段时间再来领吧。$"
 
 Route34_DayCare_Text_WeCanRaiseOneMore:
-	.string "We can raise two of your POKéMON.\n"
-	.string "Would you like us to raise one more?$"
+	.string "我们一共可以寄放两只宝可梦。还要\n"
+	.string "再寄放一只吗？$"
 
 Route34_DayCare_Text_HusbandWasLookingForYou:
-	.string "My husband was looking for you.$"
+	.string "我老伴刚才在找你呢。$"
 
 Route34_DayCare_Text_FineThenComeAgain:
-	.string "Oh, fine, then.\n"
-	.string "Come again.$"
+	.string "哎呀，这样啊。欢迎下次再来。$"
 
 Route34_DayCare_Text_NotEnoughMoney:
-	.string "You don't have enough money…$"
+	.string "你的钱不够呢......$"
 
 Route34_DayCare_Text_TakeOtherOneBackToo:
-	.string "Will you take back the other one,\n"
-	.string "too?$"
+	.string "另一只也要一起领回去吗？$"
 
 Route34_DayCare_Text_ComeAgain:
-	.string "Fine.\n"
-	.string "Come again.$"
+	.string "好嘞。欢迎下次再来。$"
 
 Route34_DayCare_Text_GoodToSeeYou:
-	.string "Ah, it's you! Good to see you.\n"
-	.string "Your POKéMON can only be doing good!$"
+	.string "哎呀，是你啊！见到你真高兴。你的\n"
+	.string "宝可梦好得不能再好啦！$"
 
 Route34_DayCare_Text_YourMonHasGrownXLevels:
-	.string "By level, your {STR_VAR_1} has\n"
-	.string "grown by {STR_VAR_2}.$"
+	.string "按等级来看，你的\n"
+	.string "{STR_VAR_1}提升了\l"
+	.string "{STR_VAR_2}级。$"
 
 Route34_DayCare_Text_YourTeamIsFull:
-	.string "Your POKéMON team is full.\n"
-	.string "Make room, then come see me.$"
+	.string "你的宝可梦队伍已经满了。腾出空位\n"
+	.string "后再来找我吧。$"
 
 @ Unused
 Route34_DayCare_Text_TakeBackWhichMon:
-	.string "Which POKéMON will you take back?$"
+	.string "你要领回哪只宝可梦？$"
 
 Route34_DayCare_Text_ItWillCostX:
-	.string "If you want your {STR_VAR_1} back,\n"
-	.string "it will cost ¥{STR_VAR_2}.$"
+	.string "如果想领回你的\n"
+	.string "{STR_VAR_1}，费用是¥\l"
+	.string "{STR_VAR_2}。$"
 
 Route34_DayCare_Text_HeresYourMon:
-	.string "Perfect!\n"
-	.string "Here's your POKéMON.$"
+	.string "好的！这是你的宝可梦。$"
 
 Route34_DayCare_Text_TookBackMon:
-	.string "{PLAYER} took back {STR_VAR_1} from\n"
-	.string "the DAY-CARE LADY.$"
+	.string "{PLAYER}从培育屋婆婆那里\n"
+	.string "领回了{STR_VAR_1}。$"
 
 Route34_DayCare_Text_YouHaveJustOneMon:
-	.string "Oh? But you have just one\n"
-	.string "POKéMON.\p"
-	.string "Come back another time.$"
+	.string "哎呀？可是你身上只有一只宝可梦呀\n"
+	.string "。\p"
+	.string "下次再来吧。$"
 
 Route34_DayCare_Text_TakeYourMonBack:
-	.string "Will you take your POKéMON back?$"
+	.string "要领回你的宝可梦吗？$"
 
 Route34_DayCare_Text_WhatWillYouBattleWith:
-	.string "If you leave me that POKéMON,\n"
-	.string "what will you battle with?\p"
-	.string "Come back another time.$"
+	.string "要是把这只宝可梦留在我这儿，你拿\n"
+	.string "什么去对战呢？\p"
+	.string "下次再来吧。$"
 
 Route34_DayCare_Text_YoullBeLeftWithJustOne:
-	.string "Huh?\n"
-	.string "Now, now.\p"
-	.string "If you leave that POKéMON with\n"
-	.string "me, you'll be left with just one.\p"
-	.string "You will be better off if you catch\n"
-	.string "some more, I dare say.$"
+	.string "哎？等等，等等。\p"
+	.string "要是把那只宝可梦留在我这儿，你就\n"
+	.string "只剩下一只宝可梦了。\p"
+	.string "依老夫看，你最好多捉几只宝可梦再\n"
+	.string "来吧。$"

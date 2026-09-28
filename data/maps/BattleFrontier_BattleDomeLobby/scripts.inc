@@ -477,11 +477,11 @@ BattleFrontier_BattleDomeLobby_Text_SelectThreeMons:
 	.string "请挑选参加的3只宝可梦。$"
 
 BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "Excuse me!\p"
-	.string "You don't have three eligible POKéMON.\p"
-	.string "Also, the POKéMON must be holding\n"
-	.string "different kinds of items.\p"
-	.string "EGGS{STR_VAR_1}.$"
+	.string "不好意思！\p"
+	.string "您没有3只符合参赛资格的宝可梦。\p"
+	.string "此外，宝可梦所携带的道具种类必须\n"
+	.string "各不相同。\p"
+	.string "蛋{STR_VAR_1}。$"
 
 BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsEnd:
 	.string "请在准备就绪之后，再来参加吧！$"

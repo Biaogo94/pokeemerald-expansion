@@ -172,9 +172,8 @@ FortreeCity_Gym_Text_EdwardoPostBattle:
 	.string "我得继续训练，让自己变得更强。$"
 
 FortreeCity_Gym_Text_FlintIntro:
-	.string "There's no need for WINONA, our GYM\n"
-	.string "LEADER, to deal with you!\p"
-	.string "I'm plenty good enough for you!$"
+	.string "根本不需要我们馆主娜琪大人出手！\p"
+	.string "由我对付你绰绰有余！$"
 
 FortreeCity_Gym_Text_FlintDefeat:
 	.string "娜琪，我……我输了！$"
@@ -282,11 +281,10 @@ FortreeCity_Gym_Text_WinonaRematchDefeat:
 	.string "我还是没能触及你的高度……$"
 
 FortreeCity_Gym_Text_WinonaPostRematch:
-	.string "WINONA: Even though I have lost,\n"
-	.string "the wings of my heart remain unbroken.\p"
-	.string "I can rise and soar again and\n"
-	.string "yet again.\p"
-	.string "I am convinced of it!$"
+	.string "娜琪：即便我败下阵来，心中的羽翼\n"
+	.string "也绝不会折断。\p"
+	.string "我依然可以一次又一次地展翅高飞。\p"
+	.string "我对此坚信不疑！$"
 
 FortreeCity_Gym_Text_WinonaRematchNeedTwoMons:
 	.string "娜琪：我们人类永远无法逃离地心引\n"

@@ -173,11 +173,11 @@ Snowswept_Cavern_Eventscript_Machamp_AfterBoulder::
 
 
 Snowswept_Cavern_Text_DroppedItem:
-    .string "The MACHAMP dropped an item...$"
+    .string "怪力掉落了一个道具......$"
 
 
 Snowswept_Text_Machamp_Cry:
-    .string "Mahh!!$"
+    .string "玛呼！！$"
 
 Snowswept_Text_Machamp_Plate:
     .string "The MACHAMP seems to be holding\n"

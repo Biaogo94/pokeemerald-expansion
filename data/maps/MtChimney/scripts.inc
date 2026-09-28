@@ -703,10 +703,10 @@ MtChimney_Text_OhFineThen:
 	.string "啊，那就算了。$"
 
 MtChimney_Text_MetoriteFittedOnMachine:
-	.string "A METEORITE is fitted on a mysterious\n"
-	.string "machine…\p"
-	.string "The machine seems to be storing\n"
-	.string "energy in the METEORITE.$"
+	.string "一台神秘的机器上嵌着一块陨石..\n"
+	.string "....\p"
+	.string "这台机器似乎正在将能量储存在陨石\n"
+	.string "中。$"
 
 MtChimney_Text_RemoveTheMeteorite:
 	.string "一个奇异的机器上面安装了一块陨石\n"

@@ -660,7 +660,7 @@ NewBarkTown_Lab_Text_ElmIntro:
 	.string "我有件事想拜托你。\p"
 	.string "我正在做新的宝可梦研究，想请你帮\n"
 	.string "帮忙，{PLAYER}。\p"
-	.string "你看……\p"
+	.string "你看......\p"
 	.string "我正在写一篇论文，想在学会上发表\n"
 	.string "。\p"
 	.string "但还有些地方我怎么也想不明白。\p"
@@ -744,24 +744,20 @@ NewBarkTown_Lab_Text_Nickname:
 	.string "一个昵称吗？$"
 
 NewBarkTown_Lab_Text_ElmDirections1:
-	.string "MR. POKéMON lives a little bit\n"
-	.string "beyond CHERRYGROVE, the next\l"
-	.string "city over.\p"
-	.string "It's almost a direct route\n"
-	.string "there, so you can't miss it.\p"
-	.string "But just in case, you have my\n"
-	.string "phone number. Call me if\l"
-	.string "anything comes up!$"
+	.string "宝可梦爷爷住在吉花市再往前一点的\n"
+	.string "地方。\p"
+	.string "顺着路一直走就能到，你绝不会迷路\n"
+	.string "的。\p"
+	.string "不过以防万一，你有我的电话号码。\n"
+	.string "遇到什么事就给我打电话吧！$"
 
 NewBarkTown_Lab_Text_ElmDirections1_Register:
-	.string "MR. POKéMON lives a little bit\n"
-	.string "beyond CHERRYGROVE, the next\l"
-	.string "city over.\p"
-	.string "It's almost a direct route\n"
-	.string "there, so you can't miss it.\p"
-	.string "But just in case, here's my\n"
-	.string "phone number. Call me if\l"
-	.string "anything comes up!$"
+	.string "宝可梦爷爷住在吉花市再往前一点的\n"
+	.string "地方。\p"
+	.string "顺着路一直走就能到，你绝不会迷路\n"
+	.string "的。\p"
+	.string "不过以防万一，这是我的电话号码。\n"
+	.string "遇到什么事就给我打电话吧！$"
 
 NewBarkTown_Lab_Text_RegisteredElm:
 	.string "在宝可梦齿轮中登记了空木博士。$"
@@ -772,76 +768,73 @@ NewBarkTown_Lab_Text_ElmLetYourMonBattle:
 	.string "可梦去对战吧！$"
 
 NewBarkTown_Lab_Text_ElmDirections2:
-	.string "If a wild POKéMON appears, let\n"
-	.string "your POKéMON battle it!\p"
-	.string "If your POKéMON is hurt, you\n"
-	.string "should heal it with the machine\l"
-	.string "to my right, or at the POKéCENTER.\p"
-	.string "I'm counting on you!$"
+	.string "如果遇到野生宝可梦，就让你的宝可\n"
+	.string "梦去战斗吧！\p"
+	.string "要是宝可梦受伤了，可以用我右手边\n"
+	.string "的机器，或者去宝可梦中心治疗。\p"
+	.string "拜托你啦！$"
 
 NewBarkTown_Lab_Text_GotElmsNumber:
 	.string "{PLAYER}记下了空木博士的\n"
 	.string "电话号码。$"
 
 NewBarkTown_Lab_Text_ElmDescribesMrPokemon:
-	.string "MR. POKéMON goes everywhere and\n"
-	.string "finds rarities.\p"
-	.string "Too bad they're just rare and\n"
-	.string "not very useful…$"
+	.string "宝可梦爷爷总是到处跑，收集各种稀\n"
+	.string "奇古怪的东西。\p"
+	.string "可惜大多只是罕见，并没有什么用处\n"
+	.string "......$"
 
 NewBarkTown_Lab_Text_ElmPokeBall:
-	.string "It contains a POKéMON caught\n"
-	.string "by PROF.ELM.$"
+	.string "里面装着空木博士捕获的宝可梦。$"
 
 @THEFT================================================================================
 
 NewBarkTown_Lab_Text_ElmAfterTheft1:
-	.string "ELM: {PLAYER}, this is terrible…\p"
-	.string "Oh, yes, what was MR. POKéMON's\n"
-	.string "big discovery?$"
+	.string "空木：{PLAYER}，出大事了\n"
+	.string "......\p"
+	.string "啊，对了，宝可梦爷爷的大发现到底\n"
+	.string "是什么？$"
 
 NewBarkTown_Lab_Text_ElmAfterTheft2:
-	.string "{PLAYER} handed the MYSTERY EGG\n"
-	.string "to PROF.ELM.$"
+	.string "{PLAYER}将不可思议的蛋交\n"
+	.string "给了空木博士。$"
 
 NewBarkTown_Lab_Text_ElmAfterTheft3:
 	.string "空木：这个？$"
 
 NewBarkTown_Lab_Text_ElmAfterTheft4:
-	.string "But… Is it a POKéMON EGG?\p"
-	.string "If it is, it is a great\n"
-	.string "discovery!\p"
-	.string "ELM: What?!?\p"
-	.string "PROF.OAK gave you a POKéDEX?\p"
-	.string "{PLAYER}, is that true?\n"
-	.string "Th-that's incredible!\p"
-	.string "He is superb at seeing the\n"
-	.string "potential of people as trainers.\p"
-	.string "Wow, {PLAYER}. You may have what\n"
-	.string "it takes to become the CHAMPION.\p"
-	.string "You seem to be getting on\n"
-	.string "great with POKéMON too.\p"
-	.string "You should take the POKéMON\n"
-	.string "GYM challenge.\p"
-	.string "The closest GYM would be the\n"
-	.string "one in VIOLET CITY.\p"
-	.string "…{PLAYER}. The road to the\n"
-	.string "championship will be a long one.\p"
-	.string "Before you leave, make sure\n"
-	.string "that you talk to your mom.$"
+	.string "但是......这难道是宝可梦的\n"
+	.string "蛋？\p"
+	.string "如果真是这样，那可是一项重大发现\n"
+	.string "啊！\p"
+	.string "空木：什么！？！？\p"
+	.string "大木博士给了你宝可梦图鉴？\p"
+	.string "{PLAYER}，这是真的吗？这\n"
+	.string "也太难以置信了！\p"
+	.string "大木博士看穿训练家潜能的眼光可是\n"
+	.string "顶尖的。\p"
+	.string "哇，{PLAYER}。你可能真的\n"
+	.string "具备成为冠军的资质呢。\p"
+	.string "而且看来你和宝可梦也相处得非常融\n"
+	.string "洽。\p"
+	.string "你应该去挑战宝可梦道馆看看。\p"
+	.string "最近的道馆就在桔梗市。\p"
+	.string "......{PLAYER}。通\n"
+	.string "往冠军之路可是很漫长的。\p"
+	.string "出发之前，记得一定要去跟你妈妈打\n"
+	.string "声招呼。$"
 
 NewBarkTown_Lab_Text_ElmStudyingEgg:
 	.string "空木：别放弃！那枚蛋要是有什么消\n"
 	.string "息，我会打电话给你的！$"
 
 NewBarkTown_Lab_Text_ElmAideHasEgg:
-	.string "ELM: {PLAYER}? Didn't you meet\n"
-	.string "my assistant?\p"
-	.string "He should have met you with\n"
-	.string "the EGG at VIOLET CITY's\p"
-	.string "POKéMON CENTER.\p"
-	.string "You must have just missed him.\n"
-	.string "Try to catch him there.$"
+	.string "空木：{PLAYER}？你没遇到\n"
+	.string "我的助手吗？\p"
+	.string "他应该带着那枚蛋在桔梗市的\p"
+	.string "宝可梦中心等你才对啊。\p"
+	.string "你们肯定是错过了。去那里找找他看\n"
+	.string "吧。$"
 
 NewBarkTown_Lab_Text_ElmWaitingEggHatch:
 	.string "空木：那枚蛋有什么变化吗？$"
@@ -852,10 +845,11 @@ NewBarkTown_Lab_Text_ElmThoughtEggHatched:
 	.string "Where is the POKéMON?$"
 
 NewBarkTown_Lab_Text_ShowTogepi1:
-	.string "ELM: {PLAYER}, you look great!$"
+	.string "空木：{PLAYER}，你看起来\n"
+	.string "很有精神嘛！$"
 
 NewBarkTown_Lab_Text_ShowTogepi2:
-	.string "What? That POKéMON!?!$"
+	.string "什么？那只宝可梦是！？！$"
 
 NewBarkTown_Lab_Text_ShowTogepi3:
 	.string "The EGG hatched! So, POKéMON\n"
@@ -1014,14 +1008,15 @@ NewBarkTown_Lab_Text_Officer1:
 	.string "name?$"
 
 NewBarkTown_Lab_Text_Officer2_1:
-	.string "OK! So {RIVAL} was his name?$"
+	.string "好！原来他的名字叫{RIVAL}\n"
+	.string "啊？$"
 
 NewBarkTown_Lab_Text_Officer2:
 	.string "Thanks for helping my\n"
 	.string "investigation!$"
 
 NewBarkTown_Lab_Text_OfficerNo:
-	.string "Surely you got his name?!$"
+	.string "你肯定知道他的名字吧？！$"
 
 NewBarkTown_Lab_Text_Elm_CallMe:
 	.string "Ah, {PLAYER}!\p"

@@ -397,7 +397,7 @@ CeladonCity_GameCorner_PrizeRoom_Text_WhichPrize::
 	.string "你想要哪个奖品？$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_HereYouGo::
-	.string "はい どうぞ$"
+	.string "好，请拿好。$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_YouWantPrize::
 	.string "嗯，你想要的是\n"
@@ -411,8 +411,8 @@ CeladonCity_GameCorner_PrizeRoom_Text_NeedMoreCoins::
 	.string "抱歉，你的代币不够兑换它哦。$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_OopsNotEnoughRoom::
-	.string "おきゃくさん もう もてないよ$"
+	.string "客人，你已经拿不下更多东西了哦。$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_OhFineThen::
-	.string "あっ そう$"
+	.string "啊，这样啊。$"
 

@@ -6,19 +6,19 @@ ALIGNED(4) static const u8 sText_WirelessSearchCanceled[] = _("无线连接系�
 ALIGNED(4) static const u8 sText_AwaitingCommunucation2[] = _("正在等待其他玩家连接。"); // Unused
 ALIGNED(4) static const u8 sText_AwaitingCommunication[] = _("{STR_VAR_1}！正在等待\n其他玩家连接。");
 ALIGNED(4) static const u8 sText_AwaitingLinkPressStart[] = _("{STR_VAR_1}！等待连接\n！所有玩家准备完毕后请按STAR\lT键。");
-ALIGNED(4) static const u8 sJPText_SingleBattle[] = _("シングルバトルを かいさいする");
-ALIGNED(4) static const u8 sJPText_DoubleBattle[] = _("ダブルバトルを かいさいする");
-ALIGNED(4) static const u8 sJPText_MultiBattle[] = _("マルチバトルを かいさいする");
-ALIGNED(4) static const u8 sJPText_TradePokemon[] = _("ポケモンこうかんを かいさいする");
-ALIGNED(4) static const u8 sJPText_Chat[] = _("チャットを かいさいする");
-ALIGNED(4) static const u8 sJPText_DistWonderCard[] = _("ふしぎなカードをくばる");
-ALIGNED(4) static const u8 sJPText_DistWonderNews[] = _("ふしぎなニュースをくばる");
-ALIGNED(4) static const u8 sJPText_DistMysteryEvent[] = _("ふしぎなできごとを かいさいする"); // Unused
-ALIGNED(4) static const u8 sJPText_HoldPokemonJump[] = _("なわとびを かいさいする");
-ALIGNED(4) static const u8 sJPText_HoldBerryCrush[] = _("きのみマッシャーを かいさいする");
-ALIGNED(4) static const u8 sJPText_HoldBerryPicking[] = _("きのみどりを かいさいする");
-ALIGNED(4) static const u8 sJPText_HoldSpinTrade[] = _("ぐるぐるこうかんを かいさいする");
-ALIGNED(4) static const u8 sJPText_HoldSpinShop[] = _("ぐるぐるショップを かいさいする");
+ALIGNED(4) static const u8 sJPText_SingleBattle[] = _("举办单打对战");
+ALIGNED(4) static const u8 sJPText_DoubleBattle[] = _("举办双打对战");
+ALIGNED(4) static const u8 sJPText_MultiBattle[] = _("举办多人对战");
+ALIGNED(4) static const u8 sJPText_TradePokemon[] = _("举办宝可梦交换");
+ALIGNED(4) static const u8 sJPText_Chat[] = _("发起聊天");
+ALIGNED(4) static const u8 sJPText_DistWonderCard[] = _("分发神秘卡片");
+ALIGNED(4) static const u8 sJPText_DistWonderNews[] = _("分发神秘新闻");
+ALIGNED(4) static const u8 sJPText_DistMysteryEvent[] = _("举办神秘活动"); // Unused
+ALIGNED(4) static const u8 sJPText_HoldPokemonJump[] = _("举办跳绳");
+ALIGNED(4) static const u8 sJPText_HoldBerryCrush[] = _("举办树果捣碎机");
+ALIGNED(4) static const u8 sJPText_HoldBerryPicking[] = _("举办采树果");
+ALIGNED(4) static const u8 sJPText_HoldSpinTrade[] = _("举办转转交换");
+ALIGNED(4) static const u8 sJPText_HoldSpinShop[] = _("举办转转商店");
 
 // Unused
 static const u8 *const sJPLinkGroupActionTexts[] = {
@@ -86,7 +86,7 @@ static const u8 *const sPlayersNeededOrModeTexts[][5] = {
 };
 
 ALIGNED(4) static const u8 sText_BButtonCancel[] = _("{B_BUTTON}取消");
-ALIGNED(4) static const u8 sJPText_SearchingForParticipants[] = _("ため\nさんかしゃ ぼしゅうちゅう です！"); // Unused, may have been cut off
+ALIGNED(4) static const u8 sJPText_SearchingForParticipants[] = _("而正在招募参加者！"); // Unused, may have been cut off
 ALIGNED(4) static const u8 sText_PlayerContactedYouForXAccept[] = _("收到了来自{STR_VAR_2}\n的联络！要同意\l{STR_VAR_1}吗？");
 ALIGNED(4) static const u8 sText_PlayerContactedYouShareX[] = _("收到了来自{STR_VAR_2}\n的联络！要开始\l{STR_VAR_1}吗？");
 ALIGNED(4) static const u8 sText_PlayerContactedYouAddToMembers[] = _("收到了来自{STR_VAR_2}\n的联络！要将其加为成员吗？");
@@ -309,15 +309,15 @@ static const u8 *const sStartActivityTexts[][GENDER_COUNT][3] = {
 };
 
 ALIGNED(4) static const u8 sText_BattleDeclinedMale[] = _("对不起！我的宝可梦好像有点不在状\n态。我们下次再对战吧。\p");
-ALIGNED(4) static const u8 sText_BattleDeclinedFemale[] = _("I'm terribly sorry, but my POKéMON\naren't feeling well…\pLet's battle another time.\p");
+ALIGNED(4) static const u8 sText_BattleDeclinedFemale[] = _("实在抱歉，我的宝可梦现在状态不太\n好......\p我们下次再对战吧。\p");
 
 static const u8 *const sBattleDeclinedTexts[GENDER_COUNT] = {
     sText_BattleDeclinedMale,
     sText_BattleDeclinedFemale
 };
 
-ALIGNED(4) static const u8 sText_ShowTrainerCardDeclinedMale[] = _("Huh? My TRAINER CARD…\nWhere'd it go now?\lSorry! I'll show you another time!\p");
-ALIGNED(4) static const u8 sText_ShowTrainerCardDeclinedFemale[] = _("Oh? Now where did I put my\nTRAINER CARD?…\lSorry! I'll show you later!\p");
+ALIGNED(4) static const u8 sText_ShowTrainerCardDeclinedMale[] = _("哎？我的训练家卡......跑哪\n儿去了？抱歉！下次再给你看吧！\p");
+ALIGNED(4) static const u8 sText_ShowTrainerCardDeclinedFemale[] = _("哎呀？我把训练家卡放到哪里去了？\n......抱歉！等会儿再给你看\l吧！\p");
 
 static const u8 *const sShowTrainerCardDeclinedTexts[GENDER_COUNT] = {
     sText_ShowTrainerCardDeclinedMale,

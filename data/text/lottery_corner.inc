@@ -1,12 +1,11 @@
 LilycoveCity_DepartmentStore_1F_Text_LotteryCornerDrawTicket:
-	.string "This is the POKéMON LOTTERY CORNER.\p"
-	.string "All shoppers at our DEPARTMENT STORE\n"
-	.string "get to draw a POKéMON LOTO TICKET.\p"
-	.string "If the LOTO TICKET's number matches\n"
-	.string "the ID number of any of your POKéMON,\l"
-	.string "you will receive a fabulous gift.\p"
-	.string "Would you like to draw a POKéMON\n"
-	.string "LOTO TICKET?$"
+	.string "这里是宝可梦奖券角。\p"
+	.string "莅临本百货商场的顾客都可以抽取一\n"
+	.string "张宝可梦彩票。\p"
+	.string "如果彩票号码与你的宝可梦中任何一\n"
+	.string "只的ID完全吻合，就能获得豪华大\l"
+	.string "奖哦。\p"
+	.string "你想抽取一张宝可梦彩票吗？$"
 
 LilycoveCity_DepartmentStore_1F_Text_ComeBackTomorrow:
 	.string "请明天再来。$"
@@ -15,8 +14,19 @@ LilycoveCity_DepartmentStore_1F_Text_PleaseVisitAgain:
 	.string "欢迎下次再来。$"
 
 LilycoveCity_DepartmentStore_1F_Text_PleasePickTicket:
-	.string "Please pick a LOTO TICKET.\n"
-	.string "…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "请选一张彩票吧。......\n"
+	.string "{PAUSE 0x0F}\l"
+	.string "{PAUSE 0x0F}\l"
+	.string "{PAUSE 0x0F}\l"
+	.string "{PAUSE 0x0F}....\l"
+	.string "..{PAUSE 0x0F}\l"
+	.string "{PAUSE 0x0F}\l"
+	.string "{PAUSE 0x0F}\l"
+	.string "{PAUSE 0x0F}....\l"
+	.string "..{PAUSE 0x0F}\l"
+	.string "{PAUSE 0x0F}\l"
+	.string "{PAUSE 0x0F}\l"
+	.string "{PAUSE 0x0F}$"
 
 LilycoveCity_DepartmentStore_1F_Text_TicketNumberIsXPleaseWait:
 	.string "彩票的号码是\n"
@@ -60,10 +70,9 @@ LilycoveCity_DepartmentStore_1F_Text_NoRoomForThis:
 	.string "找我。$"
 
 LilycoveCity_DepartmentStore_1F_Text_PrizeWeveBeenHolding:
-	.string "{PLAYER}?\n"
-	.string "Yes, I've been expecting you.\p"
-	.string "This is the prize we've been holding\n"
-	.string "for you.$"
+	.string "{PLAYER}对吧？好的，我正\n"
+	.string "等您呢。\p"
+	.string "这是为您保管的奖品。$"
 
 LilycoveCity_DepartmentStore_1F_Text_PleaseVisitAgain2:
 	.string "欢迎下次再来。$"

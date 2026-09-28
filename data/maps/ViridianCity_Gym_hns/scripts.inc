@@ -54,38 +54,37 @@ ViridianCity_Gym_EventScript_BlueAtDojo::
 	end
 
 ViridianCity_Gym_Text_LeaderBlue_Before:
-	.string "BLUE: Yo! Finally got here, huh?\p"
-	.string "I wasn't in the mood at CINNABAR,\p"
-	.string "but now I'm ready to battle you.\p"
-	.string "…\p"
-	.string "You're telling me you conquered all\n"
-	.string "the GYMS in JOHTO?\p"
-	.string "Heh! JOHTO's GYMS must be pretty\n"
-	.string "pathetic then.\p"
-	.string "Hey, don't worry about it.\p"
-	.string "I'll know if you are good or not by\n"
-	.string "battling you right now.\p"
-	.string "Ready, JOHTO CHAMP?$"
+	.string "青绿：哟！总算到这了啊？\p"
+	.string "在红莲岛时我可没那个心情，\p"
+	.string "但现在我已经准备好和你对战了。\p"
+	.string "......\p"
+	.string "你说你称霸了城都的所有道馆？\p"
+	.string "哼！那城都的道馆水平肯定挺差劲的\n"
+	.string "吧。\p"
+	.string "喂，别放在心上。\p"
+	.string "只要现在和你打一场，我就知道你有\n"
+	.string "几斤几两了。\p"
+	.string "准备好了吗，城都的冠军？$"
 
 ViridianCity_Gym_Text_LeaderBlue_Win:
-	.string "BLUE: What?\p"
-	.string "How the heck did I lose to you?\p"
-	.string "…\p"
-	.string "Tch, all right… Here, take this--it's\n"
-	.string "EARTHBADGE.$"
+	.string "青绿：什么？！\p"
+	.string "我到底怎么会输给你啊？！\p"
+	.string "......\p"
+	.string "切，好吧......拿去吧--这\n"
+	.string "是绿色徽章。$"
 
 ViridianCity_Gym_Text_ReceivedEarthBadge:
-	.string "{PLAYER} received EARTHBADGE.$"
+	.string "{PLAYER}获得了绿色徽章。$"
 
 ViridianCity_Gym_Text_LeaderBlue_After:
-	.string "BLUE: …\p"
-	.string "All right, I was wrong. You're the\n"
-	.string "real deal. You are a good trainer.\p"
-	.string "But I'm going to beat you someday.\p"
-	.string "Don't you forget it!$"
+	.string "青绿：......\p"
+	.string "好吧，是我看走眼了。你确实名副其\n"
+	.string "实，是个出色的训练家。\p"
+	.string "不过总有一天我会赢回来的。\p"
+	.string "你可别忘了！$"
 
 ViridianCity_Gym_Text_LeaderBlue_GiveTM:
-	.string "Take this with you.$"
+	.string "把这个也带上吧。$"
 
 ViridianCity_Gym_Text_LeaderBlue_ExplainTM:
 	.string "That's TRICK ROOM.\p"
@@ -94,9 +93,9 @@ ViridianCity_Gym_Text_LeaderBlue_ExplainTM:
 	.string "Use it to turn a battle on its head.$"
 
 ViridianCity_Gym_Text_LeaderBlue_Epilogue:
-	.string "BLUE: Listen, you.\p"
-	.string "You'd better not lose until I beat\n"
-	.string "you. Got it?$"
+	.string "青绿：听好了，\p"
+	.string "在我打赢你之前，你可不准输给别人\n"
+	.string "。听明白了没？$"
 
 
 ViridianCity_Gym_EventScript_GymGuy::
@@ -109,18 +108,17 @@ ViridianCity_Gym_EventScript_GymGuyAfter::
 	end
 
 ViridianCity_Gym_Text_Guide:
-	.string "Yo, CHAMP in making!\p"
-	.string "How's it going? Looks like you're on\n"
-	.string "a roll.\p"
-	.string "The GYM LEADER is a guy who battled\n"
-	.string "the CHAMPION three years ago.\p"
-	.string "He's no pushover.\p"
-	.string "Give it everything you've got!$"
+	.string "哟，未来的冠军！\p"
+	.string "最近怎么样？看起来势头很猛嘛！\p"
+	.string "这里的道馆馆主可是三年前和冠军交\n"
+	.string "过手的人物哦。\p"
+	.string "他可绝不是省油的灯。\p"
+	.string "使出你的浑身解数上吧！$"
 
 ViridianCity_Gym_Text_Guide_Win:
-	.string "Man, you are truly tough…\p"
-	.string "That was a heck of an inspirational\n"
-	.string "battle. It brought tears to my eyes.$"
+	.string "天哪，你可真厉害......\p"
+	.string "那场对战太令人热血沸腾了，感动得\n"
+	.string "我眼泪都要掉下来了。$"
 
 
 ViridianCity_Gym_EventScript_GymStatue::
@@ -136,14 +134,11 @@ ViridianCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 ViridianCity_Gym_Text_GymStatue::
-    .string "VIRIDIAN POKéMON GYM\n"
-    .string "LEADER: BLUE\p"
-	.string "WINNING TRAINERS:\n"
-	.string "BLUE, RED$"
+    .string "常青宝可梦道馆馆主：青绿\p"
+    .string "胜出训练家：青绿、赤红$"
 
 ViridianCity_Gym_Text_GymStatuePlayerWon::
-    .string "VIRIDIAN POKéMON GYM\n"
-    .string "LEADER: BLUE\p"
-    .string "WINNING TRAINERS:\n"
-	.string "BLUE, RED, {PLAYER}$"
+    .string "常青宝可梦道馆馆主：青绿\p"
+    .string "胜出训练家：青绿、赤红、\n"
+    .string "{PLAYER}$"
 

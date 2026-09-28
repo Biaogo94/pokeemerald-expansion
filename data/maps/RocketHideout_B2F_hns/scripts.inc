@@ -166,11 +166,10 @@ RocketHideout_B2F_Movement_MurkrowGate2:
 	step_end
 
 RocketHideout_B2F_Text_MurkrowUnlock:
-    .string "MURKROW screamed the password,\n"
-    .string "mimicking the voice of PETREL.\p"
-    .string "..................\n"
-    .string "The voice-recognition system\l"
-    .string "unlocked the door!$"
+    .string "黑暗鸦模仿拉姆达的声音喊出了密码\n"
+    .string "。\p"
+    .string "................\n"
+    .string "..声纹识别系统解锁了大门！$"
 
 @============================================================================================================================================
 
@@ -248,7 +247,7 @@ RocketHideout_B2F_Movement_Lance:
 	step_end
 
 RocketHideout_B2F_Text_ArianaHoldIt:
-    .string "ARIANA: Hold it right there!$"
+    .string "雅典娜：给我站住！$"
 
 RocketHideout_B2F_Text_ArianaChallenge:
     .string "ARIANA: We can't let a brat like you\n"
@@ -627,7 +626,7 @@ RocketHideout_B2F_Text_LanceElectrodeFaint:
     .string "{PLAYER}, let's split the job.$"
 
 RocketHideout_B2F_Text_LanceSide:
-    .string "LANCE: Leave this side to me.$"
+    .string "渡：这边就交给我吧。$"
 
 RocketHideout_B2F_Text_LanceElectrodeDone:
     .string "LANCE: That odd signal has\n"
@@ -665,9 +664,9 @@ RocketHideout_B2F_Text_LanceMonMaster:
     .string "again!$"
 
 RocketHideout_B2F_Text_B2FTransmitter:
-    .string "It's the radio transmitter that's\n"
-    .string "sending the sinister signal.\p"
-    .string "It's working at full capacity.$"
+    .string "这是一台正在发射不祥电波的发射装\n"
+    .string "置。\p"
+    .string "它正在全负荷运转。$"
 
 RocketHideout_B2F_Text_B2FDeactivateTransmitter:
     .string "The radio transmitter has finally\n"
@@ -755,10 +754,9 @@ RocketHideout_B2F_Movement_DragoniteGoDeeper:
 	step_end
 
 RocketHideout_B2F_Text_LanceHeals1:
-    .string "LANCE: Are you all right?\p"
-    .string "Your POKéMON are hurt and tired.\p"
-    .string "Here, give them some of my\n"
-    .string "medicine.$"
+    .string "渡：你没事吧？\p"
+    .string "你的宝可梦都受了伤，很疲惫了。\p"
+    .string "来，给它们用一下我的伤药吧。$"
 
 RocketHideout_B2F_Text_LanceHeals2:
     .string "LANCE: {PLAYER}, let's give it\n"
@@ -771,7 +769,7 @@ RocketHideout_B2F_Text_GruntM17Seen:
     .string "knows.$"
 
 RocketHideout_B2F_Text_GruntM17Beaten:
-    .string "What? I lost?$"
+    .string "什么？我输了？！$"
 
 RocketHideout_B2F_Text_GruntM17After:
     .string "Heh, I'm just a GRUNT.\p"
@@ -788,7 +786,7 @@ RocketHideout_B2F_Text_GruntM18Seen:
     .string "this, but eliminate you I must.$"
 
 RocketHideout_B2F_Text_GruntM18Beaten:
-    .string "I knew I'd lose…$"
+    .string "我就知道会输......$"
 
 RocketHideout_B2F_Text_GruntM18After:
     .string "I got wiped out on the last\n"
@@ -804,10 +802,10 @@ RocketHideout_B2F_EventScript_Grunt15::
 	end
 
 RocketHideout_B2F_Text_GruntM19Seen:
-    .string "You rotten little pest!$"
+    .string "你这个可恶的讨厌鬼！$"
 
 RocketHideout_B2F_Text_GruntM19Beaten:
-    .string "Grrrr…$"
+    .string "可恶......$"
 
 RocketHideout_B2F_Text_GruntM19After:
     .string "Heh, only the boss knows the\n"

@@ -28,6 +28,6 @@ MahoganyRedGyaradosHouse_Text_Teacher:
     .string "POKéMON MUSIC.$"
 
 MahoganyRedGyaradosHouse_Text_Teacher_Rockets:
-    .string "I've been hearing laughter on the\n"
-    .string "radio…\p"
-    .string "It's creepy.$"
+    .string "我刚才在收音机里听到了笑声...\n"
+    .string "...\p"
+    .string "真叫人毛骨悚然。$"
