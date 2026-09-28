@@ -23,6 +23,26 @@ Three responsibilities:
 ``build_plan`` / ``main``
     Selects which corpus entries may be injected and reports the rest.
 
+The write-back contract (MANDATORY)
+-----------------------------------
+A translation reaches ``data/`` only after every one of these holds; anything
+else is *skipped and reported*, never guessed:
+
+1. the entry carries a string ``source`` and a non-empty ``translation``;
+2. :func:`tools.i18n.ai_translator.validate_translation` accepts the pair, so a
+   hand-edited corpus entry with a dropped ``\\p``, a missing ``$`` or a lost
+   ``{PLAYER}`` cannot be written (the same guard that produced the corpus runs
+   again at the last moment before disk);
+3. the ``(label, index)`` pair resolves to **exactly one** block -- two blocks
+   with the same label on either side of an ``#if``/``#else`` are ambiguous and
+   must not both receive the same text;
+4. the block currently holds either the entry's ``source`` (fresh injection) or
+   exactly the text this run would write (a re-run: idempotence);
+5. the block neither spans nor abuts a ``#if``/``#ifdef``/``#ifndef``/
+   ``#elif``/``#else``/``#endif`` line.  The extractor concatenates across those
+   directives while this module's parser stops at them, so the two disagree
+   about block boundaries; where they can disagree, nothing is written.
+
 Injection filter (MANDATORY)
 ----------------------------
 ``translated_corpus.json`` contains thousands of ``match_type == "dictionary"``
@@ -48,6 +68,23 @@ import sys
 from collections import Counter
 from dataclasses import dataclass, field
 from typing import Dict, Iterable, List, Optional, Sequence, Tuple
+
+# Running this file as a script (``python tools/i18n/injector.py``) puts
+# ``tools/i18n`` -- not the repository root -- on ``sys.path``, which would hide
+# the ``tools.i18n`` package.  Put the repository root back before importing the
+# sibling module, so both ``python -m ...`` and script mode import the *same*
+# module object.
+_REPO_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+if _REPO_ROOT not in sys.path:
+    sys.path.insert(0, _REPO_ROOT)
+
+from tools.i18n.ai_translator import (  # noqa: E402  (import after sys.path bootstrap)
+    TranslationFormatError,
+    validate_translation,
+)
+from tools.i18n.aligner import (  # noqa: E402  (import after sys.path bootstrap)
+    validate_control_codes_preserved,
+)
 
 # --------------------------------------------------------------------------
 # Constants
@@ -102,6 +139,13 @@ _INC_LABEL_RE = re.compile(r"^([A-Za-z0-9_]+)::")
 _INC_SINGLE_LABEL_RE = re.compile(r"^([A-Za-z0-9_]+):")
 _INC_STRING_RE = re.compile(r'^\s*\.string\s+"(.*)"\s*$')
 _INC_INDENT_RE = re.compile(r"^([ \t]*)")
+
+#: Preprocessor conditionals.  ``.string`` blocks wrapped in these cannot be
+#: injected: the extractor concatenates across the directives (see
+#: ``extract_strings_from_inc``) while :func:`_parse_inc_blocks` stops at them,
+#: so ``(label, index)`` means different things to the two modules.
+_PREPROC_RE = re.compile(r"^\s*#\s*(if|ifdef|ifndef|elif|else|endif)\b")
+_PREPROC_OPENERS = ("if", "ifdef", "ifndef")
 
 _C_ARRAY_RE = re.compile(
     r'(?:static\s+)?(?:const\s+)?(?:u8|char)\s+([A-Za-z0-9_]+)\s*\[\]\s*=\s*_\(\s*"([^"]*)"\s*\);'
@@ -214,8 +258,13 @@ def wrap_chinese(text: str, max_chars: int = DEFAULT_MAX_CHARS) -> str:
     if max_chars <= 0:
         raise ValueError("max_chars must be positive, got %r" % (max_chars,))
 
-    terminated = text.endswith(TERMINATOR)
-    body = text[:-1] if terminated else text
+    # ``rstrip()`` before the test, matching every other module in the pipeline
+    # (``aligner.repair_terminator``, ``ai_translator._is_terminated``): a
+    # terminator with dead whitespace behind it still terminates.  The trailing
+    # whitespace is then dropped -- bytes after ``$`` are never rendered.
+    stripped = text.rstrip()
+    terminated = stripped.endswith(TERMINATOR)
+    body = stripped[:-1] if terminated else text
 
     wrapped = [ _wrap_paragraph(paragraph, max_chars) for paragraph in split_paragraphs(body) ]
     result = PAGE_BREAK.join(wrapped)
@@ -272,6 +321,14 @@ def emit_string_lines(text: str, indent: str = "\t") -> List[str]:
         # The assembler would break on these; the corpus contains none.  Fail
         # loudly rather than writing corrupt source.
         raise ValueError("refusing to emit text containing a quote or raw newline: %r" % (text,))
+    trailing_backslashes = len(text) - len(text.rstrip("\\"))
+    if trailing_backslashes % 2:
+        # A lone trailing ``\`` escapes the closing quote of the emitted
+        # literal: ``.string "hello\"`` swallows the rest of the file.  An even
+        # run escapes itself and is safe.
+        raise ValueError(
+            "refusing to emit text ending in an unescaped backslash: %r" % (text,)
+        )
     return ['%s.string "%s"' % (indent, chunk) for chunk in split_chunks(text)]
 
 
@@ -338,9 +395,15 @@ def build_plan(*corpora: Sequence[dict]) -> InjectionPlan:
             elif match_type == "dictionary":
                 plan.dropped_dictionary += 1
             elif match_type in INJECTABLE_MATCH_TYPES:
+                target = entry.get("file")
+                if not isinstance(target, str) or not target:
+                    # A hand-edited corpus can lose the key; the plan must
+                    # report it rather than die with KeyError.
+                    plan.dropped_other += 1
+                    continue
                 plan.injectable += 1
                 plan.match_type_counts[match_type] += 1
-                plan.by_file.setdefault(entry["file"], []).append(entry)
+                plan.by_file.setdefault(target, []).append(entry)
             else:
                 plan.dropped_other += 1
     return plan
@@ -370,6 +433,10 @@ class _IncBlock:
     start: int
     end: int
     text: str
+    #: Line index of the label that owns the block (-1 when unknown).
+    label_line: int = -1
+    #: True when the block spans or abuts a preprocessor conditional.
+    guarded: bool = False
 
 
 def _is_meaningful_string(text: str) -> bool:
@@ -380,10 +447,55 @@ def _is_meaningful_string(text: str) -> bool:
     return any(ch.isalnum() for ch in cleaned)
 
 
+def _preprocessor_guarded_lines(lines: Sequence[str]) -> List[bool]:
+    """Mark every line inside, or made of, a preprocessor conditional.
+
+    The ``#if``/``#else``/``#endif`` lines themselves are marked, as is every
+    line between a directive and its ``#endif``.  An unbalanced ``#else`` or
+    ``#elif`` is treated as opening a region: on malformed input the answer must
+    be "do not touch", never "probably fine".
+    """
+    guarded = [False] * len(lines)
+    depth = 0
+    for index, line in enumerate(lines):
+        match = _PREPROC_RE.match(line)
+        if match:
+            guarded[index] = True
+            kind = match.group(1)
+            if kind in _PREPROC_OPENERS:
+                depth += 1
+            elif kind == "endif":
+                if depth:
+                    depth -= 1
+            elif depth == 0:
+                # ``#else`` / ``#elif`` without a matching ``#if``: malformed.
+                depth = 1
+            continue
+        if depth:
+            guarded[index] = True
+    return guarded
+
+
+def _is_guarded_block(guarded: Sequence[bool], label_line: int, start: int, end: int) -> bool:
+    """True when ``[label_line - 1, end]`` touches a preprocessor conditional.
+
+    ``end`` is the first line *after* the block, so the window covers the line
+    before the label (a directive directly above it), the lines of the block
+    itself, and the line directly after it -- "spans or abuts".
+    """
+    low = max(0, label_line - 1)
+    high = min(len(guarded) - 1, end)
+    if high < low:
+        return False
+    return any(guarded[index] for index in range(low, high + 1))
+
+
 def _parse_inc_blocks(lines: Sequence[str]) -> List[_IncBlock]:
     """Locate every ``.string`` group in an ``.inc`` file, indexed like the extractor."""
     blocks: List[_IncBlock] = []
+    guarded_lines = _preprocessor_guarded_lines(lines)
     label: Optional[str] = None
+    label_line = -1
     index = 0
     i = 0
     n = len(lines)
@@ -392,6 +504,7 @@ def _parse_inc_blocks(lines: Sequence[str]) -> List[_IncBlock]:
         label_match = _INC_LABEL_RE.match(line) or _INC_SINGLE_LABEL_RE.match(line)
         if label_match:
             label = label_match.group(1)
+            label_line = i
             index = 0
             i += 1
             continue
@@ -410,7 +523,17 @@ def _parse_inc_blocks(lines: Sequence[str]) -> List[_IncBlock]:
                     break
             text = "".join(parts)
             if _is_meaningful_string(text):
-                blocks.append(_IncBlock(label, index, start, i, text))
+                blocks.append(
+                    _IncBlock(
+                        label,
+                        index,
+                        start,
+                        i,
+                        text,
+                        label_line,
+                        _is_guarded_block(guarded_lines, label_line, start, i),
+                    )
+                )
                 index += 1
             continue
 
@@ -431,55 +554,190 @@ def _detect_eol(content: str) -> str:
     return ""
 
 
-def _inject_inc(content: str, updates: Sequence[dict]) -> Tuple[str, int, int]:
+def _dedupe_updates(updates: Sequence[dict]) -> List[dict]:
+    """One update per ``(label, index)``, later entries winning (as before)."""
+    wanted: Dict[Tuple[object, object], dict] = {}
+    for update in updates:
+        wanted[(update.get("label"), update.get("index"))] = update
+    return list(wanted.values())
+
+
+def _report_skip(path: str, update: dict, reason: str) -> None:
+    """Announce a skipped update on stderr, naming the entry and the reason."""
+    location = "%s:%s:%s" % (path or "<file>", update.get("label"), update.get("index"))
+    print("warning: skipped %s: %s" % (location, reason), file=sys.stderr)
+
+
+#: ``\n`` and ``\l`` only.  ``wrap_chinese`` discards the authored layout and
+#: re-emits its own breaks, so their *count* can never be compared between a
+#: corpus entry and its source; everything the guard checks besides them --
+#: ``{...}`` placeholders, ``\p`` page breaks, the ``$`` terminator -- survives
+#: the re-flow and is verified here before anything reaches disk.
+_LAYOUT_CODE_RE = re.compile(r"\\[nl]")
+
+
+def _without_layout_codes(text: str) -> str:
+    """Remove ``\\n`` / ``\\l`` so the guard compares only what the wrap keeps."""
+    return _LAYOUT_CODE_RE.sub("", text)
+
+
+def _guarded_translation(path: str, update: dict) -> Optional[str]:
+    """Return the translation to write, or ``None`` if the entry must be skipped.
+
+    This is the write-back boundary: the last point before ``wrap_chinese`` and
+    ``emit_string_lines`` turn an entry into source code.  Everything the corpus
+    claims is re-checked here, because the corpus is hand-editable data and a
+    dropped ``\\p`` or a missing ``$`` would corrupt every string after it.
+    """
+    translation = update.get("translation")
+    source = update.get("source")
+    if not isinstance(translation, str) or not translation:
+        _report_skip(path, update, "entry carries no translation")
+        return None
+    if not isinstance(source, str) or not source:
+        # Without the source there is nothing to verify the block against.
+        _report_skip(path, update, "entry carries no source string to verify against")
+        return None
+    try:
+        validate_translation(_without_layout_codes(source), _without_layout_codes(translation))
+    except TranslationFormatError as exc:
+        _report_skip(path, update, "format guard rejected the translation (%s)" % exc.code)
+        return None
+    return translation
+
+
+def _wrapped_or_skip(path: str, update: dict, translation: str) -> Optional[str]:
+    """Wrap a translation and verify the result, reporting a skip on refusal.
+
+    Two layers, both at the boundary: :func:`wrap_chinese` must not raise (a
+    raw newline, a quote or a trailing lone backslash would produce a broken
+    ``.string`` line), and the wrapped text must still carry the source's
+    placeholders, page breaks and terminator.
+    """
+    try:
+        wrapped = wrap_chinese(translation)
+    except ValueError as exc:
+        _report_skip(path, update, "refusing to emit the translation (%s)" % exc)
+        return None
+    if not validate_control_codes_preserved(update.get("source"), wrapped):
+        _report_skip(
+            path, update,
+            "wrapped text no longer preserves the source's placeholders/page breaks/terminator",
+        )
+        return None
+    return wrapped
+
+
+def _inject_inc(content: str, updates: Sequence[dict], path: str = "") -> Tuple[str, int, int]:
     lines = content.split("\n")
     blocks = _parse_inc_blocks(lines)
     eol = _detect_eol(content)
+    unique = _dedupe_updates(updates)
 
-    wanted: Dict[Tuple[str, int], dict] = {}
-    for update in updates:
-        wanted[(update.get("label"), update.get("index"))] = update
+    by_key: Dict[Tuple[str, int], List[_IncBlock]] = {}
+    for block in blocks:
+        by_key.setdefault((block.label, block.index), []).append(block)
 
     applied = 0
-    for block in reversed(blocks):
-        update = wanted.get((block.label, block.index))
-        if update is None:
+    pending: List[Tuple[_IncBlock, List[str]]] = []
+    for update in unique:
+        translation = _guarded_translation(path, update)
+        if translation is None:
             continue
-        text = wrap_chinese(update["translation"])
+
+        matches = by_key.get((update.get("label"), update.get("index")), [])
+        if any(block.guarded for block in matches):
+            # Two blocks on either side of an #if, or a block the extractor and
+            # this parser read differently: writing the same text to all of them
+            # is how both branches used to collapse into one translation.
+            _report_skip(
+                path, update,
+                "block spans or abuts a #if/#else/#endif preprocessor block",
+            )
+            continue
+        if len(matches) != 1:
+            _report_skip(
+                path, update,
+                "expected exactly one matching .string block, found %d" % (len(matches),),
+            )
+            continue
+        block = matches[0]
+
+        wrapped = _wrapped_or_skip(path, update, translation)
+        if wrapped is None:
+            continue
+        if block.text != update.get("source") and block.text != wrapped:
+            # Neither the untranslated source nor this very translation: some
+            # other string lives here.  A silent overwrite would corrupt it.
+            _report_skip(
+                path, update,
+                "block does not match the corpus source (found %r)" % (block.text[:60],),
+            )
+            continue
+
         indent_match = _INC_INDENT_RE.match(lines[block.start])
         indent = indent_match.group(1) if indent_match else "\t"
-        emitted = [line + eol for line in emit_string_lines(text, indent or "\t")]
-        lines[block.start:block.end] = emitted
+        try:
+            emitted = [line + eol for line in emit_string_lines(wrapped, indent or "\t")]
+        except ValueError as exc:
+            _report_skip(path, update, "refusing to emit the translation (%s)" % exc)
+            continue
+        pending.append((block, emitted))
         applied += 1
 
-    return "\n".join(lines), applied, len(updates) - applied
+    # Back to front, so replacing a block with a different number of lines
+    # cannot shift the line indices of the blocks still to be written.
+    for block, emitted in sorted(pending, key=lambda item: item[0].start, reverse=True):
+        lines[block.start:block.end] = emitted
+
+    return "\n".join(lines), applied, len(unique) - applied
 
 
-def _inject_c(content: str, updates: Sequence[dict]) -> Tuple[str, int, int]:
+def _inject_c(content: str, updates: Sequence[dict], path: str = "") -> Tuple[str, int, int]:
     by_label: Dict[str, List[Tuple[int, re.Match]]] = {}
     for position, match in enumerate(_C_ARRAY_RE.finditer(content)):
         by_label.setdefault(match.group(1), []).append((position, match))
 
+    unique = _dedupe_updates(updates)
     edits: List[Tuple[int, int, str]] = []
     applied = 0
-    for update in updates:
-        candidates = by_label.get(update.get("label"))
-        if not candidates:
+    for update in unique:
+        translation = _guarded_translation(path, update)
+        if translation is None:
             continue
-        target = None
-        for position, match in candidates:
-            if position == update.get("index"):
-                target = match
-                break
-        if target is None:
-            target = candidates[0][1]
-        edits.append((target.start(2), target.end(2), wrap_chinese(update["translation"])))
+
+        label = update.get("label")
+        index = update.get("index")
+        candidates = [match for position, match in by_label.get(label, []) if position == index]
+        if len(candidates) != 1:
+            # Falling back to the first array with this label would overwrite an
+            # unrelated string and report success; the .inc path skips here too.
+            _report_skip(
+                path, update,
+                'expected exactly one _("...") array at this index, found %d'
+                % (len(candidates),),
+            )
+            continue
+        match = candidates[0]
+
+        wrapped = _wrapped_or_skip(path, update, translation)
+        if wrapped is None:
+            continue
+        if match.group(2) != update.get("source") and match.group(2) != wrapped:
+            _report_skip(
+                path, update,
+                'array literal does not match the corpus source (found %r)'
+                % (match.group(2)[:60],),
+            )
+            continue
+
+        edits.append((match.start(2), match.end(2), wrapped))
         applied += 1
 
     for start, end, replacement in sorted(edits, key=lambda item: item[0], reverse=True):
         content = content[:start] + replacement + content[end:]
 
-    return content, applied, len(updates) - applied
+    return content, applied, len(unique) - applied
 
 
 def inject_into_file(
@@ -489,20 +747,26 @@ def inject_into_file(
 ) -> InjectionResult:
     """Write ``updates`` into ``path``, returning what changed.
 
-    ``updates`` are corpus entries; only ``label``, ``index`` and ``translation``
-    are used.  ``.inc`` files get their ``.string`` block rewritten; ``.h`` and
-    ``.c`` files get the literal inside ``_("...")`` replaced.  Nothing outside
-    the matched block is touched.  With ``dry_run`` the file is left alone and
-    the prospective content is returned on the result.
+    ``updates`` are corpus entries; ``label``, ``index``, ``source`` and
+    ``translation`` are used.  ``.inc`` files get their ``.string`` block
+    rewritten; ``.h`` and ``.c`` files get the literal inside ``_("...")``
+    replaced.  Nothing outside the matched block is touched.
+
+    Every update is verified before it is written (see the module docstring):
+    an entry whose source, index or translation cannot be trusted is *skipped*
+    and reported on stderr, so ``result.applied + result.skipped`` always
+    equals the number of distinct ``(label, index)`` pairs.  With ``dry_run``
+    the file is left alone and the prospective content is returned on the
+    result.
     """
     with open(path, "r", encoding="utf-8", newline="") as handle:
         content = handle.read()
 
     extension = os.path.splitext(path)[1].lower()
     if extension == ".inc":
-        updated, applied, skipped = _inject_inc(content, updates)
+        updated, applied, skipped = _inject_inc(content, updates, path)
     elif extension in (".h", ".c"):
-        updated, applied, skipped = _inject_c(content, updates)
+        updated, applied, skipped = _inject_c(content, updates, path)
     else:
         raise ValueError("unsupported file type for injection: %s" % (path,))
 
@@ -550,6 +814,15 @@ def _print_report(plan: InjectionPlan, results: Sequence[InjectionResult], dry_r
         )
 
     changed = [result for result in results if result.changed]
+    print(
+        "Strings injected: %d, skipped: %d"
+        % (
+            sum(result.applied for result in results),
+            sum(result.skipped for result in results),
+        )
+    )
+    if any(result.skipped for result in results):
+        print("  skipped strings are reported above on stderr; nothing was written for them.")
     print(
         "%s: %d of %d"
         % ("Files that would change" if dry_run else "Files changed", len(changed), len(results))

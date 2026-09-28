@@ -470,7 +470,12 @@ class TestInjectInc(InjectorTestBase):
         self.assertIn("TestMap_EventScript_Intro::", content)
 
     def test_untargeted_labels_produce_no_change(self):
-        other = dict(self.update, label="TestMap_Text_Outro", translation="再见！" + END)
+        other = dict(
+            self.update,
+            label="TestMap_Text_Outro",
+            source="Goodbye!" + END,
+            translation="再见！" + END,
+        )
         result = inject_into_file(self.path, [other])
         self.assertTrue(result.changed)
         content = self.read(self.path)
@@ -498,13 +503,16 @@ class TestInjectInc(InjectorTestBase):
         self.assertEqual(texts["TestMap_Text_Untouched"], "Untouched line one" + NL + "untouched line two" + END)
 
     def test_ascii_only_translation_keeps_authored_layout(self):
+        untouched = "Untouched line one" + NL + "untouched line two" + END
         update = dict(
             self.update,
             label="TestMap_Text_Untouched",
             index=0,
-            translation="Untouched line one" + NL + "untouched line two" + END,
+            source=untouched,
+            translation=untouched,
         )
         result = inject_into_file(self.path, [update])
+        self.assertEqual(result.skipped, 0)
         self.assertFalse(result.changed)
 
     def test_missing_label_is_skipped_not_fatal(self):
@@ -544,7 +552,12 @@ class TestInjectInc(InjectorTestBase):
 
     def test_batch_of_files_and_labels(self):
         path_b = self.write("data/maps/Other/scripts.inc", SAMPLE_INC)
-        update_b = dict(self.update, label="TestMap_Text_Outro", translation="再见！" + END)
+        update_b = dict(
+            self.update,
+            label="TestMap_Text_Outro",
+            source="Goodbye!" + END,
+            translation="再见！" + END,
+        )
         inject_into_file(self.path, [self.update])
         inject_into_file(path_b, [update_b])
         self.assertIn("你好呀", self.read(self.path))
@@ -631,7 +644,7 @@ class TestCli(InjectorTestBase):
                 "file": "./data/maps/TestMap/scripts.inc",
                 "label": "TestMap_Text_Intro",
                 "index": 0,
-                "source": "Hello there!" + NL + "Welcome.\\pHave fun!" + END,
+                "source": "Hello there!" + NL + "Welcome to the world of POKéMON." + LP + "Have fun!" + END,
                 "category": "map_script",
                 "translation": INTRO_TRANSLATION,
                 "match_type": "exact",
@@ -733,6 +746,495 @@ class TestCli(InjectorTestBase):
         )
         self.assertIsInstance(plan, InjectionPlan)
         self.assertEqual(plan.injectable, 128)
+
+
+# ---------------------------------------------------------------------------
+# Write-back hardening.
+#
+# The injector originally trusted the corpus: it matched a ``(label, index)``
+# pair, wrapped whatever translation the entry carried, and wrote it.  Every
+# failure mode below was therefore silent -- the wrong string, or a string on
+# top of another string, reached ``data/`` while the run reported success.  The
+# corpus is about to grow from 128 strings to ~25,000, and
+# ``#if / #else / #endif`` blocks wrap ``.string`` blocks in real files
+# (``data/text/battle_tent.inc``, ``data/text/event_ticket_*.inc``, ...), so
+# each of these is now either a verified write or a reported skip.
+# ---------------------------------------------------------------------------
+
+
+def run_capturing_stderr(func, *args, **kwargs):
+    """Call ``func`` and return ``(result, stderr_text)``."""
+    buf = io.StringIO()
+    with contextlib.redirect_stderr(buf):
+        result = func(*args, **kwargs)
+    return result, buf.getvalue()
+
+
+PREPROC_INC = (
+    "#if IS_HNS\n"
+    "Dup_Text:\n"
+    '\t.string "Alpha!$"\n'
+    "#else\n"
+    "Dup_Text:\n"
+    '\t.string "Beta!$"\n'
+    "#endif\n"
+    "\n"
+    "#if IS_HNS\n"
+    "Guarded_Text:\n"
+    '\t.string "Guarded one$"\n'
+    "#endif\n"
+    "\n"
+    "Clean_Text:\n"
+    '\t.string "Clean one$"\n'
+)
+
+ABUT_INC = (
+    "#if IS_HNS\n"
+    "Inner_Text:\n"
+    '\t.string "Inner$"\n'
+    "#endif\n"
+    "Abutting_Text:\n"
+    '\t.string "Abutting$"\n'
+)
+
+DIVERGENT_INC = (
+    "Split_Text:\n"
+    "#if IS_HNS\n"
+    '\t.string "In the ARENA BATTLE TENT,\\n"\n'
+    "#else\n"
+    '\t.string "In the FALLARBOR BATTLE TENT,\\n"\n'
+    "#endif\n"
+    '\t.string "we undertake the Set KO Tourney.$"\n'
+)
+
+GUARD_INC = (
+    "Guard_Text:\n"
+    '\t.string "First paragraph.\\p"\n'
+    '\t.string "Second paragraph.$"\n'
+    "\n"
+    "Placeholder_Text:\n"
+    '\t.string "Hello {PLAYER}!$"\n'
+)
+
+GUARD_SOURCE = "First paragraph." + LP + "Second paragraph." + END
+
+
+class TestPreprocessorBlocks(InjectorTestBase):
+    """Findings 1 and 2: ``#if`` / ``#else`` / ``#endif`` are never written through."""
+
+    def setUp(self):
+        super().setUp()
+        self.path = self.write("data/text/preproc.inc", PREPROC_INC)
+
+    def update(self, label, source, translation="甲！" + END):
+        return {
+            "id": "x:%s:0" % label,
+            "file": "./data/text/preproc.inc",
+            "label": label,
+            "index": 0,
+            "source": source,
+            "translation": translation,
+            "match_type": "exact",
+        }
+
+    def before(self):
+        return self.read(self.path)
+
+    def test_same_label_in_both_branches_is_skipped_not_overwritten(self):
+        """The old injector wrote one translation over BOTH branches."""
+        before = self.before()
+        result, err = run_capturing_stderr(
+            inject_into_file, self.path, [self.update("Dup_Text", "Alpha!$")]
+        )
+        self.assertEqual(result.applied, 0)
+        self.assertEqual(result.skipped, 1)
+        self.assertFalse(result.changed)
+        self.assertEqual(self.read(self.path), before)
+        content = self.read(self.path)
+        self.assertIn('\t.string "Alpha!$"', content)
+        self.assertIn('\t.string "Beta!$"', content)
+        self.assertIn("Dup_Text", err)
+
+    def test_a_skipped_update_is_reported_and_never_makes_the_count_negative(self):
+        updates = [
+            self.update("Dup_Text", "Alpha!$"),
+            self.update("Guarded_Text", "Guarded one$"),
+            self.update("Clean_Text", "Clean one$", "干净$"),
+        ]
+        result = inject_into_file(self.path, updates)
+        self.assertEqual(result.applied, 1)
+        self.assertEqual(result.skipped, 2)
+        self.assertGreaterEqual(result.skipped, 0)
+
+    def test_label_inside_a_preprocessor_block_is_skipped(self):
+        before = self.before()
+        result, err = run_capturing_stderr(
+            inject_into_file, self.path, [self.update("Guarded_Text", "Guarded one$")]
+        )
+        self.assertEqual(result.applied, 0)
+        self.assertEqual(result.skipped, 1)
+        self.assertEqual(self.read(self.path), before)
+        self.assertIn("Guarded_Text", err)
+
+    def test_label_after_endif_with_a_blank_line_is_still_injected(self):
+        result = inject_into_file(
+            self.path, [self.update("Clean_Text", "Clean one$", "干净$")]
+        )
+        self.assertEqual(result.applied, 1)
+        self.assertEqual(result.skipped, 0)
+        self.assertIn("干净" + END, self.read(self.path))
+        # The preprocessor branches themselves are untouched.
+        self.assertIn('\t.string "Alpha!$"', self.read(self.path))
+        self.assertIn('\t.string "Beta!$"', self.read(self.path))
+
+    def test_label_abutting_endif_is_skipped(self):
+        """No blank line between ``#endif`` and the label: refuse to guess."""
+        path = self.write("data/text/abut.inc", ABUT_INC)
+        before = self.read(path)
+        update = {
+            "id": "x:Abutting_Text:0",
+            "file": "./data/text/abut.inc",
+            "label": "Abutting_Text",
+            "index": 0,
+            "source": "Abutting$",
+            "translation": "相邻$",
+            "match_type": "exact",
+        }
+        result, err = run_capturing_stderr(inject_into_file, path, [update])
+        self.assertEqual(result.applied, 0)
+        self.assertEqual(result.skipped, 1)
+        self.assertEqual(self.read(path), before)
+        self.assertIn("Abutting_Text", err)
+
+
+class TestExtractorInjectorBoundary(InjectorTestBase):
+    """Finding 2: the extractor merges across ``#if``; the injector must not guess."""
+
+    def setUp(self):
+        super().setUp()
+        self.path = self.write("data/text/divergent.inc", DIVERGENT_INC)
+
+    def test_extractor_merges_the_branches_into_one_entry(self):
+        entries = extract_strings_from_inc("divergent.inc", DIVERGENT_INC)
+        self.assertEqual(len(entries), 1)
+        self.assertIn("ARENA", entries[0].source)
+        self.assertIn("FALLARBOR", entries[0].source)
+        self.assertTrue(entries[0].source.endswith("Set KO Tourney." + END))
+
+    def test_divergent_entry_is_skipped_rather_than_written_to_the_wrong_block(self):
+        entries = extract_strings_from_inc("divergent.inc", DIVERGENT_INC)
+        entry = entries[0]
+        update = {
+            "id": entry.id,
+            "file": entry.file,
+            "label": entry.label,
+            "index": entry.index,
+            "source": entry.source,
+            "translation": "宝可梦竞技场，" + NL + "我们举办击倒淘汰赛。" + END,
+            "match_type": "exact",
+        }
+        before = self.read(self.path)
+        result, err = run_capturing_stderr(inject_into_file, self.path, [update])
+        self.assertEqual(result.applied, 0)
+        self.assertEqual(result.skipped, 1)
+        self.assertFalse(result.changed)
+        self.assertEqual(self.read(self.path), before)
+        self.assertIn(entry.label, err)
+
+
+class TestWriteBackGuards(InjectorTestBase):
+    """Finding 4 and 5: the format guard runs at the write-back boundary."""
+
+    def setUp(self):
+        super().setUp()
+        self.path = self.write("data/text/guarded.inc", GUARD_INC)
+
+    def update(self, source, translation):
+        return {
+            "id": "x:Guard_Text:0",
+            "file": "./data/text/guarded.inc",
+            "label": "Guard_Text",
+            "index": 0,
+            "source": source,
+            "translation": translation,
+            "match_type": "exact",
+        }
+
+    def assert_skipped(self, update, code):
+        before = self.read(self.path)
+        result, err = run_capturing_stderr(inject_into_file, self.path, [update])
+        self.assertEqual(result.applied, 0)
+        self.assertEqual(result.skipped, 1)
+        self.assertFalse(result.changed)
+        self.assertEqual(self.read(self.path), before)
+        self.assertIn(code, err)
+
+    def test_translation_missing_a_page_break_is_skipped(self):
+        self.assert_skipped(
+            self.update(GUARD_SOURCE, "第一段。" + "第二段。" + END),
+            "CONTROL_CODE_MISMATCH",
+        )
+
+    def test_translation_missing_the_terminator_is_skipped(self):
+        self.assert_skipped(
+            self.update(GUARD_SOURCE, "第一段。" + LP + "第二段。"),
+            "TERMINATOR_MISSING",
+        )
+
+    def test_translation_dropping_a_placeholder_is_skipped(self):
+        update = dict(
+            self.update("Hello {PLAYER}!" + END, "你好！" + END),
+            label="Placeholder_Text",
+        )
+        self.assert_skipped(update, "PLACEHOLDER_MISMATCH")
+
+    def test_intact_translation_still_passes_the_guard(self):
+        result = inject_into_file(
+            self.path, [self.update(GUARD_SOURCE, "第一段。" + LP + "第二段。" + END)]
+        )
+        self.assertEqual(result.applied, 1)
+        self.assertEqual(result.skipped, 0)
+
+    def test_wrap_chinese_honours_a_terminator_behind_trailing_space(self):
+        # Every other module uses ``rstrip().endswith("$")``; wrap_chinese must
+        # agree, or a stray trailing space silently drops the terminator.
+        self.assertEqual(wrap_chinese("你好！" + END + " "), "你好！" + END)
+        self.assertEqual(wrap_chinese("你好！" + END), "你好！" + END)
+
+    def test_aligner_and_injector_agree_that_a_moved_terminator_is_corruption(self):
+        from tools.i18n.aligner import validate_control_codes_preserved
+
+        self.assertFalse(validate_control_codes_preserved("Hello" + END, END + "Hello"))
+        self.assertTrue(validate_control_codes_preserved("Hello" + END, "你好" + END))
+
+    def test_a_hand_edited_corpus_entry_never_reaches_disk(self):
+        """The whole point of the boundary guard."""
+        before = self.read(self.path)
+        broken = self.update(GUARD_SOURCE, "第一段。第二段。")
+        inject_into_file(self.path, [broken])
+        self.assertEqual(self.read(self.path), before)
+        self.assertIn("First paragraph." + LP, self.read(self.path))
+
+
+class TestIncSourceVerification(InjectorTestBase):
+    """The central fix: a block is only replaced when it holds the expected text."""
+
+    def setUp(self):
+        super().setUp()
+        self.path = self.write("data/maps/TestMap/scripts.inc", SAMPLE_INC)
+        self.update = {
+            "id": "x:TestMap_Text_Intro:0",
+            "file": "./data/maps/TestMap/scripts.inc",
+            "label": "TestMap_Text_Intro",
+            "index": 0,
+            "source": "Hello there!" + NL + "Welcome to the world of POKéMON." + LP + "Have fun!" + END,
+            "translation": INTRO_TRANSLATION,
+            "match_type": "exact",
+        }
+
+    def test_mismatching_source_is_skipped_not_written(self):
+        before = self.read(self.path)
+        stale = dict(self.update, source="Some other text entirely" + END)
+        result, err = run_capturing_stderr(inject_into_file, self.path, [stale])
+        self.assertEqual(result.applied, 0)
+        self.assertEqual(result.skipped, 1)
+        self.assertFalse(result.changed)
+        self.assertEqual(self.read(self.path), before)
+        self.assertIn("TestMap_Text_Intro", err)
+
+    def test_two_blocks_with_the_same_label_and_index_are_skipped(self):
+        path = self.write(
+            "data/maps/TestMap/dup3.inc",
+            'Test_Text_Dup::\n\t.string "same$"\nTest_Text_Dup::\n\t.string "same$"\n',
+        )
+        before = self.read(path)
+        update = {
+            "id": "x:Test_Text_Dup:0",
+            "file": "./data/maps/TestMap/dup3.inc",
+            "label": "Test_Text_Dup",
+            "index": 0,
+            "source": "same$",
+            "translation": "相同$",
+            "match_type": "exact",
+        }
+        result, err = run_capturing_stderr(inject_into_file, path, [update])
+        self.assertEqual(result.applied, 0)
+        self.assertEqual(result.skipped, 1)
+        self.assertEqual(self.read(path), before)
+
+    def test_injected_block_holds_exactly_the_corpus_source_before_the_write(self):
+        inject_into_file(self.path, [self.update])
+        entries = extract_strings_from_inc("scripts.inc", self.read(self.path))
+        by_label = {entry.label: entry.source for entry in entries}
+        self.assertEqual(
+            by_label["TestMap_Text_Intro"], wrap_chinese(INTRO_TRANSLATION)
+        )
+        self.assertEqual(
+            by_label["TestMap_Text_Outro"], "Goodbye!" + END
+        )
+
+
+class TestInjectCSourceVerification(InjectorTestBase):
+    """Finding 3: ``_inject_c`` must skip, like the ``.inc`` path, not guess."""
+
+    def setUp(self):
+        super().setUp()
+        self.path = self.write("src/data/text/test_strings.h", SAMPLE_H)
+
+    def update(self, **overrides):
+        base = {
+            "id": "y:sTestGreeting:0",
+            "file": "./src/data/text/test_strings.h",
+            "label": "sTestGreeting",
+            "index": 0,
+            "source": "Hello there!" + NL + "Have fun!" + END,
+            "translation": "你好呀，欢迎来到宝可梦的世界！" + END,
+            "match_type": "exact",
+        }
+        base.update(overrides)
+        return base
+
+    def test_index_with_no_matching_array_is_skipped_not_redirected(self):
+        """The old code fell back to the first array with that label."""
+        before = self.read(self.path)
+        update = self.update(index=1, source="Goodbye!" + END, translation="回头见！" + END)
+        result, err = run_capturing_stderr(inject_into_file, self.path, [update])
+        self.assertEqual(result.applied, 0)
+        self.assertEqual(result.skipped, 1)
+        self.assertFalse(result.changed)
+        self.assertEqual(self.read(self.path), before)
+        self.assertIn("sTestGreeting", err)
+
+    def test_mismatching_source_is_skipped_not_overwritten(self):
+        before = self.read(self.path)
+        update = self.update(source="A completely different string" + END)
+        result, err = run_capturing_stderr(inject_into_file, self.path, [update])
+        self.assertEqual(result.applied, 0)
+        self.assertEqual(result.skipped, 1)
+        self.assertEqual(self.read(self.path), before)
+        self.assertIn("sTestGreeting", err)
+
+    def test_guard_rejects_a_broken_c_translation(self):
+        before = self.read(self.path)
+        update = self.update(translation="你好呀")  # dropped the $ terminator
+        result, err = run_capturing_stderr(inject_into_file, self.path, [update])
+        self.assertEqual(result.applied, 0)
+        self.assertEqual(result.skipped, 1)
+        self.assertEqual(self.read(self.path), before)
+        self.assertIn("TERMINATOR_MISSING", err)
+
+
+class TestEmitStringLinesRejectsBrokenEscapes(unittest.TestCase):
+    """Finding 6: a trailing lone backslash escapes the closing quote."""
+
+    def test_trailing_lone_backslash_is_rejected(self):
+        with self.assertRaises(ValueError):
+            emit_string_lines("hello\\")
+
+    def test_trailing_lone_backslash_after_a_terminator_is_rejected(self):
+        with self.assertRaises(ValueError):
+            emit_string_lines("你好" + END + "\\")
+
+    def test_paired_trailing_backslashes_are_allowed(self):
+        # An even run of backslashes escapes itself; the closing quote is safe.
+        text = "hello" + "\\\\" + END
+        self.assertEqual(emit_string_lines(text), ['\t.string "hello\\\\' + END + '"'])
+
+    def test_ordinary_escapes_are_still_emitted(self):
+        lines = emit_string_lines("你好" + NL + "世界" + END)
+        self.assertEqual(
+            lines, ['\t.string "你好' + NL + '"', '\t.string "世界' + END + '"']
+        )
+
+
+class TestPlanGuard(unittest.TestCase):
+    """Finding 9: a corpus entry without ``file`` must not crash the plan."""
+
+    def entry(self, **overrides):
+        base = {
+            "label": "L",
+            "index": 0,
+            "source": "x" + END,
+            "translation": "甲" + END,
+            "match_type": "exact",
+        }
+        base.update(overrides)
+        return base
+
+    def test_entry_without_file_key_is_dropped_not_fatal(self):
+        plan = build_plan([self.entry()])
+        self.assertEqual(plan.injectable, 0)
+        self.assertEqual(plan.by_file, {})
+        self.assertEqual(plan.dropped_other, 1)
+        self.assertEqual(plan.total, 1)
+
+    def test_entry_with_null_file_is_dropped_not_fatal(self):
+        plan = build_plan([self.entry(file=None)])
+        self.assertEqual(plan.injectable, 0)
+        self.assertEqual(plan.by_file, {})
+        self.assertEqual(plan.dropped_other, 1)
+
+    def test_entry_with_empty_file_is_dropped_not_fatal(self):
+        plan = build_plan([self.entry(file="")])
+        self.assertEqual(plan.injectable, 0)
+        self.assertEqual(plan.by_file, {})
+        self.assertEqual(plan.dropped_other, 1)
+
+
+class TestCliReportsSkips(InjectorTestBase):
+    """A skip must be visible in the run report, not silent."""
+
+    def setUp(self):
+        super().setUp()
+        self.inc = self.write("data/maps/TestMap/scripts.inc", SAMPLE_INC)
+        self.aligned_path = os.path.join(self.tmp, "aligned.json")
+        self.translated_path = os.path.join(self.tmp, "translated.json")
+        aligned = [
+            {
+                "id": "x:TestMap_Text_Intro:0",
+                "file": "./data/maps/TestMap/scripts.inc",
+                "label": "TestMap_Text_Intro",
+                "index": 0,
+                "source": "A stale source that no longer matches" + END,
+                "translation": "你好呀" + END,
+                "match_type": "exact",
+            }
+        ]
+        with open(self.aligned_path, "w", encoding="utf-8") as fp:
+            json.dump(aligned, fp, ensure_ascii=False, indent=2)
+        with open(self.translated_path, "w", encoding="utf-8") as fp:
+            json.dump([], fp)
+
+    def test_dry_run_reports_the_skip_and_writes_nothing(self):
+        before = self.read(self.inc)
+        buf = io.StringIO()
+        with contextlib.redirect_stdout(buf):
+            code = main(
+                [
+                    "--aligned", self.aligned_path,
+                    "--translated", self.translated_path,
+                    "--root", self.tmp,
+                    "--dry-run",
+                ]
+            )
+        out = buf.getvalue()
+        self.assertEqual(code, 0)
+        self.assertEqual(self.read(self.inc), before)
+        self.assertRegex(out, r"(?i)skipped[^\n]*1")
+
+    def test_real_run_writes_nothing_for_a_skipped_entry(self):
+        before = self.read(self.inc)
+        buf = io.StringIO()
+        with contextlib.redirect_stdout(buf):
+            code = main(
+                [
+                    "--aligned", self.aligned_path,
+                    "--translated", self.translated_path,
+                    "--root", self.tmp,
+                ]
+            )
+        self.assertEqual(code, 0)
+        self.assertEqual(self.read(self.inc), before)
 
 
 if __name__ == "__main__":

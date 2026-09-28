@@ -148,6 +148,10 @@ def validate_control_codes_preserved(
     * the placeholder multiset to be identical (see
       :func:`validate_placeholders_preserved`);
     * the same number of paragraph breaks (``\\p``);
+    * the ``$`` terminator in the same *place*, not merely the same number of
+      times: present at the end if and only if the source ends with one.  A
+      translation that keeps the count but moves the terminator
+      (``"$Hello"`` for ``"Hello$"``) truncates the string.
     * the same number of string terminators (``$``).
 
     Line breaks (``\\n`` and ``\\l``) are **not** compared by default.  They
@@ -166,6 +170,13 @@ def validate_control_codes_preserved(
     if not validate_placeholders_preserved(source, translation):
         return False
     if source.count(PARAGRAPH_BREAK) != translation.count(PARAGRAPH_BREAK):
+        return False
+    # The terminator must sit where the source put it: present if and only if the
+    # source ends with one.  A ``$`` that moved (``"$Hello"`` for ``"Hello$"``)
+    # truncates the string at once, and a matching *count* alone hides that.
+    # ``rstrip()`` first, as everywhere else in the pipeline: whitespace behind a
+    # terminator is dead.
+    if source.rstrip().endswith(TERMINATOR) != translation.rstrip().endswith(TERMINATOR):
         return False
     if source.count(TERMINATOR) != translation.count(TERMINATOR):
         return False
