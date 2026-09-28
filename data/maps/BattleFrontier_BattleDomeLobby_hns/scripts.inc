@@ -643,15 +643,13 @@ BattleFrontier_BattleDomeLobby_Text_ExplainMatchupRules_hns:
 	.string "就过早相遇。$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainTourneyTree_hns:
-	.string "The tournament chart, or as we call it,\n"
-	.string "the “Tree,” is available for viewing\l"
-	.string "in the Waiting Room from any guide.\p"
-	.string "The Tournament Tree will provide\n"
-	.string "several kinds of data.\p"
-	.string "The data on view includes the previous\n"
-	.string "tournament's results, the POKéMON held\l"
-	.string "by TRAINERS, and the battle styles of\l"
-	.string "TRAINERS.$"
+	.string "锦标赛对阵表，也就是我们说的“树\n"
+	.string "状图”，可以在候赛室找任意导览员\l"
+	.string "查看。\p"
+	.string "锦标赛对阵表会提供多种数据。\p"
+	.string "可查看的数据包括上届锦标赛结果、\n"
+	.string "训练家携带的宝可梦以及训练家的对\l"
+	.string "战风格等。$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainDoubleKORules_hns:
 	.string "如果在锦标赛对战中，双方宝可梦同\n"

@@ -153,16 +153,16 @@ CianwoodGym_Text_GetStormBadge:
 	.string "{PLAYER}获得了打击徽章。$"
 
 CianwoodGym_Text_ChuckBadgeSpeech:
-	.string "STORMBADGE makes all POKéMON up to\n"
-	.string "L70 obey, even traded ones.\p"
-	.string "It also lets your POKéMON use FLY\n"
-	.string "when you're not in a battle.\p"
-	.string "Here, take this too!$"
+	.string "拥有打击徽章，等级70以内的宝可\n"
+	.string "梦包括交换来的都会听你的话。\p"
+	.string "而且在战斗外也可以让宝可梦使用\n"
+	.string "“飞翔”招式了。\p"
+	.string "来，把这个也收下吧！$"
 
 CianwoodGym_Text_ChuckTMSpeech:
-	.string "That is FOCUS PUNCH.\p"
-	.string "It moves slow but deals huge\n"
-	.string "damage. Just don't get hit first!$"
+	.string "那是“真气拳”。\p"
+	.string "虽然出手慢，但威力巨大。关键是千\n"
+	.string "万别在出招前被打中！$"
 
 CianwoodGym_Text_ChuckAfter:
 	.string "哇哈哈哈！和你对战真是痛快！\p"

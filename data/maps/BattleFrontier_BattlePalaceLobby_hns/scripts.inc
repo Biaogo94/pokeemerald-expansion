@@ -609,9 +609,8 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainRulesUnderpowered_hns:
 	.string "正的实力。$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesWhenInDanger_hns:
-	.string "Depending on its nature, a POKéMON may\n"
-	.string "start using moves that don't match its\l"
-	.string "nature when it is in trouble.\p"
-	.string "If a POKéMON begins behaving oddly\n"
-	.string "in a pinch, watch it carefully.$"
+	.string "根据性格的不同，陷入困境的宝可梦\n"
+	.string "可能会使出与其性格不符的招式。\p"
+	.string "如果宝可梦在危机时刻举动反常，请\n"
+	.string "仔细观察它。$"
 

@@ -686,23 +686,19 @@ AzaleaTown_Gym_Text_ReceivedHiveBadge:
 	.string "{PLAYER}获得了昆虫徽章。$"
 
 AzaleaTown_Gym_Text_HiveBadgeSpeech:
-	.string "Do you know the benefits\n"
-	.string "of HIVEBADGE?\p"
-	.string "If you have it, POKéMON up\n"
-	.string "to L30 will obey you,\l"
-	.string "even traded ones.\p"
-	.string "POKéMON that know CUT will be able\n"
-	.string "to use it outside of battle too.\p"
-	.string "Here, I also want you to\n"
-	.string "have this.$"
+	.string "你知道昆虫徽章的效果吗？\p"
+	.string "有了它，包括交换来的在内，30级\n"
+	.string "以下的宝可梦都会听你的话，\p"
+	.string "而且在战斗外也可以使用学会的“居\n"
+	.string "合斩”了。\p"
+	.string "还有，我也把这个送给你吧。$"
 
 AzaleaTown_Gym_Text_FuryCutterSpeech:
-	.string "TM89 contains U-TURN.\p"
-	.string "U-TURN lets you do damage and\n"
-	.string "switch your POKéMON in the same\l"
-	.string "turn!\p"
-	.string "Isn't that great?\n"
-	.string "I discovered it!$"
+	.string "招式学习器89里面是“急速折返\n"
+	.string "”。\p"
+	.string "“急速折返”能在给予伤害的同时，\n"
+	.string "在同一回合内替换宝可梦出场！\p"
+	.string "很厉害吧？这可是我的重大发现！$"
 
 AzaleaTown_Gym_Text_BugsyAdvice:
 	.string "虫属性宝可梦非常深奥。还有许多谜\n"
@@ -753,55 +749,50 @@ AzaleaTown_Gym_Text_BugCatcherJoshBeaten:
 	.string "呃啊啊啊！$"
 
 AzaleaTown_Gym_Text_BugCatcherJoshAfter:
-	.string "I guess I should teach them\n"
-	.string "better moves…$"
+	.string "看来我得教它们更厉害的招式才行\n"
+	.string "......$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay1Seen:
-	.string "AMY: Hi! Are you challenging\n"
-	.string "the LEADER? No way!$"
+	.string "艾咪：嗨！你想要挑战馆主？别做梦\n"
+	.string "了！$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay1Beaten:
-	.string "AMY & MAY: Oh, double\n"
-	.string "goodness!$"
+	.string "艾咪&美依：哎呀，这下惨了！$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay1After:
-	.string "AMY: You're really strong!\p"
-	.string "But BUGSY's even stronger!\n"
-	.string "His SCYTHER's CUT almost\l"
-	.string "always makes critical hits!$"
+	.string "艾咪：你真厉害！\p"
+	.string "不过阿笔还要更强！他的飞天螳螂使\n"
+	.string "出的居合斩几乎招招命中要害！$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay2Seen:
-	.string "MAY: You want to see the\n"
-	.string "LEADER? Good luck!\p"
-	.string "BUGSY is so strong!\n"
-	.string "His SCYTHER's CUT always\l"
-	.string "seems to crit!$"
+	.string "美依：你想见馆主？祝你好运吧！\p"
+	.string "阿笔可是很强的！他的飞天螳螂使出\n"
+	.string "的居合斩似乎总能命中要害！$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay2Beaten:
-	.string "AMY & MAY: Oh, double\n"
-	.string "goodness!$"
+	.string "艾咪&美依：哎呀，这下惨了！$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay2After:
-	.string "MAY: Our bug POKéMON lost!\n"
-	.string "Oh, what a shame.\p"
-	.string "BUGSY's won't lose though!\p"
-	.string "His PINECO makes short work\n"
-	.string "of ROCK-type POKéMON!$"
+	.string "美依：我们的虫属性宝可梦输了！\n"
+	.string "唉，真遗憾。\p"
+	.string "不过阿笔的可不会输！\p"
+	.string "他的榛果球能轻而易举地收拾掉岩石\n"
+	.string "属性宝可梦！$"
 
 AzaleaTown_Gym_Text_GymGuide:
-	.string "Yo, challenger!\p"
-	.string "BUGSY's young, but his knowledge\n"
-	.string "of bug POKéMON is for real.\p"
-	.string "It's going to be tough\n"
-	.string "without my advice.\p"
-	.string "Let's see… BUGSY's bagworm POKéMON\n"
-	.string "knows a move that covers its\l"
-	.string "ROCK-type weakness.\p"
-	.string "Oh, and don't forget about those\n"
-	.string "nasty critical hits! Good luck!$"
+	.string "哟，挑战者！\p"
+	.string "阿笔虽然年轻，但他对虫属性宝可梦\n"
+	.string "的了解可是货真价实的。\p"
+	.string "如果没有我的建议，挑战会很艰难\n"
+	.string "哦。\p"
+	.string "让我想想......阿笔的蓑衣虫\n"
+	.string "宝可梦学会了能弥补其岩石属性弱点\l"
+	.string "的招式。\p"
+	.string "对了，可别忘了那些棘手的要害击\n"
+	.string "中！祝你好运！$"
 
 AzaleaTown_Gym_Text_GymGuideWin:
-	.string "Well done! That was a great\n"
-	.string "clash of talented young trainers.\p"
-	.string "With people like you, the\n"
-	.string "future of POKéMON is bright!$"
+	.string "干得漂亮！真是一场才华横溢的年轻\n"
+	.string "训练家之间的精彩对决。\p"
+	.string "有了像你们这样的人，宝可梦的未来\n"
+	.string "一片光明！$"

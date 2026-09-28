@@ -653,9 +653,9 @@ GoldenrodCity_GameCorner_Text_CooltrainerF:
     .string "不赢我是绝对不会收手的！$"
 
 GoldenrodCity_GameCorner_Text_Gentleman:
-    .string "I taught ICE BEAM to my POKéMON.\p"
-    .string "It was hard to get enough coins for\n"
-    .string "it, but it was worth it.$"
+    .string "我给宝可梦学会了“冰冻光束”。\p"
+    .string "攒够代币可真不容易，但绝对物超所\n"
+    .string "值！$"
 
 GoldenrodCity_GameCorner_Text_PokefanM2:
     .string "老虎机赢不了，轮盘也输得一塌糊涂\n"
@@ -841,9 +841,9 @@ GoldenrodCity_GameCorner_Text_VF_PlayLevel:
 	.string "{STR_VAR_1}吗？$"
 
 GoldenrodCity_GameCorner_Text_VF_GameClear:
-	.string "Game clear!\p"
-	.string "You've found all the hidden\n"
-	.string "x2 and x3 cards!$"
+	.string "挑战成功！\p"
+	.string "你找出了所有隐藏的“×2”和“×\n"
+	.string "3”卡牌！$"
 
 GoldenrodCity_GameCorner_Text_VF_ReceivedCoins:
 	.string "获得了{STR_VAR_1}枚代\n"
@@ -868,46 +868,47 @@ GoldenrodCity_GameCorner_Text_VF_WhichInfo:
 	.string "想看哪方面的内容？$"
 
 GoldenrodCity_GameCorner_Text_VF_HowToPlay:
-	.string "VOLTORB FLIP is a game in which you flip\n"
-	.string "cards to find numbers hidden beneath.\p"
-	.string "The cards hide the numbers 1 through 3,\n"
-	.string "and VOLTORB as well.\p"
-	.string "The first number you flip gives\n"
-	.string "you that many Coins.\p"
-	.string "Each new number multiplies your total.\n"
-	.string "A 2 by x2 and a 3 by x3.\p"
-	.string "But if you flip a VOLTORB, it's game over.\n"
-	.string "You lose all Coins collected that round!\p"
-	.string "QUIT the game at any time to keep\n"
-	.string "the Coins you've found so far.\p"
-	.string "Find all hidden x2 and x3 cards to clear\n"
-	.string "the game and advance to the next level!$"
+	.string "“霹雳电球翻牌”是一个翻开卡牌寻\n"
+	.string "找隐藏数字的游戏。\p"
+	.string "卡牌背面藏有数字1到3，以及霹雳\n"
+	.string "电球。\p"
+	.string "翻出的第一个数字会变成对应数量的\n"
+	.string "代币。\p"
+	.string "之后翻出的数字会与现有总数相乘。\n"
+	.string "翻到2就乘以2，翻到3就乘以3。\p"
+	.string "但要是翻出霹雳电球，游戏就结束\n"
+	.string "了。本轮收集到的代币将全部输光！\p"
+	.string "你随时可以选择“放弃”，保留目前\n"
+	.string "为止获得的代币。\p"
+	.string "找出所有隐藏的“x2”和“x3”\n"
+	.string "卡牌即可通关，并进入下一个等级！$"
 
 GoldenrodCity_GameCorner_Text_VF_HintText:
-	.string "The numbers on the sides of the board\n"
-	.string "are hints about the numbers…\p"
-	.string "hidden in that row or column.\p"
-	.string "The larger the number, the more high-\n"
-	.string "value cards are in that row or column.\p"
-	.string "The VOLTORB count tells you how\n"
-	.string "many VOLTORBs lurk there.\p"
-	.string "Use both totals to figure out\n"
-	.string "which cards are safe to flip!$"
+	.string "棋盘边缘的数字是对那一行或一列\n"
+	.string "中...\p"
+	.string "所隐藏数字的提示。\p"
+	.string "数字越大，说明该行或该列中隐藏的\n"
+	.string "高分卡牌越多。\p"
+	.string "霹雳电球的数量则表示该处潜伏着多\n"
+	.string "少只霹雳电球。\p"
+	.string "结合这两个数字来推理哪些卡牌是可\n"
+	.string "以安全翻开的吧！$"
 
 GoldenrodCity_GameCorner_Text_VF_AboutNotes:
-	.string "Use the notes mode ({L_BUTTON} & {R_BUTTON}) to mark\n"
-	.string "cards with numbers 1-3 or a VOLTORB.\p"
-	.string "Mark a card you think you know,\n"
-	.string "then flip it when you're sure.\p"
-	.string "Apply a note again to remove it.$"
+	.string "使用便签模式\n"
+	.string "({L_BUTTON}和\l"
+	.string "{R_BUTTON})给卡牌做标\l"
+	.string "记，标上数字1~3或霹雳电球。\p"
+	.string "把你认为确定的卡牌做上标记，等到\n"
+	.string "完全确定后再翻开吧。\p"
+	.string "再次添加相同标记即可将其取消。$"
 
 GoldenrodCity_GameCorner_Text_VF_NeedCoinCase:
 	.string "哎呀？你没有代币盒呢。$"
 
 GoldenrodCity_GameCorner_Text_VFAttendant1:
-	.string "You want to play VOLTORB FLIP?\p"
-	.string "You need to be on the other\n"
-	.string "side of the table.$"
+	.string "你想玩“霹雳电球翻牌”吗？\p"
+	.string "你得站到桌子对面去才行。$"
 
 GoldenrodCity_GameCorner_Text_VFAttendant2:
 	.string "朋友，到桌子对面去玩吧。$"

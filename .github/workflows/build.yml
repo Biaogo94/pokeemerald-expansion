@@ -50,9 +50,22 @@ jobs:
       - name: Build Heart & Soul ROM
         run: make hns -j$(nproc) -O
 
+      - name: Record build identity and symbols
+        run: |
+          git rev-parse HEAD > build-revision.txt
+          arm-none-eabi-nm -n -S pokehns.elf > pokehns.symbols.txt
+          sha256sum pokehns.gba pokehns.elf > SHA256SUMS
+
       - name: Upload Heart & Soul ROM
         uses: actions/upload-artifact@v4
         with:
           name: pokemon-heart-and-soul-2.0.6-rom
-          path: pokehns.gba
+          path: |
+            pokehns.gba
+            pokehns.elf
+            pokehns.map
+            pokehns.symbols.txt
+            build-revision.txt
+            SHA256SUMS
+          if-no-files-found: error
           retention-days: 7

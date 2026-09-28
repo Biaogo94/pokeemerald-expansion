@@ -144,23 +144,22 @@ Route39_Text_BarnTwinMoomooIsSick:
 	.string "需要喂它很多橙橙果才行。$"
 
 Route39_Text_BarnTwinFeedingMoomoo:
-	.string "MOOMOO is all better!\n"
-	.string "Thank you!$"
+	.string "哞哞已经完全康复了！太感谢你了！$"
 
 Route39_Text_MoomooWeakMoo:
 	.string "大奶罐：......哞.....\n"
 	.string ".$"
 
 Route39_Text_BarnCryIsWeak:
-	.string "Its cry is weak…\n"
-	.string "Give an ORAN BERRY to MILTANK?$"
+	.string "叫声听起来很虚弱......要给\n"
+	.string "大奶罐一颗橙橙果吗？$"
 
 Route39_Text_MoomooHappyMoo:
 	.string "大奶罐：哞--！$"
 
 Route39_Text_BarnGaveBerry:
-	.string "{PLAYER} gave an ORAN BERRY to\n"
-	.string "MILTANK.$"
+	.string "{PLAYER}把橙橙果喂给了大\n"
+	.string "奶罐。$"
 
 Route39_Text_BarnLittleHealthier:
 	.string "大奶罐稍微恢复了一点活力！$"

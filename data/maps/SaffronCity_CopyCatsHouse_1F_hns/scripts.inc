@@ -25,9 +25,9 @@ SaffronCity_CopyCatsHouse_1F_EventScript_Blissey::
 	end
 
 CopycatsHouse1F_Text_PokefanM:
-	.string "My daughter likes to mimic people.\p"
-	.string "Her mimicry has earned her the\n"
-	.string "nickname COPYCAT around here.$"
+	.string "我的女儿很喜欢模仿别人。\p"
+	.string "因为太擅长模仿，大家背地里都叫她\n"
+	.string "“模仿少女”呢。$"
 
 CopycatsHouse1F_Text_PokefanF:
 	.string "我女儿太以自我为中心了.....\n"

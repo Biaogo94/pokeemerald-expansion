@@ -44,10 +44,9 @@ GoldenrodDeptStore_Text_2FCooltrainerF:
     .string "现在它是我最棒的搭档！$"
 
 GoldenrodDeptStore_Text_2FGentleman:
-    .string "This DEPT.STORE makes me realize\n"
-    .string "that GOLDENROD is a big city.\p"
-    .string "The selection here is unmatched\n"
-    .string "anywhere else.$"
+    .string "逛过这家百货公司，才让人真切感受\n"
+    .string "到满金市真是一座大都市啊。\p"
+    .string "这里的商品之丰富，哪儿都比不上。$"
 
 GoldenrodDeptStore2_EventScript_Clerk::
 	lock
@@ -205,8 +204,8 @@ GoldenrodDeptStore_EventScript_ExitVendingMachine::
 	end
 
 GoldenrodDeptStore_Text_WhichDrinkWouldYouLike:
-	.string "It's a VENDING MACHINE.\n"
-	.string "Which drink would you like?$"
+	.string "这是一台自动售货机。想要买哪种饮\n"
+	.string "料？$"
 
 GoldenrodDeptStore_Text_DrinkClankedDown:
 	.string "咣当！\p"

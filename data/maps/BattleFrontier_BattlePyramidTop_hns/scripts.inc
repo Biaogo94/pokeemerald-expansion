@@ -300,24 +300,22 @@ BattleFrontier_BattlePyramidTop_Text_EverythingYouHave_hns:
 	.string "备全盘接下了！$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonRemarkableHaveThis_hns:
-	.string "BRANDON: Hahahah!\n"
-	.string "Remarkable!\l"
-	.string "Yes, it's grand, indeed!\p"
-	.string "Young explorer!\p"
-	.string "You've bested me through and through!\n"
-	.string "Here! I want you to have this!$"
+	.string "神代：哈哈哈哈！了不起！确实太壮\n"
+	.string "观了！\p"
+	.string "年轻的探险家啊！\p"
+	.string "你彻底赢过了我！来吧！把这个收\n"
+	.string "下！$"
 
 BattleFrontier_BattlePyramidTop_Text_BraveSymbolTookGoldenShine_hns:
-	.string "The Brave Symbol took on\n"
-	.string "a golden shine!$"
+	.string "勇敢象征放射出金色的光芒！$"
 
 BattleFrontier_BattlePyramidTop_Text_FarewellForNow_hns:
-	.string "Ah, yes! It just goes to show that\n"
-	.string "I have much to learn still!\p"
-	.string "May our paths cross again!\n"
-	.string "Farewell for now, young explorer!$"
+	.string "哈，正是如此！这充分说明了我还有\n"
+	.string "很多要学习的！\p"
+	.string "愿我们能再次相遇！暂时告别了，年\n"
+	.string "轻的探险家！$"
 
 BattleFrontier_BattlePyramidTop_Text_StepForwardWhenReady_hns:
-	.string "Now, when you are ready, take courage\n"
-	.string "and step forward.$"
+	.string "那么，做好准备后，拿出勇气向前迈\n"
+	.string "进吧。$"
 

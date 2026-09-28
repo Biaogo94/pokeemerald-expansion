@@ -54,13 +54,12 @@ Cherrygrove_Pokemart_Text_CooltrainerM:
 	.string "什么时候才会再进货啊？$"
 
 Cherrygrove_Pokemart_Text_CooltrainerM_PokeBallsInStock:
-	.string "POKé BALLS are in stock!\n"
-	.string "Now I can catch POKéMON!$"
+	.string "精灵球到货了！这下我可以去捉宝可\n"
+	.string "梦了！$"
 
 Cherrygrove_Pokemart_Text_Youngster:
-	.string "When I was walking in the grass, a\n"
-	.string "bug POKéMON poisoned my POKéMON!\p"
-	.string "I just kept going, but then my\n"
-	.string "POKéMON fainted.\p"
-	.string "You should keep an ANTIDOTE\n"
-	.string "with you.$"
+	.string "我在草丛里走的时候，宝可梦被虫宝\n"
+	.string "可梦弄得中毒了！\p"
+	.string "我没在意继续走，结果我的宝可梦就\n"
+	.string "失去战斗能力了。\p"
+	.string "你身上最好常备解毒药。$"

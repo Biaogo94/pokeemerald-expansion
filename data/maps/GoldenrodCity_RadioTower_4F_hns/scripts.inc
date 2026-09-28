@@ -151,9 +151,9 @@ GoldenrodCity_RadioTower_4F4_Text_ExecutiveM2After:
 	.string "现在回头还不算晚，趁早离开吧。$"
 
 GoldenrodCity_RadioTower_4F4_Text_GruntF4Seen:
-	.string "Don't I think POKéMON are cute?\p"
-	.string "I'll think my POKéMON are cute--\p"
-	.string "after they beat yours!$"
+	.string "宝可梦可爱？\p"
+	.string "等我的宝可梦\p"
+	.string "打赢你们，我才觉得它们可爱呢！$"
 
 GoldenrodCity_RadioTower_4F4_Text_GruntF4Beaten:
 	.string "天啊！真没用！$"

@@ -80,35 +80,29 @@ Route39_FarmHouse_EventScript_FarmerM_NotEnough::
 	end
 
 Route39_Text_FarmerMSickCow:
-	.string "My MILTANK ain't givin' me\n"
-	.string "milk no more.\p"
-	.string "This here FARM's got famous milk.\p"
-	.string "Most everyone wants a drink.\p"
-	.string "It'll give me lots o' milk if'n\n"
-	.string "I feed it lots o' BERRIES,\l"
-	.string "I reckon.$"
+	.string "俺家的大奶罐挤不出奶来了。\p"
+	.string "俺们农场的鲜奶可是很有名的，\p"
+	.string "大家都争着想喝呢。\p"
+	.string "俺琢磨着，要是喂它多多的树果，它\n"
+	.string "肯定又能产出好多鲜奶了。$"
 
 Route39_Text_FarmerMBuyMilk:
-	.string "How'd you like my MOOMOO MILK?\p"
-	.string "It's my pride and joy, there.\p"
-	.string "Give it to POKéMON to restore HP!\p"
-	.string "I'll give it to ya fer just\n"
-	.string "¥500.$"
+	.string "要来点俺家的哞哞鲜奶吗？\p"
+	.string "这可是俺的骄傲啊。\p"
+	.string "喂给宝可梦就能回复HP！\p"
+	.string "只要500元，俺就卖给你一瓶。$"
 
 Route39_Text_FarmerMGotMilk:
-	.string "Here ya go!\n"
-	.string "Drink up'n enjoy!$"
+	.string "拿好喽！趁新鲜好好享用吧！$"
 
 Route39_Text_FarmerMNoMoney:
-	.string "Sorry, there.\n"
-	.string "No cash, no sale!$"
+	.string "抱歉啦。没钱可不能卖给你哦！$"
 
 Route39_Text_FarmerMNoRoom:
 	.string "看来你的背包已经满了啊。$"
 
 Route39_Text_FarmerMNoSale:
-	.string "You don't want it?\n"
-	.string "Come again, hear?$"
+	.string "不想要了吗？欢迎下次再来啊！$"
 
 Route39FarmHouse_Text_WouldYouLikeAnother:
 	.string "要不再来一瓶？$"
@@ -120,23 +114,20 @@ Route39_Text_FarmerMMilking:
 	.string "我得去挤奶啦。$"
 
 Route39_Text_FarmerFInTrouble:
-	.string "Our milk even goes out to\n"
-	.string "KANTO.\p"
-	.string "So if our own MILTANK won't\n"
-	.string "give us any milk, we're in trouble.$"
+	.string "我们的牛奶甚至还运往关都呢。\p"
+	.string "所以要是我们的大奶罐产不出奶，那\n"
+	.string "麻烦可就大啦。$"
 
 Route39_Text_FarmerFHealedMiltank:
-	.string "You fixed our MILTANK, hon.\n"
-	.string "Now it gives MOOMOO MILK again.\p"
-	.string "Here's somethin' fer your trouble.$"
+	.string "你治好了我们的大奶罐，真是太感谢\n"
+	.string "了。现在它又能产出哞哞鲜奶啦。\p"
+	.string "这点心意请收下，辛苦你啦。$"
 
 Route39_Text_FarmerFSnatchSpeech:
-	.string "That there's SNATCH.\p"
-	.string "It's a tricky move that lets\n"
-	.string "a POKéMON steal a foe's move\l"
-	.string "right before it's used.\p"
-	.string "If more than one POKéMON use\n"
-	.string "SNATCH, only the slowest one\l"
-	.string "will end up stealing the move.\p"
-	.string "Use it smart, hon. Timing is\n"
-	.string "everything.$"
+	.string "那个是“抢夺”。\p"
+	.string "这招非常狡黠，可以让宝可梦在对手\n"
+	.string "使出招式前将其抢先夺取过来。\p"
+	.string "如果有不止一只宝可梦使用“抢夺\n"
+	.string "”，只有速度最慢的那只才能成功抢\l"
+	.string "到招式。\p"
+	.string "聪明地使用它吧，时机就是一切。$"

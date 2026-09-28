@@ -132,23 +132,22 @@ Route42_Movement_Eusine2:
 	step_end
 
 Route42_Text_EusineAdmireSuicune:
-	.string "EUSINE: SUICUNE...\n"
-	.string "How brave it is!\p"
-	.string "How refreshing it is!\n"
-	.string "How beautiful it is!\p"
-	.string "And how quickly it moves!$"
+	.string "米那君：水君......它是多么\n"
+	.string "英武！\p"
+	.string "它是多么清澈！它是多么美丽！\p"
+	.string "而且它的身姿是何等迅捷！$"
 
 Route42_Text_EusineJealous:
-	.string "{PLAYER}!\p"
-	.string "You seem to be around where\n"
-	.string "SUICUNE would appear.\p"
-	.string "Well, that's OK.\l"
-	.string "My desire to search for\n"
-	.string "SUICUNE is far beyond yours...\p"
-	.string "My grandpa was... quite into\n"
-	.string "myths.\p"
-	.string "I've heard so many stories\n"
-	.string "about SUICUNE from him.$"
+	.string "{PLAYER}！\p"
+	.string "只要是水君出现的地方，似乎总能看\n"
+	.string "到你的身影呢。\p"
+	.string "不过，这也无所谓。我对追求水君的\n"
+	.string "那份执着，可是远远超越你的..\l"
+	.string "....\p"
+	.string "我爷爷曾经......对神话传说\n"
+	.string "非常痴迷。\p"
+	.string "我从小就从他那里听过许多关于水君\n"
+	.string "的故事。$"
 
 Route42_Text_EusineWontGiveUp:
 	.string "水君......在查明你的真正目\n"
@@ -295,5 +294,5 @@ Route42_Text_TullyGaveItem:
 	.string "的！$"
 
 Route42_Text_TullyNoRoom:
-	.string "Hmm, your BAG is full.\p"
-	.string "Come back when you have room.$"
+	.string "嗯，你的包包装满了。\p"
+	.string "腾出地方再来找我吧。$"

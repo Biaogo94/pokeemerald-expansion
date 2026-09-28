@@ -289,16 +289,14 @@ VermilionCity_Gym_EventScript_Surge_Defeated::
 	end
 
 VermilionGym_Text_LtSurgeIntro:
-	.string "SURGE: Hey, you little tyke!\p"
-	.string "I have to hand it to you.\n"
-	.string "It may not be very smart to\l"
-	.string "challenge me, but it takes guts!\p"
-	.string "When it comes to electric\n"
-	.string "POKéMON, I'm number one!\p"
-	.string "I've never lost on the\n"
-	.string "battlefield.\p"
-	.string "I'll zap you just like I did my\n"
-	.string "enemies in war!$"
+	.string "马志士：嘿，小鬼头！\p"
+	.string "我不得不佩服你啊。敢来挑战我，虽\n"
+	.string "然算不上聪明，但胆量确实不小！\p"
+	.string "要说起电属性宝可梦，老子可是天下\n"
+	.string "第一！\p"
+	.string "在战场上我可从来没吃过败仗。\p"
+	.string "老子会像当年在战争中消灭敌人一\n"
+	.string "样，把你电个精光！$"
 
 VermilionGym_Text_LtSurgeWinLoss:
 	.string "马志士：呃啊啊！实力真硬啊！\p"
@@ -308,24 +306,22 @@ VermilionGym_Text_ReceivedThunderBadge:
 	.string "{PLAYER}获得了橙色徽章。$"
 
 VermilionGym_Text_ThunderBadgeInfo:
-	.string "SURGE: THUNDERBADGE increases\n"
-	.string "POKéMON's speed.\p"
-	.string "Consider it proof that you\n"
-	.string "defeated me.\p"
-	.string "You wear it proudly, hear?$"
+	.string "马志士：橙色徽章能提升宝可梦的速\n"
+	.string "度。\p"
+	.string "这是你战胜我的证明。\p"
+	.string "自豪地戴着它吧，听见没有？$"
 
 VermilionGym_Text_LtSurge_GiveTM:
-	.string "And take this TM. It served me\n"
-	.string "well in the war!$"
+	.string "还有这个招式学习器也拿去吧。它在\n"
+	.string "战争中可是立了大功的！$"
 
 VermilionGym_Text_LtSurge_ExplainTM:
-	.string "It's SHOCK WAVE.\p"
-	.string "A shockingly accurate move\n"
-	.string "which hits every time!$"
+	.string "里面是“电击波”。\p"
+	.string "这招奇准无比，绝对是百发百中！$"
 
 VermilionGym_Text_LtSurgeThunderstone:
-	.string "And take this stone. It has real\n"
-	.string "thunder power!$"
+	.string "再把这块石头也拿去吧。它里面蕴含\n"
+	.string "着货真价实的雷电之力！$"
 
 
 VermilionGym_Text_LtSurgePostBattle:
@@ -335,11 +331,11 @@ VermilionGym_Text_LtSurgePostBattle:
 	.string "呢！$"
 
 VermilionGym_Text_SurgeRematch:
-	.string "SURGE: So, you're now KANTO\n"
-	.string "CHAMPION!\p"
-	.string "Impressive work, kid!\n"
-	.string "But don't think I'm done!\p"
-	.string "How about we have a go again?$"
+	.string "马志士：这么说，你现在已经是关都\n"
+	.string "冠军了！\p"
+	.string "干得漂亮，小鬼！但别以为我就认输\n"
+	.string "了！\p"
+	.string "怎么样，要不要再跟我战个痛快？$"
 
 VermilionGym_Text_SurgeRematchDefeat:
 	.string "马志士：哇啊啊！你果然还是那么厉\n"
@@ -350,12 +346,12 @@ VermilionGym_Text_GentlemanGregorySeen:
 	.string "有我在，你休想得逞！$"
 
 VermilionGym_Text_GentlemanGregoryBeaten:
-	.string "Sorry I failed you,\n"
-	.string "LT.SURGE, sir!$"
+	.string "非常抱歉，马志士长官，属下让您失\n"
+	.string "望了！$"
 
 VermilionGym_Text_GentlemanGregoryAfter:
-	.string "When I was still in the army,\n"
-	.string "LT.SURGE saved my life.$"
+	.string "想当年我还在军队的时候，是马志士\n"
+	.string "长官救了我的命。$"
 
 VermilionGym_Text_GuitaristVincentSeen:
 	.string "马志士长官认可了我使用电属性宝可\n"
@@ -381,19 +377,16 @@ VermilionGym_Text_JugglerHortonAfter:
 	.string "马志士馆主可是非常厉害的。$"
 
 VermilionCity_Gym_Text_GymGuyAdvice::
-    .string "Yo!\n"
-    .string "Champ in the making!\p"
-    .string "LT. SURGE has a nickname.\p"
-    .string "People refer to him as the\n"
-    .string "Lightning American!\p"
-    .string "He's an expert on electric\n"
-    .string "POKéMON.\p"
-    .string "FLYING/WATER-type POKéMON match\n"
-    .string "poorly against the ELECTRIC type.\p"
-    .string "Beware of paralysis, too.\p"
-    .string "LT. SURGE is very cautious.\p"
-    .string "He's locked himself in, so it won't\n"
-    .string "be easy getting to him.$"
+    .string "哟！未来的冠军！\p"
+    .string "马志士有个外号。\p"
+    .string "大家都叫他“电光闪闪的美国人”！\p"
+    .string "他是电属性宝可梦的行家。\p"
+    .string "飞行属性和水属性的宝可梦对上电属\n"
+    .string "性可是大不利哦。\p"
+    .string "还要千万小心麻痹状态。\p"
+    .string "马志士非常谨慎。\p"
+    .string "他把自己锁在里面了，想接近他可不\n"
+    .string "容易。$"
 
 VermilionCity_Gym_Text_GymGuyPostVictory::
 	.string "呼！真是一场激动人心的战斗！\p"

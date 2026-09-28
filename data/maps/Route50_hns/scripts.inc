@@ -6,19 +6,18 @@ Route50_EventScript_BlackBelt1::
 	end
 
 Route50_Text_BlackBelt1::
-	.string "The body must be hardened\n"
-    .string "and the mind strengthened\l"
-    .string "in the harshest of conditions!$"
+	.string "必须在最严苛的环境中磨砺体魄，锤\n"
+	.string "炼意志！$"
 
 Route50_EventScript_BlackBelt2::
 	msgbox Route50_Text_BlackBelt2, MSGBOX_NPC
 	end
 
 Route50_Text_BlackBelt2::
-    .string "Phew!\p"
-    .string "I'm not as hardcore as he is.\p"
-	.string "There's really not much else\n"
-    .string "to do here but train.$"
+    .string "呼！\p"
+    .string "我可没他那么拼命。\p"
+    .string "不过在这里除了修行，也确实没别的\n"
+    .string "事可做了。$"
   
 
 Route50_EventScript_Wessel::
@@ -49,27 +48,27 @@ Route50_EventScript_WesselAfter::
 	end
 
 Route50_Text_WesselBefore:
-	.string "Incredible, A VOLTORB!\p"
-    .string "But it appears to be made\n"
-    .string "of... Wood?\p"
-    .string "My hypothesis that this route\n"
-    .string "would contain many STEEL TYPE\l"
-    .string "POKéMON is disproven yet again.\p"
-    .string "But why else would I have found\n"
-    .string "this STEEL PLATE here?\p"
-    .string "I must collect more data!$"
+	.string "太不可思议了，是霹雳电球！\p"
+	.string "但它看起来居然像是......木\n"
+	.string "头做的？\p"
+	.string "看来我关于这条道路上栖息着许多钢\n"
+	.string "属性宝可梦的假说，又一次被推翻\l"
+	.string "了。\p"
+	.string "但如果不是这样，我为什么会在这捡\n"
+	.string "到这块钢铁石板呢？\p"
+	.string "我必须收集更多的数据！$"
 
 Route50_Text_WesselBeforeBattle:
-	.string "You want this PLATE?\n"
-	.string "But I haven't analyzed it yet!\p"
-	.string "Fine, we will battle for it.$"
+	.string "你想要这块石板？但我还没把它分析\n"
+	.string "透彻呢！\p"
+	.string "好吧，那就通过对战来决定归属！$"
 
 Route50_Text_WesselDefeat:
 	.string "我的假说果然错了......$"
 
 Route50_Text_WesselAfter:
-	.string "Take the PLATE. I don't want to\n"
-	.string "talk about it.$"
+	.string "把石板拿走吧。我现在什么都不想说\n"
+	.string "了。$"
 
 Route50_EventScript_Finley::
 	goto_if_defeated TRAINER_FINLEY_HNS, Route50_EventScript_FinleyAfter
@@ -99,25 +98,21 @@ Route50_EventScript_FinleyAfter::
 	end
 
 Route50_Text_FinleyBefore:
-	.string "How are the villagers treating\n"
-    .string "you?\p"
-    .string "They can be very unwelcoming to\n"
-    .string "strangers.\p"
-    .string "But meeting new people is one\n"
-    .string "of life's greatest joys.\p"
-    .string "One day, I hope to meet CHAMPION\n"
-    .string "LANCE.\p"
-    .string "He is a legendary dragon tamer,\n"
-    .string "much like myself.\l"
-    .string "Who am I?\p"
-    .string "Well, I am FINLEY, keeper of the\n"
-    .string "DRACO PLATE.$"
+	.string "村民们对你的态度怎么样？\p"
+	.string "他们对待陌生人可能不太友好。\p"
+	.string "但是与新的人相遇，可是人生一大乐\n"
+	.string "事啊。\p"
+	.string "我希望有一天能见到阿渡冠军。\p"
+	.string "他是一位传奇的龙使者，就像我一\n"
+	.string "样。我是谁？\p"
+	.string "哈哈，我是芬利，龙之石板的守护\n"
+	.string "者。$"
 
 Route50_Text_FinleyBeforeBattle:
-	.string "I know the KIMONO's have sent you\n"
-	.string "to collect these PLATES.\p"
-	.string "They say you are worthy...\n"
-	.string "But can you conquer my dragons?$"
+	.string "我知道是舞姬们让你来收集这些石板\n"
+	.string "的。\p"
+	.string "她们说你很有能耐......但你\n"
+	.string "能够战胜我的龙宝可梦吗？$"
 
 Route50_Text_FinleyDefeat:
 	.string "我的龙宝可梦们表现得很不错。$"

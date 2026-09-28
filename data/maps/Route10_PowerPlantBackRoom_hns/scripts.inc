@@ -84,11 +84,10 @@ Route10_PowerPlantBackRoom_Text_ManagerTakeThisTM:
 	.string "！$"
 
 Route10_PowerPlantBackRoom_Text_ManagerTM07IsZapCannon:
-	.string "MANAGER: That TM is THUNDER.\p"
-	.string "It's a powerful technique!\p"
-	.string "It's not what anyone would\n"
-	.string "consider accurate, but it packs a\l"
-	.string "wallop!$"
+	.string "所长：那个招式学习器是“打雷”。\p"
+	.string "威力相当惊人哦！\p"
+	.string "虽说命中率稍微差了点，但砸下去的\n"
+	.string "威力可是非同小可的！$"
 
 Route10_PowerPlantBackRoom_Text_ManagerMyBelovedGenerator:
 	.string "所长：我心爱的发电机啊！\p"

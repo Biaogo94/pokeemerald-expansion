@@ -101,7 +101,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 970,
         .description = COMPOUND_STRING(
             "知道哪里会涌出清澈的水，会让伙伴\n"
-            "宝可梦骑在它背上，将其运到那个地\l"
+            "宝可梦骑在它背上，将其运到那个地\n"
             "方。"),
         .pokemonScale = 320,
         .pokemonOffset = 9,
@@ -467,7 +467,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 52,
         .description = COMPOUND_STRING(
             "不擅长走路，有时还会跌到，但波加\n"
-            "曼强烈的自尊心会让它挺起胸膛，毫\l"
+            "曼强烈的自尊心会让它挺起胸膛，毫\n"
             "不在意。"),
         .pokemonScale = 491,
         .pokemonOffset = 17,
@@ -945,7 +945,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FLYING),
         .abilities = { ABILITY_INTIMIDATE, ABILITY_NONE, ABILITY_RECKLESS },
         .bodyColor = BODY_COLOR_BROWN,
-        .speciesName = _("STARAPTOR"),
+        .speciesName = _("姆克鹰"),
     #if P_MODIFIED_MEGA_CRIES
         .cryId = CRY_STARAPTOR_MEGA,
     #else
@@ -1441,7 +1441,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 305,
         .description = COMPOUND_STRING(
             "在锐利的爪子尖端有强烈的电流流过\n"
-            "，只要稍稍碰擦到，就能让对手晕厥\l"
+            "，只要稍稍碰擦到，就能让对手晕厥\n"
             "。"),
         .pokemonScale = 338,
         .pokemonOffset = 10,
@@ -1610,7 +1610,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 315,
         .description = COMPOUND_STRING(
             "大约1亿年前的宝可梦。在丛林中出\n"
-            "生长大，会用头锤把阻挡它的树木撞\l"
+            "生长大，会用头锤把阻挡它的树木撞\n"
             "断。"),
         .pokemonScale = 338,
         .pokemonOffset = 10,
@@ -1816,7 +1816,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 1495,
         .description = COMPOUND_STRING(
             "如果横着排成一排，无论什么宝可梦\n"
-            "都无法突破。就这样保护着自己的孩\l"
+            "都无法突破。就这样保护着自己的孩\n"
             "子。"),
         .pokemonScale = 272,
         .pokemonOffset = 4,
@@ -1885,7 +1885,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 34,
         .description = COMPOUND_STRING(
             "蓑衣只要稍有缺损，就会立即用身边\n"
-            "的材料加以修补。蓑衣内的身体十分\l"
+            "的材料加以修补。蓑衣内的身体十分\n"
             "细瘦且畏惧寒冷。"),
         .pokemonScale = 682,
         .pokemonOffset = 24,
@@ -1954,7 +1954,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 34,
         .description = COMPOUND_STRING(
             "将吐出的丝揉合泥沙制成蓑衣。泥沙\n"
-            "所制的蓑衣不耐风雨，因此它会躲藏\l"
+            "所制的蓑衣不耐风雨，因此它会躲藏\n"
             "在洞穴等处。"),
         .pokemonScale = 682,
         .pokemonOffset = 24,
@@ -2024,7 +2024,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 34,
         .description = COMPOUND_STRING(
             "当身边找不到适合的材料时，会用尘\n"
-            "土草芥等垃圾来做蓑衣。裹起来的感\l"
+            "土草芥等垃圾来做蓑衣。裹起来的感\n"
             "觉似乎意外地还不坏。"),
         .pokemonScale = 682,
         .pokemonOffset = 24,
@@ -2095,7 +2095,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 65,
         .description = COMPOUND_STRING(
             "草木制成的蓑衣与躯体融合，如体毛\n"
-            "皮肤般成为了身体的一部分。据考察\l"
+            "皮肤般成为了身体的一部分。据考察\n"
             "这乃是进化能量带来的作用。"),
         .pokemonScale = 432,
         .pokemonOffset = 13,
@@ -2162,7 +2162,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 65,
         .description = COMPOUND_STRING(
             "泥沙形成的皮肤有相当的硬度。若是\n"
-            "姆克儿的嘴喙程度的攻击，轻而易举\l"
+            "姆克儿的嘴喙程度的攻击，轻而易举\n"
             "就可以反弹回去。"),
         .pokemonScale = 432,
         .pokemonOffset = 13,
@@ -2230,7 +2230,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 65,
         .description = COMPOUND_STRING(
             "尘土草芥等垃圾构成的身体能毫不起\n"
-            "眼地融入周围景色之中，正好适合用\l"
+            "眼地融入周围景色之中，正好适合用\n"
             "来躲避天敌袭击。"),
         .pokemonScale = 432,
         .pokemonOffset = 13,
@@ -2289,10 +2289,10 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_BUG),                         \
         .abilities = { ABILITY_SWARM, ABILITY_NONE, ABILITY_TINTED_LENS },  \
         .bodyColor = BODY_COLOR_YELLOW,                                     \
-        .speciesName = _("MOTHIM"),                                         \
+        .speciesName = _("绅士蛾"),                                         \
         .cryId = CRY_MOTHIM,                                                \
         .natDexNum = NATIONAL_DEX_MOTHIM,                                   \
-        .categoryName = _("Moth"),                                          \
+        .categoryName = _("蓑衣蛾"),                                          \
         .height = 9,                                                        \
         .weight = 233,                                                      \
         .description = gMothimPokedexText,                                  \
@@ -2854,7 +2854,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 93,
         .description = COMPOUND_STRING(
             "除了偶尔颤动之外几乎动也不动。从\n"
-            "紧闭的花瓣中泄漏而出的香气会吸引\l"
+            "紧闭的花瓣中泄漏而出的香气会吸引\n"
             "多种宝可梦聚集而来。"),
         .pokemonScale = 432,
         .pokemonOffset = 13,
@@ -2926,7 +2926,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 93,
         .description = COMPOUND_STRING(
             "一到了晴天就会非常积极地活动起来\n"
-            "，但只要太阳被遮住，就会立刻闭上\l"
+            "，但只要太阳被遮住，就会立刻闭上\n"
             "花瓣停止动作。"),
         .pokemonScale = 432,
         .pokemonOffset = 13,
@@ -3001,7 +3001,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 63,
         .description = COMPOUND_STRING(
             "会渗透出紫色的汁液来威吓敌人。跟\n"
-            "过去相比，这个样子的群体似乎更多\l"
+            "过去相比，这个样子的群体似乎更多\n"
             "了。"),
         .pokemonScale = 530,
         .pokemonOffset = 13,
@@ -3068,7 +3068,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 63,
         .description = COMPOUND_STRING(
             "经常能在岩岸发现它的身影。如果只\n"
-            "是一定程度的时间，它也能在陆地上\l"
+            "是一定程度的时间，它也能在陆地上\n"
             "活动。"),
         .pokemonScale = 530,
         .pokemonOffset = 13,
@@ -3199,7 +3199,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 299,
         .description = COMPOUND_STRING(
             "渔夫说道，虽然曾经很少遇见这个样\n"
-            "子的海兔兽，但现在它们有增加的倾\l"
+            "子的海兔兽，但现在它们有增加的倾\n"
             "向。"),
         .pokemonScale = 338,
         .pokemonOffset = 8,
@@ -3338,7 +3338,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 150,
         .description = COMPOUND_STRING(
             "能让人或宝可梦乘着飞行，但因为只\n"
-            "能跟着风向飘，所以不知道会飞到哪\l"
+            "能跟着风向飘，所以不知道会飞到哪\n"
             "里去。"),
         .pokemonScale = 282,
         .pokemonOffset = 4,
@@ -3411,7 +3411,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 55,
         .description = COMPOUND_STRING(
             "如果感觉到有危险，就会竖起双耳保\n"
-            "持警觉。在寒冷的夜里把脸埋在毛皮\l"
+            "持警觉。在寒冷的夜里把脸埋在毛皮\n"
             "里睡觉。"),
         .pokemonScale = 491,
         .pokemonOffset = 16,
@@ -3540,7 +3540,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FIELD, EGG_GROUP_HUMAN_LIKE),
         .abilities = { ABILITY_SCRAPPY, ABILITY_SCRAPPY, ABILITY_SCRAPPY },
         .bodyColor = BODY_COLOR_BROWN,
-        .speciesName = _("LOPUNNY"),
+        .speciesName = _("长耳兔"),
     #if P_MODIFIED_MEGA_CRIES
         .cryId = CRY_LOPUNNY_MEGA,
     #else
@@ -3623,7 +3623,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 39,
         .description = COMPOUND_STRING(
             "一不称心，就会竖起爪子。但偶尔会\n"
-            "从喉咙里发出声响来撒娇，这样的性\l"
+            "从喉咙里发出声响来撒娇，这样的性\n"
             "格很受部分人喜爱。"),
         .pokemonScale = 432,
         .pokemonOffset = 13,
@@ -3692,7 +3692,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 438,
         .description = COMPOUND_STRING(
             "为了让自己的身体看起来大些，以此\n"
-            "威吓对手，会把分叉的尾巴紧紧缠在\l"
+            "威吓对手，会把分叉的尾巴紧紧缠在\n"
             "腰上。"),
         .pokemonScale = 305,
         .pokemonOffset = 7,
@@ -3765,7 +3765,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 192,
         .description = COMPOUND_STRING(
             "从屁屁喷出的臭液的气味会扩散到半\n"
-            "径2公里的范围，周围的宝可梦都会\l"
+            "径2公里的范围，周围的宝可梦都会\n"
             "逃得无影无踪。"),
         .pokemonScale = 491,
         .pokemonOffset = 17,
@@ -3836,7 +3836,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 380,
         .description = COMPOUND_STRING(
             "会从尾巴尖端喷出奇臭无比的液体进\n"
-            "行攻击，然而面对来自上方的攻击时\l"
+            "行攻击，然而面对来自上方的攻击时\n"
             "会不知所措。"),
         .pokemonScale = 305,
         .pokemonOffset = 9,
@@ -3983,7 +3983,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 1870,
         .description = COMPOUND_STRING(
             "从遥远的过去开始就作为能召唤雨云\n"
-            "的宝可梦被供奉着。时不时会被埋入\l"
+            "的宝可梦被供奉着。时不时会被埋入\n"
             "地下。"),
         .pokemonScale = 272,
         .pokemonOffset = 3,
@@ -4056,7 +4056,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 19,
         .description = COMPOUND_STRING(
             "学习人类的语言来鸣叫。当伙伴们聚\n"
-            "集在同一个地方时，大家就会学习到\l"
+            "集在同一个地方时，大家就会学习到\n"
             "同样的词汇。"),
         .pokemonScale = 432,
         .pokemonOffset = 15,
@@ -4210,7 +4210,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 205,
         .description = COMPOUND_STRING(
             "生活在被地热加温的横洞里。如果有\n"
-            "敌人靠近，就会从洞里扑出来大口咬\l"
+            "敌人靠近，就会从洞里扑出来大口咬\n"
             "住。"),
         .pokemonScale = 365,
         .pokemonOffset = 12,
@@ -4292,7 +4292,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 560,
         .description = COMPOUND_STRING(
             "最喜欢闪闪发光的东西，所以会把在\n"
-            "洞窟里找到的宝贝都积存到自己的巢\l"
+            "洞窟里找到的宝贝都积存到自己的巢\n"
             "穴中。"),
         .pokemonScale = 265,
         .pokemonOffset = 2,
@@ -4453,7 +4453,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MONSTER, EGG_GROUP_DRAGON),
         .abilities = { ABILITY_SAND_FORCE, ABILITY_SAND_FORCE, ABILITY_SAND_FORCE },
         .bodyColor = BODY_COLOR_BLUE,
-        .speciesName = _("GARCHOMP"),
+        .speciesName = _("烈咬陆鲨"),
     #if P_MODIFIED_MEGA_CRIES
         .cryId = CRY_GARCHOMP_MEGA,
     #else
@@ -4533,7 +4533,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MONSTER, EGG_GROUP_DRAGON),
         .abilities = { ABILITY_SAND_VEIL, ABILITY_NONE, ABILITY_ROUGH_SKIN },
         .bodyColor = BODY_COLOR_BLUE,
-        .speciesName = _("GARCHOMP"),
+        .speciesName = _("烈咬陆鲨"),
     #if P_MODIFIED_MEGA_CRIES
         .cryId = CRY_GARCHOMP, //CRY_GARCHOMP_MEGA_Z (unreleased)
     #else
@@ -4545,7 +4545,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 990,
         .description = COMPOUND_STRING(
             "新的超级进化的样子。它会以音速四\n"
-            "处飞行，用翅膀上骇人的爪子撕裂敌\l"
+            "处飞行，用翅膀上骇人的爪子撕裂敌\n"
             "人。"),
         //.frontPic = gMonBackPic_CircledQuestionMark,
         //.frontPicSize = MON_COORDS_SIZE(40, 40),
@@ -4733,7 +4733,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FIELD, EGG_GROUP_HUMAN_LIKE),
         .abilities = { ABILITY_ADAPTABILITY, ABILITY_ADAPTABILITY, ABILITY_ADAPTABILITY },
         .bodyColor = BODY_COLOR_BLUE,
-        .speciesName = _("LUCARIO"),
+        .speciesName = _("路卡利欧"),
     #if P_MODIFIED_MEGA_CRIES
         .cryId = CRY_LUCARIO_MEGA,
     #else
@@ -4808,7 +4808,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FIELD, EGG_GROUP_HUMAN_LIKE),
         .abilities = { ABILITY_STEADFAST, ABILITY_INNER_FOCUS, ABILITY_JUSTIFIED },
         .bodyColor = BODY_COLOR_BLUE,
-        .speciesName = _("LUCARIO"),
+        .speciesName = _("路卡利欧"),
     #if P_MODIFIED_MEGA_CRIES
         .cryId = CRY_LUCARIO_MEGA_Z,
     #else
@@ -4876,7 +4876,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 495,
         .description = COMPOUND_STRING(
             "会紧紧闭上鼻孔，然后在沙子里如同\n"
-            "步行般地前进。组成约10只的群体\l"
+            "步行般地前进。组成约10只的群体\n"
             "一起生活。"),
         .pokemonScale = 366,
         .pokemonOffset = 11,
@@ -5697,7 +5697,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 1355,
         .description = COMPOUND_STRING(
             "雪花盛开之时会从某处现身，雪花凋\n"
-            "零之时则会再度前往某处并隐藏自己\l"
+            "零之时则会再度前往某处并隐藏自己\n"
             "的身影。"),
         .pokemonScale = 256,
         .pokemonOffset = 0,
@@ -5772,7 +5772,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MONSTER, EGG_GROUP_GRASS),
         .abilities = { ABILITY_SNOW_WARNING, ABILITY_SNOW_WARNING, ABILITY_SNOW_WARNING },
         .bodyColor = BODY_COLOR_WHITE,
-        .speciesName = _("ABOMASNOW"),
+        .speciesName = _("暴雪王"),
     #if P_MODIFIED_MEGA_CRIES
         .cryId = CRY_ABOMASNOW_MEGA,
     #else
@@ -5784,7 +5784,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 1850,
         .description = COMPOUND_STRING(
             "背后的四颗新芽会长成巨大的冰柱，\n"
-            "不喜欢与他人交往，选择在深山里安\l"
+            "不喜欢与他人交往，选择在深山里安\n"
             "静地生活。"),
         .pokemonScale = 256,
         .pokemonOffset = 0,
@@ -6168,7 +6168,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 3,
         .description = COMPOUND_STRING(
             "虽然能让洛托姆钻进去的家电产品有\n"
-            "好几种，但最先被研发出来的是电风\l"
+            "好几种，但最先被研发出来的是电风\n"
             "扇。"),
         .pokemonScale = 530,
         .pokemonOffset = 13,
@@ -6658,7 +6658,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 8500,
         .description = COMPOUND_STRING(
             "光明乃是促使形态变化的导火线。其\n"
-            "强大力量令人不得不认为如此酷似创\l"
+            "强大力量令人不得不认为如此酷似创\n"
             "造神的姿态才是其真身。"),
         .pokemonScale = 256,
         .pokemonOffset = 0,
@@ -6805,7 +6805,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 6600,
         .description = COMPOUND_STRING(
             "翱翔天际的姿态令人联想起万物的创\n"
-            "造主。据推测，模仿创造主的模样正\l"
+            "造主。据推测，模仿创造主的模样正\n"
             "是将其力化为己有的方法。"),
         .pokemonScale = 256,
         .pokemonOffset = 0,
@@ -6951,7 +6951,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_NO_EGGS_DISCOVERED),
         .abilities = { ABILITY_FLASH_FIRE, ABILITY_NONE, ABILITY_FLAME_BODY },
         .bodyColor = BODY_COLOR_BROWN,
-        .speciesName = _("HEATRAN"),
+        .speciesName = _("席多蓝恩"),
     #if P_MODIFIED_MEGA_CRIES
         .cryId = CRY_HEATRAN_MEGA,
     #else
@@ -7103,7 +7103,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 7500,
         .description = COMPOUND_STRING(
             "因为性格粗暴而被驱逐，一直待在毁\n"
-            "坏的世界里，静静地看着原来的世界\l"
+            "坏的世界里，静静地看着原来的世界\n"
             "。"),
         .pokemonScale = 256,
         .pokemonOffset = 0,
@@ -7175,7 +7175,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 6500,
         .description = COMPOUND_STRING(
             "脚部随着形态变化而消失。据推测，\n"
-            "此宝可梦栖息于没有天地之分的世界\l"
+            "此宝可梦栖息于没有天地之分的世界\n"
             "，然而没有手段能证明。"),
         .pokemonScale = 256,
         .pokemonOffset = 0,
@@ -7570,7 +7570,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_NO_EGGS_DISCOVERED),
         .abilities = { ABILITY_BAD_DREAMS, ABILITY_NONE, ABILITY_NONE },
         .bodyColor = BODY_COLOR_BLACK,
-        .speciesName = _("DARKRAI"),
+        .speciesName = _("达克莱伊"),
     #if P_MODIFIED_MEGA_CRIES
         .cryId = CRY_DARKRAI_MEGA,
     #else
@@ -7651,7 +7651,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 21,
         .description = COMPOUND_STRING(
             "当人们欣喜于严冬随季节更替终结，\n"
-            "向上天奉献感谢之意时，此宝可梦就\l"
+            "向上天奉献感谢之意时，此宝可梦就\n"
             "会现身，令荒寂的大地开满鲜花。"),
         .pokemonScale = 682,
         .pokemonOffset = 24,
@@ -7813,10 +7813,10 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_NO_EGGS_DISCOVERED),                  \
         .abilities = { ABILITY_MULTITYPE, ABILITY_NONE, ABILITY_NONE },             \
         .bodyColor = BODY_COLOR_WHITE,                                              \
-        .speciesName = _("ARCEUS"),                                                 \
+        .speciesName = _("阿尔宙斯"),                                                 \
         .cryId = CRY_ARCEUS,                                                        \
         .natDexNum = NATIONAL_DEX_ARCEUS,                                           \
-        .categoryName = _("Alpha"),                                                 \
+        .categoryName = _("创造"),                                                 \
         .height = 32,                                                               \
         .weight = 3200,                                                             \
         .description = gArceusPokedexText,                                          \

@@ -68,12 +68,12 @@ SeafoamIslands_Gym_Text_Blaine_GiveTM:
 	.string "这个也给你！$"
 
 SeafoamIslands_Gym_Text_Blaine_ExplainTM:
-	.string "This TM contains\n"
-	.string "the awesome OVERHEAT!\p"
-	.string "The overwhelming heat scorches your\n"
-	.string "opponents, but then drops your power.\p"
-	.string "I hope your next opponent has an\n"
-	.string "extra BURN HEAL! Waaah!$"
+	.string "这个招式学习器里面是超厉害的“过\n"
+	.string "热”！\p"
+	.string "虽然能用压倒性的热量烧焦对手，但\n"
+	.string "也会让自己的威力下降。\p"
+	.string "希望你的下一个对手带够了灼伤药！\n"
+	.string "哇哈哈！$"
 
 SeafoamIslands_Gym_Text_BlaineIntro:
 	.string "夏伯：哇哈哈！\p"

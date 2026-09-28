@@ -160,10 +160,8 @@ CeruleanCity_Gym_EventScript_GymGuyAfter::
 	end
 
 CeruleanCity_Gym_Text_GymStatue::
-    .string "CERULEAN POKéMON GYM\n"
-    .string "LEADER: MISTY\p"
-	.string "WINNING TRAINERS:\n"
-	.string "BLUE, RED$"
+    .string "华蓝市宝可梦道馆馆主：小霞\p"
+    .string "战胜过的训练家：青绿，赤红$"
 
 CeruleanCity_Gym_Text_GymStatuePlayerWon::
     .string "华蓝市宝可梦道馆馆主：小霞\p"
@@ -220,11 +218,11 @@ CeruleanGym_Text_GruntBigMistake:
 	.string "误！$"
 
 CeruleanGym_Text_GruntBye:
-	.string "Hey, you! Forget you see me,\n"
-	.string "okay?\p"
-	.string "You see, hear, know nothing,\p"
-	.string "okay? Bye, kid! Nothing!\p"
-	.string "Bye-bye a go-go!$"
+	.string "喂！就当没看见我，好吗？\p"
+	.string "你什么也没看到，什么也没听见，什\n"
+	.string "么也不知道！\p"
+	.string "好了，小鬼！什么都没有！我走啦！\p"
+	.string "拜拜，溜之大吉！$"
 
 CeruleanGym_Text_Note1:
 	.string "抱歉，我出门一阵子。馆主 小霞\p"
@@ -297,9 +295,9 @@ CeruleanGym_Text_SwimmermParkerAfter:
 	.string "的！$"
 
 CeruleanGym_Text_GuideIntro:
-	.string "Yo! CHAMP in making!\p"
-	.string "Since MISTY was away, I went out\p"
-	.string "for some fun too. He-he-he.$"
+	.string "哟，未来的冠军！\p"
+	.string "小霞不在，我也出去\p"
+	.string "玩了一趟。嘿嘿嘿。$"
 
 CeruleanGym_Text_GuideWin:
 	.string "呼，让我见识到了你的厉害！\p"
@@ -310,6 +308,6 @@ CeruleanGym_Text_Misty_GiveTM:
 	.string "来，把这个也收下吧。$"
 
 CeruleanGym_Text_Misty_ExplainTM:
-	.string "It's the WATER PULSE TM.\p"
-	.string "It causes damage and sometimes\n"
-	.string "causes confusion as well!$"
+	.string "这是招式学习器“水之波动”。\p"
+	.string "不仅能造成伤害，有时还会让对手陷\n"
+	.string "入混乱状态哦！$"

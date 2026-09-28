@@ -42,10 +42,9 @@ Route4_Text_BirdKeeperHank_Beaten:
 	.string "哎呀！这局竟然输了......$"
 
 Route4_Text_BirdKeeperHank_AfterBattle:
-	.string "If you have a specific POKéMON that you\n"
-	.string "want to raise, put it out first, then\l"
-	.string "switch it right away.\p"
-	.string "That's how to do it.$"
+	.string "如果有特别想培育的宝可梦，先让它\n"
+	.string "打头阵，然后马上换下去。\p"
+	.string "这可是培育的诀窍哦。$"
 
 Route4_Text_PicnickerHope_Seen:
 	.string "我有种能赢的预感。\p"
@@ -59,8 +58,7 @@ Route4_Text_PicnickerHope_AfterBattle:
 	.string "但它们究竟在哪里呢？$"
 
 Route4_Text_PicnickerSharon_Seen:
-	.string "Um…\n"
-	.string "I…$"
+	.string "唔......我......$"
 
 Route4_Text_PicnickerSharon_Beaten:
 	.string "…$"

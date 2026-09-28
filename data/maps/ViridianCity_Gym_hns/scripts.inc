@@ -43,9 +43,9 @@ ViridianCity_Gym_EventScript_BlueGotoDojo::
 	end
 
 ViridianCity_Gym_Text_BlueGotoDojo:
-	.string "BLUE: Back for more already?\p"
-	.string "If you want another shot at me,\n"
-	.string "come to the FIGHTING DOJO!$"
+	.string "青绿：这么快就皮痒了，又想找虐？\p"
+	.string "如果还想挑战我的话，就来格斗道场\n"
+	.string "吧！$"
 
 ViridianCity_Gym_EventScript_BlueAtDojo::
 	msgbox ViridianCity_Gym_Text_LeaderBlue_Epilogue, MSGBOX_DEFAULT
@@ -87,10 +87,11 @@ ViridianCity_Gym_Text_LeaderBlue_GiveTM:
 	.string "把这个也带上吧。$"
 
 ViridianCity_Gym_Text_LeaderBlue_ExplainTM:
-	.string "That's TRICK ROOM.\p"
-	.string "All POKEMON in battle will change speed.\n"
-	.string "Slow goes first. Fast goes last.\p"
-	.string "Use it to turn a battle on its head.$"
+	.string "那是“戏法空间”。\p"
+	.string "场上所有宝可梦的速度都会发生颠\n"
+	.string "倒。速度慢的先行动，速度快的后行\l"
+	.string "动。\p"
+	.string "用它来彻底逆转战局吧。$"
 
 ViridianCity_Gym_Text_LeaderBlue_Epilogue:
 	.string "青绿：听好了，\p"

@@ -267,8 +267,8 @@ BlackthornGym_Text_ClairText_YouKeptMeWaiting:
     .string "拿去！把这个收下！$"
 
 BlackthornGym_Text_ClairText_DescribeTM:
-    .string "That contains DRAGON CLAW.\p"
-    .string "You can figure out what it does.$"
+    .string "里面装的是“龙爪”。\p"
+    .string "效果你自己看看就明白了。$"
 
 BlackthornGym_Text_ClairText_League:
     .string "怎么啦？\p"

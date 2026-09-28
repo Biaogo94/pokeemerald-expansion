@@ -1,0 +1,1610 @@
+[
+  {
+    "file": "src/berry.c",
+    "berryId": "AGUAV",
+    "field": "name",
+    "source": "Aguav",
+    "translation": "乐芭果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "AGUAV",
+    "field": "description1",
+    "source": "The flower is dainty. It is rare in its",
+    "translation": "这种树果花朵娇小，不太吸收阳光。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "AGUAV",
+    "field": "description2",
+    "source": "ability to grow without light.",
+    "translation": "靠近果蒂的部分含有苦味。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "APICOT",
+    "field": "name",
+    "source": "Apicot",
+    "translation": "杏仔果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "APICOT",
+    "field": "description1",
+    "source": "A very mystifying Berry. No telling",
+    "translation": "非常不可思议的树果。关于它能够做",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "APICOT",
+    "field": "description2",
+    "source": "what may happen or how it can be used.",
+    "translation": "什么，又会引发什么事，没有人知道。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "ASPEAR",
+    "field": "name",
+    "source": "Aspear",
+    "translation": "利木果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "ASPEAR",
+    "field": "description1",
+    "source": "The hard Berry is dense with a rich",
+    "translation": "外皮坚硬，果肉多汁。带劲的酸味",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "ASPEAR",
+    "field": "description2",
+    "source": "juice. It is quite sour.",
+    "translation": "是其特色。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "BABIRI",
+    "field": "name",
+    "source": "Babiri",
+    "translation": "霹霹果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "BABIRI",
+    "field": "description1",
+    "source": "Very tough with a strong flavor. It",
+    "translation": "口感坚硬且味道刺激，因此过去的",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "BABIRI",
+    "field": "description2",
+    "source": "was used to make medicine in the past.",
+    "translation": "人会把它用作制药的材料。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "BELUE",
+    "field": "name",
+    "source": "Belue",
+    "translation": "靛莓果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "BELUE",
+    "field": "description1",
+    "source": "It is glossy and looks delicious, but",
+    "translation": "虽然从色彩光泽来看，它似乎显得很",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "BELUE",
+    "field": "description2",
+    "source": "it is awfully sour. Takes time to grow.",
+    "translation": "美味，但吃一口才发现其实很酸。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "BLUK",
+    "field": "name",
+    "source": "Bluk",
+    "translation": "墨莓果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "BLUK",
+    "field": "description1",
+    "source": "The Berry is blue on the outside, but",
+    "translation": "一旦咬下被柔软外皮包裹着的蓝色",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "BLUK",
+    "field": "description2",
+    "source": "it blackens the mouth when eaten.",
+    "translation": "小颗粒，嘴巴内部将被染成黑色。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CHARTI",
+    "field": "name",
+    "source": "Charti",
+    "translation": "草蚕果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CHARTI",
+    "field": "description1",
+    "source": "Often used for pickles because of its",
+    "translation": "因其涩味十足，所以多用于制作",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CHARTI",
+    "field": "description2",
+    "source": "dry flavor. Sometimes eaten raw.",
+    "translation": "酱菜。直接食用则有提神效果。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CHERI",
+    "field": "name",
+    "source": "Cheri",
+    "translation": "樱子果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CHERI",
+    "field": "description1",
+    "source": "Blooms with delicate pretty flowers.",
+    "translation": "鲜红色的果实非常辛辣，稍带些刺激",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CHERI",
+    "field": "description2",
+    "source": "The bright red Berry is very spicy.",
+    "translation": "的味道。绽开的花朵十分惹人喜爱。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CHESTO",
+    "field": "name",
+    "source": "Chesto",
+    "translation": "零余果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CHESTO",
+    "field": "description1",
+    "source": "The Berry's thick skin and fruit are",
+    "translation": "零余果的外皮和果肉都又硬又涩。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CHESTO",
+    "field": "description2",
+    "source": "very tough. It is dry-tasting all over.",
+    "translation": "不过，全都可以食用。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CHILAN",
+    "field": "name",
+    "source": "Chilan",
+    "translation": "灯浆果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CHILAN",
+    "field": "description1",
+    "source": "It can be made into a whistle that",
+    "translation": "将内部挖空并风干之后，对着洞口",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CHILAN",
+    "field": "description2",
+    "source": "produces an indescribable sound.",
+    "translation": "吹气，会发出难以形容的声音。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CHOPLE",
+    "field": "name",
+    "source": "Chople",
+    "translation": "莲蒲果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CHOPLE",
+    "field": "description1",
+    "source": "Contains a substance that generates",
+    "translation": "果肉中的成分带有发热的效果，",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CHOPLE",
+    "field": "description2",
+    "source": "heat. Can even fire up a chilly heart.",
+    "translation": "可以温暖冰冷的心。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "COBA",
+    "field": "name",
+    "source": "Coba",
+    "translation": "棱瓜果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "COBA",
+    "field": "description1",
+    "source": "This Berry is said to be a cross of",
+    "translation": "据说是远方的不同种树果被风吹到了",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "COBA",
+    "field": "description2",
+    "source": "two Berries blown in from far away.",
+    "translation": "一起，从而繁殖结成的新品种。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "COLBUR",
+    "field": "name",
+    "source": "Colbur",
+    "translation": "刺耳果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "COLBUR",
+    "field": "description1",
+    "source": "Tiny hooks on the surface latch onto",
+    "translation": "生于表面的小型刺状物让它能附着在",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "COLBUR",
+    "field": "description2",
+    "source": "Pokémon to reach far-off places.",
+    "translation": "宝可梦身上，随之被带去遥远的地方。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CORNN",
+    "field": "name",
+    "source": "Cornn",
+    "translation": "玉黍果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CORNN",
+    "field": "description1",
+    "source": "A Berry from an ancient era. May not",
+    "translation": "涩味相当强烈，只吃一两个的",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CORNN",
+    "field": "description2",
+    "source": "grow unless planted in quantity.",
+    "translation": "话，无法品尝出其中美味。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CUSTAP",
+    "field": "name",
+    "source": "Custap",
+    "translation": "释陀果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CUSTAP",
+    "field": "description1",
+    "source": "The flesh underneath the Custap",
+    "translation": "表面被坚硬的外皮包裹着，内部则",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "CUSTAP",
+    "field": "description2",
+    "source": "Berry's skin is sweet and creamy soft.",
+    "translation": "像奶油一样又甜又柔软。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "DURIN",
+    "field": "name",
+    "source": "Durin",
+    "translation": "金枕果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "DURIN",
+    "field": "description1",
+    "source": "Bitter to even look at. It is so",
+    "translation": "这种树果味道极苦，稍微咬上一口，",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "DURIN",
+    "field": "description2",
+    "source": "bitter, no one has ever eaten it as is.",
+    "translation": "抑制不住的打嗝也会瞬间停下。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "ENIGMA",
+    "field": "name",
+    "source": "Enigma",
+    "translation": "谜芝果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "ENIGMA",
+    "field": "description1",
+    "source": "A completely enigmatic Berry.",
+    "translation": "这种树果的真实外观不明。似乎",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "ENIGMA",
+    "field": "description2",
+    "source": "Appears to have the power of stars.",
+    "translation": "拥有着夜空中的星星的力量。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "FIGY",
+    "field": "name",
+    "source": "Figy",
+    "translation": "勿花果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "FIGY",
+    "field": "description1",
+    "source": "The Berry, which looks chewed up,",
+    "translation": "外观如同被咬过的圆形果实，",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "FIGY",
+    "field": "description2",
+    "source": "brims with spicy substances.",
+    "translation": "内部富含辛辣的成分。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "GANLON",
+    "field": "name",
+    "source": "Ganlon",
+    "translation": "龙睛果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "GANLON",
+    "field": "description1",
+    "source": "A mysterious Berry. It is rumored to",
+    "translation": "龙睛果是一种神秘的树果。有传言",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "GANLON",
+    "field": "description2",
+    "source": "contain the power of the land.",
+    "translation": "说，它蕴藏着大地的力量。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "GREPA",
+    "field": "name",
+    "source": "Grepa",
+    "translation": "萄葡果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "GREPA",
+    "field": "description1",
+    "source": "Despite its tenderness and round",
+    "translation": "果肉相当柔软，大口咬下，酸味和",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "GREPA",
+    "field": "description2",
+    "source": "shape, the Berry is unimaginably sour.",
+    "translation": "甜味立刻扩散至整个口中。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "HABAN",
+    "field": "name",
+    "source": "Haban",
+    "translation": "莓榴果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "HABAN",
+    "field": "description1",
+    "source": "Less bitter if enough of this Berry",
+    "translation": "这种树果大量一起煮干，即可褪去",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "HABAN",
+    "field": "description2",
+    "source": "is boiled down. Makes a good jam.",
+    "translation": "苦味，因此也适合做成果酱。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "HONDEW",
+    "field": "name",
+    "source": "Hondew",
+    "translation": "哈密果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "HONDEW",
+    "field": "description1",
+    "source": "A Berry that is very valuable and",
+    "translation": "这种树果较为稀有，且带有高级感，",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "HONDEW",
+    "field": "description2",
+    "source": "rarely seen. It is very delicious.",
+    "translation": "作为赠礼会让对方高兴。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "IAPAPA",
+    "field": "name",
+    "source": "Iapapa",
+    "translation": "芭亚果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "IAPAPA",
+    "field": "description1",
+    "source": "The Berry is very big and sour.",
+    "translation": "这种树果又大又酸。果肉富含的",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "IAPAPA",
+    "field": "description2",
+    "source": "It takes at least a day to grow.",
+    "translation": "水分更加突出了它的酸味。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "JABOCA",
+    "field": "name",
+    "source": "Jaboca",
+    "translation": "嘉珍果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "JABOCA",
+    "field": "description1",
+    "source": "The drupelets that make up this berry",
+    "translation": "由小颗粒组成的树果。若不谨慎取用，",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "JABOCA",
+    "field": "description2",
+    "source": "pop rythmically if handled roughly.",
+    "translation": "果实会发出具有节奏感的声音并裂开。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "KASIB",
+    "field": "name",
+    "source": "Kasib",
+    "translation": "佛柑果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "KASIB",
+    "field": "description1",
+    "source": "Old superstitions say it has an odd",
+    "translation": "据说这种树果自古以来便有不可思议",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "KASIB",
+    "field": "description2",
+    "source": "power. A popular good-luck charm.",
+    "translation": "的力量，因此也会被风干制成护符。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "KEBIA",
+    "field": "name",
+    "source": "Kebia",
+    "translation": "通通果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "KEBIA",
+    "field": "description1",
+    "source": "Brilliant green on the outside, inside",
+    "translation": "外观呈现鲜艳的绿色，但切开来一看，",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "KEBIA",
+    "field": "description2",
+    "source": "it is packed with black-colored flesh.",
+    "translation": "会发现里边尽是又黑又涩的果肉。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "KEE",
+    "field": "name",
+    "source": "Kee",
+    "translation": "亚开果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "KEE",
+    "field": "description1",
+    "source": "A berry that is incredibly spicy at",
+    "translation": "略为贵重的树果。在地狱般的辛辣后",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "KEE",
+    "field": "description2",
+    "source": "first, then extremely bitter.",
+    "translation": "袭来的，是猛烈无比的涩味。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "KELPSY",
+    "field": "name",
+    "source": "Kelpsy",
+    "translation": "藻根果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "KELPSY",
+    "field": "description1",
+    "source": "A rare variety shaped like a root.",
+    "translation": "这种树果可以直接食用。但如果用水",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "KELPSY",
+    "field": "description2",
+    "source": "Grows a very large flower.",
+    "translation": "煮干，其精华可为料理增添一味。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "LANSAT",
+    "field": "name",
+    "source": "Lansat",
+    "translation": "兰萨果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "LANSAT",
+    "field": "description1",
+    "source": "Said to be a legendary Berry.",
+    "translation": "被世人称为“传说中的树果”。如果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "LANSAT",
+    "field": "description2",
+    "source": "Holding it supposedly brings joy.",
+    "translation": "能拥有它，似乎会变得非常幸福。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "LEPPA",
+    "field": "name",
+    "source": "Leppa",
+    "translation": "苹野果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "LEPPA",
+    "field": "description1",
+    "source": "Grows slower than Cheri and others.",
+    "translation": "跟樱子果之类的树果相比，生长速度",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "LEPPA",
+    "field": "description2",
+    "source": "The smaller the Berry, the tastier.",
+    "translation": "较为缓慢。越小的果实口味越佳。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "LIECHI",
+    "field": "name",
+    "source": "Liechi",
+    "translation": "枝荔果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "LIECHI",
+    "field": "description1",
+    "source": "A mysterious Berry. It is rumored to",
+    "translation": "枝荔果是一种神秘的树果。有传言",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "LIECHI",
+    "field": "description2",
+    "source": "contain the power of the sea.",
+    "translation": "说，它蕴藏着大海的力量。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "LUM",
+    "field": "name",
+    "source": "Lum",
+    "translation": "木子果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "LUM",
+    "field": "description1",
+    "source": "Slow to grow. If raised with loving",
+    "translation": "这种树果会在内部储存对宝可梦有益",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "LUM",
+    "field": "description2",
+    "source": "care, it may grow two Berries.",
+    "translation": "的成分，因此需要长时间成熟。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "MAGO",
+    "field": "name",
+    "source": "Mago",
+    "translation": "芒芒果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "MAGO",
+    "field": "description1",
+    "source": "The Berry turns curvy as it grows.",
+    "translation": "这种树果的形状会随着生长越来越",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "MAGO",
+    "field": "description2",
+    "source": "The curvier, the sweeter and tastier.",
+    "translation": "卷曲。越卷曲的果实味道越甜。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "MAGOST",
+    "field": "name",
+    "source": "Magost",
+    "translation": "岳竹果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "MAGOST",
+    "field": "description1",
+    "source": "A Berry that is widely said to have",
+    "translation": "令人沉醉的甜味中，依稀尝得出大人",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "MAGOST",
+    "field": "description2",
+    "source": "a finely balanced flavor.",
+    "translation": "才懂的成熟苦味。也深受宝可梦欢迎。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "MARANGA",
+    "field": "name",
+    "source": "Marnga",
+    "translation": "香罗果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "MARANGA",
+    "field": "description1",
+    "source": "Its outside is very bitter, but its",
+    "translation": "略为贵重的树果。外侧极苦，",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "MARANGA",
+    "field": "description2",
+    "source": "inside tastes like a sweet drink.",
+    "translation": "而内部却甜如汽水般。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "MICLE",
+    "field": "name",
+    "source": "Micle",
+    "translation": "奇秘果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "MICLE",
+    "field": "description1",
+    "source": "It makes other food eaten at the",
+    "translation": "树果本身味道非常涩，但如果和其他",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "MICLE",
+    "field": "description2",
+    "source": "same time taste sweet.",
+    "translation": "食物一起吃，会使该食物显得有甜味。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "NANAB",
+    "field": "name",
+    "source": "Nanab",
+    "translation": "蕉香果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "NANAB",
+    "field": "description1",
+    "source": "This Berry was the seventh",
+    "translation": "这种果实甜中带苦，是世界上被",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "NANAB",
+    "field": "description2",
+    "source": "discovered in the world. It is sweet.",
+    "translation": "发现的第7种树果。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "NOMEL",
+    "field": "name",
+    "source": "Nomel",
+    "translation": "檬柠果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "NOMEL",
+    "field": "description1",
+    "source": "Quite sour. Just one bite makes it",
+    "translation": "整颗果实都非常酸，其中酸味特别",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "NOMEL",
+    "field": "description2",
+    "source": "impossible to taste for three days.",
+    "translation": "集中于尖端的部位。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "OCCA",
+    "field": "name",
+    "source": "Occa",
+    "translation": "巧可果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "OCCA",
+    "field": "description1",
+    "source": "Said to grow in the tropics once,",
+    "translation": "据说过去能在热带地区大量采收这种",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "OCCA",
+    "field": "description2",
+    "source": "it boasts an intensely hot spiciness.",
+    "translation": "树果。令人灼烧般的辣味正是其特色。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "ORAN",
+    "field": "name",
+    "source": "Oran",
+    "translation": "橙橙果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "ORAN",
+    "field": "description1",
+    "source": "A peculiar Berry with a mix of flavors.",
+    "translation": "将大自然的恩惠融为一体，在口中",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "ORAN",
+    "field": "description2",
+    "source": "Berries grow in half a day.",
+    "translation": "迸发出各种奇妙的好滋味。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PAMTRE",
+    "field": "name",
+    "source": "Pamtre",
+    "translation": "椰木果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PAMTRE",
+    "field": "description1",
+    "source": "Drifts on the sea from somewhere.",
+    "translation": "原本是从遥远的大海漂流而来，不过",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PAMTRE",
+    "field": "description2",
+    "source": "It is thought to grow elsewhere.",
+    "translation": "在丰缘地区也已经能够栽培这种树果。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PASSHO",
+    "field": "name",
+    "source": "Passho",
+    "translation": "千香果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PASSHO",
+    "field": "description1",
+    "source": "Its flesh is dotted with many tiny",
+    "translation": "果实内部有一些被称为气泡的",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PASSHO",
+    "field": "description2",
+    "source": "bubbles that keep it afloat in water.",
+    "translation": "空气孔，因此能浮在水面上。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PAYAPA",
+    "field": "name",
+    "source": "Payapa",
+    "translation": "福禄果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PAYAPA",
+    "field": "description1",
+    "source": "Said to sense human emotions, it swells",
+    "translation": "每当有人类接近，它的前端就会膨胀",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PAYAPA",
+    "field": "description2",
+    "source": "roundly when a person approaches.",
+    "translation": "成圆形，因此有人说它会读人心。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PECHA",
+    "field": "name",
+    "source": "Pecha",
+    "translation": "桃桃果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PECHA",
+    "field": "description1",
+    "source": "Very sweet and delicious.",
+    "translation": "树果的内部有空洞，因此可食用的",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PECHA",
+    "field": "description2",
+    "source": "Also very tender - handle with care.",
+    "translation": "部分很少，不过非常香甜可口。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PERSIM",
+    "field": "name",
+    "source": "Persim",
+    "translation": "柿仔果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PERSIM",
+    "field": "description1",
+    "source": "Loves sunlight. The Berry's color",
+    "translation": "这种树果吸收越多来自太阳的能量，",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PERSIM",
+    "field": "description2",
+    "source": "grows vivid when exposed to the sun.",
+    "translation": "会成长得越为鲜艳。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PETAYA",
+    "field": "name",
+    "source": "Petaya",
+    "translation": "龙火果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PETAYA",
+    "field": "description1",
+    "source": "A mysterious Berry. It is rumored to",
+    "translation": "龙火果是一种神秘的树果。有传言",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PETAYA",
+    "field": "description2",
+    "source": "contain the power of all living things.",
+    "translation": "说，它蕴藏着所有生物的力量。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PINAP",
+    "field": "name",
+    "source": "Pinap",
+    "translation": "凰梨果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PINAP",
+    "field": "description1",
+    "source": "Weak against wind and cold.",
+    "translation": "剥下带着酸味的皮后，将里边有辣味",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "PINAP",
+    "field": "description2",
+    "source": "The fruit is spicy and the skin, sour.",
+    "translation": "的果肉磨成泥，据说也可以做成药材。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "POMEG",
+    "field": "name",
+    "source": "Pomeg",
+    "translation": "榴石果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "POMEG",
+    "field": "description1",
+    "source": "However much it is watered,",
+    "translation": "剥开厚厚的皮，就有大量的果肉迸出。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "POMEG",
+    "field": "description2",
+    "source": "it only grows up to six Berries.",
+    "translation": "稍微的甜辣滋味，是属于大人的味道。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "QUALOT",
+    "field": "name",
+    "source": "Qualot",
+    "translation": "比巴果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "QUALOT",
+    "field": "description1",
+    "source": "Loves water. Grows strong even in",
+    "translation": "即使是在长期下雨且湿气很重的",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "QUALOT",
+    "field": "description2",
+    "source": "locations with constant rainfall.",
+    "translation": "土地上，这种树果也能茁壮成长。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "RABUTA",
+    "field": "name",
+    "source": "Rabuta",
+    "translation": "茸丹果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "RABUTA",
+    "field": "description1",
+    "source": "A rare variety that is overgrown with",
+    "translation": "虽然味道较苦，但生长在表皮的毛能",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "RABUTA",
+    "field": "description2",
+    "source": "hair. It is quite bitter.",
+    "translation": "清洁肠胃，建议宝可梦连皮吃下。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "RAWST",
+    "field": "name",
+    "source": "Rawst",
+    "translation": "莓莓果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "RAWST",
+    "field": "description1",
+    "source": "If the leaves grow long and curly,",
+    "translation": "在同种树果之中，树叶较长且卷曲",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "RAWST",
+    "field": "description2",
+    "source": "the Berry seems to grow very bitter.",
+    "translation": "会有比较重的苦味。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "RAZZ",
+    "field": "name",
+    "source": "Razz",
+    "translation": "蔓莓果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "RAZZ",
+    "field": "description1",
+    "source": "The red Berry tastes slightly spicy.",
+    "translation": "外层的红色颗粒含有一点辣味，",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "RAZZ",
+    "field": "description2",
+    "source": "It grows quickly in just four hours.",
+    "translation": "中间的部分则有涩味。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "RINDO",
+    "field": "name",
+    "source": "Rindo",
+    "translation": "罗子果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "RINDO",
+    "field": "description1",
+    "source": "This berry has a vegetable-like flavor,",
+    "translation": "它特有的青草味会令一些宝可梦抵触。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "RINDO",
+    "field": "description2",
+    "source": "but is rich in health-promoting fiber.",
+    "translation": "不过，其富含的纤维对身体有益。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "ROSELI",
+    "field": "name",
+    "source": "Roseli",
+    "translation": "洛玫果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "ROSELI",
+    "field": "description1",
+    "source": "In nature, they grow in wide rings",
+    "translation": "在浓郁的甜味中，能品尝出些微苦涩。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "ROSELI",
+    "field": "description2",
+    "source": "for reasons that are still unknown.",
+    "translation": "也非常适合用来给料理添加独特风味。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "ROWAP",
+    "field": "name",
+    "source": "Rowap",
+    "translation": "雾莲果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "ROWAP",
+    "field": "description1",
+    "source": "People once worked top-shaped pieces",
+    "translation": "如果剥下果肉，它的形状就像一个个",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "ROWAP",
+    "field": "description2",
+    "source": "of this berry free to use as toys.",
+    "translation": "的陀螺。以前的人会把它当玩具",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "SALAC",
+    "field": "name",
+    "source": "Salac",
+    "translation": "沙鳞果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "SALAC",
+    "field": "description1",
+    "source": "A mysterious Berry. It is rumored to",
+    "translation": "沙鳞果是一种神秘的树果。有传言",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "SALAC",
+    "field": "description2",
+    "source": "contain the power of the sky.",
+    "translation": "说，它蕴藏着天空的力量。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "SHUCA",
+    "field": "name",
+    "source": "Shuca",
+    "translation": "腰木果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "SHUCA",
+    "field": "description1",
+    "source": "The sweet pulp has just the hint of a",
+    "translation": "在甜味十足的果肉中，能微微感觉",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "SHUCA",
+    "field": "description2",
+    "source": "a hard-edged and fragrant bite to it.",
+    "translation": "到硬度和香味。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "SITRUS",
+    "field": "name",
+    "source": "Sitrus",
+    "translation": "文柚果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "SITRUS",
+    "field": "description1",
+    "source": "Closely related to Oran. The large",
+    "translation": "原本跟橙橙果属于同类，之后才被区",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "SITRUS",
+    "field": "description2",
+    "source": "Berry has a well-rounded flavor.",
+    "translation": "分出来。比橙橙果大，味道也更柔和。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "SPELON",
+    "field": "name",
+    "source": "Spelon",
+    "translation": "刺角果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "SPELON",
+    "field": "description1",
+    "source": "The vividly red Berry is very spicy.",
+    "translation": "果实味道极辣，即使不是火属性的",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "SPELON",
+    "field": "description2",
+    "source": "Its warts secrete a spicy substance.",
+    "translation": "宝可梦吃上一口也会想喷出火焰。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "STARF",
+    "field": "name",
+    "source": "Starf",
+    "translation": "星桃果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "STARF",
+    "field": "description1",
+    "source": "So strong, it was abandoned at the",
+    "translation": "由于力量过于强大，而被丢弃在",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "STARF",
+    "field": "description2",
+    "source": "world's edge. Considered a mirage.",
+    "translation": "世界尽头的幻之树果。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "TAMATO",
+    "field": "name",
+    "source": "Tamato",
+    "translation": "茄番果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "TAMATO",
+    "field": "description1",
+    "source": "The Berry is lip-bendingly spicy.",
+    "translation": "果实硕大且辛辣，在寒冷的季节",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "TAMATO",
+    "field": "description2",
+    "source": "It takes time to grow.",
+    "translation": "食用，可以让身体暖和起来。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "TANGA",
+    "field": "name",
+    "source": "Tanga",
+    "translation": "扁樱果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "TANGA",
+    "field": "description1",
+    "source": "It grows a flower at the tip that lures",
+    "translation": "这种树果会在风中摇摆前端延伸而出",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "TANGA",
+    "field": "description2",
+    "source": "Bug Pokémon with its stringy petals.",
+    "translation": "的花瓣，以此来吸引虫宝可梦。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "WACAN",
+    "field": "name",
+    "source": "Wacan",
+    "translation": "烛木果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "WACAN",
+    "field": "description1",
+    "source": "Energy drawn from lightning strikes",
+    "translation": "地面落雷的能量让这种树果生",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "WACAN",
+    "field": "description2",
+    "source": "makes this Berry grow big and rich.",
+    "translation": "长得又大又饱满。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "WATMEL",
+    "field": "name",
+    "source": "Watmel",
+    "translation": "瓜西果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "WATMEL",
+    "field": "description1",
+    "source": "A huge Berry, with some over 20",
+    "translation": "口味极致甘甜，犹如大自然的恩惠。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "WATMEL",
+    "field": "description2",
+    "source": "inches discovered. Exceedingly sweet.",
+    "translation": "非常巨大，曾被发现超过50CM的果实。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "WEPEAR",
+    "field": "name",
+    "source": "Wepear",
+    "translation": "西梨果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "WEPEAR",
+    "field": "description1",
+    "source": "The flower is small and white. It has a",
+    "translation": "这种果实又苦又酸，似乎有助于肠胃",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "WEPEAR",
+    "field": "description2",
+    "source": "delicate balance of bitter and sour.",
+    "translation": "消化。会开出美丽的白色花朵。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "WIKI",
+    "field": "name",
+    "source": "Wiki",
+    "translation": "异奇果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "WIKI",
+    "field": "description1",
+    "source": "The Berry is said to have grown lumpy",
+    "translation": "据说外层有凸起的颗粒，是为了方便",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "WIKI",
+    "field": "description2",
+    "source": "to help Pokémon grip it.",
+    "translation": "宝可梦携带，以此来扩展繁殖范围。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "YACHE",
+    "field": "name",
+    "source": "Yache",
+    "translation": "番荔果",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "YACHE",
+    "field": "description1",
+    "source": "This Berry has a refreshing dry and",
+    "translation": "涩味与酸味融合得恰到好处，带来",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  },
+  {
+    "file": "src/berry.c",
+    "berryId": "YACHE",
+    "field": "description2",
+    "source": "sour flavor. Tastes better chilled.",
+    "translation": "清爽的滋味。冷藏后口味更佳。",
+    "provenance": "remotes/zh/master:src/berry.c; matched Berry ID and checked against src/data/items.h"
+  }
+]

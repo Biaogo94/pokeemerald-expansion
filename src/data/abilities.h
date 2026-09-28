@@ -873,11 +873,11 @@ const struct AbilityInfo gAbilitiesInfo[ABILITIES_COUNT] =
 
     [ABILITY_SNOW_WARNING] =
     {
-        .name = _("SNOW WARNING"),
+        .name = _("降雪"),
     #if B_SNOW_WARNING >= GEN_9
-        .description = COMPOUND_STRING("Summons snow in battle."),
+        .description = COMPOUND_STRING("在对战中降下大雪。"),
     #else
-        .description = COMPOUND_STRING("Summons hail in battle."),
+        .description = COMPOUND_STRING("在对战中降下冰雹。"),
     #endif
         .aiRating = 8,
     },

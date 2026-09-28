@@ -126,22 +126,22 @@ EcruteakCity_Text_Silver2:
 	.string "区区的舞姬......？！$"
 
 EcruteakCity_Text_Silver3:
-	.string "{RIVAL}: You were watching me,\n"
-	.string "{PLAYER}...\p"
-	.string "Yeah, that's right!\p"
-	.string "I never thought defeating five\n"
-	.string "KIMONO GIRLS would be so hard...\p"
-	.string "I got beaten to a pulp...\p"
-	.string "...\p"
-	.string "You must have come here for the\n"
-	.string "same reason, right?\p"
-	.string "Don't get cocky just because you\n"
-	.string "defeated TEAM ROCKET!\p"
-	.string "These KIMONO GIRLS are insanely\n"
-	.string "strong.\p"
-	.string "See if you can defeat them.\p"
-	.string "But I'm not going back, I don't\n"
-	.string "want to see you win.$"
+	.string "{RIVAL}：\n"
+	.string "{PLAYER}......你一\l"
+	.string "直在看着我吧......\p"
+	.string "哼，你说得没错！\p"
+	.string "我真没想到要打败那5个舞妓居然会\n"
+	.string "这么难......\p"
+	.string "我被彻底打得落花流水......\p"
+	.string "......\p"
+	.string "你也是为了同样的目的才来这里的\n"
+	.string "吧？\p"
+	.string "可别以为打倒了火箭队就能得意忘形\n"
+	.string "了！\p"
+	.string "那些舞妓可是强得离谱啊。\p"
+	.string "有本事你就去试试看能不能赢她们。\p"
+	.string "但我绝不会回去，我可不想看到你\n"
+	.string "赢！$"
 
 EcruteakCity_EventScript_Gramps::
 	lock
@@ -288,28 +288,30 @@ EcruteakCity_Text_Vulpix:
 
 
 EcruteakCity_Text_UnusedMissingDaughter:
-	.string "Oh, no. Oh, no…\p"
-	.string "My daughter is missing.\p"
-	.string "No… She couldn't have gone to the\n"
-	.string "BURNED TOWER.\p"
-	.string "I told her not to go near it…\p"
-	.string "People seem to disappear there…\p"
-	.string "Oh, what should I do…?$"
+	.string "糟糕，这可怎么办......\p"
+	.string "我的女儿不见了。\p"
+	.string "不会吧......她总不可能跑到\n"
+	.string "烧焦塔去了吧。\p"
+	.string "我跟她说过绝对不能靠近那里的.\n"
+	.string ".....\p"
+	.string "听说那里经常有人失踪啊....\n"
+	.string "..\p"
+	.string "唉，我到底该怎么办才好....\n"
+	.string "..？$"
 
 EcruteakCity_Text_Gramps1:
-	.string "ECRUTEAK used to have two towers:\n"
-	.string "one each in the east and west.$"
+	.string "圆朱市过去曾有两座塔，东西各耸立\n"
+	.string "着一座。$"
 
 EcruteakCity_Text_Gramps2:
-	.string "Ah, child. Have you learned to\n"
-	.string "dance like the KIMONO GIRLS?\p"
-	.string "If you go to their DANCE THEATER,\n"
-	.string "an odd old man will give you\l"
-	.string "something nice, I hear.$"
+	.string "啊，孩子。你学会像舞妓那样跳舞了\n"
+	.string "吗？\p"
+	.string "听说如果你去她们的歌舞剧场，有个\n"
+	.string "奇怪的老爷爷会送你一样好东西呢。$"
 
 EcruteakCity_Text_Lass1:
-	.string "I'm going to practice at the DANCE\n"
-	.string "THEATER. Care to join me?$"
+	.string "我正要去歌舞剧场练习呢。要跟我一\n"
+	.string "起去吗？$"
 
 EcruteakCity_Text_Lass2:
 	.string "曾经伫立在这里的塔......\p"
@@ -317,47 +319,40 @@ EcruteakCity_Text_Lass2:
 	.string "听说现在里面到处都是幽灵呢。$"
 
 EcruteakCity_Text_Lass2_ReleasedBeasts:
-	.string "Three big POKéMON ran off in different\n"
-	.string "directions. What were they?$"
+	.string "3只巨大的宝可梦分别朝着不同的方\n"
+	.string "向跑走了。它们到底是什么呢？$"
 
 EcruteakCity_Text_Fisher:
-	.string "I heard a rumor about OLIVINE\n"
-	.string "LIGHTHOUSE.\p"
-	.string "The POKéMON that serves as the\n"
-	.string "beacon fell ill. Sounds like they\l"
-	.string "are in trouble.$"
+	.string "我听到了关于浅黄灯塔的传闻。\p"
+	.string "据说作为灯标的宝可梦生病了，看来\n"
+	.string "他们遇到了大麻烦啊。$"
 
 EcruteakCity_Text_Fisher_JasmineReturned:
-	.string "The POKéMON at OLIVINE LIGHTHOUSE\n"
-	.string "has been cured.\p"
-	.string "Boats can safely sail out to sea at\n"
-	.string "night again.$"
+	.string "浅黄灯塔的宝可梦已经痊愈了。\p"
+	.string "船只在夜晚也能重新安全地出海了。$"
 
 EcruteakCity_Text_Youngster:
-	.string "I hear POKéMON are rampaging at the\n"
-	.string "LAKE OF RAGE. I'd like to see that.$"
+	.string "听说愤怒之湖有宝可梦在暴走呢。我\n"
+	.string "真想亲眼去看一看。$"
 
 EcruteakCity_Text_Gramps3:
-	.string "In the distant past…\p"
-	.string "This tower burned in a fire. Three\n"
-	.string "nameless POKéMON perished in it.\p"
-	.string "A rainbow-colored POKéMON descended\n"
-	.string "from the sky and resurrected them…\p"
-	.string "It's a legend that has been passed\n"
-	.string "down by ECRUTEAK GYM LEADERS.\p"
-	.string "Me?\p"
-	.string "I was a trainer way back when.\n"
-	.string "Hohoho!$"
+	.string "在很久很久以前......\p"
+	.string "这座塔遭遇了一场大火，有3只无名\n"
+	.string "的宝可梦在火灾中丧命了。\p"
+	.string "一只彩虹色的宝可梦从天而降，赋予\n"
+	.string "了它们新生......\p"
+	.string "这是圆朱道馆馆主代代相传的传说。\p"
+	.string "你问我？\p"
+	.string "老夫年轻时也曾是一名训练家呢。吼\n"
+	.string "吼吼！$"
 
 EcruteakCity_Text_SageGym:
-	.string "Gym Leader MORTY is not here right\n"
-	.string "now. You may find him at the\l"
-	.string "BURNED TOWER.$"
+	.string "道馆馆主小松现在不在这里。你或许\n"
+	.string "能在烧焦塔找到他。$"
 
 EcruteakCity_Text_Sign:
-	.string "ECRUTEAK CITY\n"
-	.string "A Historical City\p"
-	.string "Where the Past Meets the Present$"
+	.string "圆朱市历史悠久的城镇\p"
+	.string "过去与现在交汇之处$"
 
 EcruteakCity_Text_TinTowerSign:
 	.string "铃铛塔\p"
@@ -368,9 +363,8 @@ EcruteakCity_Text_OfficeSign:
 	.string "无资格者严禁入内。$"
 
 EcruteakCity_Text_GymSign:
-	.string "ECRUTEAK CITY POKéMON GYM\n"
-	.string "LEADER: MORTY\p"
-	.string "The Mystic Seer of the Future$"
+	.string "圆朱市宝可梦道馆馆主：小松\p"
+	.string "能够看透未来的千里眼$"
 
 EcruteakCity_Text_DanceTheaterSign:
 	.string "圆朱歌舞剧场$"

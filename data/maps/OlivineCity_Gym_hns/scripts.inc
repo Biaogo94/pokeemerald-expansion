@@ -268,16 +268,14 @@ OlivineCity_Gym_EventScript_Jasmine_Defeated::
 
 
 OlivineCity_Gym_Text_JasmineSteelTypeIntro:
-	.string "…Thank you for your help at the\n"
-	.string "LIGHTHOUSE…\p"
-	.string "But this is different.\n"
-	.string "Please allow me to introduce myself.\p"
-	.string "I am JASMINE, a GYM LEADER.\n"
-	.string "I use the STEEL-type.\p"
-	.string "…Do you know about the STEEL-type?\p"
-	.string "It's a type that was only recently\n"
-	.string "discovered.\p"
-	.string "…Um… May I begin?$"
+	.string "……谢谢你在灯塔帮了我。\p"
+	.string "不过，对战是另一回事。请容我自我\n"
+	.string "介绍。\p"
+	.string "我是道馆馆主阿蜜，擅长使用钢属性\n"
+	.string "宝可梦。\p"
+	.string "……你知道钢属性吗？\p"
+	.string "那是近来才发现的属性。\p"
+	.string "……那么，可以开始了吗？$"
 
 OlivineCity_Gym_Text_JasmineBetterTrainer:
 	.string "......无论是实力还是温柔的\n"
@@ -294,19 +292,19 @@ OlivineCity_Gym_Text_JasmineBadgeSpeech:
 	.string "也请收下吧......$"
 
 OlivineCity_Gym_Text_JasmineIronTailSpeech:
-	.string "…You could use that TM to teach\n"
-	.string "IRON TAIL.$"
+	.string "......使用那张招式学习器，\n"
+	.string "可以学会“铁尾”。$"
 
 OlivineCity_Gym_Text_JasmineGoodLuck:
 	.string "那个......虽然不知道该怎么\n"
 	.string "说，但请加油哦......$"
 
 OlivineCity_Gym_Text_JasmineRematchText:
-	.string "…Congratulations, JOHTO CHAMPION.\p"
-	.string "You have become so strong…\p"
-	.string "I wonder if I have improved.\p"
-	.string "Would you like to test that?\p"
-	.string "Want to have a rematch with me?$"
+	.string "……恭喜你，城都的冠军。\p"
+	.string "你已经变得这么强了……\p"
+	.string "不知道我有没有进步。\p"
+	.string "愿意检验一下吗？\p"
+	.string "再和我较量一场，好吗？$"
 
 OlivineCity_Gym_Text_JasmineRematchDefeatText:
 	.string "......无论是实力还是温柔的\n"
@@ -330,8 +328,8 @@ OlivineCity_Gym_Text_GymStatue:
 	.string "浅葱市宝可梦道馆$"
 
 OlivineCity_Gym_Text_GymStatueCertified:
-	.string "OLIVINE CITY POKéMON GYM\p"
-	.string "JASMINE'S CERTIFIED TRAINERS:\n"
+	.string "浅葱市宝可梦道馆\p"
+	.string "馆主阿蜜认证的训练家：\n"
 	.string "{PLAYER}$"
 
 OlivineCity_Gym_EventScript_Jasmine_Trade::

@@ -265,37 +265,33 @@ MahoganyTown_Text_RageCandyBarMerchantRefused:
     .string "哎，那就算了吧......$"
 
 MahoganyTown_Text_RageCandyBarMerchantSoldOut:
-    .string "RAGECANDYBAR's sold out.\p"
-    .string "I'm packing up. Don't bother me,\n"
-    .string "kiddo.$"
+    .string "愤怒之馒头卖光了。\p"
+    .string "我正在收摊呢。别来烦我，小鬼头。$"
 
 MahoganyTown_Text_Gramps:
-    .string "Are you off to see the GYARADOS\n"
-    .string "rampage at the LAKE?$"
+    .string "你也是去湖里看狂暴的暴鲤龙吗？$"
 
 MahoganyTown_Text_GrampsClearedRocketHideout:
-    .string "MAGIKARP have returned to LAKE\n"
-    .string "OF RAGE.\p"
-    .string "That should be good news for the\n"
-    .string "anglers there.$"
+    .string "鲤鱼王回到愤怒之湖了。\p"
+    .string "这对那里的钓鱼者来说应该是个好消\n"
+    .string "息吧。$"
 
 MahoganyTown_Text_Fisher:
-    .string "Since you came this far, take the\n"
-    .string "time to do some sightseeing.\p"
-    .string "You should head north and check\n"
-    .string "out LAKE OF RAGE right now.$"
+    .string "既然好不容易来了一趟，就顺便观光\n"
+    .string "一下吧。\p"
+    .string "你现在应该往北去愤怒之湖看看。$"
 
 MahoganyTown_Text_Lass:
-    .string "Visit Grandma's shop. She sells\n"
-    .string "stuff that nobody else has.$"
+    .string "去老奶奶的店里逛逛吧。她卖的东西\n"
+    .string "别处可买不到呢。$"
 
 MahoganyTown_Text_Sign:
     .string "卡吉镇\p"
     .string "欢迎来到忍者之里$"
 
 MahoganyTown_Text_RagecandybarSign:
-    .string "While visiting MAHOGANY TOWN, try\n"
-    .string "a RAGECANDYBAR!$"
+    .string "来到卡吉镇，别忘了尝尝愤怒之馒\n"
+    .string "头！$"
 
 MahoganyTown_Text_GymSign:
     .string "卡吉镇宝可梦道馆\p"
@@ -303,17 +299,13 @@ MahoganyTown_Text_GymSign:
     .string "传授冬之严冬的老师$"
 
 ElmPhoneRadioTowerRocketTakeoverText:
-	.string "PROF.ELM: {PLAYER}, how are\n"
-	.string "things going?\p"
-	.string "I called because something weird\n"
-	.string "is happening with the radio\l"
-	.string "broadcasts.\p"
-	.string "They were talking about TEAM\n"
-	.string "ROCKET.\p"
-	.string "{PLAYER}, do you know anything\n"
-	.string "about it?\p"
-	.string "Maybe TEAM ROCKET has returned.\n"
-	.string "No, that just can't be true.\p"
-	.string "Sorry to bug you.\n"
-	.string "Take care!$"
+	.string "空木：{PLAYER}，最近怎么\n"
+	.string "样？\p"
+	.string "我打来是因为广播有点奇怪。\p"
+	.string "他们一直在说火箭队的事。\p"
+	.string "{PLAYER}，你知道些什么\n"
+	.string "吗？\p"
+	.string "难道火箭队又回来了？不，不可能\n"
+	.string "吧……\p"
+	.string "抱歉打扰你了。保重！$"
 

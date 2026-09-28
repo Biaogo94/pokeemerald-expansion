@@ -164,12 +164,12 @@ Route31_Text_ReadingMail:
 	.string "有了！这个就送给你吧！$"
 
 Route31_Text_DescribeRest:
-	.string "...Zzz...\p"
-	.string "...Umm... Rest!\p"
-	.string "The phrase 'recover fast' became\n"
-	.string "shortened to 'Rest,' you see?\p"
-	.string "This is a move to sleep and recover\n"
-	.string "some HP.$"
+	.string "......呼--......\p"
+	.string "......唔......睡觉！\p"
+	.string "“睡一觉就能恢复体力”，所以才叫\n"
+	.string "“睡觉”，明白吗？\p"
+	.string "这是一个在睡眠中恢复HP的招式\n"
+	.string "哦。$"
 
 Route31_Text_WrongMail:
 	.string "这封邮件不是给我的。$"

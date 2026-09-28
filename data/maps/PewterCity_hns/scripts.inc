@@ -62,19 +62,18 @@ PewterCity_Text_CooltrainerF:
 	.string "馆主使用的是岩石属性的宝可梦。$"
 
 PewterCity_Text_BugCatcher:
-	.string "At night, CLEFAIRY come out to play at\n"
-	.string "MT.MOON.\p"
-	.string "But not every night.$"
+	.string "到了晚上，皮皮们会出来在月见山玩\n"
+	.string "耍呢。\p"
+	.string "不过并不是每天晚上都会出来。$"
 
 PewterCity_Text_Gramps:
-	.string "Ah, you came all the way out here from\n"
-	.string "JOHTO?\p"
-	.string "That brings back memories. When I was\n"
-	.string "young, I went to JOHTO to train.\p"
-	.string "You remind me so much of what I was like\n"
-	.string "as a young man.\p"
-	.string "Here. I want you to have this item I\n"
-	.string "found in JOHTO.$"
+	.string "啊，你大老远从城都地区过来吗？\p"
+	.string "真让人怀念啊。我年轻的时候，也去\n"
+	.string "城都修行过呢。\p"
+	.string "看到你，就让我想起自己年轻时的模\n"
+	.string "样。\p"
+	.string "来，这个给你。这是我在城都找到的\n"
+	.string "道具。$"
 
 PewterCity_Text_Gramps_GotSilverWing:
 	.string "去往未知的崭新之地，邂逅形形色色\n"
@@ -102,18 +101,16 @@ PewterCity_EventScript_WelcomeSign::
 	end
 
 PewterCity_Text_Sign:
-	.string "PEWTER CITY\n"
-	.string "A Stone Gray City$"
+	.string "深灰市坚若磐石的灰色之城$"
 
 PewterCity_Text_GymSign:
-	.string "PEWTER CITY POKéMON GYM\n"
-	.string "LEADER: BROCK\p"
-	.string "The Rock Solid POKéMON Trainer$"
+	.string "深灰市宝可梦道馆馆主：小刚\p"
+	.string "坚如磐石的宝可梦训练家$"
 
 PewterCity_Text_MuseumSign:
-	.string "There's a notice here…\p"
-	.string "PEWTER MUSEUM OF SCIENCE is closed for\n"
-	.string "renovations…$"
+	.string "这里贴着一张告示......\p"
+	.string "深灰科学博物馆因进行内部改装，现\n"
+	.string "暂停开放......$"
 
 PewterCity_Text_MtMoonGiftShopSign:
 	.string "这里贴着一张告示......\p"

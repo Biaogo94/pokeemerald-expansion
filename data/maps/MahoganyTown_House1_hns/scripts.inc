@@ -18,14 +18,13 @@ MahoganyTown_House1_EventScript_TeacherDuring::
 
 
 MahoganyRedGyaradosHouse_Text_BlackBelt:
-    .string "I heard that a red GYARADOS appeared\n"
-    .string "at the LAKE.\p"
-    .string "That's odd, since even ordinary\n"
-    .string "GYARADOS are rare in that lake…$"
+    .string "我听说湖里出现了红色的暴鲤龙。\p"
+    .string "这可真奇怪，因为那个湖里就连普通\n"
+    .string "的暴鲤龙都很少见呢......$"
 
 MahoganyRedGyaradosHouse_Text_Teacher:
-    .string "My favorite radio program? I'd say\n"
-    .string "POKéMON MUSIC.$"
+    .string "我最喜欢的广播节目？那当然是宝可\n"
+    .string "梦音乐了。$"
 
 MahoganyRedGyaradosHouse_Text_Teacher_Rockets:
     .string "我刚才在收音机里听到了笑声...\n"

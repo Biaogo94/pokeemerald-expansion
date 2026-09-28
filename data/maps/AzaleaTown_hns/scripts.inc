@@ -342,68 +342,63 @@ AzaleaTown_Movement_KurtLeave:
 	step_end
 
 AzaleaTown_Text_RivalBefore:
-	.string "…Tell me something.\p"
-	.string "Is it true that TEAM ROCKET\n"
-	.string "has returned?\p"
-	.string "What? You beat them? Hah! Quit\n"
-	.string "lying.\p"
-	.string "You're not joking?\n"
-	.string "Then let's see how good you are.$"
+	.string "......告诉我一件事。\p"
+	.string "火箭队复活了，这是真的吗？\p"
+	.string "什么？你打败了他们？哈！少吹牛\n"
+	.string "了。\p"
+	.string "你没开玩笑？那就让我看看你有多大\n"
+	.string "本事。$"
 
 AzaleaTown_Text_RivalWin:
-	.string "…Humph! Useless POKéMON!\p"
-	.string "Listen, you. You only won because\n"
-	.string "my POKéMON were weak.$"
+	.string "......哼！没用的宝可梦！\p"
+	.string "听好了。你赢只是因为我的宝可梦太\n"
+	.string "弱了。$"
 
 AzaleaTown_Text_RivalAfter:
-	.string "I hate the weak.\p"
-	.string "POKéMON, trainers. It doesn't\n"
-	.string "matter who or what.\p"
-	.string "I'm going to be strong and wipe\n"
-	.string "out the weak.\p"
-	.string "That goes for TEAM ROCKET too.\p"
-	.string "They act big and tough in a group.\p"
-	.string "But get them alone, and they're weak.\n"
-	.string "I hate them all.\p"
-	.string "You stay out of my way. A weakling\n"
-	.string "like you is only a distraction.$"
+	.string "我讨厌弱者。\p"
+	.string "不管是宝可梦，还是训练家，什么都\n"
+	.string "一样。\p"
+	.string "我要变强，然后把弱者全部消灭。\p"
+	.string "火箭队也是一样。\p"
+	.string "聚在一起的时候人多势众，神气活\n"
+	.string "现。\p"
+	.string "落单之后就弱得不堪一击。我讨厌他\n"
+	.string "们所有人。\p"
+	.string "别挡我的路。像你这样的弱者只会碍\n"
+	.string "手碍脚。$"
 
 AzaleaTown_Text_RivalLoss:
 	.string "......哼！我就知道你在说谎\n"
 	.string "。$"
 
 AzaleaTown_Text_Rocket1:
-	.string "It's unsafe to go in there,\n"
-	.string "so I'm standing guard.\p"
-	.string "Aren't I a good Samaritan?$"
+	.string "里面很危险，所以我在站岗。\p"
+	.string "我是不是很热心肠？$"
 
 AzaleaTown_Text_Rocket2:
-	.string "Do you know about SLOWPOKETAIL?\n"
-	.string "I heard it's tasty!\p"
-	.string "Aren't you glad I told you that?$"
+	.string "你知道呆呆兽之尾吗？听说非常美味\n"
+	.string "哦！\p"
+	.string "听到这个很开心吧？$"
 
 AzaleaTown_Text_GrampsBefore:
-	.string "The SLOWPOKE have disappeared\n"
-	.string "from town…\p"
-	.string "I heard their TAILS are being\n"
-	.string "sold somewhere.$"
+	.string "镇上的呆呆兽都消失了......\p"
+	.string "听说有人在某个地方贩卖它们的尾\n"
+	.string "巴。$"
 
 AzaleaTown_Text_GrampsAfter:
-	.string "The SLOWPOKE have returned.\p"
-	.string "Knowing them, they could've just\n"
-	.string "been goofing off somewhere.$"
+	.string "呆呆兽们回来了。\p"
+	.string "就凭它们的性子，说不定刚才只是在\n"
+	.string "哪儿偷懒发呆呢。$"
 
 AzaleaTown_Text_Teacher:
 	.string "你是来找钢铁制作精灵球的吗？\p"
 	.string "很多人都是为此而来的。$"
 
 AzaleaTown_Text_Youngster:
-	.string "Cut through AZALEA and you'll be\n"
-	.string "in ILEX FOREST.\p"
-	.string "But these skinny trees make it\n"
-	.string "impossible to get through.\p"
-	.string "The CHARCOAL MAN's POKéMON\n"
-	.string "can CUT down trees.$"
+	.string "穿过桧皮镇，你就会到达栎树林。\p"
+	.string "但是那些细树让人根本过不去。\p"
+	.string "炭窑师傅的宝可梦能用居合斩砍倒那\n"
+	.string "些树。$"
 
 AzaleaTown_Text_Slowpoke1:
 	.string "呆呆兽：......\p"
@@ -418,23 +413,19 @@ AzaleaTown_Text_Kurt2:
 	.string "！$"
 
 AzaleaTown_Text_Kurt3:
-	.string "Could you go see why ILEX FOREST\n"
-	.string "is so restless?$"
+	.string "你能去看看栎树林为什么骚动不安\n"
+	.string "吗？$"
 
 AzaleaTown_Text_Sign:
-	.string "AZALEA TOWN\n"
-	.string "Where People and POKéMON Live in\l"
-	.string "Happy Harmony.$"
+	.string "桧皮镇人与宝可梦亲密共存的城镇。$"
 
 AzaleaTown_Text_KurtsHouseSign:
 	.string "钢铁的家$"
 
 AzaleaTown_Text_GymSign:
-	.string "AZALEA TOWN\n"
-	.string "POKéMON GYM\p"
-	.string "LEADER: BUGSY\p"
-	.string "The Walking Bug POKéMON\n"
-	.string "Encyclopedia$"
+	.string "桧皮镇宝可梦道馆\p"
+	.string "馆主：阿笔\p"
+	.string "会行走的虫属性宝可梦百科全书$"
 
 AzaleaTown_Text_SlowpokeWellSign:
 	.string "呆呆兽之井\p"

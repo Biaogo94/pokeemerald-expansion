@@ -5,14 +5,14 @@ gText_PkmnTransferredSomeonesPC::
 	.string "”里。$"
 
 gText_PkmnTransferredLanettesPC::
-	.string "{STR_VAR_2} was transferred to\n"
+	.string "已将{STR_VAR_2}传送到"
 #if IS_FRLG || IS_HNS
-	.string "BILL'S PC.\p"
+	.string "正辉的电脑上，\p"
 #else
-	.string "LANETTE'S PC.\p"
+	.string "真由美的电脑上，\p"
 #endif
-	.string "It was placed in \n"
-	.string "BOX “{STR_VAR_1}.”$"
+	.string "位于盒子“\n"
+	.string "{STR_VAR_1}”里。“$"
 
 gText_PkmnTransferredSomeonesPCBoxFull::
 	.string "某人的电脑上的盒子“\n"
@@ -21,14 +21,14 @@ gText_PkmnTransferredSomeonesPCBoxFull::
 	.string "“{STR_VAR_1}”里。$"
 
 gText_PkmnTransferredLanettesPCBoxFull::
-	.string "BOX “{STR_VAR_3}” on\n"
+	.string "盒子“{STR_VAR_3}”("
 #if IS_FRLG || IS_HNS
-	.string "BILL'S PC was full.\p"
+	.string "正辉的电脑)已经满了。\p"
 #else
-	.string "LANETTE'S PC was full.\p"
+	.string "真由美的电脑)已经满了。\p"
 #endif
-	.string "{STR_VAR_2} was transferred to\n"
-	.string "BOX “{STR_VAR_1}.”$"
+	.string "{STR_VAR_2}被传送到了\n"
+	.string "盒子“{STR_VAR_1}”。$"
 
 gText_PkmnSentToPCAfterCatch::
 	.string "已将{STR_VAR_2}传送到\n"

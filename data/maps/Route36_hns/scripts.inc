@@ -253,11 +253,11 @@ Route36_Text_RockSmashGuy2:
 	.string "真令人佩服！这个就送给你吧。$"
 
 Route36_Text_RockSmashGuy3:
-	.string "That happens to be ROCK SMASH.\p"
-	.string "You can shatter rocks with just a\n"
-	.string "single well-aimed smack.\p"
-	.string "If any rocks are in your way,\n"
-	.string "just smash 'em up!$"
+	.string "那正是招式“碎岩”。\p"
+	.string "只要看准了用力一击，就能把岩石打\n"
+	.string "得粉碎。\p"
+	.string "要是有岩石挡路，就尽管把它砸碎\n"
+	.string "吧！$"
 
 Route36_Text_OddTree:
 	.string "一棵奇怪的树挡住了去路。$"
@@ -327,11 +327,9 @@ Route36_Text_Tips1:
 	.string "差异会变得越发明显。$"
 
 Route36_Text_Tips2:
-	.string "TRAINER TIPS\n"
-	.string "Use DIG to return to the entrance of\n"
-	.string "any place.\p"
-	.string "It is convenient for exploring\n"
-	.string "caves and other landmarks.$"
+	.string "宝可梦指南使用“挖洞”可以瞬间回\n"
+	.string "到任何地方的入口。\p"
+	.string "在探索洞窟等迷宫时非常方便。$"
 
 Route36_Text_AlanRegister:
 	.string "可恶，我明明每天苦读五个小时呢。\p"
@@ -357,5 +355,5 @@ Route36_Text_AlanGaveItem:
 	.string "的！$"
 
 Route36_Text_AlanNoRoom:
-	.string "Hmm, your BAG is full.\p"
-	.string "Come back when you have room.$"
+	.string "嗯，你的包包装满了。\p"
+	.string "腾出地方再来找我吧。$"

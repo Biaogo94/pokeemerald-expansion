@@ -115,14 +115,14 @@ BillHouse_Text_RecordedBillsNumber:
     .string "号码。$"
 
 BillHouse_Text_SisterRefusedNumber:
-    .string "My brother made the PC POKéMON\n"
-    .string "storage system.\p"
-    .string "I was going to give you BILL's\n"
-    .string "number…$"
+    .string "我哥哥制作了电脑的宝可梦存储系\n"
+    .string "统。\p"
+    .string "我本来还想把正辉的电话号码给你\n"
+    .string "的......$"
 
 BillHouse_Text_SisterPhoneFull:
     .string "无法记录更多的电话号码了。$"
 
 BillHouse_Text_SisterStorageSystem:
-    .string "My big brother BILL made the PC\n"
-    .string "POKéMON storage system.$"
+    .string "我哥哥正辉制作了电脑里的宝可梦存\n"
+    .string "储系统。$"

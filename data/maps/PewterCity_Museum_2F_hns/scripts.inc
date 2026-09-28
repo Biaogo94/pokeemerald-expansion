@@ -23,18 +23,15 @@ PewterCity_Museum_2F_EventScript_Meteor::
 	end
 
 PewterCity_Museum_2F_Text_Nerd:
-	.string "They say that meteorites struck\n"
-	.string "BIRTH ISLAND.\p"
-	.string "We would love to display them here\n"
-	.string "in our museum, but...\p"
-	.string "These meteorites are said to emit\n"
-	.string "strange energy and cannot be\l"
-	.string "carried away...$"
+	.string "据说曾有陨石坠落在诞生之岛。\p"
+	.string "我们原本很想把它们陈列在博物馆\n"
+	.string "里，可是......\p"
+	.string "据说那些陨石散发着奇特的能量，根\n"
+	.string "本无法搬走......$"
 
 PewterCity_Museum_2F_Text_AskedDaddyToCatchPikachu::
-    .string "I want a PIKACHU!\n"
-    .string "It's so cute!\p"
-    .string "I asked my daddy to catch me one!$"
+    .string "我想要一只皮卡丘！它太可爱啦！\p"
+    .string "我已经让爸爸帮我抓一只了！$"
 
 PewterCity_Museum_2F_Text_PikachuSoonIPromise::
     .string "好好好，很快就给你抓皮卡丘，我保\n"

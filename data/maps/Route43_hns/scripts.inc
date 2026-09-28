@@ -140,14 +140,13 @@ Route43_Text_FisherMarvinBeaten:
     .string "虽然输了，但我感觉心情好多啦。$"
 
 Route43_Text_FisherMarvinAfter:
-    .string "KURT's LURE BALL is the best for\n"
-    .string "catching hooked POKéMON.\p"
-    .string "It's much more effective than a\n"
-    .string "ULTRA BALL.$"
+    .string "钢铁先生制作的诱饵球最适合用来捕\n"
+    .string "捉钓上来的宝可梦了。\p"
+    .string "它比高级球还要有效得多呢。$"
 
 Route43_Text_CamperSpencerSeen:
-    .string "I can do so much with my\n"
-    .string "POKéMON--it's super-fun!$"
+    .string "我和我的宝可梦能一起做好多事--\n"
+    .string "真是太开心啦！$"
 
 Route43_Text_CamperSpencerBeaten:
     .string "输掉可一点都不好玩......$"
@@ -191,10 +190,10 @@ Route43_Sign2:
     .string "愤怒之湖 - 卡吉镇$"
 
 Route43_TrainerTips:
-    .string "TRAINER TIPS\p"
-    .string "All POKéMON have pros and cons\n"
-    .string "depending on their types.\p"
-    .string "If their types differ, a higher-\n"
-    .string "level POKéMON may lose in battle.\p"
-    .string "Learn which types are strong and\n"
-    .string "weak against your POKéMON's type.$"
+    .string "宝可梦指南\p"
+    .string "所有宝可梦的属性不同，各有优缺\n"
+    .string "点。\p"
+    .string "如果属性被克制，即使是等级高的宝\n"
+    .string "可梦也可能会在对战中落败。\p"
+    .string "熟记与自己的宝可梦属性相生相克的\n"
+    .string "克制关系吧！$"

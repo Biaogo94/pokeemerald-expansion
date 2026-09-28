@@ -22,21 +22,19 @@ PalletTown_RedsHouse_1F_EventScript_TV::
 	end
 
 RedsHouse_Text_Mom1:
-	.string "Hi!\p"
-	.string "RED's been away for a long time.\p"
-	.string "He hasn't called either, so I have\n"
-	.string "no idea where he is or what he's\l"
-	.string "been doing.\p"
-	.string "They say that no word is proof that\n"
-	.string "he's doing fine, but I do worry\l"
-	.string "about him.$"
+	.string "你好呀！\p"
+	.string "赤红已经出门好久了。\p"
+	.string "他也没打过电话，我完全不知道他现\n"
+	.string "在在哪儿，在做些什么。\p"
+	.string "虽说没有消息就是好消息，可我还是\n"
+	.string "会担心他呀。$"
 
 RedsHouse_Text_Mom2:
-	.string "I worry about RED getting hurt or\n"
-	.string "sick, but he's a boy.\p"
-	.string "I'm proud that he is doing what he\n"
-	.string "wants to do.$"
+	.string "我总担心赤红会不会受伤或是生病，\n"
+	.string "不过他毕竟是个男孩子。\p"
+	.string "能去做自己想做的事，我为他感到骄\n"
+	.string "傲。$"
 
 RedsHouse_Text_TV:
-	.string "They have programs that aren't\n"
-	.string "shown in JOHTO…$"
+	.string "正在播放城都地区看不到的电视节\n"
+	.string "目......$"

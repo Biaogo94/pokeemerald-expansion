@@ -24,27 +24,23 @@ LavenderTown_PokemonCenter_EventScript_YoungsterReturnedMachinePart::
 	end
 
 LavenderTown_PokemonCenter1F_Text_Gentleman:
-	.string "To the north of LAVENDER is ROCK\n"
-	.string "TUNNEL. Go through it to get to\l"
-	.string "the POWER PLANT.$"
+	.string "紫苑镇的北边就是岩山隧道。穿过去\n"
+	.string "就能到达发电厂了。$"
 
 LavenderTown_PokemonCenter1F_Text_Teacher:
-	.string "There's a radio program that plays\n"
-	.string "POKé FLUTE music.\p"
-	.string "Oh? Ah, your radio needs a RADIO\n"
-	.string "UPGRADE to tune into it.\p"
-	.string "Maybe the RADIO STATION here\n"
-	.string "in town can provide you one?$"
+	.string "有个广播节目会播放宝可梦之笛的音\n"
+	.string "乐。\p"
+	.string "哦？啊，你的收音机需要扩展卡才能\n"
+	.string "收听到那个频道。\p"
+	.string "镇上的广播电台说不定能给你一张？$"
 
 LavenderTown_PokemonCenter1F_Text_Youngster:
-	.string "If the POWER PLANT isn't running,\n"
-	.string "the MAGNET TRAIN won't run either…\p"
-	.string "It also means the RADIO STATION\n"
-	.string "can't broadcast…$"
+	.string "如果发电厂不运转，磁悬浮列车就跑\n"
+	.string "不起来......\p"
+	.string "而且广播电台也没法进行广播了.\n"
+	.string ".....$"
 
 LavenderTown_PokemonCenter1F_Text_Youngster_ReturnedMachinePart:
-	.string "The DIRECTOR of the RADIO STATION\n"
-	.string "sure was happy.\p"
-	.string "He said they're back on the air\n"
-	.string "because the POWER PLANT is running\l"
-	.string "smoothly again.$"
+	.string "广播电台的台长当时可高兴坏了。\p"
+	.string "他说因为发电厂恢复正常运转，他们\n"
+	.string "终于能重新开播了。$"

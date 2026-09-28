@@ -145,19 +145,17 @@ MahoganyTown_Gym_Text_ReceivedBadge:
     .string "{PLAYER}获得了冰之徽章！$"
 
 MahoganyTown_Gym_Text_GlacierBadgeSpeech:
-    .string "That BADGE will raise the SPECIAL\n"
-    .string "ATTACK of POKéMON.\p"
-    .string "It also lets your POKéMON use\n"
-    .string "WHIRLPOOL to get across\l"
-    .string "real whirlpools.\p"
-    .string "And this… This is a gift from me!$"
+    .string "那枚徽章能提高宝可梦的特攻。\p"
+    .string "它还能让你的宝可梦使用“潮旋”，\n"
+    .string "穿过现实中的旋涡。\p"
+    .string "还有这个......这是老夫送你\n"
+    .string "的礼物！$"
 
 MahoganyTown_Gym_Text_HailSpeech:
-    .string "That TM contains HAIL.\p"
-    .string "It inflicts damage every\n"
-    .string "turn for 5 turns.\p"
-    .string "It demonstrates the harshness\n"
-    .string "of winter.$"
+    .string "那张招式学习器里面是“冰雹”。\p"
+    .string "它能在5回合内，每回合都对对手造\n"
+    .string "成伤害。\p"
+    .string "充分展现了冬天的严苛与无情。$"
 
 MahoganyTown_Gym_Text_CherishPokemon:
     .string "当冰雪消融，春天就会来临。\p"

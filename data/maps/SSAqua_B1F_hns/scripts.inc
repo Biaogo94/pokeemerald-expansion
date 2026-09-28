@@ -43,33 +43,31 @@ SSAqua_B1F_EventScript_Barfcan::
 	end
 
 SSAqua_B1F_Text_BarfCan:
-    .string "Yuck!\n"
-    .string "Shouldn't have looked!$"
+    .string "呃！真不该看的！$"
 
 SSAqua_B1F_Text_FastShipOnDutySailor:
-	.string "Hey, kid. Could I get you to\n"
-	.string "look for my buddy?\p"
-	.string "He's goofing off somewhere,\n"
-	.string "that lazy bum!\p"
-	.string "I want to go find him, but I'm\n"
-	.string "on duty right now.$"
+	.string "喂，小朋友。能帮我找找我的同伴\n"
+	.string "吗？\p"
+	.string "那个懒骨头，不知道又溜去哪里摸鱼\n"
+	.string "了！\p"
+	.string "虽然我也想去找他，但我现在还在当\n"
+	.string "班呢。$"
 
 SSAqua_B1F_Text_FastShipOnDutySailorRefused:
 	.string "哎呀，糟了......\p"
 	.string "船长一定会大发雷霆的......$"
 
 SSAqua_B1F_Text_FastShipOnDutySailorThanks:
-	.string "Thanks, kid! I chewed him out\n"
-	.string "good so he'll quit slacking off!$"
+	.string "谢啦，小朋友！我狠狠训了他一顿，\n"
+	.string "这下他可不敢再偷懒了！$"
 
 SSAqua_B1F_Text_FastShipOnDutySailorSawGirl:
 	.string "小女孩？\p"
 	.string "我好像看到她从这里经过了。$"
 
 SSAqua_B1F_Text_FastShipOnDutySailorDirections:
-	.string "The dining room is up ahead.\p"
-	.string "The stairs at the end lead to\n"
-	.string "the CAPTAIN's cabin.$"
+	.string "前方是餐厅。\p"
+	.string "尽头的楼梯通往船长室。$"
 
 SSAqua_B1F_EventScript_Jeff::
 	trainerbattle_single TRAINER_JEFF_HNS, SSAqua_B1F_Text_SailorJeffSeen, SSAqua_B1F_Text_SailorJeffBeaten
@@ -77,8 +75,8 @@ SSAqua_B1F_EventScript_Jeff::
 	end
 
 SSAqua_B1F_Text_SailorJeffSeen:
-	.string "Nothing beats a battle when\n"
-	.string "I'm on my break.$"
+	.string "休息时间来场对战，简直再爽不过\n"
+	.string "了。$"
 
 SSAqua_B1F_Text_SailorJeffBeaten:
 	.string "输赢无所谓，我的休息时间结束了！$"
@@ -99,8 +97,8 @@ SSAqua_B1F_Text_PicnickerDebraBeaten:
 	.string "哎呀！你也太强了吧！$"
 
 SSAqua_B1F_Text_PicnickerDebraAfter:
-	.string "SAFFRON, CELADON… I hear there\n"
-	.string "are many big cities in KANTO.$"
+	.string "金黄市、玉虹市......听说关\n"
+	.string "都地区有很多大城市呢。$"
 
 SSAqua_B1F_EventScript_Fritz::
 	trainerbattle_single TRAINER_FRITZ_HNS, SSAqua_B1F_Text_JugglerFritzSeen, SSAqua_B1F_Text_JugglerFritzBeaten

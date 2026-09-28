@@ -106,57 +106,54 @@ Route44_EventScript_Item_Elixir::
 	end
 
 Route44_Text_FisherWilton1Seen:
-    .string "Aack!\p"
-    .string "You made me lose a POLIWAG!\n"
-    .string "What are you going to do about it?$"
+    .string "哎呀！\p"
+    .string "你害我的蚊香蝌蚪跑掉了！你要怎么\n"
+    .string "赔我啊？$"
 
 Route44_Text_FisherWilton1Beaten:
     .string "算了，当我没说。$"
 
 Route44_Text_FisherWiltonHugePoliwag:
-    .string "That POLIWAG that got away…\n"
-    .string "it was huge.\p"
-    .string "I swear it must've been\n"
-    .string "16 feet long!$"
+    .string "刚才跑掉的那只蚊香蝌蚪....\n"
+    .string "..可大着呢。\p"
+    .string "我发誓它少说也得有5米长！$"
 
 Route44_Text_WiltonRegister:
-    .string "That POLIWAG that got away…\n"
-    .string "it was huge.\p"
-    .string "I swear it must've been\n"
-    .string "16 feet long!$"
+    .string "刚才跑掉的那只蚊香蝌蚪....\n"
+    .string "..可大着呢。\p"
+    .string "我发誓它少说也得有5米长！$"
 
 Route44_Text_WiltonRematchIntro:
-    .string "Aack!\p"
-    .string "You made me lose a POLIWAG!\n"
-    .string "What are you going to do about it?$"
+    .string "哎呀！\p"
+    .string "你害我的蚊香蝌蚪跑掉了！你要怎么\n"
+    .string "赔我啊？$"
 
 Route44_Text_WiltonRematchDefeat:
     .string "算了，当我没说。$"
 
 Route44_Text_WiltonPostRematch:
-    .string "That POLIWAG that got away…\n"
-    .string "it was huge.\p"
-    .string "I swear it must've been\n"
-    .string "16 feet long!$"
+    .string "刚才跑掉的那只蚊香蝌蚪....\n"
+    .string "..可大着呢。\p"
+    .string "我发誓它少说也得有5米长！$"
 
 Route44_Text_WiltonHasItem:
-    .string "Hey! I reeled in something\n"
-    .string "other than a POKéMON!\p"
-    .string "Here, you can have it!$"
+    .string "嘿！我钓上来了个宝可梦以外的玩意\n"
+    .string "儿！\p"
+    .string "来，这个送给你！$"
 
 Route44_Text_WiltonGaveItem:
-    .string "I'll let you know if I\n"
-    .string "fish up anything else!$"
+    .string "要是我还钓到了别的东西，会再通知\n"
+    .string "你的！$"
 
 Route44_Text_WiltonNoRoom:
-    .string "Hmm, your BAG is full.\p"
-    .string "Come back when you have room.$"
+    .string "嗯，你的包包装满了。\p"
+    .string "腾出地方再来找我吧。$"
 
 Route44_Text_FisherEdgarSeen:
-    .string "I fish until I can't anymore.\p"
-    .string "I also battle until I drop.\p"
-    .string "That's my relationship with my\n"
-    .string "POKéMON.$"
+    .string "我钓鱼直到筋疲力尽，\p"
+    .string "对战也是拼到倒下为止。\p"
+    .string "这就是我和我的宝可梦之间的相处之\n"
+    .string "道！$"
 
 Route44_Text_FisherEdgarBeaten:
     .string "唔......这不对劲啊。$"
@@ -166,36 +163,34 @@ Route44_Text_FisherEdgarAfter:
     .string "我暂时都不想再对战了。$"
 
 Route44_Text_BirdKeeperVance1Seen:
-    .string "Do you know about the legendary\n"
-    .string "bird POKéMON?$"
+    .string "你知道传说的鸟宝可梦吗？$"
 
 Route44_Text_BirdKeeperVance1Beaten:
     .string "呼！你可真有一手。$"
 
 Route44_Text_BirdKeeperVanceBirds:
-    .string "ARTICUNO, ZAPDOS and MOLTRES are\n"
-    .string "the three legendary bird POKéMON.\p"
-    .string "I heard there are other legendary\n"
-    .string "birds, though.$"
+    .string "急冻鸟、闪电鸟和火焰鸟是三只传说\n"
+    .string "的鸟宝可梦。\p"
+    .string "不过我听说，其实还有其他传说的鸟\n"
+    .string "宝可梦呢。$"
 
 Route44_Text_VanceRegister:
-    .string "ARTICUNO, ZAPDOS and MOLTRES are\n"
-    .string "the three legendary bird POKéMON.\p"
-    .string "I heard there are other legendary\n"
-    .string "birds, though.$"
+    .string "急冻鸟、闪电鸟和火焰鸟是三只传说\n"
+    .string "的鸟宝可梦。\p"
+    .string "不过我听说，其实还有其他传说的鸟\n"
+    .string "宝可梦呢。$"
 
 Route44_Text_VanceRematchIntro:
-    .string "Do you know about the legendary\n"
-    .string "bird POKéMON?$"
+    .string "你知道传说的鸟宝可梦吗？$"
 
 Route44_Text_VanceRematchDefeat:
     .string "呼！你可真有一手。$"
 
 Route44_Text_VancePostRematch:
-    .string "ARTICUNO, ZAPDOS and MOLTRES are\n"
-    .string "the three legendary bird POKéMON.\p"
-    .string "I heard there are other legendary\n"
-    .string "birds, though.$"
+    .string "急冻鸟、闪电鸟和火焰鸟是三只传说\n"
+    .string "的鸟宝可梦。\p"
+    .string "不过我听说，其实还有其他传说的鸟\n"
+    .string "宝可梦呢。$"
 
 Route44_Text_PsychicPhilSeen:
     .string "这场我赢定了！$"
@@ -205,55 +200,53 @@ Route44_Text_PsychicPhilBeaten:
     .string ".....$"
 
 Route44_Text_PsychicPhilAfter:
-    .string "It's important to have conviction\n"
-    .string "on your side.$"
+    .string "无论何时，拥有坚定的信念都是很重\n"
+    .string "要的。$"
 
 Route44_Text_PokemaniacZachSeen:
-    .string "I'll do anything to get my hands\n"
-    .string "on rare POKéMON!$"
+    .string "为了把稀有的宝可梦弄到手，我什么\n"
+    .string "都愿意做！$"
 
 Route44_Text_PokemaniacZachBeaten:
-    .string "Oooh, your POKéMON are so\n"
-    .string "appealing.$"
+    .string "噢噢，你的宝可梦真是太迷人了。$"
 
 Route44_Text_PokemaniacZachAfter:
-    .string "If a POKéMON has different colors\n"
-    .string "from usual, it's more valuable.\p"
-    .string "What? You mean that's not true?$"
+    .string "如果宝可梦的颜色和普通的不一样，\n"
+    .string "那就更有价值啦。\p"
+    .string "咦？你说不是那么回事？$"
 
 Route44_Text_CooltrainermAllenSeen:
-    .string "I can tell you're a good trainer\n"
-    .string "by looking at you.\p"
-    .string "I'm good at POKéMON, and I can\n"
-    .string "see that you are too.$"
+    .string "我看你一眼就知道，你是个优秀的训\n"
+    .string "练家。\p"
+    .string "我很擅长宝可梦对战，而且我看得出\n"
+    .string "你也是。$"
 
 Route44_Text_CooltrainermAllenBeaten:
     .string "啧！是我彻底输了。$"
 
 Route44_Text_CooltrainermAllenAfter:
-    .string "Wow. You have a lot of BADGES.\p"
-    .string "No wonder you're so tough.\p"
-    .string "I wonder if ECRUTEAK GYM's MORTY\n"
-    .string "is still in training?\p"
-    .string "He really hammered me.$"
+    .string "哇，你收集了好多徽章啊。\p"
+    .string "难怪你这么厉害。\p"
+    .string "不知道圆朱道馆的小松还在继续修行\n"
+    .string "吗？\p"
+    .string "他之前可把我修理惨了。$"
 
 Route44_Text_CooltrainerfCybilSeen:
-    .string "You look strong.\p"
-    .string "Good trainers seek tough\n"
-    .string "opponents instinctively.$"
+    .string "你看起来很强。\p"
+    .string "优秀的训练家总是会本能地去寻找强\n"
+    .string "敌。$"
 
 Route44_Text_CooltrainerfCybilBeaten:
     .string "不行！这样完全不行啊。$"
 
 Route44_Text_CooltrainerfCybilAfter:
-    .string "We all get better by experiencing\n"
-    .string "many battles.\p"
-    .string "I battled a lot to become what I\n"
-    .string "am today--an elite.$"
+    .string "经历无数次战斗后，我们都会变得更\n"
+    .string "强。\p"
+    .string "我也是经过了千锤百炼，才成为如今\n"
+    .string "的精英训练家。$"
 
 Route44_Text_Sign1:
-    .string "ROUTE 44\n"
-    .string "ICE PATH AHEAD$"
+    .string "44号道路前方为冰雪小径$"
 
 Route44_Text_Sign2:
     .string "44号道路\p"

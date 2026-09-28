@@ -82,20 +82,20 @@ static void CB2_OpenPokeblockFromBag(void);
 static void ItemUseOnFieldCB_Honey(u8 taskId);
 static bool32 IsValidLocationForVsSeeker(void);
 
-static const u8 sText_CantDismountBike[] = _("You can't dismount your BIKE here.{PAUSE_UNTIL_PRESS}");
-static const u8 sText_ItemFinderNearby[] = _("Huh?\nThe ITEMFINDER's responding!\pThere's an item buried around here!{PAUSE_UNTIL_PRESS}");
-static const u8 sText_ItemFinderOnTop[] = _("Oh!\nThe ITEMFINDER's shaking wildly!{PAUSE_UNTIL_PRESS}");
-static const u8 sText_ItemFinderNothing[] = _("… … … …Nope!\nThere's no response.{PAUSE_UNTIL_PRESS}");
-static const u8 sText_CoinCase[] = _("Your COINS:\n{STR_VAR_1}{PAUSE_UNTIL_PRESS}");
-static const u8 sText_PowderQty[] = _("POWDER QTY: {STR_VAR_1}{PAUSE_UNTIL_PRESS}");
-static const u8 sText_BootedUpTM[] = _("Booted up a TM.");
-static const u8 sText_BootedUpHM[] = _("Booted up an HM.");
-static const u8 sText_TMHMContainedVar1[] = _("It contained\n{STR_VAR_1}.\pTeach {STR_VAR_1}\nto a POKéMON?");
-static const u8 sText_UsedVar2WildLured[] = _("{PLAYER} used the\n{STR_VAR_2}.\pWild POKéMON will be lured.{PAUSE_UNTIL_PRESS}");
-static const u8 sText_UsedVar2WildRepelled[] = _("{PLAYER} used the\n{STR_VAR_2}.\pWild POKéMON will be repelled.{PAUSE_UNTIL_PRESS}");
-static const u8 sText_PlayedPokeFluteCatchy[] = _("Played the POKé FLUTE.\pNow, that's a catchy tune!{PAUSE_UNTIL_PRESS}");
-static const u8 sText_PlayedPokeFlute[] = _("Played the POKé FLUTE.");
-static const u8 sText_PokeFluteAwakenedMon[] = _("The POKé FLUTE awakened sleeping\nPOKéMON.{PAUSE_UNTIL_PRESS}");
+static const u8 sText_CantDismountBike[] = _("不能在这里下自行车。{PAUSE_UNTIL_PRESS}");
+static const u8 sText_ItemFinderNearby[] = _("咦？\n探宝器有反应了！\p附近好像埋着道具！{PAUSE_UNTIL_PRESS}");
+static const u8 sText_ItemFinderOnTop[] = _("哦！\n探宝器剧烈地摇晃起来！{PAUSE_UNTIL_PRESS}");
+static const u8 sText_ItemFinderNothing[] = _("……不行！\n没有任何反应。{PAUSE_UNTIL_PRESS}");
+static const u8 sText_CoinCase[] = _("你的代币：\n{STR_VAR_1}{PAUSE_UNTIL_PRESS}");
+static const u8 sText_PowderQty[] = _("粉末数量：{STR_VAR_1}{PAUSE_UNTIL_PRESS}");
+static const u8 sText_BootedUpTM[] = _("启动了招式学习器。");
+static const u8 sText_BootedUpHM[] = _("启动了秘传学习器。");
+static const u8 sText_TMHMContainedVar1[] = _("里面是\n{STR_VAR_1}。\p要让宝可梦学会{STR_VAR_1}吗？");
+static const u8 sText_UsedVar2WildLured[] = _("{PLAYER}使用了\n{STR_VAR_2}。\p野生宝可梦会被吸引过来。{PAUSE_UNTIL_PRESS}");
+static const u8 sText_UsedVar2WildRepelled[] = _("{PLAYER}使用了\n{STR_VAR_2}。\p野生宝可梦会被驱赶。{PAUSE_UNTIL_PRESS}");
+static const u8 sText_PlayedPokeFluteCatchy[] = _("吹奏了宝可梦之笛。\p这旋律真动听！{PAUSE_UNTIL_PRESS}");
+static const u8 sText_PlayedPokeFlute[] = _("吹奏了宝可梦之笛。");
+static const u8 sText_PokeFluteAwakenedMon[] = _("宝可梦之笛唤醒了沉睡的\n宝可梦。{PAUSE_UNTIL_PRESS}");
 
 // EWRAM variables
 EWRAM_DATA static TaskFunc sItemUseOnFieldCB = NULL;
@@ -1181,12 +1181,12 @@ bool32 CanThrowBall(void)
     return (GetBallThrowableState() == BALL_THROW_ABLE);
 }
 
-static const u8 sText_CantThrowPokeBall_TwoMons[] = _("Cannot throw a ball!\nThere are two Pokémon out there!\p");
-static const u8 sText_CantThrowPokeBall_SemiInvulnerable[] = _("Cannot throw a ball!\nThere's no Pokémon in sight!\p");
-static const u8 sText_CantThrowPokeBall_Disabled[] = _("POKé BALLS cannot be used\nright now!\p");
-static const u8 sText_CantThrowPokeBall_NuzlockeZone[] = _("You already used your\nencounter for this area!\p");
+static const u8 sText_CantThrowPokeBall_TwoMons[] = _("不能投掷精灵球！\n那里有两只宝可梦！\p");
+static const u8 sText_CantThrowPokeBall_SemiInvulnerable[] = _("不能投掷精灵球！\n视野里没有宝可梦！\p");
+static const u8 sText_CantThrowPokeBall_Disabled[] = _("现在不能使用精灵球！\p");
+static const u8 sText_CantThrowPokeBall_NuzlockeZone[] = _("你已经在这片区域\n遇到过宝可梦了！\p");
 static const u8 sText_CantThrowPokeBall_NuzlockeSpecies[] = _("Species Clause: a POKéMON in\nthis evolution line was caught!\p");
-static const u8 sText_CantThrowPokeBall_NuzlockeAlreadyCaught[] = _("You have already caught\nthis POKéMON!\p");
+static const u8 sText_CantThrowPokeBall_NuzlockeAlreadyCaught[] = _("你已经捕捉过\n这只宝可梦了！\p");
 static const u8 sText_CantThrowPokeBall_OneType[] = _("This POKéMON doesn't match\nyour type challenge!\p");
 void ItemUseInBattle_PokeBall(u8 taskId)
 {

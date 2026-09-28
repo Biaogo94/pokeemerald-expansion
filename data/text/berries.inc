@@ -19,11 +19,10 @@ Route104_Text_TrainersOftenMakeMonHoldBerries:
 	.string "取决于你自己。$"
 
 Route111_Text_WateredPlantsEveryDayTakeBerry:
-	.string "I watered the plants every day.\n"
-	.string "They grew lots of flowers.\p"
-	.string "And they gave me lots of BERRIES, too.\p"
-	.string "Here you go!\n"
-	.string "You can have it!$"
+	.string "我每天都给植物浇水，开出了好多好\n"
+	.string "多花呢。\p"
+	.string "而且结出了好多树果哦。\p"
+	.string "这个给你！送给你啦！$"
 
 Route111_Text_GoingToTryToMakeDifferentColorBerries:
 	.string "我要努力种出不同颜色的树果。\p"
@@ -81,9 +80,10 @@ LilycoveCity_Text_BecauseYoureTrainer:
 	.string "就因为你是训练家！$"
 
 LilycoveCity_Text_PokeblocksSuitPokemon:
-	.string "When it gets right down to it…\p"
-	.string "The way dignified simplicity suits me,\n"
-	.string "{POKEBLOCK}S perfectly suit POKéMON.$"
+	.string "说到底......\p"
+	.string "正如端庄素雅非常适合我一样，\n"
+	.string "{POKEBLOCK}也同样完美\l"
+	.string "适合宝可梦。$"
 
 Route123_BerryMastersHouse_Text_YoureDeservingOfBerry:
 	.string "你可以叫我树果名人。\p"
@@ -216,6 +216,7 @@ SootopolisCity_Text_ThenILoveAutumn:
 	.string "你喜欢什么季节？$"
 
 SootopolisCity_Text_OhDoesntMatter:
-	.string "Oh…\n"
-	.string "It doesn't matter…\p"
-	.string "There's so much that I want to know…$"
+	.string "啊......算了，没关系..\n"
+	.string "....\p"
+	.string "我想要了解的事情还有好多好多呢\n"
+	.string "......$"

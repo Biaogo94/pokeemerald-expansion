@@ -679,11 +679,10 @@ IlexForest_Text_CharcoalMasterIntro:
 	.string "有了！来，拿着这个。$"
 
 IlexForest_Text_CharcoalMasterOutro:
-	.string "That's the CUT HM.\n"
-	.string "Teach that to a POKéMON to clear\l"
-	.string "small trees.\p"
-	.string "Of course, you have to have the\n"
-	.string "GYM BADGE from AZALEA to use it.$"
+	.string "那是秘传学习器“居合斩”。教给宝\n"
+	.string "可梦之后，就能砍倒细小的树木了。\p"
+	.string "当然，你必须要有桧皮道馆的徽章才\n"
+	.string "可以在平时使用。$"
 
 IlexForest_Text_CharcoalMasterTalkAfter:
 	.string "你想跟我学做木炭吗？\p"

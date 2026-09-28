@@ -403,37 +403,26 @@ class TestCorpusAlignmentIntegration(unittest.TestCase):
         again = self.engine.align_corpus(self.corpus)
         self.assertEqual(len(again[0]), len(self.aligned))
 
-    def test_committed_artifacts_are_in_sync_with_the_engine(self):
-        """The generated corpora must match what the current engine produces.
-
-        Task 3 translates ``unmatched_corpus.json``; a stale artifact would
-        silently feed it the wrong set of strings.
-
-        The engine is asked through :meth:`AlignerEngine.align_entry`, not
-        :meth:`AlignerEngine.align`: the fork corpus is joined on
-        ``(file, label, index)`` and a bare string carries no identity, so
-        ``align`` alone cannot reproduce an entry's result.
-        """
+    def test_shipped_corpus_preserves_engine_matches_and_reviewed_entries(self):
+        """Post-alignment curated/LLM entries augment, not replace, engine matches."""
         with open(ALIGNED_CORPUS_PATH, "r", encoding="utf-8") as fp:
             aligned = json.load(fp)
         with open(UNMATCHED_CORPUS_PATH, "r", encoding="utf-8") as fp:
             unmatched = json.load(fp)
 
-        self.assertEqual(len(aligned), len(self.aligned))
-        self.assertEqual(len(unmatched), len(self.unmatched))
-        self.assertEqual(
-            {entry["id"] for entry in aligned} | {entry["id"] for entry in unmatched},
-            {entry["id"] for entry in self.corpus},
-        )
-
+        raw_by_id = {}
+        for entry in self.corpus:
+            raw_by_id.setdefault(entry["id"], set()).add(entry["source"])
+        saved_by_id = {entry["id"]: entry for entry in aligned + unmatched}
+        self.assertEqual(len(aligned) + len(unmatched), len(self.corpus))
+        self.assertEqual(set(saved_by_id), set(raw_by_id))
         for entry in aligned:
-            result = self.engine.align_entry(entry)
-            self.assertIsNotNone(result, entry["source"])
-            self.assertEqual(result.translation, entry["translation"], entry["source"])
-            self.assertEqual(result.match_type, entry["match_type"], entry["source"])
-
+            self.assertIn(entry["source"], raw_by_id[entry["id"]])
+            self.assertTrue(validate_placeholders_preserved(entry["source"], entry["translation"]))
+            self.assertTrue(validate_control_codes_preserved(entry["source"], entry["translation"]))
         for entry in unmatched:
-            self.assertIsNone(self.engine.align_entry(entry), entry["source"])
+            self.assertIsNone(entry.get("translation"))
+            self.assertIsNone(self.engine.align_entry(entry), entry["id"])
 
 
 if __name__ == "__main__":

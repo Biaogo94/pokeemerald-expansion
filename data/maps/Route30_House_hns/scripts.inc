@@ -17,18 +17,17 @@ Route30_House_EventScript_BaldMan2::
 	end
 
 Route30_BerryHouse_Text_MonEatBerries:
-	.string "When you follow that path up north,\n"
-	.string "you will see MR. POKéMON’s house.\p"
-	.string "But before you go, allow me to\n"
-	.string "tell you about BERRIES!\p"
-	.string "POKéMON get healthier by eating\n"
-	.string "BERRIES.\p"
-	.string "They can even eat BERRIES\n"
-	.string "they're holding in battle.\p"
-	.string "BERRIES can also be turned into\n"
-	.string "BALLS by KURT in AZALEA TOWN.\p"
-	.string "Here. I'll share one with you!$"
+	.string "沿着那条路一直往北走，就能看到宝\n"
+	.string "可梦爷爷的家了。\p"
+	.string "不过在去之前，先让我给你讲讲树果\n"
+	.string "的事吧！\p"
+	.string "宝可梦吃下树果就会变得更有精神。\p"
+	.string "它们在对战中甚至可以自己吃下身上\n"
+	.string "携带的树果哦。\p"
+	.string "桧皮镇的钢铁先生还可以把树果做成\n"
+	.string "精灵球呢。\p"
+	.string "来，这个分你一个吧！$"
 
 Route30_BerryHouse_Text_CheckTrees:
-	.string "Check trees for BERRIES.\n"
-	.string "They grow back after a few hours.$"
+	.string "多调查调查果树上的树果吧。过几个\n"
+	.string "小时它们就会重新长出来的。$"

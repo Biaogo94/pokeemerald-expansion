@@ -250,43 +250,37 @@ SSAqua_1F_Movement_GrandpaLeave:
 	step_end
 
 SSAqua_1F_Text_Sailor1_ToVermilion:
-    .string "FAST SHIP S.S.AQUA is en route to\n"
-    .string "VERMILION CITY.\p"
-    .string "We will make an announcement when\n"
-    .string "we arrive.$"
+    .string "高速船阿夸号正在开往枯叶市。\p"
+    .string "到达时我们会广播通知。$"
 
 SSAqua_1F_Text_Sailor1_ToOlivine:
-    .string "FAST SHIP S.S.AQUA is en route to\n"
-    .string "OLIVINE CITY.\p"
-    .string "We will make an announcement when\n"
-    .string "we arrive.$"
+    .string "高速船阿夸号正在开往浅黄市。\p"
+    .string "到达时我们会广播通知。$"
 
 SSAqua_1F_Text_Sailor2_FirstTime:
-    .string "Here's your cabin.\p"
-    .string "If your POKéMON are hurt, take a\n"
-    .string "nap in the bed.\p"
-    .string "That will heal them.$"
+    .string "这是您的客舱。\p"
+    .string "如果宝可梦受伤了，可以在床上睡上\n"
+    .string "一觉。\p"
+    .string "这样就能让它们恢复活力了。$"
 
 SSAqua_1F_Text_Sailor3:
-    .string "The passengers are all trainers.\p"
-    .string "They're all itching to battle in\n"
-    .string "their cabins.$"
+    .string "这里的乘客全都是训练家。\p"
+    .string "他们都在各自的客舱里跃跃欲试地想\n"
+    .string "要对战呢。$"
 
 SSAqua_1F_Text_Grandpa:
-    .string "Whoa! Excuse me. I was in a hurry!\p"
-    .string "My granddaughter is missing!\p"
-    .string "She's just a wee girl. If you see\n"
-    .string "her, please let me know!$"
+    .string "哇！不好意思，我赶时间！\p"
+    .string "我的小孙女不见了！\p"
+    .string "她还是个小女孩。要是看到她，请一\n"
+    .string "定要告诉我！$"
 
 SSAqua_1F_Text_Sailor1_InOlivine:
-    .string "FAST SHIP S.S.AQUA has arrived in\n"
-    .string "OLIVINE CITY.$"
+    .string "高速船阿夸号已抵达浅黄市。$"
 
 SSAqua_1F_Text_Sailor1_InVermilion:
-    .string "FAST SHIP S.S.AQUA has arrived in\n"
-    .string "VERMILION CITY.$"
+    .string "高速船阿夸号已抵达枯叶市。$"
 
 
 SSAqua_1F_Text_SailorDoorArrived:
-    .string "We have arrived in VERMILION CITY.\n"
-    .string "Would you like to disembark?$"
+    .string "我们已经抵达枯叶市了。您要下船\n"
+    .string "吗？$"

@@ -330,11 +330,10 @@ BattleFrontier_OutsideWest_Text_SureWeCanChallengeWithNoMons_hns:
 	.string "战吗？$"
 
 BattleFrontier_OutsideWest_Text_BigGuySaidIllLendYouMons_hns:
-	.string "Uh…\n"
-	.string "I'm sure it'll be okay.\p"
-	.string "I think…\p"
-	.string "But remember that big scary guy?\n"
-	.string "He said, “I'll lend you POKéMON!”$"
+	.string "呃......应该没问题的吧。\p"
+	.string "大概......\p"
+	.string "不过你还记得那个很凶的大叔吗？他\n"
+	.string "说：“我可以借你们宝可梦！”$"
 
 BattleFrontier_OutsideWest_Text_WhosRaisingThoseRentalMons_hns:
 	.string "那是对战工厂。在那里可以租借到强\n"
@@ -404,17 +403,16 @@ BattleFrontier_OutsideWest_Text_SquareFilledWithToughPeople_hns:
 	.string "嚼，嚼......$"
 
 BattleFrontier_OutsideWest_Text_MetOlderGirlAtPike_hns:
-	.string "Crunch, munch…\p"
-	.string "A while back, I met this older girl\n"
-	.string "at the BATTLE PIKE.\p"
-	.string "She had these eyes that were scary\n"
-	.string "in a real ornery way.\p"
-	.string "Crunch, munch…\p"
-	.string "She got all furious: “Will you quit\n"
-	.string "eating!” Then she whaled on me.\p"
-	.string "It was a hair-raising kind of\n"
-	.string "scary experience, sure enough.\p"
-	.string "Crunch, munch…$"
+	.string "咔嚓，嚼嚼......\p"
+	.string "前阵子，我在对战管子遇到了一位大\n"
+	.string "姐姐。\p"
+	.string "她的眼神非常凶恶，透着一股狠劲。\p"
+	.string "咔嚓，嚼嚼......\p"
+	.string "她气得大喊：“你给我别吃了！”然\n"
+	.string "后就把我暴揍了一顿。\p"
+	.string "那可真是一段让人毛骨悚然的恐怖经\n"
+	.string "历啊。\p"
+	.string "咔嚓，嚼嚼......$"
 
 BattleFrontier_OutsideWest_Text_LastTimeOurEyesMet_hns:
 	.string "哈？听听你说的什么话！那根本不算\n"

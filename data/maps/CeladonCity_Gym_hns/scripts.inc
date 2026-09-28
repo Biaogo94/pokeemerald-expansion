@@ -61,11 +61,12 @@ CeladonCity_Gym_Text_Erika_GiveTM:
 	.string "器吧。$"
 
 CeladonCity_Gym_Text_Erika_ExplainTM:
-	.string "It is GIGA DRAIN.\p"
-	.string "It is a wonderful move that\n"
-	.string "drains half the damage it inflicts\l"
-	.string "to heal your POKéMON.\p"
-	.string "Please use it if it pleases you…$"
+	.string "这是“终极吸取”。\p"
+	.string "这是一个非常神奇的招式，能将给予\n"
+	.string "对手伤害的一半用来回复自己的H\l"
+	.string "P。\p"
+	.string "如果你喜欢的话，请务必用用看.\n"
+	.string ".....$"
 
 CeladonCity_Gym_Text_ErikaAfterBattle:
 	.string "莉佳：输掉对战还是会让人有些心有\n"
@@ -110,15 +111,15 @@ CeladonCity_Gym_EventScript_Tanya::
 	end
 
 CeladonCity_Gym_Text_PicnickerTanyaSeen:
-	.string "Oh, a battle? That's kind of scary,\n"
-	.string "but OK!$"
+	.string "哎？要对战吗？虽然有点害怕，但没\n"
+	.string "问题！$"
 
 CeladonCity_Gym_Text_PicnickerTanyaBeaten:
 	.string "哎，这就结束了吗？$"
 
 CeladonCity_Gym_Text_PicnickerTanyaAfter:
-	.string "Oh, look at all your BADGES. No\n"
-	.string "wonder I couldn't win!$"
+	.string "哇，看看你身上的徽章。难怪我赢不\n"
+	.string "了呢！$"
 
 CeladonCity_Gym_EventScript_Julia::
 	trainerbattle_single TRAINER_JULIA_HNS, CeladonCity_Gym_Text_BeautyJuliaSeen, CeladonCity_Gym_Text_BeautyJuliaBeaten
@@ -126,15 +127,15 @@ CeladonCity_Gym_EventScript_Julia::
 	end
 
 CeladonCity_Gym_Text_BeautyJuliaSeen:
-	.string "Were you looking at these flowers\n"
-	.string "or at me?$"
+	.string "你刚才是在看这些花，还是在看我\n"
+	.string "呢？$"
 
 CeladonCity_Gym_Text_BeautyJuliaBeaten:
 	.string "真讨厌！$"
 
 CeladonCity_Gym_Text_BeautyJuliaAfter:
-	.string "How do I go about becoming\n"
-	.string "ladylike like ERIKA?$"
+	.string "要怎样才能变得像莉佳小姐那样淑女\n"
+	.string "呢？$"
 
 CeladonCity_Gym_EventScript_Jo::
 	trainerbattle_double TRAINER_JO_AND_ZOE_HNS, CeladonCity_Gym_Text_TwinsJoAndZoe1Seen, CeladonCity_Gym_Text_TwinsJoAndZoe1Beaten, Route104_Text_GinaNotEnoughMons
@@ -148,8 +149,8 @@ CeladonCity_Gym_EventScript_Zoe::
 	end
 
 CeladonCity_Gym_Text_TwinsJoAndZoe1Seen:
-	.string "We'll show you POKéMON moves that\n"
-	.string "ERIKA taught us!$"
+	.string "让你见识一下莉佳小姐传授给我们的\n"
+	.string "宝可梦招式！$"
 
 CeladonCity_Gym_Text_TwinsJoAndZoe1Beaten:
 	.string "呜......输掉了......$"
@@ -179,13 +180,10 @@ CeladonCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 CeladonCity_Gym_Text_GymStatue::
-    .string "CELADON POKéMON GYM\n"
-    .string "LEADER: ERIKA\p"
-	.string "WINNING TRAINERS:\n"
-	.string "BLUE, RED$"
+    .string "玉虹市宝可梦道馆馆主：莉佳\p"
+    .string "获胜训练家：青绿、赤红$"
 
 CeladonCity_Gym_Text_GymStatuePlayerWon::
-    .string "CELADON POKéMON GYM\n"
-    .string "LEADER: ERIKA\p"
-    .string "WINNING TRAINERS:\n"
-	.string "BLUE, RED, {PLAYER}$"
+    .string "玉虹市宝可梦道馆馆主：莉佳\p"
+    .string "获胜训练家：青绿、赤红、\n"
+    .string "{PLAYER}$"

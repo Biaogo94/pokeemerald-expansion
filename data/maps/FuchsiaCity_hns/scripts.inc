@@ -21,20 +21,19 @@ FuchsiaCity_Text_BaobaName:
 	.string "巴奥巴$"
 
 FuchsiaCity_Text_Baoba:
-	.string "WARDEN BAOBA: {PLAYER}!\p"
-	.string "This is WARDEN BAOBA.\p"
-	.string "Something awful has happened!\n"
-	.string "My old SAFARI ZONE in FUCHSIA CITY\l"
-	.string "was bought out and reopened!\p"
-	.string "And apparently it has exotic new\n"
-	.string "POKéMON!\p"
-	.string "It's hurting my business!\p"
-	.string "{PLAYER}, you must venture into the\n"
-	.string "new SAFARI ZONE and catch a POKéMON\l"
-	.string "to show me. I must know about these\l"
-	.string "'exotic' POKéMON.\p"
-	.string "Please {PLAYER}, my business depends\n"
-	.string "on you!$"
+	.string "园长巴奥巴：{PLAYER}！\p"
+	.string "我是园长巴奥巴。\p"
+	.string "出大事了！我在浅红市的老狩猎地带\n"
+	.string "被人收购并且重新开张了！\p"
+	.string "而且据说里面有来自异国的新宝可\n"
+	.string "梦！\p"
+	.string "这严重影响了我的生意！\p"
+	.string "{PLAYER}，你一定要去那个\n"
+	.string "新的狩猎地带，抓一只宝可梦来给我\l"
+	.string "看看。我必须弄清那些“异国”宝可\l"
+	.string "梦的底细。\p"
+	.string "拜托了{PLAYER}，我的生意\n"
+	.string "全靠你了！$"
 
 FuchsiaCity_EventScript_Dratini::
 	lock

@@ -43,10 +43,10 @@ OlivineLighthouse_Text_1FSailor:
 	.string "想登上去可不容易呢。$"
 
 OlivineLighthouse_Text_1FPokefanF:
-	.string "In the past, POKéMON used to light\n"
-	.string "the sea around OLIVINE at night.\p"
-	.string "The LIGHTHOUSE was built in honor\n"
-	.string "of those noble POKéMON.$"
+	.string "在过去，夜晚浅葱市周围的海面全靠\n"
+	.string "宝可梦们来照亮。\p"
+	.string "这座灯塔就是为了纪念那些崇高的宝\n"
+	.string "可梦而建造的。$"
 
 @2nd floor==============================================================================================================================
 
@@ -76,46 +76,42 @@ OlivineLighthouse_EventScript_GentlemanAlfred::
     end
 
 OlivineLighthouse_Text_SailorHueySeen:
-	.string "Men of the sea are always\n"
-	.string "spoiling for a good fight!$"
+	.string "大海的男儿随时都渴望来一场痛快的\n"
+	.string "战斗！$"
 
 OlivineLighthouse_Text_SailorHueyBeaten:
-	.string "Urf!\n"
-	.string "I lose!$"
+	.string "唔呃！我认输！$"
 
 OlivineLighthouse_Text_SailorHueyAfter:
-	.string "What power! How would you like\n"
-	.string "to sail the seas with me?$"
+	.string "好强的力量！你愿意和我一起扬帆出\n"
+	.string "海吗？$"
 
 OlivineLighthouse_Text_HueyRegister:
-	.string "What power! How would you like\n"
-	.string "to sail the seas with me?$"
+	.string "好强的力量！你愿意和我一起扬帆出\n"
+	.string "海吗？$"
 
 OlivineLighthouse_Text_HueyRematchIntro:
-	.string "Men of the sea are always\n"
-	.string "spoiling for a good fight!$"
+	.string "大海的男儿随时都渴望来一场痛快的\n"
+	.string "战斗！$"
 
 OlivineLighthouse_Text_HueyRematchDefeat:
-	.string "Urf!\n"
-	.string "I lose!$"
+	.string "唔呃！我认输！$"
 
 OlivineLighthouse_Text_HueyPostRematch:
-	.string "What power! How would you like\n"
-	.string "to sail the seas with me?$"
+	.string "好强的力量！你愿意和我一起扬帆出\n"
+	.string "海吗？$"
 
 OlivineLighthouse_Text_GentlemanAlfredSeen:
-	.string "Hm? This is no place\n"
-	.string "for playing.$"
+	.string "嗯？这里可不是小孩子玩耍的地方。$"
 
 OlivineLighthouse_Text_GentlemanAlfredBeaten:
-	.string "Ah! I can see that you're\n"
-	.string "serious.$"
+	.string "啊！看来你是认真的啊。$"
 
 OlivineLighthouse_Text_GentlemanAlfredAfter:
-	.string "Up top is a POKéMON that keeps\n"
-	.string "the LIGHTHOUSE lit.\p"
-	.string "But I hear that it's sick now,\n"
-	.string "and can't be cured normally.$"
+	.string "灯塔顶上有一只宝可梦在维持着灯火\n"
+	.string "长明。\p"
+	.string "但我听说它现在病倒了，普通的药物\n"
+	.string "根本治不好它。$"
 
 @3rd floor==============================================================================================================================
 
@@ -136,42 +132,41 @@ OlivineLighthouse_EventScript_GentlemanPreston::
 
 
 OlivineLighthouse_Text_BirdKeeperTheoSeen:
-	.string "Why are you here? Are you just\n"
-	.string "going to gawk? I suggest you leave!$"
+	.string "你来这儿干什么？纯粹来看热闹的\n"
+	.string "吗？我劝你还是赶紧离开吧！$"
 
 OlivineLighthouse_Text_BirdKeeperTheoBeaten:
-	.string "You really are concerned about\n"
-	.string "the sick POKéMON…$"
+	.string "原来你真的很担心那只生病的宝可梦\n"
+	.string "啊......$"
 
 OlivineLighthouse_Text_BirdKeeperTheoAfter:
-	.string "How the heck do you go up?\p"
-	.string "I want to visit the sick POKéMON,\n"
-	.string "but I can't get up there…$"
+	.string "到底要怎么才能爬上去啊？\p"
+	.string "我想去探望那只生病的宝可梦，可怎\n"
+	.string "么也上不去......$"
 
 OlivineLighthouse_Text_SailorTerrellSeen:
-	.string "Sailors are both kind and strong.\n"
-	.string "How about you?$"
+	.string "水手既温柔又强壮。那你呢？$"
 
 OlivineLighthouse_Text_SailorTerrellBeaten:
 	.string "你也是既温柔又强大啊......$"
 
 OlivineLighthouse_Text_SailorTerrellAfter:
-	.string "Every time I return to OLIVINE,\n"
-	.string "I visit the GYM.\p"
-	.string "The GYM LEADER’s POKéMON type\n"
-	.string "changed without me noticing.$"
+	.string "每次回到浅葱市，我都会去拜访道\n"
+	.string "馆。\p"
+	.string "没想到在我没留意的时候，馆主擅长\n"
+	.string "的属性都已经变了。$"
 
 OlivineLighthouse_Text_GentlemanPrestonSeen:
-	.string "I travel the world to train my\n"
-	.string "POKéMON. I wish to battle you.$"
+	.string "我周游世界来训练宝可梦。我想和你\n"
+	.string "对战一场。$"
 
 OlivineLighthouse_Text_GentlemanPrestonBeaten:
 	.string "......唉......我还得\n"
 	.string "再多加修行......$"
 
 OlivineLighthouse_Text_GentlemanPrestonAfter:
-	.string "JASMINE used to use ROCK-type\n"
-	.string "POKéMON like ONIX.$"
+	.string "阿蜜以前使用的是大岩蛇之类的岩石\n"
+	.string "属性宝可梦。$"
 
 @4th floor==============================================================================================================================
 
@@ -195,8 +190,8 @@ OlivineLighthouse_Text_SailorKentBeaten:
 	.string "我也完全笑不出来了......$"
 
 OlivineLighthouse_Text_SailorKentAfter:
-	.string "Speaking of sick, I've heard there's\n"
-	.string "a good PHARMACY in CIANWOOD.$"
+	.string "说起生病，我听说湛蓝市有一家很棒\n"
+	.string "的药房。$"
 
 OlivineLighthouse_Text_LassConnieSeen:
 	.string "阿蜜是这座城市的道馆馆主。\p"
@@ -207,10 +202,10 @@ OlivineLighthouse_Text_LassConnieBeaten:
 	.string "啊啊啊！我的宝可梦！$"
 
 OlivineLighthouse_Text_LassConnieAfter:
-	.string "Right. Anybody would be worried if\n"
-	.string "his or her own POKéMON were hurt.\p"
-	.string "I'll pray for the POKéMON here, so\n"
-	.string "JASMINE can come back to the GYM.$"
+	.string "说得也是。如果是自己的宝可梦生病\n"
+	.string "了，任谁都会心急如焚的。\p"
+	.string "我会为这里的宝可梦祈祷的，好让阿\n"
+	.string "蜜能早日重返道馆。$"
 
 @5th floor==============================================================================================================================
 
@@ -234,10 +229,9 @@ OlivineLighthouse_Text_SailorErnestBeaten:
 	.string "！$"
 
 OlivineLighthouse_Text_SailorErnestAfter:
-	.string "A GYM LEADER isn't just about being\n"
-	.string "strong.\p"
-	.string "A LEADER also needs to be\n"
-	.string "compassionate.$"
+	.string "道馆馆主可不仅仅只要实力强大。\p"
+	.string "馆主同时还要拥有一颗体贴温柔的心\n"
+	.string "才行。$"
 
 OlivineLighthouse_Text_BirdKeeperDenisSeen:
 	.string "这里地势挺高的呢。我的鸟宝可梦状\n"
@@ -248,10 +242,10 @@ OlivineLighthouse_Text_BirdKeeperDenisBeaten:
 	.string "..$"
 
 OlivineLighthouse_Text_BirdKeeperDenisAfter:
-	.string "My POKéMON learned how to use FLY in\n"
-	.string "CIANWOOD.\p"
-	.string "Well, since I'm a loser, I'll FLY\n"
-	.string "across the sea…$"
+	.string "我的宝可梦是在湛蓝市学会“飞翔”\n"
+	.string "的。\p"
+	.string "唉，既然输了，那我就“飞翔”渡海\n"
+	.string "回去吧......$"
 
 @6th floor==============================================================================================================================
 

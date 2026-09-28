@@ -20,14 +20,14 @@ EventTicket_Text_ShowEonTicket:
 
 #if IS_HNS
 EventTicket_Text_SouthernIslandSailBack:
-	.string "Aye, mate, there's nothing here to\n"
-	.string "see or do on this forgettable island.\p"
-	.string "What say we sail back to OLIVINE?$"
+	.string "嘿，伙计，这座不起眼的小岛\n"
+	.string "没什么可看可玩的了。\p"
+	.string "咱们回浅葱市去，怎么样？$"
 #else
 EventTicket_Text_SouthernIslandSailBack:
-	.string "Aye, mate, there's nothing here to\n"
-	.string "see or do on this forgettable island.\p"
-	.string "What say we sail back to LILYCOVE?$"
+	.string "嘿，伙计，这座不起眼的小岛\n"
+	.string "没什么可看可玩的了。\p"
+	.string "咱们回凯那市去，怎么样？$"
 #endif 
 
 

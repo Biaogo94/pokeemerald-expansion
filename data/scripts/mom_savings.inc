@@ -26,22 +26,21 @@ EventScript_MomGiftCall_Decoration::
 	end
 
 Mom_Text_GiftCall_Item:
-	.string "MOM: Hi, sweetie!\p"
-	.string "I bought something nice\n"
-	.string "for you with your savings!\p"
-	.string "I sent it to your PC.\n"
-	.string "Take care!$"
+	.string "妈妈：嗨，宝贝！\p"
+	.string "我用你存的钱买了样好东西！\p"
+	.string "已经寄到你的电脑里了。要照顾好自\n"
+	.string "己！$"
 
 Mom_Text_GiftCall_Berry:
-	.string "MOM: Hi, sweetie!\p"
-	.string "I found some nice BERRIES\n"
-	.string "at the store for you!\p"
-	.string "I sent them to your PC.\n"
-	.string "Take care!$"
+	.string "妈妈：嗨，宝贝！\p"
+	.string "在商店看到好树果，就给你买了一\n"
+	.string "些！\p"
+	.string "已经寄到你的电脑里了。要照顾好自\n"
+	.string "己！$"
 
 Mom_Text_GiftCall_Decoration:
-	.string "MOM: Hi, sweetie!\p"
-	.string "I bought a cute POKé DOLL\n"
-	.string "for your room!\p"
-	.string "Check your DECORATIONS when you\n"
-	.string "come home. Take care!$"
+	.string "妈妈：嗨，宝贝！\p"
+	.string "我给你的房间买了个可爱的宝可梦玩\n"
+	.string "偶！\p"
+	.string "回家记得看看装饰品哦。要照顾好自\n"
+	.string "己！$"

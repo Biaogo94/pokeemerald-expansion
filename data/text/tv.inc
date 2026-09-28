@@ -177,13 +177,17 @@ BravoTrainerBattleTower_Text_NewRecord::
 	.string "录！Bravo，训练家！$"
 
 BravoTrainerBattleTower_Text_Lost::
-	.string "The twosome finally succumbed to\n"
-	.string "{STR_VAR_1} in match number {STR_VAR_2}.\l"
-	.string "Nice try, TRAINER!\p"
-	.string "But, hey, it's just bad luck to run into\n"
-	.string "{STR_VAR_1} so early in the challenge.\p"
-	.string "We asked the TRAINER for impressions\n"
-	.string "on the match with {STR_VAR_1}.$"
+	.string "这队二人组在第\n"
+	.string "{STR_VAR_2}场对战中终\l"
+	.string "究还是败给了\l"
+	.string "{STR_VAR_1}。虽败犹荣\l"
+	.string "啊，训练家！\p"
+	.string "哎呀，在挑战这么早期就遇上了\n"
+	.string "{STR_VAR_1}，实在太不\l"
+	.string "走运了。\p"
+	.string "我们采访了这位训练家关于和\n"
+	.string "{STR_VAR_1}对战的感\l"
+	.string "想。$"
 
 BravoTrainerBattleTower_Text_Won::
 	.string "这对组合彻底地击败了\n"
@@ -239,7 +243,7 @@ BravoTrainerBattleTower_Text_None4::
 	.string "无$"
 
 BravoTrainerBattleTower_Text_Response::
-	.string "“{STR_VAR_1}.”$"
+	.string "“{STR_VAR_1}。”$"
 
 BravoTrainerBattleTower_Text_ResponseSatisfied::
 	.string "“{STR_VAR_1}。”这不\n"
@@ -519,10 +523,11 @@ gTVRecentHappeningsText00::
 	.string "请看……$"
 
 gTVRecentHappeningsText01::
-	.string "Wasn't that enlightening?\p"
-	.string "The story gives you a clear idea of what\n"
-	.string "{STR_VAR_1} has experienced recently.\l"
-	.string "It's as if we were there as witnesses!$"
+	.string "是不是很有启发呢？\p"
+	.string "这个故事生动地展现了\n"
+	.string "{STR_VAR_1}最近的经\l"
+	.string "历。简直就像我们亲临现场见证了一\l"
+	.string "样！$"
 
 gTVRecentHappeningsText02::
 	.string "“{STR_VAR_3}。”为故\n"
@@ -580,10 +585,11 @@ gTV3CheersForPokeblocksText01::
 	.string "{STR_VAR_3}！$"
 
 gTV3CheersForPokeblocksText02::
-	.string "{STR_VAR_1}'s blending performance\n"
-	.string "left something to be desired.\p"
-	.string "If this TRAINER could blend better,\n"
-	.string "the {POKEBLOCK} would be much tastier.$"
+	.string "{STR_VAR_1}的制作手法\n"
+	.string "还有待提高呢。\p"
+	.string "如果这位训练家的手艺能再好一些，\n"
+	.string "{POKEBLOCK}一定会美味\l"
+	.string "得多。$"
 
 gTV3CheersForPokeblocksText03::
 	.string "溶食兽：咕比！咕比比！\p"
@@ -1105,13 +1111,14 @@ SmartShopper_Text_DuringSale::
 	.string "次精明的购物。$"
 
 SmartShopper_Text_OutroNormal::
-	.string "INTERVIEWER: Hmm… {STR_VAR_1} sounds like\n"
-	.string "quite the shrewd bargain hunter!\p"
-	.string "In total, {STR_VAR_1}'s purchases came to…\p"
-	.string "¥{STR_VAR_2}?!\n"
-	.string "What an amazing sum!\p"
-	.string "Oops! We're out of time!\n"
-	.string "See you on our next broadcast!$"
+	.string "记者：嗯......\n"
+	.string "{STR_VAR_1}听起来真是\l"
+	.string "个精打细算的购物达人呢！\p"
+	.string "{STR_VAR_1}采购的总金\n"
+	.string "额竟然达到了......\p"
+	.string "¥{STR_VAR_2}？！真是\n"
+	.string "个惊人的数字！\p"
+	.string "哎呀！时间到了！下期节目再见啦！$"
 
 SmartShopper_Text_IsVIP::
 	.string "店员：{STR_VAR_1}绝对\n"
@@ -1251,26 +1258,28 @@ gTVTodaysRivalTrainerText06::
 	.string "！$"
 
 TrendWatcher_Text_Intro::
-	.string "DEWFORD TREND-WATCHER NETWORK!\p"
-	.string "MC: Wassup?\n"
-	.string "We'll keep it real with the latest on\l"
-	.string "what's hip and happening in DEWFORD.\p"
-	.string "Our guest today is this old cat whose\n"
-	.string "claim to fame is being the authority\l"
-	.string "on all things in DEWFORD.\p"
-	.string "Old man: Glad to be here.\p"
-	.string "MC: Let's cut to the chase, right on.\p"
-	.string "What's your word on what's groovin'\n"
-	.string "the good folks of DEWFORD?\p"
-	.string "Old man: {STR_VAR_1} {STR_VAR_2}.\p"
-	.string "MC: {STR_VAR_1} {STR_VAR_2},\n"
-	.string "you say?\p"
-	.string "Old man: No.\p"
-	.string "{STR_VAR_1} {STR_VAR_2} never\n"
-	.string "did get popular at all.\p"
-	.string "Would you like to hear about it?\p"
-	.string "MC: Uh, no. What we want to know is\n"
-	.string "what's the in thing of the moment…$"
+	.string "武斗流行快讯网！\p"
+	.string "MC：哟！大家还好吗？我们将为大\n"
+	.string "家带来武斗镇最新潮、最热门的绝对\l"
+	.string "实况！\p"
+	.string "今天的特邀嘉宾是这位老爷爷，他可\n"
+	.string "是号称无所不知的武斗通哦。\p"
+	.string "老爷爷：很高兴能来。\p"
+	.string "MC：那咱们就开门见山吧！\p"
+	.string "现在武斗镇的老百姓最着迷的流行是\n"
+	.string "什么呢？\p"
+	.string "老爷爷：{STR_VAR_1}\n"
+	.string "{STR_VAR_2}。\p"
+	.string "MC：您是说\n"
+	.string "{STR_VAR_1}\l"
+	.string "{STR_VAR_2}吗？\p"
+	.string "老爷爷：不是。\p"
+	.string "{STR_VAR_1}\n"
+	.string "{STR_VAR_2}根本就完全\l"
+	.string "没有流行起来嘛。\p"
+	.string "你想听听这是怎么回事吗？\p"
+	.string "MC：呃，不用了。我们想知道的是\n"
+	.string "当下正在流行的东西......$"
 
 @ Identical to below, may have been different in other languages
 TrendWatcher_Text_MaleTaughtMePhrase::
@@ -1286,15 +1295,17 @@ TrendWatcher_Text_FemaleTaughtMePhrase::
 	.string "流行词……$"
 
 TrendWatcher_Text_PhraseWasHopeless::
-	.string "But it was utterly hopeless.\p"
-	.string "{STR_VAR_1} {STR_VAR_2} festival!\p"
-	.string "{STR_VAR_1} {STR_VAR_2} contest!\p"
-	.string "I tried teaching everyone the best\n"
-	.string "I could, but…\p"
-	.string "Perhaps the {STR_VAR_1} part just\n"
-	.string "wasn't right…\p"
-	.string "MC: Uh, excuse me, compadre, I need\n"
-	.string "to hear about what's in now…$"
+	.string "但根本完全行不通啊。\p"
+	.string "什么“{STR_VAR_1}\n"
+	.string "{STR_VAR_2}节”！\p"
+	.string "什么“{STR_VAR_1}\n"
+	.string "{STR_VAR_2}大赛”！\p"
+	.string "我可是拼了命地教大家，然而..\n"
+	.string "....\p"
+	.string "也许“{STR_VAR_1}”这\n"
+	.string "部分就是不太对劲吧......\p"
+	.string "MC：呃，打扰一下，老哥，我需要\n"
+	.string "知道的是现在流行什么......$"
 
 @ Identical to below, may have been different in other languages
 TrendWatcher_Text_MaleTellMeBigger::
@@ -1310,12 +1321,16 @@ TrendWatcher_Text_FemaleTellMeBigger::
 	.string "行语！$"
 
 TrendWatcher_Text_Outro::
-	.string "MC: …Uh… So, there you have it,\n"
-	.string "all you trendy, hep cats out there!\p"
-	.string "{STR_VAR_1} {STR_VAR_2}…uh…\n"
-	.string "Didn't get hip or happening in DEWFORD!\p"
-	.string "My time is up. Catch you on the fly!\p"
-	.string "Old man: {STR_VAR_1} {STR_VAR_2}!$"
+	.string "MC：......呃......\n"
+	.string "各位走在时尚前沿的潮人朋友们，你\l"
+	.string "们都听到了！\p"
+	.string "{STR_VAR_1}\n"
+	.string "{STR_VAR_2}....\l"
+	.string "..呃......在武斗镇根本就\l"
+	.string "没火起来！\p"
+	.string "节目时间到了，咱们下期再会！\p"
+	.string "老爷爷：{STR_VAR_1}\n"
+	.string "{STR_VAR_2}！$"
 
 gTVHoennTreasureInvestigatorsText00::
 	.string "丰缘寻宝调查团！\p"
@@ -2038,21 +2053,25 @@ gTVWhatsNo1InHoennTodayText00::
 	.string "{STR_VAR_1}！$"
 
 gTVWhatsNo1InHoennTodayText01::
-	.string "In one day, {STR_VAR_1} spun the SLOTS\n"
-	.string "at the GAME CORNER {STR_VAR_2} times.\p"
-	.string "While playing, {STR_VAR_1} was heard\n"
-	.string "murmuring, “For me, the reels don't\l"
-	.string "even move…”\l"
-	.string "Isn't that interesting?$"
+	.string "{STR_VAR_1}在一天之\n"
+	.string "内，把游戏城的老虎机转了\l"
+	.string "{STR_VAR_2}次。\p"
+	.string "在玩的时候，有人听到\n"
+	.string "{STR_VAR_1}喃喃自语\l"
+	.string "道：“对我来说，转盘根本就没在动\l"
+	.string "嘛......”这可真有意思不是\l"
+	.string "吗？$"
 
 gTVWhatsNo1InHoennTodayText02::
-	.string "In one day, {STR_VAR_1} played\n"
-	.string "the ROULETTE game at the GAME\l"
-	.string "CORNER {STR_VAR_2} times.\p"
-	.string "While playing, {STR_VAR_1} shouted,\n"
-	.string "“Let the balls decide!”\p"
-	.string "The TRAINER's eyes were focused and\n"
-	.string "the face showed concentration.$"
+	.string "{STR_VAR_1}在一天之\n"
+	.string "内，在游戏城玩了\l"
+	.string "{STR_VAR_2}次轮盘游\l"
+	.string "戏。\p"
+	.string "在玩的时候，\n"
+	.string "{STR_VAR_1}大喊道：\l"
+	.string "“一切交给滚球决定！”\p"
+	.string "这位训练家眼神专注，脸上写满了全\n"
+	.string "神贯注。$"
 
 gTVWhatsNo1InHoennTodayText03::
 	.string "{STR_VAR_1}今天与野生\n"
@@ -2081,11 +2100,12 @@ gTVWhatsNo1InHoennTodayText05::
 	.string "据说这些花朵能抚慰人们的心灵。$"
 
 gTVWhatsNo1InHoennTodayText06::
-	.string "In just one day, {STR_VAR_1} picked\n"
-	.string "{STR_VAR_2} BERRIES!\p"
-	.string "{STR_VAR_1}'s BAG became so filled\n"
-	.string "with BERRIES, the TRAINER had trouble\l"
-	.string "walking afterward!$"
+	.string "就在一天之内，\n"
+	.string "{STR_VAR_1}采摘了\l"
+	.string "{STR_VAR_2}个树果！\p"
+	.string "{STR_VAR_1}的背包被树\n"
+	.string "果塞得满满当当，之后甚至连走路都\l"
+	.string "很吃力了呢！$"
 
 gTVWhatsNo1InHoennTodayText07::
 	.string "{STR_VAR_1}今天获得了\n"
@@ -2195,12 +2215,10 @@ TVSecretBaseSecrets_Text_UsedSilverShield::
 	.string "访客睁大了眼睛！$"
 
 TVSecretBaseSecrets_Text_UsedGlassOrnament::
-	.string "The visitor is examining\n"
-	.string "a GLASS ORNAMENT!\p"
-	.string "Oh, no!\p"
-	.string "The visitor is touching it!\p"
-	.string "It's getting covered with\n"
-	.string "fingerprints…$"
+	.string "参观者正在端详一件玻璃装饰品！\p"
+	.string "噢，糟糕！\p"
+	.string "参观者伸手摸了！\p"
+	.string "上面沾满了指纹......$"
 
 TVSecretBaseSecrets_Text_UsedTV::
 	.string "访客正在看电视！\p"
@@ -2366,13 +2384,15 @@ gTVSafariFanClubText01::
 	.string "！$"
 
 gTVSafariFanClubText02::
-	.string "The TRAINER is clever with {POKEBLOCK}S.\n"
-	.string "Used {STR_VAR_2} that time, I think.$"
+	.string "那位训练家很会巧用\n"
+	.string "{POKEBLOCK}。那次好像\l"
+	.string "用了{STR_VAR_2}个吧。$"
 
 gTVSafariFanClubText03::
-	.string "The TRAINER didn't use a single\n"
-	.string "{POKEBLOCK}! Not a one!\p"
-	.string "There's an expert for you.$"
+	.string "那位训练家连一个\n"
+	.string "{POKEBLOCK}都没用！真\l"
+	.string "是一个都没用！\p"
+	.string "不愧是真正的高手啊。$"
 
 gTVSafariFanClubText04::
 	.string "记者：真的吗？\p"
@@ -2395,15 +2415,16 @@ gTVSafariFanClubText06::
 	.string "都没抓到呢！$"
 
 gTVSafariFanClubText07::
-	.string "The TRAINER does use {POKEBLOCK}S.\n"
-	.string "Used {STR_VAR_2} that time, I think.\p"
-	.string "But, boy, I wish the TRAINER would\n"
-	.string "get a bit better at this.$"
+	.string "那位训练家确实用了\n"
+	.string "{POKEBLOCK}。那次好像\l"
+	.string "用了{STR_VAR_2}个吧。\p"
+	.string "不过哎呀，真希望那位训练家的技巧\n"
+	.string "能再长进一点呢。$"
 
 gTVSafariFanClubText08::
-	.string "I think the TRAINER would have better\n"
-	.string "luck using {POKEBLOCK}S, which weren't\l"
-	.string "used at all that time.$"
+	.string "我觉得那位训练家如果用上\n"
+	.string "{POKEBLOCK}，运气可能\l"
+	.string "会更好些，那次可是一个都没用呢。$"
 
 gTVSafariFanClubText09::
 	.string "记者：是这样吗？\p"
@@ -2438,16 +2459,18 @@ ContestLiveUpdates_Text_Intro::
 	.string "！$"
 
 ContestLiveUpdates_Text_WonBothRounds::
-	.string "Spectator: The {STR_VAR_2} was tops in\n"
-	.string "both primary and secondary judging!\p"
-	.string "That {STR_VAR_2} will keep winning!$"
+	.string "观众：那只{STR_VAR_2}\n"
+	.string "在第一次和第二次审查中都名列前\l"
+	.string "茅！\p"
+	.string "那只{STR_VAR_2}肯定会\n"
+	.string "一直赢下去的！$"
 
 ContestLiveUpdates_Text_BetterRound2::
-	.string "Spectator: The {STR_VAR_2} didn't do\n"
-	.string "well in the primary judging, but it\l"
-	.string "cleaned up in the secondary judging!\p"
-	.string "It was a miraculous comeback\n"
-	.string "for that {STR_VAR_2}. Yippee!$"
+	.string "观众：那只{STR_VAR_2}\n"
+	.string "在第一次审查时表现平平，但在第二\l"
+	.string "次审查时却大获全胜！\p"
+	.string "对那只{STR_VAR_2}来说\n"
+	.string "简直是奇迹般的大逆转。好耶！$"
 
 ContestLiveUpdates_Text_EqualRounds::
 	.string "观众：{STR_VAR_2}从第\n"
@@ -2464,11 +2487,11 @@ ContestLiveUpdates_Text_BetterRound1::
 	.string "不过下次表演可以更有创意些。$"
 
 ContestLiveUpdates_Text_GotNervous::
-	.string "Spectator: When the {STR_VAR_2} got\n"
-	.string "nervous, I couldn't stop myself from\l"
-	.string "shouting encouragement.\p"
-	.string "I'd like to say this to that\n"
-	.string "{STR_VAR_2}, “Congratulations!”$"
+	.string "观众：在那只\n"
+	.string "{STR_VAR_2}感到紧张\l"
+	.string "时，我忍不住大声为它加油打气。\p"
+	.string "我想对那只{STR_VAR_2}\n"
+	.string "说一句：“恭喜你！”$"
 
 ContestLiveUpdates_Text_StartledFoes::
 	.string "观众：{STR_VAR_2}的招\n"

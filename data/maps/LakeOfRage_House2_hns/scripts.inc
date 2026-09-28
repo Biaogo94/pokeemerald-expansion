@@ -104,40 +104,41 @@ LakeOfRage_House2_EventScript_FisherSatisfied::
 	end
 
 LakeOfRage_House2_Text_LakeHistory:
-    .string "LAKE OF RAGE is actually a crater\n"
-    .string "made by rampaging GYARADOS.\p"
-    .string "The crater filled up with rainwater\n"
-    .string "and the LAKE was formed.\p"
-    .string "That's the story passed on from my\n"
-    .string "Grandpa's great-great-grandpa.\p"
-    .string "It used to be that you could catch\n"
-    .string "lively MAGIKARP there, but…\p"
-    .string "I don't understand what's happening.$"
+    .string "愤怒之湖其实是狂暴的暴鲤龙大肆破\n"
+    .string "坏留下的凹坑。\p"
+    .string "雨水积聚在凹坑里，最终形成了这个\n"
+    .string "湖泊。\p"
+    .string "这是从我爷爷的高祖父那一辈代代流\n"
+    .string "传下来的传说。\p"
+    .string "以前在那里还能钓到活蹦乱跳的鲤鱼\n"
+    .string "王，可是......\p"
+    .string "我完全搞不懂到底发生了什么。$"
 
 LakeOfRage_House2_Text_MenInBlack:
-    .string "The LAKE hasn't been normal since\n"
-    .string "those men wearing black arrived.$"
+    .string "自从那些穿黑衣服的家伙来之后，这\n"
+    .string "片湖就变得不正常了。$"
 
 LakeOfRage_House2_Text_LastMon:
-    .string "Well don't let me take your last\n"
-    .string "POKéMON!$"
+    .string "哎呀，我可不能夺走你最后的宝可\n"
+    .string "梦！$"
 
 LakeOfRage_House2_Text_WorldsLargest:
-    .string "LAKE OF RAGE is back to normal.\p"
-    .string "The MAGIKARP have returned.\p"
-    .string "I may yet realize my dream of own-\n"
-    .string "ing the world's largest MAGIKARP.\p"
-    .string "In fact... I'll pay you ¥2000 for\n"
-	.string "every MAGIKARP you give me, and\l"
-	.string "¥100,000 for a HUGE MAGIKARP!$"
+    .string "愤怒之湖恢复正常了。\p"
+    .string "鲤鱼王们都回来了。\p"
+    .string "我终于有机会实现拥有世界第一大鲤\n"
+    .string "鱼王的梦想了。\p"
+    .string "这样吧......你给我的每一条\n"
+    .string "鲤鱼王，我都付你¥2000，如果\l"
+    .string "是特大号鲤鱼王，我就给¥100,\l"
+    .string "000！$"
 
 LakeOfRage_House2_Text_ForMe:
-	.string "So... Do you have a MAGIKARP for\n"
-	.string "me?$"
+	.string "那么......你有带鲤鱼王来给\n"
+	.string "我吗？$"
 
 LakeOfRage_House2_Text_HaveMagikarp:
-    .string "Ah, you have a MAGIKARP! Let's\n"
-    .string "see how big that baby is.$"
+    .string "啊，你有鲤鱼王！来看看这个小家伙\n"
+    .string "有多大吧。$"
 
 LakeOfRage_House2_Text_BigPayout:
     .string "哇！这条真是太出色了！\p"
@@ -158,5 +159,5 @@ LakeOfRage_House2_Text_NotMagikarp:
     .string "什么？这不是鲤鱼王啊！$"
 
 LakeOfRage_House2_Text_Refused:
-    .string "Oh… So you didn't get one good\n"
-    .string "enough to show me? Maybe next time.$"
+    .string "哎......没钓到能拿得出手的\n"
+    .string "吗？那下次再说吧。$"

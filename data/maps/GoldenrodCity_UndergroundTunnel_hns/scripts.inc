@@ -372,8 +372,8 @@ GoldenrodUnderground_Text_OlderBrotherNeedMoreMoney:
     .string "这点钱可不够哦。$"
 
 GoldenrodUnderground_Text_OlderBrotherOnePerDay:
-    .string "I do only one haircut a day.\n"
-    .string "I'm done for today.$"
+    .string "我一天只理一次发。今天已经收工\n"
+    .string "啦。$"
 
 GoldenrodUnderground_Text_SupernerdEricSeen:
     .string "我被游戏城轰出来了。\p"
@@ -388,10 +388,9 @@ GoldenrodUnderground_Text_SupernerdEricAfterBattle:
     .string "..$"
 
 GoldenrodUnderground_Text_SupernerdTeruSeen:
-    .string "Do you consider type alignments in\n"
-    .string "battle?\p"
-    .string "If you know your type advantages,\n"
-    .string "you'll do better in battle.$"
+    .string "对战时你考虑过属性克制吗？\p"
+    .string "掌握了属性相克关系，对战就会轻松\n"
+    .string "许多哦。$"
 
 GoldenrodUnderground_Text_SupernerdTeruBeaten:
     .string "哎哟哟！$"
@@ -408,8 +407,8 @@ GoldenrodUnderground_Text_PokemaniacIssacBeaten:
     .string "哎呀呀--！$"
 
 GoldenrodUnderground_Text_PokemaniacIssacAfterBattle:
-    .string "Your POKéMON will like you more if\n"
-    .string "you give them haircuts.$"
+    .string "帮宝可梦理发的话，它们会变得更加\n"
+    .string "亲近你哦。$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldSeen:
     .string "你身上一定带着稀有的宝可梦吧。\p"
@@ -419,17 +418,17 @@ GoldenrodUnderground_Text_PokemaniacDonaldBeaten:
     .string "哇啊！居然输了！气死我了！$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldAfterBattle:
-	.string "When I was walking near the BIKE\n"
-	.string "SHOP last night, I felt like I was\l"
-	.string "being watched from the rooftops...$"
+	.string "昨晚我在脚踏车店附近散步时，总感\n"
+	.string "觉屋顶上有人在悄悄盯着我...\l"
+	.string "...$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldAfterBattleOld:
-    .string "Are you making a POKéDEX? Here's a\n"
-    .string "hot tip.\p"
-    .string "The HIKER on ROUTE 33, ANTHONY, is a\n"
-    .string "good guy.\p"
-    .string "He'll phone you if he sees any rare\n"
-    .string "POKéMON.$"
+    .string "你正在收集宝可梦图鉴吗？告诉你个\n"
+    .string "小道消息。\p"
+    .string "33号道路上的登山男太郎是个大好\n"
+    .string "人。\p"
+    .string "他要是发现了稀有的宝可梦，就会打\n"
+    .string "电话通知你的。$"
 
 GoldenrodUnderground_Text_DoorsLocked:
     .string "门上着锁......$"

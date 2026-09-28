@@ -621,15 +621,14 @@ RuinsOfAlph_Lab_Text_DevelopingNewBalls:
 	.string "不过进展不太顺利......$"
 
 RuinsOfAlph_Lab_Text_WeFinallyMadeNewBalls:
-	.string "We finally made new kinds of\n"
-	.string "POKé BALLS!\p"
-	.string "The REPEAT BALL makes it easier to\n"
-	.string "catch POKéMON you've caught before.\p"
-	.string "The TIMER BALL gets better at catching\n"
-	.string "POKéMON the longer a battle runs.\p"
-	.string "Both are proudly developed by\n"
-	.string "the DEVON CORPORATION.\p"
-	.string "Please give them a try!$"
+	.string "我们终于做出了新型的精灵球！\p"
+	.string "“重复球”能更容易捕捉到曾经捉到\n"
+	.string "过的宝可梦。\p"
+	.string "战斗回合数越久，“时间球”就越容\n"
+	.string "易捉到宝可梦。\p"
+	.string "这两款都是由得文公司引以为傲研发\n"
+	.string "出的产品。\p"
+	.string "请一定要买来试试看哦！$"
 
 RuinsOfAlph_Lab_Text_IMadePokenav:
 	.string "是我做出了宝可梦领航员！\p"
@@ -656,12 +655,11 @@ RuinsOfAlph_Lab_Text_DevelopDeviceToResurrectFossils:
 	.string "而且，它成功运转了！$"
 
 RuinsOfAlph_Lab_Text_WantToBringFossilBackToLife:
-	.string "Wait! That thing you have there…\n"
-	.string "Is that a POKéMON fossil?\p"
-	.string "Would you like to bring that POKéMON\n"
-	.string "back to life?\p"
-	.string "I can with my newly developed\n"
-	.string "FOSSIL REGENERATOR.$"
+	.string "等等！你手上的那个东西....\n"
+	.string "..难道是宝可梦的化石？！\p"
+	.string "你想让那只宝可梦重获新生吗？\p"
+	.string "用我最新研发的“化石复原机”，就\n"
+	.string "能做到哦。$"
 
 RuinsOfAlph_Lab_Text_OhIsThatSo:
 	.string "哦，是这样吗？\p"
@@ -686,12 +684,12 @@ RuinsOfAlph_Lab_Text_HandedFossilToResearcher:
 	.string "研究员。$"
 
 RuinsOfAlph_Lab_Text_FossilRegeneratorTakesTime:
-	.string "The FOSSIL REGENERATOR, which I made,\n"
-	.string "is incredible.\p"
-	.string "But it has one drawback--it takes\n"
-	.string "a long time to work.\p"
-	.string "So, uh… How about you go for a stroll\n"
-	.string "and look around for a while?$"
+	.string "我制造的“化石复原机”可是非常了\n"
+	.string "不起的。\p"
+	.string "但它有一个缺点--复原运转需要花\n"
+	.string "相当长的一段时间。\p"
+	.string "所以，呃......不如你在附近\n"
+	.string "散散步，四处逛逛消磨一下时间吧？$"
 
 RuinsOfAlph_Lab_Text_FossilizedMonBroughtBackToLife:
 	.string "让你久等了！\p"

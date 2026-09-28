@@ -305,20 +305,17 @@ FallarborTown_BattleTentLobby_hns_EventScript_ExitRules::
 	end
 
 FallarborTown_BattleTentLobby_hns_Text_MakeThinkImJustKid:
-	.string "Fufufufufu.\p"
-	.string "I'm going to make everyone think\n"
-	.string "I'm just a kid and let them play down.\p"
-	.string "Then, I'll shock them and grab\n"
-	.string "the title!$"
+	.string "呼呼呼呼。\p"
+	.string "我要让大家以为我只是个小屁孩，让\n"
+	.string "他们对我放松警惕。\p"
+	.string "然后，我要一鸣惊人夺下冠军！$"
 
 FallarborTown_BattleTentLobby_hns_Text_FallarborTentMyFavorite:
-	.string "You know how BATTLE TENTS offer\n"
-	.string "different events?\p"
-	.string "My favorite is definitely the red\n"
-	.string "colored TENT.\p"
-	.string "I think it's fantastic how TRAINERS\n"
-	.string "try to win with all their faith in\l"
-	.string "their POKéMON.$"
+	.string "你知道对战帐篷每个地方的规则都不\n"
+	.string "同吗？\p"
+	.string "我最喜欢的绝对是红色的帐篷。\p"
+	.string "训练家全身心信任着自己的宝可梦去\n"
+	.string "赢取胜利，这实在太棒了。$"
 
 FallarborTown_BattleTentLobby_hns_Text_CameToCampOut:
 	.string "我听说这里有个帐篷，还以为是来露\n"
@@ -327,22 +324,20 @@ FallarborTown_BattleTentLobby_hns_Text_CameToCampOut:
 	.string "既然都来了，那我也来试试对战吧！$"
 
 FallarborTown_BattleTentLobby_hns_Text_ScottLookingForSomeone:
-	.string "SCOTT: Hi, {PLAYER}{KUN}!\n"
-	.string "So you came out to this BATTLE TENT!\p"
-	.string "The people in these parts tend to be\n"
-	.string "easygoing and laid-back.\p"
-	.string "But, you see, what I'm looking for are\n"
-	.string "people with…\p"
-	.string "How should I say this?\p"
-	.string "Someone bursting with the desire\n"
-	.string "and the drive to win.\p"
-	.string "If there were a TRAINER like that,\n"
-	.string "I'd immediately…\p"
-	.string "Whoops! Never mind!\n"
-	.string "Keep working at it!$"
+	.string "亚希达：嗨，{PLAYER}\n"
+	.string "{KUN}！你也来到这个对战帐篷\l"
+	.string "啦！\p"
+	.string "这一带的人性子都慢吞吞、优哉游哉\n"
+	.string "的。\p"
+	.string "但是呢，我真正寻找的，是那种.\n"
+	.string ".....\p"
+	.string "该怎么说呢？\p"
+	.string "那种对胜利充满了渴望与冲劲的人。\p"
+	.string "要是有那样的训练家，我马上就会\n"
+	.string "......\p"
+	.string "哎呀！没什么！继续加油吧！$"
 
 FallarborTown_BattleTentLobby_hns_Text_ScottMakeChallenge:
-	.string "SCOTT: Instead of wasting your\n"
-	.string "time with the likes of me, why not\l"
-	.string "make a challenge?$"
+	.string "亚希达：与其把时间浪费在我身上，\n"
+	.string "不如快去挑战一场试试？$"
 

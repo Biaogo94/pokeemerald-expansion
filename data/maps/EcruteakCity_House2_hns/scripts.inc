@@ -14,14 +14,13 @@ Ecruteak_Text_ItemfinderTrueSpirit:
 	.string "。$"
 
 Ecruteak_Text_ItemfinderExplanation:
-	.string "There are many items lying about\n"
-	.string "that aren't obvious.\p"
-	.string "Use DOWSING MACHINE to check if there\n"
-	.string "is an item on the ground near you.\p"
-	.string "It doesn't show the exact spot,\n"
-	.string "so you'll have to look yourself.\p"
-	.string "Oh yeah--I heard there are items\n"
-	.string "in ECRUTEAK's BURNED TOWER.$"
+	.string "四处散落着很多看不见的道具。\p"
+	.string "使用探宝器就能确认你周围的地面上\n"
+	.string "是否有道具。\p"
+	.string "不过它不会显示准确的位置，所以得\n"
+	.string "靠你自己去找找看。\p"
+	.string "对了--我听说圆朱市的烧焦塔里也\n"
+	.string "有道具哦。$"
 
 Ecruteak_Text_ItemfinderToEachHisOwn:
 	.string "哎......真是人各有志呢..\n"

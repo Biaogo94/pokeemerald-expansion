@@ -44,12 +44,10 @@ Route27_Movement_FollowerJump:
 	step_end
 
 SandstormHouse_Text_Woman1:
-    .string "Where are you off to with\n"
-    .string "POKéMON?\p"
-    .string "POKéMON LEAGUE?\p"
-    .string "Are your POKéMON loyal enough for\n"
-    .string "you to win?\p"
-    .string "Let me see…$"
+    .string "你要带着宝可梦去哪儿？\p"
+    .string "宝可梦联盟？\p"
+    .string "它们对你够忠诚，能让你获胜吗？\p"
+    .string "让我看看……$"
 
 SandstormHouse_Text_LoyalMon:
     .string "啊！你的宝可梦非常信任你呢。\p"
@@ -57,11 +55,11 @@ SandstormHouse_Text_LoyalMon:
     .string "来，送你一件旅途的礼物。$"
 
 SandstormHouse_Text_TM37Description:
-    .string "TM37 happens to be SANDSTORM.\p"
-    .string "It's a move that inflicts damage\n"
-    .string "on both battlers.\p"
-    .string "It's for advanced trainers only.\p"
-    .string "Use it if you dare. Good luck!$"
+    .string "招式学习器37是“沙暴”。\p"
+    .string "这是个会对对战双方都造成伤害的招\n"
+    .string "式。\p"
+    .string "只有高水平的训练家才能驾驭它。\p"
+    .string "有胆识的话就试试看吧。祝你好运！$"
 
 SandstormHouse_Text_DisloyalMon:
     .string "如果它不能更信任你的话，接下来可\n"

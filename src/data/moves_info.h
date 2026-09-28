@@ -30,12 +30,12 @@ static const u8 sMegaDrainDescription[] = _(
 
 #if B_SKIP_RECHARGE != GEN_1
 static const u8 sHyperBeamDescription[] = _(
-    "Powerful, but leaves the\n"
-    "user immobile the next turn.");
+    "威力巨大，但下一回合\n"
+    "自身将无法动弹。");
 #else
 static const u8 sHyperBeamDescription[] = _(
-    "Leaves the user immobile\n"
-    "if target is not KO'd.");
+    "若未能将对手击倒，\n"
+    "自身下一回合将无法动弹。");
 #endif
 
 static const u8 sRevengeDescription[] = _(
@@ -308,11 +308,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("冰冻拳"),
         .description = COMPOUND_STRING(
-            "An icy punch that may\n"
+            "充满寒气的拳击。\n"
         #if B_USE_FROSTBITE == TRUE
-            "leave the foe with frostbite."),
+            "有时会让对手陷入霜冻状态。"),
         #else
-            "freeze the foe."),
+            "冰冻对手。"),
         #endif
         .effect = EFFECT_HIT,
         .power = 75,
@@ -432,15 +432,15 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RAZOR_WIND] =
     {
-        .name = COMPOUND_STRING("RAZOR WIND"),
+        .name = COMPOUND_STRING("旋风刀"),
         #if B_UPDATED_MOVE_DATA == GEN_3 || B_UPDATED_MOVE_DATA == GEN_1
             .description = COMPOUND_STRING(
-                "A 2-turn move that strikes\n"
-                "the foe on the 2nd turn."),
+                "第1回合蓄力，\n"
+                "第2回合攻击对手。"),
         #else
             .description = COMPOUND_STRING(
-                "A 2-turn move with a high\n"
-                "critical-hit ratio."),
+                "第2回合攻击对手，\n"
+                "且容易击中要害。"),
         #endif
         .effect = EFFECT_TWO_TURNS_ATTACK,
         .power = 80,
@@ -635,8 +635,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("绑紧"),
         .description = COMPOUND_STRING(
-            "Binds and squeezes the foe\n"
-            "for "BINDING_TURNS" turns."),
+            "勒紧并压迫对手，\n"
+            "持续数回合进行攻击。"BINDING_TURNS""),
         .effect = EFFECT_HIT,
         .power = 15,
         .type = TYPE_NORMAL,
@@ -687,8 +687,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("藤鞭"),
         .description = COMPOUND_STRING(
-            "Strikes the foe with\n"
-            "slender, whiplike vines."),
+            "用细长如鞭的藤蔓\n"
+            "摔打对手进行攻击。"),
         #if B_UPDATED_MOVE_DATA >= GEN_6
             .pp = 25,
         #elif B_UPDATED_MOVE_DATA >= GEN_4
@@ -790,8 +790,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("飞踢"),
         .description = COMPOUND_STRING(
-            "A strong jumping kick. May\n"
-            "miss and hurt the kicker."),
+            "使出强力的腾空踢。\n"
+            "如果踢偏则自己会受伤害。"),
         #if B_UPDATED_MOVE_DATA >= GEN_5
             .power = 100,
         #elif B_UPDATED_MOVE_DATA == GEN_4
@@ -966,8 +966,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("撞击"),
         .description = COMPOUND_STRING(
-            "Charges the foe with a full-\n"
-            "body tackle."),
+            "使出全身的力气\n"
+            "猛烈撞击对手。"),
         #if B_UPDATED_MOVE_DATA >= GEN_7
             .power = 40,
         #elif B_UPDATED_MOVE_DATA >= GEN_5
@@ -1023,8 +1023,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("紧束"),
         .description = COMPOUND_STRING(
-            "Wraps and squeezes the foe\n"
-            BINDING_TURNS" times with vines, etc."),
+            "用藤蔓等紧紧勒住对手，\n"
+            BINDING_TURNS"在数回合内持续攻击。"),
         .effect = EFFECT_HIT,
         .power = 15,
         .type = TYPE_NORMAL,
@@ -1413,13 +1413,13 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("定身法"),
         .description = COMPOUND_STRING(
         #if B_DISABLE_TURNS >= GEN_5
-            "For 4 turns, prevents foe\n"
+            "在4回合内妨碍对手，\n"
         #elif B_DISABLE_TURNS == GEN_4
-            "For 4-7 turns, prevents foe\n"
+            "在4~7回合内妨碍对手，\n"
         #else
-            "For 2-5 turns, prevents foe\n"
+            "在2~5回合内妨碍对手，\n"
         #endif
-            "from using last used move."),
+            "使其无法使出上次用的招式。"),
         #if B_UPDATED_MOVE_DATA >= GEN_5
             .accuracy = 100,
         #elif B_UPDATED_MOVE_DATA == GEN_4
@@ -1449,11 +1449,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("溶解液"),
         .description = COMPOUND_STRING(
-            "Sprays a hide-melting acid.\n"
+            "喷出能溶化皮肤的强酸。\n"
         #if B_UPDATED_MOVE_DATA >= GEN_4
-            "May lower Sp. Def."),
+            "有时会降低对手的特防。"),
         #else
-            "May lower Defense."),
+            "有时会降低防御。"),
         #endif
         .effect = EFFECT_HIT,
         .power = 40,
@@ -1596,11 +1596,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("冲浪"),
         .description = COMPOUND_STRING(
-            "Creates a huge wave, then\n"
+            "掀起巨大的海浪\n"
         #if B_UPDATED_MOVE_DATA >= GEN_4
-            "crashes it down on the field."),
+            "猛烈拍击整个战场。"),
         #else
-            "crashes it down on the foes."),
+            "猛烈拍向所有对手。"),
         #endif
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_6 ? 90 : 95,
@@ -1624,11 +1624,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("冰冻光束"),
         .description = COMPOUND_STRING(
-            "Blasts the foe with an icy\n"
+            "向对手发射冰冻光束。\n"
         #if B_USE_FROSTBITE == TRUE
-            "beam. May cause frostbite."),
+            "有时会使其陷入霜冻状态。"),
         #else
-            "beam that may freeze it."),
+            "光束，有时使其冰冻。"),
         #endif
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_6 ? 90 : 95,
@@ -1656,11 +1656,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("暴风雪"),
         .description = COMPOUND_STRING(
-            "Hits the foes with an icy\n"
+            "向对手刮起强烈的冰风暴。\n"
         #if B_USE_FROSTBITE == TRUE
-            "storm. May cause frostbite."),
+            "有时会使其陷入霜冻状态。"),
         #else
-            "storm that may freeze it."),
+            "风雪，有时使其冰冻。"),
         #endif
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_6 ? 110 : 120,
@@ -1854,16 +1854,16 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LOW_KICK] =
     {
-        .name = COMPOUND_STRING("LOW KICK"),
+        .name = COMPOUND_STRING("踢倒"),
         #if B_UPDATED_MOVE_DATA >= GEN_3
             .description = COMPOUND_STRING(
-                "A kick that inflicts more\n"
-                "damage on heavier foes."),
+                "对手的体重越重，\n"
+                "造成的踢击伤害越大。"),
             .effect = EFFECT_LOW_KICK,
         #else
             .description = COMPOUND_STRING(
-                "A low, tripping kick that\n"
-                "may cause flinching."),
+                "使出绊倒对手的下段踢。\n"
+                "有时会使对手畏缩。"),
             .effect = EFFECT_HIT,
             .additionalEffects = ADDITIONAL_EFFECTS({
                 .moveEffect = MOVE_EFFECT_FLINCH,
@@ -2042,11 +2042,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("生长"),
         .description = COMPOUND_STRING(
         #if B_GROWTH_STAT_RAISE >= GEN_5
-            "Forces the body to grow,\n"
-            "raising Attack and Sp. Atk."),
+            "促使身体快速生长，\n"
+            "从而提高攻击与特攻。"),
         #else
-            "Forces the body to grow\n"
-            "and heightens Sp. Atk."),
+            "促使身体快速生长\n"
+            "并提高特攻。"),
         #endif
         .effect = B_GROWTH_STAT_RAISE >= GEN_5 ? EFFECT_GROWTH : EFFECT_SPECIAL_ATTACK_UP,
         .power = 0,
@@ -2199,8 +2199,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("花瓣舞"),
         .description = COMPOUND_STRING(
-            "A rampage of 2 to 3 turns\n"
-            "that confuses the user."),
+            "在2~3回合内大闹一番。\n"
+            "之后自己会陷入混乱。"),
         #if B_UPDATED_MOVE_DATA >= GEN_5
             .power = 120,
         #elif B_UPDATED_MOVE_DATA == GEN_4
@@ -2281,8 +2281,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("火焰旋涡"),
         .description = COMPOUND_STRING(
-            "Traps the foe in a ring of\n"
-            "fire for "BINDING_TURNS" turns."),
+            "用熊熊烈火包围对手，\n"
+            "困住数回合进行攻击。"BINDING_TURNS""),
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_5 ? 35 : 15,
         .type = TYPE_FIRE,
@@ -2716,15 +2716,15 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TELEPORT] =
     {
-        .name = COMPOUND_STRING("TELEPORT"),
+        .name = COMPOUND_STRING("瞬间移动"),
         #if B_TELEPORT_BEHAVIOR >= GEN_8
         .description = COMPOUND_STRING(
-            "Switches the user out last.\n"
-            "Flees when used by wild {PKMN}."),
+            "后制换下自身宝可梦。\n"
+            "野生{PKMN}使用时会逃跑。"),
         #else
         .description = COMPOUND_STRING(
-            "A psychic move for fleeing\n"
-            "from battle instantly."),
+            "利用超能力招式\n"
+            "瞬间从战斗中脱身。"),
         #endif
         .effect = EFFECT_TELEPORT,
         .power = 0,
@@ -2853,8 +2853,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("自我再生"),
         .description = COMPOUND_STRING(
-            "Recovers up to half the\n"
-            "user's maximum HP."),
+            "回复自身最大HP的\n"
+            "一半。"),
         #if B_UPDATED_MOVE_DATA >= GEN_9
             .pp = 5,
         #elif B_UPDATED_MOVE_DATA >= GEN_4
@@ -2912,11 +2912,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("变小"),
         .description = COMPOUND_STRING(
-            "Minimizes the user's size to\n"
+            "缩小自己的身体，\n"
         #if B_MINIMIZE_EVASION >= GEN_5
-            "sharply raise evasiveness."),
+            "大幅提高闪避率。"),
         #else
-            "raise evasiveness."),
+            "提高闪避率。"),
         #endif
         .effect = EFFECT_MINIMIZE,
         .power = 0,
@@ -3473,8 +3473,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("贝壳夹击"),
         .description = COMPOUND_STRING(
-            "Traps and squeezes the\n"
-            "foe for "BINDING_TURNS" turns."),
+            "紧紧勒住对手，\n"
+            "困住数回合进行攻击。"BINDING_TURNS""),
         .effect = EFFECT_HIT,
         .power = 35,
         .type = TYPE_WATER,
@@ -3680,8 +3680,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("飞膝踢"),
         .description = COMPOUND_STRING(
-            "A jumping knee kick. If it\n"
-            "misses, the user is hurt."),
+            "跳起使出飞膝撞。\n"
+            "如果踢偏则自己会受伤害。"),
         #if B_UPDATED_MOVE_DATA >= GEN_5
             .power = 130,
         #elif B_UPDATED_MOVE_DATA == GEN_4
@@ -3710,8 +3710,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("大蛇瞪眼"),
         .description = COMPOUND_STRING(
-            "Intimidates and frightens\n"
-            "the foe into paralysis."),
+            "瞪视威吓对手使其害怕，\n"
+            "从而陷入麻痹状态。"),
         #if B_UPDATED_MOVE_DATA >= GEN_6
             .accuracy = 100,
         #elif B_UPDATED_MOVE_DATA == GEN_5
@@ -3766,11 +3766,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("毒瓦斯"),
         .description = COMPOUND_STRING(
         #if B_UPDATED_MOVE_DATA >= GEN_5
-            "Envelops the foes in a toxic\n"
+            "用毒瓦斯包围对手，\n"
         #else
-            "Envelops the foe in a toxic\n"
+            "用毒瓦斯包围对手，\n"
         #endif
-            "gas that may poison."),
+            "有时会使其陷入中毒。"),
         #if B_UPDATED_MOVE_DATA >= GEN_6
             .accuracy = 90,
         #elif B_UPDATED_MOVE_DATA == GEN_5
@@ -3959,15 +3959,15 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DIZZY_PUNCH] =
     {
-        .name = COMPOUND_STRING("DIZZY PUNCH"),
+        .name = COMPOUND_STRING("迷昏拳"),
         #if B_UPDATED_MOVE_DATA >= GEN_2
             .description = COMPOUND_STRING(
-                "A rhythmic punch that may\n"
-                "confuse the target."),
+                "节奏轻快地出拳，\n"
+                "有时会使目标混乱。"),
         #else
             .description = COMPOUND_STRING(
-                "The target is hit with\n"
-                "rhythmic punches."),
+                "以节奏轻快的重拳\n"
+                "击打目标。"),
         #endif
         .effect = EFFECT_HIT,
         .power = 70,
@@ -4240,15 +4240,15 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ROCK_SLIDE] =
     {
-        .name = COMPOUND_STRING("ROCK SLIDE"),
+        .name = COMPOUND_STRING("岩崩"),
         #if B_UPDATED_MOVE_DATA >= GEN_2
             .description = COMPOUND_STRING(
-                "Large boulders are hurled.\n"
-                "May cause flinching."),
+                "投掷巨大的岩石。\n"
+                "有时会使对手畏缩。"),
         #else
             .description = COMPOUND_STRING(
-                "Hits the foe with an\n"
-                "avalanche of rocks."),
+                "用崩塌的岩石\n"
+                "击打对手。"),
         #endif
         .effect = EFFECT_HIT,
         .power = 75,
@@ -4330,11 +4330,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("纹理"),
         .description = COMPOUND_STRING(
-            "Changes the user's type\n"
+            "将自身的属性转变为\n"
         #if B_UPDATED_CONVERSION >= GEN_6
-            "into first known move's type."),
+            "首个已学会招式的属性。"),
         #else
-            "into a known move's type."),
+            "已学会招式的属性。"),
         #endif
         .effect = EFFECT_CONVERSION,
         .power = 0,
@@ -4358,19 +4358,19 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TRI_ATTACK] =
     {
-        .name = COMPOUND_STRING("TRI ATTACK"),
+        .name = COMPOUND_STRING("三重攻击"),
         #if B_UPDATED_MOVE_DATA >= GEN_2
             .description = COMPOUND_STRING(
-                "Fires three types of beams.\n"
+                "射出3种光线。可能使对手\n"
                 #if B_USE_FROSTBITE == TRUE
-                    "May burn/para/frostbite."),
+                    "陷入灼伤、麻痹或霜冻。"),
                 #else
-                    "May burn/paralyze/freeze."),
+                    "可能灼伤、麻痹或冰冻。"),
                 #endif
         #else
             .description = COMPOUND_STRING(
-                "A triangular field of energy\n"
-                "is created and launched."),
+                "制造出三角形的能量场，\n"
+                "并发射出去。"),
         #endif
         .effect = EFFECT_HIT,
         .power = 80,
@@ -4475,8 +4475,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("挣扎"),
         .description = COMPOUND_STRING(
-            "Used only if all PP are gone.\n"
-            "Also hurts the user a little."),
+            "仅在所有PP耗尽时使用。\n"
+            "自身也会受到少许伤害。"),
         #if B_UPDATED_MOVE_DATA >= GEN_4
             .effect = EFFECT_STRUGGLE,
             .accuracy = 0,
@@ -4835,11 +4835,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("棉孢子"),
         .description = COMPOUND_STRING(
         #if B_UPDATED_MOVE_DATA >= GEN_6
-            "Spores cling to the foes,\n"
+            "孢子紧附在对手身上，\n"
         #else
-            "Spores cling to the foe,\n"
+            "孢子紧附在对手身上，\n"
         #endif
-            "sharply reducing Speed."),
+            "大幅降低对手的速度。"),
         .effect = EFFECT_SPEED_DOWN_2,
         .power = 0,
         .type = TYPE_GRASS,
@@ -4886,11 +4886,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("怨恨"),
         .description = COMPOUND_STRING(
-            "Spitefully cuts the PP\n"
+            "怨恨对手最后使用的招式，\n"
         #if B_PP_REDUCED_BY_SPITE >= GEN_4
-            "of the foe's last move by 4."),
+            "使其PP减少4点。"),
         #else
-            "of foe's last move by 2-5."),
+            "使其PP减少2到5点。"),
         #endif
         .effect = EFFECT_SPITE,
         .power = 0,
@@ -4915,11 +4915,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("细雪"),
         .description = COMPOUND_STRING(
-            "Blasts the foes with a snowy\n"
+            "用暴风雪猛烈吹袭对手。\n"
         #if B_USE_FROSTBITE == TRUE
-            "gust. May cause frostbite."),
+            "有时会使其陷入霜冻。"),
         #else
-            "gust. May cause freezing."),
+            "寒风，有时使其冰冻。"),
         #endif
         .effect = EFFECT_HIT,
         .power = 40,
@@ -5681,8 +5681,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("连斩"),
         .description = COMPOUND_STRING(
-            "Attack that intensifies\n"
-            "on each successive hit."),
+            "连续击中对手时，\n"
+            "威力会逐渐提高。"),
         #if B_UPDATED_MOVE_DATA >= GEN_6
             .power = 40,
         #elif B_UPDATED_MOVE_DATA == GEN_5
@@ -6171,11 +6171,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("高速旋转"),
         .description = COMPOUND_STRING(
-            "User spins and removes some\n"
+            "自身旋转摆脱部分束缚，\n"
         #if B_SPEED_BUFFING_RAPID_SPIN >= GEN_8
-            "effects, while upping speed."),
+            "同时提高速度。"),
         #else
-            "effects."),
+            "束缚效果。"),
         #endif
         .effect = EFFECT_RAPID_SPIN,
         .power = B_UPDATED_MOVE_DATA >= GEN_8 ? 50 : 20,
@@ -6206,11 +6206,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("甜甜香气"),
         .description = COMPOUND_STRING(
         #if B_UPDATED_MOVE_DATA >= GEN_6
-            "Allures the foes to harshly\n"
-            "reduce evasiveness."),
+            "用香气诱惑对手，\n"
+            "大幅降低其闪避率。"),
         #else
-            "Allures the foes to reduce\n"
-            "evasiveness."),
+            "用香气诱惑对手\n"
+            "降低其闪避率。"),
         #endif
         .effect = B_UPDATED_MOVE_DATA >= GEN_6 ? EFFECT_EVASION_DOWN_2 : EFFECT_EVASION_DOWN,
         .power = 0,
@@ -6394,11 +6394,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("觉醒力量"),
         .description = COMPOUND_STRING(
         #if B_HIDDEN_POWER_DMG >= GEN_6
-            "The type varies\n"
-            "with the user."),
+            "招式的属性\n"
+            "因使用者而异。"),
         #else
-            "The type and effectiveness\n"
-            "vary with the user."),
+            "招式的属性及威力\n"
+            "因使用者而异。"),
         #endif
         .power = B_HIDDEN_POWER_DMG >= GEN_6 ? 60 : 1,
         .effect = EFFECT_HIDDEN_POWER,
@@ -6524,11 +6524,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("咬碎"),
         .description = COMPOUND_STRING(
-            "Crunches with sharp fangs.\n"
+            "用锋利的尖牙咬碎对手。\n"
         #if B_UPDATED_MOVE_DATA >= GEN_4
-            "May lower Defense."),
+            "有时会降低对手的防御。"),
         #else
-            "May lower Sp. Def."),
+            "有时会降低特防。"),
         #endif
         .effect = EFFECT_HIT,
         .power = 80,
@@ -6697,8 +6697,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("预知未来"),
         .description = COMPOUND_STRING(
-            "Heightens inner power to\n"
-            "strike 2 turns later."),
+            "提高内在的精神力量，\n"
+            "在2回合后发动攻击。"),
         #if B_UPDATED_MOVE_DATA >= GEN_6
             .power = 120,
         #elif B_UPDATED_MOVE_DATA == GEN_5
@@ -6754,8 +6754,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("潮旋"),
         .description = COMPOUND_STRING(
-            "Traps and hurts the foe in\n"
-            "a whirlpool for "BINDING_TURNS" turns."),
+            "将对手困在漩涡中，\n"
+            "在数回合内持续造成伤害。"BINDING_TURNS""),
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_5 ? 35 : 15,
         .type = TYPE_WATER,
@@ -6837,11 +6837,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("吵闹"),
         .description = COMPOUND_STRING(
         #if B_UPROAR_TURNS >= GEN_5
-            "Causes an uproar for 3\n"
+            "大吵大闹3回合，\n"
         #else
-            "Causes an uproar for 2 to 5\n"
+            "大吵大闹2到5回合，\n"
         #endif
-            "turns and prevents sleep."),
+            "期间谁都无法入眠。"),
         .effect = EFFECT_UPROAR,
         .power = B_UPDATED_MOVE_DATA >= GEN_5 ? 90 : 50,
         .type = TYPE_NORMAL,
@@ -6972,15 +6972,15 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HAIL] =
     {
-        .name = COMPOUND_STRING("HAIL"),
+        .name = COMPOUND_STRING("冰雹"),
         #if B_PREFERRED_ICE_WEATHER == B_ICE_WEATHER_SNOW
             .description = COMPOUND_STRING(
-                "Summons a snowstorm that\n"
-                "lasts for five turns."),
+                "降下暴风雪，\n"
+                "持续5回合。"),
         #else
             .description = COMPOUND_STRING(
-                "Summons a hailstorm that\n"
-                "strikes every turn."),
+                "降下冰雹，\n"
+                "在每回合都造成伤害。"),
         #endif
         .effect = EFFECT_WEATHER,
         .power = 0,
@@ -7916,11 +7916,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .name = COMPOUND_STRING("萤火"),
         .description = COMPOUND_STRING(
         #if B_UPDATED_MOVE_DATA >= GEN_5
-            "Flash light that drastically\n"
+            "发出强光大幅\n"
         #else
-            "Flashes a light that sharply\n"
+            "发出强光大幅\n"
         #endif
-            "raises Sp. Atk."),
+            "提高特攻。"),
         .effect = B_UPDATED_MOVE_DATA >= GEN_5 ? EFFECT_SPECIAL_ATTACK_UP_3 : EFFECT_SPECIAL_ATTACK_UP_2,
         .power = 0,
         .type = TYPE_BUG,
@@ -8802,8 +8802,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("流沙深渊"),
         .description = COMPOUND_STRING(
-            "Traps and hurts the foe in\n"
-            "quicksand for "BINDING_TURNS" turns."),
+            "将对手困在流沙中，\n"
+            "在数回合内持续造成伤害。"BINDING_TURNS""),
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_5 ? 35 : 15,
         .type = TYPE_GROUND,
@@ -9211,15 +9211,15 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_VOLT_TACKLE] =
     {
-        .name = COMPOUND_STRING("VOLT TACKLE"),
+        .name = COMPOUND_STRING("伏特攻击"),
         #if B_UPDATED_MOVE_DATA >= GEN_4
         .description = COMPOUND_STRING(
-            "A life-risking tackle that\n"
-            "hurts the user. May paralyze."),
+            "拼命冲撞对手进行攻击。\n"
+            "自己也会受伤。有时会让对手麻痹。"),
         #else
         .description = COMPOUND_STRING(
-            "A life-risking tackle that\n"
-            "slightly hurts the user."),
+            "拼命扑向对手进行攻击。\n"
+            "自己也会受到少许伤害。"),
         #endif
         .effect = EFFECT_RECOIL,
         .power = 120,
@@ -9764,11 +9764,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("顺风"),
         .description = COMPOUND_STRING(
-            "Whips up a breeze, doubling\n"
+            "刮起狂风，在4回合内\n"
         #if B_TAILWIND_TURNS >= GEN_5
-            "ally Speed for 4 turns."),
+            "提高同伴的速度。"),
         #else
-            "ally Speed for 3 turns."),
+            "同伴速度持续3回合。"),
         #endif
         .effect = EFFECT_TAILWIND,
         .power = 0,
@@ -11139,11 +11139,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("冰冻牙"),
         .description = COMPOUND_STRING(
-            "May cause flinching or\n"
+            "有时会使对手畏缩，\n"
         #if B_USE_FROSTBITE == TRUE
-            "leave the foe with frostbite."),
+            "或者陷入霜冻状态。"),
         #else
-            "leave the foe frozen."),
+            "使对手陷入冰冻状态。"),
         #endif
         .effect = EFFECT_HIT,
         .power = 65,
@@ -12130,8 +12130,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("熔岩风暴"),
         .description = COMPOUND_STRING(
-            "Traps the foe in a vortex\n"
-            "of fire for "BINDING_TURNS" turns."),
+            "将对手困在火焰旋涡中，\n"
+            "在回合内持续造成伤害。"BINDING_TURNS""),
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_6 ? 100 : 120,
         .type = TYPE_FIRE,
@@ -14809,11 +14809,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("冷冻干燥"),
         .description = COMPOUND_STRING(
-            "Super effective on Water-\n"
+            "对水属性效果绝佳。\n"
         #if B_USE_FROSTBITE == TRUE
-            "types. May cause frostbite."),
+            "有时会使对手陷入霜冻状态。"),
         #else
-            "types. May cause freezing."),
+            "属性，有时使其冰冻。"),
         #endif
         .effect = EFFECT_SUPER_EFFECTIVE_ON_ARG,
         .power = 70,
@@ -15756,8 +15756,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("纠缠不休"),
         .description = COMPOUND_STRING(
-            "The foe is infested and\n"
-            "attacked for "BINDING_TURNS" turns."),
+            "死缠烂打对手，\n"
+            "在回合内持续造成伤害。"BINDING_TURNS""),
         .effect = EFFECT_HIT,
         .power = 20,
         .type = TYPE_BUG,
@@ -16891,19 +16891,19 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AURORA_VEIL] =
     {
-        .name = COMPOUND_STRING("AURORA VEIL"),
+        .name = COMPOUND_STRING("极光幕"),
         #if B_PREFERRED_ICE_WEATHER == B_ICE_WEATHER_SNOW
         .description = COMPOUND_STRING(
-            "Weakens all attacks, but\n"
-            "only usable with snow."),
+            "减弱所有受到的攻击，\n"
+            "但只有在下雪时才可以使用。"),
         #elif B_PREFERRED_ICE_WEATHER == B_ICE_WEATHER_BOTH
         .description = COMPOUND_STRING(
-            "Weakens all attacks if\n"
-            "used in hail or snow."),
+            "若在冰雹或下雪时使用，\n"
+            "可以减弱所有受到的攻击。"),
         #else
         .description = COMPOUND_STRING(
-            "Weakens all attacks, but\n"
-            "only usable with hail."),
+            "减弱所有受到的攻击，\n"
+            "但只有在降雹时才可以使用。"),
         #endif
         .effect = EFFECT_AURORA_VEIL,
         .power = 0,
@@ -17469,11 +17469,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("活活气泡"),
         .description = COMPOUND_STRING(
-            "Attack that absorbs\n"
+            "进行攻击，吸取给予对手\n"
         #if B_UPDATED_MOVE_DATA >= GEN_8
-            "all the damage inflicted."),
+            "伤害的全部HP。"),
         #else
-            "half the damage inflicted."),
+            "所造成伤害一半HP。"),
         #endif
         .effect = EFFECT_ABSORB,
         .power = B_UPDATED_MOVE_DATA >= GEN_8 ? 60 : 90,
@@ -19112,8 +19112,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("雷电囚笼"),
         .description = COMPOUND_STRING(
-            "Traps the foe in a cage of\n"
-            "electricity for "BINDING_TURNS" turns."),
+            "将对手困在雷电囚笼中，\n"
+            "在回合内持续造成伤害。"BINDING_TURNS""),
         .effect = EFFECT_HIT,
         .power = 80,
         .type = TYPE_ELECTRIC,
@@ -19160,11 +19160,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("冰冷视线"),
         .description = COMPOUND_STRING(
-            "Shoots psychic power from\n"
+            "从双眼中发射精神力量进行攻击。\n"
         #if B_USE_FROSTBITE == TRUE
-            "the eyes. May frostbite."),
+            "有时会使对手陷入霜冻状态。"),
         #else
-            "the eyes. May freeze the foe."),
+            "双眼射出，有时使其冰冻。"),
         #endif
         .power = 90,
         .effect = EFFECT_HIT,
@@ -20439,15 +20439,15 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CHILLY_RECEPTION] =
     {
-        .name = COMPOUND_STRING("CHILLY RECEPTION"),
+        .name = COMPOUND_STRING("冷笑话"),
         #if B_PREFERRED_ICE_WEATHER == B_ICE_WEATHER_HAIL
         .description = COMPOUND_STRING(
-            "Bad joke summons hailstorm.\n"
-            "The user also switches out."),
+            "讲冷笑话降下冰雹，\n"
+            "并与后备宝可梦进行替换。"),
         #else
         .description = COMPOUND_STRING(
-            "Bad joke summons snowstorm.\n"
-            "The user also switches out."),
+            "讲冷笑话降下大雪，\n"
+            "并与后备宝可梦进行替换。"),
         #endif
         .effect = EFFECT_WEATHER_AND_SWITCH,
         .power = 0,
@@ -20487,15 +20487,15 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SNOWSCAPE] =
     {
-        .name = COMPOUND_STRING("SNOWSCAPE"),
+        .name = COMPOUND_STRING("雪景"),
         #if B_PREFERRED_ICE_WEATHER == B_ICE_WEATHER_HAIL
             .description = COMPOUND_STRING(
-                "Summons a hailstorm that\n"
-                "strikes every turn."),
+                "降下冰雹，\n"
+                "在每回合都造成伤害。"),
         #else
             .description = COMPOUND_STRING(
-                "Summons a snowstorm that\n"
-                "lasts for five turns."),
+                "降下暴风雪，\n"
+                "持续5回合。"),
         #endif
         .effect = EFFECT_WEATHER,
         .power = 0,

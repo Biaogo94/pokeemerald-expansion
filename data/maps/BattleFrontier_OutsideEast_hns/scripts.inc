@@ -343,16 +343,13 @@ BattleFrontier_OutsideEast_Text_SometimesImportantOldManInThere_hns:
 	.string "来非常和善。$"
 
 BattleFrontier_OutsideEast_Text_LegendOfBattlePyramid_hns:
-	.string "Do you know it?\n"
-	.string "The legend of the BATTLE PYRAMID?\p"
-	.string "When there comes a confident TRAINER\n"
-	.string "reaching for the golden pinnacle,\l"
-	.string "there shall appear a man among men.\p"
-	.string "Don't know that legend?\n"
-	.string "Well, of course not!\l"
-	.string "I just made it up!\p"
-	.string "What's it supposed to mean?\n"
-	.string "That, my friend, I can't say!$"
+	.string "你知道吗？关于对战金字塔的传说？\p"
+	.string "“当自信满满的训练家踏上金色的顶\n"
+	.string "峰之时，人中豪杰便将现身。”\p"
+	.string "没听说过这个传说？哎呀，那是当然\n"
+	.string "的啦！这可是我刚刚现编的！\p"
+	.string "到底是什么意思？这我就无可奉告\n"
+	.string "了，朋友！$"
 
 BattleFrontier_OutsideEast_Text_GotWipedOut_hns:
 	.string "天哪！天哪！我以前可是一次都没输\n"

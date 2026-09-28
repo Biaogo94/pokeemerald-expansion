@@ -1,0 +1,290 @@
+[
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} danced happily.",
+    "translation": "{STR_VAR_1}开心地跳起了舞。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} danced beautifully.",
+    "translation": "{STR_VAR_1}跳起了优美的舞。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} emitted fire and shouted.",
+    "translation": "{STR_VAR_1}喷出火焰，大叫起来。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is vigorously producing\\nfire!",
+    "translation": "{STR_VAR_1}正猛烈地\\n喷吐火焰！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} spat fire!",
+    "translation": "{STR_VAR_1}喷出了火焰！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is vigorously breathing\\nfire!",
+    "translation": "{STR_VAR_1}正用力地\\n吐出火焰！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is staring straight at\\nthe POKéMON LEAGUE.",
+    "translation": "{STR_VAR_1}目不转睛地\\n望着宝可梦联盟。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "Your POKéMON is staring intently at\\nthe mountain peak.",
+    "translation": "你的宝可梦正目不转睛地\\n望着山顶。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "Sniff sniff, something smells good!",
+    "translation": "闻了又闻，似乎有什么好香的！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "Your POKéMON is surveying the\\nshelves restlessly.",
+    "translation": "你的宝可梦正坐立不安地\\n打量着货架。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is staring intently at\\nthe shelves.",
+    "translation": "{STR_VAR_1}目不转睛地\\n盯着货架。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} focused with a sharp\\ngaze!",
+    "translation": "{STR_VAR_1}聚精会神地\\n凝视着前方！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} seems very interested in\\nthe bicycles.",
+    "translation": "{STR_VAR_1}似乎对自行车\\n很感兴趣。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} seems to want to touch\\nthe machines!",
+    "translation": "{STR_VAR_1}似乎很想摸摸\\n这些机器！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is swaying with the\\nboat!",
+    "translation": "{STR_VAR_1}跟着船身\\n一起摇晃！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is dancing along with\\nthe rolling of the ship.",
+    "translation": "{STR_VAR_1}随着船的摇晃\\n跳起了舞。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} doesn't want to get off\\nthe boat yet!",
+    "translation": "{STR_VAR_1}似乎还不想\\n下船！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is listening to the\\nsound of the machines.",
+    "translation": "{STR_VAR_1}正在倾听\\n机器发出的声音。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "Waah! Your POKéMON suddenly splashed\\nwater!",
+    "translation": "哇！你的宝可梦突然\\n溅起了水花！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "Your POKéMON is blowing sand in the\\nair!",
+    "translation": "你的宝可梦正把沙子\\n吹向空中！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is playing around,\\nplucking bits of grass.",
+    "translation": "{STR_VAR_1}拔着小草，\\n玩得不亦乐乎。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "Your POKéMON is happily looking at\\nyour footprints!",
+    "translation": "你的宝可梦开心地\\n望着你留下的脚印！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is feeling nervous and a\\ntouch claustrophobic.",
+    "translation": "{STR_VAR_1}有些紧张，\\n似乎觉得这里太窄了。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is cautious about the\\nconfined area!",
+    "translation": "{STR_VAR_1}在狭窄的空间里\\n显得格外小心！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "A cold wind suddenly blew by!",
+    "translation": "一阵冷风突然吹过！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "Your POKéMON almost slipped and fell\\nover!",
+    "translation": "你的宝可梦差点滑倒了！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "Your POKéMON seems surprised to\\ntouch ice.",
+    "translation": "你的宝可梦碰到冰面，\\n似乎吓了一跳。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "Your POKéMON has a flower petal on\\nits face!",
+    "translation": "你的宝可梦脸上\\n沾着一片花瓣！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is growling softly.",
+    "translation": "{STR_VAR_1}轻声低吼。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is trembling with fear.",
+    "translation": "{STR_VAR_1}害怕得直发抖。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} seems somehow sad…",
+    "translation": "{STR_VAR_1}看起来有些难过……",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is taking shelter in the\\ngrass from the rain.",
+    "translation": "{STR_VAR_1}躲进草丛里\\n避雨。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} seems very cold.",
+    "translation": "{STR_VAR_1}似乎冷得够呛。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is staring at the sea.",
+    "translation": "{STR_VAR_1}凝望着大海。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "Your POKéMON is staring intently at\\nthe sea!",
+    "translation": "你的宝可梦目不转睛地\\n望着大海！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is looking at the\\nsurging sea.",
+    "translation": "{STR_VAR_1}看着\\n波涛汹涌的海面。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is listening to the\\nsound of the waterfall.",
+    "translation": "{STR_VAR_1}正静静听着\\n瀑布的轰鸣。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} seems to be happy about\\nthe rain!",
+    "translation": "{STR_VAR_1}似乎很喜欢\\n这场雨！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is staring at its\\nreflection in the water.",
+    "translation": "{STR_VAR_1}盯着自己\\n映在水里的倒影。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} seems to relax as it\\nhears the sound of rustling leaves…",
+    "translation": "{STR_VAR_1}听着树叶\\n沙沙作响，放松了下来……",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is gnawing at the ice.",
+    "translation": "{STR_VAR_1}正在啃冰块。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is touching the ice.",
+    "translation": "{STR_VAR_1}碰了碰冰面。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1}'s burn looks painful!",
+    "translation": "{STR_VAR_1}的灼伤看起来好疼！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is happy to see what's\\noutdoors!",
+    "translation": "{STR_VAR_1}看到外面的景色，\\n开心起来了！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is looking up at the\\nsky.",
+    "translation": "{STR_VAR_1}抬头望向天空。",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "Your POKéMON is staring spellbound\\nat the night sky!",
+    "translation": "你的宝可梦被夜空迷住了，\\n看得出神！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "Your POKéMON is happily gazing at\\nthe beautiful, starry sky!",
+    "translation": "你的宝可梦开心地望着\\n繁星点点的夜空！",
+    "occurrences": 1
+  },
+  {
+    "file": "src/follower_helper.c",
+    "source": "{STR_VAR_1} is disturbed by the\\nabnormal weather!",
+    "translation": "{STR_VAR_1}被异常的天气\\n弄得心神不宁！",
+    "occurrences": 1
+  }
+]

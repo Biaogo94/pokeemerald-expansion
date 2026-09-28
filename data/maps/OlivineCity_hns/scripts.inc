@@ -273,14 +273,10 @@ OlivineCity_Text_EonTicketWoman3:
 	.string "真不敢相信我竟然见到了冠军！！！$"
 
 OlivineCity_Text_Sailor1:
-	.string "Dark roads are dangerous\n"
-	.string "at night.\p"
-	.string "But in the pitch-black of\n"
-	.string "night, the sea is even more\l"
-	.string "treacherous!\p"
-	.string "Without the beacon of the\n"
-	.string "LIGHTHOUSE to guide it,\l"
-	.string "no ship can sail.$"
+	.string "夜里走暗路很危险。\p"
+	.string "可大海一片漆黑的时候，就更加凶险\n"
+	.string "了！\p"
+	.string "没有灯塔指引，船就无法航行。$"
 
 OlivineCity_Text_YoungsterPokegear:
 	.string "你拿的那个--是宝可梦齿轮吧？哇\n"
@@ -293,7 +289,7 @@ OlivineCity_Text_YoungsterPokedex:
 OlivineCity_Text_Sailor2:
 	.string "联盟居然把阿蜜评为第六强的道馆馆\n"
 	.string "主！\p"
-	.string "Hah! 简直是一派胡言。\p"
+	.string "哈！简直是一派胡言。\p"
 	.string "柳伯根本不可能伤到阿蜜的钢属性宝\n"
 	.string "可梦好吗！\p"
 	.string "依我看纯粹是官僚做派。\p"

@@ -28,20 +28,20 @@ EventTicket_Text_OddTicketGetOnBoard:
 	.string "上船吧，年轻人！$"
 
 FarawayIsland_Entrance_Text_SailorReturn:
-	.string "CAPT. BRINEY can be so maddeningly\n"
-	.string "fickle…\p"
+	.string "哈奇船长有时真是变化无常得让人抓\n"
+	.string "狂......\p"
 #if IS_HNS
-	.string "Do you want to return to OLIVINE?$"
+	.string "你想回浅黄市吗？$"
 #else
-	.string "Do you want to return to LILYCOVE?$"
+	.string "你想回水静市吗？$"
 #endif
 
 BirthIsland_Harbor_Text_SailorReturn:
-	.string "What an oddly shaped island, eh?\n"
+	.string "形状真奇怪的岛屿啊，对吧？"
 #if IS_HNS
-	.string "Do you want to return to OLIVINE?$"
+	.string "你想回浅黄市吗？$"
 #else
-	.string "Do you want to return to LILYCOVE?$"
+	.string "你想回水静市吗？$"
 #endif
 
 EventTicket_Text_OddTicketsWhereTo:

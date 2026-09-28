@@ -1,0 +1,4414 @@
+[
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_ADRENALINE_ORB.name",
+    "index": 0,
+    "source": "ADRENALINE ORB",
+    "translation": "胆怯球",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SAFETY_GOGGLES.pluralName",
+    "index": 0,
+    "source": "Safety Goggles",
+    "translation": "防尘护目镜",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_EJECT_BUTTON.name",
+    "index": 0,
+    "source": "EJECT BUTTON",
+    "translation": "逃脱按键",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_BINDING_BAND.name",
+    "index": 0,
+    "source": "BINDING BAND",
+    "translation": "紧绑束带",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_RING_TARGET.name",
+    "index": 0,
+    "source": "RING TARGET",
+    "translation": "标靶",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_RED_CARD.name",
+    "index": 0,
+    "source": "RED CARD",
+    "translation": "红牌",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_AIR_BALLOON.name",
+    "index": 0,
+    "source": "AIR BALLOON",
+    "translation": "气球",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_ROCKY_HELMET.name",
+    "index": 0,
+    "source": "ROCKY HELMET",
+    "translation": "凸凸盔",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_FLOAT_STONE.name",
+    "index": 0,
+    "source": "FLOAT STONE",
+    "translation": "轻石",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_EVIOLITE.name",
+    "index": 0,
+    "source": "EVIOLITE",
+    "translation": "进化奇石",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_RAZOR_FANG.name",
+    "index": 0,
+    "source": "RAZOR FANG",
+    "translation": "锐利之牙",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_RAZOR_CLAW.name",
+    "index": 0,
+    "source": "RAZOR CLAW",
+    "translation": "锐利之爪",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_BIG_ROOT.name",
+    "index": 0,
+    "source": "BIG ROOT",
+    "translation": "大根茎",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SHED_SHELL.name",
+    "index": 0,
+    "source": "SHED SHELL",
+    "translation": "美丽空壳",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_STICKY_BARB.name",
+    "index": 0,
+    "source": "STICKY BARB",
+    "translation": "附着针",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_GRIP_CLAW.name",
+    "index": 0,
+    "source": "GRIP CLAW",
+    "translation": "紧缠钩爪",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_BLACK_SLUDGE.name",
+    "index": 0,
+    "source": "BLACK SLUDGE",
+    "translation": "黑色污泥",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_DESTINY_KNOT.name",
+    "index": 0,
+    "source": "DESTINY KNOT",
+    "translation": "红线",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_LAGGING_TAIL.name",
+    "index": 0,
+    "source": "LAGGING TAIL",
+    "translation": "后攻之尾",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_IRON_BALL.name",
+    "index": 0,
+    "source": "IRON BALL",
+    "translation": "黑色铁球",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_METRONOME.name",
+    "index": 0,
+    "source": "METRONOME",
+    "translation": "挥指",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_ZOOM_LENS.pluralName",
+    "index": 0,
+    "source": "Zoom Lenses",
+    "translation": "变焦镜头",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_FOCUS_SASH.pluralName",
+    "index": 0,
+    "source": "Focus Sashes",
+    "translation": "气势披带",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_POWER_HERB.name",
+    "index": 0,
+    "source": "POWER HERB",
+    "translation": "强力香草",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_LIFE_ORB.name",
+    "index": 0,
+    "source": "LIFE ORB",
+    "translation": "生命宝珠",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_LIGHT_CLAY.name",
+    "index": 0,
+    "source": "LIGHT CLAY",
+    "translation": "光之黏土",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_EXPERT_BELT.name",
+    "index": 0,
+    "source": "EXPERT BELT",
+    "translation": "达人带",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_WISE_GLASSES.pluralName",
+    "index": 0,
+    "source": "Wise Glasses",
+    "translation": "博识眼镜",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_MUSCLE_BAND.name",
+    "index": 0,
+    "source": "MUSCLE BAND",
+    "translation": "力量头带",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_WIDE_LENS.pluralName",
+    "index": 0,
+    "source": "Wide Lenses",
+    "translation": "广角镜",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SHELL_BELL.name",
+    "index": 0,
+    "source": "SHELL BELL",
+    "translation": "贝壳之铃",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_LEFTOVERS.pluralName",
+    "index": 0,
+    "source": "Leftovers",
+    "translation": "吃剩的东西",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SCOPE_LENS.pluralName",
+    "index": 0,
+    "source": "Scope Lenses",
+    "translation": "焦点镜",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_FOCUS_BAND.name",
+    "index": 0,
+    "source": "FOCUS BAND",
+    "translation": "气势头带",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SMOKE_BALL.name",
+    "index": 0,
+    "source": "SMOKE BALL",
+    "translation": "烟雾球",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_AMULET_COIN.name",
+    "index": 0,
+    "source": "AMULET COIN",
+    "translation": "护身金币",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_KINGS_ROCK.name",
+    "index": 0,
+    "source": "KING'S ROCK",
+    "translation": "王者之证",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_MENTAL_HERB.name",
+    "index": 0,
+    "source": "MENTAL HERB",
+    "translation": "心灵香草",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SOOTHE_BELL.name",
+    "index": 0,
+    "source": "SOOTHE BELL",
+    "translation": "安抚之铃",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_QUICK_CLAW.name",
+    "index": 0,
+    "source": "QUICK CLAW",
+    "translation": "先制之爪",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_WHITE_HERB.name",
+    "index": 0,
+    "source": "WHITE HERB",
+    "translation": "白色香草",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_BRIGHT_POWDER.name",
+    "index": 0,
+    "source": "BRIGHT POWDER",
+    "translation": "光粉",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SNOWBALL.name",
+    "index": 0,
+    "source": "SNOWBALL",
+    "translation": "雪球",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_LUMINOUS_MOSS.pluralName",
+    "index": 0,
+    "source": "Luminous Moss",
+    "translation": "发光苔藓",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_CELL_BATTERY.pluralName",
+    "index": 0,
+    "source": "Cell Batteries",
+    "translation": "充电电池",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_ABSORB_BULB.name",
+    "index": 0,
+    "source": "ABSORB BULB",
+    "translation": "吸取球",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_ICY_ROCK.name",
+    "index": 0,
+    "source": "ICY ROCK",
+    "translation": "冰冷岩石",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SMOOTH_ROCK.name",
+    "index": 0,
+    "source": "SMOOTH ROCK",
+    "translation": "沙沙岩石",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_HEAT_ROCK.name",
+    "index": 0,
+    "source": "HEAT ROCK",
+    "translation": "炽热岩石",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_DAMP_ROCK.name",
+    "index": 0,
+    "source": "DAMP ROCK",
+    "translation": "潮湿岩石",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_TOXIC_ORB.name",
+    "index": 0,
+    "source": "TOXIC ORB",
+    "translation": "剧毒宝珠",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_FLAME_ORB.name",
+    "index": 0,
+    "source": "FLAME ORB",
+    "translation": "火焰宝珠",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_CHOICE_SCARF.pluralName",
+    "index": 0,
+    "source": "Choice Scarves",
+    "translation": "讲究围巾",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_CHOICE_SPECS.pluralName",
+    "index": 0,
+    "source": "Choice Specs",
+    "translation": "讲究眼镜",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_CHOICE_BAND.name",
+    "index": 0,
+    "source": "CHOICE BAND",
+    "translation": "讲究头带",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_CHARCOAL.name",
+    "index": 0,
+    "source": "CHARCOAL",
+    "translation": "木炭",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_PRISM_SCALE.name",
+    "index": 0,
+    "source": "PRISM SCALE",
+    "translation": "美丽鳞片",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_MOON_STONE.name",
+    "index": 0,
+    "source": "MOON STONE",
+    "translation": "月之石",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_HONEY.pluralName",
+    "index": 0,
+    "source": "Honey",
+    "translation": "甜甜蜜",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_COMET_SHARD.name",
+    "index": 0,
+    "source": "COMET SHARD",
+    "translation": "彗星碎片",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_PEARL_STRING.name",
+    "index": 0,
+    "source": "PEARL STRING",
+    "translation": "巨大珍珠",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_BALM_MUSHROOM.name",
+    "index": 0,
+    "source": "BALM MUSHROOM",
+    "translation": "芳香蘑菇",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_BIG_NUGGET.name",
+    "index": 0,
+    "source": "BIG NUGGET",
+    "translation": "巨大金珠",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_POKE_DOLL.name",
+    "index": 0,
+    "source": "POKé DOLL",
+    "translation": "皮皮玩偶",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_ABILITY_CAPSULE.name",
+    "index": 0,
+    "source": "ABILITY CAPSULE",
+    "translation": "特性胶囊",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_AWAKENING.name",
+    "index": 0,
+    "source": "AWAKENING",
+    "translation": "解眠药",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_ICE_HEAL.name",
+    "index": 0,
+    "source": "ICE HEAL",
+    "translation": "解冻药",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_BURN_HEAL.name",
+    "index": 0,
+    "source": "BURN HEAL",
+    "translation": "烧伤药",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_SNOWSCAPE.name",
+    "index": 0,
+    "source": "SNOWSCAPE",
+    "translation": "雪景",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_CHILLY_RECEPTION.name",
+    "index": 0,
+    "source": "CHILLY RECEPTION",
+    "translation": "冷笑话",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_AURORA_VEIL.name",
+    "index": 0,
+    "source": "AURORA VEIL",
+    "translation": "极光幕",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_VOLT_TACKLE.name",
+    "index": 0,
+    "source": "VOLT TACKLE",
+    "translation": "伏特攻击",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_HAIL.name",
+    "index": 0,
+    "source": "HAIL",
+    "translation": "冰雹",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_TRI_ATTACK.name",
+    "index": 0,
+    "source": "TRI ATTACK",
+    "translation": "三重攻击",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_ROCK_SLIDE.name",
+    "index": 0,
+    "source": "ROCK SLIDE",
+    "translation": "岩崩",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_DIZZY_PUNCH.name",
+    "index": 0,
+    "source": "DIZZY PUNCH",
+    "translation": "迷昏拳",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_TELEPORT.name",
+    "index": 0,
+    "source": "TELEPORT",
+    "translation": "瞬间移动",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_LOW_KICK.name",
+    "index": 0,
+    "source": "LOW KICK",
+    "translation": "踢倒",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_RAZOR_WIND.name",
+    "index": 0,
+    "source": "RAZOR WIND",
+    "translation": "旋风刀",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/abilities.h",
+    "label": "ABILITY_SNOW_WARNING.description",
+    "index": 1,
+    "source": "Summons hail in battle.",
+    "translation": "在对战中降下冰雹。",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/abilities.h",
+    "label": "ABILITY_SNOW_WARNING.description",
+    "index": 0,
+    "source": "Summons snow in battle.",
+    "translation": "在对战中降下大雪。",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/abilities.h",
+    "label": "ABILITY_SNOW_WARNING.name",
+    "index": 0,
+    "source": "SNOW WARNING",
+    "translation": "降雪",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_DRAGONITE_MEGA.speciesName",
+    "index": 0,
+    "source": "DRAGONITE",
+    "translation": "快龙",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MOLTRES_GALAR.categoryName",
+    "index": 0,
+    "source": "Malevolent",
+    "translation": "邪恶",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MOLTRES_GALAR.speciesName",
+    "index": 1,
+    "source": "MOLTRES",
+    "translation": "火焰鸟",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MOLTRES_GALAR.speciesName",
+    "index": 0,
+    "source": "MOLTRES-G",
+    "translation": "火焰鸟-G",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_ZAPDOS_GALAR.categoryName",
+    "index": 0,
+    "source": "Strong Legs",
+    "translation": "健腿",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_ZAPDOS_GALAR.speciesName",
+    "index": 1,
+    "source": "ZAPDOS",
+    "translation": "闪电鸟",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_ZAPDOS_GALAR.speciesName",
+    "index": 0,
+    "source": "ZAPDOS-G",
+    "translation": "闪电鸟-G",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_ARTICUNO_GALAR.categoryName",
+    "index": 0,
+    "source": "Cruel",
+    "translation": "冷酷",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_ARTICUNO_GALAR.speciesName",
+    "index": 1,
+    "source": "ARTICUNO",
+    "translation": "急冻鸟",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_ARTICUNO_GALAR.speciesName",
+    "index": 0,
+    "source": "ARTICUNO-G",
+    "translation": "急冻鸟-G",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_AERODACTYL_MEGA.speciesName",
+    "index": 0,
+    "source": "AERODACTYL",
+    "translation": "化石翼龙",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_GYARADOS_MEGA.speciesName",
+    "index": 0,
+    "source": "GYARADOS",
+    "translation": "暴鲤龙",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_PINSIR_MEGA.speciesName",
+    "index": 0,
+    "source": "PINSIR",
+    "translation": "凯罗斯",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_SCIZOR_MEGA.speciesName",
+    "index": 0,
+    "source": "SCIZOR",
+    "translation": "巨钳螳螂",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MR_MIME_GALAR.categoryName",
+    "index": 0,
+    "source": "Dancing",
+    "translation": "踏踏",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MR_MIME_GALAR.speciesName",
+    "index": 1,
+    "source": "MR. MIME",
+    "translation": "魔墙人偶",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MR_MIME_GALAR.speciesName",
+    "index": 0,
+    "source": "MR. MIME-G",
+    "translation": "魔墙人偶-G",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_STARMIE_MEGA.speciesName",
+    "index": 0,
+    "source": "STARMIE",
+    "translation": "宝石海星",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_KANGASKHAN_MEGA.speciesName",
+    "index": 0,
+    "source": "KANGASKHAN",
+    "translation": "袋兽",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_WEEZING_GALAR.categoryName",
+    "index": 0,
+    "source": "Poison Gas",
+    "translation": "毒气",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_WEEZING_GALAR.speciesName",
+    "index": 1,
+    "source": "WEEZING",
+    "translation": "双弹瓦斯",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_WEEZING_GALAR.speciesName",
+    "index": 0,
+    "source": "WEEZING-G",
+    "translation": "双弹瓦斯-G",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_EXEGGUTOR_ALOLA.categoryName",
+    "index": 0,
+    "source": "Coconut",
+    "translation": "椰子",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_EXEGGUTOR_ALOLA.speciesName",
+    "index": 1,
+    "source": "EXEGGUTOR",
+    "translation": "椰蛋树",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_EXEGGUTOR_ALOLA.speciesName",
+    "index": 0,
+    "source": "EXEGGUTOR-A",
+    "translation": "椰蛋树-A",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_ELECTRODE_HISUI.speciesName",
+    "index": 1,
+    "source": "ELECTRODE",
+    "translation": "顽皮雷弹",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_ELECTRODE_HISUI.speciesName",
+    "index": 0,
+    "source": "ELECTRODE-H",
+    "translation": "顽皮雷弹-H",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_VOLTORB_HISUI.speciesName",
+    "index": 1,
+    "source": "VOLTORB",
+    "translation": "霹雳电球",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_VOLTORB_HISUI.speciesName",
+    "index": 0,
+    "source": "VOLTORB-H",
+    "translation": "霹雳电球-H",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_STEELIX_MEGA.speciesName",
+    "index": 0,
+    "source": "STEELIX",
+    "translation": "大钢蛇",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_GENGAR_MEGA.speciesName",
+    "index": 0,
+    "source": "GENGAR",
+    "translation": "耿鬼",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MUK_ALOLA.speciesName",
+    "index": 1,
+    "source": "MUK",
+    "translation": "臭臭泥",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MUK_ALOLA.speciesName",
+    "index": 0,
+    "source": "MUK-A",
+    "translation": "臭臭泥-A",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_GRIMER_ALOLA.speciesName",
+    "index": 1,
+    "source": "GRIMER",
+    "translation": "臭泥",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_GRIMER_ALOLA.speciesName",
+    "index": 0,
+    "source": "GRIMER-A",
+    "translation": "臭泥-A",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_FARFETCHD_GALAR.categoryName",
+    "index": 0,
+    "source": "Wild Duck",
+    "translation": "鸭",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_FARFETCHD_GALAR.speciesName",
+    "index": 1,
+    "source": "FARFETCH'D",
+    "translation": "大葱鸭",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_FARFETCHD_GALAR.speciesName",
+    "index": 0,
+    "source": "FARFETCH'D-G",
+    "translation": "大葱鸭-G",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_SLOWKING_GALAR.categoryName",
+    "index": 0,
+    "source": "Hexpert",
+    "translation": "咒术师",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_SLOWKING_GALAR.speciesName",
+    "index": 1,
+    "source": "SLOWKING",
+    "translation": "呆呆王",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_SLOWKING_GALAR.speciesName",
+    "index": 0,
+    "source": "SLOWKING-G",
+    "translation": "呆呆王-G",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_SLOWBRO_GALAR.categoryName",
+    "index": 0,
+    "source": "Hermit Crab",
+    "translation": "寄居蟹",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_SLOWBRO_GALAR.speciesName",
+    "index": 1,
+    "source": "SLOWBRO",
+    "translation": "呆壳兽",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_SLOWBRO_GALAR.speciesName",
+    "index": 0,
+    "source": "SLOWBRO-G",
+    "translation": "呆壳兽-G",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_SLOWPOKE_GALAR.categoryName",
+    "index": 0,
+    "source": "Dopey",
+    "translation": "憨憨",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_SLOWPOKE_GALAR.speciesName",
+    "index": 1,
+    "source": "SLOWPOKE",
+    "translation": "呆呆兽",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_SLOWPOKE_GALAR.speciesName",
+    "index": 0,
+    "source": "SLOWPOKE-G",
+    "translation": "呆呆兽-G",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_RAPIDASH_GALAR.speciesName",
+    "index": 1,
+    "source": "RAPIDASH",
+    "translation": "烈焰马",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_RAPIDASH_GALAR.speciesName",
+    "index": 0,
+    "source": "RAPIDASH-G",
+    "translation": "烈焰马-G",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_PONYTA_GALAR.speciesName",
+    "index": 1,
+    "source": "PONYTA",
+    "translation": "小火马",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_PONYTA_GALAR.speciesName",
+    "index": 0,
+    "source": "PONYTA-G",
+    "translation": "小火马-",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_GOLEM_ALOLA.categoryName",
+    "index": 0,
+    "source": "Megaton",
+    "translation": "重量",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_GOLEM_ALOLA.speciesName",
+    "index": 1,
+    "source": "GOLEM",
+    "translation": "隆隆岩",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_GOLEM_ALOLA.speciesName",
+    "index": 0,
+    "source": "GOLEM-A",
+    "translation": "隆隆岩-A",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_GRAVELER_ALOLA.speciesName",
+    "index": 1,
+    "source": "GRAVELER",
+    "translation": "隆隆石",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_GRAVELER_ALOLA.speciesName",
+    "index": 0,
+    "source": "GRAVELER-A",
+    "translation": "隆隆石-A",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_GEODUDE_ALOLA.speciesName",
+    "index": 1,
+    "source": "GEODUDE",
+    "translation": "小拳石",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_GEODUDE_ALOLA.speciesName",
+    "index": 0,
+    "source": "GEODUDE-A",
+    "translation": "小拳石-A",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_VICTREEBEL_MEGA.speciesName",
+    "index": 0,
+    "source": "VICTREEBEL",
+    "translation": "大食花",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_ALAKAZAM_MEGA.speciesName",
+    "index": 0,
+    "source": "ALAKAZAM",
+    "translation": "胡地",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_ARCANINE_HISUI.categoryName",
+    "index": 0,
+    "source": "Legendary",
+    "translation": "传说",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_ARCANINE_HISUI.speciesName",
+    "index": 1,
+    "source": "ARCANINE",
+    "translation": "风速狗",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_ARCANINE_HISUI.speciesName",
+    "index": 0,
+    "source": "ARCANINE-H",
+    "translation": "风速狗-洗翠",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_GROWLITHE_HISUI.categoryName",
+    "index": 0,
+    "source": "Scout",
+    "translation": "侦察",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_GROWLITHE_HISUI.speciesName",
+    "index": 1,
+    "source": "GROWLITHE",
+    "translation": "卡蒂狗",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_GROWLITHE_HISUI.speciesName",
+    "index": 0,
+    "source": "GROWLITHE-H",
+    "translation": "卡蒂狗-洗翠",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MEOWTH_GALAR.speciesName",
+    "index": 0,
+    "source": "MEOWTH-G",
+    "translation": "喵喵-伽勒尔",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_PERSIAN_ALOLA.categoryName",
+    "index": 0,
+    "source": "Classy Cat",
+    "translation": "暹罗猫",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_PERSIAN_ALOLA.speciesName",
+    "index": 1,
+    "source": "PERSIAN",
+    "translation": "猫老大",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_PERSIAN_ALOLA.speciesName",
+    "index": 0,
+    "source": "PERSIAN-A",
+    "translation": "猫老大-A",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MEOWTH_ALOLA.speciesName",
+    "index": 0,
+    "source": "MEOWTH-A",
+    "translation": "喵喵-阿罗拉",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_DUGTRIO_ALOLA.speciesName",
+    "index": 1,
+    "source": "DUGTRIO",
+    "translation": "三地鼠",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_DUGTRIO_ALOLA.speciesName",
+    "index": 0,
+    "source": "DUGTRIO-A",
+    "translation": "三地鼠-A",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_DIGLETT_ALOLA.speciesName",
+    "index": 1,
+    "source": "DIGLETT",
+    "translation": "地鼠",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_DIGLETT_ALOLA.speciesName",
+    "index": 0,
+    "source": "DIGLETT-A",
+    "translation": "地鼠-阿罗拉",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_NINETALES_ALOLA.speciesName",
+    "index": 1,
+    "source": "NINETALES",
+    "translation": "九尾",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_NINETALES_ALOLA.speciesName",
+    "index": 0,
+    "source": "NINETALES-A",
+    "translation": "九尾-A",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_VULPIX_ALOLA.speciesName",
+    "index": 1,
+    "source": "VULPIX",
+    "translation": "六尾",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_VULPIX_ALOLA.speciesName",
+    "index": 0,
+    "source": "VULPIX-A",
+    "translation": "六尾-A",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_CLEFABLE_MEGA.speciesName",
+    "index": 0,
+    "source": "CLEFABLE",
+    "translation": "皮可西",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_SANDSLASH_ALOLA.speciesName",
+    "index": 1,
+    "source": "SANDSLASH",
+    "translation": "穿山王",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_SANDSLASH_ALOLA.speciesName",
+    "index": 0,
+    "source": "SANDSLASH-A",
+    "translation": "穿山王-A",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_SANDSHREW_ALOLA.speciesName",
+    "index": 1,
+    "source": "SANDSHREW",
+    "translation": "穿山鼠",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_SANDSHREW_ALOLA.speciesName",
+    "index": 0,
+    "source": "SANDSHREW-A",
+    "translation": "穿山鼠-A",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_RAICHU_ALOLA.speciesName",
+    "index": 0,
+    "source": "RAICHU-A",
+    "translation": "雷丘-A",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_RATTATA_ALOLA.speciesName",
+    "index": 1,
+    "source": "RATTATA",
+    "translation": "小拉达",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_RATTATA_ALOLA.speciesName",
+    "index": 0,
+    "source": "RATTATA-A",
+    "translation": "小拉达-A",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_PIDGEOT_MEGA.speciesName",
+    "index": 0,
+    "source": "PIDGEOT",
+    "translation": "大比鸟",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_BEEDRILL_MEGA.speciesName",
+    "index": 0,
+    "source": "BEEDRILL",
+    "translation": "大针蜂",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_BLASTOISE_MEGA.speciesName",
+    "index": 0,
+    "source": "BLASTOISE",
+    "translation": "水箭龟",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_VENUSAUR_MEGA.speciesName",
+    "index": 0,
+    "source": "VENUSAUR",
+    "translation": "妙蛙花",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_TYRANITAR_MEGA.speciesName",
+    "index": 0,
+    "source": "TYRANITAR",
+    "translation": "班基拉斯",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_HOUNDOOM_MEGA.speciesName",
+    "index": 0,
+    "source": "HOUNDOOM",
+    "translation": "黑鲁加",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_SKARMORY_MEGA.speciesName",
+    "index": 0,
+    "source": "SKARMORY",
+    "translation": "盔甲鸟",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_CORSOLA_GALAR.categoryName",
+    "index": 0,
+    "source": "Coral",
+    "translation": "珊瑚",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_CORSOLA_GALAR.speciesName",
+    "index": 1,
+    "source": "CORSOLA",
+    "translation": "太阳珊瑚",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_CORSOLA_GALAR.speciesName",
+    "index": 0,
+    "source": "CORSOLA-G",
+    "translation": "太阳珊瑚-G",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_SNEASEL_HISUI.categoryName",
+    "index": 0,
+    "source": "Sharp Claw",
+    "translation": "刃爪",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_SNEASEL_HISUI.speciesName",
+    "index": 1,
+    "source": "SNEASEL",
+    "translation": "狃拉",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_SNEASEL_HISUI.speciesName",
+    "index": 0,
+    "source": "SNEASEL-H",
+    "translation": "狃拉-H",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_HERACROSS_MEGA.speciesName",
+    "index": 0,
+    "source": "HERACROSS",
+    "translation": "赫拉克罗斯",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_QWILFISH_HISUI.categoryName",
+    "index": 0,
+    "source": "Balloon",
+    "translation": "气球",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_QWILFISH_HISUI.speciesName",
+    "index": 1,
+    "source": "QWILFISH",
+    "translation": "千针鱼",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_QWILFISH_HISUI.speciesName",
+    "index": 0,
+    "source": "QWILFISH-H",
+    "translation": "千针鱼-H",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_WOOPER_PALDEA.categoryName",
+    "index": 0,
+    "source": "Poison Fish",
+    "translation": "毒鱼",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_WOOPER_PALDEA.speciesName",
+    "index": 1,
+    "source": "WOOPER",
+    "translation": "乌波",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_WOOPER_PALDEA.speciesName",
+    "index": 0,
+    "source": "WOOPER-P",
+    "translation": "乌波-P",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_AMPHAROS_MEGA.speciesName",
+    "index": 0,
+    "source": "AMPHAROS",
+    "translation": "电龙",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_FERALIGATR_MEGA.speciesName",
+    "index": 0,
+    "source": "FERALIGATR",
+    "translation": "大力鳄",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_TYPHLOSION_HISUI.categoryName",
+    "index": 0,
+    "source": "Ghost Flame",
+    "translation": "鬼火",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_TYPHLOSION_HISUI.speciesName",
+    "index": 1,
+    "source": "TYPHLOSION",
+    "translation": "火暴兽",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_TYPHLOSION_HISUI.speciesName",
+    "index": 0,
+    "source": "TYPHLOSION-H",
+    "translation": "火暴兽-H",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_2_families.h",
+    "label": "SPECIES_MEGANIUM_MEGA.speciesName",
+    "index": 0,
+    "source": "MEGANIUM",
+    "translation": "大竺葵",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_LATIOS_MEGA.speciesName",
+    "index": 0,
+    "source": "LATIOS",
+    "translation": "拉帝欧斯",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_LATIAS_MEGA.speciesName",
+    "index": 0,
+    "source": "LATIAS",
+    "translation": "拉帝亚斯",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_METAGROSS_MEGA.speciesName",
+    "index": 0,
+    "source": "METAGROSS",
+    "translation": "巨金怪",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_SALAMENCE_MEGA.speciesName",
+    "index": 0,
+    "source": "SALAMENCE",
+    "translation": "暴飞龙",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_FROSLASS_MEGA.speciesName",
+    "index": 0,
+    "source": "FROSLASS",
+    "translation": "雪妖女",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_GLALIE_MEGA.speciesName",
+    "index": 0,
+    "source": "GLALIE",
+    "translation": "冰鬼护",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_CHIMECHO_MEGA.speciesName",
+    "index": 0,
+    "source": "CHIMECHO",
+    "translation": "风铃铃",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_BANETTE_MEGA.speciesName",
+    "index": 0,
+    "source": "BANETTE",
+    "translation": "诅咒娃娃",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_ALTARIA_MEGA.speciesName",
+    "index": 0,
+    "source": "ALTARIA",
+    "translation": "七夕青鸟",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_CAMERUPT_MEGA.speciesName",
+    "index": 0,
+    "source": "CAMERUPT",
+    "translation": "喷火驼",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_SHARPEDO_MEGA.speciesName",
+    "index": 0,
+    "source": "SHARPEDO",
+    "translation": "巨牙鲨",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_MANECTRIC_MEGA.speciesName",
+    "index": 0,
+    "source": "MANECTRIC",
+    "translation": "雷电兽",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_MEDICHAM_MEGA.speciesName",
+    "index": 0,
+    "source": "MEDICHAM",
+    "translation": "恰雷姆",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_AGGRON_MEGA.speciesName",
+    "index": 0,
+    "source": "AGGRON",
+    "translation": "波士可多拉",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_MAWILE_MEGA.speciesName",
+    "index": 0,
+    "source": "MAWILE",
+    "translation": "大嘴娃",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_SABLEYE_MEGA.speciesName",
+    "index": 0,
+    "source": "SABLEYE",
+    "translation": "勾魂眼",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_GALLADE_MEGA.speciesName",
+    "index": 0,
+    "source": "GALLADE",
+    "translation": "艾路雷朵",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_GARDEVOIR_MEGA.speciesName",
+    "index": 0,
+    "source": "GARDEVOIR",
+    "translation": "沙奈朵",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_LINOONE_GALAR.categoryName",
+    "index": 0,
+    "source": "Rushing",
+    "translation": "奔突",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_LINOONE_GALAR.speciesName",
+    "index": 1,
+    "source": "LINOONE",
+    "translation": "直冲熊",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_LINOONE_GALAR.speciesName",
+    "index": 0,
+    "source": "LINOONE-G",
+    "translation": "直冲熊-G",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_ZIGZAGOON_GALAR.categoryName",
+    "index": 0,
+    "source": "Tiny Raccoon",
+    "translation": "幼狸",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_ZIGZAGOON_GALAR.speciesName",
+    "index": 1,
+    "source": "ZIGZAGOON",
+    "translation": "蛇纹熊",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_ZIGZAGOON_GALAR.speciesName",
+    "index": 0,
+    "source": "ZIGZAGOON-G",
+    "translation": "蛇纹熊-G",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_SWAMPERT_MEGA.speciesName",
+    "index": 0,
+    "source": "SWAMPERT",
+    "translation": "巨沼怪",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_BLAZIKEN_MEGA.speciesName",
+    "index": 0,
+    "source": "BLAZIKEN",
+    "translation": "火焰鸡",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_SCEPTILE_MEGA.speciesName",
+    "index": 0,
+    "source": "SCEPTILE",
+    "translation": "蜥蜴王",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_4_families.h",
+    "label": "gSpeciesInfoGen4.categoryName",
+    "index": 1,
+    "source": "Alpha",
+    "translation": "创造",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_4_families.h",
+    "label": "gSpeciesInfoGen4.speciesName",
+    "index": 1,
+    "source": "ARCEUS",
+    "translation": "阿尔宙斯",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_4_families.h",
+    "label": "SPECIES_DARKRAI_MEGA.speciesName",
+    "index": 0,
+    "source": "DARKRAI",
+    "translation": "达克莱伊",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_4_families.h",
+    "label": "SPECIES_HEATRAN_MEGA.speciesName",
+    "index": 0,
+    "source": "HEATRAN",
+    "translation": "席多蓝恩",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_4_families.h",
+    "label": "SPECIES_ABOMASNOW_MEGA.speciesName",
+    "index": 0,
+    "source": "ABOMASNOW",
+    "translation": "暴雪王",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_4_families.h",
+    "label": "SPECIES_LOPUNNY_MEGA.speciesName",
+    "index": 0,
+    "source": "LOPUNNY",
+    "translation": "长耳兔",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_4_families.h",
+    "label": "gSpeciesInfoGen4.categoryName",
+    "index": 0,
+    "source": "Moth",
+    "translation": "蓑衣蛾",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_4_families.h",
+    "label": "gSpeciesInfoGen4.speciesName",
+    "index": 0,
+    "source": "MOTHIM",
+    "translation": "绅士蛾",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_4_families.h",
+    "label": "SPECIES_STARAPTOR_MEGA.speciesName",
+    "index": 0,
+    "source": "STARAPTOR",
+    "translation": "姆克鹰",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_BRAVIARY_HISUI.categoryName",
+    "index": 0,
+    "source": "Battle Cry",
+    "translation": "战吼",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_BRAVIARY_HISUI.speciesName",
+    "index": 1,
+    "source": "BRAVIARY",
+    "translation": "勇士雄鹰",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_BRAVIARY_HISUI.speciesName",
+    "index": 0,
+    "source": "BRAVIARY-H",
+    "translation": "勇士雄鹰-H",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_GOLURK_MEGA.speciesName",
+    "index": 0,
+    "source": "GOLURK",
+    "translation": "泥偶巨人",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_STUNFISK_GALAR.categoryName",
+    "index": 0,
+    "source": "Trap",
+    "translation": "陷阱",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_STUNFISK_GALAR.speciesName",
+    "index": 1,
+    "source": "STUNFISK",
+    "translation": "泥巴鱼",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_STUNFISK_GALAR.speciesName",
+    "index": 0,
+    "source": "STUNFISK-G",
+    "translation": "泥巴鱼-G",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_CHANDELURE_MEGA.speciesName",
+    "index": 0,
+    "source": "CHANDELURE",
+    "translation": "水晶灯火灵",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_EELEKTROSS_MEGA.speciesName",
+    "index": 0,
+    "source": "EELEKTROSS",
+    "translation": "麻麻鳗鱼王",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_ZOROARK_HISUI.categoryName",
+    "index": 0,
+    "source": "Baneful Fox",
+    "translation": "咒狐",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_ZOROARK_HISUI.speciesName",
+    "index": 1,
+    "source": "ZOROARK",
+    "translation": "索罗亚克",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_ZOROARK_HISUI.speciesName",
+    "index": 0,
+    "source": "ZOROARK-H",
+    "translation": "索罗亚克-H",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_ZORUA_HISUI.categoryName",
+    "index": 0,
+    "source": "Spiteful Fox",
+    "translation": "怨狐",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_ZORUA_HISUI.speciesName",
+    "index": 1,
+    "source": "ZORUA",
+    "translation": "索罗亚",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_ZORUA_HISUI.speciesName",
+    "index": 0,
+    "source": "ZORUA-H",
+    "translation": "索罗亚-H",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_YAMASK_GALAR.categoryName",
+    "index": 0,
+    "source": "Spirit",
+    "translation": "魂",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_YAMASK_GALAR.speciesName",
+    "index": 1,
+    "source": "YAMASK",
+    "translation": "哭哭面具",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_YAMASK_GALAR.speciesName",
+    "index": 0,
+    "source": "YAMASK-G",
+    "translation": "哭哭面具-G",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_SCRAFTY_MEGA.speciesName",
+    "index": 0,
+    "source": "SCRAFTY",
+    "translation": "头巾混混",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_DARMANITAN_GALAR_ZEN.categoryName",
+    "index": 0,
+    "source": "Blazing",
+    "translation": "炽热",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_DARUMAKA_GALAR.speciesName",
+    "index": 1,
+    "source": "DARUMAKA",
+    "translation": "达摩娃娃",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_DARUMAKA_GALAR.speciesName",
+    "index": 0,
+    "source": "DARUMAKA-G",
+    "translation": "达摩娃娃",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_LILLIGANT_HISUI.categoryName",
+    "index": 0,
+    "source": "Spinning",
+    "translation": "纺织",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_LILLIGANT_HISUI.speciesName",
+    "index": 1,
+    "source": "LILLIGANT",
+    "translation": "裙儿小姐",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_LILLIGANT_HISUI.speciesName",
+    "index": 0,
+    "source": "LILLIGANT-H",
+    "translation": "洗翠裙儿小姐",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_SCOLIPEDE_MEGA.speciesName",
+    "index": 0,
+    "source": "SCOLIPEDE",
+    "translation": "蜈蚣王",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_AUDINO_MEGA.speciesName",
+    "index": 0,
+    "source": "AUDINO",
+    "translation": "差不多娃娃",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_EXCADRILL_MEGA.speciesName",
+    "index": 0,
+    "source": "EXCADRILL",
+    "translation": "龙头地鼠",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_SAMUROTT_HISUI.categoryName",
+    "index": 0,
+    "source": "Formidable",
+    "translation": "威严",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_SAMUROTT_HISUI.speciesName",
+    "index": 1,
+    "source": "SAMUROTT",
+    "translation": "大剑鬼",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_SAMUROTT_HISUI.speciesName",
+    "index": 0,
+    "source": "SAMUROTT-H",
+    "translation": "洗翠大剑鬼",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_EMBOAR_MEGA.speciesName",
+    "index": 0,
+    "source": "EMBOAR",
+    "translation": "炎武王",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_DIANCIE_MEGA.speciesName",
+    "index": 0,
+    "source": "DIANCIE",
+    "translation": "蒂安希",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_ZYGARDE_MEGA.speciesName",
+    "index": 0,
+    "source": "ZYGARDE",
+    "translation": "基格尔德",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_AVALUGG_HISUI.categoryName",
+    "index": 0,
+    "source": "Iceberg",
+    "translation": "冰山宝可梦",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_AVALUGG_HISUI.speciesName",
+    "index": 1,
+    "source": "AVALUGG",
+    "translation": "冰岩怪",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_AVALUGG_HISUI.speciesName",
+    "index": 0,
+    "source": "AVALUGG-H",
+    "translation": "洗翠冰岩怪",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_GOODRA_HISUI.categoryName",
+    "index": 0,
+    "source": "Shell Bunker",
+    "translation": "旋壳宝可梦",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_GOODRA_HISUI.speciesName",
+    "index": 1,
+    "source": "GOODRA",
+    "translation": "黏美龙",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_GOODRA_HISUI.speciesName",
+    "index": 0,
+    "source": "GOODRA-H",
+    "translation": "洗翠黏美龙",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_SLIGGOO_HISUI.categoryName",
+    "index": 0,
+    "source": "Snail",
+    "translation": "蜗牛宝可梦",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_SLIGGOO_HISUI.speciesName",
+    "index": 1,
+    "source": "SLIGGOO",
+    "translation": "黏美儿",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_SLIGGOO_HISUI.speciesName",
+    "index": 0,
+    "source": "SLIGGOO-H",
+    "translation": "洗翠黏美儿",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_HAWLUCHA_MEGA.speciesName",
+    "index": 0,
+    "source": "HAWLUCHA",
+    "translation": "摔角鹰人",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_DRAGALGE_MEGA.speciesName",
+    "index": 0,
+    "source": "DRAGALGE",
+    "translation": "毒藻龙",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_BARBARACLE_MEGA.speciesName",
+    "index": 0,
+    "source": "BARBARACLE",
+    "translation": "龟足巨铠",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_MALAMAR_MEGA.speciesName",
+    "index": 0,
+    "source": "MALAMAR",
+    "translation": "乌贼王",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "gSpeciesInfoGen6.categoryName",
+    "index": 6,
+    "source": "Poodle",
+    "translation": "贵宾犬",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "gSpeciesInfoGen6.speciesName",
+    "index": 6,
+    "source": "FURFROU",
+    "translation": "多丽米亚",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "gSpeciesInfoGen6.categoryName",
+    "index": 5,
+    "source": "Garden",
+    "translation": "花园",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "gSpeciesInfoGen6.speciesName",
+    "index": 5,
+    "source": "FLORGES",
+    "translation": "花洁夫人",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "gSpeciesInfoGen6.speciesName",
+    "index": 3,
+    "source": "FLABéBé",
+    "translation": "花蓓蓓",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_PYROAR_MEGA.speciesName",
+    "index": 0,
+    "source": "PYROAR",
+    "translation": "火炎狮",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "gSpeciesInfoGen6.categoryName",
+    "index": 2,
+    "source": "Scale",
+    "translation": "鳞粉",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "gSpeciesInfoGen6.speciesName",
+    "index": 2,
+    "source": "VIVILLON",
+    "translation": "彩粉蝶",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "gSpeciesInfoGen6.speciesName",
+    "index": 1,
+    "source": "SPEWPA",
+    "translation": "粉蝶蛹",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "gSpeciesInfoGen6.speciesName",
+    "index": 0,
+    "source": "SCATTERBUG",
+    "translation": "粉蝶虫",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_GRENINJA_MEGA.speciesName",
+    "index": 0,
+    "source": "GRENINJA",
+    "translation": "甲贺忍蛙",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_DELPHOX_MEGA.speciesName",
+    "index": 0,
+    "source": "DELPHOX",
+    "translation": "妖火红狐",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_CHESNAUGHT_MEGA.speciesName",
+    "index": 0,
+    "source": "CHESNAUGHT",
+    "translation": "布里卡隆",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_7_families.h",
+    "label": "SPECIES_ZERAORA_MEGA.speciesName",
+    "index": 0,
+    "source": "ZERAORA",
+    "translation": "捷拉奥拉",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_7_families.h",
+    "label": "SPECIES_DRAMPA_MEGA.speciesName",
+    "index": 0,
+    "source": "DRAMPA",
+    "translation": "老翁龙",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_7_families.h",
+    "label": "gSpeciesInfoGen7.categoryName",
+    "index": 1,
+    "source": "Meteor",
+    "translation": "流星",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_7_families.h",
+    "label": "gSpeciesInfoGen7.speciesName",
+    "index": 1,
+    "source": "MINIOR",
+    "translation": "小陨星",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_7_families.h",
+    "label": "gSpeciesInfoGen7.categoryName",
+    "index": 0,
+    "source": "Synthetic",
+    "translation": "人工",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_7_families.h",
+    "label": "gSpeciesInfoGen7.speciesName",
+    "index": 0,
+    "source": "SILVALLY",
+    "translation": "银伴战兽",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_7_families.h",
+    "label": "SPECIES_GOLISOPOD_MEGA.speciesName",
+    "index": 0,
+    "source": "GOLISOPOD",
+    "translation": "具甲武者",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_7_families.h",
+    "label": "SPECIES_CRABOMINABLE_MEGA.speciesName",
+    "index": 0,
+    "source": "CRABOMINABLE",
+    "translation": "好胜毛蟹",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_7_families.h",
+    "label": "SPECIES_DECIDUEYE_HISUI.categoryName",
+    "index": 0,
+    "source": "Arrow Quill",
+    "translation": "箭羽宝可梦",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_7_families.h",
+    "label": "SPECIES_DECIDUEYE_HISUI.speciesName",
+    "index": 1,
+    "source": "DECIDUEYE",
+    "translation": "狙射树枭",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_7_families.h",
+    "label": "SPECIES_DECIDUEYE_HISUI.speciesName",
+    "index": 0,
+    "source": "DECIDUEYE-H",
+    "translation": "洗翠狙射树枭",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_8_families.h",
+    "label": "SPECIES_FALINKS_MEGA.speciesName",
+    "index": 0,
+    "source": "FALINKS",
+    "translation": "列阵兵",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_9_families.h",
+    "label": "SPECIES_BAXCALIBUR_MEGA.speciesName",
+    "index": 0,
+    "source": "BAXCALIBUR",
+    "translation": "戟脊龙",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_9_families.h",
+    "label": "SPECIES_GLIMMORA_MEGA.speciesName",
+    "index": 0,
+    "source": "GLIMMORA",
+    "translation": "晶光花",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_9_families.h",
+    "label": "SPECIES_SCOVILLAIN_MEGA.speciesName",
+    "index": 0,
+    "source": "SCOVILLAIN",
+    "translation": "狠辣椒",
+    "provenance": "aligned_corpus exact unique single-line field literal"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_CARD_KEY.description",
+    "index": 1,
+    "source": "A card-type door\\nkey used in Silph\\nCo's office.",
+    "translation": "在西尔佛公司办公楼使用的\\n卡片钥匙。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_CARD_KEY.description",
+    "index": 0,
+    "source": "A card-type door\\nkey used in RADIO\\nTOWER.",
+    "translation": "在广播电台使用的\\n卡片钥匙。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_METEORITE.description",
+    "index": 1,
+    "source": "A meteorite found\\nat Meteor Falls.",
+    "translation": "在流星瀑布发现的\\n陨石。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_METEORITE.description",
+    "index": 0,
+    "source": "A meteorite found\\nat Birth Island.",
+    "translation": "在诞生之岛发现的\\n陨石。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_BASEMENT_KEY.description",
+    "index": 1,
+    "source": "The key for New\\nMauville beneath\\nMauville City.",
+    "translation": "位于紫堇市地下的\\n新紫堇的\\n钥匙。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_BASEMENT_KEY.description",
+    "index": 0,
+    "source": "The key for the\\nGOLDENROD\\nUNDERGROUND.",
+    "translation": "满金地下通道的\\n钥匙。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_TM70.description",
+    "index": 1,
+    "source": "Looses a powerful\\nblast of light that\\ncuts accuracy.",
+    "translation": "释放出强烈的闪光，\\n从而降低对手的命中率。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_TM70.description",
+    "index": 0,
+    "source": "An all-out charge\\nattack that may\\nconfuse the foe.",
+    "translation": "全身冲撞攻击对手，\\n有时会使对手陷入混乱。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_TM_HAIL.description",
+    "index": 1,
+    "source": "Creates a hailstorm\\nthat damages all\\ntypes except Ice.",
+    "translation": "降下冰雹，\\n对冰属性以外的\\n宝可梦造成伤害。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_TM_HAIL.description",
+    "index": 0,
+    "source": "Raises the Defense\\nof Ice type {PKMN}\\nfor 5 turns.",
+    "translation": "在5回合内\\n提高冰属性{PKMN}\\n的防御。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SITRUS_BERRY.description",
+    "index": 1,
+    "source": "A hold item that\\nrestores 30 HP in\\nbattle.",
+    "translation": "宝可梦携带后，\\n在战斗中\\n能回复30HP。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SITRUS_BERRY.description",
+    "index": 0,
+    "source": "A hold item that\\nrestores the user's\\nHP a little.",
+    "translation": "宝可梦携带后，\\n能少量回复\\n自身的HP。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_EXP_SHARE.description",
+    "index": 1,
+    "source": "A hold item that\\ngets Exp. points\\nfrom battles.",
+    "translation": "宝可梦携带后，\\n也能从战斗中\\n分得经验值的道具。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_EXP_SHARE.description",
+    "index": 0,
+    "source": "This device gives\\nexp. to other\\nparty members.",
+    "translation": "能让同行的\\n其他宝可梦也能\\n分得经验值的装置。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_ICY_ROCK.description",
+    "index": 2,
+    "source": "Extends the length\\nof cold weathers\\nused by the holder.",
+    "translation": "携带它的宝可梦使用\\n冰冷天气类的招式时，\\n持续时间会变长。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_LAX_INCENSE.description",
+    "index": 1,
+    "source": "A hold item that\\nslightly lowers the\\nfoe's accuracy.",
+    "translation": "宝可梦携带后，\\n会略微降低对手的\\n命中率。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_LAX_INCENSE.description",
+    "index": 0,
+    "source": "A hold item that\\nlowers the\\nfoe's accuracy.",
+    "translation": "携带后可以降低\\n对手招式命中率\\n的携带物品。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_PRISM_SCALE.description",
+    "index": 0,
+    "source": "A mysterious scale\\nthat evolves a\\ncertain Pokémon.",
+    "translation": "不可思议的鳞片，\\n能让某些特定\\n宝可梦进化。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_AMAZE_MULCH.description",
+    "index": 0,
+    "source": "A fertilizer Rich\\nSurprising and\\nBoosting as well.",
+    "translation": "兼具丰收、\\n惊奇和促干\\n效果的肥料。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_BOOST_MULCH.description",
+    "index": 0,
+    "source": "A fertilizer that\\nups the dry speed\\nof soft soil.",
+    "translation": "能让松软泥土\\n干燥得更快的肥料。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SURPRISE_MULCH.description",
+    "index": 0,
+    "source": "A fertilizer that\\nups the chance of\\nBerry mutations.",
+    "translation": "能让树果\\n更容易发生突变的\\n肥料。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_RICH_MULCH.description",
+    "index": 0,
+    "source": "A fertilizer that\\nups the number of\\nBerries harvested.",
+    "translation": "能增加树果\\n收获数量的肥料。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_GOOEY_MULCH.description",
+    "index": 0,
+    "source": "A fertilizer that\\nmakes more Berries\\nregrow after fall.",
+    "translation": "能让掉落后的树果\\n更容易重新\\n发芽生长的肥料。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_STABLE_MULCH.description",
+    "index": 0,
+    "source": "A fertilizer that\\nups the life time\\nof Berry trees.",
+    "translation": "用于树果土壤的肥料。\\n可以让成熟树果掉落变慢。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_DAMP_MULCH.description",
+    "index": 0,
+    "source": "A fertilizer that\\ndecelerates the\\ngrowth of Berries.",
+    "translation": "用于树果土壤的肥料。\\n可以让树果成长变慢。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_GROWTH_MULCH.description",
+    "index": 0,
+    "source": "A fertilizer that\\naccelerates the\\ngrowth of Berries.",
+    "translation": "用于树果土壤的肥料。\\n可以让树果成长得更快。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_OLD_AMBER.description",
+    "index": 0,
+    "source": "A stone containing\\nthe genes of an\\nancient Pokémon.",
+    "translation": "封存着古代宝可梦\\n遗传基因的神奇石头。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_DOME_FOSSIL.description",
+    "index": 0,
+    "source": "A piece of an\\nancient marine\\nPokémon's shell.",
+    "translation": "古代生活在大海里的\\n宝可梦的部分背甲化石。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_HELIX_FOSSIL.description",
+    "index": 0,
+    "source": "A piece of an\\nancient marine\\nPokémon's seashell.",
+    "translation": "古代生活在大海里的\\n宝可梦的部分贝壳化石。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_HONEY.description",
+    "index": 0,
+    "source": "Sweet honey that\\nattracts wild\\nPokémon when used.",
+    "translation": "散发着香甜气味的蜜。\\n使用后能引来\\n野生宝可梦。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_COMET_SHARD.description",
+    "index": 0,
+    "source": "A comet's shard.\\nIt would sell for a\\nhigh price.",
+    "translation": "掉落到地面的彗星碎片。\\n可以在友好商店\\n以高价卖出。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_PEARL_STRING.description",
+    "index": 0,
+    "source": "Very large pearls\\nthat would sell at a\\nhigh price.",
+    "translation": "相当大颗的珍珠串。\\n可以在友好商店\\n以高价卖出。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_BIG_NUGGET.description",
+    "index": 0,
+    "source": "A big nugget made\\nof gold, sellable\\nat a high price.",
+    "translation": "纯金制成的大珠子。\\n可以在友好商店\\n以高价卖出。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_ESCAPE_ROPE.description",
+    "index": 0,
+    "source": "Use to escape\\ninstantly from a\\ncave or a dungeon.",
+    "translation": "能从洞窟或\\n迷宫之中\\n瞬间脱离出来。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_PP_UP.description",
+    "index": 0,
+    "source": "Raises the maximum\\nPP of a selected\\nmove.",
+    "translation": "能增加宝可梦学会的\\n其中1个招式的\\nPP最大值。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_AWAKENING.description",
+    "index": 0,
+    "source": "Awakens a sleeping\\nPokémon.",
+    "translation": "让睡眠状态的\\n宝可梦苏醒。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_ICE_HEAL.description",
+    "index": 0,
+    "source": "Defrosts a frozen\\nPokémon.",
+    "translation": "治愈宝可梦\\n的冰冻状态。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_BURN_HEAL.description",
+    "index": 0,
+    "source": "Heals Pokémon\\nof a burn.",
+    "translation": "治愈宝可梦\\n的灼伤状态。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_SNOWSCAPE.description",
+    "index": 1,
+    "source": "Summons a snowstorm that\\nlasts for five turns.",
+    "translation": "降下暴风雪，\\n持续5回合。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_SNOWSCAPE.description",
+    "index": 0,
+    "source": "Summons a hailstorm that\\nstrikes every turn.",
+    "translation": "降下冰雹，\\n在每回合都造成伤害。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_CHILLY_RECEPTION.description",
+    "index": 1,
+    "source": "Bad joke summons snowstorm.\\nThe user also switches out.",
+    "translation": "讲冷笑话降下大雪，\\n并与后备宝可梦进行替换。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_CHILLY_RECEPTION.description",
+    "index": 0,
+    "source": "Bad joke summons hailstorm.\\nThe user also switches out.",
+    "translation": "讲冷笑话降下冰雹，\\n并与后备宝可梦进行替换。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_THUNDER_CAGE.description",
+    "index": 0,
+    "source": "Traps the foe in a cage of\\nelectricity for  turns.",
+    "translation": "将对手困在雷电囚笼中，\\n在回合内持续造成伤害。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_AURORA_VEIL.description",
+    "index": 2,
+    "source": "Weakens all attacks, but\\nonly usable with hail.",
+    "translation": "减弱所有受到的攻击，\\n但只有在降雹时才可以使用。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_AURORA_VEIL.description",
+    "index": 1,
+    "source": "Weakens all attacks if\\nused in hail or snow.",
+    "translation": "若在冰雹或下雪时使用，\\n可以减弱所有受到的攻击。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_AURORA_VEIL.description",
+    "index": 0,
+    "source": "Weakens all attacks, but\\nonly usable with snow.",
+    "translation": "减弱所有受到的攻击，\\n但只有在下雪时才可以使用。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_INFESTATION.description",
+    "index": 0,
+    "source": "The foe is infested and\\nattacked for  turns.",
+    "translation": "死缠烂打对手，\\n在回合内持续造成伤害。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_MAGMA_STORM.description",
+    "index": 0,
+    "source": "Traps the foe in a vortex\\nof fire for  turns.",
+    "translation": "将对手困在火焰旋涡中，\\n在回合内持续造成伤害。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_VOLT_TACKLE.description",
+    "index": 1,
+    "source": "A life-risking tackle that\\nslightly hurts the user.",
+    "translation": "拼命扑向对手进行攻击。\\n自己也会受到少许伤害。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_VOLT_TACKLE.description",
+    "index": 0,
+    "source": "A life-risking tackle that\\nhurts the user. May paralyze.",
+    "translation": "拼命冲撞对手进行攻击。\\n自己也会受伤。有时会让对手麻痹。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_SAND_TOMB.description",
+    "index": 0,
+    "source": "Traps and hurts the foe in\\nquicksand for  turns.",
+    "translation": "将对手困在流沙中，\\n在数回合内持续造成伤害。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_HAIL.description",
+    "index": 1,
+    "source": "Summons a hailstorm that\\nstrikes every turn.",
+    "translation": "降下冰雹，\\n在每回合都造成伤害。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_HAIL.description",
+    "index": 0,
+    "source": "Summons a snowstorm that\\nlasts for five turns.",
+    "translation": "降下暴风雪，\\n持续5回合。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_WHIRLPOOL.description",
+    "index": 0,
+    "source": "Traps and hurts the foe in\\na whirlpool for  turns.",
+    "translation": "将对手困在漩涡中，\\n在数回合内持续造成伤害。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_FUTURE_SIGHT.description",
+    "index": 0,
+    "source": "Heightens inner power to\\nstrike 2 turns later.",
+    "translation": "提高内在的精神力量，\\n在2回合后发动攻击。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_FURY_CUTTER.description",
+    "index": 0,
+    "source": "Attack that intensifies\\non each successive hit.",
+    "translation": "连续击中对手时，\\n威力会逐渐提高。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_STRUGGLE.description",
+    "index": 0,
+    "source": "Used only if all PP are gone.\\nAlso hurts the user a little.",
+    "translation": "仅在所有PP耗尽时使用。\\n自身也会受到少许伤害。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_TRI_ATTACK.description",
+    "index": 1,
+    "source": "A triangular field of energy\\nis created and launched.",
+    "translation": "制造出三角形的能量场，\\n并发射出去。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_ROCK_SLIDE.description",
+    "index": 1,
+    "source": "Hits the foe with an\\navalanche of rocks.",
+    "translation": "用崩塌的岩石\\n击打对手。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_ROCK_SLIDE.description",
+    "index": 0,
+    "source": "Large boulders are hurled.\\nMay cause flinching.",
+    "translation": "投掷巨大的岩石。\\n有时会使对手畏缩。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_DIZZY_PUNCH.description",
+    "index": 1,
+    "source": "The target is hit with\\nrhythmic punches.",
+    "translation": "以节奏轻快的重拳\\n击打目标。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_DIZZY_PUNCH.description",
+    "index": 0,
+    "source": "A rhythmic punch that may\\nconfuse the target.",
+    "translation": "节奏轻快地出拳，\\n有时会使目标混乱。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_GLARE.description",
+    "index": 0,
+    "source": "Intimidates and frightens\\nthe foe into paralysis.",
+    "translation": "瞪视威吓对手使其害怕，\\n从而陷入麻痹状态。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_HIGH_JUMP_KICK.description",
+    "index": 0,
+    "source": "A jumping knee kick. If it\\nmisses, the user is hurt.",
+    "translation": "跳起使出飞膝撞。\\n如果踢偏则自己会受伤害。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_CLAMP.description",
+    "index": 0,
+    "source": "Traps and squeezes the\\nfoe for  turns.",
+    "translation": "紧紧勒住对手，\\n困住数回合进行攻击。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_RECOVER.description",
+    "index": 0,
+    "source": "Recovers up to half the\\nuser's maximum HP.",
+    "translation": "回复自身最大HP的\\n一半。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_TELEPORT.description",
+    "index": 1,
+    "source": "A psychic move for fleeing\\nfrom battle instantly.",
+    "translation": "利用超能力招式\\n瞬间从战斗中脱身。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_TELEPORT.description",
+    "index": 0,
+    "source": "Switches the user out last.\\nFlees when used by wild {PKMN}.",
+    "translation": "后制换下自身宝可梦。\\n野生{PKMN}使用时会逃跑。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_FIRE_SPIN.description",
+    "index": 0,
+    "source": "Traps the foe in a ring of\\nfire for  turns.",
+    "translation": "用熊熊烈火包围对手，\\n困住数回合进行攻击。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_PETAL_DANCE.description",
+    "index": 0,
+    "source": "A rampage of 2 to 3 turns\\nthat confuses the user.",
+    "translation": "在2~3回合内大闹一番。\\n之后自己会陷入混乱。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_LOW_KICK.description",
+    "index": 1,
+    "source": "A low, tripping kick that\\nmay cause flinching.",
+    "translation": "使出绊倒对手的下段踢。\\n有时会使对手畏缩。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_LOW_KICK.description",
+    "index": 0,
+    "source": "A kick that inflicts more\\ndamage on heavier foes.",
+    "translation": "对手的体重越重，\\n造成的踢击伤害越大。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_WRAP.description",
+    "index": 0,
+    "source": "Wraps and squeezes the foe\\n times with vines, etc.",
+    "translation": "用藤蔓等紧紧勒住对手，\\n在数回合内持续攻击。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_TACKLE.description",
+    "index": 0,
+    "source": "Charges the foe with a full-\\nbody tackle.",
+    "translation": "使出全身的力气\\n猛烈撞击对手。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_JUMP_KICK.description",
+    "index": 0,
+    "source": "A strong jumping kick. May\\nmiss and hurt the kicker.",
+    "translation": "使出强力的腾空踢。\\n如果踢偏则自己会受伤害。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_VINE_WHIP.description",
+    "index": 0,
+    "source": "Strikes the foe with\\nslender, whiplike vines.",
+    "translation": "用细长如鞭的藤蔓\\n摔打对手进行攻击。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_BIND.description",
+    "index": 0,
+    "source": "Binds and squeezes the foe\\nfor  turns.",
+    "translation": "勒紧并压迫对手，\\n持续数回合进行攻击。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_RAZOR_WIND.description",
+    "index": 1,
+    "source": "A 2-turn move with a high\\ncritical-hit ratio.",
+    "translation": "第2回合攻击对手，\\n且容易击中要害。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_RAZOR_WIND.description",
+    "index": 0,
+    "source": "A 2-turn move that strikes\\nthe foe on the 2nd turn.",
+    "translation": "第1回合蓄力，\\n第2回合攻击对手。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "sHyperBeamDescription",
+    "index": 1,
+    "source": "Leaves the user immobile\\nif target is not KO'd.",
+    "translation": "若未能将对手击倒，\\n自身下一回合将无法动弹。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "sHyperBeamDescription",
+    "index": 0,
+    "source": "Powerful, but leaves the\\nuser immobile the next turn.",
+    "translation": "威力巨大，但下一回合\\n自身将无法动弹。",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MEWTWO_MEGA_Y.speciesName",
+    "index": 0,
+    "source": "MEWTWO",
+    "translation": "超梦",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MEWTWO_MEGA_X.speciesName",
+    "index": 0,
+    "source": "MEWTWO",
+    "translation": "超梦",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_TAUROS_PALDEA_AQUA.categoryName",
+    "index": 0,
+    "source": "Wild Bull",
+    "translation": "暴牛",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_TAUROS_PALDEA_AQUA.speciesName",
+    "index": 1,
+    "source": "TAUROS",
+    "translation": "肯泰罗",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_TAUROS_PALDEA_AQUA.speciesName",
+    "index": 0,
+    "source": "TAUROS-P",
+    "translation": "肯泰罗-P",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_TAUROS_PALDEA_BLAZE.categoryName",
+    "index": 0,
+    "source": "Wild Bull",
+    "translation": "暴牛",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_TAUROS_PALDEA_BLAZE.speciesName",
+    "index": 1,
+    "source": "TAUROS",
+    "translation": "肯泰罗",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_TAUROS_PALDEA_BLAZE.speciesName",
+    "index": 0,
+    "source": "TAUROS-P",
+    "translation": "肯泰罗-P",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_TAUROS_PALDEA_COMBAT.categoryName",
+    "index": 0,
+    "source": "Wild Bull",
+    "translation": "暴牛",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_TAUROS_PALDEA_COMBAT.speciesName",
+    "index": 1,
+    "source": "TAUROS",
+    "translation": "肯泰罗",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_TAUROS_PALDEA_COMBAT.speciesName",
+    "index": 0,
+    "source": "TAUROS-P",
+    "translation": "肯泰罗-P",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MAROWAK_ALOLA_TOTEM.categoryName",
+    "index": 0,
+    "source": "Bone Keeper",
+    "translation": "骨棒",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MAROWAK_ALOLA_TOTEM.speciesName",
+    "index": 1,
+    "source": "MAROWAK",
+    "translation": "嘎啦嘎啦",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MAROWAK_ALOLA_TOTEM.speciesName",
+    "index": 0,
+    "source": "MAROWAK-A",
+    "translation": "嘎啦嘎啦-A",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MAROWAK_ALOLA.categoryName",
+    "index": 0,
+    "source": "Bone Keeper",
+    "translation": "骨棒",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MAROWAK_ALOLA.speciesName",
+    "index": 1,
+    "source": "MAROWAK",
+    "translation": "嘎啦嘎啦",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MAROWAK_ALOLA.speciesName",
+    "index": 0,
+    "source": "MAROWAK-A",
+    "translation": "嘎啦嘎啦-A",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_ELECTRODE_HISUI.categoryName",
+    "index": 0,
+    "source": "Sphere",
+    "translation": "球",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_VOLTORB_HISUI.categoryName",
+    "index": 0,
+    "source": "Sphere",
+    "translation": "球",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MUK_ALOLA.categoryName",
+    "index": 0,
+    "source": "Sludge",
+    "translation": "污泥攻击",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_GRIMER_ALOLA.categoryName",
+    "index": 0,
+    "source": "Sludge",
+    "translation": "污泥攻击",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_RAPIDASH_GALAR.categoryName",
+    "index": 0,
+    "source": "Unique Horn",
+    "translation": "一角",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_PONYTA_GALAR.categoryName",
+    "index": 0,
+    "source": "Unique Horn",
+    "translation": "一角",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_GRAVELER_ALOLA.categoryName",
+    "index": 0,
+    "source": "Rock",
+    "translation": "岩石",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_GEODUDE_ALOLA.categoryName",
+    "index": 0,
+    "source": "Rock",
+    "translation": "岩石",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MEOWTH_GALAR.categoryName",
+    "index": 0,
+    "source": "Scratch Cat",
+    "translation": "妖怪猫",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MEOWTH_GALAR.speciesName",
+    "index": 1,
+    "source": "MEOWTH",
+    "translation": "喵喵",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MEOWTH_ALOLA.categoryName",
+    "index": 0,
+    "source": "Scratch Cat",
+    "translation": "妖怪猫",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_MEOWTH_ALOLA.speciesName",
+    "index": 1,
+    "source": "MEOWTH",
+    "translation": "喵喵",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_DUGTRIO_ALOLA.categoryName",
+    "index": 0,
+    "source": "Mole",
+    "translation": "鼹鼠",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_DIGLETT_ALOLA.categoryName",
+    "index": 0,
+    "source": "Mole",
+    "translation": "鼹鼠",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_NINETALES_ALOLA.categoryName",
+    "index": 0,
+    "source": "Fox",
+    "translation": "狐狸",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_VULPIX_ALOLA.categoryName",
+    "index": 0,
+    "source": "Fox",
+    "translation": "狐狸",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_SANDSLASH_ALOLA.categoryName",
+    "index": 0,
+    "source": "Mouse",
+    "translation": "鼠",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_SANDSHREW_ALOLA.categoryName",
+    "index": 0,
+    "source": "Mouse",
+    "translation": "鼠",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_RAICHU_MEGA_Y.speciesName",
+    "index": 0,
+    "source": "RAICHU",
+    "translation": "雷丘",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_RAICHU_MEGA_X.speciesName",
+    "index": 0,
+    "source": "RAICHU",
+    "translation": "雷丘",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_RAICHU_ALOLA.categoryName",
+    "index": 0,
+    "source": "Mouse",
+    "translation": "鼠",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_RAICHU_ALOLA.speciesName",
+    "index": 1,
+    "source": "RAICHU",
+    "translation": "雷丘",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_RATICATE_ALOLA_TOTEM.categoryName",
+    "index": 0,
+    "source": "Mouse",
+    "translation": "鼠",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_RATICATE_ALOLA_TOTEM.speciesName",
+    "index": 1,
+    "source": "RATICATE",
+    "translation": "拉达",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_RATICATE_ALOLA_TOTEM.speciesName",
+    "index": 0,
+    "source": "RATICATE-A",
+    "translation": "拉达-A",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_RATICATE_ALOLA.categoryName",
+    "index": 0,
+    "source": "Mouse",
+    "translation": "鼠",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_RATICATE_ALOLA.speciesName",
+    "index": 1,
+    "source": "RATICATE",
+    "translation": "拉达",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_RATICATE_ALOLA.speciesName",
+    "index": 0,
+    "source": "RATICATE-A",
+    "translation": "拉达-A",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_RATTATA_ALOLA.categoryName",
+    "index": 0,
+    "source": "Mouse",
+    "translation": "鼠",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_CHARIZARD_MEGA_Y.speciesName",
+    "index": 0,
+    "source": "CHARIZARD",
+    "translation": "喷火龙",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_1_families.h",
+    "label": "SPECIES_CHARIZARD_MEGA_X.speciesName",
+    "index": 0,
+    "source": "CHARIZARD",
+    "translation": "喷火龙",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_ABSOL_MEGA_Z.speciesName",
+    "index": 0,
+    "source": "ABSOL",
+    "translation": "阿勃梭鲁",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_3_families.h",
+    "label": "SPECIES_ABSOL_MEGA.speciesName",
+    "index": 0,
+    "source": "ABSOL",
+    "translation": "阿勃梭鲁",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_4_families.h",
+    "label": "SPECIES_LUCARIO_MEGA_Z.speciesName",
+    "index": 0,
+    "source": "LUCARIO",
+    "translation": "路卡利欧",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_4_families.h",
+    "label": "SPECIES_LUCARIO_MEGA.speciesName",
+    "index": 0,
+    "source": "LUCARIO",
+    "translation": "路卡利欧",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_4_families.h",
+    "label": "SPECIES_GARCHOMP_MEGA_Z.speciesName",
+    "index": 0,
+    "source": "GARCHOMP",
+    "translation": "烈咬陆鲨",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_4_families.h",
+    "label": "SPECIES_GARCHOMP_MEGA.speciesName",
+    "index": 0,
+    "source": "GARCHOMP",
+    "translation": "烈咬陆鲨",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_DARMANITAN_GALAR_ZEN.speciesName",
+    "index": 1,
+    "source": "DARMANITAN",
+    "translation": "达摩狒狒",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_DARMANITAN_GALAR_ZEN.speciesName",
+    "index": 0,
+    "source": "DARMANITAN-G",
+    "translation": "达摩狒狒",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_DARMANITAN_GALAR_STANDARD.categoryName",
+    "index": 0,
+    "source": "Zen Charm",
+    "translation": "不倒翁",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_DARMANITAN_GALAR_STANDARD.speciesName",
+    "index": 1,
+    "source": "DARMANITAN",
+    "translation": "达摩狒狒",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_DARMANITAN_GALAR_STANDARD.speciesName",
+    "index": 0,
+    "source": "DARMANITAN-G",
+    "translation": "达摩狒狒",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_5_families.h",
+    "label": "SPECIES_DARUMAKA_GALAR.categoryName",
+    "index": 0,
+    "source": "Zen Charm",
+    "translation": "不倒翁",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_MEOWSTIC_F_MEGA.speciesName",
+    "index": 0,
+    "source": "MEOWSTIC",
+    "translation": "超能妙喵",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_MEOWSTIC_M_MEGA.speciesName",
+    "index": 0,
+    "source": "MEOWSTIC",
+    "translation": "超能妙喵",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "SPECIES_FLOETTE_MEGA.speciesName",
+    "index": 0,
+    "source": "FLOETTE",
+    "translation": "花叶蒂",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "gSpeciesInfoGen6.categoryName",
+    "index": 4,
+    "source": "Single Bloom",
+    "translation": "单朵",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "gSpeciesInfoGen6.speciesName",
+    "index": 4,
+    "source": "FLOETTE",
+    "translation": "花叶蒂",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "gSpeciesInfoGen6.categoryName",
+    "index": 3,
+    "source": "Single Bloom",
+    "translation": "单朵",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "gSpeciesInfoGen6.categoryName",
+    "index": 1,
+    "source": "Scatterdust",
+    "translation": "喷粉",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_6_families.h",
+    "label": "gSpeciesInfoGen6.categoryName",
+    "index": 0,
+    "source": "Scatterdust",
+    "translation": "喷粉",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_7_families.h",
+    "label": "SPECIES_MAGEARNA_ORIGINAL_MEGA.speciesName",
+    "index": 0,
+    "source": "MAGEARNA",
+    "translation": "玛机雅娜",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_7_families.h",
+    "label": "SPECIES_MAGEARNA_MEGA.speciesName",
+    "index": 0,
+    "source": "MAGEARNA",
+    "translation": "玛机雅娜",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_9_families.h",
+    "label": "SPECIES_TATSUGIRI_STRETCHY_MEGA.speciesName",
+    "index": 0,
+    "source": "TATSUGIRI",
+    "translation": "米立龙",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_9_families.h",
+    "label": "SPECIES_TATSUGIRI_DROOPY_MEGA.speciesName",
+    "index": 0,
+    "source": "TATSUGIRI",
+    "translation": "米立龙",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/pokemon/species_info/gen_9_families.h",
+    "label": "SPECIES_TATSUGIRI_CURLY_MEGA.speciesName",
+    "index": 0,
+    "source": "TATSUGIRI",
+    "translation": "米立龙",
+    "provenance": "aligned_corpus exact source and directive-free macro literal rewrite"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SUPERB_REMEDY.description",
+    "index": 0,
+    "source": "A bitter powder\\nthat restores HP\\nby 120 points.",
+    "translation": "微苦的粉末。\\n能回复宝可梦\\n120点HP。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_FINE_REMEDY.description",
+    "index": 0,
+    "source": "A bitter powder\\nthat restores HP\\nby 60 points.",
+    "translation": "非常苦的药粉。\\n能让1只宝可梦\\n回复60HP。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_TM_BLIZZARD.description",
+    "index": 0,
+    "source": "A snow-and-wind\\nattack that may\\ninflict frostbite.",
+    "translation": "用强烈的风雪攻击对手。\\n有时会让对手陷入\\n霜冻状态。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_TM_ICE_BEAM.description",
+    "index": 0,
+    "source": "Fires an icy cold\\nbeam that may\\ninflict frostbite.",
+    "translation": "发射冰冷的光束攻击。\\n有时会让对手陷入\\n霜冻状态。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_MENTAL_HERB.description",
+    "index": 0,
+    "source": "Snaps Pokémon out\\nof move-binding\\neffects.",
+    "translation": "能让宝可梦从\\n招式受限状态中\\n恢复过来的草药。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_ICY_ROCK.description",
+    "index": 1,
+    "source": "Extends the length\\nof Snowscape if\\nused by the holder.",
+    "translation": "携带它的宝可梦\\n使用招式\"下雪\"时，\\n持续时间会变长。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_ICY_ROCK.description",
+    "index": 0,
+    "source": "Extends the length\\nof the move Hail\\nused by the holder.",
+    "translation": "携带它的宝可梦\\n使用招式\"冰雹\"时，\\n持续时间会变长。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SOUL_DEW.description",
+    "index": 0,
+    "source": "Powers up Latios' &\\nLatias' Psychic and\\nDragon-type moves.",
+    "translation": "能提高拉帝欧斯与\\n拉帝亚斯的超能力及\\n龙属性招式的威力。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_X_ACCURACY.description",
+    "index": 0,
+    "source": "Sharply raises move\\naccuracy during\\none battle.",
+    "translation": "在一场战斗中，\\n大幅提高宝可梦\\n招式的命中率。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_X_SPEED.description",
+    "index": 0,
+    "source": "Sharply raises stat\\nSpeed during\\none battle.",
+    "translation": "在1场战斗中\\n大幅提升宝可梦的\\n速度。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_X_SP_DEF.description",
+    "index": 0,
+    "source": "Sharply raises stat\\nSp. Def during\\none battle.",
+    "translation": "在1场战斗中\\n大幅提升宝可梦的\\n特防。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_X_SP_ATK.description",
+    "index": 0,
+    "source": "Sharply raises stat\\nSp. Atk during\\none battle.",
+    "translation": "在1场战斗中\\n大幅提升宝可梦的\\n特攻。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_X_DEFENSE.description",
+    "index": 0,
+    "source": "Sharply raises stat\\nDefense during\\none battle.",
+    "translation": "在1场战斗中\\n大幅提升宝可梦的\\n防御。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_X_ATTACK.description",
+    "index": 0,
+    "source": "Sharply raises stat\\nAttack during\\none battle.",
+    "translation": "在1场战斗中\\n大幅提升宝可梦的\\n攻击。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_ENERGY_ROOT.description",
+    "index": 0,
+    "source": "A bitter root\\nthat restores HP\\nby 120 points.",
+    "translation": "非常苦的草根。\\n能回复宝可梦\\n120点HP。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_ENERGY_POWDER.description",
+    "index": 0,
+    "source": "A bitter powder\\nthat restores HP\\nby 60 points.",
+    "translation": "非常苦的药粉。\\n能让1只宝可梦\\n回复60HP。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_LEMONADE.description",
+    "index": 0,
+    "source": "A very sweet drink\\nthat restores HP\\nby 70 points.",
+    "translation": "非常甘甜的牛奶。\\n能让1只宝可梦\\n回复70HP。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SODA_POP.description",
+    "index": 0,
+    "source": "A fizzy soda drink\\nthat restores HP\\nby 50 points.",
+    "translation": "滋滋作响的汽水。\\n能让1只宝可梦\\n回复50HP。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_FRESH_WATER.description",
+    "index": 0,
+    "source": "A mineral water\\nthat restores HP\\nby 30 points.",
+    "translation": "纯净的矿泉水。\\n能让1只宝可梦\\n回复30HP。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_FREEZING_GLARE.description",
+    "index": 0,
+    "source": "Shoots psychic power from\\nthe eyes. May frostbite.",
+    "translation": "从双眼中发射精神力量进行攻击。\\n有时会使对手陷入霜冻状态。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_BOUNCY_BUBBLE.description",
+    "index": 0,
+    "source": "Attack that absorbs\\nall the damage inflicted.",
+    "translation": "进行攻击，吸取给予对手\\n伤害的全部HP。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_FREEZE_DRY.description",
+    "index": 0,
+    "source": "Super effective on Water-\\ntypes. May cause frostbite.",
+    "translation": "对水属性效果绝佳。\\n有时会使对手陷入霜冻状态。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_ICE_FANG.description",
+    "index": 0,
+    "source": "May cause flinching or\\nleave the foe with frostbite.",
+    "translation": "有时会使对手畏缩，\\n或者陷入霜冻状态。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_TAILWIND.description",
+    "index": 0,
+    "source": "Whips up a breeze, doubling\\nally Speed for 4 turns.",
+    "translation": "刮起狂风，在4回合内\\n提高同伴的速度。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_TAIL_GLOW.description",
+    "index": 0,
+    "source": "Flash light that drastically\\nFlashes a light that sharply\\nraises Sp. Atk.",
+    "translation": "发出强光大幅\\n发出强光大幅\\n提高特攻。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_UPROAR.description",
+    "index": 0,
+    "source": "Causes an uproar for 3\\nCauses an uproar for 2 to 5\\nturns and prevents sleep.",
+    "translation": "大吵大闹3回合，\\n大吵大闹2到5回合，\\n期间谁都无法入眠。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_CRUNCH.description",
+    "index": 0,
+    "source": "Crunches with sharp fangs.\\nMay lower Defense.",
+    "translation": "用锋利的尖牙咬碎对手。\\n有时会降低对手的防御。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_HIDDEN_POWER.description",
+    "index": 0,
+    "source": "The type varies\\nwith the user.",
+    "translation": "招式的属性\\n因使用者而异。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_SWEET_SCENT.description",
+    "index": 0,
+    "source": "Allures the foes to harshly\\nreduce evasiveness.",
+    "translation": "用香气诱惑对手，\\n大幅降低其闪避率。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_RAPID_SPIN.description",
+    "index": 0,
+    "source": "User spins and removes some\\neffects, while upping speed.",
+    "translation": "自身旋转摆脱部分束缚，\\n同时提高速度。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_POWDER_SNOW.description",
+    "index": 0,
+    "source": "Blasts the foes with a snowy\\ngust. May cause frostbite.",
+    "translation": "用暴风雪猛烈吹袭对手。\\n有时会使其陷入霜冻。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_SPITE.description",
+    "index": 0,
+    "source": "Spitefully cuts the PP\\nof the foe's last move by 4.",
+    "translation": "怨恨对手最后使用的招式，\\n使其PP减少4点。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_COTTON_SPORE.description",
+    "index": 0,
+    "source": "Spores cling to the foes,\\nSpores cling to the foe,\\nsharply reducing Speed.",
+    "translation": "孢子紧附在对手身上，\\n孢子紧附在对手身上，\\n大幅降低对手的速度。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_TRI_ATTACK.description",
+    "index": 0,
+    "source": "Fires three types of beams.\\nMay burn/para/frostbite.",
+    "translation": "射出3种光线。可能使对手\\n陷入灼伤、麻痹或霜冻。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_CONVERSION.description",
+    "index": 0,
+    "source": "Changes the user's type\\ninto first known move's type.",
+    "translation": "将自身的属性转变为\\n首个已学会招式的属性。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_POISON_GAS.description",
+    "index": 0,
+    "source": "Envelops the foes in a toxic\\nEnvelops the foe in a toxic\\ngas that may poison.",
+    "translation": "用毒瓦斯包围对手，\\n用毒瓦斯包围对手，\\n有时会使其陷入中毒。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_MINIMIZE.description",
+    "index": 0,
+    "source": "Minimizes the user's size to\\nsharply raise evasiveness.",
+    "translation": "缩小自己的身体，\\n大幅提高闪避率。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_GROWTH.description",
+    "index": 0,
+    "source": "Forces the body to grow,\\nraising Attack and Sp. Atk.",
+    "translation": "促使身体快速生长，\\n从而提高攻击与特攻。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_BLIZZARD.description",
+    "index": 0,
+    "source": "Hits the foes with an icy\\nstorm. May cause frostbite.",
+    "translation": "向对手刮起强烈的冰风暴。\\n有时会使其陷入霜冻状态。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_ICE_BEAM.description",
+    "index": 0,
+    "source": "Blasts the foe with an icy\\nbeam. May cause frostbite.",
+    "translation": "向对手发射冰冻光束。\\n有时会使其陷入霜冻状态。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_SURF.description",
+    "index": 0,
+    "source": "Creates a huge wave, then\\ncrashes it down on the field.",
+    "translation": "掀起巨大的海浪\\n猛烈拍击整个战场。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_ACID.description",
+    "index": 0,
+    "source": "Sprays a hide-melting acid.\\nMay lower Sp. Def.",
+    "translation": "喷出能溶化皮肤的强酸。\\n有时会降低对手的特防。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_DISABLE.description",
+    "index": 0,
+    "source": "For 4 turns, prevents foe\\nFor 4-7 turns, prevents foe\\nFor 2-5 turns, prevents foe\\nfrom using last used move.",
+    "translation": "在4回合内妨碍对手，\\n在4~7回合内妨碍对手，\\n在2~5回合内妨碍对手，\\n使其无法使出上次用的招式。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_ICE_PUNCH.description",
+    "index": 0,
+    "source": "An icy punch that may\\nleave the foe with frostbite.",
+    "translation": "充满寒气的拳击。\\n有时会让对手陷入霜冻状态。",
+    "provenance": "aligned_corpus exact source and same-count per-branch literal replacement; directives preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_AUX_POWERGUARD.description",
+    "index": 0,
+    "source": "Sharply raises\\noffense & defense\\nduring one battle.",
+    "translation": "在1场战斗中，\\n大幅提高攻击与防御。",
+    "provenance": "aligned_corpus exact source; preserve branch directives and 3 literal slots"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_AUX_POWER.description",
+    "index": 0,
+    "source": "Sharply raises\\noffenses during\\none battle.",
+    "translation": "在1场战斗中，\\n大幅提高攻击。",
+    "provenance": "aligned_corpus exact source; preserve branch directives and 3 literal slots"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_AUX_GUARD.description",
+    "index": 0,
+    "source": "Sharply raises\\ndefenses during\\none battle.",
+    "translation": "在1场战斗中，\\n大幅提高防御。",
+    "provenance": "aligned_corpus exact source; preserve branch directives and 3 literal slots"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_AUX_EVASION.description",
+    "index": 0,
+    "source": "Sharply raises\\nevasiveness during\\none battle.",
+    "translation": "在1场战斗中，\\n大幅提高闪避率。",
+    "provenance": "aligned_corpus exact source; preserve branch directives and 3 literal slots"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_HYPER_POTION.description",
+    "index": 0,
+    "source": "Restores the HP of\\na Pokémon by\\n120 points.",
+    "translation": "能让1只宝可梦\\n回复120HP。",
+    "provenance": "aligned_corpus exact source; preserve branch directives and 3 literal slots"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SUPER_POTION.description",
+    "index": 0,
+    "source": "Restores the HP of\\na Pokémon by\\n60 points.",
+    "translation": "能让1只宝可梦\\n回复60HP。",
+    "provenance": "aligned_corpus exact source; preserve branch directives and 3 literal slots"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_DREAM_BALL.description",
+    "index": 0,
+    "source": "A Ball that works\\nwell on sleeping\\nPokémon.",
+    "translation": "能更容易捉到处于\\n睡眠状态宝可梦的球。",
+    "provenance": "aligned_corpus exact source; preserve branch directives and 3 literal slots"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_AUX_POWERGUARD.description",
+    "source": "Raises offenseand defense duringone battle.",
+    "translation": "在1场对战中提高攻击与防御能力。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_AUX_POWER.description",
+    "source": "Raises offensesduring one battle.",
+    "translation": "在1场对战中提高攻击。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_AUX_GUARD.description",
+    "source": "Raises defensesduring one battle.",
+    "translation": "在1场对战中提高防御。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_AUX_EVASION.description",
+    "source": "Raises evasivenessduring one battle.",
+    "translation": "在1场对战中提高闪避率。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SUPERB_REMEDY.description",
+    "source": "by 200 points.",
+    "translation": "回复200点HP。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_FINE_REMEDY.description",
+    "source": "by 50 points.",
+    "translation": "回复50点HP。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_TM_BLIZZARD.description",
+    "source": "A brutal snow-and-wind attack thatmay freeze the foe.",
+    "translation": "用强烈的风雪攻击对手。有时使其陷入冰冻。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_TM_ICE_BEAM.description",
+    "source": "freeze the foe.",
+    "translation": "冰冻对手。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_MENTAL_HERB.description",
+    "source": "A hold item thatsnaps Pokémon outof infatuation.",
+    "translation": "携带后能使宝可梦从着迷状态中恢复的草药。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SOUL_DEW.description",
+    "source": "Hold item: raisesSp. Atk & Sp. Def ofLatios & Latias.",
+    "translation": "携带后提高拉帝欧斯与拉帝亚斯的特攻及特防。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_X_ACCURACY.description",
+    "source": "Raises accuracyof attack movesduring one battle.",
+    "translation": "在1场对战中提高攻击招式的命中率。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_X_SPEED.description",
+    "source": "Raises the statSpeed during onebattle.",
+    "translation": "在1场对战中提高宝可梦的速度能力。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_X_SP_DEF.description",
+    "source": "Raises the statSp. Def during onebattle.",
+    "translation": "在1场对战中提高宝可梦的特防能力。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_X_SP_ATK.description",
+    "source": "Raises the statSp. Atk during onebattle.",
+    "translation": "在1场对战中提高宝可梦的特攻能力。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_X_DEFENSE.description",
+    "source": "Raises the statDefense during onebattle.",
+    "translation": "在1场对战中提高宝可梦的防御能力。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_X_ATTACK.description",
+    "source": "Raises the statAttack during onebattle.",
+    "translation": "在1场对战中提高宝可梦的攻击能力。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_ENERGY_ROOT.description",
+    "source": "by 200 points.",
+    "translation": "回复200点HP。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_ENERGY_POWDER.description",
+    "source": "by 50 points.",
+    "translation": "回复50点HP。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_LEMONADE.description",
+    "source": "by 80 points.",
+    "translation": "回复80点HP。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SODA_POP.description",
+    "source": "by 60 points.",
+    "translation": "回复60点HP。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_FRESH_WATER.description",
+    "source": "by 50 points.",
+    "translation": "回复50点HP。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_HYPER_POTION.description",
+    "source": "200 points.",
+    "translation": "200点HP。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_SUPER_POTION.description",
+    "source": "50 points.",
+    "translation": "50点HP。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_DREAM_BALL.description",
+    "source": "A Poké Ball used inthe Entree Forest.",
+    "translation": "在梦境世界里获得的精灵球。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_FREEZING_GLARE.description",
+    "source": "the eyes. May freeze the foe.",
+    "translation": "双眼射出，有时使其冰冻。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_BOUNCY_BUBBLE.description",
+    "source": "half the damage inflicted.",
+    "translation": "所造成伤害一半HP。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_FREEZE_DRY.description",
+    "source": "types. May cause freezing.",
+    "translation": "属性，有时使其冰冻。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_ICE_FANG.description",
+    "source": "leave the foe frozen.",
+    "translation": "使对手陷入冰冻状态。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_TAILWIND.description",
+    "source": "ally Speed for 3 turns.",
+    "translation": "同伴速度持续3回合。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_CRUNCH.description",
+    "source": "May lower Sp. Def.",
+    "translation": "有时会降低特防。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_HIDDEN_POWER.description",
+    "source": "The type and effectivenessvary with the user.",
+    "translation": "招式的属性及威力因使用者而异。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_SWEET_SCENT.description",
+    "source": "Allures the foes to reduceevasiveness.",
+    "translation": "用香气诱惑对手降低其闪避率。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_RAPID_SPIN.description",
+    "source": "effects.",
+    "translation": "束缚效果。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_POWDER_SNOW.description",
+    "source": "gust. May cause freezing.",
+    "translation": "寒风，有时使其冰冻。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_SPITE.description",
+    "source": "of foe's last move by 2-5.",
+    "translation": "使其PP减少2到5点。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_TRI_ATTACK.description",
+    "source": "May burn/paralyze/freeze.",
+    "translation": "可能灼伤、麻痹或冰冻。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_CONVERSION.description",
+    "source": "into a known move's type.",
+    "translation": "已学会招式的属性。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_MINIMIZE.description",
+    "source": "raise evasiveness.",
+    "translation": "提高闪避率。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_GROWTH.description",
+    "source": "Forces the body to growand heightens Sp. Atk.",
+    "translation": "促使身体快速生长并提高特攻。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_BLIZZARD.description",
+    "source": "storm that may freeze it.",
+    "translation": "风雪，有时使其冰冻。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_ICE_BEAM.description",
+    "source": "beam that may freeze it.",
+    "translation": "光束，有时使其冰冻。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_SURF.description",
+    "source": "crashes it down on the foes.",
+    "translation": "猛烈拍向所有对手。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_ACID.description",
+    "source": "May lower Defense.",
+    "translation": "有时会降低防御。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/moves_info.h",
+    "label": "MOVE_ICE_PUNCH.description",
+    "source": "freeze the foe.",
+    "translation": "冰冻对手。",
+    "provenance": "verified manual translation of #else variant; branch and control layout preserved"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_TM70.name",
+    "index": 0,
+    "source": "TM70",
+    "translation": "招式学习器70",
+    "provenance": "explicit HnS/standard TM70 branch correction; 14 encoded bytes <= ITEM_NAME_LENGTH 20"
+  },
+  {
+    "file": "src/data/items.h",
+    "label": "ITEM_TM70.name",
+    "index": 1,
+    "source": "TM70",
+    "translation": "招式学习器70",
+    "provenance": "explicit HnS/standard TM70 branch correction; 14 encoded bytes <= ITEM_NAME_LENGTH 20"
+  }
+]

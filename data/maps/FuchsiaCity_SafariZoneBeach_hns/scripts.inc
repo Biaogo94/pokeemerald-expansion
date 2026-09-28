@@ -61,16 +61,13 @@ SafariZoneFuchsia_Approved::
 	return
 
 SafariZoneFuchsia_Text_Attendant1:
-	.string "This area requires\n"
-	.string "SAFARI LEVEL 2.$"
+	.string "进入该区域需要原野区等级2。$"
 
 SafariZoneFuchsia_Text_Attendant2:
-	.string "This area requires\n"
-	.string "SAFARI LEVEL 3.$"
+	.string "进入该区域需要原野区等级3。$"
 
 SafariZoneFuchsia_Text_Attendant3:
-	.string "This area requires\n"
-	.string "SAFARI LEVEL 4.$"
+	.string "进入该区域需要原野区等级4。$"
 
 SafariZoneFuchsia_Text_Approved:
 	.string "请进吧。$"

@@ -102,15 +102,14 @@ MtMoon_Cave_Text_Rival_Win:
 	.string "....$"
 
 MtMoon_Cave_Text_Rival_After:
-	.string "..................................\p"
-	.string "…You won, fair and square.\p"
-	.string "I admit it. But this isn't the end.\p"
-	.string "I'm going to be the greatest POKéMON\n"
-	.string "trainer ever.\p"
-	.string "Because these guys are behind me.\p"
-	.string "…Listen, {PLAYER}.\p"
-	.string "One of these days I'm going to prove\n"
-	.string "how good I am by beating you.$"
+	.string "………………\p"
+	.string "……这次是你赢了，我认。\p"
+	.string "不过，这还没完。\p"
+	.string "我一定会成为最强的宝可梦训练家。\p"
+	.string "因为这些家伙一直陪着我。\p"
+	.string "……听着，{PLAYER}。\p"
+	.string "总有一天，我会打败你，让你见识我\n"
+	.string "的实力。$"
 
 MtMoon_Cave_Text_Rival_Loss:
 	.string "..........................................\p"

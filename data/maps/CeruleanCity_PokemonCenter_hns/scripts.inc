@@ -15,13 +15,13 @@ CeruleanCity_PokemonCenter_EventScript_Guy::
 	end
 
 CeruleanCity_PokemonCenter1F_Text_SuperNerd:
-	.string "For battles, I'd much rather use\n"
-	.string "POKéMON I've been raising, even if\p"
-	.string "they're weaker than some newly\n"
-	.string "caught POKéMON.$"
+	.string "要是进行对战，我更想用自己一直精\n"
+	.string "心培育的宝可梦，\p"
+	.string "即使它们可能比新抓到的宝可梦要弱\n"
+	.string "一些。$"
 
 CeruleanCity_PokemonCenter1F_Text_GymGuide:
-	.string "The MAGNET TRAIN travels at over\n"
-	.string "340 mph. It goes between KANTO and\l"
-	.string "JOHTO in almost no time at all.\p"
-	.string "It really makes JOHTO accessible.$"
+	.string "磁悬浮列车的时速超过550公里。\n"
+	.string "转瞬之间就能穿梭于关都与城都之\l"
+	.string "间。\p"
+	.string "去城都真的变得非常方便呢。$"

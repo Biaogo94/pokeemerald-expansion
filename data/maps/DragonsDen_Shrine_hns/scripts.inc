@@ -197,8 +197,8 @@ DragonsDen_Shrine_Text_Question4:
     .string "培育宝可梦最重要的是什么？$"
 
 DragonsDen_Shrine_Text_Question5:
-    .string "Strong POKéMON. Weak POKéMON.\n"
-    .string "Which is more important?$"
+    .string "强的宝可梦。弱的宝可梦。哪一种才\n"
+    .string "更重要？$"
 
 DragonsDen_Shrine_Text_WrongAnswer1:
     .string "嗯？我没太听清楚......$"

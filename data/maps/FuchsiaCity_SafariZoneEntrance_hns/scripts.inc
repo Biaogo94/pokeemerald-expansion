@@ -89,13 +89,14 @@ FuchsiaCity_SafariZoneEntrance_StevenChamp::
 	end
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenChamp:
-	.string "Oh, hey {PLAYER}.\n"
-	.string "Or should I say KANTO champion?\p"
-	.string "You know, for some time, I was the\n"
-	.string "champion of the HOENN region.\p"
-	.string "So welcome to the club, {PLAYER}.\p"
-	.string "In fact, here.\n"
-	.string "Consider this a welcome gift.$"
+	.string "哎呀，你好，{PLAYER}。或\n"
+	.string "者说，该叫你关都冠军呢？\p"
+	.string "其实在之前一段时间，我曾是丰缘地\n"
+	.string "区的冠军哦。\p"
+	.string "所以欢迎加入冠军的行列，\n"
+	.string "{PLAYER}。\p"
+	.string "正好，拿着这个吧。就当作是我的见\n"
+	.string "面礼好了。$"
 
 FuchsiaCity_SafariZoneEntrance_EventScript_EntranceCounterTrigger::
 	lockall
@@ -298,27 +299,27 @@ FuchsiaCity_SafariZoneEntrance_Text_Steven:
 	.string "你最近有没有见到什么罕见的石头？$"
 
 FuchsiaCity_SafariZoneEntrance_Text_Level1:
-	.string "Hello {PLAYER}, would you\n"
-	.string "like to increase your SAFARI LEVEL\l"
-	.string "to 2? It will cost you ¥200,000.$"
+	.string "你好，{PLAYER}，你想要将\n"
+	.string "原野区等级提升到2级吗？费用是¥\l"
+	.string "200,000。$"
 
 FuchsiaCity_SafariZoneEntrance_Text_Level2:
-	.string "Hello {PLAYER}, would you\n"
-	.string "like to increase your SAFARI LEVEL\l"
-	.string "to 3? It will cost you ¥300,000.$"
+	.string "你好，{PLAYER}，你想要将\n"
+	.string "原野区等级提升到3级吗？费用是¥\l"
+	.string "300,000。$"
 
 FuchsiaCity_SafariZoneEntrance_Text_Level3:
-	.string "Hello {PLAYER}, would you\n"
-	.string "like to increase your SAFARI LEVEL\l"
-	.string "to 4? It will cost you ¥400,000.$"
+	.string "你好，{PLAYER}，你想要将\n"
+	.string "原野区等级提升到4级吗？费用是¥\l"
+	.string "400,000。$"
 
 FuchsiaCity_SafariZoneEntrance_Text_UpgradeGuyDeclined:
 	.string "哎呀，那可真是太遗憾了.....\n"
 	.string ".$"
 
 FuchsiaCity_SafariZoneEntrance_Text_UpgradeGuyAccepted:
-	.string "Enjoy the premium SAFARI ZONE\n"
-	.string "experience!$"
+	.string "祝您尽情享受原野区的高级会员体\n"
+	.string "验！$"
 
 FuchsiaCity_SafariZoneEntrance_EventScript_Steven_Trade::
 	goto_if_set FLAG_FUCHSIA_SAFARI_NPC_TRADE_COMPLETED, FuchsiaCity_SafariZoneEntrance_EventScript_StevenTradeCompleted
@@ -344,35 +345,33 @@ FuchsiaCity_SafariZoneEntrance_EventScript_StevenTradeCompleted::
 	end
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenWantToTrade:
-	.string "Say, {PLAYER}…\n"
-	.string "I've been raising this BELDUM\l"
-	.string "for a while now.\p"
-	.string "But I think it would do better\n"
-	.string "with a trainer like you.\p"
-	.string "Would you trade me a {STR_VAR_1}\n"
-	.string "for my {STR_VAR_2}?$"
+	.string "那个，{PLAYER}....\n"
+	.string "..这只铁哑铃我培育有一段时间\l"
+	.string "了。\p"
+	.string "但我认为跟着像你这样的训练家，它\n"
+	.string "能得到更好的成长。\p"
+	.string "你愿意用你的\n"
+	.string "{STR_VAR_1}来交换我的\l"
+	.string "{STR_VAR_2}吗？$"
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenTakeCare:
-	.string "Excellent!\n"
-	.string "Please take good care of IRON.$"
+	.string "太好了！请好好照顾阿铁哦。$"
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenDeclineTrade:
-	.string "That's all right.\n"
-	.string "The offer stands if you change\l"
-	.string "your mind.$"
+	.string "没关系的。如果你改变了心意，随时\n"
+	.string "都可以来找我。$"
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenNotRequestedMon:
-	.string "Hmm, that's not a {STR_VAR_1}.\n"
-	.string "That's not quite what I had\l"
-	.string "in mind.$"
+	.string "唔，这不是{STR_VAR_1}\n"
+	.string "啊。这和我想要的有点不太一样呢。$"
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenTradeCompleted:
-	.string "How is IRON doing?\n"
-	.string "BELDUM are fascinating POKéMON.\p"
-	.string "They communicate with each other\n"
-	.string "using magnetic pulses.$"
+	.string "阿铁过得还好吗？铁哑铃真是一种迷\n"
+	.string "人的宝可梦。\p"
+	.string "它们之间是通过磁脉冲来进行相互交\n"
+	.string "流的。$"
 
 FuchsiaCity_SafariZoneEntrance_Text_MaxLevel:
-	.string "Hello {PLAYER}, thank you for\n"
-	.string "continuing to be a premium member\l"
-	.string "at the FUCHSIA SAFARI ZONE.$"
+	.string "你好，{PLAYER}，感谢您一\n"
+	.string "直作为浅红原野区的高级会员支持我\l"
+	.string "们。$"

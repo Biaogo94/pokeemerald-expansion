@@ -133,42 +133,38 @@ Route39_EventScript_BaobaIntro::
 	end
 
 Route39_Text_ChooseLegend::
-	.string "BAOBA: GOOD HEAVENS! Did that\n"
-	.string "shadow belong to a POKéMON?\p"
-	.string "Did you get a good look at it?\n"
-	.string "I can't tell what color it was...$"
+	.string "巴奥巴：我的天哪！刚才那个影子是\n"
+	.string "宝可梦吗？\p"
+	.string "你看清楚了吗？我都看不出它是什么\n"
+	.string "颜色的......$"
 
 Route39_Text_BaobaIntro::
-	.string "How strange...\p"
-	.string "...Ohh!\n"
-	.string "What you are holding is...\l"
-	.string "what they call... a POKéDEX!\p"
-	.string "Haven't seen one of those in ages.\p"
-	.string "My name is BAOBA!\n"
-	.string "I used to run a SAFARI ZONE in\l"
-	.string "FUCHSIA CITY, but it was becoming\l"
-	.string "out of date with new entertainment\l"
-	.string "options coming out.\p"
-	.string "I decided to go overseas to learn\n"
-	.string "the newest technology and open a\l"
-	.string "state-of-the-art SAFARI ZONE\l"
-	.string "in CIANWOOD.\p"
-	.string "It may be more than a coincidence\n"
-	.string "that we are chatting.\p"
-	.string "Why don't we register each other's\n"
-	.string "numbers in the POKéGEAR?\p"
-	.string "I can give you a call once the\n"
-	.string "SAFARI ZONE is open before I call\l"
-	.string "anyone else!$"
+	.string "真是不可思议......\p"
+	.string "......哦哦！你拿着的那个\n"
+	.string "......难道就是......\l"
+	.string "宝可梦图鉴吗！\p"
+	.string "我真是好久都没见过了。\p"
+	.string "我叫巴奥巴！我以前在浅红市经营狩\n"
+	.string "猎地带，但随着各种新娱乐项目的出\l"
+	.string "现，那里逐渐落伍了。\p"
+	.string "于是我决定远渡重洋学习最新技术，\n"
+	.string "在湛蓝市开辟一个最尖端的狩猎地\l"
+	.string "带！\p"
+	.string "能在这里和你相遇聊上几句，这或许\n"
+	.string "是命中注定的缘分呢。\p"
+	.string "不如我们在宝可梦齿轮里交换一下电\n"
+	.string "话号码吧？\p"
+	.string "等狩猎地带开业的时候，我第一个就\n"
+	.string "打电话通知你！$"
 
 Route39_Text_Registered:
-	.string "{PLAYER} registered BAOBA\n"
-	.string "in the POKéGEAR!$"
+	.string "{PLAYER}将巴奥巴登记到了\n"
+	.string "宝可梦齿轮！$"
 
 
 Route39_Text_WillCall:
-	.string "BAOBA: I'll let you know\n"
-	.string "on the POKéGEAR soon!$"
+	.string "巴奥巴：到时候我会立刻用宝可梦齿\n"
+	.string "轮联系你的！$"
 
 Route39_Movement_BaobaLeave:
 	walk_left
@@ -247,10 +243,9 @@ Route39_Text_SailorEugeneBeaten:
 	.string "哇啊啊啊！$"
 
 Route39_Text_SailorEugeneAfter:
-	.string "My POKéMON were caught and\n"
-	.string "raised overseas.\p"
-	.string "They're my companions on\n"
-	.string "those long voyages.$"
+	.string "我的宝可梦全都是在海外捕获并培育\n"
+	.string "的。\p"
+	.string "它们是我漫长航海旅途中的伙伴。$"
 
 Route39_EventScript_Derek::
 	trainerbattle_single TRAINER_DEREK_HNS, Route39_Text_PokefanMDerekSeen, Route39_Text_PokefanMDerekBeaten, Route39_EventScript_RegisterDerek
@@ -293,10 +288,9 @@ Route39_Text_PokefanMDerekBeaten:
 	.string "...$"
 
 Route39_Text_PokefanMDerekAfter:
-	.string "I'm not listening to your\n"
-	.string "bragging!\p"
-	.string "We POKé FANS have a policy\n"
-	.string "of not listening to bragging!$"
+	.string "我才不听你的吹嘘呢！\p"
+	.string "我们宝可梦发烧友的原则，就是绝不\n"
+	.string "听别人自夸！$"
 
 Route39_EventScript_Ruth::
 	trainerbattle_single TRAINER_RUTH_HNS, Route39_Text_PokefanFRuthSeen, Route39_Text_PokefanFRuthBeaten
@@ -320,18 +314,17 @@ Route39_EventScript_Norman::
 	end
 
 Route39_Text_PsychicNormanSeen:
-	.string "Let me see what your\n"
-	.string "POKéMON are capable of.$"
+	.string "让我见识一下你的宝可梦有几分本事\n"
+	.string "吧。$"
 
 Route39_Text_PsychicNormanBeaten:
 	.string "哦，你的宝可梦很有潜力嘛。$"
 
 Route39_Text_PsychicNormanAfter:
-	.string "You know how POKéMON have\n"
-	.string "different abilities?\p"
-	.string "People are like that too.\n"
-	.string "Everyone has different\l"
-	.string "potential.$"
+	.string "你知道宝可梦各自拥有不同的能力\n"
+	.string "吧？\p"
+	.string "其实人也是一样的。每个人都有不同\n"
+	.string "的潜力。$"
 
 Route39_EventScript_Jamie::
 	trainerbattle_single TRAINER_JAMIE_HNS, Route39_Text_PokefanFJaimeSeen, Route39_Text_PokefanFJaimeBeaten
@@ -390,10 +383,9 @@ Route39_Text_TrainerTips:
 	.string "看见树就尽管使出头锤吧！$"
 
 Route39_Text_DerekRegister:
-	.string "I'm not listening to your\n"
-	.string "bragging!\p"
-	.string "We POKé FANS have a policy\n"
-	.string "of not listening to bragging!$"
+	.string "我才不听你的吹嘘呢！\p"
+	.string "我们宝可梦发烧友的原则，就是绝不\n"
+	.string "听别人自夸！$"
 
 Route39_Text_DerekHasItem:
 	.string "嘿！我刚刚带着皮卡丘到处炫耀时捡\n"
@@ -405,5 +397,5 @@ Route39_Text_DerekGaveItem:
 	.string "的吧？$"
 
 Route39_Text_DerekNoRoom:
-	.string "Hmm, your BAG is full.\p"
-	.string "Come back when you have room.$"
+	.string "嗯，你的包包装满了。\p"
+	.string "腾出地方再来找我吧。$"

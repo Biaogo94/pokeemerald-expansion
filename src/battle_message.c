@@ -429,15 +429,15 @@ const u8 *const gBattleStringsTable[STRINGID_COUNT] =
     [STRINGID_PKMNBROKEFREE]                        = COMPOUND_STRING("不行！宝可梦从球里挣脱出来了！"),
     [STRINGID_ITAPPEAREDCAUGHT]                     = COMPOUND_STRING("啊啊！还以为捉到了！"),
     [STRINGID_AARGHALMOSTHADIT]                     = COMPOUND_STRING("真遗憾！差一点就捉到了！"),
-    [STRINGID_SHOOTSOCLOSE]                         = COMPOUND_STRING("Gah! It was so close, too!"),
+    [STRINGID_SHOOTSOCLOSE]                         = COMPOUND_STRING("唉！明明差一点就捉到了！"),
 #if IS_HNS
-    [STRINGID_GOTCHAPKMNCAUGHTPLAYER]               = COMPOUND_STRING("Gotcha! {B_DEF_NAME} was caught!{WAIT_SE}{PLAY_BGM 659}\p"),
-    [STRINGID_GOTCHAPKMNCAUGHTWALLY]                = COMPOUND_STRING("Gotcha! {B_DEF_NAME} was caught!{WAIT_SE}{PLAY_BGM 659}{PAUSE 127}"),
+    [STRINGID_GOTCHAPKMNCAUGHTPLAYER]               = COMPOUND_STRING("抓到了！{B_DEF_NAME}被收服了！{WAIT_SE}{PLAY_BGM 659}\p"),
+    [STRINGID_GOTCHAPKMNCAUGHTWALLY]                = COMPOUND_STRING("抓到了！{B_DEF_NAME}被收服了！{WAIT_SE}{PLAY_BGM 659}{PAUSE 127}"),
 #else
-    [STRINGID_GOTCHAPKMNCAUGHTPLAYER]               = COMPOUND_STRING("Gotcha! {B_DEF_NAME} was caught!{WAIT_SE}{PLAY_BGM MUS_CAUGHT}\p"),
-    [STRINGID_GOTCHAPKMNCAUGHTWALLY]                = COMPOUND_STRING("Gotcha! {B_DEF_NAME} was caught!{WAIT_SE}{PLAY_BGM MUS_CAUGHT}{PAUSE 127}"),
+    [STRINGID_GOTCHAPKMNCAUGHTPLAYER]               = COMPOUND_STRING("抓到了！{B_DEF_NAME}被收服了！{WAIT_SE}{PLAY_BGM MUS_CAUGHT}\p"),
+    [STRINGID_GOTCHAPKMNCAUGHTWALLY]                = COMPOUND_STRING("抓到了！{B_DEF_NAME}被收服了！{WAIT_SE}{PLAY_BGM MUS_CAUGHT}{PAUSE 127}"),
 #endif
-    [STRINGID_GIVENICKNAMECAPTURED]                 = COMPOUND_STRING("Would you like to give {B_DEF_NAME} a nickname?"),
+    [STRINGID_GIVENICKNAMECAPTURED]                 = COMPOUND_STRING("要给{B_DEF_NAME}取个昵称吗？"),
     [STRINGID_PKMNDATAADDEDTODEX]                   = COMPOUND_STRING("{B_DEF_NAME}的资料被\n新添加到宝可梦图鉴里了！\p"),
     [STRINGID_ITISRAINING]                          = COMPOUND_STRING("现在正在下雨！"),
     [STRINGID_SANDSTORMISRAGING]                    = COMPOUND_STRING("现在正在刮沙暴！"),

@@ -84,23 +84,23 @@ Route37_Text_TwinsAnnAndAnne1_Seen:
 	.string "安：我和安妮可是齐心协力的！$"
 
 Route37_Text_TwinsAnnAndAnne1_Beaten:
-	.string "ANN & ANNE: Nnn… A little too\n"
-	.string "strong.$"
+	.string "安与安妮：呜呜......稍微有\n"
+	.string "点太强了吧。$"
 
 Route37_Text_TwinsAnnAndAnne1_After:
-	.string "ANN: I can tell what my sister and\n"
-	.string "my POKéMON are thinking.$"
+	.string "安：我能明白妹妹和宝可梦心里在想\n"
+	.string "什么。$"
 
 Route37_Text_TwinsAnnAndAnne2_Seen:
 	.string "安妮：我和安可是齐心协力的！$"
 
 Route37_Text_TwinsAnnAndAnne2_Beaten:
-	.string "ANN & ANNE: Nnn… A little too\n"
-	.string "strong.$"
+	.string "安与安妮：呜呜......稍微有\n"
+	.string "点太强了吧。$"
 
 Route37_Text_TwinsAnnAndAnne2_After:
-	.string "ANNE: We share the same feelings as\n"
-	.string "our POKéMON.$"
+	.string "安妮：我们和宝可梦的心情是一样\n"
+	.string "的。$"
 
 Route37_Text_PsychicGreg_Seen:
 	.string "宝可梦睡着之后就什么也做不了。\p"
@@ -111,44 +111,43 @@ Route37_Text_PsychicGreg_Beaten:
 	.string "我输了。好难过啊......$"
 
 Route37_Text_PsychicGreg_After:
-	.string "Putting POKéMON to sleep or paralyz-\n"
-	.string "ing them are good battle techniques.$"
+	.string "让宝可梦陷入睡眠或麻痹状态，是极\n"
+	.string "佳的对战技巧。$"
 
 Route37_Text_Sunny_Meet:
-	.string "SUNNY: Hi!\p"
-	.string "I'm SUNNY of the WEEKDAY family!\p"
-	.string "If you can guess my favorite day,\n"
-	.string "I'll give you a reward.$"
+	.string "日夫：你好！\p"
+	.string "我是星期兄弟姐妹中的日夫！\p"
+	.string "要是你能猜出我最喜欢星期几，我就\n"
+	.string "送你一份礼物！$"
 
 Route37_Text_Sunny_GiveGift1:
-	.string "I was told to give you this if I saw\n"
-	.string "you!$"
+	.string "别人交代过我，要是碰见你，就把这\n"
+	.string "个送给你！$"
 
 Route37_Text_Sunny_GiveGift2:
-	.string "I was told to give you this if I saw\n"
-	.string "you!$"
+	.string "别人交代过我，要是碰见你，就把这\n"
+	.string "个送给你！$"
 
 Route37_Text_Sunny_GaveGift:
-	.string "SUNNY: That thing…\p"
-	.string "Um…\p"
-	.string "… What was it now…\p"
-	.string "…\p"
-	.string "Oh! I remember now!\p"
-	.string "A POKéMON that knows electric\n"
-	.string "moves should hold it.\p"
-	.string "My sis MONICA said it powers up\n"
-	.string "electric moves!$"
+	.string "日夫：那个东西......\p"
+	.string "嗯......\p"
+	.string "......是什么来着....\n"
+	.string "..\p"
+	.string "......\p"
+	.string "啊！我想起来了！\p"
+	.string "让学会电属性招式的宝可梦携带它\n"
+	.string "吧。\p"
+	.string "月子姐姐说它能提升电属性招式的威\n"
+	.string "力！$"
 
 Route37_Text_Sunny_Sunday:
-	.string "SUNNY: My sisters and brothers are\n"
-	.string "MONICA, TUSCANY, WESLEY, ARTHUR,\l"
-	.string "FRIEDA and SANTOS.\p"
-	.string "They're all older than me!$"
+	.string "日夫：我的哥哥姐姐们是月子、火\n"
+	.string "男、水木、木男、金美和土子。\p"
+	.string "他们都比我大！$"
 
 Route37_Text_Sunny_NotSunday:
-	.string "SUNNY: Isn't today Sunday?\n"
-	.string "Um… I forgot!$"
+	.string "日夫：今天不是星期天吗？唔..\n"
+	.string "....我忘了！$"
 
 Route37_Text_Sign:
-	.string "ROUTE 37\n"
-	.string "ECRUTEAK CITY AHEAD$"
+	.string "37号道路前方为圆朱市$"

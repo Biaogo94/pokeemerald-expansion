@@ -24,6 +24,5 @@ MrPsychic_Text_1:
 	.string "你想要的是这个吧！$"
 
 MrPsychic_Text_2:
-	.string "TM29 is PSYCHIC.\p"
-	.string "It may lower the target's\n"
-	.string "SP.DEF.$"
+	.string "招式学习器29是“精神强念”。\p"
+	.string "有时会降低对手的特防。$"

@@ -132,8 +132,10 @@ ViridianCity_Text_DreamEaterFisher:
 	.string "吧。$"
 
 ViridianCity_Text_DreamEaterFisher_GotDreamEater:
-	.string "TM42 contains DREAM EATER…\p"
-	.string "…Zzzzz…$"
+	.string "招式学习器42里面是“食梦”.\n"
+	.string ".....\p"
+	.string "......呼--噜--...\n"
+	.string "...$"
 
 ViridianCity_Text_Youngster:
 	.string "听说常青森林的地上掉落着不少道具\n"

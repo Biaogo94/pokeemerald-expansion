@@ -86,12 +86,12 @@ Route12_Text_Magikarp:
 	.string "鲤鱼王：咔噜--。$"
 
 Route12_Text_NewFisher:
-	.string "Careful, something vicious lives in\n"
-	.string "these waters.$"
+	.string "小心点，这片水域里可是生活着很凶\n"
+	.string "暴的家伙。$"
 
 Route12_Text_FisherMartinSeen:
-	.string "Patience is the key to both\n"
-	.string "fishing and POKéMON.$"
+	.string "无论是钓鱼还是培育宝可梦，耐心都\n"
+	.string "是最关键的秘诀。$"
 
 Route12_Text_FisherMartinBeaten:
 	.string "哇啊--！$"
@@ -101,48 +101,43 @@ Route12_Text_FisherMartinAfterBattle:
 	.string "...$"
 
 Route12_Text_FisherStephenSeen:
-	.string "I feel so content, fishing while\n"
-	.string "listening to some tunes on my\l"
-	.string "radio.$"
+	.string "一边用收音机听着音乐，一边悠闲地\n"
+	.string "钓鱼，真是太惬意了。$"
 
 Route12_Text_FisherStephenBeaten:
 	.string "都是这破收音机让我分心了！$"
 
 Route12_Text_FisherStephenAfterBattle:
-	.string "Have you checked out KANTO's radio\n"
-	.string "programs? We get a good variety\l"
-	.string "here.$"
+	.string "你收听过关都的广播节目吗？这里的\n"
+	.string "节目类型可丰富了。$"
 
 Route12_Text_FisherBarneySeen:
-	.string "What's most important in our\n"
-	.string "everyday lives?$"
+	.string "在我们日常生活中，最重要的东西是\n"
+	.string "什么？$"
 
 Route12_Text_FisherBarneyBeaten:
 	.string "答案马上揭晓！$"
 
 Route12_Text_FisherBarneyAfterBattle:
-	.string "I think electricity is the most\n"
-	.string "important thing in our daily\l"
-	.string "lives.\p"
-	.string "If it weren't, people wouldn't\n"
-	.string "have made such a fuss when the\l"
-	.string "POWER PLANT went out of\l"
-	.string "commission.$"
+	.string "我觉得电力才是我们日常生活中最重\n"
+	.string "要的东西。\p"
+	.string "如果不是这样，之前发电厂发生故障\n"
+	.string "停运的时候，大家也不会闹得那么沸\l"
+	.string "沸扬扬了。$"
 
 Route12_Text_KyleRegister:
-	.string "I'll remember this.\n"
-	.string "Give me your number!$"
+	.string "我记住你了。把你的电话号码告诉我\n"
+	.string "吧！$"
 
 Route12_Text_KyleRematchIntro:
-	.string "Did you forget?\n"
-	.string "Let's see!$"
+	.string "你忘了吗？让我瞧瞧！$"
 
 Route12_Text_KyleRematchDefeat:
 	.string "原来你还记得啊。$"
 
 Route12_Text_KylePostRematch:
-	.string "The thrill of battle is almost\n"
-	.string "as good as a big catch!$"
+	.string "对战带来的刺激感，完全不亚于钓到\n"
+	.string "大鱼呢！$"
 
 Route12_Text_FisherKyleSeen:
 	.string "你还记得吗？$"
@@ -151,10 +146,10 @@ Route12_Text_FisherKyleBeaten:
 	.string "你真的记得吗？$"
 
 Route12_Text_FisherKyleAfterBattle:
-	.string "The tug you feel on the ROD when\n"
-	.string "you hook a POKéMON…\p"
-	.string "That's the best feeling ever for\n"
-	.string "an angler like me.$"
+	.string "当宝可梦咬钩时，鱼竿上传来的那股\n"
+	.string "拉力......\p"
+	.string "对我们钓客来说，简直是世界上最棒\n"
+	.string "的感觉了。$"
 
 Route12_EventScript_Sign::
 	msgbox Route12_Text_Sign, MSGBOX_SIGN

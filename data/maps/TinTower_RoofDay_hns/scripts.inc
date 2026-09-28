@@ -569,18 +569,16 @@ TinTower_RoofDay_Text_Kimono_Opening::
 	.string " $"
 
 TinTower_RoofDay_Text_Kimono_Closing1::
-	.string "That is indeed HO-OH...\n"
-	.string "The guardian of the sky from\p"
-	.string "ancient times... \p"
-	.string "So many have tried again and again,\n"
-	.string "only to fail...\p"
-	.string "{PLAYER}, your heart in complete\n"
-	.string "harmony with the CLEAR BELL has finally\p"
-	.string "allowed it to appear...\n"
-	.string "{PLAYER}, don't you see?\p"
-	.string "HO-OH... It must have been waiting for\n"
-	.string "someone like you all this time.\p"
-	.string "Wouldn't you agree? $"
+	.string "那的确是凤王……自\p"
+	.string "古以来守护天空的宝可梦……\p"
+	.string "无数人反复尝试，却始终无缘相见\n"
+	.string "……\p"
+	.string "{PLAYER}，你的心与透明铃\n"
+	.string "铛完全共鸣，终于\p"
+	.string "让它现身……{PLAYER}，你\n"
+	.string "看，\p"
+	.string "凤王一定一直在等待像你这样的人。\p"
+	.string "你说，对吗？$"
 
 TinTower_RoofDay_Text_Kimono_After::
 	.string "你做得很出色。请代我们向空木博士\n"

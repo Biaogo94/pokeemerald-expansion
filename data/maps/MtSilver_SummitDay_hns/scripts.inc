@@ -63,8 +63,8 @@ MtSilver_SummitDay_EventScript_RedOnDefeat::
 	end
 
 MtSilver_SummitDay_Text_Red:
-	.string ".........................\n"
-	.string ".........................$"
+	.string "........................\n"
+	.string "........................$"
 
 MtSilver_SummitDay_Text_RedBeaten:
 	.string "...!$"

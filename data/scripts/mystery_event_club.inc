@@ -109,69 +109,55 @@ EventScript_GiveProfile:
 	end
 
 Text_IdLoveToHearYourProfile:
-	.string "Hi, glad to meet you!\p"
-	.string "…That's unfriendly of you.\n"
-	.string "How about saying hi back?\p"
-	.string "So, come on, tell me about\n"
-	.string "yourself.\p"
-	.string "I'd love to hear your profile!$"
+	.string "你好，很高兴认识你！\p"
+	.string "……你怎么不回我一声？打个招呼嘛！\p"
+	.string "来，说说你自己吧。\p"
+	.string "我很想看看你的个人介绍！$"
 
 Text_TellMeWhatsYourProfile:
-	.string "Tell me something good about\n"
-	.string "yourself. What's your profile?$"
+	.string "跟我说说你自己吧。你的个人介绍是\n"
+	.string "什么？$"
 
 Text_ExplainProfile:
-	.string "A profile is written using four\n"
-	.string "words or phrases.\p"
-	.string "There're plenty of words to choose\n"
-	.string "from for your profile.\p"
-	.string "The words and phrases are placed\n"
-	.string "in several convenient groups.\p"
-	.string "First, choose a group, then choose\n"
-	.string "a word or phrase.\p"
-	.string "…It's easier than it sounds.\n"
-	.string "Why don't you try it?$"
+	.string "个人介绍由四个词语组成。\p"
+	.string "可选的词语有很多。\p"
+	.string "它们都分好了类，找起来很方便。\p"
+	.string "先选类别，再选一个词语。\p"
+	.string "……听起来复杂，其实很简单。试试看\n"
+	.string "吧？$"
 
 Text_WhatsYourProfile:
-	.string "What's your profile?$"
+	.string "你的个人介绍是什么？$"
 
 Text_DontBeLikeThat:
-	.string "Aww… Don't be like that.\n"
-	.string "You can tell me your profile.$"
+	.string "哎呀，别这样。告诉我你的个人介绍\n"
+	.string "嘛。$"
 
 Text_DecidedNotTo:
-	.string "Oh, you've decided not to?\n"
-	.string "You're fickle, aren't you?$"
+	.string "哦，不想说了？你可真善变。$"
 
 Text_HiWeMeetAgain:
-	.string "Hi!\n"
-	.string "We meet again!$"
+	.string "嗨！我们又见面了！$"
 
 Text_ChangeYourProfile:
-	.string "Would you like to change your\n"
-	.string "profile?$"
+	.string "要修改你的个人介绍吗？$"
 
 Text_WhatAreYouLikeNow:
-	.string "What are you like now?\n"
-	.string "I'd really like to know.$"
+	.string "现在的你是什么样的？真想听听。$"
 
 Text_LikeProfileWayItIs:
-	.string "Okay, you like your profile the\n"
-	.string "way it is.\p"
-	.string "I think so, too.$"
+	.string "好，你喜欢现在的个人介绍。\p"
+	.string "我也觉得挺好。$"
 
 Text_ProfileSaysSomethingAboutYou:
-	.string "Hmhm…\p"
-	.string "Your profile really says something\n"
-	.string "about who you are.\p"
-	.string "Now that I know you better, it \n"
-	.string "makes us better friends than ever!$"
+	.string "嗯哼……\p"
+	.string "你的个人介绍很能体现你的性格。\p"
+	.string "现在更了解你了，我们也更像朋友\n"
+	.string "了！$"
 
 Text_HeardThatBefore:
-	.string "Oh, I've heard that before…\p"
-	.string "My cousin, who lives far away,\n"
-	.string "always used to say that, I think.$"
+	.string "哦，这话我好像听过……\p"
+	.string "住在远方的表亲似乎总爱这么说。$"
 
 Text_TellMoreNextTime:
-	.string "Please tell me more about\n"
-	.string "yourself next time!$"
+	.string "下次再多说说你的事吧！$"

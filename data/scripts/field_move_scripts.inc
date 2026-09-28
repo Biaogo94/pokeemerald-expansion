@@ -49,11 +49,11 @@ Text_WantToCut:
 	.string "Would you like to CUT it?$"
 
 Text_MonUsedFieldMove:
-	.string "{STR_VAR_1} used {STR_VAR_2}!$"
+	.string "{STR_VAR_1}使出了{STR_VAR_2}！$"
 
 Text_CantCut:
-	.string "This tree looks like it can be\n"
-	.string "CUT down!$"
+	.string "这棵树好像可以用\n"
+	.string "秘传招式砍断！$"
 
 @ Use rock smash from party menu
 EventScript_UseRockSmash::
@@ -218,12 +218,12 @@ EventScript_CancelSmash::
 	end
 
 Text_WantToSmash:
-	.string "This rock appears to be breakable.\n"
-	.string "Would you like to use ROCK SMASH?$"
+	.string "好像可以用秘传招式击碎！\n"
+	.string "要使用碎岩吗？$"
 
 Text_CantSmash:
-	.string "It's a rugged rock, but a POKéMON\n"
-	.string "may be able to smash it.$"
+	.string "看起来很硬的岩石……\n"
+	.string "或许可以用秘传招式击碎？$"
 
 EventScript_StrengthBoulder::
 	lockall
@@ -278,12 +278,12 @@ Text_MonUsedStrength:
 	.string "possible to move boulders around!$"
 
 Text_CantStrength:
-	.string "It's a big boulder, but a POKéMON\n"
-	.string "may be able to push it aside.$"
+	.string "好大的岩石……\n"
+	.string "或许可以用秘传招式推动？$"
 
 Text_StrengthActivated:
-	.string "STRENGTH made it possible to move\n"
-	.string "boulders around.$"
+	.string "使出了怪力后，\n"
+	.string "可以推动岩石了！$"
 
 EventScript_UseWaterfall::
 	lockall
@@ -314,11 +314,11 @@ Text_CantWaterfall:
 	.string "a mighty roar.$"
 
 Text_WantToWaterfall:
-	.string "It's a large waterfall.\n"
-	.string "Would you like to use WATERFALL?$"
+	.string "好大的瀑布啊！\n"
+	.string "要使用攀瀑吗？$"
 
 Text_MonUsedWaterfall:
-	.string "{STR_VAR_1} used WATERFALL.$"
+	.string "{STR_VAR_1}使出了攀瀑。$"
 
 EventScript_UseDive::
 	lockall
@@ -404,30 +404,30 @@ EventScript_UseCutGrass::
 	goto EventScript_CutGrassCommon
 
 Text_CantDive:
-	.string "The sea is deep here. A POKéMON\n"
-	.string "may be able to go underwater.$"
+	.string "这里的水很深。\n"
+	.string "好像可以用秘传招式潜下去。$"
 
 Text_WantToDive:
-	.string "The sea is deep here.\n"
-	.string "Would you like to use DIVE?$"
+	.string "这里的水很深。\n"
+	.string "要使用潜水吗？$"
 
 Text_MonUsedDive:
-	.string "{STR_VAR_1} used DIVE.$"
+	.string "{STR_VAR_1}使出了潜水。$"
 
 Text_CantSurface:
-	.string "Light is filtering down from above.\n"
-	.string "A POKéMON may be able to surface.$"
+	.string "上方有亮光洒下。\n"
+	.string "好像可以从这里浮出水面。$"
 
 Text_WantToSurface:
-	.string "Light is filtering down from above.\n"
-	.string "Would you like to use DIVE?$"
+	.string "上方有亮光洒下。\n"
+	.string "要使用潜水吗？$"
 
 EventScript_FailSweetScent::
 	msgbox Text_FailSweetScent, MSGBOX_SIGN
 	end
 
 Text_FailSweetScent:
-	.string "Looks like there's nothing here…$"
+	.string "看起来这里什么也没有……$"
 
 EventScript_UseDefog::
 	lockall
@@ -469,12 +469,12 @@ EventScript_EndRockClimb::
 	end
 
 Text_WantToRockClimb:
-	.string "The cliff is steep.\n"
-	.string "Would you like to use Rock Climb?$"
+	.string "岩石表面看起来非常粗糙……\n"
+	.string "要使用攀岩吗？$"
 
 Text_MonUsedRockClimb:
-	.string "{STR_VAR_1} used Rock Climb!$"
+	.string "{STR_VAR_1}使出了攀岩！$"
 
 Text_CantRockClimb:
-	.string "The cliff is steep.\n"
-	.string "A Pokémon may be able to climb it.$"
+	.string "岩石表面看起来非常粗糙……\n"
+	.string "或许可以用秘传招式攀爬？$"

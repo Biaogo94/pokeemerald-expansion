@@ -82,22 +82,24 @@ BattleTowerOutsideSailorText:
 	.string "我一定要连赢到底，必须的！$"
 
 BattleTowerOutsideSignText:
-	.string "{UP_ARROW} TRAINER HILL ENTRANCE\p"
-	.string "“Scale the heights, you hot-blooded\n"
-	.string "TRAINERS!”\p"
-	.string "{RIGHT_ARROW} BATTLE TENTS.$"
+	.string "{UP_ARROW} 训练家之丘\n"
+	.string " 入口\p"
+	.string "“热血沸腾的训练家们啊，勇攀高峰\n"
+	.string "吧！”\p"
+	.string "{RIGHT_ARROW} 对战\n"
+	.string "帐篷$"
 
 BattleTower_Battle_Tent_Text_Factory:
-	.string "BATTLE TENT: FACTORY\n"
-	.string "“Find it! The ultimate POKéMON!”$"
+	.string "对战帐篷：工厂“寻找吧！究极的宝\n"
+	.string "可梦！”$"
 
 BattleTower_Battle_Tent_Text_Palace:
-	.string "BATTLE TENT: PALACE\n"
-	.string "“Feast Your Eyes on Battles!”$"
+	.string "对战帐篷：宫殿“尽情领略对战的魅\n"
+	.string "力！”$"
 
 BattleTower_Battle_Tent_Text_Arena:
-	.string "BATTLE TENT: ARENA\n"
-	.string "“May the Greatest Teams Gather!”$"
+	.string "对战帐篷：竞技场“最强的队伍集结\n"
+	.string "于此！”$"
 
 BattleTowerOutsideText_Closed:
 	.string "训练家之丘目前正在进行维护暂停开\n"

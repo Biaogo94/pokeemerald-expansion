@@ -94,12 +94,11 @@ Route35GoldenrodGate_Text_ReceivedMonWithMail:
 	.string "宝可梦。$"
 
 Route35GoldenrodGate_Text_RandyWeirdTree:
-	.string "Make sure to put it at the front of\n"
-	.string "your team when you find my friend!\p"
-	.string "ROUTE 31!\p"
-	.string "Oh, yeah. There was a weird tree\n"
-	.string "blocking the road.\p"
-	.string "I wonder if it's been cleared?$"
+	.string "找到我朋友后，记得把那只宝可梦放\n"
+	.string "在队伍最前面！\p"
+	.string "是在31号道路！\p"
+	.string "对了，路上有棵奇怪的树挡着。\p"
+	.string "不知道现在挪开了没？$"
 
 Route35GoldenrodGate_Text_CantCarryMoreMon:
 	.string "你无法携带更多的宝可梦了....\n"

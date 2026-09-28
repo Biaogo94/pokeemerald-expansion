@@ -42,10 +42,9 @@ GoldenrodDeptStor1_Text_Receptionist:
     .string "欢迎光临满金百货公司。$"
 
 GoldenrodDeptStore1_Text_Gentleman:
-    .string "The DEPT.STORE has a decent\n"
-    .string "selection.\p"
-    .string "But some items are only available\n"
-    .string "as GAME CORNER prizes.$"
+    .string "百货公司里的商品很丰富，\p"
+    .string "不过有些道具只能在游戏城作为奖品\n"
+    .string "换到。$"
 
 GoldenrodDeptStore1_Text_PokefanF:
     .string "今天我也跃跃欲试，准备大买一场！$"
@@ -55,11 +54,10 @@ GoldenrodDeptStore1_Text_BugCatcher:
     .string "总是能以更优惠的价格买到东西。$"
 
 GoldenrodDeptStore1_Text_Directory:
-    .string "1F SERVICE COUNTER\n"
-	.string "YOU ARE HERE.\p"
-    .string "2F TRAINER'S MARKET\p"
-    .string "3F BATTLE COLLECTION\p"
-    .string "4F MEDICINE BOX\p"
-    .string "5F TM CORNER\p"
-    .string "6F TRANQUIL SQUARE\p"
-    .string "ROOFTOP LOOKOUT$"
+    .string "1F 服务柜台现在位置。\p"
+    .string "2F 训练家卖场\p"
+    .string "3F 对战专区\p"
+    .string "4F 药品专区\p"
+    .string "5F 招式学习器专区\p"
+    .string "6F 恬静广场\p"
+    .string "屋顶 展望台$"

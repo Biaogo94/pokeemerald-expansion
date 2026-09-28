@@ -131,18 +131,18 @@ Debug_FlagsNotSetOverworldConfigMessage::
 	goto Debug_MessageEnd
 
 Debug_FlagsNotSetOverworldConfigMessage_Text:
-	.string "Feature unavailable!\n"
-	.string "Please define a usable flag in:\l"
-	.string "'include/config/overworld.h'!$"
+	.string "功能不可用！\n"
+	.string "请在这里定义该标志：\l"
+	.string "'include/config/overworld.h'！$"
 
 Debug_FlagsNotSetBattleConfigMessage::
 	message Debug_FlagsNotSetBattleConfigMessage_Text
 	goto Debug_MessageEnd
 
 Debug_FlagsNotSetBattleConfigMessage_Text:
-	.string "Feature unavailable!\n"
-	.string "Please define a usable flag in:\l"
-	.string "'include/config/battle.h'!$"
+	.string "功能不可用！\n"
+	.string "请在这里定义一个可用标志：\l"
+	.string "'include/config/battle.h'！$"
 
 Debug_VarsNotSetBattleConfigMessage::
 	message Debug_VarsNotSetBattleConfigMessage_Text
@@ -158,7 +158,7 @@ Debug_BoxFilledMessage::
 	goto Debug_MessageEnd
 
 Debug_BoxFilledMessage_Text:
-	.string "Storage boxes filled!$"
+	.string "盒子已满！$"
 
 Debug_EventScript_CheckEVs::
 	lockall
@@ -349,16 +349,16 @@ Debug_CheckSaveBlock::
 	end
 
 Debug_SaveBlock1Size::
-	.string "SaveBlock1 size: {STR_VAR_1}b/{STR_VAR_2}b.\n"
-	.string "Free space: {STR_VAR_3}b.$"
+	.string "SaveBlock1 大小：{STR_VAR_1}b/{STR_VAR_2}b。\n"
+	.string "剩余空间：{STR_VAR_3}b。$"
 
 Debug_SaveBlock2Size::
-	.string "SaveBlock2 size: {STR_VAR_1}b/{STR_VAR_2}b.\n"
-	.string "Free space: {STR_VAR_3}b.$"
+	.string "SaveBlock2 大小：{STR_VAR_1}b/{STR_VAR_2}b。\n"
+	.string "剩余空间：{STR_VAR_3}b。$"
 
 Debug_SaveBlock3Size::
-	.string "SaveBlock3 size: {STR_VAR_1}b/{STR_VAR_2}b.\n"
-	.string "Free space: {STR_VAR_3}b.$"
+	.string "SaveBlock3 大小：{STR_VAR_1}b/{STR_VAR_2}b。\n"
+	.string "剩余空间：{STR_VAR_3}b。$"
 
 Debug_PokemonStorageSize::
 	.string "{PKMN}Storage size: {STR_VAR_1}b/{STR_VAR_2}b.\n"
@@ -371,8 +371,8 @@ Debug_CheckROMSpace::
 	end
 
 Debug_ROMSize::
-	.string "ROM size: {STR_VAR_1}MB/32MB.\n"
-	.string "Free space: {STR_VAR_2}MB.$"
+	.string "ROM 大小：{STR_VAR_1}MB/32MB。\n"
+	.string "剩余空间：{STR_VAR_2}MB。$"
 
 Debug_HatchAnEgg::
 	lockall
@@ -400,10 +400,10 @@ DebugScript_HatchAnEgg_CantForceHatch::
 	end
 
 DebugScript_Text_EmptyParty::
-	.string "You have no Pokémon nor Eggs.$"
+	.string "你既没有宝可梦也没有宝可梦的蛋。$"
 
 DebugScript_HatchAnEgg_Text_NotAnEgg::
-	.string "That's not a Pokémon Egg.$"
+	.string "那不是宝可梦的蛋。$"
 
 DebugScript_ZeroDaycareMons::
 	msgbox DebugText_DaycareNoPokemon, MSGBOX_DEFAULT
@@ -421,13 +421,14 @@ DebugScript_DaycareMonsNotCompatible::
 	end
 
 DebugText_DaycareNoPokemon:
-	.string "You have no Pokémon at Daycare.$"
+	.string "你没有在培育屋的宝可梦。$"
 
 DebugText_DaycareOnePokemon:
-	.string "You have only one Pokémon at Daycare.$"
+	.string "你仅有一个在培育屋的宝可梦。$"
 
 DebugText_DaycarePokemonNotCompatible:
-	.string "Your Pokémon at Daycare can't\nhave babies together!$"
+	.string "你在培育屋的宝可梦\n"
+	.string "不能生育幼年宝可梦！$"
 
 Debug_ShowExpansionVersion::
 	callnative BufferExpansionVersion
@@ -476,8 +477,8 @@ Debug_BerryPestsDisabled::
 	end
 
 DebugText_BerryPestsDisabled:
-	.string "OW_BERRY_PESTS is disabled.\n"
-	.string "Unable to force pests onto berry trees.$"
+	.string "OW_BERRY_PESTS未开启。\n"
+	.string "无法在果树上强制添加害虫。$"
 
 Debug_BerryWeedsDisabled::
 	msgbox DebugText_BerryWeedsDisabled, MSGBOX_DEFAULT
@@ -689,85 +690,85 @@ Debug_EventScript_InflictStatus1_Party_Frostbite:
 	end
 
 Debug_EventScript_InflictStatus1_Text_Single:
-	.string "Single$"
+	.string "单体$"
 
 Debug_EventScript_InflictStatus1_Text_PartyWide:
-	.string "Party-wide$"
+	.string "全队$"
 
 Debug_EventScript_InflictStatus1_Text_Close:
-	.string "Close$"
+	.string "关闭$"
 
 Debug_EventScript_InflictStatus1_Text_Poison:
-	.string "Poison$"
+	.string "中毒$"
 
 Debug_EventScript_InflictStatus1_Text_Paralysis:
-	.string "Paralysis$"
+	.string "麻痹$"
 
 Debug_EventScript_InflictStatus1_Text_Sleep:
-	.string "Sleep$"
+	.string "睡眠$"
 
 Debug_EventScript_InflictStatus1_Text_Burn:
-	.string "Burn$"
+	.string "灼伤$"
 
 Debug_EventScript_InflictStatus1_Text_Freeze:
-	.string "Freeze$"
+	.string "冰冻$"
 
 Debug_EventScript_InflictStatus1_Text_Frostbite:
-	.string "Frostbite$"
+	.string "冻伤$"
 
 Debug_EventScript_InflictStatus1_Text_KO:
 	.string "KO$"
 
 Debug_EventScript_ChangeNature_Text_Hardy:
-	.string "Hardy$"
+	.string "勤奋$"
 Debug_EventScript_ChangeNature_Text_Lonely:
-	.string "Lonely$"
+	.string "怕寂寞$"
 Debug_EventScript_ChangeNature_Text_Brave:
-	.string "Brave$"
+	.string "勇敢$"
 Debug_EventScript_ChangeNature_Text_Adamant:
-	.string "Adamant$"
+	.string "固执$"
 Debug_EventScript_ChangeNature_Text_Naughty:
-	.string "Naughty$"
+	.string "顽皮$"
 Debug_EventScript_ChangeNature_Text_Bold:
-	.string "Bold$"
+	.string "大胆$"
 Debug_EventScript_ChangeNature_Text_Docile:
-	.string "Docile$"
+	.string "坦率$"
 Debug_EventScript_ChangeNature_Text_Relaxed:
-	.string "Relaxed$"
+	.string "悠闲$"
 Debug_EventScript_ChangeNature_Text_Impish:
-	.string "Impish$"
+	.string "淘气$"
 Debug_EventScript_ChangeNature_Text_Lax:
 	.string "Lax$"
 Debug_EventScript_ChangeNature_Text_Timid:
-	.string "Timid$"
+	.string "胆小$"
 Debug_EventScript_ChangeNature_Text_Hasty:
-	.string "Hasty$"
+	.string "急躁$"
 Debug_EventScript_ChangeNature_Text_Serious:
-	.string "Serious$"
+	.string "认真$"
 Debug_EventScript_ChangeNature_Text_Jolly:
-	.string "Jolly$"
+	.string "爽朗$"
 Debug_EventScript_ChangeNature_Text_Naive:
-	.string "Naive$"
+	.string "天真$"
 Debug_EventScript_ChangeNature_Text_Modest:
-	.string "Modest$"
+	.string "内敛$"
 Debug_EventScript_ChangeNature_Text_Mild:
-	.string "Mild$"
+	.string "慢吞吞$"
 Debug_EventScript_ChangeNature_Text_Quiet:
-	.string "Quiet$"
+	.string "冷静$"
 Debug_EventScript_ChangeNature_Text_Bashful:
-	.string "Bashful$"
+	.string "害羞$"
 Debug_EventScript_ChangeNature_Text_Rash:
-	.string "Rash$"
+	.string "马虎$"
 Debug_EventScript_ChangeNature_Text_Calm:
-	.string "Calm$"
+	.string "温和$"
 Debug_EventScript_ChangeNature_Text_Gentle:
-	.string "Gentle$"
+	.string "温顺$"
 Debug_EventScript_ChangeNature_Text_Sassy:
-	.string "Sassy$"
+	.string "自大$"
 Debug_EventScript_ChangeNature_Text_Careful:
-	.string "Careful$"
+	.string "慎重$"
 Debug_EventScript_ChangeNature_Text_Quirky:
-	.string "Quirky$"
+	.string "浮躁$"
 
 Debug_EventScript_EWRAMCounters::
 	callnative CheckEWRAMCounters
@@ -776,8 +777,8 @@ Debug_EventScript_EWRAMCounters::
 	end
 
 Debug_EventScript_EWRAMCounters_Text::
-	.string "Follower Steps: {STR_VAR_1}.\n"
-	.string "Fishing Chain: {STR_VAR_2}.$"
+	.string "跟随步数：{STR_VAR_1}。\n"
+	.string "钓鱼次数：{STR_VAR_2}。$"
 
 Debug_EventScript_FontTest_Text_1::
 	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
@@ -795,14 +796,14 @@ Debug_EventScript_FontTest_Text_1::
 
 Debug_EventScript_FontTest_Text_2::
 	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
-	.string "Angel angel adept for the nuance loads\n"
-	.string "of the arena cocoa and quaalude. Blind\l"
-	.string "blind bodice for the submit oboe of the\l"
-	.string "club snob and abbot. Clique clique\l"
-	.string "coast for the pouch loco of the franc\l"
-	.string "assoc and accede. Dunce dunce docile\l"
-	.string "for the loudness mastodon of the\l"
-	.string "loud statehood and huddle.$"
+	.string "安静的世界充满细语\n"
+	.string "城堡中的精灵追逐梦想。\l"
+	.string "飞鸟飞鸟掠过蓝天白云，\l"
+	.string "风铃响起，带来午后微光。\l"
+	.string "欢乐的旅人走过古道幽径，\l"
+	.string "梦境与现实在交界相融。\l"
+	.string "光辉之地记录回忆点滴，\l"
+	.string "盛开的梨花低语着春意。$"
 
 Debug_EventScript_FontTest_Text_3::
 	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
@@ -842,14 +843,14 @@ Debug_EventScript_FontTest_Text_5::
 
 Debug_EventScript_FontTest_Text_6::
 	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
-	.string "Quanta quanta qophs for the inquest\n"
-	.string "sheqel of the cinq coq and suqqu. Rhone\l"
-	.string "rhone roman for the burnt porous of the\l"
-	.string "lemur clamor and carrot. Snout snout\l"
-	.string "sodium for the ensnare bosom of the\l"
-	.string "genus pathos and missing. Tundra\l"
-	.string "tundra tocsin for the nutmeg isotope\l"
-	.string "of the peasant ingot and ottoman.$"
+	.string "风起时叶随梦飘摇\n"
+	.string "泉水清清流过岁月。\l"
+	.string "山峰巍峨如岁月沉淀，\l"
+	.string "月色温柔照亮心房。\l"
+	.string "星辰之间闪烁故事，\l"
+	.string "长夜不再孤单徘徊。\l"
+	.string "梦境醒来仍有诗意，\l"
+	.string "新的一天缓缓到来。$"
 
 Debug_EventScript_FontTest_Text_7::
 	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
@@ -865,10 +866,10 @@ Debug_EventScript_FontTest_Text_7::
 
 Debug_EventScript_FontTest_Text_8::
 	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
-	.string "Yunnan yunnan young for the dynamo\n"
-	.string "coyote of the obloquy employ and\l"
-	.string "sayyid. Zloty zloty zodiac for the gizmo\l"
-	.string "ozone of the franz laissez and buzzing.$"
+	.string "云南古老神秘土地\n"
+	.string "年轻梦想在此启程。\l"
+	.string "风中回荡过往旋律，\l"
+	.string "遥远旅途逐梦不停。$"
 
 
 Debug_EventScript_FontTest_Text_9::                 @ Special thanks to Nintendo for this nice pangram to test other glyphs
@@ -932,12 +933,14 @@ Debug_EventScript_FakeRTCNotEnabled::
 	return
 
 Debug_EventScript_FakeRTCNotEnabled_Text_0:
-	.string "You currently do not have Fake RTC\nenabled. Please enable it in include/\lconfig/overworld.h$"
+	.string "您当前未启用FakeRTC功能。\n"
+	.string "请在include/config/overworld.h文件中\l"
+	.string "启用该功能。$"
 
 
 Debug_EventScript_TellTheTime_Text_0:
-	.string "Time and date:\n"
+	.string "时间与日期：\n"
 	.string "{STR_VAR_1}, {STR_VAR_2}:{STR_VAR_3}$"
 
 DebugEventScript_PrintWeekday_Text_0:
-	.string "Time of day: {STR_VAR_1}$"
+	.string "时间段： {STR_VAR_1}$"

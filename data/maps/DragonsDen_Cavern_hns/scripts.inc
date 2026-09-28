@@ -203,11 +203,9 @@ DragonsDen_Cavern_EventScript_Item_PP_Max::
 
 
 DragonsDen_Cavern_Text_DragonShrineSign:
-    .string "DRAGON SHRINE\p"
-    .string "A shrine honoring the dragon\n"
-    .string "POKéMON\p"
-    .string "said to have lived in DRAGON'S\n"
-    .string "DEN.$"
+    .string "龙之祠堂\p"
+    .string "供奉着传说中曾经\p"
+    .string "居住在龙穴的龙属性宝可梦。$"
 
 DragonsDen_Cavern_Text_SilverTraining1:
     .string "......什么？是\n"

@@ -127,10 +127,9 @@ PokedexRating_Text_LessThan10::
 	.string "看到草丛就钻进去找找宝可梦吧！$"
 
 PokedexRating_Text_LessThan20::
-	.string "It looks as if you're getting on\n"
-	.string "the right track!\p"
-	.string "I've given one of my AIDES a FLASH\n"
-	.string "HM. Make sure you go get it!$"
+	.string "看起来你已经步入正轨了！\p"
+	.string "我已经把秘传学习器“闪光”交给助\n"
+	.string "手了。一定要记得去拿哦！$"
 
 PokedexRating_Text_LessThan30::
 	.string "你的宝可梦图鉴还需要再充实一些！\p"
@@ -138,22 +137,19 @@ PokedexRating_Text_LessThan30::
 	.string "！$"
 
 PokedexRating_Text_LessThan40::
-	.string "Good, it's apparent that you're\n"
-	.string "trying hard!\p"
-	.string "I've given one of my AIDES an\n"
-	.string "ITEMFINDER. Be sure to collect it!$"
+	.string "很好，看得出你非常努力！\p"
+	.string "我已经把“探宝器”交给了助手。一\n"
+	.string "定要记得去领哦！$"
 
 PokedexRating_Text_LessThan50::
-	.string "Your POKéDEX is coming along quite\n"
-	.string "well!\p"
-	.string "I've given one of my AIDES an\n"
-	.string "AMULET COIN. Be sure to get it!$"
+	.string "你的图鉴收集得相当顺利嘛！\p"
+	.string "我已经把“护符金币”交给了助手。\n"
+	.string "一定要记得去拿！$"
 
 PokedexRating_Text_LessThan60::
-	.string "Ah, you've finally topped 50\n"
-	.string "species!\p"
-	.string "I've given one of my AIDES an EXP.\n"
-	.string "SHARE. Be sure to go get it!$"
+	.string "啊，你终于突破50种了！\p"
+	.string "我已经把“学习装置”交给了助手。\n"
+	.string "一定要记得去领哦！$"
 
 PokedexRating_Text_LessThan70::
 	.string "嗬嗬！这本图鉴变得越来越有模有样\n"
@@ -232,10 +228,10 @@ PokedexRating_Text_LoveSeeingYourPokedex::
 @ HnS (mostly directly copied from HGSS)
 
 gElmDexRatingText_GoFindMrPokemon::
-	.string "PROF. ELM: Ah, {PLAYER}{KUN}!\p"
-	.string "Have you found MR. POKéMON's\n"
-	.string "home yet? It is on ROUTE 30,\p"
-	.string "you can't miss it!$"
+	.string "空木博士：啊，{PLAYER}{KUN}！\p"
+	.string "找到宝可梦爷爷的家了吗？\n"
+	.string "就在30号道路上，\p"
+	.string "你一定能找到的！$"
 
 gElmDexRatingText_Robbery::
 	.string "空木博士：{PLAYER}\n"

@@ -278,45 +278,41 @@ CherryGroveCity_Silver_AfterBattle::
 	end
 
 CherrygroveCity_Text_GuideGentIntro:
-	.string "You're a rookie trainer,\n"
-	.string "aren't you? I can tell!\p"
-	.string "That's OK! Everyone is a\n"
-	.string "rookie at some point!\p"
-	.string "If you'd like, I can teach\n"
-	.string "you a few things.$"
+	.string "你是个新手训练家吧？我一眼就能看\n"
+	.string "出来！\p"
+	.string "没关系！谁都有当新手的时候嘛！\p"
+	.string "如果你愿意的话，我可以教你一些常\n"
+	.string "识。$"
 
 CherrygroveCity_Text_GuideGentTourStart:
-	.string "OK, then!\n"
-	.string "Follow me!$"
+	.string "好嘞！跟我来吧！$"
 
 CherrygroveCity_Text_GuideGentPokecenter:
-	.string "This is a POKéMON CENTER.\p"
-	.string "They heal your POKéMON in no\n"
-	.string "time at all.\p"
-	.string "You'll be relying on them a lot,\n"
-	.string "so you better learn about them.$"
+	.string "这里是宝可梦中心。\p"
+	.string "转眼之间就能把你的宝可梦治好。\p"
+	.string "以后你少不了要常来这里，所以最好\n"
+	.string "记牢哦。$"
 
 CherrygroveCity_Text_GuideGentMart:
-	.string "This is a POKéMON MART.\p"
-	.string "They sell BALLS for catching wild\n"
-	.string "POKéMON and other useful items.$"
+	.string "这里是友好商店。\p"
+	.string "里面有卖用来捕捉野生宝可梦的精灵\n"
+	.string "球，以及其他各种有用的道具。$"
 
 CherrygroveCity_Text_GuideGentRoute30:
-	.string "ROUTE 30 is out this way.\p"
-	.string "Trainers will be battling\n"
-	.string "their prized POKéMON there.$"
+	.string "从这边出去就是30号道路。\p"
+	.string "训练家们会在那里带着引以为傲的宝\n"
+	.string "可梦进行对战。$"
 
 CherrygroveCity_Text_GuideGentSea:
 	.string "如你所见，这里就是大海啦。\p"
 	.string "有些宝可梦只生活在水里哦。$"
 
 CherrygroveCity_Text_GuideGentMap:
-	.string "Here…\p"
-	.string "It's my house! Thanks for\n"
-	.string "your company.\p"
-	.string "Oh, and if you're ever lost, check\n"
-	.string "the MAP on your POKéGEAR!\p"
-	.string "I wish you luck on your journey!$"
+	.string "到啦......\p"
+	.string "这就是我家！多谢你陪我走这一趟。\p"
+	.string "哦，对了，要是迷路的话，就看看宝\n"
+	.string "可梦齿轮上的地图吧！\p"
+	.string "祝你的旅程一路顺风！$"
 
 CherrygroveCity_Text_GuideGentDecline:
 	.string "哎呀......这本来也是我的乐\n"
@@ -324,43 +320,39 @@ CherrygroveCity_Text_GuideGentDecline:
 	.string "好吧，你想来找我随时都可以来。$"
 
 CherrygroveCity_Text_RivalSeen:
-	.string "… … … … … … … …\p"
-	.string "You got a POKéMON at the LAB.\p"
-	.string "What a waste.\n"
-	.string "A wimp like you.\p"
-	.string "… … … … … … … …\p"
-	.string "Don't you get what I'm saying?\n"
-	.string "Well, I too, have a good POKéMON.\p"
-	.string "I'll show you what I mean!$"
+	.string "...... ...... ...... ......\p"
+	.string "你在研究所得到了宝可梦啊。\p"
+	.string "真是暴殄天物。就凭你这种软脚虾。\p"
+	.string "...... ...... ...... ......\p"
+	.string "你听不懂我在说什么吗？哼，我也有\n"
+	.string "一只很厉害的宝可梦。\p"
+	.string "就让你见识见识吧！$"
 
 CherrygroveCity_Text_SilverWin:
 	.string "哼，赢了很得意是吧？$"
 
 CherrygroveCity_Text_RivalAfter:
-	.string "… … … … … … … …\p"
-	.string "Do you want to know who I am?\p"
-	.string "I'm going to be the world's\n"
-	.string "greatest POKéMON trainer.$"
+	.string "...... ...... ...... ......\p"
+	.string "想知道我是谁吗？\p"
+	.string "我可是要成为世界最强的宝可梦训练\n"
+	.string "家的人。$"
 
 CherrygroveCity_Text_RivalID:
-	.string "Give it back!\n"
-	.string "That's my TRAINER CARD!\p"
-	.string "Oh no!\n"
-	.string "You saw my name...$"
+	.string "快还给我！那是我的训练家卡！\p"
+	.string "糟了！你看到我的名字了....\n"
+	.string "..$"
 
 CherrygroveCity_Text_TeacherHaveMapCard:
-	.string "When you're with POKéMON,\n"
-	.string "going anywhere is fun.$"
+	.string "只要和宝可梦在一起，去哪里都觉得\n"
+	.string "很开心。$"
 
 CherrygroveCity_Text_YoungsterNoPokedex:
 	.string "宝可梦爷爷的家还在更前面呢。$"
 
 CherrygroveCity_Text_YoungsterHavePokedex:
-	.string "I battled the trainers on the\n"
-	.string "road.\p"
-	.string "My POKéMON lost. They're a\n"
-	.string "mess! I must take them to a\l"
-	.string "POKéMON CENTER.$"
+	.string "我和路上的训练家对战了。\p"
+	.string "我的宝可梦输了，被打得惨兮兮的！\n"
+	.string "我得赶紧带它们去宝可梦中心才行。$"
 
 CherrygroveCity_Text_MysticWaterGuyBefore:
 	.string "我抓到的宝可梦身上带着道具。\p"

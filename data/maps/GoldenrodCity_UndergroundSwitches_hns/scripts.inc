@@ -54,9 +54,8 @@ GoldenrodCity_UndergroundSwitches_EventScript_AntiSoftLock_TP::
 	end
 
 GoldenrodCity_UndergroundSwitches_EventScript_AntiSoftLock_Text::
-	.string "You may be stuck.\p"
-	.string "Go back to the entrance\n"
-	.string "and reset switches?$"
+	.string "你好像被困住了。\p"
+	.string "要回到入口处重置开关吗？$"
 
 @ 3->2->1
 
@@ -522,15 +521,15 @@ GoldenrodCity_UndergroundSwitches_EventScript_Item_SmokeBall::
 	end
 
 GoldenrodUnderground_Text_SilverBefore:
-    .string "Hold it!\p"
-    .string "I saw you, so I tailed you.\p"
-    .string "I don't need you underfoot while I\n"
-    .string "take care of TEAM ROCKET.\p"
-    .string "…Wait a second. You beat me before,\n"
-    .string "didn't you?\p"
-    .string "That was just a fluke.\p"
-    .string "I've been training my team and now\n"
-    .string "I will repay my debts!$"
+    .string "站住！\p"
+    .string "看到你的身影，我就一路跟过来了。\p"
+    .string "我去收拾火箭队的时候，可不想被你\n"
+    .string "碍手碍脚。\p"
+    .string "......等等。你之前赢过我对\n"
+    .string "吧？\p"
+    .string "那纯粹只是侥幸。\p"
+    .string "我重新锻炼了我的队伍，现在就来把\n"
+    .string "这笔账彻底还清！$"
 
 GoldenrodUnderground_Text_SilverWin:
     .string "......为什么......为\n"
@@ -540,24 +539,26 @@ GoldenrodUnderground_Text_SilverWin:
     .string "那为什么我还会输？$"
 
 GoldenrodUnderground_Text_SilverAfter:
-    .string "…I don't understand…\p"
-    .string "Is what that LANCE guy said true?\p"
-    .string "That I don't treat POKéMON properly?\p"
-    .string "Love…\p"
-    .string "Trust…\p"
-    .string "Are they really what I lack?\p"
-    .string "Are they keeping me from winning?\p"
-    .string "I… I just don't understand.\p"
-    .string "But it's not going to end here.\p"
-    .string "Not now. Not because of this.\p"
-    .string "I won't give up my dream of becoming\n"
-    .string "the world's best POKéMON trainer!$"
+    .string "......我想不明白....\n"
+    .string "..\p"
+    .string "难道那个叫阿渡的家伙说的是真的\n"
+    .string "吗？\p"
+    .string "说我没有正确对待宝可梦？\p"
+    .string "爱......\p"
+    .string "信任......\p"
+    .string "这就是我所欠缺的吗？\p"
+    .string "这就是我赢不了的原因吗？\p"
+    .string "我......我实在搞不懂。\p"
+    .string "但是，我绝不会到此为止。\p"
+    .string "绝不可能。我绝不会因此止步。\p"
+    .string "我是不会放弃成为世界最强的宝可梦\n"
+    .string "训练家的！$"
 
 GoldenrodUnderground_Text_SilverLoss:
-    .string "Humph. This is my real power, wimp.\p"
-    .string "I'll make TEAM ROCKET history.\p"
-    .string "And I'm going to grind that LANCE\n"
-    .string "under my heels.$"
+    .string "哼。这才是我的真正实力，窝囊废。\p"
+    .string "火箭队由我来彻底解决。\p"
+    .string "至于那个阿渡，我早晚也会把他踩在\n"
+    .string "脚下。$"
 
 GoldenrodUnderground_Text_GruntM11Seen:
     .string "开了一扇门，另一扇就会关上。\p"
@@ -567,8 +568,9 @@ GoldenrodUnderground_Text_GruntM11Beaten:
     .string "可恶！我一犹豫就彻底翻船了！$"
 
 GoldenrodUnderground_Text_GruntM11After:
-    .string "I'm confused too… The switch on the\n"
-    .string "end is the one to press first, but…$"
+    .string "其实我也被绕晕了......虽然\n"
+    .string "最里面的开关应该最先按下去，可\l"
+    .string "是......$"
 
 GoldenrodUnderground_Text_GruntM25Seen:
     .string "嘎哈哈哈！\p"
@@ -580,10 +582,10 @@ GoldenrodUnderground_Text_GruntM25Beaten:
     .string "呜呜呜......我搞砸了。$"
 
 GoldenrodUnderground_Text_GruntM25After:
-    .string "All right. A hint!\p"
-    .string "Change the order of switching.\p"
-    .string "That'll change the ways the shutters\n"
-    .string "open and close.$"
+    .string "好吧。给你个提示！\p"
+    .string "改变按下开关的顺序。\p"
+    .string "这样卷帘门开启和关闭的规则就会随\n"
+    .string "之改变。$"
 
 GoldenrodUnderground_Text_BurglarDuncanSeen:
     .string "把身上的好东西乖乖交出来！$"
@@ -592,8 +594,8 @@ GoldenrodUnderground_Text_BurglarDuncanBeaten:
     .string "饶命啊！$"
 
 GoldenrodUnderground_Text_BurglarDuncanAfter:
-    .string "Steal and sell! That's basic in\n"
-    .string "crime, kid!$"
+    .string "偷来再卖掉！这可是犯罪的基本功\n"
+    .string "啊，小鬼！$"
 
 GoldenrodUnderground_Text_BurglarEddieSeen:
     .string "工程还没搞完，他们就把这里废弃了\n"

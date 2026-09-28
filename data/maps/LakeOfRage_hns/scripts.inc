@@ -427,8 +427,7 @@ LakeOfRage_EventScript_Sign2::
 	end
 
 LakeOfRage_Text_Sign:
-    .string "LAKE OF RAGE,\n"
-    .string "also known as GYARADOS LAKE.$"
+    .string "愤怒之湖，别名暴鲤龙之湖。$"
 
 LakeOfRage_Text_FishingGuruSign:
     .string "钓鱼大叔的家$"

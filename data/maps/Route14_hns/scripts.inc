@@ -304,8 +304,8 @@ Route14_Text_BirdKeeperRoyBeaten:
 	.string ".....$"
 
 Route14_Text_BirdKeeperRoyAfterBattle:
-	.string "You have POKéMON that know the HM\n"
-	.string "move FLY, don't you? I envy you.$"
+	.string "你有学会秘传学习器招式“飞翔”的\n"
+	.string "宝可梦对吧？真羡慕你啊。$"
 
 Route14_EventScript_Pidgeotto::
 	lockall

@@ -144,8 +144,8 @@ Route15_Text_SchoolboyTommyBeaten:
 	.string "我忘了写作业啦！$"
 
 Route15_Text_SchoolboyTommyAfterBattle:
-	.string "Sayonara! I just learned that in\n"
-	.string "my Japanese class.$"
+	.string "“撒哟哪啦”！这可是我刚在日语课\n"
+	.string "上学到的！$"
 
 Route15_Text_SchoolboyJohnnySeen:
 	.string "我们的社会实践课是要去紫苑广播电\n"

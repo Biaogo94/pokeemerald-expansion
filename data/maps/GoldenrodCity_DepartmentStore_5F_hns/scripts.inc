@@ -92,8 +92,8 @@ GoldenrodDeptStore_Text_5FPokefanM:
     .string "感情。$"
 
 GoldenrodDeptStore_Text_Girl:
-	.string "The lady gave me RETURN!\n"
-    .string "My POKéMON must really like me!$"
+	.string "那位女士送了我“报恩”！我的宝可\n"
+	.string "梦一定超级喜欢我！$"
 
 GoldenrodDeptStore5_EventScript_Clerk::
 	lock

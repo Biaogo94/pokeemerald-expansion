@@ -45,9 +45,10 @@ FarawayIsland_Entrance_hns_EventScript_Sign::
 	end
 
 FarawayIsland_Entrance_hns_Text_Sign:
-	.string "The writing is fading as if it\n"
-	.string "was written a long time ago..\p"
-	.string "..ber, 6th day If any human..\n"
-	.string "sets foot here.. again..et it\l"
-	.string "be a kindhearted pers.. ..ith\l"
-	.string "that hope, I depar..$"
+	.string "文字已经褪色了，看来是很久以前写\n"
+	.string "下的......\p"
+	.string "......月6日　如果有朝一\n"
+	.string "日......有人类再次踏足于\l"
+	.string "此......希望那会是个善良温\l"
+	.string "柔的人......怀抱着这样的祈\l"
+	.string "愿，我启程了......$"

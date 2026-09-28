@@ -30,9 +30,8 @@ Route6_EventScript_Item_Silver_Wind::
     end
 
 Route6_Text_PokefanM:
-	.string "The road is closed until the\n"
-	.string "problem at the POWER PLANT is\l"
-	.string "solved.$"
+	.string "在发电厂的问题解决之前，这条道路\n"
+	.string "一直处于封闭状态。$"
 
 Route6_Text_UndergroundPathSign:
 	.string "地下通道\p"

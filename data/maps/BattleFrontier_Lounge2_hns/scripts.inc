@@ -289,14 +289,13 @@ BattleFrontier_Lounge2_Text_PyramidKingSilverMons_hns::
 	.string "。$"
 
 BattleFrontier_Lounge2_Text_PyramidKingGoldMons_hns::
-	.string "Have you battled the PYRAMID KING\n"
-	.string "when he's serious?\p"
-	.string "When he's pumped with hot power,\n"
-	.string "he apparently uses these POKéMON:\p"
-	.string "An ICE & FLYING FREEZE POKéMON, an\n"
-	.string "ELECTRIC & FLYING ELECTRIC POKéMON,\l"
-	.string "and a FIRE- & FLYING-type FLAME\l"
-	.string "POKéMON.$"
+	.string "你和认真起来的金字塔法老对战过\n"
+	.string "吗？\p"
+	.string "当他充满热情的力量时，据说会使用\n"
+	.string "这些宝可梦：\p"
+	.string "冰与飞行属性的冻结宝可梦，电与飞\n"
+	.string "行属性的电气宝可梦，以及火与飞行\l"
+	.string "属性的火焰宝可梦。$"
 
 BattleFrontier_Lounge2_Text_DoubleBattleAdvice1_hns::
 	.string "确实，有几个地方可以进行双打对战\n"

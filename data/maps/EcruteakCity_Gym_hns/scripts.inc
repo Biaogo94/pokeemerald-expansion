@@ -107,18 +107,16 @@ Text_ReceivedFogBadge:
 	.string "{PLAYER}获得了魅影徽章。$"
 
 MortyText_FogBadgeSpeech:
-	.string "With the FOGBADGE, POKéMON up\n"
-	.string "to Level 50 will obey you.\p"
-	.string "Also, any POKéMON that knows\n"
-	.string "SURF will be able to use it\l"
-	.string "anytime.\p"
-	.string "I want you to have this too.$"
+	.string "有了魅影徽章，50级以内的宝可梦\n"
+	.string "都会听从你的指挥。\p"
+	.string "此外，学会了“冲浪”的宝可梦，也\n"
+	.string "可以在任何时候使出冲浪了。\p"
+	.string "这个也请你收下吧。$"
 
 MortyText_ShadowBallSpeech:
-	.string "That's SHADOW BALL.\n"
-	.string "It causes damage and may\l"
-	.string "lower SP. DEF.\p"
-	.string "Use it if it suits you.$"
+	.string "那是“暗影球”。在造成伤害的同\n"
+	.string "时，还有可能降低对手的特防。\p"
+	.string "合适的话就拿去用吧。$"
 
 MortyFightDoneText:
 	.string "原来如此......\p"

@@ -84,20 +84,17 @@ RuinsOfAlph_Outside_EventScript_Sign3::
 	end
 
 RuinsOfAlph_Outside_Text_Scientist:
-	.string "Hm? That's a POKéDEX, isn't it?\n"
-	.string "May I see it?\p"
-	.string "There are so many kinds of\n"
-	.string "POKéMON.\p"
-	.string "Hm? What's this?\p"
-	.string "What is this POKéMON?\p"
-	.string "It looks like the strange\n"
-	.string "writing on the walls of the\p"
-	.string "RUINS.\p"
-	.string "If those drawings are really\n"
-	.string "POKéMON, there should be many\n"
-	.string "more.\p"
-	.string "I know! Let me upgrade your\n"
-	.string "POKéDEX. Follow me.$"
+	.string "嗯？那是宝可梦图鉴吧？能让我看看\n"
+	.string "吗？\p"
+	.string "上面记载了这么多宝可梦……\p"
+	.string "咦？这是什么？\p"
+	.string "这只是什么宝可梦？\p"
+	.string "它长得好像墙上的怪字，那些字就在\p"
+	.string "遗迹里面。\p"
+	.string "如果那些图案真是宝可梦，应该还有\n"
+	.string "更多种类。\p"
+	.string "有了！我来升级你的图鉴。跟我来\n"
+	.string "吧。$"
 
 RuinsOfAlph_Outside_Text_SuperNerdStan_Seen:
 	.string "你想干什么？我正在研究呢--别来\n"
@@ -151,6 +148,7 @@ RuinsOfAlph_Outside_Text_Youngster1:
 	.string "们把它们当作暗号来用呢。$"
 
 RuinsOfAlph_Outside_Text_Youngster2:
-	.string "A… H… E… A… D… Hmm…\p"
-	.string "What?\p"
-	.string "I'm decoding this message!$"
+	.string "A……H……E……A……D……\n"
+	.string "嗯……\p"
+	.string "什么？\p"
+	.string "我正在解读这条讯息！$"

@@ -225,50 +225,46 @@ NewBarkTown_Movement_FaceDown:
 	step_end
 
 NewBarkTown_Text_LabSign:
-	.string "PROF.ELM'S LAB$"
+	.string "空木博士的研究所$"
 
 NewBarkTown_Text_Door:
-	.string "The door is locked.$"
+	.string "门锁着。$"
 
 NewBarkTown_Text_Wooper:
-	.string "WOOPER: Woooooop.$"
+	.string "乌波：呜波～$"
 
 NewBarkTown_Text_FatManState2:
-	.string "Wow, your POKéGEAR is impressive!\n"
-	.string "Did your mom get it for you?$"
+	.string "哇，你的宝可梦齿轮真不错！是你妈\n"
+	.string "妈给你的吗？$"
 
 NewBarkTown_Text_FatManState3:
-	.string "Yo, {PLAYER}!\p"
-	.string "I hear PROF.ELM discovered\n"
-	.string "some new POKéMON.$"
+	.string "哟，{PLAYER}！\p"
+	.string "听说空木博士发现了新的宝可梦。$"
 
 NewBarkTown_Text_LassState2:
-	.string "Wait, {PLAYER}!\p"
-	.string "It's dangerous to go out\n"
-	.string "without a POKéMON!\p"
-	.string "Wild POKéMON jump out of the grass\n"
-	.string "on the way to the next town.$"
+	.string "等等，{PLAYER}！\p"
+	.string "没带宝可梦出门很危险的！\p"
+	.string "去隔壁镇的路上有草丛，野生宝可梦\n"
+	.string "会从里面跳出来。$"
 
 NewBarkTown_Text_LassState3:
-	.string "Oh! Your POKéMON is adorable!\n"
-	.string "I wish I had one!$"
+	.string "哇！你的宝可梦好可爱！真希望我也\n"
+	.string "能有一只！$"
 
 NewBarkTown_Text_LassState4:
-	.string "Hi, {PLAYER}! Leaving again?\p"
-	.string "You should tell your mom if\n"
-	.string "you are leaving.$"
+	.string "嗨，{PLAYER}！又要出门？\p"
+	.string "出门前要跟妈妈说一声哦。$"
 
 NewBarkTown_Text_LassState5:
-	.string "Call your mom on your POKéGEAR\n"
-	.string "to let her know how you're doing.$\p"
+	.string "用宝可梦齿轮给妈妈打个电话，告诉\n"
+	.string "她你最近过得怎么样吧。$"
 
 NewBarkTown_Text_Silver1:
-	.string ". . .\p"
-	.string "So this is the famous ELM\n"
-	.string "POKéMON LAB…$"
+	.string "…………\p"
+	.string "这里就是大名鼎鼎的空木研究所……$"
 
 NewBarkTown_Text_Silver2:
-	.string "…What are you staring at?$"
+	.string "……看什么看？$"
 
 NewBarkTown_Text_Sign:
 	.string "若叶镇\p"

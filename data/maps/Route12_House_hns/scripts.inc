@@ -33,15 +33,15 @@ Route12_House_Text_OfferSuperRod:
 	.string "怎么样？我没说错吧。$"
 
 Route12_House_Text_GiveSuperRod:
-	.string "Yes, yes. Just as I thought!\p"
-	.string "Here, fishing fan! Take this--\n"
-	.string "it's a SUPER ROD.$"
+	.string "对嘛对嘛！果然不出我所料！\p"
+	.string "来，钓鱼迷！收下这个--这是厉害\n"
+	.string "钓竿。$"
 
 Route12_House_Text_GaveSuperRod:
-	.string "Try your hand at fishing wherever\n"
-	.string "there is water.\p"
-	.string "Remember--you can catch different\n"
-	.string "POKéMON using different RODS.$"
+	.string "只要是有水的地方，就去挥竿试试看\n"
+	.string "吧。\p"
+	.string "记住了--使用不同的钓竿，钓到的\n"
+	.string "宝可梦也是不一样的哦。$"
 
 Route12_House_Text_DontWantSuperRod:
 	.string "咦？难道是我看走眼了？$"

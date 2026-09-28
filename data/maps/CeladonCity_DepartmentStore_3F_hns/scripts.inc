@@ -47,8 +47,8 @@ CeladonDeptStore3F_Text_Youngster:
 	.string "宝可梦用好呢......$"
 
 CeladonDeptStore3F_Text_GameboyKid1:
-	.string "Uh-oh! I traded my POKéMON without\n"
-	.string "removing the UPGRADE from it.$"
+	.string "哎呀！我刚才把宝可梦交换出去了，\n"
+	.string "忘记把“升级数据”取下来了！$"
 
 CeladonDeptStore3F_Text_GameboyKid2:
 	.string "太棒了！我终于拿到多边兽了！\p"

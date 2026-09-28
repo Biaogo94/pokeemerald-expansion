@@ -228,18 +228,16 @@ MahoganyTown_Pokemart:
 	end
 
 MahoganyTown_Shop_Text_Granny:
-	.string "Please come back another time.\n"
-	.string "The store is... closed\l"
-	.string "right now.$"
+	.string "请改天再来吧。本店......现\n"
+	.string "在已经打烊了。$"
 
 MahoganyMart1F_Text_Pharmacist_Lance:
     .string "火箭队霸占了我的地下室！$"
 
 MahoganyMart1F_Text_BlackBelt:
-    .string "Heheh! The experi- ment worked like\n"
-    .string "a charm.\p"
-    .string "MAGIKARP are just worthless, but\n"
-    .string "GYARADOS are big moneymakers.$"
+    .string "嘿嘿！实验进行得太顺利了。\p"
+    .string "鲤鱼王一文不值，但暴鲤龙可是能赚\n"
+    .string "大钱的摇钱树啊。$"
 
 MahoganyMart1F_Text_BlackBelt_Lance:
     .string "唔呃......\p"
@@ -249,15 +247,15 @@ MahoganyMart1F_Text_Lance_HyperBeam:
     .string "阿渡：快龙，破坏光线。$"
 
 MahoganyMart1F_Text_Lance_Radio:
-    .string "What took you, {PLAYER}?\p"
-    .string "Just as we thought, that strange\n"
-    .string "radio signal is coming from here.$"
+    .string "你可算来了，{PLAYER}。\p"
+    .string "果然不出所料，那段奇怪的电波就是\n"
+    .string "从这里发出的。$"
 
 MahoganyMart1F_Text_Lance_Stairs:
-    .string "Excellent work finding the stairs,\n"
-	.string "DRAGONITE!$"
+    .string "干得漂亮，快龙！多亏你找到了楼\n"
+    .string "梯！$"
 
 MahoganyMart1F_Text_Lance_SplitUp:
-    .string "LANCE: {PLAYER}, we should split up\n"
-    .string "to check this place.\p"
-    .string "I'll go first.$"
+    .string "阿渡：{PLAYER}，我们分头\n"
+    .string "调查这里吧。\p"
+    .string "我先走一步。$"

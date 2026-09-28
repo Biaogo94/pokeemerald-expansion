@@ -113,14 +113,11 @@ GoldenrodCity_RadioTower_5F_Text_FakeDirectorWin:
 	.string "好吧好吧。我告诉你他在哪。$"
 
 GoldenrodCity_RadioTower_5F_Text_FakeDirectorAfter:
-	.string "The boss stashed the DIRECTOR in\n"
-	.string "the UNDERGROUND WAREHOUSE.\p"
-	.string "It's at the far end of the UNDER-\n"
-	.string "GROUND.\p"
-	.string "I am a nice guy, I will give you\n"
-	.string "the BASEMENT KEY to get to the\l"
-	.string "UNDERGROUND WAREHOUSE.\p"
-	.string "But I doubt you'll get that far.$"
+	.string "老大把台长关进了地下仓库。\p"
+	.string "就在地下通道最深处。\p"
+	.string "我人好，通往地下仓库的地下钥匙就\n"
+	.string "给你吧。\p"
+	.string "不过，我看你也走不到那里。$"
 
 GoldenrodCity_RadioTower_5F_Text_FakeDirectorAfter2:
 	.string "首领把台长藏在地下仓库里了。\p"
@@ -407,10 +404,9 @@ GoldenrodCity_RadioTower_5F_Text_DirectorLegendary:
 	.string "我想不起来了。$"
 
 GoldenrodCity_RadioTower_5F_Text_DirectorFakeout:
-	.string "Are you expecting something?\n"
-	.string "This is what they call FAKE OUT.\p"
-	.string "I really must go back to my OFFICE\n"
-	.string "this time. See ya!$"
+	.string "你在期待什么吗？这就是所谓的“击\n"
+	.string "掌奇袭”啦。\p"
+	.string "这次我真的得回局长室了。拜拜啦！$"
 
 GoldenrodCity_RadioTower_5F_Text_DirectorIntro:
 	.string "局长：你好呀，{PLAYER}！\p"

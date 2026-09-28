@@ -47,21 +47,21 @@ Route47_EventScript_Kae::
 	end
 
 Route47_Text_Couple1Seen::
-	.string "THOM: 1加1等于2，但只要\n"
+	.string "汤姆：1加1等于2，但只要\n"
 	.string "我们两人联手，就会变得更强！\p"
-	.string "KAE: 我们可不是什么普普通通\n"
+	.string "凯：我们可不是什么普普通通\n"
 	.string "的组合哦！$"
 
 Route47_Text_Couple1Beaten::
-	.string "THOM: 这可真出乎我的意料。\n"
-	.string "KAE: 你也太不按常理出牌了！$"
+	.string "汤姆：这可真出乎我的意料。\n"
+	.string "凯：你也太不按常理出牌了！$"
 
 Route47_Text_Couple1After1::
-	.string "THOM: 看来你的实力真是难以\n"
+	.string "汤姆：看来你的实力真是难以\n"
 	.string "预测啊！$"
 
 Route47_Text_Couple1After2::
-	.string "KAE: 我还以为你只是个普通的\n"
+	.string "凯：我还以为你只是个普通的\n"
 	.string "独行训练家，真是看走眼了！$"
 
 Route47_EventScript_Duff::
@@ -76,22 +76,22 @@ Route47_EventScript_Eda::
 	end
 
 Route47_Text_Couple2Seen::
-	.string "DUFF: 守护着我的女朋友，我\n"
+	.string "达夫：守护着我的女朋友，我\n"
 	.string "的心情就会激动澎湃！\p"
-	.string "EDA: 我对男朋友的爱意，比大\n"
+	.string "艾达：我对男朋友的爱意，比大\n"
 	.string "海还要辽阔深沉！$"
 
 Route47_Text_Couple2Beaten::
-	.string "DUFF: 完全不是你的对手..\n"
-	.string "....EDA: 你真是不简单啊\l"
-	.string "......$"
+	.string "达夫：完全不是你的对手……\n"
+	.string "艾达：你真是不简单啊\l"
+	.string "……$"
 
 Route47_Text_Couple2After1::
-	.string "DUFF: 感谢你带来如此精彩的\n"
+	.string "达夫：感谢你带来如此精彩的\n"
 	.string "对战！再见啦！$"
 
 Route47_Text_Couple2After2::
-	.string "EDA: 你也一定要找一个绝妙的\n"
+	.string "艾达：你也一定要找一个绝妙的\n"
 	.string "伴侣哦！$"
 
 Route47_EventScript_Sage::

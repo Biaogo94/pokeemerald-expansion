@@ -1,0 +1,7 @@
+[
+  {"file":"src/berry_tag_screen.c","symbol":"sText_SizeSlash","source":"SIZE /","translation":"大小/","provenance":"manual UI translation"},
+  {"file":"src/berry_tag_screen.c","symbol":"sText_FirmSlash","source":"FIRM /","translation":"硬度/","provenance":"manual UI translation"},
+  {"file":"src/berry_tag_screen.c","symbol":"sBerryFirmnessStrings","source":"Very soft / Soft / Hard / Very hard / Super hard","translation":"非常柔软 / 柔软 / 坚硬 / 非常坚硬 / 坚硬无比","provenance":"manual UI translation"},
+  {"file":"src/berry_tag_screen.c","symbol":"sText_BerryTag","source":"BERRY TAG","translation":"树果信息","provenance":"manual UI translation"},
+  {"file":"src/berry_tag_screen.c","symbol":"sText_WatmelDesc*_Metric","source":"A huge Berry, with some over half a meter discovered. Exceedingly sweet.","translation":"非常大的树果，直径超过半米，甜度也十分惊人。","provenance":"manual UI translation"}
+]

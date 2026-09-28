@@ -27,9 +27,9 @@ GoldenrodDeptStore3_EventScript_Rocker::
 	end
 
 GoldenrodDeptStore_Text_3FSuperNerd:
-    .string "I, I, I'm really impatient!\p"
-    .string "I use X SPEED in battle to speed up\n"
-    .string "my POKéMON.$"
+    .string "我、我、我是个急性子！\p"
+    .string "对战时我都用速度强化来提升宝可梦\n"
+    .string "的速度。$"
 
 GoldenrodDeptStore_Text_3FRocker:
     .string "喂！你在对战时会用特攻强化吗？\p"

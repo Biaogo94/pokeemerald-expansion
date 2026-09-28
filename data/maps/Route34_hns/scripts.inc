@@ -208,20 +208,16 @@ Route34_Text_PokefanBrandon_After:
 	.string "搞得我都不知道该怎么出招了！$"
 
 Route34_Text_Sign_IlexForest:
-	.string "ILEX FOREST\n"
-	.string "THROUGH THE GATE$"
+	.string "穿过大门即是栎树林$"
 
 Route34_Text_Sign_Route34:
-	.string "ROUTE 34\n"
-	.string "GOLDENROD CITY - AZALEA TOWN\p"
-	.string "ILEX FOREST SOMEWHERE BETWEEN$"
+	.string "34号道路满金市 - 桧皮镇\p"
+	.string "栎树林位于其间$"
 
 Route34_Text_TrainerTips:
-	.string "TRAINER TIPS\p"
-	.string "BERRY trees grow new BERRIES\n"
-	.string "several times a day.\p"
-	.string "Note which trees bear which\n"
-	.string "BERRIES.$"
+	.string "训练家小贴士\p"
+	.string "树果树每天都会多次结出新的树果。\p"
+	.string "记下哪棵树结哪种树果吧。$"
 
 Route34_Text_CooltrainerIrene_Seen:
 	.string "艾琳：你是谁啊？！$"
@@ -237,36 +233,36 @@ Route34_Text_CooltrainerIrene_After2:
 	.string "这是我们小小的秘密度假胜地！$"
 
 Route34_Text_CooltrainerJenn_Seen:
-	.string "JENN: What the...?\n"
-	.string "What are you doing?$"
+	.string "珍恩：搞什么啊......？你到\n"
+	.string "底在干嘛？$"
 
 Route34_Text_CooltrainerJenn_Beaten:
 	.string "珍恩：对不起，艾琳！亲爱的妹妹！$"
 
 Route34_Text_CooltrainerJenn_After1:
-	.string "JENN: Don't get cocky! My sister\n"
-	.string "KATE is tough!$"
+	.string "珍恩：别得意！我们的大姐凯特可是\n"
+	.string "很厉害的！$"
 
 Route34_Text_CooltrainerJenn_After2:
 	.string "珍恩：多晒晒太阳能让身体变得更棒\n"
 	.string "。$"
 
 Route34_Text_CooltrainerKate_Seen:
-	.string "KATE: I must pay you back for\n"
-	.string "taking care of my sisters!$"
+	.string "凯特：居然敢欺负我的妹妹们，看我\n"
+	.string "怎么收拾你！$"
 
 Route34_Text_CooltrainerKate_Beaten:
 	.string "凯特：怎么可能！我居然输了。$"
 
 Route34_Text_CooltrainerKate_GiveSoftSand:
-	.string "KATE: You are so strong.\n"
-	.string "We lost with no excuses...\p"
-	.string "Here, take this!$"
+	.string "凯特：你真厉害。我们输得心服口\n"
+	.string "服......\p"
+	.string "来，把这个拿去吧！$"
 
 Route34_Text_CooltrainerKate_After:
-	.string "KATE: I'm sorry we jumped you.\p"
-	.string "We never expected anyone to find\n"
-	.string "us here. You sure startled us.$"
+	.string "凯特：突然袭击你，真对不起。\p"
+	.string "我们完全没想到会有人找到这里来。\n"
+	.string "你可真把我们吓了一跳。$"
 
 
 Route34_Text_Sign_DayCare:

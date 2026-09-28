@@ -24,16 +24,12 @@ CeruleanCity_EventScript_Guard::
 	end
 
 CeruleanCity_Text_ThisIsCeruleanCave::
-    .string "This is CERULEAN CAVE.\p"
-    .string "Horribly strong POKéMON live inside\n"
-    .string "there.\p"
-    .string "It takes a very special TRAINER to\n"
-    .string "be allowed inside there.\p"
-    .string "You'd have to be strong enough to\n"
-    .string "become the KANTO POKéMON LEAGUE\l"
-    .string "CHAMPION for starters.\p"
-    .string "And, you would have to have\n"
-    .string "made a great achievement.$"
+    .string "这里是华蓝洞窟。\p"
+    .string "里面住着实力惊人的宝可梦。\p"
+    .string "只有极少数训练家能获准进入。\p"
+    .string "首先，你必须强到足以成为关都宝可\n"
+    .string "梦联盟的冠军。\p"
+    .string "此外，还得立下了不起的功绩。$"
 
 CeruleanCity_Text_CooltrainerM1:
 	.string "关都的发电厂？\p"

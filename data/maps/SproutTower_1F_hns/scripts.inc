@@ -43,26 +43,24 @@ SproutTower_1F_EventScript_ItemParalyzeHeal::
 	end
 
 SproutTower_Text_SageChow_Seen:
-	.string "We stand guard in this tower.\p"
-	.string "Here, we express our gratitude\n"
-	.string "to honor all POKéMON.$"
+	.string "我们在塔中修行守护。\p"
+	.string "在这里，我们向所有的宝可梦表达感\n"
+	.string "激与崇敬之情。$"
 
 SproutTower_Text_SageChow_Beaten:
 	.string "多、多谢指教！$"
 
 SproutTower_Text_SageChow_AfterBattle:
-	.string "All living beings coexist\n"
-	.string "through cooperation.\p"
-	.string "We must always be thankful\n"
-	.string "for this.$"
+	.string "所有的生灵都是在互相扶持中共存。\p"
+	.string "我们必须时刻对此心怀感激。$"
 
 SproutTower_Text_1F_Sage1:
-	.string "Only if you reach the top will\n"
-	.string "you obtain an HM.$"
+	.string "只有登上塔顶，才能获得秘传学习\n"
+	.string "器。$"
 
 SproutTower_Text_1F_Sage2:
-	.string "SPROUT TOWER was built long ago\n"
-	.string "as a place for POKéMON training.$"
+	.string "喇叭芽之塔是很久以前为了修行宝可\n"
+	.string "梦而建造的。$"
 
 SproutTower_Text_1F_Granny:
 	.string "高达100英尺的喇叭芽.....\n"

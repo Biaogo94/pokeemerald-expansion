@@ -26,18 +26,18 @@ CeladonCity_Apartments_3F_EventScript_CharacterDesigner::
 	end
 
 GameFreak_Text_GameDesigner:
-	.string "Is that right?\p"
-	.string "I'm the GAME DESIGNER!\p"
-	.string "Filling up your POKéDEX is tough,\n"
-	.string "but don't give up!$"
+	.string "是这样吗？\p"
+	.string "我是游戏设计师！\p"
+	.string "填满宝可梦图鉴可不容易，不过千万\n"
+	.string "别放弃！$"
 
 GameFreak_Text_GameDesignerCompletedPokedex:
 	.string "哇！太棒了！你集齐了宝可梦图鉴！\p"
 	.string "恭喜你！$"
 
 GameFreak_Text_GraphicArtist:
-	.string "I'm the GRAPHIC ARTIST.\p"
-	.string "I drew you!$"
+	.string "我是美术设计师。\p"
+	.string "你也是我画出来的哦！$"
 
 GameFreak_Text_GraphicArtistPrintDiploma:
 	.string "我是美工设计师。\p"
@@ -55,9 +55,9 @@ GameFreak_Text_Programmer:
 	.string "去玩玩老虎机吧！$"
 
 GameFreak_Text_CharacterDesigner:
-	.string "Aren't the TWINS adorable?\p"
-	.string "JASMINE's pretty too.\p"
-	.string "Oh, I love them!$"
+	.string "那对双胞胎真可爱，对吧？\p"
+	.string "阿蜜也很可爱。\p"
+	.string "哎呀，我真喜欢她们！$"
 
 CeladonMansion3F_Text_DevRoomSign:
 	.string "GAME FREAK 开发室$"

@@ -353,17 +353,15 @@ TrainerHill_Entrance_hns_Text_ThankYouForPlaying:
 	.string "感谢您的游玩！$"
 
 TrainerHill_Entrance_hns_Text_ExplainTrainerHill:
-	.string "Here at the TRAINER HILL, we conduct\n"
-	.string "an event called the Time Attack.\p"
-	.string "It is a race that measures how long\n"
-	.string "you take to reach our owner on\l"
-	.string "the rooftop from this counter.\p"
-	.string "The fastest times are posted on\n"
-	.string "the Time Board--try competing with\l"
-	.string "your friends.\p"
-	.string "In TRAINER battles along the way,\n"
-	.string "neither Exp. Points nor money will\l"
-	.string "be awarded.$"
+	.string "在训练家之丘，我们开展了名为“计\n"
+	.string "时赛”的挑战活动。\p"
+	.string "这是一场竞速挑战，记录你从这个柜\n"
+	.string "台出发到达顶楼主人那里所花费的时\l"
+	.string "间。\p"
+	.string "最快的时间会记录在计时榜上--不\n"
+	.string "妨试着和朋友们一决高下吧。\p"
+	.string "在途中的训练家对战中，将无法获得\n"
+	.string "经验值与金钱。$"
 
 TrainerHill_Entrance_hns_Text_WhatSortOfTrainersAreAhead:
 	.string "天晓得前面会有怎样的训练家和宝可\n"

@@ -24,10 +24,9 @@ MahoganyTown_PokemonCenter_Text_PokefanM:
     .string "....$"
 
 MahoganyTown_PokemonCenter_Text_Youngster:
-    .string "I stop my POKéMON from evolving too\n"
-    .string "early.\p"
-    .string "I make them learn certain moves\n"
-    .string "before I let them evolve.$"
+    .string "我不会让我的宝可梦太早进化。\p"
+    .string "我会让它们先学会某些招式，然后再\n"
+    .string "让它们进化。$"
 
 MahoganyTown_PokemonCenter_Text_CooltrainerF:
     .string "宝可梦进化后确实会变强，\p"

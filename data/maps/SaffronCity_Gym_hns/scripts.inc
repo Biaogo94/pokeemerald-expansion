@@ -133,8 +133,8 @@ SaffronCity_Gym_Text_PsychicFranklinBeaten:
 	.string "你心灵的力量在我之上！$"
 
 SaffronCity_Gym_Text_PsychicFranklinAfter:
-	.string "You made your soul stronger, not\n"
-	.string "just your abilities.$"
+	.string "你变强的不仅仅是实力，还有你的灵\n"
+	.string "魂。$"
 
 SaffronCity_Gym_Text_MediumDorisSeen:
 	.string "呵呵呵呵......我看得很清楚\n"
@@ -146,29 +146,27 @@ SaffronCity_Gym_Text_MediumDorisBeaten:
 	.string ".....$"
 
 SaffronCity_Gym_Text_MediumDorisAfter:
-	.string "Darn! I forgot that I predicted I\n"
-	.string "would lose to you.$"
+	.string "哎呀！我都忘了我之前预知到自己会\n"
+	.string "输给你了。$"
 
 SaffronCity_Gym_Text_PsychicJaredSeen:
-	.string "The FIGHTING DOJO next door was\n"
-	.string "once this city's GYM.$"
+	.string "隔壁的格斗道馆曾经也是这个城市的\n"
+	.string "官方道馆呢。$"
 
 SaffronCity_Gym_Text_PsychicJaredBeaten:
 	.string "我完全不是对手......$"
 
 SaffronCity_Gym_Text_PsychicJaredAfter:
-	.string "KARATE KING, the master of the\n"
-	.string "FIGHTING DOJO, was just destroyed\l"
-	.string "by SABRINA.$"
+	.string "格斗道馆的首领空手道大王，刚才被\n"
+	.string "娜姿打得落花流水呢。$"
 
 SaffronCity_Gym_Text_GymGuideIntro:
-	.string "Yo, CHAMP in making!\p"
-	.string "A trainer as skilled as you\n"
-	.string "doesn't need to be told how to\l"
-	.string "deal with PSYCHIC-type POKéMON,\l"
-	.string "right?\p"
-	.string "I expect great things from you!\p"
-	.string "Good luck!$"
+	.string "哟，未来的冠军！\p"
+	.string "像你这么优秀的训练家，应该不需要\n"
+	.string "我教你该怎么对付超能力属性的宝可\l"
+	.string "梦了吧？\p"
+	.string "我对你可是寄予厚望哦！\p"
+	.string "祝你好运！$"
 
 SaffronCity_Gym_Text_GymGuideWin:
 	.string "刚才那场对战也很精彩啊！$"
@@ -187,13 +185,10 @@ SaffronCity_Gym_EventScript_GymStatuePostVictory::
 
 
 SaffronCity_Gym_Text_GymStatue::
-    .string "SAFFRON POKéMON GYM\n"
-    .string "LEADER: SABRINA\p"
-	.string "WINNING TRAINERS:\n"
-	.string "BLUE, RED$"
+    .string "金黄宝可梦道馆馆主：娜姿\p"
+    .string "胜出训练家：青绿、赤红$"
 
 SaffronCity_Gym_Text_GymStatuePlayerWon::
-    .string "SAFFRON POKéMON GYM\n"
-    .string "LEADER: SABRINA\p"
-    .string "WINNING TRAINERS:\n"
-	.string "BLUE, RED, {PLAYER}$"
+    .string "金黄宝可梦道馆馆主：娜姿\p"
+    .string "胜出训练家：青绿、赤红、\n"
+    .string "{PLAYER}$"

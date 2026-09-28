@@ -290,29 +290,29 @@ Route22_Text_Silver1:
 	.string "那你接下来打算怎么办？$"
 
 Route22_Text_Giovanni1:
-	.string "....................\p"
-	.string "GIOVANNI: One must acknowledge one's\n"
-	.string "defeat before he can move on...\p"
-	.string "I will go solo... for now...\p"
-	.string "So that one day I will form a\n"
-	.string "stronger organization!$"
+	.string "........................\p"
+	.string "坂木：如果不先承认失败，就无法迈\n"
+	.string "向下一步......\p"
+	.string "现在......我先独自一人行\n"
+	.string "动......\p"
+	.string "总有一天，我会建立起更加庞大的组\n"
+	.string "织！$"
 
 Route22_Text_Silver2:
-	.string "{RIVAL}: What aspect of you was\n"
-	.string "number one?\p"
-	.string "Gathering so many only to be\n"
-	.string "defeated by a mere child!$"
+	.string "{RIVAL}：你算哪门子的世界\n"
+	.string "第一啊？\p"
+	.string "召集了那么多人，结果还不是被一个\n"
+	.string "小毛孩给打败了！$"
 
 Route22_Text_Giovanni2:
-	.string "GIOVANNI: Putting together the\n"
-	.string "potential of many is how you\l"
-	.string "produce a huge power...\l"
-	.string "That's what an organization is...\l"
-	.string "That's the strength of organization\p"
-	.string "I failed... to make the best use of\n"
-	.string "my subordinates' potential...!\p"
-	.string "But you shall witness one day the\n"
-	.string "revival of me and my TEAM ROCKET!$"
+	.string "坂木：聚集众人的潜能，才能汇聚出\n"
+	.string "庞大的力量......这就是组\l"
+	.string "织......这就是组织的力量\l"
+	.string "......\p"
+	.string "是我没能......完全发挥出手\n"
+	.string "下的潜力......！\p"
+	.string "但总有一天，你会亲眼见证我与火箭\n"
+	.string "队的东山再起！$"
 
 Route22_Text_Silver3:
 	.string "{RIVAL}：我才听不懂你在说\n"
@@ -320,21 +320,17 @@ Route22_Text_Silver3:
 	.string "你说的根本就莫名其妙！$"
 
 Route22_Text_Giovanni3:
-	.string ".......................\p"
-	.string "GIOVANNI: One day you will\n"
-	.string "understand.$"
+	.string "........................\p"
+	.string "坂木：总有一天，你会明白的。$"
 
 Route22_Text_Silver4:
-	.string "{RIVAL}: I don't want to\n"
-	.string "understand you!\p"
-	.string "I will never become someone like\n"
-	.string "you.\p"
-	.string "A coward when you're alone and\n"
-	.string "acting like a tyrant when you're\l"
-	.string "in front of other cowards!\p"
-	.string "I will become strong!\p"
-	.string "I will become a stronger man all\n"
-	.string "by myself!$"
+	.string "{RIVAL}：我才不想明白！\p"
+	.string "我绝对不要变成你这种人。\p"
+	.string "一个人时就是个胆小鬼，只敢在一群\n"
+	.string "懦夫面前耀武扬威！\p"
+	.string "我会变强的！\p"
+	.string "只凭我一个人，我也能成为更强的男\n"
+	.string "人！$"
 
 Route22_Text_Silver5:
 	.string "只凭我自己一个人！$"

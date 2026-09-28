@@ -152,100 +152,88 @@ Route30_Text_YoungsterMikeySeen:
 	.string "那就非得和我对战不可啦！$"
 
 Route30_Text_YoungsterMikeyBeaten:
-	.string "That's strange.\n"
-	.string "I won before.$"
+	.string "真奇怪。我以前明明赢过的。$"
 
 Route30_Text_YoungsterMikeyAfter:
-	.string "Becoming a good trainer is\n"
-	.string "really tough.\p"
-	.string "I'm going to battle other\n"
-	.string "people to get better.$"
+	.string "要成为优秀的训练家真不容易啊。\p"
+	.string "我得去多和别人对战来提升自己。$"
 
 Route30_Text_BugCatcherDonSeen:
-	.string "Instead of a bug POKéMON,\n"
-	.string "I found a trainer!$"
+	.string "没抓到虫宝可梦，倒抓到一个训练\n"
+	.string "家！$"
 
 Route30_Text_BugCatcherDonBeaten:
 	.string "哎呀！你也太强了吧！$"
 
 Route30_Text_BugCatcherDonAfter:
-	.string "I ran out of POKé BALLS while\n"
-	.string "I was catching POKéMON.\p"
-	.string "I should've bought some more…$"
+	.string "抓宝可梦的时候精灵球用光了。\p"
+	.string "真应该多买几个备着的......$"
 
 Route30_Text_YoungsterDirectionsToMrPokemon:
-	.string "MR. POKéMON's house?\n"
-	.string "It's a bit farther ahead.$"
+	.string "宝可梦爷爷的家？还要往前走一段路\n"
+	.string "呢。$"
 
 Route30_Text_YoungsterEveryoneIsBattling:
 	.string "大家都在开心地对战呢！\p"
 	.string "你也一起来吧！$"
 
 Route30_Text_CooltrainerF:
-	.string "I'm not a trainer.\p"
-	.string "But if you look one in the\n"
-	.string "eyes, prepare to battle.$"
+	.string "我可不是训练家。\p"
+	.string "不过只要和训练家眼神相遇，就得做\n"
+	.string "好对战的准备哦。$"
 
 Route30_Text_Sign:
 	.string "30号道路\p"
 	.string "桔梗市 - 吉花市$"
 
 Route30_Text_MrPokemonsHouseDirectionsSign:
-	.string "MR. POKéMON'S HOUSE\n"
-	.string "STRAIGHT AHEAD!$"
+	.string "宝可梦爷爷的家直走即是！$"
 
 Route30_Text_MrPokemonsHouseSign:
 	.string "宝可梦爷爷的家$"
 
 Route30_Text_TrainerTips:
-	.string "TRAINER TIPS\p"
-	.string "No stealing other people's\n"
-	.string "POKéMON!\p"
-	.string "POKé BALLS are to be thrown\n"
-	.string "only at wild POKéMON!$"
+	.string "训练家心得\p"
+	.string "不准偷别人的宝可梦！\p"
+	.string "精灵球只能用来收服野生的宝可梦！$"
 
 Route30_Text_JoeyRegister:
-	.string "You're pretty good!\p"
-	.string "My RATTATA's raring to go,\n"
-	.string "just like always.\p"
-	.string "It's the only one I have.\n"
-	.string "I'm going to become a great\l"
-	.string "TRAINER with it!\p"
-	.string "Let's battle again sometime!$"
+	.string "你真厉害！\p"
+	.string "不过我的小拉达也是干劲满满哦。\p"
+	.string "虽然我只有这一只宝可梦，但我一定\n"
+	.string "要和它一起成为顶尖的训练家！\p"
+	.string "下次再来对战吧！$"
 
 Route30_Text_JoeyRematchIntro:
-	.string "I promised things would be\n"
-	.string "different! Let's battle!$"
+	.string "我说过这次结果会不一样！来对战\n"
+	.string "吧！$"
 
 Route30_Text_JoeyRematchDefeat:
 	.string "啊！我又输了！真可恶！$"
 
 Route30_Text_JoeyPostRematch:
-	.string "I'm checking out my\n"
-	.string "RATTATA's moves and devising\l"
-	.string "some strategies.\p"
-	.string "When I come up with a good\n"
-	.string "one, let's battle!$"
+	.string "我正在研究小拉达的招式，思考新的\n"
+	.string "战术呢。\p"
+	.string "等我想到了好点子，咱们就来对战\n"
+	.string "吧！$"
 
 Route30_Text_YoungsterJoeyGiveHPUp:
-	.string "I lost again…\n"
-	.string "Gee, you're tough!\p"
-	.string "Oh yeah, I almost forgot that\n"
-	.string "I had to give you this.\p"
-	.string "Use it to get even tougher,\n"
-	.string "OK?\p"
-	.string "I'm going to get tougher too.$"
+	.string "我又输了......天哪，你也太\n"
+	.string "强了吧！\p"
+	.string "对了，我差点忘了要把这个交给你。\p"
+	.string "用它让自己变得更强吧，好吗？\p"
+	.string "我也一定会变得更强的！$"
 
 Route30_Text_ElmName:
 	.string "空木博士$"
 
 Route30_Text_Elm_Disaster:
-	.string "PROF.ELM: H-hello? {PLAYER}? It's\n"
-	.string "a disaster!\p"
-	.string "Uh, um, it's just terrible!\p"
-	.string "What should I do? It…\n"
-	.string "Oh, no…\p"
-	.string "Please get back here now!$"
+	.string "空木博士：喂......喂？是\n"
+	.string "{PLAYER}吗？大事不好了！\p"
+	.string "呃、呜......简直太糟糕了！\p"
+	.string "怎么办才好？它......天哪\n"
+	.string "......\p"
+	.string "请快点赶回研究所来！$"
 
 
 Route30_Text_Poliwag:

@@ -321,26 +321,21 @@ PokemonLeague_ChampionsRoom_Movement_MaryLeft:
 	step_end
 
 PokemonLeague_ChampionsRoom_Text_RematchBattleIntro:
-    .string "LANCE: Welcome back!\p"
-    .string "You've proven yourself in JOHTO,\p"
-    .string "acquiring all 8 badges and even\n"
-    .string "besting me once.\p"
-    .string "But now, you're in the big\n"
-    .string "leagues.\p"
-    .string "The KANTO LEAGUE!\p"
-    .string "A region with its own trials and\n"
-    .string "champions.\p"
-    .string "Here, I am the final challenge,\n"
-    .string "with a team stronger than ever\l"
-    .string "before.\p"
-    .string "This is the true test,\p"
-    .string "a battle to determine the\n"
-    .string "CHAMPION of KANTO.\p"
-    .string "Are you ready to rise to this new\n"
-    .string "challenge?\p"
-    .string "To prove yourself once more?\p"
-    .string "Show me the strength that\n"
-    .string "conquered JOHTO, CHAMPION.$"
+    .string "阿渡：欢迎回来！\p"
+    .string "你已经在城都证明了自己，\p"
+    .string "集齐了八枚徽章，还曾打败过我。\p"
+    .string "如今，你站上了更大的舞台——\p"
+    .string "关都联盟！\p"
+    .string "这个地区有自己的考验，也有自己的\n"
+    .string "冠军之路。\p"
+    .string "这一次，我会拿出更强的队伍，成为\n"
+    .string "你最后的对手。\p"
+    .string "这才是真正的考验，\p"
+    .string "这场对战将决定关都冠军。\p"
+    .string "准备好迎接新的挑战了吗？\p"
+    .string "准备好再次证明自己了吗？\p"
+    .string "让击败城都联盟的那份实力，再一次\n"
+    .string "展现在我面前吧，冠军！$"
 
 PokemonLeague_ChampionsRoom_Text_BattleIntro:
     .string "阿渡：我一直在等你。\p"
@@ -425,6 +420,6 @@ PokemonLeague_ChampionsRoom_Text_MaryNoInterview:
     .string "！$"
 
 PokemonLeague_ChampionsRoom_Text_RematchMaryNoInterview:
-    .string "MARY: Come on! You can't blow off\n"
-    .string "the interview AGAIN!$"
+    .string "玛莉：真是的！你可不能“又”把采\n"
+    .string "访晾在一边啊！$"
 

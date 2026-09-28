@@ -21,7 +21,7 @@ BattleFrontier_Lounge8_Text_WhatATrainerNeeds_hns:
 	.string "还有才能......\p"
 	.string "好，我已经全都具备了！我在每座设\n"
 	.string "施里都会所向披靡！\p"
-	.string "Huh？宝可梦？那是啥？$"
+	.string "咦？宝可梦？那是啥？$"
 
 BattleFrontier_Lounge8_Text_KnowAboutFrontierBrains_hns:
 	.string "你知道对战开拓区首领吗？\p"

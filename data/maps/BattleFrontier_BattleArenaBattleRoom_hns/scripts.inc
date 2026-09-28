@@ -567,7 +567,7 @@ BattleFrontier_BattleArenaBattleRoom_Text_YouLookWeakTakeThingsEasy_hns:
 	.string "该怎么说呢......直白点讲，\n"
 	.string "你看起来挺弱的。你真的有把握对付\l"
 	.string "我吗？\p"
-	.string "Hmm......\p"
+	.string "嗯......\p"
 	.string "嘛，算了！一开始我就先放点水吧！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_IgniteMyPassionForBattle_hns:

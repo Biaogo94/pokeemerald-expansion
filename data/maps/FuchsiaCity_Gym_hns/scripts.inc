@@ -105,8 +105,8 @@ FuchsiaCity_Gym_Text_Janine_GiveTM:
 	.string "的礼物送你！$"
 
 FuchsiaCity_Gym_Text_Janine_ExplainTM:
-	.string "It's POISON JAB, a powerful Poison-type\n"
-	.string "move that may poison its victim.$"
+	.string "这是“毒击”，一记强力的毒属性招\n"
+	.string "式，有时还能让对手陷入中毒状态。$"
 
 FuchsiaCity_Gym_Text_Janine_ApplyMyself:
 	.string "阿杏：我也要全力以赴，好好磨砺自\n"

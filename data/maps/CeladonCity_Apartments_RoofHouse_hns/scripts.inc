@@ -61,9 +61,9 @@ CeladonMansionRoofHouse_Text_PharmacistStory:
 	.string "习器82就送给你吧！$"
 
 CeladonMansionRoofHouse_Text_PharmacistCurse:
-	.string "TM82 is SLEEP TALK.\p"
-	.string "It will allow your POKéMON to use\n"
-	.string "a random move while asleep.\p"
-	.string "But good luck sleeping after that\n"
-	.string "terrifying tale!$"
+	.string "招式学习器82是“梦话”。\p"
+	.string "可以让你的宝可梦在睡眠状态下随机\n"
+	.string "使出学会的招式。\p"
+	.string "不过听了这么恐怖的故事，祝你今晚\n"
+	.string "还能睡得着觉！$"
 

@@ -149,32 +149,31 @@ MrPokemonHouse_Movement_MrPokemon_Leave:
 	step_end
 
 MrPokemonHouse_Text_Intro1:
-	.string "Hello, hello! You must be\n"
-	.string "{PLAYER}.\p"
-	.string "PROF.ELM said that you would\n"
-	.string "visit.$"
+	.string "你好呀，你好呀！你就是\n"
+	.string "{PLAYER}吧。\p"
+	.string "空木博士跟我说过你会过来。$"
 
 MrPokemonHouse_Text_Intro2:
-	.string "This is what I want PROF.ELM\n"
-	.string "to examine.$"
+	.string "这就是我想拜托空木博士调查的东\n"
+	.string "西。$"
 
 MrPokemonHouse_Text_GotEgg:
 	.string "{PLAYER}收下了不思议的蛋\n"
 	.string "。$"
 
 MrPokemonHouse_Text_Intro3:
-	.string "I know a couple who run a\n"
-	.string "POKéMON DAY-CARE service.\p"
-	.string "They gave me that EGG.\p"
-	.string "I was intrigued, so I sent\n"
-	.string "mail to PROF.ELM.\p"
-	.string "For POKéMON evolution,\n"
-	.string "PROF.ELM is the authority.$"
+	.string "我认识一对经营宝可梦培育屋的夫\n"
+	.string "妇。\p"
+	.string "这个蛋就是他们给我的。\p"
+	.string "我觉得很有意思，就给空木博士发了\n"
+	.string "邮件。\p"
+	.string "说到宝可梦的进化，空木博士可是这\n"
+	.string "方面的权威啊。$"
 
 
 MrPokemonHouse_Text_Intro4:
-	.string "Even PROF.OAK here recognizes\n"
-	.string "that.$"
+	.string "就连身旁的这位大木博士也是这么认\n"
+	.string "可的呢。$"
 
 MrPokemonHouse_Text_Intro5:
 	.string "如果我的推断没错的话，空木博士应\n"

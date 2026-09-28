@@ -71,13 +71,13 @@ const u8 gText_SelectPokedexListingMode[] = _("选择宝可梦图鉴的排列模
 const u8 gText_ListByFirstLetter[] = _("按名字的首字母排序。仅限已发现的\n宝可梦。");
 const u8 gText_ListByBodyColor[] = _("按身体颜色排序。仅限已发现的宝可\n梦。");
 const u8 gText_ListByType[] = _("按属性排序。仅限已捉到的宝可梦。");
-const u8 gText_ExecuteSearchSwitch[] = _("Execute search/switch.");
+const u8 gText_ExecuteSearchSwitch[] = _("执行搜索或切换。");
 #if IS_HNS
-const u8 gText_DexHoennTitle[] = _("JOHTO DEX");
+const u8 gText_DexHoennTitle[] = _("城都图鉴");
 #else
-const u8 gText_DexHoennTitle[] = _("HOENN DEX");
+const u8 gText_DexHoennTitle[] = _("丰缘图鉴");
 #endif
-const u8 gText_DexNatTitle[] = _("NATIONAL DEX");
+const u8 gText_DexNatTitle[] = _("全国图鉴");
 const u8 gText_DexSortNumericalTitle[] = _("编号模式");
 const u8 gText_DexSortAtoZTitle[] = _("首字顺模式");
 const u8 gText_DexSortHeaviestTitle[] = _("最重模式");
@@ -102,13 +102,13 @@ const u8 gText_DexSearchColorBrown[] = _("褐色");
 const u8 gText_DexSearchColorPurple[] = _("紫色");
 const u8 gText_DexSearchColorGray[] = _("灰色");
 const u8 gText_DexSearchColorWhite[] = _("白色");
-const u8 gText_DexSearchColorPink[] = _("PINK");
+const u8 gText_DexSearchColorPink[] = _("粉色");
 #if IS_HNS
-const u8 gText_DexHoennDescription[] = _("JOHTO region's POKéDEX");
+const u8 gText_DexHoennDescription[] = _("城都地区的宝可梦图鉴");
 #else
-const u8 gText_DexHoennDescription[] = _("HOENN region's POKéDEX");
+const u8 gText_DexHoennDescription[] = _("丰缘地区的宝可梦图鉴");
 #endif
-const u8 gText_DexNatDescription[] = _("National edition POKéDEX");
+const u8 gText_DexNatDescription[] = _("全国版本的宝可梦图鉴");
 const u8 gText_DexSortNumericalDescription[] = _("宝可梦将按照编号顺序列出。");
 const u8 gText_DexSortAtoZDescription[] = _("已发现和已捉到的宝可梦将按首字母\n顺序列出。");
 const u8 gText_DexSortHeaviestDescription[] = _("已捉到的宝可梦将按从重到轻顺序列\n出。");
@@ -171,13 +171,13 @@ const u8 gText_MoveVar1Where[] = _("要将{STR_VAR_1}移动到\n哪个位置？"
 const u8 gText_Var1CantBeHeld[] = _("无法携带{STR_VAR_1}！");
 const u8 gText_TossHowManyVar1s[] = _("扔掉多少个{STR_VAR_1}\n？");
 const u8 gText_ThrewAwayVar2Var1s[] = _("把{STR_VAR_2}个\n{STR_VAR_1}扔掉了。");
-const u8 gText_ConfirmTossItems[] = _("Is it okay to\nthrow away {STR_VAR_2}\n{STR_VAR_1}?");
+const u8 gText_ConfirmTossItems[] = _("要丢弃{STR_VAR_2}个\n{STR_VAR_1}吗？");
 #if IS_HNS
-    const u8 gText_DadsAdvice[] = _("ELM's advice…\n{PLAYER}, there's a time and place for\leverything!{PAUSE_UNTIL_PRESS}");
+    const u8 gText_DadsAdvice[] = _("空木博士说过……\n{PLAYER}，做什么事都要挑对\l时间和地点！{PAUSE_UNTIL_PRESS}");
 #else
-    const u8 gText_DadsAdvice[] = _("DAD's advice…\n{PLAYER}, there's a time and place for\leverything!{PAUSE_UNTIL_PRESS}");
+    const u8 gText_DadsAdvice[] = _("爸爸说过……\n{PLAYER}，做什么事都要挑对\l时间和地点！{PAUSE_UNTIL_PRESS}");
 #endif
-const u8 gText_PlayerUsedVar2[] = _("{PLAYER} used the\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}");
+const u8 gText_PlayerUsedVar2[] = _("{PLAYER}使用了\n{STR_VAR_2}。{PAUSE_UNTIL_PRESS}");
 const u8 gText_RepelEffectsLingered[] = _("之前使用的喷雾效果还留着！\n{PAUSE_UNTIL_PRESS}");
 const u8 gText_LureEffectsLingered[] = _("之前使用的香水效果还留着！\n{PAUSE_UNTIL_PRESS}");
 const u8 gText_BoxFull[] = _("这个盒子满了。\n{PAUSE_UNTIL_PRESS}");
@@ -221,10 +221,10 @@ const u8 *const gPocketNamesStringsTable[] =
     [POCKET_TM_HM]  =       COMPOUND_STRING("招式学习器"),
     [POCKET_BERRIES] =      COMPOUND_STRING("树  果"),
     [POCKET_KEY_ITEMS] =    COMPOUND_STRING("重要物品"),
-    [POCKET_MEDICINE] =     COMPOUND_STRING("MEDICINE"),
+    [POCKET_MEDICINE] =     COMPOUND_STRING("伤  药"),
 #if I_COMBINE_BAG_POCKETS == FALSE
-    [POCKET_BATTLE_ITEMS] = COMPOUND_STRING("BATTLE"),
-    [POCKET_TREASURES] =    COMPOUND_STRING("TREASURES"),
+    [POCKET_BATTLE_ITEMS] = COMPOUND_STRING("对战道具"),
+    [POCKET_TREASURES] =    COMPOUND_STRING("珍  宝"),
 #endif
 };
 
@@ -534,12 +534,12 @@ const u8 gText_Key_Items[] = _("重要宝物");
 const u8 gText_Poke_Balls[] = _("精灵球");
 const u8 gText_TMs_Hms[] = _("招式学习器");
 const u8 gText_Berries2[] = _("树果");
-const u8 gText_Medicine[] = _("MEDICINE");
+const u8 gText_Medicine[] = _("伤药");
 #if I_COMBINE_BAG_POCKETS == FALSE
-const u8 gText_BattleItems[] = _("BATTLE ITEMS");
-const u8 gText_Treasures[] = _("TREASURES");
+const u8 gText_BattleItems[] = _("对战道具");
+const u8 gText_Treasures[] = _("珍宝");
 #endif
-const u8 gText_SomeonesPC[] = _("SOMEONE'S PC");
+const u8 gText_SomeonesPC[] = _("某人的电脑");
 const u8 gText_LanettesPC[] = _("真由美的电脑");
 const u8 gText_BillsPc[] = _("正辉的电脑");
 const u8 gText_PlayersPC[] = _("{PLAYER}的电脑");
@@ -557,7 +557,7 @@ const u8 gText_MenuOptionPokedex[] = _("图鉴");
 const u8 gText_MenuOptionPokemon[] = _("宝可梦");
 const u8 gText_MenuOptionBag[] = _("BAG");
 #if IS_HNS
-const u8 gText_MenuOptionPokenav[] = _("POKéGEAR");
+const u8 gText_MenuOptionPokenav[] = _("宝可梦齿轮");
 #else
 const u8 gText_MenuOptionPokenav[] = _("POKéNAV");
 #endif
@@ -746,11 +746,11 @@ const u8 gText_First[] = _("一等");
 const u8 gText_Second[] = _("二等");
 const u8 gText_Third[] = _("third");
 #if OW_POISON_DAMAGE < GEN_4
-const u8 gText_PkmnFainted_FldPsn[] = _("{STR_VAR_1} fainted…\p\n");
+const u8 gText_PkmnFainted_FldPsn[] = _("{STR_VAR_1}倒下了……\p\n");
 #else
-const u8 gText_PkmnFainted_FldPsn[] = _("{STR_VAR_1} survived the poisoning.\nThe poison faded away!\p");
+const u8 gText_PkmnFainted_FldPsn[] = _("{STR_VAR_1}挺过了中毒。\n毒素已经消退了！\p");
 #endif
-const u8 gText_PkmnSurvived_FldPsn[] = _("{STR_VAR_1} survived the poisoning.\nThe poison faded away!\p");
+const u8 gText_PkmnSurvived_FldPsn[] = _("{STR_VAR_1}挺过了中毒。\n毒素已经消退了！\p");
 const u8 gText_Marco[] = _("马可");
 const u8 gText_TrainerCardName[] = _("名字：");
 const u8 gText_TrainerCardIDNo[] = _("IDNo.");
@@ -1002,7 +1002,7 @@ const u8 gText_FrontierFacilityTotalCaughtSpeciesBanned[] = _("和{STR_VAR_2}种
 const u8 gText_FrontierFacilityIncluding[] = _("！\p其中包括");
 const u8 gText_FrontierFacilityAreInelegible[] = _("无法参加");
 
-const u8 gText_YesNo[] = _("是否");
+const u8 gText_YesNo[] = _("是\n否");
 const u8 gText_SelectorArrow3[] = _("▶");
 const u8 gText_Peekaboo[] = _("躲猫猫！");
 const u8 gText_CommErrorCheckConnections[] = _("发生连接错误……请检查所有的连接\n，然后关机重启。");
@@ -1027,7 +1027,7 @@ const u8 gText_MenuPokedex[] = _("图鉴");
 const u8 gText_MenuPokemon[] = _("宝可梦");
 const u8 gText_MenuBag[] = _("BAG");
 #if IS_HNS
-const u8 gText_MenuPokenav[] = _("{POKE}GEAR");
+const u8 gText_MenuPokenav[] = _("宝可梦齿轮");
 #else
 const u8 gText_MenuPokenav[] = _("POKéNAV");
 #endif
@@ -1059,7 +1059,7 @@ const u8 gJPText_Player[] = _("玩家"); // Unused
 const u8 gJPText_Sama[] = _("大人"); // Unused
 const u8 gText_DexHoenn[] = _("丰缘");
 const u8 gText_DexNational[] = _("全国");
-const u8 gText_PokedexDiploma[] = _("PLAYER: {CLEAR 0x10}{COLOR RED}{SHADOW LIGHT_RED}{PLAYER}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}\n\nThis document certifies\nthat you have successfully\ncompleted your\n{STR_VAR_1} POKéDEX.\n\n{CLEAR_TO 0x42}{COLOR RED}{SHADOW LIGHT_RED}GAME FREAK");
+const u8 gText_PokedexDiploma[] = _("训练家：{CLEAR 0x10}{COLOR RED}{SHADOW LIGHT_RED}{PLAYER}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}\n\n兹证明你已成功\n完成{STR_VAR_1}\n宝可梦图鉴。\n\n{CLEAR_TO 0x42}{COLOR RED}{SHADOW LIGHT_RED}GAME FREAK");
 const u8 gJPText_GameFreak[] = _("{COLOR RED}{SHADOW LIGHT_RED}GAME FREAK"); // Unused
 const u8 gText_DiplomaEmpty[] = _("{COLOR RED}{SHADOW LIGHT_RED}"); // Unused
 const u8 gText_Hoenn[] = _("丰缘");

@@ -36,8 +36,8 @@ ViridianCity_House1_Text_PokefanM:
 	.string "更有乐趣哦。$"
 
 ViridianCity_House1_Text_Lass:
-	.string "They're SPEARY--a SPEAROW--and\n"
-	.string "RATTEY--a RATTATA.$"
+	.string "它们是烈雀“雀宝”和小拉达“拉达\n"
+	.string "宝”。$"
 
 ViridianCity_House1_Text_Speary:
 	.string "雀宝：啾啾！$"

@@ -99,146 +99,123 @@ Route38_EventScript_Item_LaxIncense::
 	end
 
 Route38_Text_BirdKeeperTobySeen:
-	.string "Fly high into the sky,\n"
-	.string "my beloved bird POKéMON!$"
+	.string "向着天空高高飞翔吧，我心爱的鸟宝\n"
+	.string "可梦！$"
 
 Route38_Text_BirdKeeperTobyBeaten:
-	.string "I feel like just flying\n"
-	.string "away now.$"
+	.string "现在我也想直接飞走算了。$"
 
 Route38_Text_BirdKeeperTobyAfter:
-	.string "I plan to train in CIANWOOD CITY\n"
-	.string "to teach my POKéMON how to FLY.$"
+	.string "我打算去湛蓝市修行，去教会我的宝\n"
+	.string "可梦“飞翔”。$"
 
 Route38_Text_SchoolboyChad1Seen:
-	.string "Let me try something\n"
-	.string "I learned today.$"
+	.string "让我来试试今天学到的东西吧。$"
 
 Route38_Text_SchoolboyChad1Beaten:
-	.string "I didn't study enough,\n"
-	.string "I guess.$"
+	.string "看来我的学习还不够充分啊。$"
 
 Route38_Text_SchoolboyChadAfter:
-	.string "I have to take so many\n"
-	.string "tests, I don't have much\l"
-	.string "time for POKéMON.\p"
-	.string "So when I do get to play,\n"
-	.string "I really concentrate.$"
+	.string "我得应付好多考试，所以没有太多时\n"
+	.string "间留给宝可梦。\p"
+	.string "因此每次有机会玩的时候，我都格外\n"
+	.string "专注。$"
 
 Route38_Text_ChadRegister:
-	.string "I have to take so many\n"
-	.string "tests, I don't have much\l"
-	.string "time for POKéMON.\p"
-	.string "So when I do get to play,\n"
-	.string "I really concentrate.$"
+	.string "我得应付好多考试，所以没有太多时\n"
+	.string "间留给宝可梦。\p"
+	.string "因此每次有机会玩的时候，我都格外\n"
+	.string "专注。$"
 
 Route38_Text_ChadRematchIntro:
-	.string "Let me try something\n"
-	.string "I learned today.$"
+	.string "让我来试试今天学到的东西吧。$"
 
 Route38_Text_ChadRematchDefeat:
-	.string "I didn't study enough,\n"
-	.string "I guess.$"
+	.string "看来我的学习还不够充分啊。$"
 
 Route38_Text_ChadPostRematch:
-	.string "I have to take so many\n"
-	.string "tests, I don't have much\l"
-	.string "time for POKéMON.\p"
-	.string "So when I do get to play,\n"
-	.string "I really concentrate.$"
+	.string "我得应付好多考试，所以没有太多时\n"
+	.string "间留给宝可梦。\p"
+	.string "因此每次有机会玩的时候，我都格外\n"
+	.string "专注。$"
 
 Route38_Text_LassDana1Seen:
-	.string "You seem to be good at\n"
-	.string "POKéMON.\p"
-	.string "If you are, how about\n"
-	.string "giving me some advice?$"
+	.string "你好像很擅长宝可梦对战呢。\p"
+	.string "既然如此，能不能给我点建议呀？$"
 
 Route38_Text_LassDana1Beaten:
-	.string "I see. So you can battle\n"
-	.string "that way.$"
+	.string "原来如此。也可以用那种方式战斗\n"
+	.string "呀。$"
 
 Route38_Text_LassDanaAfter:
-	.string "I know something good!\p"
-	.string "MOOMOO FARM's milk is\n"
-	.string "famous for its flavor.$"
+	.string "我知道一件好事哦！\p"
+	.string "哞哞牧场的鲜奶可是出了名的美味。$"
 
 Route38_Text_BeautyValerieSeen:
-	.string "Hi! Aren't you a cute\n"
-	.string "trainer!\p"
-	.string "May I see your POKéMON?$"
+	.string "你好！你可真是个可爱的小训练家！\p"
+	.string "能让我看看你的宝可梦吗？$"
 
 Route38_Text_BeautyValerieBeaten:
-	.string "I'm glad I got to see\n"
-	.string "your POKéMON!$"
+	.string "能看到你的宝可梦，我真高兴！$"
 
 Route38_Text_BeautyValerieAfter:
-	.string "When I see POKéMON, it\n"
-	.string "seems to soothe my nerves.$"
+	.string "看到宝可梦，感觉心情都放松下来\n"
+	.string "了。$"
 
 Route38_Text_SailorHarrySeen:
-	.string "I've been overseas, so I\n"
-	.string "know about all sorts of\l"
-	.string "POKéMON!$"
+	.string "我去过国外，所以认识各种各样的宝\n"
+	.string "可梦哦！$"
 
 Route38_Text_SailorHarryBeaten:
 	.string "你的实力堪称世界级！$"
 
 Route38_Text_SailorHarryAfter:
-	.string "All kinds of people around\n"
-	.string "the world live happily with\l"
-	.string "POKéMON.$"
+	.string "全世界形形色色的人们都与宝可梦快\n"
+	.string "乐地生活在一起。$"
 
 Route38_Text_BeautyOliviaSeen:
-	.string "Don't you think my POKéMON\n"
-	.string "and I are beautiful?$"
+	.string "你不觉得我和我的宝可梦都很美吗？$"
 
 Route38_Text_BeautyOliviaBeaten:
 	.string "我们每天都喝哞哞鲜奶呢。$"
 
 Route38_Text_BeautyOliviaAfter:
-	.string "MOOMOO MILK is good for\n"
-	.string "beauty and health,\p"
-	.string "but inconveniently, they\n"
-	.string "only sell one bottle at a time.$"
+	.string "哞哞鲜奶不仅美容还对健康有益，\p"
+	.string "不过不太方便的是，他们一次只卖一\n"
+	.string "瓶。$"
 
 Route38_Text_Sign:
 	.string "38号道路\p"
 	.string "浅黄市 - 圆朱市$"
 
 Route38_Text_TrainerTips:
-	.string "TRAINER TIPS\p"
-	.string "If a POKéMON is trying to\n"
-	.string "evolve, you can stop it.\p"
-	.string "Press the B Button during\n"
-	.string "evolution to cancel it.\p"
-	.string "That startles the POKéMON\n"
-	.string "and stops its evolution.$"
+	.string "宝可梦指南\p"
+	.string "宝可梦开始进化时是可以阻止它的。\p"
+	.string "在进化过程中按下B键就能取消进\n"
+	.string "化。\p"
+	.string "宝可梦会吓一跳并停止进化。$"
 
 
 Route38_Text_WaterSign:
-	.string "NO SWIMMING OR FISHING.\n"
-	.string "WATER FOR FARMING ONLY.\p"
-	.string "-ECRUTEAK COUNCIL$"
+	.string "禁止游泳与垂钓。本水域仅供农业灌\n"
+	.string "溉使用。\p"
+	.string "--圆朱市管理委员会$"
 
 Route38_Text_DanaRegister:
-	.string "I know something good!\p"
-	.string "MOOMOO FARM's milk is\n"
-	.string "famous for its flavor.$"
+	.string "我知道一件好事哦！\p"
+	.string "哞哞牧场的鲜奶可是出了名的美味。$"
 
 Route38_Text_DanaRematchIntro:
-	.string "You seem to be good at\n"
-	.string "POKéMON.\p"
-	.string "If you are, how about\n"
-	.string "giving me some advice?$"
+	.string "你好像很擅长宝可梦对战呢。\p"
+	.string "既然如此，能不能给我点建议呀？$"
 
 Route38_Text_DanaRematchDefeat:
-	.string "I see. So you can battle\n"
-	.string "that way.$"
+	.string "原来如此。也可以用那种方式战斗\n"
+	.string "呀。$"
 
 Route38_Text_DanaPostRematch:
-	.string "I know something good!\p"
-	.string "MOOMOO FARM's milk is\n"
-	.string "famous for its flavor.$"
+	.string "我知道一件好事哦！\p"
+	.string "哞哞牧场的鲜奶可是出了名的美味。$"
 
 Route38_Text_DanaHasItem:
 	.string "喂！我发现了好玩的东西！\p"
@@ -249,5 +226,5 @@ Route38_Text_DanaGaveItem:
 	.string "的！$"
 
 Route38_Text_DanaNoRoom:
-	.string "Hmm, your BAG is full.\p"
-	.string "Come back when you have room.$"
+	.string "嗯，你的包包装满了。\p"
+	.string "腾出地方再来找我吧。$"

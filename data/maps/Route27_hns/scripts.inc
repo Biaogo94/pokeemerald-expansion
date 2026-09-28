@@ -173,10 +173,9 @@ Route27_Text_FisherHey:
     .string "喂！$"
 
 Route27_Text_FisherMessage:
-    .string "Do you know what you just did?\p"
-    .string "You've taken your first step into\n"
-    .string "KANTO.\p"
-    .string "Check your POKéGEAR MAP and see.$"
+    .string "知道你刚刚做了什么吗？\p"
+    .string "你已经踏进关都了！\p"
+    .string "打开宝可梦齿轮的地图看看吧。$"
 
 Route27_Text_CooltrainermBlakeSeen:
     .string "你看上去挺强的嘛。来和我对战一场\n"
@@ -291,8 +290,8 @@ Route27_Text_JoseGaveItem:
     .string "的！$"
 
 Route27_Text_JoseNoRoom:
-    .string "Hmm, your BAG is full.\p"
-    .string "Come back when you have room.$"
+    .string "嗯，你的包包装满了。\p"
+    .string "腾出地方再来找我吧。$"
 
 TohjoFalls_Text_Sign:
     .string "都城瀑布\p"

@@ -89,32 +89,31 @@ CianwoodCity_EventScript_ChucksWifeAlreadyHasFly::
 	end
 
 CianwoodCity_Text_ChucksWifeEasierToFly:
-	.string "You crossed the sea to get here?\p"
-	.string "That must have been hard.\p"
-	.string "It would be much easier if your\n"
-	.string "POKéMON knew how to FLY...$"
+	.string "你是一路渡海过来的吗？\p"
+	.string "那可真不容易啊。\p"
+	.string "要是你的宝可梦学会“飞翔”的话，\n"
+	.string "就会轻松得多了......$"
 
 CianwoodCity_Text_ChucksWifeBeatChuck:
-	.string "But you can't use FLY without this\n"
-	.string "city's GYM BADGE.\p"
-	.string "If you beat the GYM LEADER here,\n"
-	.string "come see me.\p"
-	.string "I'll have a nice gift for you.$"
+	.string "不过要是没有这个城市的道馆徽章，\n"
+	.string "是没法在外面使用“飞翔”的。\p"
+	.string "如果你打败了这里的道馆馆主，就来\n"
+	.string "找我吧。\p"
+	.string "我会送你一份好礼物的。$"
 
 CianwoodCity_Text_ChucksWifeGiveHM:
 	.string "那是湛蓝道馆的徽章！\p"
 	.string "那么这顶秘传学习器就交给你了。$"
 
 CianwoodCity_Text_ChucksWifeFlySpeech:
-	.string "Teach FLY to your POKéMON.\p"
-	.string "You will be able to FLY instantly\n"
-	.string "to anywhere you have visited.$"
+	.string "把“飞翔”教给你的宝可梦吧。\p"
+	.string "这样就能瞬间飞到任何你曾去过的地\n"
+	.string "方了。$"
 
 CianwoodCity_Text_ChucksWifeChubby:
-	.string "My husband lost to you, so he needs\n"
-	.string "to train harder.\p"
-	.string "That's good, since he was getting\n"
-	.string "a little chubby.$"
+	.string "我丈夫输给了你，看来他得更加努力\n"
+	.string "修行了。\p"
+	.string "这挺好的，正好他最近长胖了一点。$"
 
 CianwoodCity_EventScript_Youngster::
 	lock
@@ -125,8 +124,8 @@ CianwoodCity_EventScript_Youngster::
 	end
 
 CianwoodCity_Text_Youngster:
-	.string "If you use FLY, you can get back\n"
-	.string "to OLIVINE instantly.$"
+	.string "如果使用“飞翔”，就能瞬间回到浅\n"
+	.string "黄市了。$"
 
 CianwoodCity_EventScript_PokefanM::
 	lock
@@ -137,11 +136,10 @@ CianwoodCity_EventScript_PokefanM::
 	end
 
 CianwoodCity_Text_PokefanM:
-	.string "Boulders to the north of town can\n"
-	.string "be crushed.\p"
-	.string "They may be hiding something.\p"
-	.string "Your POKéMON could use ROCK SMASH\n"
-	.string "to break them.$"
+	.string "小镇北边的岩石是可以打碎的。\p"
+	.string "里面可能藏着什么东西呢。\p"
+	.string "让你的宝可梦使用“碎岩”就能把它\n"
+	.string "们击碎。$"
 
 CianwoodCity_EventScript_Lass::
 	lock
@@ -152,8 +150,8 @@ CianwoodCity_EventScript_Lass::
 	end
 
 CianwoodCity_Text_Lass:
-	.string "CHUCK, the GYM LEADER, spars with\n"
-	.string "his fighting POKéMON.$"
+	.string "道馆馆主阿四经常和自己的格斗宝可\n"
+	.string "梦一起对练。$"
 
 CianwoodCity_EventScript_SuicuneTrigger::
 	lock
@@ -271,20 +269,21 @@ CianwoodCity_Movement_Eusine3:
 	step_end
 
 CianwoodCity_Text_EusineSuicune:
-	.string "EUSINE: Yo, {PLAYER}.\p"
-	.string "Wasn't that SUICUNE just now?\p"
-	.string "I only caught a quick glimpse, but\n"
-	.string "I thought I saw SUICUNE running on\l"
-	.string "the waves.\p"
-	.string "SUICUNE is beautiful and grand.\p"
-	.string "And it races through towns and\n"
-	.string "roads at simply awesome speeds.\p"
-	.string "It's wonderful…\p"
-	.string "I want to see SUICUNE up close…\p"
-	.string "I've decided.\p"
-	.string "I'll battle you as a trainer to\n"
-	.string "earn SUICUNE's respect!\p"
-	.string "Come on, {PLAYER}. Let's battle now!$"
+	.string "米那君：哟，{PLAYER}。\p"
+	.string "刚才那是水君吧？\p"
+	.string "虽然只是惊鸿一瞥，但我好像看见水\n"
+	.string "君在浪尖上奔跑。\p"
+	.string "水君是如此美丽而威严。\p"
+	.string "在城镇与道路上以惊人的速度疾驰而\n"
+	.string "去。\p"
+	.string "真是太美妙了......\p"
+	.string "好想近距离看一眼水君啊....\n"
+	.string "..\p"
+	.string "我决定了。\p"
+	.string "为了赢得水君的认可，我要以训练家\n"
+	.string "的身份与你对战！\p"
+	.string "来吧，{PLAYER}。现在就来\n"
+	.string "对战！$"
 
 CianwoodCity_Text_EusineBeaten:
 	.string "虽然很不甘心，但我输了。$"

@@ -214,12 +214,11 @@ MoveTutor_Text_ExplosionTaught:
 	.string "也许内心深处，我更想留在这儿……$"
 
 MoveTutor_Text_HeadbuttTeach:
-	.string "What am I doing?\p"
-	.string "I'm shaking trees using HEADBUTT.\p"
-	.string "Do you think your POKéMON will\n"
-	.string "want to HEADBUTT, too?\p"
-	.string "I can teach one the move HEADBUTT\n"
-	.string "if you'd like. It's fun!$"
+	.string "问我在干什么？\p"
+	.string "我正在用头锤撞树呢。\p"
+	.string "你觉得你的宝可梦也想试试头锤吗？\p"
+	.string "如果你愿意的话，我可以把“头锤”\n"
+	.string "传授给它。可好玩了！$"
 	
 MoveTutor_Text_HeadbuttWhichMon:
 	.string "嘿嘿，好嘞！要是那只宝可梦长得像\n"

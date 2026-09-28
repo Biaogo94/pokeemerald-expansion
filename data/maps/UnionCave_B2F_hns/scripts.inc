@@ -50,18 +50,18 @@ UnionCave_B2F_EventScript_Item_MaxRevive::
 	end
 
 UnionCave_B2F_Text_CooltrainermNickSeen:
-	.string "There are two kinds of people.\p"
-	.string "Those who have style, and those\n"
-	.string "who don't.\p"
-	.string "What kind of person are you?$"
+	.string "世上有两种人。\p"
+	.string "一种是有格调的人，另一种则是没有\n"
+	.string "格调的人。\p"
+	.string "你是哪种人呢？$"
 
 UnionCave_B2F_Text_CooltrainermNickBeaten:
 	.string "你的格调真是光彩夺目！$"
 
 UnionCave_B2F_Text_CooltrainermNickAfter:
-	.string "Your POKéMON style is stunning and\n"
-	.string "colorful, I admit.\p"
-	.string "You'll just keep getting better!$"
+	.string "我承认，你的宝可梦风格绚丽又多姿\n"
+	.string "多彩。\p"
+	.string "你一定会变得越来越棒的！$"
 
 UnionCave_B2F_Text_CooltrainerfGwenSeen:
 	.string "我正在特训。要来过过招吗？$"
@@ -70,19 +70,20 @@ UnionCave_B2F_Text_CooltrainerfGwenBeaten:
 	.string "呜哇，不行！你实在太厉害了。$"
 
 UnionCave_B2F_Text_CooltrainerfGwenAfter:
-	.string "I'm going to train by myself until I\n"
-	.string "improve.$"
+	.string "在变强之前，我还是自己一个人继续\n"
+	.string "特训吧。$"
 
 UnionCave_B2F_Text_CooltrainerfEmmaSeen:
-	.string "If the POKéMON I liked were there,\n"
-	.string "I'd go anywhere.\p"
-	.string "That's what a real trainer does.$"
+	.string "只要有我喜欢的宝可梦在，天涯海角\n"
+	.string "我都愿意去。\p"
+	.string "这才称得上是真正的训练家。$"
 
 UnionCave_B2F_Text_CooltrainerfEmmaBeaten:
 	.string "与其做这个，我还不如去摸摸我的小\n"
 	.string "宝贝们！$"
 
 UnionCave_B2F_Text_CooltrainerfEmmaAfter:
-	.string "Just once a week, a POKéMON comes to\n"
-	.string "the water's edge.\p"
-	.string "I wanted to see that POKéMON…$"
+	.string "每周只有一次，会有一只宝可梦来到\n"
+	.string "水边。\p"
+	.string "我好想亲眼见见那只宝可梦啊..\n"
+	.string "....$"

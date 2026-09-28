@@ -18,12 +18,11 @@ EcruteakCity_House1_EventScript_Youngster::
 	end
 
 EcruteakLugiaSpeechHouse_Text_Gramps:
-	.string "This happened when I was young.\p"
-	.string "The sky suddenly turned black. A\n"
-	.string "giant flying POKéMON was blocking\l"
-	.string "out the sun.\p"
-	.string "I wonder what that POKéMON was?\p"
-	.string "It was like a bird and a dragon.$"
+	.string "这是我年轻时发生的事了。\p"
+	.string "天空突然变得一片漆黑。一只巨大的\n"
+	.string "飞行宝可梦遮住了太阳。\p"
+	.string "那究竟是什么宝可梦呢？\p"
+	.string "它既像一只大鸟，又像一条巨龙。$"
 
 EcruteakLugiaSpeechHouse_Text_Youngster:
 	.string "真的有那么巨大的宝可梦吗？\p"

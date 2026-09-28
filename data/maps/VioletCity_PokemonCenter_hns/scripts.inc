@@ -142,39 +142,37 @@ VioletCity_PokeCenter_Text_ElmsAideFullParty:
 	.string "等着你。$"
 
 VioletCity_PokeCenter_Text_ElmsAideEggToPC:
-	.string "Oh, but you can't carry any more\n"
-	.string "POKéMON with you.\p"
-	.string "Don't worry--I sent the EGG to\n"
-	.string "BILL'S PC for you.$"
+	.string "哎呀，你的同行宝可梦已经带不下了\n"
+	.string "呢。\p"
+	.string "别担心--我已经帮你把宝可梦蛋送\n"
+	.string "到正辉的电脑里去了。$"
 
 VioletCity_PokeCenter_Text_ElmsAideRefuse:
 	.string "可、可是......空木博士有事\n"
 	.string "找你......$"
 
 VioletCity_PokeCenter_Text_BooksAreGreat:
-	.string "While my POKéMON are recovering\n"
-	.string "I love to read a good book.$"
+	.string "在宝可梦恢复体力的时候，我最喜欢\n"
+	.string "读一本好书了。$"
 
 VioletCity_PokeCenter_Text_MobileAdapter:
-	.string "I just battled a friend in\n"
-	.string "CIANWOOD over a link.\p"
-	.string "If you connect a MOBILE ADAPTER,\n"
-	.string "you can link with a friend far\l"
-	.string "away.$"
+	.string "我刚刚通过联机和湛蓝市的朋友对战\n"
+	.string "了一场。\p"
+	.string "只要连接上移动适配器，就能和远方\n"
+	.string "的朋友进行联机哦。$"
 
 VioletCity_PokeCenter_Text_GameboyKid:
-	.string "A guy named BILL made the\n"
-	.string "POKéMON PC storage system.$"
+	.string "有个叫正辉的人开发了宝可梦电脑存\n"
+	.string "储系统。$"
 
 VioletCity_PokeCenter_Text_Gentleman:
-	.string "It was around three years ago.\p"
-	.string "TEAM ROCKET was up to no good\n"
-	.string "with POKéMON.\p"
-	.string "But justice prevailed--a young\n"
-	.string "kid broke 'em up.$"
+	.string "那大概是三年前的事了。\p"
+	.string "火箭队利用宝可梦到处作恶。\p"
+	.string "但正义最终战胜了邪恶--一个年轻\n"
+	.string "的少年把他们彻底瓦解了。$"
 
 VioletCity_PokeCenter_Text_Youngster:
-	.string "POKéMON are smart. They won't\n"
-	.string "obey a trainer they don't respect.\p"
-	.string "Without the right GYM BADGES,\n"
-	.string "they will just do as they please.$"
+	.string "宝可梦可是很聪明的。它们不会听从\n"
+	.string "自己不尊敬的训练家的指挥。\p"
+	.string "要是没有相应的道馆徽章，它们就会\n"
+	.string "自作主张、随心所欲。$"

@@ -121,7 +121,7 @@ from tools.i18n.extractor import (  # noqa: E402  (import after sys.path bootstr
 # Constants
 # --------------------------------------------------------------------------
 
-#: Full-width CJK glyphs that fit on one GBA dialogue line.
+#: Full-width CJK glyphs that fit on one 192px GBA dialogue line.
 DEFAULT_MAX_CHARS = 16
 
 #: Layout control codes.  ``\n`` and ``\l`` are pure layout and may be
@@ -258,23 +258,50 @@ def _tokenize(text: str) -> List[str]:
     return tokens
 
 
+_CLOSING_PUNCTUATION = frozenset("，。！？、；：,.!?;:…》』)）’”")
+_OPENING_PUNCTUATION = frozenset("《『(（‘“")
+
+
+def _token_width(token: str) -> int:
+    """Measure ordinary text in normal-font pixels; macros reserve their span."""
+    if token.startswith("{"):
+        return len(token) * 12
+    if token.startswith("\\"):
+        return 0
+    return 12 if is_cjk_char(token) else 6
+
+
 def _wrap_paragraph(paragraph: str, max_chars: int) -> str:
-    """Re-flow one paragraph, or return it untouched when it is not Chinese."""
+    """Re-flow Chinese text without leaving closing punctuation at line start."""
     if not has_cjk(paragraph):
-        # English (or any non-CJK) text keeps its authored layout byte for byte.
         return paragraph
 
+    tokens = _tokenize(paragraph)
     lines: List[str] = []
     current: List[str] = []
     width = 0
-    for token in _tokenize(paragraph):
-        token_width = len(token)
-        if current and width + token_width > max_chars:
-            lines.append("".join(current))
-            current = []
-            width = 0
+    max_pixels = max_chars * 12
+    for index, token in enumerate(tokens):
+        token_width = _token_width(token)
+        if current and width + token_width > max_pixels:
+            if token in _CLOSING_PUNCTUATION and len(current) > 1:
+                last = current.pop()
+                lines.append("".join(current))
+                current = [last]
+                width = _token_width(last)
+            else:
+                lines.append("".join(current))
+                current = []
+                width = 0
         current.append(token)
         width += token_width
+        if token in _OPENING_PUNCTUATION and index + 1 < len(tokens):
+            next_width = _token_width(tokens[index + 1])
+            if width + next_width > max_pixels and len(current) > 1:
+                current.pop()
+                lines.append("".join(current))
+                current = [token]
+                width = token_width
     if current or not lines:
         lines.append("".join(current))
 
@@ -282,7 +309,6 @@ def _wrap_paragraph(paragraph: str, max_chars: int) -> str:
     for index, line in enumerate(lines):
         out.append(line)
         if index < len(lines) - 1:
-            # First line ends with a newline; every later break scrolls.
             out.append(NEWLINE if index == 0 else SCROLL)
     return "".join(out)
 
@@ -627,6 +653,18 @@ def _without_layout_codes(text: str) -> str:
     return _LAYOUT_CODE_RE.sub("", text)
 
 
+def _normalize_translation_literals(translation: str) -> str:
+    """Normalize prose characters that cannot appear in source string literals."""
+    translation = translation.replace("\r\n", "\n").replace("\r", "\n").replace("\n", NEWLINE)
+    if '"' in translation:
+        parts = translation.split('"')
+        translation = parts[0] + "".join(
+            ("“" if index % 2 else "”") + part
+            for index, part in enumerate(parts[1:], 1)
+        )
+    return translation
+
+
 def _guarded_translation(path: str, update: dict) -> Optional[str]:
     """Return the translation to write, or ``None`` if the entry must be skipped.
 
@@ -645,6 +683,7 @@ def _guarded_translation(path: str, update: dict) -> Optional[str]:
         _report_skip(path, update, "entry carries no source string to verify against")
         return None
     try:
+        translation = _normalize_translation_literals(translation)
         validate_translation(_without_layout_codes(source), _without_layout_codes(translation))
     except TranslationFormatError as exc:
         _report_skip(path, update, "format guard rejected the translation (%s)" % exc.code)

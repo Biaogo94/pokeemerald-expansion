@@ -164,16 +164,15 @@ NationlParkBugContest_Text_EnjoyTheContest:
 	.string "接待员：请尽情享受大赛吧！$"
 
 NationalParkBugContest_Text_Attendant:
-	.string "ATTENDANT: Would you like to end\n"
-	.string "the contest?$"
+	.string "接待员：你要结束本次大赛吗？$"
 
 NationalParkBugContest_Text_ContestantBelinda:
-	.string "BELINDA: I'm going to win!\n"
-	.string "Don't bother me.$"
+	.string "贝琳达：优胜一定是我的！别来打扰\n"
+	.string "我。$"
 
 NationalParkBugContest_Text_Contestant2A:
-	.string "ED: My PARASECT puts POKéMON to\n"
-	.string "sleep with SPORE.$"
+	.string "艾德：我的派拉斯特会用“蘑菇孢\n"
+	.string "子”让宝可梦睡着。$"
 
 NationalParkBugContest_Text_ContestantShaun:
 	.string "肖恩：我不在乎拿不拿优胜。\p"
@@ -193,8 +192,8 @@ NationalParkBugContest_Text_Contestant8A:
 	.string "我绝对不可能输给别人的！$"
 
 NationalParkBugContest_Text_Contestant9A:
-	.string "SAMUEL: If you've got the time to\n"
-	.string "chat, go find some bug POKéMON.$"
+	.string "萨缪尔：有闲工夫在这里聊天，还不\n"
+	.string "如快点去抓虫宝可梦。$"
 
 NationalParkBugContest_Text_Contestant10A:
 	.string "基普：我可是好好研究过虫宝可梦的\n"
@@ -202,16 +201,14 @@ NationalParkBugContest_Text_Contestant10A:
 	.string "这次赢的人一定是我。$"
 
 NationalParkBugContest_Text_Sign_RelaxationSquare:
-	.string "RELAXATION SQUARE\n"
-	.string "NATIONAL PARK$"
+	.string "休闲广场自然公园$"
 
 NationalParkBugContest_Text_Sign_BattleNotice:
-	.string "What is this notice?\p"
-	.string "Please battle only in the grass.\p"
-	.string "NATIONAL PARK WARDEN'S OFFICE$"
+	.string "这是什么告示？\p"
+	.string "“宝可梦对战请只在草丛中进行。”\p"
+	.string "--自然公园管理处$"
 
 NationalParkBugContest_Text_TrainerTips:
-	.string "The NATIONAL PARK has different\n"
-	.string "POKéMON during the BUG-CATCHING\l"
-	.string "CONTEST.$"
+	.string "自然公园在举办捕虫大会期间，出现\n"
+	.string "的宝可梦会有所不同。$"
 

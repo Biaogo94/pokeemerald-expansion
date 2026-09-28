@@ -250,37 +250,33 @@ RocketHideout_B2F_Text_ArianaHoldIt:
     .string "雅典娜：给我站住！$"
 
 RocketHideout_B2F_Text_ArianaChallenge:
-    .string "ARIANA: We can't let a brat like you\n"
-    .string "do as you please forever.\p"
-    .string "It'll hurt Team Rocket's pride over\n"
-    .string "and over again. Making it lessen,\l"
-    .string "you see.\p"
-    .string "...So, it's time to finish you.\n"
-    .string "However strong you may be,\p"
-    .string "if the two of us fight at the same\n"
-    .string "time, you'll have no chance of\l"
-    .string "winning. Don't you agree?\p"
-    .string "Hee hee hee! Sorry, baby.\n"
-    .string "Now, get ready to be thrashed.$"
+    .string "雅典娜：我们可不能任由你这种小鬼\n"
+    .string "一直胡作非为下去。\p"
+    .string "这样下去，火箭队的威信迟早会被一\n"
+    .string "点点消磨殆尽的，你明白吗？\p"
+    .string "......所以，是时候做个了结\n"
+    .string "了。不管你有多强，\p"
+    .string "要是我们两个一起上的话，你可就没\n"
+    .string "有半分胜算了哦。对吧？\p"
+    .string "嘿嘿嘿！抱歉啦，\n"
+    .string "小宝贝。乖乖准备挨揍吧。$"
 
 RocketHideout_B2F_Text_LanceInterrupt:
-    .string "LANCE: Hold it!\n"
-    .string "A two-on-one battle?\p"
-    .string "That is so unfair!\n"
-    .string "Typical of Team Rocket to be so\l"
-    .string "sneaky.\p"
-    .string "Allow me to join the battle!$"
+    .string "渡：住手！二对一的战斗？\p"
+    .string "这也太卑鄙了！果然是火箭队一贯的\n"
+    .string "阴险作风。\p"
+    .string "我也来加入这场战斗！$"
 
 RocketHideout_B2F_Text_ArianaOutraged:
-    .string "ARIANA: What? You had an accomplice?\n"
-    .string "Where is your sense of dignity?\p"
-    .string "As interim boss in place of GIOVANNI,\n"
-    .string "I'll show you how wrong it is to meddle\l"
-    .string "with Team Rocket!$"
+    .string "雅典娜：什么？居然还有同伙？你的\n"
+    .string "自尊心都丢到哪里去了？\p"
+    .string "作为代行坂木老大职务的代理首领，\n"
+    .string "我要让你们明白，招惹火箭队会付出\l"
+    .string "怎样沉重的代价！$"
 
 RocketHideout_B2F_Text_LanceChooseMons:
-    .string "LANCE: Quickly {PLAYER}, choose\n"
-	.string "your POKéMON!$"
+    .string "渡：快，{PLAYER}，选出你\n"
+    .string "的宝可梦！$"
 
 RocketHideout_B2F_EventScript_ReadyForBattlePrompt::
 	msgbox RocketHideout_B2F_Text_LanceChooseMons, MSGBOX_DEFAULT
@@ -588,80 +584,70 @@ RocketHideout_B2F_Text_GruntLoss:
     .string "....................$"
 
 RocketHideout_B2F_Text_ArianaLoss:
-    .string "Tch, you really are strong.\n"
-    .string "It's too bad.\p"
-    .string "If you were to join Team Rocket,\n"
-    .string "you could become an Executive.$"
+    .string "切，你果然很强啊。真遗憾。\p"
+    .string "要是你能加入火箭队的话，绝对能当\n"
+    .string "上干部的。$"
 
 RocketHideout_Text_ArianaRetreat:
-    .string "ARIANA: But that's fine.\n"
-    .string "The broadcast experiment was a\l"
-    .string "total success.\p"
-    .string "It doesn't matter what happens to\n"
-    .string "this hideout now.\p"
-    .string "We have much bigger plans.\n"
-    .string "You'll come to appreciate Team\l"
-    .string "Rocket's true power soon enough.\p"
-    .string "Enjoy yourself while you can...\n"
-    .string "Hee hee hee...$"
+    .string "雅典娜：不过无所谓了。电波实验已\n"
+    .string "经大获成功。\p"
+    .string "这个基地会变成怎样，我们已经不在\n"
+    .string "乎了。\p"
+    .string "我们有更加宏大的计划。火箭队真正\n"
+    .string "的可怕之处，你们很快就会切身体会\l"
+    .string "到了。\p"
+    .string "趁现在好好得意一阵吧......\n"
+    .string "嘻嘻嘻......$"
 
 RocketHideout_Text_LanceStepBack:
-    .string "Sorry, {PLAYER}. I saw how well you\n"
-    .string "were doing, so I just hung back.\p"
-    .string "Now all there is left to do is to turn\n"
-    .string "off that odd radio signal.$"
+    .string "抱歉啊，{PLAYER}。我看你\n"
+    .string "应对自如，不知不觉就退到一旁观战\l"
+    .string "了。\p"
+    .string "现在剩下的事，就是切断这股诡异的\n"
+    .string "电波了。$"
 
 
 RocketHideout_B2F_Text_LanceElectrodeFaint:
-    .string "It's this machine that's causing\n"
-    .string "all the problems.\p"
-    .string "I don't see a switch on it…\p"
-    .string "We have no choice. We have to\n"
-    .string "make all the ELECTRODE faint.\p"
-    .string "That should stop this machine\n"
-    .string "from transmitting that strange\l"
-    .string "signal.\p"
-    .string "It's no fault of the POKéMON, so\n"
-    .string "it makes me feel guilty.\p"
-    .string "{PLAYER}, let's split the job.$"
+    .string "引发一切问题的就是这台机器。\p"
+    .string "上面好像没有电源开关......\p"
+    .string "没办法了，看来我们只能把所有的顽\n"
+    .string "皮雷弹都打倒才行。\p"
+    .string "这样应该就能阻止这台机器继续发射\n"
+    .string "诡异的电波了。\p"
+    .string "虽说宝可梦本身并没有错，这么做实\n"
+    .string "在让人过意不去......\p"
+    .string "{PLAYER}，我们分头行动\n"
+    .string "吧。$"
 
 RocketHideout_B2F_Text_LanceSide:
     .string "渡：这边就交给我吧。$"
 
 RocketHideout_B2F_Text_LanceElectrodeDone:
-    .string "LANCE: That odd signal has\n"
-    .string "finally stopped.\p"
-    .string "The LAKE should be back to\n"
-    .string "normal.\p"
-    .string "You're the hero! Let me thank\n"
-    .string "you on behalf of all the\l"
-    .string "POKéMON.\p"
-    .string "Oh, yes. You should take this.\n"
-    .string "I found it here, but I don't\l"
-    .string "have any need for it.$"
+    .string "渡：那股诡异的电波终于彻底停止\n"
+    .string "了。\p"
+    .string "愤怒之湖应该也能恢复原样了。\p"
+    .string "你可是大功臣！请允许我代表所有的\n"
+    .string "宝可梦向你道谢。\p"
+    .string "对了，这个你收下吧。是我在这附近\n"
+    .string "捡到的，我留着也没什么用。$"
 
 RocketHideout_B2F_Text_LanceWhirlpool:
-    .string "That's WHIRLPOOL. Teach it to a\n"
-    .string "POKéMON to get across wild water.\p"
-    .string "But keep this in mind.\p"
-    .string "You can use that out of battle\n"
-    .string "only with the BADGE from\l"
-    .string "MAHOGANY GYM.$"
+    .string "那是“潮旋”。让宝可梦学会的话，\n"
+    .string "就能穿过汹涌的漩涡了。\p"
+    .string "不过请记住这一点。\p"
+    .string "只有拥有卡吉道馆的徽章，才能在对\n"
+    .string "战之外使用它。$"
 
 RocketHideout_B2F_Text_LanceMonMaster:
-    .string "{PLAYER}…\p"
-    .string "The journey to becoming the\n"
-    .string "POKéMON MASTER is long and\l"
-    .string "difficult.\p"
-    .string "Knowing that, will you keep\n"
-    .string "going?\p"
-    .string "…\p"
-    .string "I see. No, you're right.\p"
-    .string "If you would give up that easily,\n"
-    .string "you would have never chased that\l"
-    .string "dream in the first place.\p"
-    .string "I look forward to seeing you\n"
-    .string "again!$"
+    .string "{PLAYER}......\p"
+    .string "成为宝可梦大师的道路既漫长又充满\n"
+    .string "艰险。\p"
+    .string "即便如此，你也会继续前进吗？\p"
+    .string "......\p"
+    .string "这样啊。是啊，你说得对。\p"
+    .string "如果会轻易放弃的话，你当初根本就\n"
+    .string "不会去追逐那个梦想。\p"
+    .string "我很期待与你的再次相遇！$"
 
 RocketHideout_B2F_Text_B2FTransmitter:
     .string "这是一台正在发射不祥电波的发射装\n"
@@ -669,8 +655,8 @@ RocketHideout_B2F_Text_B2FTransmitter:
     .string "它正在全负荷运转。$"
 
 RocketHideout_B2F_Text_B2FDeactivateTransmitter:
-    .string "The radio transmitter has finally\n"
-    .string "stopped its evil broadcast.$"
+    .string "发射装置终于停止了恶毒电波的传\n"
+    .string "送。$"
 
 
 @===========================================================================================================================================
@@ -759,22 +745,20 @@ RocketHideout_B2F_Text_LanceHeals1:
     .string "来，给它们用一下我的伤药吧。$"
 
 RocketHideout_B2F_Text_LanceHeals2:
-    .string "LANCE: {PLAYER}, let's give it\n"
-    .string "our best for POKéMON.$"
+    .string "渡：{PLAYER}，为了宝可\n"
+    .string "梦，我们一起全力以赴吧。$"
 
 RocketHideout_B2F_Text_GruntM17Seen:
-    .string "The door won't open?\p"
-    .string "Well, duh. It has to have a\n"
-    .string "password that only TEAM ROCKET\l"
-    .string "knows.$"
+    .string "门打不开？\p"
+    .string "废话！那扇门可是设有只有火箭队才\n"
+    .string "知道的密码啊。$"
 
 RocketHideout_B2F_Text_GruntM17Beaten:
     .string "什么？我输了？！$"
 
 RocketHideout_B2F_Text_GruntM17After:
-    .string "Heh, I'm just a GRUNT.\p"
-    .string "I don't know the password.\n"
-    .string "Too bad for you.$"
+    .string "哼，我不过是个基层手下。\p"
+    .string "我怎么可能知道密码。算你倒霉喽。$"
 
 RocketHideout_B2F_EventScript_Grunt14::
 	trainerbattle_single TRAINER_GRUNT_14_HNS, RocketHideout_B2F_Text_GruntM17Seen, RocketHideout_B2F_Text_GruntM17Beaten
@@ -782,19 +766,18 @@ RocketHideout_B2F_EventScript_Grunt14::
 	end
 
 RocketHideout_B2F_Text_GruntM18Seen:
-    .string "Oh, a kid? I don't really like\n"
-    .string "this, but eliminate you I must.$"
+    .string "哦，是个小鬼？虽然我也不想这样，\n"
+    .string "但不得不把你彻底收拾掉了。$"
 
 RocketHideout_B2F_Text_GruntM18Beaten:
     .string "我就知道会输......$"
 
 RocketHideout_B2F_Text_GruntM18After:
-    .string "I got wiped out on the last\n"
-    .string "mission by a kid too.\p"
-    .string "When we were abducting POKéMON,\n"
-    .string "this kid with long red hair and\l"
-    .string "mean-looking eyes just\l"
-    .string "creamed me…$"
+    .string "我上次出任务的时候，也是被一个小\n"
+    .string "鬼给狠狠痛扁了一顿。\p"
+    .string "当时我们在强抢宝可梦，一个留着红\n"
+    .string "长发、眼神凶恶的小鬼直接把我给收\l"
+    .string "拾了......$"
 
 RocketHideout_B2F_EventScript_Grunt15::
 	trainerbattle_single TRAINER_GRUNT_15_HNS, RocketHideout_B2F_Text_GruntM18Seen, RocketHideout_B2F_Text_GruntM18Beaten
@@ -808,10 +791,9 @@ RocketHideout_B2F_Text_GruntM19Beaten:
     .string "可恶......$"
 
 RocketHideout_B2F_Text_GruntM19After:
-    .string "Heh, only the boss knows the\n"
-    .string "password for that door.\p"
-    .string "Where's the boss? Who knows?\n"
-    .string "Go look for yourself.$"
+    .string "哼，只有头领才知道那扇门的密码。\p"
+    .string "头领在哪？谁知道呢！你自己去找\n"
+    .string "吧。$"
 
 RocketHideout_B2F_EventScript_Grunt16::
 	trainerbattle_single TRAINER_GRUNT_16_HNS, RocketHideout_B2F_Text_GruntM19Seen, RocketHideout_B2F_Text_GruntM19Beaten

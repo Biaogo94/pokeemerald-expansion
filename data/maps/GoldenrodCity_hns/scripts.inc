@@ -289,25 +289,21 @@ GoldenrodCity_EventScript_Beauty::
 	end
 
 GoldenrodCity_Text_Beauty:
-	.string "This is the GOLDENROD GYM!\p"
-	.string "Our leader WHITNEY is not here\n"
-	.string "right now. She might be at the\l"
-	.string "RADIO TOWER.$"
+	.string "这里是满金道馆！\p"
+	.string "我们的馆主小茜现在不在。她可能去\n"
+	.string "广播电台了。$"
 
 GoldenrodCity_Text_Woman:
-	.string "I used to train in WHITNEY's GYM,\n"
-	.string "but all her crying gave me a\l"
-	.string "headache.$"
+	.string "我以前也在小茜的道馆里修行过，可\n"
+	.string "她动不动就哭，搞得我头都大了。$"
 
 GoldenrodCity_Text_HikerDay:
-	.string "When I went into the GAME CORNER\n"
-	.string "it was night time... How long was I\l"
-	.string "in there?!$"
+	.string "我进游戏城的时候还是晚上...\n"
+	.string "...我到底在里面待了多久啊？！$"
 
 GoldenrodCity_Text_HikerNight:
-	.string "When I went into the GAME CORNER\n"
-	.string "it was day time... How long was I\l"
-	.string "in there?!$"
+	.string "我进游戏城的时候还是白天...\n"
+	.string "...我到底在里面待了多久啊？！$"
 
 GoldenrodCity_Text_Snubbull:
 	.string "布鲁：布呜噜--！$"
@@ -319,64 +315,60 @@ GoldenrodCity_Text_ElmName:
 	.string "空木博士$"
 
 GoldenrodCity_Text_ElmCall:
-	.string "PROF.ELM: Hello, {PLAYER}?\n"
-	.string "Has that EGG hatched yet?\p"
-	.string "Once it hatches, don't forget to\n"
-	.string "bring it by the lab! I need to\l"
-	.string "see it!$"
+	.string "空木博士：喂，是{PLAYER}\n"
+	.string "吗？那颗蛋孵化了吗？\p"
+	.string "孵出来之后，可别忘了带回研究所给\n"
+	.string "我看看！我一定要亲眼瞧瞧！$"
 
 GoldenrodCity_Text_PokefanM:
-	.string "They built the new RADIO TOWER\n"
-	.string "to replace the old creaky one.$"
+	.string "为了取代那座嘎吱作响的老塔，才建\n"
+	.string "造了这座全新的广播电台。$"
 
 GoldenrodCity_Text_Youngster1:
-	.string "I know there's a new BIKE SHOP,\n"
-	.string "but I can't find it anywhere.$"
+	.string "我知道这里开了一家新的自行车行，\n"
+	.string "但我怎么找都找不着。$"
 
 GoldenrodCity_Text_CooltrainerF1:
-	.string "Is that man in black dressed up\n"
-	.string "like a TEAM ROCKET member?\p"
-	.string "How silly!$"
+	.string "那个穿黑衣服的人打扮得像火箭队员\n"
+	.string "一样？\p"
+	.string "真滑稽！$"
 
 GoldenrodCity_Text_CooltrainerF1_Cleared:
-	.string "Was that man in black really part\n"
-	.string "of TEAM ROCKET? I can't believe it!$"
+	.string "那个穿黑衣服的人真的是火箭队？真\n"
+	.string "让人难以置信！$"
 
 GoldenrodCity_Text_CooltrainerF2:
-	.string "The RADIO TOWER in GOLDENROD CITY\n"
-	.string "is quite the landmark.\p"
-	.string "They're running a campaign now.\p"
-	.string "They'll give you a shiny new\n"
-	.string "RADIO if you can pass their quiz.$"
+	.string "满金市的广播电台可是一大地标呢。\p"
+	.string "他们现在正在举办活动，\p"
+	.string "只要答对他们的问答题，就能拿到一\n"
+	.string "台崭新的收音机哦。$"
 
 GoldenrodCity_Text_CooltrainerF2_GotCard:
-	.string "Oh, your POKéGEAR already works\n"
-	.string "as a radio!$"
+	.string "哎呀，你的宝可梦齿轮已经可以当收\n"
+	.string "音机用了啊！$"
 
 GoldenrodCity_Text_Youngster2:
-	.string "E-he-he-he…\p"
-	.string "I got in trouble for playing in\n"
-	.string "the DEPT.STORE basement.$"
+	.string "嘿嘿嘿......\p"
+	.string "因为在百货公司的地下室玩，我被狠\n"
+	.string "狠训了一顿。$"
 
 GoldenrodCity_Text_Lass:
-	.string "That man inside rates your\n"
-	.string "POKéMON nicknames.\p"
-	.string "He can even rename them.$"
+	.string "里面的那位大叔能帮你评价宝可梦的\n"
+	.string "昵称，\p"
+	.string "甚至还能帮它们改名字呢。$"
 
 GoldenrodCity_Text_Gramps:
-	.string "Whew! This town is so big,\n"
-	.string "I can't find anything at all.$"
+	.string "呼！这城市实在太大了，我完全找不\n"
+	.string "着方向。$"
 
 GoldenrodCity_Text_RocketScout1:
 	.string "原来这就是广播电台啊......$"
 
 GoldenrodCity_Text_RocketScout2:
-	.string "What do you want, pest?\n"
-	.string "Scram already!$"
+	.string "找我有何贵干，讨厌鬼？还不快滚！$"
 
 GoldenrodCity_Text_Rocket1:
-	.string "Stay out of the way!\n"
-	.string "Beat it, kid!$"
+	.string "别在这碍事！一边去，小鬼！$"
 
 GoldenrodCity_Text_Rocket2:
 	.string "占领广播电台......\p"

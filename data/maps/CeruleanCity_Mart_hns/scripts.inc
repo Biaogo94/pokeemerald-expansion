@@ -10,12 +10,11 @@ CeruleanCity_Mart_EventScript_CooltrainerF::
 	end
 
 CeruleanMart_Text_CooltrainerM:
-	.string "You'll run into many trainers on\n"
-	.string "the way to CERULEAN's CAPE.\p"
-	.string "They want to see how they stack\n"
-	.string "up against other trainers.$"
+	.string "去往华蓝海角的小路上会遇到很多训\n"
+	.string "练家。\p"
+	.string "他们都想和其他训练家比试一下自己\n"
+	.string "的实力。$"
 
 CeruleanMart_Text_CooltrainerF:
-	.string "MISTY is about the only person in\n"
-	.string "town who can beat the trainers at\l"
-	.string "CERULEAN's CAPE.$"
+	.string "小霞大概是镇上唯一能打赢华蓝海角\n"
+	.string "那些训练家的人了。$"

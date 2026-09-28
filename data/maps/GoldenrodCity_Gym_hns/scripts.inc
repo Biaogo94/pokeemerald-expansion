@@ -118,23 +118,23 @@ GoldenrodCity_Gym_Text_GymStatue:
 	.string "满金宝可梦道馆$"
 
 GoldenrodCity_Gym_Text_GymStatueCertified:
-	.string "GOLDENROD TOWN POKéMON GYM\p"
-	.string "WHITNEY'S CERTIFIED TRAINERS:\n"
+	.string "满金市宝可梦道馆\p"
+	.string "小茜认定的训练家：\n"
 	.string "{PLAYER}$"
 
 GoldenrodCity_Gym_Text_WhitneyBefore:
-    .string "Hi! I'm WHITNEY!\p"
-    .string "Everyone was into POKéMON, so I got\n"
-    .string "into it too!\p"
-    .string "POKéMON are super-cute!\p"
-    .string "You want to battle? I'm warning\n"
-    .string "you- I'm good!$"
+    .string "你好呀！我是小茜！\p"
+    .string "大家都在玩宝可梦，所以我也跟着玩\n"
+    .string "啦！\p"
+    .string "宝可梦真的是超级可爱呢！\p"
+    .string "你想挑战我吗？我可先警告你--我\n"
+    .string "超级厉害的哦！$"
 
 GoldenrodCity_Gym_Text_WhitneyShouldntBeSoSerious:
-    .string "Sob…\p"
-    .string "…Waaaaaaah! You're mean!\p"
-    .string "You shouldn't be so serious! You…\n"
-    .string "you child, you!$"
+    .string "呜呜......\p"
+    .string "......哇啊啊啊！你好过分！\p"
+    .string "干嘛那么认真嘛！你......你\n"
+    .string "这个小屁孩！$"
 
 GoldenrodCity_Gym_Text_WhitneyYouMeanie:
     .string "哇啊啊啊！\p"
@@ -143,26 +143,24 @@ GoldenrodCity_Gym_Text_WhitneyYouMeanie:
     .string "......大坏蛋！$"
 
 GoldenrodCity_Gym_Text_WhitneyWhatDoYouWant:
-    .string "…Sniff…\p"
-    .string "What? What do you want? A BADGE?\p"
-    .string "Oh, right. I forgot. Here's\n"
-    .string "PLAINBADGE.$"
+    .string "......吸鼻涕......\p"
+    .string "怎么？你想要什么？徽章吗？\p"
+    .string "啊，对哦。我给忘了。拿去吧，这是\n"
+    .string "常规徽章。$"
 
 GoldenrodCity_Gym_Text_PlayerReceivedPlainBadge:
     .string "{PLAYER}获得了常规徽章。$"
 
 GoldenrodCity_Gym_Text_WhitneyPlainBadge:
-    .string "PLAINBADGE lets your POKéMON use\n"
-    .string "STRENGTH outside of battle.\p"
-    .string "It also boosts your POKéMON's\n"
-	.string "DEFENSE.\p"
-    .string "Oh, you can have this too!$"
+    .string "拥有常规徽章，你的宝可梦就能在战\n"
+    .string "斗外使用“怪力”了。\p"
+    .string "而且还能提升宝可梦的防御哦。\p"
+    .string "对了，这个也送给你吧！$"
 
 GoldenrodCity_Gym_Text_WhitneyAttract:
-    .string "It's ATTRACT! It makes full use of a\n"
-    .string "POKéMON's charm.\p"
-    .string "Isn't it just perfect for a cutie\n"
-    .string "like me?$"
+    .string "这是“着迷”！能充分发挥出宝可梦\n"
+    .string "的魅力呢。\p"
+    .string "是不是特别适合我这种可爱美少女？$"
 
 GoldenrodCity_Gym_Text_WhitneyGoodCry:
     .string "呼，痛痛快快哭了一场真舒服！$"
@@ -200,15 +198,15 @@ GoldenrodCity_Gym_Text_LassBridgetBeaten:
     .string "哎呀，不行不行不行！$"
 
 GoldenrodCity_Gym_Text_LassBridgetAfter:
-    .string "I'm trying to beat WHITNEY, but…\n"
-    .string "It's depressing.\p"
-    .string "I'm okay! If I lose, I'll just try\n"
-    .string "harder next time!$"
+    .string "我想赢过小茜，可是......真\n"
+    .string "打击人。\p"
+    .string "不过我没事！就算输了，下次再加把\n"
+    .string "劲就行了！$"
 
 GoldenrodCity_Gym_Text_BridgetWhitneyCries:
-    .string "Oh, no. You made WHITNEY cry.\p"
-    .string "It's OK. She'll stop soon. She\n"
-    .string "always cries when she loses.$"
+    .string "哎呀。你把小茜弄哭了。\p"
+    .string "没事的。她一会儿就好了。她每次输\n"
+    .string "掉都会哭鼻子的。$"
 
 GoldenrodCity_Gym_Text_BeautyVictoriaSeen:
     .string "哎呀，你真是个可爱的小训练家！\p"
@@ -220,32 +218,31 @@ GoldenrodCity_Gym_Text_BeautyVictoriaBeaten:
     .string "了？$"
 
 GoldenrodCity_Gym_Text_BeautyVictoriaAfter:
-    .string "Wow, you must be good to beat me!\n"
-    .string "Keep it up!$"
+    .string "哇，能打赢我，你还真有两下子！继\n"
+    .string "续保持哦！$"
 
 GoldenrodCity_Gym_Text_BeautySamanthaSeen:
-    .string "Give it your best shot, or I'll take\n"
-    .string "you down!$"
+    .string "使出你的全力吧，否则我可不会手下\n"
+    .string "留情！$"
 
 GoldenrodCity_Gym_Text_BeautySamanthaBeaten:
     .string "怎么会！呜呜，喵喵，对不起啊！$"
 
 GoldenrodCity_Gym_Text_BeautySamanthaAfter:
-    .string "I taught MEOWTH moves for taking on\n"
-    .string "any type…$"
+    .string "我明明教了喵喵能够应对各种属性的\n"
+    .string "招式......$"
 
 GoldenrodCity_Gym_Text_GymGuide:
-    .string "Yo! CHAMP in making!\p"
-    .string "This GYM is home to WHITNEY, the\n"
-    .string "master of NORMAL-type POKéMON.\p"
-    .string "Be cautious of her cute team.\p"
-    .string "Some of the POKéMON in this gym\n"
-    .string "have the newly discovered FAIRY\l"
-    .string "type as well.\p"
-    .string "Check ROUTE 34 if you need a\n"
-    .string "FIGHTING-type or POISON-type.$"
+    .string "哟！未来的冠军！\p"
+    .string "这里是满金道馆，馆主是精通一般属\n"
+    .string "性宝可梦的小茜。\p"
+    .string "千万要小心她那些可爱的宝可梦。\p"
+    .string "这个道馆里的部分宝可梦，还拥有新\n"
+    .string "发现的妖精属性呢。\p"
+    .string "如果需要格斗属性或毒属性的宝可\n"
+    .string "梦，不妨去34号道路看看吧。$"
 
 GoldenrodCity_Gym_Text_GymGuideWin:
-    .string "You won? Great! I was busy admiring\n"
-    .string "the ladies here.$"
+    .string "你赢啦？太棒了！我光顾着看这里的\n"
+    .string "美女了。$"
 

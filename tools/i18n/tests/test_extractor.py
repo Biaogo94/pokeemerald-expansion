@@ -514,6 +514,7 @@ class TestScanRepository(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             self._write(tmp, "data/maps/Test/scripts.inc", 'L:\n\t.string "map text$"\n')
             self._write(tmp, "data/text/trainers.inc", 'T:\n\t.string "trainer text$"\n')
+            self._write(tmp, "data/scripts/common.inc", 'L:\n\t.string "common text$"\n')
             self._write(tmp, "src/strings.c", 'const u8 gTextA[] = _("A");\n')
             self._write(tmp, "src/battle_message.c", 'const u8 gTextB[] = _("B");\n')
             self._write(tmp, "src/data/text/x.h", 'const u8 gTextC[] = _("C");\n')
@@ -556,7 +557,7 @@ class TestScanRepository(unittest.TestCase):
     def test_scan_covers_engine_text_roots(self):
         entries = self._scan_into_temp_tree()
         sources = {e.source for e in entries}
-        for expected in ["map text$", "trainer text$", "A", "B", "C", "POKé BALL", "POUND", "D", "E"]:
+        for expected in ["map text$", "trainer text$", "common text$", "A", "B", "C", "POKé BALL", "POUND", "D", "E"]:
             self.assertIn(expected, sources)
 
     def test_scan_skips_debug_and_unlisted_sources(self):
@@ -570,6 +571,7 @@ class TestScanRepository(unittest.TestCase):
         by_source = {e.source: e.category for e in entries}
         self.assertEqual(by_source["map text$"], "map_script")
         self.assertEqual(by_source["trainer text$"], "text_data")
+        self.assertEqual(by_source["common text$"], "text_data")
         self.assertEqual(by_source["C"], "c_source")
         self.assertEqual(by_source["A"], "engine_c")
 

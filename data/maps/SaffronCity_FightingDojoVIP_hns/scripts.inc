@@ -780,20 +780,18 @@ SaffronCity_FightingDojoVIP_Text_Jasmine_Rematch:
 	.string "要不要再跟我来一场对战？$"
 
 SaffronCity_FightingDojoVIP_Text_Jasmine_RematchDefeat:
-	.string "…You are a better trainer than\n"
-	.string "me,\p"
-	.string "in both skill and kindness.$"
+	.string "……你是比我更出色的训练家，\p"
+	.string "无论实力还是温柔，都是如此。$"
 
 SaffronCity_FightingDojoVIP_Text_Pryce_Rematch:
-	.string "Ah, JOHTO CHAMPION!\p"
-	.string "Your skills are indeed\n"
-	.string "remarkable.\p"
-	.string "I am impressed.\p"
-	.string "But even now, there is much to\n"
-	.string "learn from each other.\p"
-	.string "I, PRYCE--the winter trainer--\p"
-	.string "still have a few tricks left.\p"
-	.string "Want to have a rematch with me?$"
+	.string "哦，城都的冠军！\p"
+	.string "你的实力确实非同凡响。\p"
+	.string "令人佩服。\p"
+	.string "不过，我们仍能从彼此身上学到很\n"
+	.string "多。\p"
+	.string "我柳伯这个严冬的训练家，\p"
+	.string "可还藏着几招呢。\p"
+	.string "要再来一场吗？$"
 
 SaffronCity_FightingDojoVIP_Text_Pryce_RematchDefeat:
 	.string "啊，你的高超本领再次令老夫折服。\p"

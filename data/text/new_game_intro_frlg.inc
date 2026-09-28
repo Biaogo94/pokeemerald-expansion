@@ -186,8 +186,9 @@ gOakSpeech_Text_ThisWorld::
 	.string "在这个世界上......$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
-	.string "…is inhabited far and wide by\n"
-	.string "creatures called POKéMON.\p$"
+	.string "......到处都栖息着名为“宝\n"
+	.string "可梦”的生物。\p"
+	.string "$"
 
 gOakSpeech_Text_IStudyPokemon::
 	.string "有人把宝可梦当作宠物，也有人让他\n"

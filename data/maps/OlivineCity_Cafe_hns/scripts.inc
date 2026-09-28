@@ -55,12 +55,12 @@ OlivineCity_EventScript_SailorB::
 	end
 
 OlivineCity_Text_CafeSailorStrength:
-	.string "Hah! Your POKéMON sure look like\n"
-	.string "lightweights!\p"
-	.string "They don't have the power to\n"
-	.string "move boulders aside.\p"
-	.string "Here, use this and teach them\n"
-	.string "STRENGTH!$"
+	.string "哈哈！你的宝可梦看起来身板还挺轻\n"
+	.string "飘飘的嘛！\p"
+	.string "凭这种力气可推不动路上的大石头\n"
+	.string "哦。\p"
+	.string "来，拿上这个，让它们学会“怪力”\n"
+	.string "吧！$"
 
 OlivineCity_Text_CafeSailorGotStrength:
 	.string "在茫茫大海上，唯一能依靠的就只有\n"

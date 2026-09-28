@@ -180,9 +180,8 @@ Snowswept_Text_Machamp_Cry:
     .string "玛呼！！$"
 
 Snowswept_Text_Machamp_Plate:
-    .string "The MACHAMP seems to be holding\n"
-    .string "a PLATE in one of its hands.\p"
-    .string "Battle it?$"
+    .string "怪力的一只手上似乎拿着一块石板。\p"
+    .string "要与它对战吗？$"
 
 Snowswept_Machamp_Movement:
     jump_in_place_down

@@ -66,20 +66,19 @@ CeladonMansion2F_Text_LilDill:
 	.string "梦 心金・魂银》。$"
 
 CeladonMansion2F_Text_InfiniteBacon:
-	.string "我们正致力于在 pokeemer\n"
-	.string "ald expansion项目中\l"
+	.string "我们正致力于在\n"
+	.string "pokeemerald\l"
+	.string "expansion项目中\l"
 	.string "重构这款游戏！$"
 
 CeladonMansion2F_Text_TixoRebel:
-	.string "Have you heard of THE EGGENING?\n"
-	.string "It was a bug from the playtest\l"
-	.string "that randomly changed POKéMON into\l"
-	.string "EGGs!\p"
-	.string "I developed the fix for it!$"
+	.string "你听说过“蛋化危机”吗？那是测试\n"
+	.string "阶段的一个漏洞，会随机把宝可梦变\l"
+	.string "成蛋！\p"
+	.string "修复这个漏洞的补丁就是我写的！$"
 
 CeladonMansion2F_Text_Phant:
-	.string "我最喜欢降级移植版(DEMAKE\n"
-	.string ")了！\p"
+	.string "我最喜欢降级移植版了！\p"
 	.string "你玩过《宝可梦 剑/盾终极增强版\n"
 	.string " 英文版》吗？就是我翻译的哦！\p"
 	.string "至于下一个降级版，我想做阿罗拉地\n"
@@ -92,12 +91,10 @@ CeladonMansion2F_Text_Exclsior:
 	.string "加属于你自己的功能哦！$"
 
 CeladonMansion2F_Text_DaniRaibow:
-	.string "Hi!\p"
-	.string "I am pretty good at finding problems,\n"
-	.string "and can fix little ones.\p"
-    .string "Wanna hear a joke?\p"
-    .string "Lance tried to teach DRAGONITE the\n"
-    .string "move DRAGON BREATH.\p"
-    .string "However, DRAGONITE was moving too\n"
-    .string "fast from EXTREMESPEED; it couldn't\l"
-    .string "catch it!$"
+	.string "嗨！\p"
+	.string "我挺擅长找BUG的，也能修点小毛\n"
+	.string "病。\p"
+	.string "想听个笑话吗？\p"
+	.string "阿渡想教快龙学会“龙息”招式。\p"
+	.string "可是快龙使出“神速”跑得太快，根\n"
+	.string "本接不上这口气(学不会)！$"

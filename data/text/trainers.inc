@@ -1073,10 +1073,10 @@ Route110_Text_IsabelPostBattle:
 	.string "发烧友俱乐部去炫耀我的宝可梦。$"
 
 Route110_Text_IsabelRegister:
-	.string "That wasn't close to what I could\n"
-	.string "do to show off my POKéMON.\p"
-	.string "I'll have you as my captive audience\n"
-	.string "as often as possible!$"
+	.string "我还远远没有把宝可梦的魅力全部展\n"
+	.string "现出来呢。\p"
+	.string "以后可要请你经常来当我最忠实的观\n"
+	.string "众哦！$"
 
 Route110_Text_IsabelRematchIntro:
 	.string "哈哈！不管多少次，我都乐意向你炫\n"
@@ -1212,12 +1212,11 @@ Route111_Text_DustyRematchDefeat:
 	.string "强大的宝可梦……$"
 
 Route111_Text_DustyPostRematch:
-	.string "For thirty years I have searched for\n"
-	.string "ancient ruins!\p"
-	.string "No, wait, was that forty years\n"
-	.string "I've searched?\p"
-	.string "Hmm… It could even be fifty…\n"
-	.string "How long have I been at this?$"
+	.string "三十年来，我一直在探寻古代遗迹！\p"
+	.string "不，等等，我已经找了四十年了吗？\p"
+	.string "嗯......甚至可能是五十年\n"
+	.string "......我到底从事这个多久\l"
+	.string "了？$"
 
 Route111_Text_TravisIntro:
 	.string "我现在很有活力！我的宝可梦也跟我\n"
@@ -1267,10 +1266,9 @@ Route111_Text_WiltonPostBattle:
 	.string "。$"
 
 Route111_Text_WiltonRegister:
-	.string "There is much to be learned from\n"
-	.string "your training style.\p"
-	.string "I request a rematch if it\n"
-	.string "behooves you.$"
+	.string "从你的培育方式中能学到很多。\p"
+	.string "如果不介意的话，在下希望能与你再\n"
+	.string "战一场。$"
 
 Route111_Text_WiltonRematchIntro:
 	.string "我们都是为了更进一步而在这里修行\n"
@@ -1938,9 +1936,9 @@ Route115_Text_KyraDefeat:
 	.string "呼，呼……$"
 
 Route115_Text_KyraPostBattle:
-	.string "I made the mistake of trying to battle\n"
-	.string "while running!\p"
-	.string "I should take a run to calm down…$"
+	.string "我真不该犯糊涂一边跑步一边对战\n"
+	.string "的！\p"
+	.string "我得去跑两步冷静一下......$"
 
 Route115_Text_JaidenIntro:
 	.string "接招吧！忍法——终极宝可梦之术！$"
@@ -2186,8 +2184,9 @@ Route117_Text_LydiaRematchDefeat:
 	.string "是的，他们看起来都非常棒。$"
 
 Route117_Text_LydiaPostRematch:
-	.string "POKéMON seem to like different kinds\n"
-	.string "of {POKEBLOCK}S, depending on their nature.$"
+	.string "宝可梦似乎会根据各自的性格，喜好\n"
+	.string "不同种类的\l"
+	.string "{POKEBLOCK}。$"
 
 Route117_Text_DylanIntro:
 	.string "虽然我还在训练中，但是我们还是来\n"
@@ -2536,9 +2535,8 @@ Route119_Text_KentPostBattle:
 	.string "你不加入我们模仿者协会吗？$"
 
 Route119_Text_JacksonIntro:
-	.string "Who has the knowledge and\n"
-	.string "the technique for survival?\p"
-	.string "POKéMON RANGERS, that's who!$"
+	.string "是谁拥有野外生存的知识与技巧？\p"
+	.string "正是我们宝可梦巡护员！$"
 
 Route119_Text_JacksonDefeat:
 	.string "我没有足够的宝可梦知识……$"
@@ -3177,10 +3175,10 @@ Route123_Text_KindraDefeat:
 	.string "活力十足……$"
 
 Route123_Text_KindraPostBattle:
-	.string "MT. PYRE…\n"
-	.string "Where the spirits of POKéMON sleep…\p"
-	.string "It must overflow with a power that\n"
-	.string "soothes spirits…$"
+	.string "送神火山......宝可梦灵魂长\n"
+	.string "眠之地......\p"
+	.string "这里一定洋溢着安抚灵魂的力量吧\n"
+	.string "......$"
 
 Route123_Text_FernandoIntro:
 	.string "当我奏起这首曲子的时候，你的希望\n"
@@ -3995,12 +3993,10 @@ Route131_Text_RichardDefeat:
 	.string "…$"
 
 Route131_Text_RichardPostBattle:
-	.string "Gasp… Gasp…\n"
-	.string "I'm wiped out…\p"
-	.string "The going's easy. It's the leaving\n"
-	.string "that's the hard part.\p"
-	.string "Will I have any energy left to make\n"
-	.string "the return trip?$"
+	.string "哈啊......哈啊......\n"
+	.string "累死我了......\p"
+	.string "来的时候容易，回去可就难了。\p"
+	.string "我还有力气踏上返程的路吗？$"
 
 Route131_Text_HermanIntro:
 	.string "大海……大海……大海……放眼望过\n"
@@ -4145,9 +4141,9 @@ Route132_Text_MakaylaDefeat:
 	.string "啊，我想我还不够强。$"
 
 Route132_Text_MakaylaPostBattle:
-	.string "That young man over there looks just\n"
-	.string "like my husband when he was young.\p"
-	.string "He's making me blush!$"
+	.string "那边的那个年轻人长得真像我丈夫年\n"
+	.string "轻的时候啊。\p"
+	.string "看得我都害羞了！$"
 
 Route132_Text_JonathanIntro:
 	.string "好像有人一直在盯着我看，是你吗？$"
@@ -4361,16 +4357,19 @@ Route134_Text_HudsonPostBattle:
 	.string "。$"
 
 VSSeeker_Text_BatteryNotChargedNeedXSteps::
-	.string "The battery isn't charged enough.\p"
-	.string "No. of steps required to fully\n"
-	.string "charge the battery: {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
+	.string "电池电量不足。\p"
+	.string "要充满电量还需走的步数：\n"
+	.string "{STR_VAR_1}\l"
+	.string "{PAUSE_UNTIL_PRESS}$"
 
 VSSeeker_Text_NoTrainersWithinRange::
-	.string "There are no Trainers within range\n"
-	.string "who can battle…\p"
-	.string "The VS Seeker was turned off.{PAUSE_UNTIL_PRESS}$"
+	.string "范围内没有可以对战的训练家..\n"
+	.string "....\p"
+	.string "对战搜寻镜已关闭。\n"
+	.string "{PAUSE_UNTIL_PRESS}$"
 
 VSSeeker_Text_TrainersNotReady::
-	.string "The other Trainers don't appear\n"
-	.string "to be ready for battle.\p"
-	.string "Let's wait till later.{PAUSE_UNTIL_PRESS}$"
+	.string "其他训练家看起来还没有做好对战的\n"
+	.string "准备。\p"
+	.string "过段时间再试吧。\n"
+	.string "{PAUSE_UNTIL_PRESS}$"

@@ -544,13 +544,12 @@ Alola_Melemele_SamsonOakVillaIntro_Trigger_Text_0:
 	.string "阿罗拉，{PLAYER}！$"
 
 Alola_Melemele_SamsonOakVillaIntro_Trigger_Text_1:
-	.string "I'm glad you're here!\n"
-	.string "Welcome to my villa!\p"
-	.string "I'm staying here while I research the\n"
-	.string "ALOLA ISLES for their similarity to\l"
-	.string "the ALOLA region.\p"
-	.string "I'm particularly interested in the\n"
-	.string "phenomenon of “Regional Variants”.$"
+	.string "太好了，你来啦！欢迎来到我的别\n"
+	.string "庄！\p"
+	.string "我正住在这里调查阿罗拉群岛，研究\n"
+	.string "它与阿罗拉地区的相似之处呢。\p"
+	.string "我尤其对“地区形态”的现象很感兴\n"
+	.string "趣。$"
 
 Alola_Melemele_SamsonOakVillaIntro_Trigger_Text_2:
 	.string "你看上去实力相当不错呢。\p"
@@ -722,19 +721,16 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_24:
 	.string "罗拉样子的宝可梦！$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_25:
-	.string "Now that you've helped me validate that\n"
-	.string "all of the Alolan variants are present\l"
-	.string "on the ALOLA ISLES.\p"
-	.string "I'd like you to help me with one more\n"
-	.string "thing…\p"
-	.string "Could you help me investigate the Totem\n"
-	.string "POKéMON that are said to be guarding\l"
-	.string "the totems on each isle?\p"
-	.string "But beware! These Totem POKéMON are\n"
-	.string "said to be much stronger than their\l"
-	.string "normal counterparts…\p"
-	.string "You never know who might be watching\n"
-	.string "to see if you are a worthy opponent!$"
+	.string "多亏了你，我终于确认了阿罗拉群岛\n"
+	.string "上栖息的所有阿罗拉样子的宝可梦。\p"
+	.string "不过，我还想请你帮我一个忙..\n"
+	.string "....\p"
+	.string "你能帮我去调查一下传说中守护着各\n"
+	.string "岛屿霸主之证的“霸主宝可梦”吗？\p"
+	.string "千万要当心！据说那些霸主宝可梦比\n"
+	.string "通常形态的要强大得多......\p"
+	.string "说不定正有谁在暗中观察，看你是否\n"
+	.string "具备挑战的资格呢！$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_26:
 	.string "看来你已经找齐阿卡拉岛上所有阿罗\n"

@@ -10,15 +10,13 @@ SaffronCity_Text_BaobaName:
 	.string "巴奥巴$"
 
 SaffronCity_Text_Baoba:
-	.string "WARDEN BAOBA: {PLAYER}!\p"
-	.string "This is WARDEN BAOBA.\p"
-	.string "I'm calling to tell you that the\n"
-	.string "SAFARI ZONE has expanded again!\p"
-	.string "Finally, my SAFARI ZONE has been\n"
-	.string "fully realized!\p"
-	.string "You remember where it is, right?\p"
-	.string "Just west of CIANWOOD CITY!\n"
-	.string "see you soon!$"
+	.string "巴奥巴园长：{PLAYER}！\p"
+	.string "我是巴奥巴园长。\p"
+	.string "我打电话是想告诉你，狩猎地带又扩\n"
+	.string "建啦！\p"
+	.string "我的狩猎地带终于完全建成了！\p"
+	.string "你还记得它在哪儿吧？\p"
+	.string "就在湛蓝市西边！回头见啦！$"
 
 SaffronCity_EventScript_Lass1A::
 	goto_if_set FLAG_RETURNED_MACHINE_PART, SaffronCity_EventScript_Lass1B
@@ -98,66 +96,62 @@ SaffronCity_Text_Elli:
 	.string "我最喜欢六尾了！:D$"
 
 SaffronCity_Text_Lass1:
-	.string "A little girl who is an expert at\n"
-	.string "mimicking people lives here.\p"
-	.string "She even mimics the people she's\n"
-	.string "conversing with. It's confusing.$"
+	.string "这里住着一个小女孩，是个模仿达\n"
+	.string "人。\p"
+	.string "她甚至还会模仿正在跟她说话的人，\n"
+	.string "搞得人晕头转向的。$"
 
 SaffronCity_Text_Lass1_ReturnedPart:
-	.string "The COPYCAT girl looked unhappy.\p"
-	.string "She said she lost her favorite\n"
-	.string "POKé DOLL--CLEFAIRY.$"
+	.string "那个模仿少女看起来闷闷不乐的。\p"
+	.string "她说她弄丢了最喜欢的皮皮宝可梦玩\n"
+	.string "偶。$"
 
 SaffronCity_Text_PokefanM:
-	.string "You came out from JOHTO?\p"
-	.string "You can zip back home if the\n"
-	.string "MAGNET TRAIN's running.$"
+	.string "你是从城都地区过来的？\p"
+	.string "如果磁悬浮列车通了的话，一眨眼就\n"
+	.string "能回老家了呢。$"
 
 SaffronCity_Text_PokefanM_ReturnedPart:
-	.string "You came out from JOHTO?\p"
-	.string "You can zip back home by hopping\n"
-	.string "on the MAGNET TRAIN.$"
+	.string "你是从城都地区过来的？\p"
+	.string "只要坐上磁悬浮列车，一眨眼就能回\n"
+	.string "到老家了呢。$"
 
 SaffronCity_Text_CooltrainerM:
-	.string "I went to the GYM, raring for\n"
-	.string "battles against trainers…\p"
-	.string "It turns out, I stumbled into the\n"
-	.string "unused GYM next door.\p"
-	.string "Boy, I was pretty embarrassed.$"
+	.string "我本来兴致勃勃地去道馆，想跟训练\n"
+	.string "家们大战一场......\p"
+	.string "结果，误闯进了隔壁已经废弃的道\n"
+	.string "馆。\p"
+	.string "哎呀，真是丢死人了。$"
 
 SaffronCity_Text_CooltrainerF:
-	.string "This is SILPH CO., famous for\n"
-	.string "POKéMON merchandise.\p"
-	.string "In the past, TEAM ROCKET wanted\n"
-	.string "the company because of that.$"
+	.string "这里是西尔佛公司，以生产各种宝可\n"
+	.string "梦用品而闻名。\p"
+	.string "以前火箭队就是因为这个盯上了这家\n"
+	.string "公司。$"
 
 SaffronCity_Text_Fisher:
-	.string "Chew… Chew…\p"
-	.string "I hear there's big trouble brewing\n"
-	.string "at the POWER PLANT.\p"
-	.string "Chew… Chew…$"
+	.string "嚼......嚼......\p"
+	.string "听说发电厂那边出大乱子了。\p"
+	.string "嚼......嚼......$"
 
 SaffronCity_Text_Fisher_ReturnedPart:
-	.string "Chew… Chew…\p"
-	.string "I hear there was big trouble at the\n"
-	.string "POWER PLANT.\p"
-	.string "Chew… Chew… Haaah, I'm full!$"
+	.string "嚼......嚼......\p"
+	.string "听说发电厂那边之前出了大乱子啊。\p"
+	.string "嚼......嚼......哈\n"
+	.string "啊，吃饱了！$"
 
 SaffronCity_Text_Youngster1:
-	.string "Going into an alley for the first\n"
-	.string "time makes me sorta anxious.$"
+	.string "第一次走进小巷子里，心里总有点发\n"
+	.string "慌呢。$"
 
 SaffronCity_Text_Youngster2:
-	.string "There's a place called the CONTEST\n"
-	.string "HALL in VIRIDIAN where trainers\l"
-	.string "gather from all over the place.$"
+	.string "常青市有个叫华丽大赛会场的地方，\n"
+	.string "来自各地的训练家都会聚在那里。$"
 
 SaffronCity_Text_Lass2:
-	.string "Our city was featured on a radio\n"
-	.string "program.\p"
-	.string "It's nice to hear praise for your\n"
-	.string "city, but it's a bit embarrassing\l"
-	.string "too.$"
+	.string "广播节目里提到了我们的城市呢。\p"
+	.string "听到别人夸奖自己的家乡固然开心，\n"
+	.string "但总觉得有点不好意思呢。$"
 
 SaffronCity_Text_Sign:
 	.string "金黄市\p"

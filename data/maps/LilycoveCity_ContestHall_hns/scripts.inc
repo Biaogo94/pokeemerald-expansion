@@ -449,10 +449,10 @@ LilycoveCity_ContestHall_Text_InTheMiddleOfContest_hns:
 	.string "再入场好吗？$"
 
 LilycoveCity_ContestHall_Text_SuchCharmingCuteAppeals_hns:
-	.string "JUDGE: Oh, such charming and cute\n"
-	.string "appeals!\p"
-	.string "Oh, my goodness! What a perfectly\n"
-	.string "adorable WATER SPORT appeal!$"
+	.string "评委：哦，真是既迷人又可爱的表演\n"
+	.string "啊！\p"
+	.string "天哪！这记“玩水”招式的表演真是\n"
+	.string "可爱极了！$"
 
 LilycoveCity_ContestHall_Text_MyAzurillWasDistracted_hns:
 	.string "哎呀，糟了......我可爱的露\n"

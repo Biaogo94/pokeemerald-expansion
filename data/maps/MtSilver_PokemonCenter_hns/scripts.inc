@@ -63,29 +63,25 @@ MtSilver_PokemonCenter_EventScript_Meara_WarpToSinjoh::
 	end
 
 MtSilver_PokemonCenter_Text_Meara1:
-	.string "I'm a researcher from... Uhh...\n"
-	.string "the PEWTER CITY museum!\p"
-	.string "An unusual amount of artifacts have\n"
-	.string "been discovered in this area, so\l"
-	.string "I've come here to investigate.\p"
-	.string "Have you found anything strange\n"
-	.string "in the mountain?\p"
-	.string "Maybe something like a FLUTE?\p"
-	.string "If you do, please show me.$"
+	.string "我是来自......呃....\n"
+	.string "..深灰科学博物馆的研究员！\p"
+	.string "这一带发现了异乎寻常的大量古代遗\n"
+	.string "物，所以我来这里调查。\p"
+	.string "你在山里有找到什么奇怪的东西吗？\p"
+	.string "比如像是笛子之类的？\p"
+	.string "如果找到了，请务必拿给我看看。$"
 
 MtSilver_PokemonCenter_Text_Meara2:
-	.string "That flute!\p"
-	.string "You have the spirit of a true\n"
-	.string "archaeologist!\p"
-	.string "There's a branch of the cave\n"
-	.string "where the POKéMON are too strong\l"
-	.string "for me to safely explore.\p"
-	.string "If I take you there, would you\n"
-	.string "explore it for more artifacts?$"
+	.string "那支笛子！\p"
+	.string "你拥有真正的考古学家的精神！\p"
+	.string "洞窟深处有一处岔道，那里的宝可梦\n"
+	.string "太强了，我一个人去探索太危险。\p"
+	.string "如果我带你过去，你愿意去寻找更多\n"
+	.string "遗物吗？$"
 
 MtSilver_PokemonCenter_Text_Prompt:
-	.string "If I take you there, would you\n"
-	.string "explore it for more artifacts?$"
+	.string "如果我带你过去，你愿意去寻找更多\n"
+	.string "遗物吗？$"
 
 MtSilver_PokemonCenter_Text_Meara3:
 	.string "准备好去寻找更多遗物了吗？$"

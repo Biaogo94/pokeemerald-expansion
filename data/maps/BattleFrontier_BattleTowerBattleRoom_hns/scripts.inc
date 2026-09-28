@@ -433,114 +433,108 @@ BattleFrontier_BattleTowerBattleRoom_EventScript_RetireChallenge_hns::
 	end
 
 BattleFrontier_BattleTowerBattleRoom_Text_RestoreMonsToFullHealth_hns:
-	.string "We will restore your POKéMON to\n"
-	.string "full health.$"
+	.string "我们将为你的宝可梦恢复全部活力。$"
 
 @ Unused
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForOpponent_hns:
-	.string "You will be facing opponent no. {STR_VAR_1}.\n"
-	.string "Are you ready?$"
+	.string "接下来是第{STR_VAR_1}\n"
+	.string "位对手。做好准备了吗？$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor2ndOpponent_hns:
-	.string "You will be facing opponent no. 2.\n"
-	.string "Are you ready?$"
+	.string "接下来是第2位对手。做好准备了\n"
+	.string "吗？$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor3rdOpponent_hns:
-	.string "You will be facing opponent no. 3.\n"
-	.string "Are you ready?$"
+	.string "接下来是第3位对手。做好准备了\n"
+	.string "吗？$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor4thOpponent_hns:
-	.string "You will be facing opponent no. 4.\n"
-	.string "Are you ready?$"
+	.string "接下来是第4位对手。做好准备了\n"
+	.string "吗？$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor5thOpponent_hns:
-	.string "You will be facing opponent no. 5.\n"
-	.string "Are you ready?$"
+	.string "接下来是第5位对手。做好准备了\n"
+	.string "吗？$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor6thOpponent_hns:
-	.string "You will be facing opponent no. 6.\n"
-	.string "Are you ready?$"
+	.string "接下来是第6位对手。做好准备了\n"
+	.string "吗？$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor7thOpponent_hns:
-	.string "You will be facing opponent no. 7.\n"
-	.string "Are you ready?$"
+	.string "接下来是第7位对手。做好准备了\n"
+	.string "吗？$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordYourBattle_hns:
-	.string "Record your battle on your\n"
-	.string "FRONTIER PASS?$"
+	.string "要把对战记录在开拓通行证上吗？$"
 
 BattleFrontier_BattleTowerLobby_Text_BattleRecordedOnPass_hns:
-	.string "{PLAYER}'s battle was recorded\n"
-	.string "on the FRONTIER PASS.$"
+	.string "{PLAYER}的对战已被记录在\n"
+	.string "开拓通行证上。$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SaveAndQuitGame_hns:
 	.string "要保存记录并结束游戏吗？$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SavingPleaseWait_hns:
-	.string "Saving your battle data.\n"
-	.string "Please wait.$"
+	.string "正在保存对战数据。请稍候。$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_CancelYourChallenge_hns:
-	.string "Would you like to cancel your BATTLE\n"
-	.string "ROOM challenge?$"
+	.string "要放弃挑战对战室吗？$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordCouldntBeSaved_hns::
-	.string "There was an error of some sort.\n"
-	.string "Your record could not be saved.$"
+	.string "发生了一些错误。无法保存你的记\n"
+	.string "录。$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SalonMaidenOnHerWay_hns:
-	.string "Excuse me, but…\p"
-	.string "Our leader, the SALON MAIDEN, is on\n"
-	.string "her way here in hopes of battling you.\p"
-	.string "She should be arriving very shortly.$"
+	.string "打扰一下......\p"
+	.string "我们的首领，对战大君正满怀期待地\n"
+	.string "赶往这里与你对战。\p"
+	.string "她应该很快就会到达。$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForSalonMaiden_hns:
-	.string "You will be facing the SALON MAIDEN.\n"
-	.string "Are you prepared?$"
+	.string "你将面对对战大君。做好准备了吗？$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_GreetingsImAnabel_hns:
-	.string "Greetings…\n"
-	.string "My name is ANABEL.\p"
-	.string "I am the SALON MAIDEN, and I am in\n"
-	.string "charge of running the BATTLE TOWER…\p"
-	.string "I have heard several rumors\n"
-	.string "about you…\p"
-	.string "In all honesty, what I have heard does\n"
-	.string "not seem attractive in any way…\p"
-	.string "The reason I've come to see you…\n"
-	.string "Well, there is but one reason…$"
+	.string "你好......我叫莉拉。\p"
+	.string "我是对战大君，负责管理这座对战\n"
+	.string "塔......\p"
+	.string "我听到了关于你的不少传闻...\n"
+	.string "...\p"
+	.string "说实话，听起来好像并没有什么特别\n"
+	.string "吸引人的地方......\p"
+	.string "我来这里见你......嗯，理由\n"
+	.string "只有一个......$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_LetMeSeeYourTalent_hns:
-	.string "Let me see your talent in\n"
-	.string "its entirety…$"
+	.string "让我见识见识你全部的才能吧..\n"
+	.string "....$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognized_hns:
-	.string "ANABEL: Fufufu, nicely done…\p"
-	.string "Your FRONTIER PASS, please…\n"
-	.string "Your talent shall be recognized.$"
+	.string "莉拉：呵呵呵，干得漂亮....\n"
+	.string "..\p"
+	.string "请出示你的开拓通行证......\n"
+	.string "你的才能值得受到认可。$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReceivedAbilitySymbol_hns:
-	.string "The Ability Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "开拓通行证上刻印了能力象征！$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_UntilNextTime_hns:
-	.string "… … … … … …\p"
-	.string "You have confidence in your POKéMON\n"
-	.string "battling talent, don't you?\p"
-	.string "I urge you to keep battling and\n"
-	.string "keep on winning.\p"
-	.string "I will be waiting for you.\n"
-	.string "Until the next time we meet…$"
+	.string "..................\p"
+	.string "你对自己的宝可梦对战才能很有信\n"
+	.string "心，对吧？\p"
+	.string "请务必继续战斗，继续赢下去。\p"
+	.string "我会一直等着你的。期待与你下次相\n"
+	.string "遇......$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelYouCameBack_hns:
-	.string "ANABEL: You really did come back to\n"
-	.string "see me…\p"
-	.string "… … … … … …\p"
-	.string "You've won straight matches to see me…\n"
-	.string "I won't have to hold back against you…\p"
-	.string "It's been too long now…\p"
-	.string "Too long since I've been able to battle\n"
-	.string "without thinking about anything…$"
+	.string "莉拉：你真的又回来见我了呢..\n"
+	.string "....\p"
+	.string "..................\p"
+	.string "一路连胜来见我......面对\n"
+	.string "你，我也用不着手下留情了...\l"
+	.string "...\p"
+	.string "真是太久了......\p"
+	.string "已经很久没有这样什么都不用想、全\n"
+	.string "心全意地去对战了......$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_LetsBeginShallWe_hns:
 	.string "那么，开始吧？$"

@@ -1,0 +1,14 @@
+[
+  {
+    "file": "src/pokedex_plus_hgss.c",
+    "source": "Land {STR_VAR_2} critical hits in\\nsingle battle",
+    "translation": "在单场对战中命中{STR_VAR_2}次要害",
+    "provenance": "manual UI localization; placeholders preserved"
+  },
+  {
+    "file": "src/pokedex_plus_hgss.c",
+    "source": "dynamic evolution condition fragments",
+    "translation": "Chinese labels for evolution conditions, regions, times, genders, and battle requirements",
+    "provenance": "manual dynamic evolution-condition localization; runtime placeholders preserved"
+  }
+]

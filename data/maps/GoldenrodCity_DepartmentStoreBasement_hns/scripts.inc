@@ -185,9 +185,9 @@ GoldenrodDeptStore_Text_BlackBeltMove:
 	.string "豪力，帮我们把那块岩石挪开！$"
 
 GoldenrodDeptStore_Text_B1FBlackBelt1:
-    .string "Hey, kid! You're holding us up!\p"
-    .string "Our policy is to work behind the\n"
-    .string "scenes where no one can see us!$"
+    .string "喂，小鬼！你挡着我们干活了！\p"
+    .string "我们的原则是在别人看不到的幕后默\n"
+    .string "默工作！$"
 
 GoldenrodDeptStore_Text_B1FBlackBelt2:
     .string "要是有人盯着看，我可就没心思工作\n"

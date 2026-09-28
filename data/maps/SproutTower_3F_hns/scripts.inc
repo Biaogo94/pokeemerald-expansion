@@ -171,17 +171,13 @@ SproutTower_Text_ElderLecturesRival:
 	.string ".$"
 
 SproutTower_Text_RivalOnlyCaresStrong:
-	.string "…\n"
-	.string "…Humph!\p"
-	.string "He claims to be the ELDER but\n"
-	.string "he's weak.\p"
-	.string "It stands to reason.\p"
-	.string "I'd never lose to fools who babble\n"
-	.string "about being nice to POKéMON.\p"
-	.string "I only care about strong\n"
-	.string "POKéMON that can win.\p"
-	.string "I really couldn't care less\n"
-	.string "about weak POKéMON.$"
+	.string "............哼！\p"
+	.string "自称是什么长老，实力不过如此。\p"
+	.string "这也难怪。\p"
+	.string "成天把“要善待宝可梦”挂在嘴边的\n"
+	.string "蠢货，我怎么可能会输给他们。\p"
+	.string "我只在乎能打赢的强力宝可梦。\p"
+	.string "弱小的宝可梦，我根本不屑一顾。$"
 
 SproutTower_Text_RivalUsedEscapeRope:
 	.string "{RIVAL}使用了脱洞绳！$"
@@ -242,5 +238,4 @@ SproutTower_Text_SageNeal_AfterBattle:
 	.string "愿你的旅途充满光明。$"
 
 SproutTower_Text_3F_Painting:
-	.string "It's a powerful painting of a\n"
-	.string "BELLSPROUT.$"
+	.string "这是一幅气势磅礴的喇叭芽画像。$"

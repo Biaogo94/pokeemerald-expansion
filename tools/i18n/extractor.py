@@ -7,7 +7,7 @@ The corpus is the input to the rest of the i18n pipeline (``aligner.py``,
 
 Two very different source dialects are covered.
 
-``.inc`` script data (``data/maps/*.inc``, ``data/text/*.inc``)
+``.inc`` script data (``data/maps/*.inc``, ``data/text/*.inc``, ``data/scripts/*.inc``)
     A label followed by a run of ``.string "..."`` lines.  The run ends at the
     first line that is not a ``.string`` line -- in particular at any
     ``#if``/``#else``/``#elif``/``#endif``.  That mirrors
@@ -586,6 +586,7 @@ def _default_c_category(file_path: str) -> str:
 INC_SCAN_DIRS: Tuple[str, ...] = (
     "data/maps",
     "data/text",
+    "data/scripts",
 )
 
 #: Engine text files, listed one by one.  Deliberately *not* a walk of all of

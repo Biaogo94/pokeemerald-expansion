@@ -53,13 +53,12 @@ MountMortar2_Text_PokemaniacMillerBeaten:
 	.string "？$"
 
 MountMortar2_Text_PokemaniacMillerAfter:
-	.string "A while back, this karate dude\n"
-	.string "wanted to battle.\p"
-	.string "He was ridiculously good.\n"
-	.string "He just thrashed us silly.\p"
-	.string "He went in deeper saying it\n"
-	.string "was for his training.\p"
-	.string "I wonder how he is?$"
+	.string "不久前，有个练空手道的家伙向我们\n"
+	.string "发起挑战。\p"
+	.string "他强得不可思议，把我们揍得落花流\n"
+	.string "水。\p"
+	.string "他说为了修行，又往更深处去了。\p"
+	.string "不知道他现在怎么样了？$"
 
 MountMortar2_Text_SupernerdMarkusSeen:
 	.string "喂！修！$"
@@ -68,9 +67,7 @@ MountMortar2_Text_SupernerdMarkusBeaten:
 	.string "我认错人了......$"
 
 MountMortar2_Text_SupernerdMarkusAfter:
-	.string "I came to explore MT.MORTAR,\n"
-	.string "but I got separated from my\l"
-	.string "partner…\p"
-	.string "Did you run into a trainer\n"
-	.string "who uses a SEADRA that knows\l"
-	.string "WATERFALL?$"
+	.string "我是来擂钵山探险的，但跟搭档走散\n"
+	.string "了......\p"
+	.string "你有没有碰到带着学会“攀瀑”的海\n"
+	.string "刺龙的训练家？$"

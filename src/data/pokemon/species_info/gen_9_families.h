@@ -31,7 +31,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 41,
         .description = COMPOUND_STRING(
             "通过身体发出的甜甜香气来让周围的\n"
-            "一切为之倾倒。晒到阳光后香气会更\l"
+            "一切为之倾倒。晒到阳光后香气会更\n"
             "加浓郁。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -157,7 +157,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 312,
         .description = COMPOUND_STRING(
             "会巧妙地引开敌人的注意力，然后引\n"
-            "爆它在神不知鬼不觉间设置好的装满\l"
+            "爆它在神不知鬼不觉间设置好的装满\n"
             "花粉的花炸弹。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -346,7 +346,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 3265,
         .description = COMPOUND_STRING(
             "温柔的歌声能治愈听者的灵魂。会使\n"
-            "用3000度的火焰将敌人烧成灰烬\l"
+            "用3000度的火焰将敌人烧成灰烬\n"
             "。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -410,7 +410,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 61,
         .description = COMPOUND_STRING(
             "脚力之强，即使在水流湍急的河川也\n"
-            "能自在游动。爱干净，性格有些顽固\l"
+            "能自在游动。爱干净，性格有些顽固\n"
             "。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -536,7 +536,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 619,
         .description = COMPOUND_STRING(
             "会用充满异国风情的舞蹈来迷倒看者\n"
-            "，然后挥舞以水构成的羽饰将其劈裂\l"
+            "，然后挥舞以水构成的羽饰将其劈裂\n"
             "。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -600,7 +600,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 102,
         .description = COMPOUND_STRING(
             "只吃精挑细选过的食物。虫宝可梦很\n"
-            "讨厌它身上散发的那种仿佛香草的气\l"
+            "讨厌它身上散发的那种仿佛香草的气\n"
             "味。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -793,7 +793,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 40,
         .description = COMPOUND_STRING(
             "从臀部射出的丝线的强度可以匹敌金\n"
-            "属丝。强度的秘密至今仍在被研究中\l"
+            "属丝。强度的秘密至今仍在被研究中\n"
             "。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -983,7 +983,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 175,
         .description = COMPOUND_STRING(
             "进入决战模式时会使用折叠起来的第\n"
-            "3双脚，这会给它身体造成很大的负\l"
+            "3双脚，这会给它身体造成很大的负\n"
             "担，因此无法久战。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -1235,7 +1235,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 18,
         .description = COMPOUND_STRING(
             "无论何时2只待都在一起。会把寻获\n"
-            "的食物均分成两半，亲密无间地一起\l"
+            "的食物均分成两半，亲密无间地一起\n"
             "进食。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -1300,7 +1300,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 23,
         .description = COMPOUND_STRING(
             "不知不觉之间多了个小孩。虽然像一\n"
-            "家子一样生活，但3只的关系仍是个\l"
+            "家子一样生活，但3只的关系仍是个\n"
             "迷。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -1429,7 +1429,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 109,
         .description = COMPOUND_STRING(
             "吐出的气息中所含有的酵母能在制作\n"
-            "料理时派上用场，因此自古以来都受\l"
+            "料理时派上用场，因此自古以来都受\n"
             "到人们的保护。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -1556,7 +1556,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 65,
         .description = COMPOUND_STRING(
             "会把营养转换成油，并储存在头部的\n"
-            "果实里。1个星期不吃不喝也无所谓\l"
+            "果实里。1个星期不吃不喝也无所谓\n"
             "。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -1620,7 +1620,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 119,
         .description = COMPOUND_STRING(
             "当头上的果实沐浴了充足的阳光而开\n"
-            "始成熟时，它就会远离人烟，踏上旅\l"
+            "始成熟时，它就会远离人烟，踏上旅\n"
             "途。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -1746,7 +1746,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 24,
         .description = COMPOUND_STRING(
             "拥有绿色羽毛的怒鹦哥势力最为庞大\n"
-            "。在觅食时段的早晨和夜晚会非常吵\l"
+            "。在觅食时段的早晨和夜晚会非常吵\n"
             "。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -1939,7 +1939,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 24,
         .description = COMPOUND_STRING(
             "虽然这种颜色的数量最少，但由于能\n"
-            "融入建筑物的颜色里，因此在城镇中\l"
+            "融入建筑物的颜色里，因此在城镇中\n"
             "生活起来很容易。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -2006,7 +2006,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 160,
         .description = COMPOUND_STRING(
             "身体会受到地面磨损，因此只要走过\n"
-            "就会留下盐迹。体内会随时制造出盐\l"
+            "就会留下盐迹。体内会随时制造出盐\n"
             "来补充。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -2132,7 +2132,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 2400,
         .description = COMPOUND_STRING(
             "盐石巨灵的周围总会有大量的宝可梦\n"
-            "聚集而来，为了一舔它那富含矿物质\l"
+            "聚集而来，为了一舔它那富含矿物质\n"
             "的盐。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -2196,7 +2196,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 105,
         .description = COMPOUND_STRING(
             "一旦进入战斗状态，火力就会上升至\n"
-            "摄氏1000度。喜欢吃油脂含量高\l"
+            "摄氏1000度。喜欢吃油脂含量高\n"
             "的树果。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -2263,7 +2263,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 850,
         .description = COMPOUND_STRING(
             "身上包裹着通过超能力和火焰的能量\n"
-            "而得到强化的铠甲。会释放灼热的火\l"
+            "而得到强化的铠甲。会释放灼热的火\n"
             "球。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -2452,7 +2452,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 1130,
         .description = COMPOUND_STRING(
             "看似眼球的部位其实是放电器官，能\n"
-            "够用来发射腹部的发电脐所制造的电\l"
+            "够用来发射腹部的发电脐所制造的电\n"
             "力。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -2516,7 +2516,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 36,
         .description = COMPOUND_STRING(
             "在海岸的悬崖上筑巢。它的巢具有在\n"
-            "嘴里蹦跳的神奇口感，因此是受欢迎\l"
+            "嘴里蹦跳的神奇口感，因此是受欢迎\n"
             "的珍味佳肴。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -2580,7 +2580,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 386,
         .description = COMPOUND_STRING(
             "会把翅膀制造的电储存到喉囊里。由\n"
-            "于羽毛所含的油脂非常少，因此它不\l"
+            "于羽毛所含的油脂非常少，因此它不\n"
             "是很擅长游泳。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -2644,7 +2644,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 160,
         .description = COMPOUND_STRING(
             "发达的颚部和獠牙拥有能咬碎岩石的\n"
-            "强大威力。厚厚脂肪的防御力相当突\l"
+            "强大威力。厚厚脂肪的防御力相当突\n"
             "出。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -2897,7 +2897,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 6,
         .description = COMPOUND_STRING(
             "随着风在荒野之间滚动，自己也不知\n"
-            "道会滚到哪里去。最讨厌身体被弄得\l"
+            "道会滚到哪里去。最讨厌身体被弄得\n"
             "湿答答的。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -2961,7 +2961,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 60,
         .description = COMPOUND_STRING(
             "会在干燥地带流浪。有极低的概率会\n"
-            "大量出现，把一座城镇塞得满满当当\l"
+            "大量出现，把一座城镇塞得满满当当\n"
             "。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -3027,7 +3027,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 330,
         .description = COMPOUND_STRING(
             "看起来像玛瑙水母，其实是截然不同\n"
-            "的种类。虽然脚很细，但是跑起来能\l"
+            "的种类。虽然脚很细，但是跑起来能\n"
             "达到时速50公里。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -3093,7 +3093,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 580,
         .description = COMPOUND_STRING(
             "会用10根触手缠住敌人并吸取养分\n"
-            "来折磨对方。下摆的褶皱是很受欢迎\l"
+            "来折磨对方。下摆的褶皱是很受欢迎\n"
             "的珍味佳肴。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -3157,7 +3157,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 790,
         .description = COMPOUND_STRING(
             "生活在陡峭的悬崖上。会通过侧步来\n"
-            "闪避攻击，然后用钳子瞄准对手的要\l"
+            "闪避攻击，然后用钳子瞄准对手的要\n"
             "害。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -3222,7 +3222,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 30,
         .description = COMPOUND_STRING(
             "帕底亚的当地特色菜会用热辣娃掉落\n"
-            "的门牙来做料理，因此味道极其辛辣\l"
+            "的门牙来做料理，因此味道极其辛辣\n"
             "。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -3286,7 +3286,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 150,
         .description = COMPOUND_STRING(
             "绿色的头会变得凶暴，是因为脑部受\n"
-            "到了辣味成分的刺激。一旦暴怒起来\l"
+            "到了辣味成分的刺激。一旦暴怒起来\n"
             "就会一发不可收拾。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -3343,7 +3343,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_GRASS),
         .abilities = { ABILITY_CHLOROPHYLL, ABILITY_INSOMNIA, ABILITY_MOODY },
         .bodyColor = BODY_COLOR_GREEN,
-        .speciesName = _("SCOVILLAIN"),
+        .speciesName = _("狠辣椒"),
     #if P_MODIFIED_MEGA_CRIES
         .cryId = CRY_SCOVILLAIN_MEGA,
     #else
@@ -3473,7 +3473,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 35,
         .description = COMPOUND_STRING(
             "为了能让睡在球里面的宝宝睡得更香\n"
-            "甜，会用脚转动球，让宝宝感到安心\l"
+            "甜，会用脚转动球，让宝宝感到安心\n"
             "。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -3537,7 +3537,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 15,
         .description = COMPOUND_STRING(
             "会在荒地跑来跑去来度过时间。如果\n"
-            "最喜欢的树果被拿走，就会穷追不舍\l"
+            "最喜欢的树果被拿走，就会穷追不舍\n"
             "地展开报复。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -3601,7 +3601,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 900,
         .description = COMPOUND_STRING(
             "会从彩色的褶边的缝隙间释放出精神\n"
-            "力量，借此以时速200公里的速度\l"
+            "力量，借此以时速200公里的速度\n"
             "狂奔。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -3728,7 +3728,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 591,
         .description = COMPOUND_STRING(
             "栖息在堆满破铜烂铁的地方。为了测\n"
-            "试锤子的强度，会和伙伴们激烈地敲\l"
+            "试锤子的强度，会和伙伴们激烈地敲\n"
             "打彼此。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -3791,7 +3791,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 1128,
         .description = COMPOUND_STRING(
             "会轻松地挥舞超过100公斤的锤子\n"
-            "来夺取想要的东西，然后带回自己的\l"
+            "来夺取想要的东西，然后带回自己的\n"
             "住处。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -3855,7 +3855,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 18,
         .description = COMPOUND_STRING(
             "虽与地鼠相似，却是完全不同的种类\n"
-            "。据说是为了适应生活环境，才偶然\l"
+            "。据说是为了适应生活环境，才偶然\n"
             "变得相似。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -3982,7 +3982,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 429,
         .description = COMPOUND_STRING(
             "会用胸口的袋子包住食物，然后带回\n"
-            "巢里。以弄掉会发出响亮声音的东西\l"
+            "巢里。以弄掉会发出响亮声音的东西\n"
             "为乐。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -4110,7 +4110,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 602,
         .description = COMPOUND_STRING(
             "体能与波普海豚差不多，可一旦伙伴\n"
-            "陷入了危机，就会变身来提高自己的\l"
+            "陷入了危机，就会变身来提高自己的\n"
             "力量。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -4366,7 +4366,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 630,
         .description = COMPOUND_STRING(
             "以时速120公里载着人飞驰。它可\n"
-            "以借由人类的体温来温暖背部，恢复\l"
+            "以借由人类的体温来温暖背部，恢复\n"
             "活力。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -4495,7 +4495,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 80,
         .description = COMPOUND_STRING(
             "成分为毒的结晶看起来就像是花瓣。\n"
-            "会像撒花粉一样撒出毒粉来保护自身\l"
+            "会像撒花粉一样撒出毒粉来保护自身\n"
             "安全。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -4617,7 +4617,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MINERAL),
         .abilities = { ABILITY_TOXIC_DEBRIS, ABILITY_NONE, ABILITY_CORROSION },
         .bodyColor = BODY_COLOR_BLUE,
-        .speciesName = _("GLIMMORA"),
+        .speciesName = _("晶光花"),
     #if P_MODIFIED_MEGA_CRIES
         .cryId = CRY_GLIMMORA_MEGA,
     #else
@@ -4938,7 +4938,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 7000,
         .description = COMPOUND_STRING(
             "上颚的角集中了冰之能量，会使其变\n"
-            "得超低温，以此来将自己的周围冻结\l"
+            "得超低温，以此来将自己的周围冻结\n"
             "。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -5002,7 +5002,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 900,
         .description = COMPOUND_STRING(
             "拥有强大的再生能力。会丢弃身上的\n"
-            "赘肉来让自己变得轻盈后再去突击猎\l"
+            "赘肉来让自己变得轻盈后再去突击猎\n"
             "物。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -5133,7 +5133,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 80,
         .description = COMPOUND_STRING(
             "非常狡猾奸诈的宝可梦。会假装虚弱\n"
-            "来吸引猎物接近，接着让自己同伙的\l"
+            "来吸引猎物接近，接着让自己同伙的\n"
             "宝可梦发动攻击。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -5322,7 +5322,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_WATER_2),
         .abilities = { ABILITY_STORM_DRAIN, ABILITY_NONE, ABILITY_STORM_DRAIN },
         .bodyColor = BODY_COLOR_RED,
-        .speciesName = _("TATSUGIRI"),
+        .speciesName = _("米立龙"),
     #if P_MODIFIED_MEGA_CRIES
         .cryId = CRY_TATSUGIRI_MEGA,
     #else
@@ -5334,7 +5334,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 240,
         .description = COMPOUND_STRING(
             "超级进化使大脑活性化，让它变得更\n"
-            "加精明狡猾。会制造并熟练使用分身\l"
+            "加精明狡猾。会制造并熟练使用分身\n"
             "。"),
         .frontPic = gMonFrontPic_TatsugiriCurlyMega,
         .frontPicSize = MON_COORDS_SIZE(64, 64),
@@ -5379,7 +5379,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_WATER_2),
         .abilities = { ABILITY_STORM_DRAIN, ABILITY_NONE, ABILITY_STORM_DRAIN },
         .bodyColor = BODY_COLOR_RED,
-        .speciesName = _("TATSUGIRI"),
+        .speciesName = _("米立龙"),
     #if P_MODIFIED_MEGA_CRIES
         .cryId = CRY_TATSUGIRI_MEGA,
     #else
@@ -5391,7 +5391,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 240,
         .description = COMPOUND_STRING(
             "会凝聚超级进化的能量作为溢出的能\n"
-            "量射出，一碰到东西就会发生大爆炸\l"
+            "量射出，一碰到东西就会发生大爆炸\n"
             "。"),
         .frontPic = gMonFrontPic_TatsugiriDroopyMega,
         .frontPicSize = MON_COORDS_SIZE(64, 64),
@@ -5436,7 +5436,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_WATER_2),
         .abilities = { ABILITY_STORM_DRAIN, ABILITY_NONE, ABILITY_STORM_DRAIN },
         .bodyColor = BODY_COLOR_RED,
-        .speciesName = _("TATSUGIRI"),
+        .speciesName = _("米立龙"),
     #if P_MODIFIED_MEGA_CRIES
         .cryId = CRY_TATSUGIRI_MEGA,
     #else
@@ -5448,7 +5448,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 240,
         .description = COMPOUND_STRING(
             "会用超级进化的能量制成像盘子一样\n"
-            "的东西，乘上去后在空中也能自由自\l"
+            "的东西，乘上去后在空中也能自由自\n"
             "在地移动。"),
         .frontPic = gMonFrontPic_TatsugiriStretchyMega,
         .frontPicSize = MON_COORDS_SIZE(40, 40),
@@ -5570,7 +5570,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 80,
         .description = COMPOUND_STRING(
             "超自然杂志曾将某只神秘的宝可梦介\n"
-            "绍为10亿年前的胖丁，该宝可梦与\l"
+            "绍为10亿年前的胖丁，该宝可梦与\n"
             "它长得很相似。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -5636,7 +5636,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 210,
         .description = COMPOUND_STRING(
             "可疑的杂志曾介绍过某种恐龙与蘑菇\n"
-            "合成的宝可梦，该宝可梦与它有些相\l"
+            "合成的宝可梦，该宝可梦与它有些相\n"
             "似。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -5900,7 +5900,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 2400,
         .description = COMPOUND_STRING(
             "近年有人目击到它。是与古老的探险\n"
-            "记中记载的不明物体长得很像的宝可\l"
+            "记中记载的不明物体长得很像的宝可\n"
             "梦。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -6031,7 +6031,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 3807,
         .description = COMPOUND_STRING(
             "这种宝可梦与某本探险记中记载的一\n"
-            "种叫做铁臂膀的物体有许多相似之处\l"
+            "种叫做铁臂膀的物体有许多相似之处\n"
             "。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -6293,7 +6293,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 170,
         .description = COMPOUND_STRING(
             "栖息在岩石地带或森林里。会用背鳍\n"
-            "的力量将巢穴里的温度降到如冷冻库\l"
+            "的力量将巢穴里的温度降到如冷冻库\n"
             "般寒冷。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -6357,7 +6357,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 300,
         .description = COMPOUND_STRING(
             "冻住背鳍，并使其形成剑，再使出前\n"
-            "空翻来攻击对手。完成此举需要强健\l"
+            "空翻来攻击对手。完成此举需要强健\n"
             "的腰腿。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -6420,7 +6420,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 2100,
         .description = COMPOUND_STRING(
             "会倒转身体并从口中吐出冷气，然后\n"
-            "靠吐气的作用力猛冲，用背鳍的剑给\l"
+            "靠吐气的作用力猛冲，用背鳍的剑给\n"
             "予敌人致命一击。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -6477,7 +6477,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_DRAGON, EGG_GROUP_MINERAL),
         .abilities = { ABILITY_THERMAL_EXCHANGE, ABILITY_NONE, ABILITY_ICE_BODY },
         .bodyColor = BODY_COLOR_BLUE,
-        .speciesName = _("BAXCALIBUR"),
+        .speciesName = _("戟脊龙"),
     #if P_MODIFIED_MEGA_CRIES
         .cryId = CRY_BAXCALIBUR_MEGA,
     #else
@@ -6489,7 +6489,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 3150,
         .description = COMPOUND_STRING(
             "背鳍的剑因超级进化而变得更加巨大\n"
-            "。它会从上腹部的剑柄发射光束招式\l"
+            "。它会从上腹部的剑柄发射光束招式\n"
             "进行攻击。"),
         .frontPic = gMonFrontPic_BaxcaliburMega,
         .frontPicSize = MON_COORDS_SIZE(64, 64),
@@ -6545,7 +6545,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 50,
         .description = COMPOUND_STRING(
             "栖息在老旧的宝箱中。有时会因没人\n"
-            "注意到自己是宝可梦，而被搁置在道\l"
+            "注意到自己是宝可梦，而被搁置在道\n"
             "具店的角落。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -6858,7 +6858,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 6997,
         .description = COMPOUND_STRING(
             "当它缓缓挥下自己笨重的头部时，会\n"
-            "让地面出现深度达50米的巨大裂缝\l"
+            "让地面出现深度达50米的巨大裂缝\n"
             "。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -6924,7 +6924,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 49,
         .description = COMPOUND_STRING(
             "曾引起无数斗争的勾玉聚集了嫉妒之\n"
-            "情。这些嫉妒缠绕了火焰，变成了宝\l"
+            "情。这些嫉妒缠绕了火焰，变成了宝\n"
             "可梦。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -6992,7 +6992,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 3800,
         .description = COMPOUND_STRING(
             "根据可疑杂志的报道所说，这种宝可\n"
-            "梦好像跟某个地区会发生的现象有关\l"
+            "梦好像跟某个地区会发生的现象有关\n"
             "联。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -7123,7 +7123,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 3030,
         .description = COMPOUND_STRING(
             "虽然外观与摩托蜥相似，但却远比后\n"
-            "者更为顽强凶暴。有关它的生态等信\l"
+            "者更为顽强凶暴。有关它的生态等信\n"
             "息一切未明。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -7190,7 +7190,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 2400,
         .description = COMPOUND_STRING(
             "它似乎就是古老的书籍中提及的铁大\n"
-            "蛇。传说它曾用雷电将大地变为灰烬\l"
+            "蛇。传说它曾用雷电将大地变为灰烬\n"
             "。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -7520,7 +7520,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 22,
         .description = COMPOUND_STRING(
             "喜欢待在民宅的地板下和架子深处等\n"
-            "阴凉的地方。日落后会四处徘徊寻找\l"
+            "阴凉的地方。日落后会四处徘徊寻找\n"
             "猎物。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -7585,7 +7585,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 22,
         .description = COMPOUND_STRING(
             "会住到由著名烧制技艺大师所制作的\n"
-            "精美茶碗中。是让爱好者痴迷不已的\l"
+            "精美茶碗中。是让爱好者痴迷不已的\n"
             "宝可梦。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -7929,7 +7929,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 5900,
         .description = COMPOUND_STRING(
             "与超自然杂志所刊登的可疑的宝可梦\n"
-            "很相似。该杂志声称那是从化石中复\l"
+            "很相似。该杂志声称那是从化石中复\n"
             "原的炎帝。"),
         .pokemonScale = 259,
         .pokemonOffset = 0,
@@ -8125,7 +8125,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 1560,
         .description = COMPOUND_STRING(
             "据说它曾经射出发光的刀刃砍断了周\n"
-            "围的一切，但无其他信息，身份不明\l"
+            "围的一切，但无其他信息，身份不明\n"
             "。"),
         .pokemonScale = 256,
         .pokemonOffset = 0,
@@ -8328,7 +8328,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 770,
         .description = COMPOUND_STRING(
             "跟据古老的探险记记载，它被掩埋在\n"
-            "地底的样子就像浮在宇宙的星星一样\l"
+            "地底的样子就像浮在宇宙的星星一样\n"
             "。"),
         .pokemonScale = 256,
         .pokemonOffset = 0,

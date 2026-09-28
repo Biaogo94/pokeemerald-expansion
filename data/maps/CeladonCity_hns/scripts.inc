@@ -20,10 +20,10 @@ CeladonCity_EventScript_Erika::
     end
 
 CeladonCity_Text_Erika:
-    .string "Oh, {PLAYER}.\n"
-	.string "Isn't the fountain lovely today?\p"
-	.string "If you wish for another battle,\n"
-	.string "I'll be at the FIGHTING DOJO.$"
+    .string "哎呀，{PLAYER}。今天的喷\n"
+    .string "泉真漂亮啊。\p"
+    .string "如果你还想与我切磋的话，我会在格\n"
+    .string "斗道场恭候。$"
 
 CeladonCity_EventScript_Fatman::
 	msgbox CeladonCity_Text_Fisher, MSGBOX_NPC
@@ -71,9 +71,9 @@ CeladonCity_EventScript_Item_Recycle::
     end
 
 CeladonCity_Text_Fisher:
-	.string "This POLIWRATH is my partner.\p"
-	.string "I wonder if it'll ever evolve\n"
-	.string "into a frog POKéMON.$"
+	.string "这只快泳蛙是我的搭档。\p"
+	.string "不知道它还会不会进化成青蛙宝可梦\n"
+	.string "呢。$"
 
 CeladonCity_Text_Poliwrath:
 	.string "快泳蛙：呱！$"
@@ -84,36 +84,35 @@ CeladonCity_Text_Teacher1:
 	.string "你也应该去试试看嘛。$"
 
 CeladonCity_Text_Gramps1:
-	.string "GRIMER have been appearing lately.\p"
-	.string "See that pond out in front of the\n"
-	.string "house? GRIMER live there now.\p"
-	.string "Where did they come from? This is\n"
-	.string "a serious problem…$"
+	.string "最近臭泥老是冒出来。\p"
+	.string "看见房子前面的水池了吗？现在臭泥\n"
+	.string "都住在那里了。\p"
+	.string "它们到底是从哪里来的啊？这可真是\n"
+	.string "个严重的问题......$"
 
 CeladonCity_Text_Gramps2:
-	.string "Nihihi! This GYM is great! Only\n"
-	.string "girls are allowed here!$"
+	.string "嘻嘻嘻！这个道馆太棒了！这里只有\n"
+	.string "女孩子能进呢！$"
 
 CeladonCity_Text_Youngster1:
 	.string "想知道一个秘密吗？\p"
 	.string "玉虹大厦其实有个隐蔽的后门哦。$"
 
 CeladonCity_Text_Youngster2:
-	.string "They're holding an eating contest\n"
-	.string "at the restaurant.\p"
-	.string "Just watching them go at it makes\n"
-	.string "me feel bloated…$"
+	.string "餐厅里正在举办大胃王比赛呢。\p"
+	.string "光是看着他们狼吞虎咽，我都觉得肚\n"
+	.string "子撑了......$"
 
 CeladonCity_Text_Teacher2:
-	.string "CELADON DEPT.STORE has the biggest\n"
-	.string "and best selection of merchandise.\p"
-	.string "If you can't get it there, you\n"
-	.string "can't get it anywhere.\p"
-	.string "Gee… I sound like a sales clerk.$"
+	.string "玉虹百货公司的商品种类最齐全、最\n"
+	.string "丰富了。\p"
+	.string "如果那里都买不到，别的地方就更买\n"
+	.string "不到了。\p"
+	.string "哎呀......我听起来真像个店\n"
+	.string "员。$"
 
 CeladonCity_Text_Lass:
-	.string "Looking at the ground while I was\n"
-	.string "walking made me dizzy.$"
+	.string "边走边看着地面，感觉头好晕。$"
 
 CeladonCity_EventScript_CitySign::
 	msgbox CeladonCity_Text_Sign, MSGBOX_SIGN
@@ -144,9 +143,8 @@ CeladonCity_Text_Sign:
 	.string "描绘彩虹梦想之城$"
 
 CeladonGym_Text_Sign:
-	.string "CELADON CITY POKéMON GYM LEADER:\n"
-	.string "ERIKA\p"
-	.string "The Nature-Loving Princess$"
+	.string "玉虹市宝可梦道馆 馆主：莉佳\p"
+	.string "喜爱大自然的大小姐$"
 
 CeladonCity_Text_DeptStoreSign:
 	.string "应有尽有的玉虹百货大楼！$"
@@ -155,13 +153,11 @@ CeladonCity_Text_MansionSign:
 	.string "玉虹大厦$"
 
 CeladonCity_Text_GameCornerSign:
-	.string "The Playground for Everybody--\n"
-	.string "CELADON GAME CORNER$"
+	.string "人人畅玩的游乐场--玉虹游戏城$"
 
 CeladonCity_Text_TrainerTips:
-	.string "TRAINER TIPS\p"
-	.string "GUARD SPEC. protects POKéMON\n"
-	.string "against SPECIAL attacks such as\l"
-	.string "FLAMETHROWER and SURF.\p"
-	.string "Get your items at CELADON DEPT.\n"
-	.string "STORE!$"
+	.string "训练家贴士\p"
+	.string "“效果防护”能保护宝可梦免受如\n"
+	.string "“喷射火焰”与“冲浪”等特殊招式\l"
+	.string "的影响。\p"
+	.string "快来玉虹百货大楼选购吧！$"

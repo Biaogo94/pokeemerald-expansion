@@ -109,19 +109,18 @@ Route35_EventScript_Item_ParalyzeHeal::
 	end
 
 Route35_Text_CamperIvanSeen:
-	.string "I've been getting POKéMON data off\n"
-	.string "my radio. I think I'm good.$"
+	.string "我一直在收听收音机里的宝可梦情\n"
+	.string "报。我觉得我已经很强了。$"
 
 Route35_Text_CamperIvanBeaten:
 	.string "我认输！$"
 
 Route35_Text_CamperIvanAfter:
-	.string "Music on the radio changes the\n"
-	.string "moods of wild POKéMON.$"
+	.string "收音机里的音乐能改变野生宝可梦的\n"
+	.string "心情。$"
 
 Route35_Text_CamperElliotSeen:
-	.string "I'm gonna show my girlfriend I'm\n"
-	.string "hot stuff!$"
+	.string "我要让我女朋友看看，我有多帅气！$"
 
 Route35_Text_CamperElliotBeaten:
 	.string "真希望你能故意输给我啊.....\n"
@@ -131,15 +130,14 @@ Route35_Text_CamperElliotAfter:
 	.string "在女朋友面前丢大人了......$"
 
 Route35_Text_PicnickerBrookeSeen:
-	.string "My boyfriend's weak, so I can't rely\n"
-	.string "on him.$"
+	.string "我男朋友太弱了，根本靠不住。$"
 
 Route35_Text_PicnickerBrookeBeaten:
 	.string "哎呀！你好强啊！$"
 
 Route35_Text_PicnickerBrookeAfter:
-	.string "I can count on my POKéMON more than\n"
-	.string "my boyfriend.$"
+	.string "比起我男朋友，还是我的宝可梦更靠\n"
+	.string "得住。$"
 
 Route35_Text_PicnickerKimSeen:
 	.string "你也是要去道馆吗？我也是！$"
@@ -148,8 +146,7 @@ Route35_Text_PicnickerKimBeaten:
 	.string "哎呀。没赢过呢......$"
 
 Route35_Text_PicnickerKimAfter:
-	.string "The GYM BADGES are pretty. I collect\n"
-	.string "them.$"
+	.string "道馆徽章真好看，我一直在收集呢。$"
 
 Route35_Text_BirdKeeperBryanSeen:
 	.string "你平时都用些什么球呀？$"
@@ -158,12 +155,11 @@ Route35_Text_BirdKeeperBryanBeaten:
 	.string "呀！速度还不够快！$"
 
 Route35_Text_BirdKeeperBryanAfter:
-	.string "Some POKéMON flee right away.\p"
-	.string "Try catching them with KURT's\n"
-	.string "FAST BALL.\p"
-	.string "Whenever I find a ASPEAR BERRY, I\n"
-	.string "take it to KURT.\p"
-	.string "He turns it into a custom BALL.$"
+	.string "有的宝可梦一转眼就逃跑了。\p"
+	.string "用钢铁先生做的速度球试试看吧。\p"
+	.string "我只要一找到生梨果，就会拿去给钢\n"
+	.string "铁先生。\p"
+	.string "他会帮我做成特制的球哦。$"
 
 Route35_Text_JugglerIrwinSeen:
 	.string "见识见识我优雅的控球杂耍吧！$"
@@ -172,40 +168,40 @@ Route35_Text_JugglerIrwinBeaten:
 	.string "呼！真是被震撼到了！$"
 
 Route35_Text_JugglerIrwinAfter:
-	.string "I was going to dazzle you with my\n"
-	.string "prize POKéMON.\p"
-	.string "But your prowess electrified me!$"
+	.string "我本想用我得意的宝可梦让你大开眼\n"
+	.string "界的，\p"
+	.string "结果却被你的实力彻底震撼到了！$"
 
 Route35_Text_BugCatcherArnieSeen:
-	.string "I'll go anywhere if bug POKéMON\n"
-	.string "appear there.$"
+	.string "只要有虫宝可梦出现，天涯海角我都\n"
+	.string "去！$"
 
 Route35_Text_BugCatcherArnieBeaten:
 	.string "咦？我不该输的呀......$"
 
 Route35_Text_BugCatcherArnieAfter:
-	.string "My VENONAT won me the Bug-Catching\n"
-	.string "Contest at the NATIONAL PARK.$"
+	.string "我的毛球曾在自然公园的捕虫大赛上\n"
+	.string "拿过优胜呢。$"
 
 Route35_Text_IrwinRegister:
-	.string "I was going to dazzle you with my\n"
-	.string "prize POKéMON.\p"
-	.string "But your prowess electrified me!$"
+	.string "我本想用我得意的宝可梦让你大开眼\n"
+	.string "界的，\p"
+	.string "结果却被你的实力彻底震撼到了！$"
 
 Route35_Text_ArnieRegister:
-	.string "My VENONAT won me the Bug-Catching\n"
-	.string "Contest at the NATIONAL PARK.$"
+	.string "我的毛球曾在自然公园的捕虫大赛上\n"
+	.string "拿过优胜呢。$"
 
 Route35_Text_ArnieRematchIntro:
-	.string "I'll go anywhere if bug POKéMON\n"
-	.string "appear there.$"
+	.string "只要有虫宝可梦出现，天涯海角我都\n"
+	.string "去！$"
 
 Route35_Text_ArnieRematchDefeat:
 	.string "咦？我不该输的呀......$"
 
 Route35_Text_ArniePostRematch:
-	.string "My VENONAT won me the Bug-Catching\n"
-	.string "Contest at the NATIONAL PARK.$"
+	.string "我的毛球曾在自然公园的捕虫大赛上\n"
+	.string "拿过优胜呢。$"
 
 Route35_Text_BugCatcherArnieYanma:
 	.string "哇......看那些蜻蜻蜓！\p"
@@ -218,8 +214,8 @@ Route35_Text_FirebreatherWaltBeaten:
 	.string "好烫！把鼻尖给烧到了！$"
 
 Route35_Text_FirebreatherWaltAfter:
-	.string "The POKéMON March on the radio\n"
-	.string "lures wild POKéMON.$"
+	.string "收音机里的宝可梦进行曲能把野生宝\n"
+	.string "可梦引出来哦。$"
 
 Route35_Text_OfficerDirkSeen:
 	.string "夜晚可是危机四伏的！$"

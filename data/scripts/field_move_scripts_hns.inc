@@ -47,16 +47,15 @@ EventScript_CancelCut::
 	end
 
 Text_WantToCut:
-	.string "This tree looks like it can be\n"
-	.string "CUT down!\p"
-	.string "Would you like to CUT it?$"
+	.string "这棵树看起来能被砍倒！\p"
+	.string "要使用居合劈吗？$"
 
 Text_MonUsedFieldMove:
-	.string "{STR_VAR_1} used {STR_VAR_2}!$"
+	.string "{STR_VAR_1}使用了\n"
+	.string "{STR_VAR_2}！$"
 
 Text_CantCut:
-	.string "This tree looks like it can be\n"
-	.string "CUT down!$"
+	.string "这棵树看起来可以砍倒！$"
 
 @ Use rock smash from party menu
 EventScript_UseRockSmash::
@@ -151,7 +150,8 @@ EventScript_EndHeadbutt::
 	end
 
 Text_MonUsedHeadbutt::
-	.string "{STR_VAR_1} used HEADBUTT!$"
+	.string "{STR_VAR_1}使用了头\n"
+	.string "锤！$"
 
 
 EventScript_FollowerFieldMove:
@@ -306,20 +306,19 @@ EventScript_CancelSmash::
 	end
 
 Text_WantToSmash:
-	.string "This rock appears to be breakable.\n"
-	.string "Would you like to use ROCK SMASH?$"
+	.string "这块岩石看起来能被击碎。要使用碎\n"
+	.string "岩吗？$"
 
 Text_CantSmash:
-	.string "It's a rugged rock, but a POKéMON\n"
-	.string "may be able to smash it.$"
+	.string "这块岩石坚硬而粗糙，但宝可梦或许\n"
+	.string "能击碎它。$"
 
 Text_WantToHeadbutt:
-	.string "This tree may house POKéMON.\n"
-	.string "Would you like to use HEADBUTT?$"
+	.string "树上也许住着宝可梦。要使用头锤\n"
+	.string "吗？$"
 
 Text_CantHeadbutt:
-	.string "It's a small tree, but a wild\n"
-	.string "POKéMON may be living within.$"
+	.string "这棵小树上也许住着野生宝可梦。$"
 
 EventScript_StrengthBoulder::
 	lockall
@@ -368,20 +367,20 @@ EventScript_CancelStrength::
 	end
 
 Text_WantToStrength:
-	.string "It's a big boulder, but a POKéMON\n"
-	.string "may be able to push it aside.\p"
-	.string "Would you like to use STRENGTH?$"
+	.string "这块巨石很大，但宝可梦或许能把它\n"
+	.string "推开。\p"
+	.string "要使用怪力吗？$"
 
 Text_MonUsedStrength:
-	.string "{STR_VAR_1} used STRENGTH!$"
+	.string "{STR_VAR_1}使用了怪\n"
+	.string "力！$"
 
 Text_CantStrength:
-	.string "It's a big boulder, but a POKéMON\n"
-	.string "may be able to push it aside.$"
+	.string "这块巨石很大，但宝可梦或许能把它\n"
+	.string "推开。$"
 
 Text_StrengthActivated:
-	.string "STRENGTH made it possible to move\n"
-	.string "boulders around.$"
+	.string "使出怪力后，巨石就可以推动了！$"
 
 EventScript_UseWaterfall::
 	lockall
@@ -407,15 +406,14 @@ EventScript_EndWaterfall::
 	end
 
 Text_CantWaterfall:
-	.string "A wall of water is crashing down with\n"
-	.string "a mighty roar.$"
+	.string "水流轰鸣着从高处倾泻而下。$"
 
 Text_WantToWaterfall:
-	.string "It's a large waterfall.\n"
-	.string "Would you like to use WATERFALL?$"
+	.string "这里有一条大瀑布。要使用攀瀑吗？$"
 
 Text_MonUsedWaterfall:
-	.string "{STR_VAR_1} used WATERFALL.$"
+	.string "{STR_VAR_1}使用了攀\n"
+	.string "瀑。$"
 
 EventScript_UseDive::
 	lockall
@@ -533,34 +531,33 @@ Movement_WhirlpoolWest:
 	step_end
 
 Text_CantWhirlpool:
-	.string "The water is swirling and spinning\n"
-	.string "around with a mighty roar.$"
+	.string "水流形成漩涡，发出震耳欲聋的轰\n"
+	.string "响。$"
 
 Text_CantDive:
-	.string "The sea is deep here. A POKéMON\n"
-	.string "may be able to go underwater.$"
+	.string "这里的海很深，宝可梦也许能潜到水\n"
+	.string "下去。$"
 
 Text_WantToDive:
-	.string "The sea is deep here.\n"
-	.string "Would you like to use DIVE?$"
+	.string "这里的海很深。要使用潜水吗？$"
 
 Text_MonUsedDive:
-	.string "{STR_VAR_1} used WHIRLPOOL.$"
+	.string "{STR_VAR_1}使用了潜\n"
+	.string "水。$"
 
 Text_CantSurface:
-	.string "Light is filtering down from above.\n"
-	.string "A POKéMON may be able to surface.$"
+	.string "上方透下了光。宝可梦或许能浮出水\n"
+	.string "面。$"
 
 Text_WantToSurface:
-	.string "Light is filtering down from above.\n"
-	.string "Would you like to use DIVE?$"
+	.string "上方透下了光。要使用潜水吗？$"
 
 EventScript_FailSweetScent::
 	msgbox Text_FailSweetScent, MSGBOX_SIGN
 	end
 
 Text_FailSweetScent:
-	.string "Looks like there's nothing here…$"
+	.string "这里似乎什么也没有……$"
 
 EventScript_DigCommon:
 	isfollowerfieldmoveuser VAR_0x8004
@@ -631,15 +628,14 @@ EventScript_EndRockClimb::
 	end
 
 Text_WantToRockClimb:
-	.string "The cliff is steep.\n"
-	.string "Would you like to use Rock Climb?$"
+	.string "峭壁很陡。要使用攀岩吗？$"
 
 Text_MonUsedRockClimb:
-	.string "{STR_VAR_1} used Rock Climb!$"
+	.string "{STR_VAR_1}使用了攀\n"
+	.string "岩！$"
 
 Text_CantRockClimb:
-	.string "The cliff is steep.\n"
-	.string "A Pokémon may be able to climb it.$"
+	.string "峭壁很陡。宝可梦或许能爬上去。$"
 
 SetTimeEncounters::
 	callnative SetTimeBasedEncounters

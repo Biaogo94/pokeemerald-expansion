@@ -144,8 +144,8 @@ GoldenrodCity_RadioTower_2F_EventScript_Jigglypuff::
 	end
 
 RadioTower2FBuenaPasswordIsHelpText:
-	.string "BUENA: Huh? Today's password?\n"
-	.string "HELP, of course!$"
+	.string "葵：咦？今天的暗号？当然是“救\n"
+	.string "命”啦！$"
 
 GoldenrodCity_RadioTower_2F_Text_SuperNerd:
 	.string "不管在哪里都能收听广播哦。快调台\n"

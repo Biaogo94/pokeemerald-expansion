@@ -124,80 +124,69 @@ BugContest_EventScript_SideEnd::
 	end
 
 BugContest_Text_Judging0::
-	.string "The contest has now concluded.\n"
-	.string "Please pick the POKéMON you would\l"
-	.string "like to keep and have judged.$"
+	.string "捕虫大赛已经结束。请选择要留下并\n"
+	.string "参加评审的宝可梦。$"
 
 BugContest_Text_Judging1::
-	.string "We will now judge the POKéMON\n"
-	.string "you've caught.\p"
-	.string "...................\n"
-	.string "...................\p"
-	.string "We have chosen the winners! Are\n"
-	.string "ready for this?$"
+	.string "现在来评审你捉到的宝可梦。\p"
+	.string "………………\p"
+	.string "优胜者已经选出！准备好了吗？$"
 
 BugContest_Text_WrongChoiceMon:
-	.string "Please pick the POKéMON you would\n"
-	.string "like to keep and have judged.$"
+	.string "请选择要留下并参加评审的宝可梦。$"
 
 BugContest_Text_DidntCatch:
-	.string "Oh no! You didn't catch a POKéMON.\n"
-	.string "You've forfeited the competition.\p"
-	.string "Your party will now be returned.$"
+	.string "哎呀！你没有捉到宝可梦，只好退出\n"
+	.string "这次比赛了。\p"
+	.string "现在将你的队伍还给你。$"
 
 BugContest_Text_TimesUp:
-	.string "Ding-dong! Time's up!$"
+	.string "叮咚！时间到了！$"
 
 BugContest_Text_WhiteOut:
-	.string "{PLAYER} is out of useable POKéMON.\n"
-	.string "{PLAYER} forfeited the contest.$"
+	.string "{PLAYER}已没有能战斗的宝\n"
+	.string "可梦。{PLAYER}退出了比\l"
+	.string "赛。$"
 
 BugContest_Text_First1:
-	.string "Placing third is the COOLTRAINER\n"
-	.string "BELINDA, who caught a wriggling\l"
-	.string "BUTTERFREE!$"
+	.string "获得第三名的是精英训练家贝琳达！\n"
+	.string "她捉到了一只活泼的巴大蝶！$"
 BugContest_Text_First2:
-	.string "Placing second is the BUGCATCHER\n"
-	.string "SHAUN, who caught a writhing\l"
-	.string "PINSIR!$"
+	.string "获得第二名的是捕虫少年肖恩！他捉\n"
+	.string "到了一只强壮的凯罗斯！$"
 BugContest_Text_First3:
-	.string "This Bug-Catching Contest Winner\n"
-	.string "is...\p"
-	.string "{PLAYER}, who caught a whopping\n"
-	.string "{STR_VAR_1}!$"
+	.string "本次捕虫大赛的优胜者是……\p"
+	.string "{PLAYER}！捉到了一只\n"
+	.string "{STR_VAR_1}！$"
 
 BugContest_Text_Second1:
-	.string "Placing third is the COOLTRAINER\n"
-	.string "BELINDA, who caught a wriggling\l"
-	.string "BUTTERFREE!$"
+	.string "获得第三名的是精英训练家贝琳达！\n"
+	.string "她捉到了一只活泼的巴大蝶！$"
 BugContest_Text_Second2:
-	.string "Placing second is {PLAYER}, who\n"
-	.string "caught a writhing {STR_VAR_1}!$"
+	.string "获得第二名的是{PLAYER}！\n"
+	.string "捉到了一只\l"
+	.string "{STR_VAR_1}！$"
 BugContest_Text_Second3:
-	.string "This Bug-Catching Contest Winner\n"
-	.string "is...\p"
-	.string "BUGCATCHER SHAUN, who caught a\n"
-	.string "whopping PINSIR!$"
+	.string "本次捕虫大赛的优胜者是……\p"
+	.string "捕虫少年肖恩！他捉到了一只强壮的\n"
+	.string "凯罗斯！$"
 
 BugContest_Text_Third1:
-	.string "Placing third is {PLAYER}, who\n"
-	.string "caught a wriggling {STR_VAR_1}!$"
+	.string "获得第三名的是{PLAYER}！\n"
+	.string "捉到了一只\l"
+	.string "{STR_VAR_1}！$"
 BugContest_Text_Third2:
-	.string "Placing second is the COOLTRAINER\n"
-	.string "BELINDA, who caught a writhing\l"
-	.string "BUTTERFREE!$"
+	.string "获得第二名的是精英训练家贝琳达！\n"
+	.string "她捉到了一只活泼的巴大蝶！$"
 BugContest_Text_Third3:
-	.string "This Bug-Catching Contest Winner\n"
-	.string "is...\p"
-	.string "BUGCATCHER SHAUN, who caught a\n"
-	.string "whopping PINSIR!$"
+	.string "本次捕虫大赛的优胜者是……\p"
+	.string "捕虫少年肖恩！他捉到了一只强壮的\n"
+	.string "凯罗斯！$"
 
 BugContest_Text_TakePartInFuture:
-	.string "Thank you for participating!\n"
-	.string "We hope you'll take part in the\l"
-	.string "future.$"
+	.string "谢谢你的参与！欢迎下次再来参加比\n"
+	.string "赛。$"
 
 BugContest_Text_TransferAndReturn:
-	.string "Your chosen BUG POKéMON will now\n"
-	.string "be sent to the PC and your party\l"
-	.string "will be returned to you.$"
+	.string "你选中的虫属性宝可梦将传送至电\n"
+	.string "脑，其他队员则会回到你的身边。$"

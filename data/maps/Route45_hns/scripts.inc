@@ -105,22 +105,22 @@ Route45_EventScript_Item_Nugget::
 	end
 
 Route45_Text_HikerErikSeen:
-    .string "Be prepared for anything!\p"
-    .string "Let me see if your POKéMON have\n"
-    .string "been raised properly!$"
+    .string "无论何时都要做好万全的准备！\p"
+    .string "让我看看你的宝可梦有没有被好好培\n"
+    .string "育吧！$"
 
 Route45_Text_HikerErikBeaten:
     .string "哎呀，我输掉了！$"
 
 Route45_Text_HikerErikAfter:
-    .string "I'll head back to BLACKTHORN's\n"
-    .string "ICE PATH and train some more.$"
+    .string "我要回烟墨市那边的冰雪小径再好好\n"
+    .string "修行一番。$"
 
 Route45_Text_HikerMichaelSeen:
-    .string "Yo! You're spunky! But you know\n"
-    .string "what?\p"
-    .string "When it comes to sheer\n"
-    .string "spunkiness, I'm the man!$"
+    .string "哟！你挺有干劲的嘛！不过你知道\n"
+    .string "吗？\p"
+    .string "要说干劲冲天，我可不会输给任何\n"
+    .string "人！$"
 
 Route45_Text_HikerMichaelBeaten:
     .string "我的宝可梦干劲还不够足啊！$"
@@ -138,14 +138,12 @@ Route45_Text_HikerParryBeaten:
     .string "哇哈哈哈！我输得彻彻底底！$"
 
 Route45_Text_HikerParryAfter:
-    .string "I'm not much good at thinking,\n"
-    .string "see?\p"
-    .string "So, I just plow ahead with power!$"
+    .string "我这人不太擅长动脑筋，明白吧？\p"
+    .string "所以只要靠蛮力一路猛冲就行了！$"
 
 Route45_Text_ParryRegister:
-    .string "I'm not much good at thinking,\n"
-    .string "see?\p"
-    .string "So, I just plow ahead with power!$"
+    .string "我这人不太擅长动脑筋，明白吧？\p"
+    .string "所以只要靠蛮力一路猛冲就行了！$"
 
 Route45_Text_ParryRematchIntro:
     .string "我的宝可梦可是充满了力量！$"
@@ -154,9 +152,8 @@ Route45_Text_ParryRematchDefeat:
     .string "哇哈哈哈！我输得彻彻底底！$"
 
 Route45_Text_ParryPostRematch:
-    .string "I'm not much good at thinking,\n"
-    .string "see?\p"
-    .string "So, I just plow ahead with power!$"
+    .string "我这人不太擅长动脑筋，明白吧？\p"
+    .string "所以只要靠蛮力一路猛冲就行了！$"
 
 Route45_Text_HikerTimothySeen:
     .string "我为什么登山？\p"
@@ -169,15 +166,14 @@ Route45_Text_HikerTimothyBeaten:
     .string "！$"
 
 Route45_Text_HikerTimothyAfter:
-    .string "The best thing to ever happen to\n"
-    .string "me was discovering POKéMON.$"
+    .string "发生在我身上最棒的事，就是与宝可\n"
+    .string "梦相遇。$"
 
 Route45_Text_HikerParryGivesIron:
-    .string "I just can't find a way to win!\p"
-    .string "Keep it up!\p"
-    .string "Oh, and take this -- it's the\n"
-    .string "gift you couldn't take when we\n"
-    .string "last met.$"
+    .string "我就是找不到获胜的方法！\p"
+    .string "继续加油吧！\p"
+    .string "哦对了，收下这个吧--这是上次见\n"
+    .string "面时你包满没能拿走的礼物。$"
 
 Route45_Text_BlackbeltKenjiSeen:
     .string "我一直独自在此修行。\p"
@@ -187,14 +183,12 @@ Route45_Text_BlackbeltKenjiBeaten:
     .string "哇啊啊啊！$"
 
 Route45_Text_BlackbeltKenjiAfter:
-    .string "This calls for extreme measures.\p"
-    .string "I must take to the hills and train\n"
-    .string "in solitude.$"
+    .string "看来必须采取非常手段了。\p"
+    .string "我得隐入深山，独自闭关苦修。$"
 
 Route45_Text_KenjiRegister:
-    .string "This calls for extreme measures.\p"
-    .string "I must take to the hills and train\n"
-    .string "in solitude.$"
+    .string "看来必须采取非常手段了。\p"
+    .string "我得隐入深山，独自闭关苦修。$"
 
 Route45_Text_KenjiRematchIntro:
     .string "我一直独自在此修行。\p"
@@ -204,9 +198,8 @@ Route45_Text_KenjiRematchDefeat:
     .string "哇啊啊啊！$"
 
 Route45_Text_KenjiPostRematch:
-    .string "This calls for extreme measures.\p"
-    .string "I must take to the hills and train\n"
-    .string "in solitude.$"
+    .string "看来必须采取非常手段了。\p"
+    .string "我得隐入深山，独自闭关苦修。$"
 
 Route45_Text_KenjiHasItem:
     .string "喂！我修行正告一段落呢。\p"
@@ -219,8 +212,8 @@ Route45_Text_KenjiGaveItem:
     .string "啊！$"
 
 Route45_Text_KenjiNoRoom:
-    .string "Hmm, your BAG is full.\p"
-    .string "Come back when you have room.$"
+    .string "嗯，你的包包装满了。\p"
+    .string "腾出地方再来找我吧。$"
 
 Route45_Text_BlackbeltKenjiMorning:
     .string "吃午饭前，我还要再修行一会儿。$"

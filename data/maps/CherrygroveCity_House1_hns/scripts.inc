@@ -18,15 +18,12 @@ CherrygroveCity_House1_EventScript_Kid::
 	end
 
 CherrygroveCity_GymSpeechHouse_Text_PokefanM:
-	.string "You're trying to see how good\n"
-	.string "you are as a POKéMON trainer?\p"
-	.string "You better visit the POKéMON\n"
-	.string "GYMS all over JOHTO and collect\l"
-	.string "BADGES.$"
+	.string "你想知道自己作为宝可梦训练家究竟\n"
+	.string "有多少实力吗？\p"
+	.string "那你最好去挑战城都各地的宝可梦道\n"
+	.string "馆，收集徽章吧。$"
 
 CherrygroveCity_GymSpeechHouse_Text_BugCatcher:
-	.string "When I get older, I'm going to\n"
-	.string "be a GYM LEADER!\p"
-	.string "I make my POKéMON battle with\n"
-	.string "my friend's to make them\l"
-	.string "tougher!$"
+	.string "等我长大了，我要成为道馆馆主！\p"
+	.string "现在我和朋友的宝可梦对战，就是为\n"
+	.string "了让它们变得更强！$"

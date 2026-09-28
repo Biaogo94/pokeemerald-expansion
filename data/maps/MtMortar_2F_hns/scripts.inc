@@ -40,12 +40,10 @@ MtMortar_2F_Text_SupernerdHughSeen::
 	.string "哟！马库斯！$"
 
 MtMortar_2F_Text_SupernerdHughBeaten:
-	.string "Sorry, my mistake.\n"
-	.string "I misjudged you.$"
+	.string "抱歉，我看走眼了。认错人了。$"
 
 MtMortar_2F_Text_SupernerdHughAfter:
-	.string "I'm investigating MT.MORTAR,\n"
-	.string "but my pal's gone AWOL.\p"
-	.string "Have you seen a trainer who\n"
-	.string "has a SLOWPOKE that can use\l"
-	.string "STRENGTH?$"
+	.string "我正在调查擂钵山，但我的同伴不见\n"
+	.string "踪影了。\p"
+	.string "你有没有见过带着会用“怪力”的呆\n"
+	.string "呆兽的训练家？$"

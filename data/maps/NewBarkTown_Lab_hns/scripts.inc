@@ -840,9 +840,9 @@ NewBarkTown_Lab_Text_ElmWaitingEggHatch:
 	.string "空木：那枚蛋有什么变化吗？$"
 
 NewBarkTown_Lab_Text_ElmThoughtEggHatched:
-	.string "{PLAYER}? I thought the EGG\n"
-	.string "hatched.\p"
-	.string "Where is the POKéMON?$"
+	.string "{PLAYER}？我听说蛋已经孵\n"
+	.string "化了呀。\p"
+	.string "那只宝可梦在哪里呢？$"
 
 NewBarkTown_Lab_Text_ShowTogepi1:
 	.string "空木：{PLAYER}，你看起来\n"
@@ -852,119 +852,108 @@ NewBarkTown_Lab_Text_ShowTogepi2:
 	.string "什么？那只宝可梦是！？！$"
 
 NewBarkTown_Lab_Text_ShowTogepi3:
-	.string "The EGG hatched! So, POKéMON\n"
-	.string "are born from EGGS…\p"
-	.string "No, perhaps not all POKéMON\n"
-	.string "are.\p"
-	.string "Wow, there's still a lot of\n"
-	.string "research to be done.$"
+	.string "蛋孵化了！原来宝可梦真的是从蛋里\n"
+	.string "生出来的......\p"
+	.string "不对，也许并不是所有的宝可梦都这\n"
+	.string "样。\p"
+	.string "哇，还有好多好多的课题需要去研究\n"
+	.string "啊。$"
 
 NewBarkTown_Lab_Text_ElmGiveEverstone1:
-	.string "Thanks, {PLAYER}! You're helping\n"
-	.string "unravel POKéMON mysteries for us!\p"
-	.string "I want you to have this as a\n"
-	.string "token of our appreciation.$"
+	.string "谢谢你，{PLAYER}！你帮我\n"
+	.string "们解开了宝可梦身上的未解之谜！\p"
+	.string "这个请你收下，算是我的一点心意。$"
 
 NewBarkTown_Lab_Text_ElmGiveEverstone2:
-	.string "That's an EVERSTONE.\p"
-	.string "Some species of POKéMON evolve\n"
-	.string "when they grow to certain levels.\p"
-	.string "A POKéMON holding the EVERSTONE\n"
-	.string "won't evolve.\p"
-	.string "Give it to a POKéMON you don't\n"
-	.string "want to evolve.$"
+	.string "那是“不变之石”。\p"
+	.string "有些宝可梦成长到一定等级后就会进\n"
+	.string "化。\p"
+	.string "携带着不变之石的宝可梦是不会进化\n"
+	.string "的。\p"
+	.string "把它交给你不想让它进化的宝可梦带\n"
+	.string "上吧。$"
 
 NewBarkTown_Lab_Text_ElmCallYou:
-	.string "ELM: {PLAYER}, I'll call you if\n"
-	.string "anything comes up.$"
+	.string "空木：{PLAYER}，要是发生\n"
+	.string "什么事，我会给你打电话的。$"
 
 NewBarkTown_Lab_Text_AideAfterTheft:
-	.string "…sigh… That stolen POKéMON.\p"
-	.string "I wonder how it's doing.\p"
-	.string "They say a POKéMON raised by a\n"
-	.string "bad person turns bad itself.$"
+	.string "......唉......被偷走\n"
+	.string "的那只宝可梦，\p"
+	.string "不知道现在怎么样了。\p"
+	.string "听说被坏人抚养长大的宝可梦，性格\n"
+	.string "也会变坏呢。$"
 
 NewBarkTown_Lab_Text_ElmGiveMasterBall1:
-	.string "ELM: Hi, {PLAYER}!\p"
-	.string "Thanks to you, my research is\n"
-	.string "going great!\p"
-	.string "Take this as a token of my\n"
-	.string "appreciation.$"
+	.string "空木：嗨，{PLAYER}！\p"
+	.string "多亏了你，我的研究进行得非常顺\n"
+	.string "利！\p"
+	.string "这个就当作我的一点谢意，请收下\n"
+	.string "吧。$"
 
 NewBarkTown_Lab_Text_ElmGiveMasterBall2:
-	.string "The MASTER BALL is the best!\p"
-	.string "It's the ultimate BALL! It'll\n"
-	.string "catch any POKéMON without fail.\p"
-	.string "It's given only to recognized\n"
-	.string "POKéMON researchers.\p"
-	.string "I think you can make much better\n"
-	.string "use of it than I can, {PLAYER}!$"
+	.string "大师球可是最棒的！\p"
+	.string "那是究极的精灵球！无论什么宝可梦\n"
+	.string "都能百分之百捕捉成功。\p"
+	.string "这可是只有获得认可的宝可梦研究员\n"
+	.string "才能拿到的稀罕物。\p"
+	.string "不过我想，它在你的手里能发挥出比\n"
+	.string "我更大的作用，{PLAYER}！$"
 
 NewBarkTown_Lab_Text_KimonoGirls:
-	.string "By the way...\n"
-	.string "A group of beautiful KIMONO\l"
-	.string "GIRLS were looking for you.\p"
-	.string "They told me they are\n"
-	.string "waiting for you at the\l" 
-	.string "ECRUTEAK DANCE THEATER.\p"
-	.string "I know you've gone through many\n"
-	.string "things since that EGG got you\l"
-	.string "involved in all this...\p"
-	.string "I hope you'll carry through it.$"
+	.string "顺便说一下......有一群漂亮\n"
+	.string "的舞妓小姐刚才一直在找你呢。\p"
+	.string "她们说会在缘朱市的缘朱舞场等你。\p"
+	.string "我知道，自从卷入了那枚蛋的事情之\n"
+	.string "后，你经历了很多波折......\p"
+	.string "但我相信你一定能坚持到底的。$"
 
 NewBarkTown_Lab_Text_KimonoWaiting:
-	.string "PROF.ELM: The KIMONO\n"
-	.string "GIRLS are waiting for you at\l"
-	.string "the ECRUTEAK DANCE THEATER.$"
+	.string "空木博士：舞妓小姐们正在缘朱舞场\n"
+	.string "等你呢。$"
 
 NewBarkTown_Lab_Text_League:
-	.string "PROF.ELM: Hahaha...\n"
-	.string "Good job!\p"
-	.string "That rare EGG has brought you\n"
-	.string "a lot of trouble, huh?\p"
-	.string "The KIMONO GIRLS said something\n"
-	.string "about me?\p"
-	.string "I have nothing to do with it.\p"
-	.string "You made your decision and went\n"
-	.string "through with it.\p"
-	.string "Having done so much, you should\n"
-	.string "be able to face the LEAGUE now!\p"
-	.string "You should head for INDIGO\n"
-	.string "PLATEAU!\p"
-	.string "Do you know how to get there?\n"
-	.string "Follow ROUTE 27 to ROUTE 26.\p"
-	.string "Once there, go straight north!$"
+	.string "空木博士：哈哈哈哈......干\n"
+	.string "得漂亮！\p"
+	.string "那枚稀有的蛋给你添了不少麻烦吧？\p"
+	.string "舞妓小姐们提到了我？\p"
+	.string "其实我可什么都没做哦。\p"
+	.string "都是你自己做出了决定，并且坚持完\n"
+	.string "成了这一切。\p"
+	.string "既然已经做到了这一步，你现在应该\n"
+	.string "有资格挑战联盟了！\p"
+	.string "去石英高原吧！\p"
+	.string "你知道怎么去吗？沿着27号道路\n"
+	.string "走，接上26号道路。\p"
+	.string "到了那里之后，一直往北走就行了！$"
 
 
 NewBarkTown_Lab_Text_ElmGiveTicket1:
-	.string "ELM: {PLAYER}! There you are!\p"
-	.string "I called because I have\n"
-	.string "something for you.\p"
-	.string "See? It's an S.S.TICKET.\p"
-	.string "Now you can catch POKéMON in\n"
-	.string "KANTO.$"
+	.string "空木：{PLAYER}！你来啦！\p"
+	.string "我打电话叫你来，是有东西要交给\n"
+	.string "你。\p"
+	.string "看，这是船票。\p"
+	.string "这样你就能去关都地区捕捉那里的宝\n"
+	.string "可梦了。$"
 
 NewBarkTown_Lab_Text_ElmGiveTicket2:
-	.string "The ship departs from OLIVINE\n"
-	.string "CITY.\p"
-	.string "But you knew that already,\n"
-	.string "{PLAYER}.\p"
-	.string "After all, you've traveled all\n"
-	.string "over with your POKéMON.\p"
-	.string "Give my regards to PROF.OAK in\n"
-	.string "KANTO!$"
+	.string "船会从浅黄市出发。\p"
+	.string "不过这事你早就知道了对吧，\n"
+	.string "{PLAYER}。\p"
+	.string "毕竟你已经和你的宝可梦一起走过了\n"
+	.string "这么多地方。\p"
+	.string "到了关都替我向大木博士问个好！$"
 
 NewBarkTown_Lab_Text_LabMonEgg:
-	.string "It's the POKéMON EGG being\n"
-	.string "studied by PROF.ELM.$"
+	.string "这是空木博士正在研究的宝可梦蛋。$"
 
 NewBarkTown_Lab_Text_AideGivePotion:
-	.string "{PLAYER}, I want you to have\n"
-	.string "this for your errand.$"
+	.string "{PLAYER}，出门前把这个带\n"
+	.string "上吧。$"
 
 NewBarkTown_Lab_Text_AideAlwaysBusy:
-	.string "There are only three of us, so\n"
-	.string "we're always busy.$"
+	.string "我们研究所只有三个人，所以总是忙\n"
+	.string "得不可开交。$"
 
 NewBarkTown_Lab_Text_AideSave:
 	.string "平时一定要记得多存档！\p"
@@ -972,16 +961,17 @@ NewBarkTown_Lab_Text_AideSave:
 	.string "择“记录”即可保存游戏！$"
 
 NewBarkTown_Lab_Text_AideTheftTestimony:
-	.string "There was a loud noise\n"
-	.string "outside…\p"
-	.string "When we went to look,\n"
-	.string "someone stole a POKéMON.\p"
-	.string "It's unbelievable that anyone\n"
-	.string "would do that!\p"
-	.string "…sigh… That stolen POKéMON.\p"
-	.string "I wonder how it's doing.\p"
-	.string "They say a POKéMON raised by a\n"
-	.string "bad person turns bad itself.$"
+	.string "刚才外面传来好大一声巨响...\n"
+	.string "...\p"
+	.string "我们跑出去看的时候，发现有人偷走\n"
+	.string "了宝可梦。\p"
+	.string "竟然会有人干出这种事，真是不可思\n"
+	.string "议！\p"
+	.string "......唉......被偷走\n"
+	.string "的那只宝可梦，\p"
+	.string "不知道现在怎么样了。\p"
+	.string "听说被坏人抚养长大的宝可梦，性格\n"
+	.string "也会变坏呢。$"
 
 NewBarkTown_Lab_Text_AideGiveBalls:
 	.string "{PLAYER}！\p"
@@ -995,31 +985,27 @@ NewBarkTown_Lab_Text_AideExplainBalls:
 	.string "灵球就能捉到它们。$"
 
 NewBarkTown_Lab_Text_Officer1:
-	.string "I heard a POKéMON was stolen\n"
-	.string "here…\p"
-	.string "I was just getting some\n"
-	.string "information from PROF.ELM.\p"
-	.string "Apparently, it was a young\n"
-	.string "male with long, red hair…\p"
-	.string "What?\p"
-	.string "You battled a trainer like\n"
-	.string "that?\p"
-	.string "Did you happen to get his\n"
-	.string "name?$"
+	.string "我听说这里有宝可梦被盗了...\n"
+	.string "...\p"
+	.string "刚才正向空木博士了解情况呢。\p"
+	.string "据说嫌疑人是一个留着红色长发的年\n"
+	.string "轻男子......\p"
+	.string "什么？\p"
+	.string "你跟那样的训练家交过手？\p"
+	.string "那你碰巧知道他的名字吗？$"
 
 NewBarkTown_Lab_Text_Officer2_1:
 	.string "好！原来他的名字叫{RIVAL}\n"
 	.string "啊？$"
 
 NewBarkTown_Lab_Text_Officer2:
-	.string "Thanks for helping my\n"
-	.string "investigation!$"
+	.string "谢谢你协助我们调查！$"
 
 NewBarkTown_Lab_Text_OfficerNo:
 	.string "你肯定知道他的名字吧？！$"
 
 NewBarkTown_Lab_Text_Elm_CallMe:
-	.string "Ah, {PLAYER}!\p"
-	.string "How's your POKéDEX coming along?\n"
-	.string "I'm busy now, but call me sometime\l"
-	.string "and I can check your progress!$"
+	.string "啊，{PLAYER}！\p"
+	.string "宝可梦图鉴收集得怎么样啦？我现在\n"
+	.string "有点忙，记得抽空给我打电话，我可\l"
+	.string "以帮你评估图鉴的进度哦！$"

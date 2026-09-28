@@ -23,11 +23,10 @@ OlivineCity_EventScript_Teacher::
 	end
 
 OlivineCity_Text_PokecenterFisher:
-	.string "The SAILOR in the OLIVINE CAFE\n"
-	.string "next door is really generous.\p"
-	.string "He taught my POKéMON STRENGTH.\p"
-	.string "Now it can move big boulders\n"
-	.string "without breaking a sweat.$"
+	.string "隔壁浅黄咖啡馆的水手大叔人可大方\n"
+	.string "了。\p"
+	.string "他教了我的宝可梦“劲力”。\p"
+	.string "现在它轻轻松松就能推动大圆石了。$"
 
 OlivineCity_Text_PokecenterTeacher:
 	.string "大海对面的湛蓝市有个人，\p"

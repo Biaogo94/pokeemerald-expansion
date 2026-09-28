@@ -541,23 +541,21 @@ BattleFrontier_BattlePyramidLobby_Text_AwaitFutureChallenge_hns:
 	.string "期待你的下次挑战！$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainBattlePyramid_hns:
-	.string "The Battle Quest is a battling\n"
-	.string "event in which you must explore\l"
-	.string "the PYRAMID and try to reach the top.\p"
-	.string "In the PYRAMID are seven floors of\n"
-	.string "mazes, all of them filled with not only\l"
-	.string "skilled TRAINERS but also wild POKéMON.\p"
-	.string "You must enter with three POKéMON,\n"
-	.string "none of them holding an item.\p"
-	.string "On your ascent, you will be provided\n"
-	.string "with a BATTLE BAG for items.\p"
-	.string "If you fail in your challenge, any item\n"
-	.string "placed in the BATTLE BAG disappears.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, you must select “REST”\l"
-	.string "and save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "所谓对战探险，就是一边探索金字塔\n"
+	.string "一边以塔顶为目标的挑战。\p"
+	.string "金字塔内共有7层的迷宫，不仅有实\n"
+	.string "力强劲的训练家，还有野生的宝可梦\l"
+	.string "在潜伏着。\p"
+	.string "挑战时必须携带3只宝可梦，并且不\n"
+	.string "能携带任何道具。\p"
+	.string "在攀登途中，我们会为你提供一个装\n"
+	.string "道具的对战背包。\p"
+	.string "如果挑战失败，放在对战背包里的道\n"
+	.string "具就会消失。\p"
+	.string "如果想要中途暂停挑战，请选择“休\n"
+	.string "息”并保存记录。\p"
+	.string "如果不保存就结束游戏的话，就会被\n"
+	.string "取消挑战资格。$"
 
 BattleFrontier_BattlePyramidLobby_Text_WhichLevelMode_hns:
 	.string "金字塔分为50级组和公开级别组。\n"
@@ -665,13 +663,12 @@ BattleFrontier_BattlePyramidLobby_Text_UsedBattleBagWillBeKept_hns:
 	.string "换回了自己的背包。$"
 
 BattleFrontier_BattlePyramidLobby_Text_RecordResultsWait_hns:
-	.string "I must record your results.\n"
-	.string "Please wait.$"
+	.string "我需要记录您的成绩。请稍候。$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ForConqueringPyramidTakeThis_hns:
-	.string "As a memento for conquering\n"
-	.string "the BATTLE PYRAMID, please take this.$"
+	.string "这个请收下，作为攻破对战金字塔的\n"
+	.string "纪念品。$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem_hns:
@@ -680,10 +677,9 @@ BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem_hns:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_BagIsFull_hns:
-	.string "…Ah…\n"
-	.string "Your BAG appears to be filled.\p"
-	.string "Please return after you've organized\n"
-	.string "your BAG's contents.$"
+	.string "......啊......你的背\n"
+	.string "包似乎已经满了。\p"
+	.string "请整理好背包里的物品后再来吧。$"
 
 BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag_hns:
 	.string "真遗憾......\p"
@@ -699,108 +695,125 @@ BattleFrontier_BattlePyramidLobby_Text_HereIsPrize_hns:
 	.string "这是您攻破金字塔的奖励。$"
 
 BattleFrontier_BattlePyramidLobby_Text_TellYouWhatMisfortunesAwait_hns:
-	.string "Welcome…\p"
-	.string "I shall be pleased to tell you what\n"
-	.string "misfortunes await in the PYRAMID…$"
+	.string "欢迎......\p"
+	.string "就让我来告诉你，在金字塔中等待着\n"
+	.string "你的灾难吧......$"
 
 BattleFrontier_BattlePyramidLobby_Text_Aah_hns:
-	.string "… … … … … …\n"
-	.string "… … … … … …\p"
-	.string "… … … … … …\n"
-	.string "Aah!$"
+	.string "..................\n"
+	.string "..................\p"
+	.string "...............\n"
+	.string "...啊！$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintParalysis_hns:
-	.string "I see a shower of sparks…\p"
-	.string "…And in it, I see your POKéMON\n"
-	.string "struggling with paralysis…$"
+	.string "我看到了倾泻的电火花......\p"
+	.string "......在其中，我看到了你的\n"
+	.string "宝可梦在麻痹中痛苦挣扎....\l"
+	.string "..$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPoison_hns:
-	.string "I see poison…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from the effects of poison…$"
+	.string "我看到了剧毒......\p"
+	.string "......而且，我看到了你的宝\n"
+	.string "可梦饱受中毒之苦......$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintBurn_hns:
-	.string "I see bright red flames…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from burns…$"
+	.string "我看到了鲜红的烈焰......\p"
+	.string "......而且，我看到了你的宝\n"
+	.string "可梦饱受灼伤之苦......$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPPWaste_hns:
-	.string "I sense the tremendous pressure of\n"
-	.string "unrequited anger…\p"
-	.string "It is a curse…\p"
-	.string "…And, I see your POKéMON drained of\n"
-	.string "Power Points and having no recourse\l"
-	.string "but to use STRUGGLE…$"
+	.string "我感受到了无法宣泄的怒火所带来的\n"
+	.string "巨大压力......\p"
+	.string "那是一道诅咒......\p"
+	.string "......而且，我看到你的宝可\n"
+	.string "梦耗尽了招式的能量，不得不使出挣\l"
+	.string "扎......$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintLevitate_hns:
-	.string "I see POKéMON loftily airborne…\p"
-	.string "…And, I see your POKéMON frustrated\n"
-	.string "by powerless GROUND-type moves…$"
+	.string "我看到了高高飞在空中的宝可梦.\n"
+	.string ".....\p"
+	.string "......而且，我看到你的宝可\n"
+	.string "梦因地面属性招式无效而束手无策\l"
+	.string "......$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintTrapAbility_hns:
-	.string "I sense terrific energy rising from\n"
-	.string "the ground below…\p"
-	.string "…And, I see your POKéMON unable to\n"
-	.string "escape the power's clutches…$"
+	.string "我感受到可怕的能量从地底喷涌而\n"
+	.string "出......\p"
+	.string "......而且，我看到你的宝可\n"
+	.string "梦无法逃脱那股力量的束缚...\l"
+	.string "...$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintIce_hns:
-	.string "I see ICE-type POKéMON…\p"
-	.string "…And, I see your POKéMON fighting\n"
-	.string "the freezing effects of ice…$"
+	.string "我看到了冰属性宝可梦......\p"
+	.string "......而且，我看到了你的宝\n"
+	.string "可梦正在与冰冻状态苦苦抗争..\l"
+	.string "....$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintExplosion_hns:
-	.string "I see a flurry of moves that imperil\n"
-	.string "the user…\p"
-	.string "…And, I see your POKéMON falling\n"
-	.string "to them…$"
+	.string "我看到了连番伤及自身的招式..\n"
+	.string "....\p"
+	.string "......而且，我看到你的宝可\n"
+	.string "梦倒在它们面前......$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPsychic_hns:
-	.string "I see PSYCHIC-type POKéMON…\p"
-	.string "…And, I see your POKéMON in torment\n"
-	.string "from PSYCHIC moves…$"
+	.string "我看到了超能力属性宝可梦...\n"
+	.string "...\p"
+	.string "......而且，我看到了你的宝\n"
+	.string "可梦饱受超能力招式的折磨...\l"
+	.string "...$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintRock_hns:
-	.string "I see ROCK-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from ROCK moves…$"
+	.string "我看到了岩石属性宝可梦....\n"
+	.string "..\p"
+	.string "......而且，我看到了你的宝\n"
+	.string "可梦饱受岩石招式的折磨....\l"
+	.string "..$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintFighting_hns:
-	.string "I see FIGHTING-type POKéMON…\p"
-	.string "…And, I see your POKéMON pummeled\n"
-	.string "by FIGHTING moves…$"
+	.string "我看到了格斗属性宝可梦....\n"
+	.string "..\p"
+	.string "......而且，我看到了你的宝\n"
+	.string "可梦被格斗招式痛击......$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintWeather_hns:
-	.string "RAIN DANCE… SUNNY DAY…\n"
-	.string "SANDSTORM… HAIL…\p"
-	.string "I see POKéMON that become stronger\n"
-	.string "with the weather…\p"
-	.string "…And, I see your POKéMON confounded\n"
-	.string "by different types of moves…$"
+	.string "求雨......大晴天....\n"
+	.string "..沙暴......冰雹...\l"
+	.string "...\p"
+	.string "我看到了因天气而变强的宝可梦.\n"
+	.string ".....\p"
+	.string "......而且，我看到你的宝可\n"
+	.string "梦被各种属性的招式打得晕头转向\l"
+	.string "......$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintBug_hns:
-	.string "I see BUG-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from different kinds of attacks…$"
+	.string "我看到了虫属性宝可梦......\p"
+	.string "......而且，我看到了你的宝\n"
+	.string "可梦饱受各种攻击之苦......$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintDark_hns:
-	.string "I see DARK-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from DARK-type moves…$"
+	.string "我看到了恶属性宝可梦......\p"
+	.string "......而且，我看到了你的宝\n"
+	.string "可梦饱受恶属性招式之苦....\l"
+	.string "..$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintWater_hns:
-	.string "I see WATER-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from WATER-type moves…$"
+	.string "我看到了水属性宝可梦......\p"
+	.string "......而且，我看到了你的宝\n"
+	.string "可梦饱受水属性招式之苦....\l"
+	.string "..$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintGhost_hns:
-	.string "I see GHOST-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from GHOST-type moves…$"
+	.string "我看到了幽灵属性宝可梦....\n"
+	.string "..\p"
+	.string "......而且，我看到了你的宝\n"
+	.string "可梦饱受幽灵属性招式之苦...\l"
+	.string "...$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintSteel_hns:
-	.string "I see STEEL-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from enormously powerful moves…$"
+	.string "我看到了钢属性宝可梦......\p"
+	.string "......而且，我看到了你的宝\n"
+	.string "可梦饱受威力极其强大的招式之苦\l"
+	.string "......$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintFlyingDragon_hns:
 	.string "我看到了飞行属性的宝可梦....\n"

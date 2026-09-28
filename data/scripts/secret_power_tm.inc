@@ -1,37 +1,31 @@
 Route111_Text_MakingRoomUseTMToMakeYourOwn:
-	.string "What's that?\n"
-	.string "What am I doing?\p"
-	.string "I'm thinking about making my own room\n"
-	.string "here using a POKéMON move.\p"
-	.string "I know! I'll give you this TM.\n"
-	.string "Will you use it to make your own room?$"
+	.string "嗯？你问我在做什么？\p"
+	.string "我想用宝可梦的招式，在这里造一间\n"
+	.string "自己的房间。\p"
+	.string "对了！这个招式学习器送你。你也试\n"
+	.string "着造间房间吗？$"
 
 Route111_Text_ExplainSecretPower:
-	.string "Find a big tree that looks like it might\n"
-	.string "drop some vines.\p"
-	.string "Use SECRET POWER in front of the tree.\n"
-	.string "Some vines should get free and drop\l"
-	.string "down, so you can climb the tree.\p"
-	.string "You'll find a lot of space for putting\n"
-	.string "your favorite things.\p"
-	.string "It'll be your own secret room…\n"
-	.string "A SECRET BASE!\p"
-	.string "You should make one, too.\p"
-	.string "Another thing, you don't always have\n"
-	.string "to make your SECRET BASE in a tree.\p"
-	.string "Try using SECRET POWER on rock walls\n"
-	.string "that have small indents in them.\p"
-	.string "I'm going to look for other places, too.\n"
-	.string "Okay, bye!$"
+	.string "找一棵看起来会垂下藤蔓的大树。\p"
+	.string "在树前使用秘密之力，藤蔓就会垂下\n"
+	.string "来。\p"
+	.string "顺着藤蔓爬上去，里面有很大的空\n"
+	.string "间！\p"
+	.string "摆上你喜欢的东西，那里就是属于你\n"
+	.string "的秘密基地。\p"
+	.string "你也来建一个吧！\p"
+	.string "秘密基地不只能建在树上。\p"
+	.string "岩壁上的小凹洞也可以试试。\p"
+	.string "我要继续去找别的地方了。再见！$"
 
 Route111_Text_DontWantThis:
-	.string "Oh, you don't want this?\n"
-	.string "If you change your mind, tell me, okay?$"
+	.string "啊？你不想要吗？\n"
+	.string "改变主意了随时找我呀！$"
 
 Route111_Text_DontHaveAnyRoom:
-	.string "Oh, you don't have any room for this.\p"
-	.string "I'll hold on to it, so come back for it\n"
-	.string "another time, okay?$"
+	.string "啊，你的包包好像满了！\p"
+	.string "我先帮你拿着，等下次包包\n"
+	.string "空出来了，再过来拿吧！$"
 
 Route111_EventScript_SecretPowerMan::
 	lock

@@ -178,8 +178,8 @@ Route34_DayCare_Text_ReceivedOddEgg:
 	.string "蛋。$"
 
 Route34_DayCare_Text_TakeCare:
-	.string "I knew you were the right trainer\n"
-	.string "for the job. Take good care of it!$"
+	.string "我就知道你是最合适的人选。请好好\n"
+	.string "照顾它吧！$"
 
 Route34_DayCare_Text_ClerkAfter:
 	.string "我们在这附近见过很多蛋，\p"

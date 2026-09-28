@@ -410,24 +410,21 @@ VioletCity_Text_HereTeacherIAm:
 	.string "真好！$"
 
 VioletCity_Text_Lass:
-	.string "Ghosts are rumored to appear\n"
-	.string "in SPROUT TOWER.\p"
-	.string "They say that GHOST-type\n"
-	.string "moves can bypass the defenses\p"
-	.string "of tough POKéMON like ONIX\n"
-	.string "and GEODUDE.$"
+	.string "听说喇叭芽之塔有幽灵出没。\p"
+	.string "据说幽灵属性招式能无视\p"
+	.string "大岩蛇和小拳石这样的宝可梦的坚硬\n"
+	.string "防御。$"
 
 VioletCity_Text_Boy:
-	.string "Hey, you're a POKéMON trainer?\p"
-	.string "If you head to the ACADEMY,\n"
-	.string "you might learn something new!$"
+	.string "嘿，你是宝可梦训练家吗？\p"
+	.string "去那边的学院转转，说不定能学到新\n"
+	.string "知识呢！$"
 
 VioletCity_Text_Gramps:
-	.string "FALKNER, from the VIOLET\n"
-	.string "POKéMON GYM, is a fine trainer!\p"
-	.string "He inherited his father's gym\n"
-	.string "and has done a great job with\l"
-	.string "it.$"
+	.string "桔梗宝可梦道馆的阿速，可真是一位\n"
+	.string "优秀的训练家！\p"
+	.string "他继承了父亲的道馆，并且打理得有\n"
+	.string "声有色呢。$"
 
 VioletCity_Text_Youngster:
 	.string "前面有一棵会摇晃的树！\p"
