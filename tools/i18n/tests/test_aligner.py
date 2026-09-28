@@ -408,6 +408,11 @@ class TestCorpusAlignmentIntegration(unittest.TestCase):
 
         Task 3 translates ``unmatched_corpus.json``; a stale artifact would
         silently feed it the wrong set of strings.
+
+        The engine is asked through :meth:`AlignerEngine.align_entry`, not
+        :meth:`AlignerEngine.align`: the fork corpus is joined on
+        ``(file, label, index)`` and a bare string carries no identity, so
+        ``align`` alone cannot reproduce an entry's result.
         """
         with open(ALIGNED_CORPUS_PATH, "r", encoding="utf-8") as fp:
             aligned = json.load(fp)
@@ -422,12 +427,13 @@ class TestCorpusAlignmentIntegration(unittest.TestCase):
         )
 
         for entry in aligned:
-            result = self.engine.align(entry["source"])
+            result = self.engine.align_entry(entry)
             self.assertIsNotNone(result, entry["source"])
             self.assertEqual(result.translation, entry["translation"], entry["source"])
+            self.assertEqual(result.match_type, entry["match_type"], entry["source"])
 
         for entry in unmatched:
-            self.assertIsNone(self.engine.align(entry["source"]), entry["source"])
+            self.assertIsNone(self.engine.align_entry(entry), entry["source"])
 
 
 if __name__ == "__main__":

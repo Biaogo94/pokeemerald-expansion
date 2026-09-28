@@ -72,7 +72,8 @@ Chinese terms spliced in, e.g. ``"...always bring our 宝可梦.\\lHow about a
 quick battle?$"``.  Injecting them would leave the ROM mixed-language, which is
 strictly worse than leaving it English, so they are excluded here and the
 exclusion is reported by ``--dry-run``.  Only genuine, complete translations
-(``match_type`` of ``"exact"`` or ``"term"``) are ever written back.
+(``match_type`` of ``"exact"``, ``"term"`` or ``"zh_fork"``) are ever written
+back.
 
 Global rules honoured throughout: UTF-8 in and out, control codes and ``{...}``
 placeholders are never corrupted, no 32-bit assumptions, and every operation is
@@ -133,8 +134,10 @@ TERMINATOR = "$"
 #: ``match_type`` values that represent a genuine, complete translation of the
 #: whole string.  ``"dictionary"`` is deliberately absent -- see the module
 #: docstring.  A ``"term"`` entry only exists when the term covers the entire
-#: string (e.g. ``"CANCEL$"`` -> ``"取消$"``).
-INJECTABLE_MATCH_TYPES: Tuple[str, ...] = ("exact", "term")
+#: string (e.g. ``"CANCEL$"`` -> ``"取消$"``); ``"zh_fork"`` is the Chinese
+#: expansion fork's translation of the very same ``(file, label, index)``, so
+#: it is a complete translation by construction.
+INJECTABLE_MATCH_TYPES: Tuple[str, ...] = ("exact", "term", "zh_fork")
 
 _HERE = os.path.dirname(os.path.abspath(__file__))
 _DATA_DIR = os.path.join(_HERE, "data")
@@ -382,6 +385,7 @@ def emit_string_lines(text: str, indent: str = "\t") -> List[str]:
 def is_injectable(entry: dict) -> bool:
     """True only for entries carrying a genuine, complete translation.
 
+    That is ``match_type`` of ``"exact"``, ``"term"`` or ``"zh_fork"``.
     ``match_type == "dictionary"`` entries are scaffold -- English with Chinese
     terms spliced in -- and must never reach the ROM.
     """

@@ -36,10 +36,12 @@ from tools.i18n.injector import (
     TRANSLATED_CORPUS_PATH,
     InjectionPlan,
     InjectionResult,
+    INJECTABLE_MATCH_TYPES,
     _parse_inc_blocks,
     build_plan,
     emit_string_lines,
     filter_entries,
+    has_cjk,
     inject_into_file,
     is_injectable,
     load_corpus,
@@ -277,6 +279,34 @@ class TestInjectionFilter(unittest.TestCase):
         self.assertTrue(is_injectable({"translation": "你好$", "match_type": "exact"}))
         self.assertTrue(is_injectable({"translation": "取消$", "match_type": "term"}))
 
+    def test_keeps_zh_fork(self):
+        """A Chinese expansion fork translation is a complete translation.
+
+        It is joined on ``(file, label, index)`` -- the very entry it was
+        extracted from -- so it is never a partial rewrite and must be written
+        back exactly like an ``exact`` or ``term`` match.
+        """
+        self.assertIn("zh_fork", INJECTABLE_MATCH_TYPES)
+        self.assertTrue(
+            is_injectable(
+                {
+                    "translation": "用整个身体\\n撞向对手进行攻击。$",
+                    "match_type": "zh_fork",
+                }
+            )
+        )
+        self.assertTrue(
+            filter_entries(
+                [
+                    {
+                        "id": "a",
+                        "translation": "撞击$",
+                        "match_type": "zh_fork",
+                    }
+                ]
+            )
+        )
+
     def test_drops_dictionary(self):
         self.assertFalse(
             is_injectable(
@@ -312,11 +342,11 @@ class TestInjectionFilterOnRealCorpora(unittest.TestCase):
         cls.plan = build_plan(cls.aligned, cls.translated)
 
     def test_corpus_sizes(self):
-        self.assertEqual(len(self.aligned), 128)
+        self.assertEqual(len(self.aligned), 21293)
         self.assertEqual(len(self.translated), 17286)
 
     def test_aligned_corpus_is_entirely_injectable(self):
-        self.assertEqual(self.plan.injectable, 128)
+        self.assertEqual(self.plan.injectable, 21293)
 
     def test_all_dictionary_entries_are_filtered_out(self):
         dictionaries = [e for e in self.translated if e.get("match_type") == "dictionary"]
@@ -334,13 +364,20 @@ class TestInjectionFilterOnRealCorpora(unittest.TestCase):
                 self.assertNotEqual(entry.get("match_type"), "dictionary")
 
     def test_no_injected_translation_looks_like_scaffold(self):
-        """A dictionary scaffold keeps long ASCII runs; a real translation does not."""
-        dictionary_ids = {
-            e["id"] for e in self.translated if e.get("match_type") == "dictionary"
-        }
+        """A dictionary scaffold keeps long ASCII runs; a real translation does not.
+
+        The check runs on the entry the plan carries, not on an id set taken
+        from ``translated_corpus.json``.  That corpus is a snapshot of one
+        translation pass: an id it still calls ``dictionary`` scaffold may since
+        have been resolved properly by a higher-priority source (the Chinese
+        fork corpus), and the plan would then legitimately carry the real
+        translation under the same id.  What must never happen is that the
+        scaffold itself reaches the plan.
+        """
         for entries in self.plan.by_file.values():
             for entry in entries:
-                self.assertNotIn(entry["id"], dictionary_ids)
+                self.assertNotEqual(entry.get("match_type"), "dictionary")
+                self.assertTrue(has_cjk(entry.get("translation")), entry["id"])
 
     def test_plan_counts_are_consistent(self):
         self.assertEqual(
@@ -746,7 +783,7 @@ class TestCli(InjectorTestBase):
             load_corpus(ALIGNED_CORPUS_PATH), load_corpus(TRANSLATED_CORPUS_PATH)
         )
         self.assertIsInstance(plan, InjectionPlan)
-        self.assertEqual(plan.injectable, 128)
+        self.assertEqual(plan.injectable, 21293)
 
 
 # ---------------------------------------------------------------------------
@@ -756,7 +793,7 @@ class TestCli(InjectorTestBase):
 # pair, wrapped whatever translation the entry carried, and wrote it.  Every
 # failure mode below was therefore silent -- the wrong string, or a string on
 # top of another string, reached ``data/`` while the run reported success.  The
-# corpus is about to grow from 128 strings to ~25,000, and
+# corpus has since grown from 128 strings to ~21,000, and
 # ``#if / #else / #endif`` blocks wrap ``.string`` blocks in real files
 # (``data/text/battle_tent.inc``, ``data/text/event_ticket_*.inc``, ...), so
 # each of these is now either a verified write or a reported skip.
