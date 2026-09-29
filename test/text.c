@@ -10,12 +10,29 @@
 #include "main_menu.h"
 #include "string_util.h"
 #include "text.h"
+#include "line_break.h"
+#include "chinese_text.h"
 #include "constants/abilities.h"
 #include "constants/battle.h"
 #include "constants/battle_string_ids.h"
 #include "constants/items.h"
 #include "constants/moves.h"
 #include "test/overworld_script.h"
+
+TEST("Chinese automatic line breaks preserve complete glyphs")
+{
+    // Chinese characters occupy two bytes in the game string encoding.
+    // This one fits line 1 exactly; the following glyph must move intact.
+    u8 text[] = { 0x01, 0x01, 0x01, 0x02, 0xFF };
+    BreakStringAutomatic(text, 12, 2, FONT_NORMAL, HIDE_SCROLL_PROMPT);
+
+    EXPECT_EQ(text[0], 0x01);
+    EXPECT_EQ(text[1], 0x01);
+    EXPECT_EQ(text[2], CHAR_NEWLINE);
+    EXPECT_EQ(text[3], 0x01);
+    EXPECT_EQ(text[4], 0x02);
+    EXPECT_EQ(text[5], EOS);
+}
 
 TEST("Move names fit on Pokemon Summary Screen")
 {

@@ -67,6 +67,16 @@ void BreakStringNaive(u8 *src, u32 maxWidth, u32 screenLines, u8 fontId, enum To
 }
 
 #define SCROLL_PROMPT_WIDTH 8
+
+static u32 GetEncodedGlyphWidth(const u8 *src, u32 index, u8 fontId)
+{
+    if (IsChineseChar(src[index], src[index + 1], fontId, FALSE))
+        return GetChineseFontWidthFunc((src[index] << 8) | src[index + 1], fontId);
+    if (IsChinesePunctuation(src[index], fontId, FALSE))
+        return GetChineseFontWidthFunc(src[index], fontId);
+    return GetGlyphWidth(src[index], FALSE, fontId);
+}
+
 void BreakSubStringNaive(u8 *src, u32 maxWidth, u32 screenLines, u8 fontId, enum ToggleScrollPrompt toggleScrollPrompt)
 {
     //  If the string already has line breaks, don't interfere with them
@@ -124,7 +134,12 @@ void BreakSubStringNaive(u8 *src, u32 maxWidth, u32 screenLines, u8 fontId, enum
     for (u32 i = 0; i < numWords; i++)
     {
         for (u32 j = 0; j < allWords[i].length; j++)
-            allWords[i].width += GetGlyphWidth(src[allWords[i].startIndex + j], FALSE, fontId);
+        {
+            u32 index = allWords[i].startIndex + j;
+            allWords[i].width += GetEncodedGlyphWidth(src, index, fontId);
+            if (IsChineseChar(src[index], src[index + 1], fontId, FALSE))
+                j++;
+        }
     }
 
     //  Step 1: Does it all fit one one line? Then no break
@@ -234,7 +249,12 @@ void BreakSubStringAutomatic(u8 *src, u32 maxWidth, u32 screenLines, u8 fontId, 
     for (u32 i = 0; i < numWords; i++)
     {
         for (u32 j = 0; j < allWords[i].length; j++)
-            allWords[i].width += GetGlyphWidth(src[allWords[i].startIndex + j], FALSE, fontId);
+        {
+            u32 index = allWords[i].startIndex + j;
+            allWords[i].width += GetEncodedGlyphWidth(src, index, fontId);
+            if (IsChineseChar(src[index], src[index + 1], fontId, FALSE))
+                j++;
+        }
     }
 
     //  Step 1: Does it all fit one one line? Then no break
