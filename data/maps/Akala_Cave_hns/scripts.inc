@@ -113,7 +113,7 @@ Alola_AkalaCave_TrainerBattleHiker_Text_1:
 
 Alola_AkalaCave_TrainerBattleHiker_Text_2:
 	.string "太热了，我不得不放弃登山。\p"
-	.string "山顶简直就像有人在生着大火一样.\n"
+	.string "山顶简直就像有人在生着大火一样。\n"
 	.string ".....$"
 
 Alola_AkalaCave_TrainerBattlePicnicker_Text_0:

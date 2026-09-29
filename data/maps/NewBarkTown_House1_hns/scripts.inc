@@ -22,9 +22,9 @@ NewBarkTown_House1_Text_NeighborsDaughter:
 	.string "空木博士的发现真是令我大吃一惊。\p"
 	.string "他在宝可梦进化方面的研究非常出名\n"
 	.string "。\p"
-	.string "......唉......\p"
+	.string "……唉……\p"
 	.string "真希望我也能成为像他一样的研究员\n"
-	.string "啊......$"
+	.string "啊……$"
 
 
 NewBarkTown_House1_Text_Neighbor:

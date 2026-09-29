@@ -308,15 +308,15 @@ CherrygroveCity_Text_GuideGentSea:
 	.string "有些宝可梦只生活在水里哦。$"
 
 CherrygroveCity_Text_GuideGentMap:
-	.string "到啦......\p"
+	.string "到啦……\p"
 	.string "这就是我家！多谢你陪我走这一趟。\p"
 	.string "哦，对了，要是迷路的话，就看看宝\n"
 	.string "可梦齿轮上的地图吧！\p"
 	.string "祝你的旅程一路顺风！$"
 
 CherrygroveCity_Text_GuideGentDecline:
-	.string "哎呀......这本来也是我的乐\n"
-	.string "趣嘛......\p"
+	.string "哎呀……这本来也是我的乐\n"
+	.string "趣嘛……\p"
 	.string "好吧，你想来找我随时都可以来。$"
 
 CherrygroveCity_Text_RivalSeen:
@@ -339,7 +339,7 @@ CherrygroveCity_Text_RivalAfter:
 
 CherrygroveCity_Text_RivalID:
 	.string "快还给我！那是我的训练家卡！\p"
-	.string "糟了！你看到我的名字了....\n"
+	.string "糟了！你看到我的名字了……\n"
 	.string "..$"
 
 CherrygroveCity_Text_TeacherHaveMapCard:

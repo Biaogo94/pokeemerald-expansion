@@ -637,7 +637,7 @@ SaffronCity_FightingDojoVIP_EventScript_Muk::
 	release
 	end
 SaffronCity_FightingDojoVIP_Text_Muk:
-	.string "臭臭泥：咕嘿......$"
+	.string "臭臭泥：咕嘿……$"
 
 SaffronCity_FightingDojoVIP_EventScript_Kadabra::
 	lock
@@ -717,7 +717,7 @@ SaffronCity_FightingDojoVIP_Text_Falkner_Rematch:
 	.string "力量吗？$"
 
 SaffronCity_FightingDojoVIP_Text_Falkner_RematchDefeat:
-	.string "哇......我又输给你了。\p"
+	.string "哇……我又输给你了。\p"
 	.string "我会更加努力修行，成为最出色的鸟\n"
 	.string "使者！$"
 
@@ -730,7 +730,7 @@ SaffronCity_FightingDojoVIP_Text_Bugsy_Rematch:
 
 SaffronCity_FightingDojoVIP_Text_Bugsy_RematchDefeat:
 	.string "哇，你真是个顶尖的训练家啊。\p"
-	.string "看来我的研究还不够完善.....\n"
+	.string "看来我的研究还不够完善……\n"
 	.string ".$"
 
 SaffronCity_FightingDojoVIP_Text_Whitney_Rematch:
@@ -743,8 +743,8 @@ SaffronCity_FightingDojoVIP_Text_Whitney_Rematch:
 SaffronCity_FightingDojoVIP_Text_Whitney_RematchDefeat:
 	.string "哇啊啊啊！\p"
 	.string "哇啊啊啊！\p"
-	.string "......呜呜，嗝......\n"
-	.string "......大坏蛋！$"
+	.string "……呜呜，嗝……\n"
+	.string "……大坏蛋！$"
 
 SaffronCity_FightingDojoVIP_Text_Morty_Rematch:
 	.string "啊，城都的冠军！你能来真是太好了\n"
@@ -759,9 +759,9 @@ SaffronCity_FightingDojoVIP_Text_Morty_Rematch:
 	.string "要不要再跟我来一场对战？$"
 
 SaffronCity_FightingDojoVIP_Text_Morty_RematchDefeat:
-	.string "我修行得还不够......\p"
+	.string "我修行得还不够……\p"
 	.string "你所见识过的世界远比我广阔。\p"
-	.string "真是令我羡慕啊......$"
+	.string "真是令我羡慕啊……$"
 
 SaffronCity_FightingDojoVIP_Text_Chuck_Rematch:
 	.string "哇哈哈哈！城都的冠军！\p"
@@ -773,8 +773,8 @@ SaffronCity_FightingDojoVIP_Text_Chuck_RematchDefeat:
 	.string "什么？咦？我又输了？！$"
 
 SaffronCity_FightingDojoVIP_Text_Jasmine_Rematch:
-	.string "......恭喜你，城都的冠军。\p"
-	.string "你变得好强啊......\p"
+	.string "……恭喜你，城都的冠军。\p"
+	.string "你变得好强啊……\p"
 	.string "不知我是否也有所长进呢。\p"
 	.string "你想检验一下吗？\p"
 	.string "要不要再跟我来一场对战？$"
@@ -823,7 +823,7 @@ SaffronCity_FightingDojoVIP_Text_Brock_Rematch:
 
 SaffronCity_FightingDojoVIP_Text_Brock_RematchDefeat:
 	.string "小刚：你的宝可梦再次击溃了我如磐\n"
-	.string "石般坚硬的防御......$"
+	.string "石般坚硬的防御……$"
 
 SaffronCity_FightingDojoVIP_Text_Misty_Rematch:
 	.string "小霞：哇，你现在已经是关都的冠军\n"
@@ -834,7 +834,7 @@ SaffronCity_FightingDojoVIP_Text_Misty_Rematch:
 	.string "要跟我再比一场吗？$"
 
 SaffronCity_FightingDojoVIP_Text_Misty_RematchDefeat:
-	.string "小霞：你真的很厉害呢......$"
+	.string "小霞：你真的很厉害呢……$"
 
 SaffronCity_FightingDojoVIP_Text_Surge_Rematch:
 	.string "马志士：嘿，你现在已经是关都冠军\n"
@@ -857,9 +857,9 @@ SaffronCity_FightingDojoVIP_Text_Erika_Rematch:
 
 SaffronCity_FightingDojoVIP_Text_Erika_RematchDefeat:
 	.string "莉佳：输掉对战果然还是会让人心有\n"
-	.string "不甘呢......\p"
+	.string "不甘呢……\p"
 	.string "但知道世上还有如此强大的训练家，\n"
-	.string "也会激励我更加努力精进.....\l"
+	.string "也会激励我更加努力精进……\l"
 	.string ".$"
 
 SaffronCity_FightingDojoVIP_Text_Sabrina_Rematch:
@@ -872,10 +872,10 @@ SaffronCity_FightingDojoVIP_Text_Sabrina_Rematch:
 
 SaffronCity_FightingDojoVIP_Text_Sabrina_RematchDefeat:
 	.string "娜姿：你对宝可梦的爱，再次压倒了\n"
-	.string "我的超能力......$"
+	.string "我的超能力……$"
 
 SaffronCity_FightingDojoVIP_Text_Janine_Rematch:
-	.string "哼哼哼哼......\p"
+	.string "哼哼哼哼……\p"
 	.string "哇，你真的做到了！\p"
 	.string "你现在可是冠军了呢！\p"
 	.string "真为你感到骄傲！不过我可不会对你\n"
@@ -884,7 +884,7 @@ SaffronCity_FightingDojoVIP_Text_Janine_Rematch:
 
 SaffronCity_FightingDojoVIP_Text_Janine_RematchDefeat:
 	.string "阿杏：你果然还是那么强！\p"
-	.string "这次毫无疑问是你赢了......$"
+	.string "这次毫无疑问是你赢了……$"
 
 SaffronCity_FightingDojoVIP_Text_Blaine_Rematch:
 	.string "夏伯：噢！\p"

@@ -27,7 +27,7 @@ MoveRelearner_Text_HaveNoPkmn:
 	.string "你没有同行的宝可梦！$"
 
 MoveRelearner_Text_CantTeachMoveToEgg:
-	.string "抱歉......但是蛋是没法学会\n"
+	.string "抱歉……但是蛋是没法学会\n"
 	.string "招式的。$"
 
 MoveRelearner_Text_CantTeachMoveToPkmn:

@@ -198,7 +198,7 @@ MrPokemonHouse_Text_OakIntro:
 	.string "听说你在帮空木博士跑腿，所以我特\n"
 	.string "意在这里等你。\p"
 	.string "哦！这是什么？好罕见的宝可梦！\p"
-	.string "让我看看......嗯，原来如此\n"
+	.string "让我看看……嗯，原来如此\n"
 	.string "！\p"
 	.string "我明白空木博士为什么会托付你一只\n"
 	.string "宝可梦来跑腿了。\p"
@@ -206,7 +206,7 @@ MrPokemonHouse_Text_OakIntro:
 	.string "宝可梦就是我们的伙伴。\p"
 	.string "他一定是看出了你对待宝可梦充满了\n"
 	.string "爱心与关怀。\p"
-	.string "......啊！\p"
+	.string "……啊！\p"
 	.string "你看起来很值得信赖。不知你愿不愿\n"
 	.string "意帮我一个忙？\p"
 	.string "看到了吗？这是最新型的宝可梦图鉴\n"
@@ -230,9 +230,9 @@ MrPokemonHouse_Text_OakParting:
 	.string "{PLAYER}，就拜托你了！$"
 
 MrPokemonHouse_Text_GimmeTheScale:
-	.string "嗯？那片鳞片！那是......？\n"
+	.string "嗯？那片鳞片！那是……？\n"
 	.string "红色暴鲤龙的鳞片？！\p"
-	.string "太罕见了！我、好想得到它....\n"
+	.string "太罕见了！我、好想得到它……\n"
 	.string "..\p"
 	.string "{PLAYER}，你愿意跟我交换\n"
 	.string "吗？\p"
@@ -248,15 +248,15 @@ MrPokemonHouse_Text_ExpShare:
 
 MrPokemonHouse_Text_ForeignMagazines:
 	.string "塞满了外国的杂志。\p"
-	.string "连标题都看不懂......$"
+	.string "连标题都看不懂……$"
 
 MrPokemonHouse_Text_BrokenComputer:
-	.string "一台大电脑。唔......好像坏\n"
+	.string "一台大电脑。唔……好像坏\n"
 	.string "掉了。$"
 
 MrPokemonHouse_Text_StrangeCoins:
 	.string "堆成小山的奇怪硬币！\p"
-	.string "说不定是外国的钱币......$"
+	.string "说不定是外国的钱币……$"
 
 MrPokemonHouse_Text_GotExpShare:
 	.string "{PLAYER}获得了学习装置！$"

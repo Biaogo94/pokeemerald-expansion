@@ -329,7 +329,7 @@ FallarborTown_BattleTentLobby_hns_Text_ScottLookingForSomeone:
 	.string "啦！\p"
 	.string "这一带的人性子都慢吞吞、优哉游哉\n"
 	.string "的。\p"
-	.string "但是呢，我真正寻找的，是那种.\n"
+	.string "但是呢，我真正寻找的，是那种。\n"
 	.string ".....\p"
 	.string "该怎么说呢？\p"
 	.string "那种对胜利充满了渴望与冲劲的人。\p"

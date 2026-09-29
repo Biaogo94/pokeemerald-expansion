@@ -86,15 +86,15 @@ FuchsiaCity_Gym_EventScript_Janine_Defeated::
 	end
 
 FuchsiaCity_Gym_Text_Janine_DisappointYou:
-	.string "呼呼呼呼......\p"
-	.string "让你失望了呢......\p"
+	.string "呼呼呼呼……\p"
+	.string "让你失望了呢……\p"
 	.string "开玩笑的啦！\p"
 	.string "本姑娘才是货真价实的！\p"
 	.string "浅红道馆馆主阿杏，正是我！$"
 
 FuchsiaCity_Gym_Text_Janine_ToughOne:
 	.string "阿杏：你真厉害。毫无疑问，是你赢\n"
-	.string "了......\p"
+	.string "了……\p"
 	.string "这是灵魂徽章。拿去吧。$"
 
 FuchsiaCity_Gym_Text_ReceivedSoulBadge:
@@ -216,7 +216,7 @@ FuchsiaCity_Gym_Text_LassAlice_Before:
 	.string "--骗你的啦！上当了吧，笨蛋！$"
 
 FuchsiaCity_Gym_Text_LassAlice_Beaten:
-	.string "还以为把你骗到了呢......$"
+	.string "还以为把你骗到了呢……$"
 
 FuchsiaCity_Gym_Text_LassAlice_After:
 	.string "你能分辨出哪位才是我们真正的馆主\n"
@@ -226,8 +226,8 @@ FuchsiaCity_Gym_Text_LassLinda_Before:
 	.string "上当了吧！哈哈哈！$"
 
 FuchsiaCity_Gym_Text_LassLinda_Beaten:
-	.string "呜呜......输了......\n"
-	.string "你还挺有一手的嘛......$"
+	.string "呜呜……输了……\n"
+	.string "你还挺有一手的嘛……$"
 
 FuchsiaCity_Gym_Text_LassLinda_After:
 	.string "怎么样？我的变装很完美吧？$"

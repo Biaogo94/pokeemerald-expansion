@@ -326,7 +326,7 @@ GoldenrodCity_RadioTower_5F_Text_ExecutiveF1Beaten:
 	.string "怎么会这样！\p"
 	.string "明明拼尽了全力，居然还是输了..\n"
 	.string "....\p"
-	.string "坂木老大，对不起......$"
+	.string "坂木老大，对不起……$"
 
 GoldenrodCity_RadioTower_5F_Text_ExecutiveF1After:
 	.string "你是叫{PLAYER}对吧？\p"
@@ -341,7 +341,7 @@ GoldenrodCity_RadioTower_5F_Text_RocketBossSeen:
 	.string "界宣告我们的复活。\p"
 	.string "这样一来，独自修行的坂木老大就一\n"
 	.string "定会回到我们身边。\p"
-	.string "我们将重拾往昔的荣耀......\p"
+	.string "我们将重拾往昔的荣耀……\p"
 	.string "我绝不会允许你妨碍我们周密的计划\n"
 	.string "！$"
 
@@ -349,7 +349,7 @@ GoldenrodCity_RadioTower_5F_Text_RocketBossBeaten:
 	.string "不！坂木老大，请原谅我！$"
 
 GoldenrodCity_RadioTower_5F_Text_RocketBossAfter:
-	.string "怎么会这样......？\p"
+	.string "怎么会这样……？\p"
 	.string "我们的梦想化为泡影了。\p"
 	.string "看来我终究还是难堪大任。\p"
 	.string "就像当年的坂木老大一样，今天我就\n"
@@ -372,9 +372,9 @@ GoldenrodCity_RadioTower_5F_Text_DirectorClearWingExplanation:
 	.string "这片羽毛是在施工时挖出来的。\p"
 	.string "听说在很久以前，满金市生活着各种\n"
 	.string "各样的宝可梦。\p"
-	.string "也许......\p"
+	.string "也许……\p"
 	.string "这片羽毛和缘朱市的铃铛塔有着什么\n"
-	.string "关联也说不定......\p"
+	.string "关联也说不定……\p"
 	.string "好了，我也该回局长室了。$"
 
 GoldenrodCity_RadioTower_5F_Text_DirectorTidalWingExplanation:
@@ -386,21 +386,21 @@ GoldenrodCity_RadioTower_5F_Text_DirectorTidalWingExplanation:
 	.string "这片羽毛是在施工时挖出来的。\p"
 	.string "听说在很久以前，满金市生活着各种\n"
 	.string "各样的宝可梦。\p"
-	.string "也许......\p"
+	.string "也许……\p"
 	.string "这片羽毛和湛蓝市附近的漩涡列岛有\n"
-	.string "着什么关联也说不定......\p"
+	.string "着什么关联也说不定……\p"
 	.string "好了，我也该回局长室了。$"
 
 GoldenrodCity_RadioTower_5F_Text_DirectorLegendary:
 	.string "啊！\p"
-	.string "想起来了......\p"
-	.string "我给你的那片羽毛......似乎\n"
+	.string "想起来了……\p"
+	.string "我给你的那片羽毛……似乎\n"
 	.string "和传说的宝可梦有关。\p"
 	.string "但是！光凭那片羽毛，传说的宝可梦\n"
-	.string "是不会现身的......\p"
-	.string "好像还需要别的什么东西.....\n"
+	.string "是不会现身的……\p"
+	.string "好像还需要别的什么东西……\n"
 	.string ".大概是这样吧。\p"
-	.string "到底是什么来着呢......\p"
+	.string "到底是什么来着呢……\p"
 	.string "我想不起来了。$"
 
 GoldenrodCity_RadioTower_5F_Text_DirectorFakeout:

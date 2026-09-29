@@ -71,31 +71,31 @@ Route19_Text_SwimmermHaroldSeen:
 	.string "你曾在夜晚的大海里游过泳吗？$"
 
 Route19_Text_SwimmermHaroldBeaten:
-	.string "咕噜......$"
+	.string "咕噜……$"
 
 Route19_Text_SwimmermHaroldAfterBattle:
 	.string "夜晚的大海漆黑一片，感觉就像要把\n"
 	.string "人吞噬掉一样。$"
 
 Route19_Text_SwimmermTuckerSeen:
-	.string "哈、哈......还差.....\n"
-	.string ".一点......\p"
-	.string "就能到......浅红市了...\n"
+	.string "哈、哈……还差……\n"
+	.string ".一点……\p"
+	.string "就能到……浅红市了...\n"
 	.string "...$"
 
 Route19_Text_SwimmermTuckerBeaten:
 	.string "我要淹死啦！$"
 
 Route19_Text_SwimmermTuckerAfterBattle:
-	.string "我......提议跟女朋友一起游\n"
-	.string "到浅红市......呼.....\l"
+	.string "我……提议跟女朋友一起游\n"
+	.string "到浅红市……呼……\l"
 	.string ".$"
 
 Route19_Text_SwimmerfDawnSeen:
 	.string "我最讨厌软弱无能的人了！$"
 
 Route19_Text_SwimmerfDawnBeaten:
-	.string "要是比游泳的话我可不会输....\n"
+	.string "要是比游泳的话我可不会输……\n"
 	.string "..$"
 
 Route19_Text_SwimmerfDawnAfterBattle:

@@ -198,14 +198,14 @@ BattleFrontier_Lounge3_EventScript_FaceOriginalDirection_hns::
 	end
 
 BattleFrontier_Lounge3_Text_CantYouSeeWereBusyHere_hns::
-	.string "......你想要干什么？\p"
+	.string "……你想要干什么？\p"
 	.string "没看到我们正忙着吗？你的事情不能\n"
 	.string "等会儿再说吗？$"
 
 BattleFrontier_Lounge3_Text_YouLookToughExplainGambling_hns::
-	.string "......嗯？我看你像个厉害的\n"
+	.string "……嗯？我看你像个厉害的\n"
 	.string "训练家。\p"
-	.string "嘿嘿......听着，我有个提议\n"
+	.string "嘿嘿……听着，我有个提议\n"
 	.string "。\p"
 	.string "我们在这里建了个小团体，拿对战开\n"
 	.string "拓区里发生的事来玩个小游戏。\p"
@@ -217,7 +217,7 @@ BattleFrontier_Lounge3_Text_YouLookToughExplainGambling_hns::
 	.string "。\p"
 	.string "谁押的训练家战绩最好，谁就能拿走\n"
 	.string "奖池里所有的对战点数。\p"
-	.string "听起来很简单吧？所以说呢....\n"
+	.string "听起来很简单吧？所以说呢……\n"
 	.string "..$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerSingle_hns::
@@ -378,10 +378,10 @@ BattleFrontier_Lounge3_Text_GetToBattlePyramid_hns::
 	.string "搞砸了！我们两个的未来都靠你了！$"
 
 BattleFrontier_Lounge3_Text_NiceTryCantReturnPoints_hns::
-	.string "唉，是你啊......你尽力了.\n"
+	.string "唉，是你啊……你尽力了。\n"
 	.string ".....\p"
 	.string "虽然很遗憾，但我没法退还你的对战\n"
-	.string "点数了......\p"
+	.string "点数了……\p"
 	.string "就当是激励我们下次更加努力吧！$"
 
 BattleFrontier_Lounge3_Text_HelloChampHeresYourPoints_hns::
@@ -405,21 +405,21 @@ BattleFrontier_Lounge3_Text_NotInterested_hns::
 	.string "！$"
 
 BattleFrontier_Lounge3_Text_Oh_hns::
-	.string "噢......$"
+	.string "噢……$"
 
 BattleFrontier_Lounge3_Text_BackedWrongTrainer_hns::
 	.string "我又押错训练家了！\p"
 	.string "也许我也该像其他人一样，堂堂正正\n"
-	.string "地去对战才对......$"
+	.string "地去对战才对……$"
 
 BattleFrontier_Lounge3_Text_TrainerGoodButRattled_hns::
-	.string "那个训练家......\p"
+	.string "那个训练家……\p"
 	.string "实力是不错，但他太容易慌乱了，在\n"
-	.string "对战巨蛋是走不远的......$"
+	.string "对战巨蛋是走不远的……$"
 
 BattleFrontier_Lounge3_Text_KnowWinnerWhenISeeOne_hns::
 	.string "嘻嘻！谁能赢，我一眼就能看出来！$"
 
 BattleFrontier_Lounge3_Text_ShouldBeTakingChallenges_hns::
-	.string "那些训练家......他们到底在\n"
+	.string "那些训练家……他们到底在\n"
 	.string "做什么啊？明明应该去接受挑战的。$"

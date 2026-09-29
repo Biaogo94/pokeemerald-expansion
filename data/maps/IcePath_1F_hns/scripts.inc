@@ -92,10 +92,10 @@ IcePath_1F_Text_Leave:
 	.string ".....$"
 
 IcePath_1F_Text_Stuck1:
-    .string "哎呀呀......这不是\n"
+    .string "哎呀呀……这不是\n"
     .string "{PLAYER}吗？真巧，竟然能\l"
     .string "在这里遇见你！\p"
-    .string "说实话......我的木屐被冻在\n"
+    .string "说实话……我的木屐被冻在\n"
     .string "冰面上了，动弹不得呢。\p"
     .string "换句话说，就是我的鞋子被结结实实\n"
     .string "地冻在地上啦。\p"
@@ -104,10 +104,10 @@ IcePath_1F_Text_Stuck1:
     .string "你能绕到我身后，推我一把吗？$"
 
 IcePath_1F_Text_Stuck2:
-    .string "哎呀呀......这不是\n"
+    .string "哎呀呀……这不是\n"
     .string "{PLAYER}吗？真巧，竟然能\l"
     .string "在这里遇见你！\p"
-    .string "说实话......我的木屐被冻在\n"
+    .string "说实话……我的木屐被冻在\n"
     .string "冰面上了，动弹不得呢。\p"
     .string "换句话说，就是我的鞋子被结结实实\n"
     .string "地冻在地上啦。\p"
@@ -116,7 +116,7 @@ IcePath_1F_Text_Stuck2:
     .string "推我一把吗？$"
 
 IcePath_1F_Text_Shove:
-    .string "......推！......$"
+    .string "……推！......$"
 
 IcePath_1F_Text_Cruel:
     .string "别那么无情嘛。你会从后面推我一把\n"

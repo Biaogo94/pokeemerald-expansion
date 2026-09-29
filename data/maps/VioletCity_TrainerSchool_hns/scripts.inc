@@ -156,7 +156,7 @@ VioletCity_TrainerSchool_Text_Blackboard:
 	.string "学会就能直接使用。$"
 
 VioletCity_TrainerSchool_Text_Notebook:
-	.string "这是这个孩子的笔记本......\p"
+	.string "这是这个孩子的笔记本……\p"
 	.string "使用精灵球来捕捉宝可梦。\p"
 	.string "同行宝可梦最多可以携带6只。\p"
 	.string "要继续阅读吗？$"
@@ -180,9 +180,9 @@ VioletCity_TrainerSchool_Text_Notebook3:
 	.string "称为宝可梦训练家。\p"
 	.string "他们的目标通常是巡回各个宝可梦道\n"
 	.string "馆，击败各地的训练家。\p"
-	.string "下一页是......一片空白！\p"
-	.string "男孩：嘿嘿嘿......\p"
-	.string "后面的我还没写呢......$"
+	.string "下一页是……一片空白！\p"
+	.string "男孩：嘿嘿嘿……\p"
+	.string "后面的我还没写呢……$"
 
 VioletCity_TrainerSchool_Text_StickerMachine:
 	.string "这台超级机器可以把数据打印成贴\n"

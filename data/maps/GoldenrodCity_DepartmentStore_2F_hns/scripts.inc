@@ -218,7 +218,7 @@ GoldenrodDeptStore_Text_ExtraDrinkClankedDown:
 	.string "{STR_VAR_1}！$"
 
 GoldenrodDeptStore_Text_NotEnoughMoney:
-	.string "钱不够......$"
+	.string "钱不够……$"
 
 GoldenrodDeptStore_Text_DecidedAgainstBuyingDrink:
 	.string "决定不买饮料了。$"

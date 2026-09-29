@@ -37,4 +37,4 @@ RedsHouse_Text_Mom2:
 
 RedsHouse_Text_TV:
 	.string "正在播放城都地区看不到的电视节\n"
-	.string "目......$"
+	.string "目……$"

@@ -161,7 +161,7 @@ Alola_Melemele_Pokecenter_Jessica_Text_TakeCare:
 	.string "谢谢你！托里，你要多保重啊！$"
 
 Alola_Melemele_Pokecenter_Jessica_Text_DeclineTrade:
-	.string "不想交换吗？好吧......$"
+	.string "不想交换吗？好吧……$"
 
 Alola_Melemele_Pokecenter_Jessica_Text_TradeCompleted:
 	.string "嗨，我的老托里过得怎么样？$"

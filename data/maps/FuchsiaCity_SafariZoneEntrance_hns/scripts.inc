@@ -314,7 +314,7 @@ FuchsiaCity_SafariZoneEntrance_Text_Level3:
 	.string "400,000。$"
 
 FuchsiaCity_SafariZoneEntrance_Text_UpgradeGuyDeclined:
-	.string "哎呀，那可真是太遗憾了.....\n"
+	.string "哎呀，那可真是太遗憾了……\n"
 	.string ".$"
 
 FuchsiaCity_SafariZoneEntrance_Text_UpgradeGuyAccepted:

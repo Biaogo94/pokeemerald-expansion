@@ -13,7 +13,7 @@ Alola_MelemeleSea_TrainerBattleSwimmer_Text_0:
 	.string "这里的水域好开阔啊！$"
 
 Alola_MelemeleSea_TrainerBattleSwimmer_Text_1:
-	.string "哎哟，大腿抽筋了......$"
+	.string "哎哟，大腿抽筋了……$"
 
 Alola_MelemeleSea_TrainerBattleSwimmer_Text_2:
 	.string "这里的激流很急。我觉得会吸引来强\n"

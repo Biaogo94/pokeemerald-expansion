@@ -8,7 +8,7 @@ Route47_EventScript_Hiker::
 	end
 
 Route47_Text_HikerSeen::
-	.string "想念别人......也就那样吧。\p"
+	.string "想念别人……也就那样吧。\p"
 	.string "但对战就是对战，放马过来吧！$"
 
 Route47_Text_HikerBeaten::
@@ -113,7 +113,7 @@ EmbeddedTower_Text_OldManIntro:
 	.string "甚至有传闻说它一路延伸到了海底的\n"
 	.string "最深处！\p"
 	.string "简而言之，那处遗迹曾经将天空、大\n"
-	.string "地与海洋彼此连接在一起.....\l"
+	.string "地与海洋彼此连接在一起……\l"
 	.string ".\p"
 	.string "如今巨塔的大部分都已坍塌，残留的\n"
 	.string "只有入口与内部，在那里能看到一些\l"

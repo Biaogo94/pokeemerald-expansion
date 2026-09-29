@@ -44,7 +44,7 @@ CeladonDept3_EventScript_Directory::
 
 CeladonDeptStore3F_Text_Youngster:
 	.string "真纠结，该把这个招式学习器给哪只\n"
-	.string "宝可梦用好呢......$"
+	.string "宝可梦用好呢……$"
 
 CeladonDeptStore3F_Text_GameboyKid1:
 	.string "哎呀！我刚才把宝可梦交换出去了，\n"
@@ -53,8 +53,8 @@ CeladonDeptStore3F_Text_GameboyKid1:
 CeladonDeptStore3F_Text_GameboyKid2:
 	.string "太棒了！我终于拿到多边兽了！\p"
 	.string "我不太擅长玩老虎机，以前代币总是\n"
-	.string "攒不够......\p"
-	.string "......咦？\p"
+	.string "攒不够……\p"
+	.string "……咦？\p"
 	.string "换过来的多边兽变成了另一种宝可梦\n"
 	.string "！？$"
 

@@ -87,12 +87,12 @@ BillHouse_Text_PartyFull:
     .string "。$"
 
 BillHouse_Text_NoEevee:
-    .string "哎呀......这下该怎么办呢？$"
+    .string "哎呀……这下该怎么办呢？$"
 
 BillHouse_Text_PopWontWork:
     .string "正辉：我老爸他根本不工作，成天就\n"
     .string "只知道游手好闲。\p"
-    .string "真是让人头疼啊......$"
+    .string "真是让人头疼啊……$"
 
 BillHouse_Text_MomBeforeEcruteak:
     .string "哎呀，你在收集宝可梦吗？我儿子正\n"
@@ -100,7 +100,7 @@ BillHouse_Text_MomBeforeEcruteak:
     .string "他刚刚被叫去圆朱市的宝可梦中心了\n"
     .string "。\p"
     .string "我丈夫则是不请自去，一溜烟跑去了\n"
-    .string "满金游戏城......$"
+    .string "满金游戏城……$"
 
 BillHouse_Text_MomAfterEcruteak:
     .string "我丈夫以前被称为宝可梦狂人呢。\p"
@@ -118,7 +118,7 @@ BillHouse_Text_SisterRefusedNumber:
     .string "我哥哥制作了电脑的宝可梦存储系\n"
     .string "统。\p"
     .string "我本来还想把正辉的电话号码给你\n"
-    .string "的......$"
+    .string "的……$"
 
 BillHouse_Text_SisterPhoneFull:
     .string "无法记录更多的电话号码了。$"

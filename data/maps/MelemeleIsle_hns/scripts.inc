@@ -719,9 +719,9 @@ Alola_Melemele_SamsonOak_Trigger_Beginning_Text_3:
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_4:
 	.string "这里是群岛的主要城镇。\p"
-	.string "它和阿罗拉的好奥乐市惊人地相似.\n"
+	.string "它和阿罗拉的好奥乐市惊人地相似。\n"
 	.string ".....{PAUSE 30}这\l"
-	.string "么一想......\p"
+	.string "么一想……\p"
 	.string "这整座岛也让我联想到了美乐美乐岛\n"
 	.string "......$"
 
@@ -730,10 +730,10 @@ Alola_Melemele_SamsonOak_Trigger_Beginning_Text_5:
 	.string "我致力于研究不同地区的宝可梦形态\n"
 	.string "！\p"
 	.string "在从阿罗拉地区回来的路上，我偶然\n"
-	.string "发现了这些岛屿......\p"
+	.string "发现了这些岛屿……\p"
 	.string "令人惊讶的是，我在阿罗拉见过的许\n"
 	.string "多宝可梦这里居然也有，所以我把这\l"
-	.string "里称为......\l"
+	.string "里称为……\l"
 	.string "{PAUSE 30}阿罗拉群岛！$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_6:
@@ -749,7 +749,7 @@ Alola_Melemele_SamsonOak_Trigger_Beginning_Text_6:
 	.string "回头见啦！$"
 
 Alola_Melemele_NeedToTalkToSamsonOak_Text_0:
-	.string "成也博士正在别墅等你呢.....\n"
+	.string "成也博士正在别墅等你呢……\n"
 	.string ".{PAUSE 30}最好别让他\l"
 	.string "等太久！$"
 
@@ -758,14 +758,14 @@ Alola_Melemele_TotemBattle_Text_0:
 
 Alola_Melemele_TotemBattle_Text_1:
 	.string "霸主叶伊布被击溃了！它不知道逃窜\n"
-	.string "到哪里去了......$"
+	.string "到哪里去了……$"
 
 Alola_Melemele_TotemBattle_Text_2:
 	.string "嘶--！$"
 
 Alola_Melemele_TotemBattle_Text_3:
 	.string "霸主拉达被打倒了！它不知逃窜到哪\n"
-	.string "里去了......$"
+	.string "里去了……$"
 
 MelemeleIsle_hns_Movement_FacePlayerUpAfterTotemWarp:
 	face_up
@@ -794,7 +794,7 @@ Alola_Melemele_Totem_sign_Text_5:
 
 Alola_Melemele_Totem_sign_Text_6:
 	.string "这里伫立着一个奇异的图腾，正散发\n"
-	.string "出一股能量......$"
+	.string "出一股能量……$"
 
 Alola_Melemele_BattleVsTapuKoko_Text_0:
 	.string "咯咯--咯--！$"
@@ -803,7 +803,7 @@ Alola_Melemele_TrainerBattleSwimmer_Text_0:
 	.string "群岛这边的海水真暖和啊！$"
 
 Alola_Melemele_TrainerBattleSwimmer_Text_1:
-	.string "也许我该上岸晒干一下身体....\n"
+	.string "也许我该上岸晒干一下身体……\n"
 	.string "..$"
 
 Alola_Melemele_TrainerBattleSwimmer_Text_2:

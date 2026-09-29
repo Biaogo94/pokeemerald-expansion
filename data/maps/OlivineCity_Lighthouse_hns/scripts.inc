@@ -137,18 +137,18 @@ OlivineLighthouse_Text_BirdKeeperTheoSeen:
 
 OlivineLighthouse_Text_BirdKeeperTheoBeaten:
 	.string "原来你真的很担心那只生病的宝可梦\n"
-	.string "啊......$"
+	.string "啊……$"
 
 OlivineLighthouse_Text_BirdKeeperTheoAfter:
 	.string "到底要怎么才能爬上去啊？\p"
 	.string "我想去探望那只生病的宝可梦，可怎\n"
-	.string "么也上不去......$"
+	.string "么也上不去……$"
 
 OlivineLighthouse_Text_SailorTerrellSeen:
 	.string "水手既温柔又强壮。那你呢？$"
 
 OlivineLighthouse_Text_SailorTerrellBeaten:
-	.string "你也是既温柔又强大啊......$"
+	.string "你也是既温柔又强大啊……$"
 
 OlivineLighthouse_Text_SailorTerrellAfter:
 	.string "每次回到浅葱市，我都会去拜访道\n"
@@ -161,8 +161,8 @@ OlivineLighthouse_Text_GentlemanPrestonSeen:
 	.string "对战一场。$"
 
 OlivineLighthouse_Text_GentlemanPrestonBeaten:
-	.string "......唉......我还得\n"
-	.string "再多加修行......$"
+	.string "……唉……我还得\n"
+	.string "再多加修行……$"
 
 OlivineLighthouse_Text_GentlemanPrestonAfter:
 	.string "阿蜜以前使用的是大岩蛇之类的岩石\n"
@@ -187,7 +187,7 @@ OlivineLighthouse_Text_SailorKentSeen:
 	.string "她这几天连笑容都见不到了。$"
 
 OlivineLighthouse_Text_SailorKentBeaten:
-	.string "我也完全笑不出来了......$"
+	.string "我也完全笑不出来了……$"
 
 OlivineLighthouse_Text_SailorKentAfter:
 	.string "说起生病，我听说湛蓝市有一家很棒\n"
@@ -238,14 +238,14 @@ OlivineLighthouse_Text_BirdKeeperDenisSeen:
 	.string "态正佳！$"
 
 OlivineLighthouse_Text_BirdKeeperDenisBeaten:
-	.string "哎呀......掉下来了....\n"
+	.string "哎呀……掉下来了……\n"
 	.string "..$"
 
 OlivineLighthouse_Text_BirdKeeperDenisAfter:
 	.string "我的宝可梦是在湛蓝市学会“飞翔”\n"
 	.string "的。\p"
 	.string "唉，既然输了，那我就“飞翔”渡海\n"
-	.string "回去吧......$"
+	.string "回去吧……$"
 
 @6th floor==============================================================================================================================
 
@@ -291,30 +291,30 @@ OlivineLighthouse_EventScript_AmpharosSick::
 	end
 
 OlivineLighthouse_Text_JasmineCianwoodPharmacy:
-	.string "阿蜜：......这只宝可梦每到\n"
+	.string "阿蜜：……这只宝可梦每到\n"
 	.string "夜晚，都会照亮海面。\p"
-	.string "......可是它突然病倒了..\n"
-	.string "....现在呼吸非常微弱痛苦..\l"
+	.string "……可是它突然病倒了..\n"
+	.string "……现在呼吸非常微弱痛苦..\l"
 	.string "....\p"
-	.string "......我听说湛蓝市有一家很\n"
-	.string "棒的药房......\p"
-	.string "可是那边隔着大海......我又\n"
-	.string "不能丢下阿利不管......$"
+	.string "……我听说湛蓝市有一家很\n"
+	.string "棒的药房……\p"
+	.string "可是那边隔着大海……我又\n"
+	.string "不能丢下阿利不管……$"
 
 OlivineLighthouse_Text_JasmineGetMedicine:
-	.string "......能拜托你替我去取一些\n"
+	.string "……能拜托你替我去取一些\n"
 	.string "药来吗？求求你了。$"
 
 OlivineLighthouse_Text_JasmineGetMedicine2:
-	.string "湛蓝市有一家很棒的药房.....\n"
+	.string "湛蓝市有一家很棒的药房……\n"
 	.string ".\p"
-	.string "可是那边隔着大海......我又\n"
-	.string "不能丢下阿利不管......\p"
-	.string "......能拜托你替我去取一些\n"
+	.string "可是那边隔着大海……我又\n"
+	.string "不能丢下阿利不管……\p"
+	.string "……能拜托你替我去取一些\n"
 	.string "药来吗？求求你了。$"
 
 OlivineLighthouse_Text_JasmineCureAmphy:
-	.string "阿蜜：......那种药能治好阿\n"
+	.string "阿蜜：……那种药能治好阿\n"
 	.string "利吗？$"
 
 
@@ -386,35 +386,35 @@ OlivineLighthouse_Text_PlayerHandedSecretpotion:
 	.string "蜜。$"
 
 OlivineLighthouse_Text_JasmineDontBeOffended:
-	.string "阿蜜：......那个，请不要见\n"
-	.string "怪......\p"
-	.string "......阿利除了我给的东西，\n"
-	.string "谁喂的都不肯吃......$"
+	.string "阿蜜：……那个，请不要见\n"
+	.string "怪……\p"
+	.string "……阿利除了我给的东西，\n"
+	.string "谁喂的都不肯吃……$"
 
 OlivineLighthouse_Text_JasmineAmphyHowFeeling:
 	.string "阿蜜：......\p"
 	.string "阿利，感觉好些了吗？$"
 
 OlivineLighthouse_Text_JasmineThankYou:
-	.string "阿蜜：......太好了，真是松\n"
-	.string "了一口气......\p"
-	.string "这真是太好了......\p"
+	.string "阿蜜：……太好了，真是松\n"
+	.string "了一口气……\p"
+	.string "这真是太好了……\p"
 	.string "真的、非常感谢你。\p"
-	.string "......我要回道馆去了...\n"
+	.string "……我要回道馆去了...\n"
 	.string "...\p"
 	.string "顺便提醒你一句，钢属性可是很厉害\n"
 	.string "的哦。$"
 
 OlivineLighthouse_Text_JasmineISee:
-	.string "阿蜜：......这样啊....\n"
-	.string "........阿利，坚持住！$"
+	.string "阿蜜：……这样啊……\n"
+	.string "……阿利，坚持住！$"
 
 OlivineLighthouse_Text_AmphyPalPaloo:
-	.string "阿利：............帕\n"
-	.string "......帕噜......$"
+	.string "阿利：……帕\n"
+	.string "……帕噜……$"
 
 OlivineLighthouse_Text_AmphyBreathingLabored:
-	.string "它的呼吸看起来非常痛苦.....\n"
+	.string "它的呼吸看起来非常痛苦……\n"
 	.string ".$"
 
 OlivineLighthouse_Text_AmphyPaluPalulu:

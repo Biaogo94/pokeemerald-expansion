@@ -345,11 +345,11 @@ PokemonLeague_ChampionsRoom_Text_BattleIntro:
     .string "现在无需多言。\p"
     .string "就用对战来分出我们谁更强吧。\p"
     .string "作为最强大的训练家，作为宝可梦联\n"
-    .string "盟冠军......\p"
+    .string "盟冠军……\p"
     .string "我，驯龙使者阿渡，接受你的挑战！$"
 
 PokemonLeague_ChampionsRoom_Text_BattleWin:
-    .string "......结束了。\p"
+    .string "……结束了。\p"
     .string "但我有一种奇妙的感觉。\p"
     .string "输掉对战，我并不感到懊恼。相反，\n"
     .string "我甚至感到欣慰。\p"
@@ -357,7 +357,7 @@ PokemonLeague_ChampionsRoom_Text_BattleWin:
     .string "的诞生！$"
 
 PokemonLeague_ChampionsRoom_Text_BattleAfter:
-    .string "......呼。\p"
+    .string "……呼。\p"
     .string "你真的变得非常强大了，\n"
     .string "{PLAYER}。\p"
     .string "你的宝可梦们回应了你坚强而正直的\n"

@@ -310,14 +310,14 @@ TrainerHill_Entrance_hns_Text_SaveGameBeforeEnter:
 	.string "。$"
 
 TrainerHill_Entrance_hns_Text_TrainersUpToFloorX:
-	.string "我看看......现在驻留在此的\n"
-	.string "训练家......\p"
+	.string "我看看……现在驻留在此的\n"
+	.string "训练家……\p"
 	.string "分布到了第{STR_VAR_1}\n"
 	.string "层。$"
 
 TrainerHill_Entrance_hns_Text_TrainersInEveryRoom:
-	.string "我看看......现在驻留在此的\n"
-	.string "训练家......\p"
+	.string "我看看……现在驻留在此的\n"
+	.string "训练家……\p"
 	.string "似乎每一个房间里都聚集了训练家。$"
 
 TrainerHill_Entrance_hns_Text_LikeToChallengeTrainers:
@@ -326,8 +326,8 @@ TrainerHill_Entrance_hns_Text_LikeToChallengeTrainers:
 
 TrainerHill_Entrance_hns_Text_TimeProgessGetSetGo:
 	.string "我将为你记录挑战用时。祝你好运！\p"
-	.string "各就各位......\p"
-	.string "预备......\p"
+	.string "各就各位……\p"
+	.string "预备……\p"
 	.string "跑！$"
 
 TrainerHill_Entrance_hns_Text_PleaseVisitUsAgain:

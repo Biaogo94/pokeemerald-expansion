@@ -93,7 +93,7 @@ Route10_Text_PokefanmRobertBeaten:
 Route10_Text_PokefanmRobertAfter:
 	.string "看你把我的宝可梦伤成什么样了..\n"
 	.string "....\p"
-	.string "我可不会忘记这笔账的......$"
+	.string "我可不会忘记这笔账的……$"
 
 Route10_Text_PowerPlant:
 	.string "发电厂$"

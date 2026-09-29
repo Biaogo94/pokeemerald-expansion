@@ -77,7 +77,7 @@ NationalPark_Normal_Text_PokefanF:
 
 NationalPark_Normal_Text_Teacher1:
 	.string "请注意听讲！\p"
-	.string "......哎呀，职业病又犯了，\n"
+	.string "……哎呀，职业病又犯了，\n"
 	.string "总觉得自己还在当老师呢。\p"
 	.string "你一定是一位宝可梦训练家吧。\p"
 	.string "看你这么努力，这个就送给你吧。$"
@@ -186,13 +186,13 @@ NationalPark_Normal_Text_SchoolboyJack1_Beaten:
 
 NationalPark_Normal_Text_SchoolboyJack_After:
 	.string "要学习的东西还多着呢。\p"
-	.string "比如说......\p"
+	.string "比如说……\p"
 	.string "招式学习器一共有92种。\p"
 	.string "通过连接交换来的宝可梦升级更快。$"
 
 NationalPark_Normal_Text_JackRegister:
 	.string "要学习的东西还多着呢。\p"
-	.string "比如说......\p"
+	.string "比如说……\p"
 	.string "招式学习器一共有92种。\p"
 	.string "通过连接交换来的宝可梦升级更快。$"
 
@@ -205,7 +205,7 @@ NationalPark_Normal_Text_JackRematchDefeat:
 
 NationalPark_Normal_Text_JackPostRematch:
 	.string "要学习的东西还多着呢。\p"
-	.string "比如说......\p"
+	.string "比如说……\p"
 	.string "招式学习器一共有92种。\p"
 	.string "通过连接交换来的宝可梦升级更快。$"
 

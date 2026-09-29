@@ -162,12 +162,12 @@ GoldenrodCity_RadioTower_2F_Text_TeacherRockets:
 	.string "他们为什么要占领广播电台呢？$"
 
 GoldenrodCity_RadioTower_2F_Text_Jigglypuff:
-	.string "胖丁：波哩......$"
+	.string "胖丁：波哩……$"
 
 GoldenrodCity_RadioTower_2F_Text_BlackBelt1:
 	.string "抱歉，前方非工作人员禁止入内。\p"
 	.string "以前明明没有这种规定的。\p"
-	.string "总觉得台长怪怪的......$"
+	.string "总觉得台长怪怪的……$"
 
 GoldenrodCity_RadioTower_2F_Text_BlackBelt2:
 	.string "请随意四处参观吧。\p"

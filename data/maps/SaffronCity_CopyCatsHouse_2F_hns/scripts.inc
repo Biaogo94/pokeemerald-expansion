@@ -232,7 +232,7 @@ Copycat_Text_Male_2:
 Copycat_Text_Worried:
 	.string "模仿少女：你说什么？\p"
 	.string "我不该擅自替你做决定？\p"
-	.string "可我真的好担心啊......万一\n"
+	.string "可我真的好担心啊……万一\n"
 	.string "被别人捡走了怎么办？$"
 
 Copycat_Text_GiveDoll:
@@ -271,4 +271,4 @@ Copycat_Text_Dodrio2:
 
 Copycat_Text_2FDoll:
 	.string "这是稀有的宝可梦！咦？\p"
-	.string "原来只是个玩偶啊......$"
+	.string "原来只是个玩偶啊……$"

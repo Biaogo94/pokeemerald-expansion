@@ -262,7 +262,7 @@ MahoganyTown_Text_RageCandyBarMerchantNotEnoughMoney:
     .string "你的钱不够。$"
 
 MahoganyTown_Text_RageCandyBarMerchantRefused:
-    .string "哎，那就算了吧......$"
+    .string "哎，那就算了吧……$"
 
 MahoganyTown_Text_RageCandyBarMerchantSoldOut:
     .string "愤怒之馒头卖光了。\p"

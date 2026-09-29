@@ -482,7 +482,7 @@ BattleFrontier_BattleTowerMultiBattleRoom_Text_7thOpponentSetNext_hns:
 	.string "接下来是第7组对手。请加油！$"
 
 gText_LinkStandby3_hns::
-	.string "通信等待中......$"
+	.string "通信等待中……$"
 
 gText_YourPartnerHasRetired_hns::
 	.string "您的搭档退出了。\p"

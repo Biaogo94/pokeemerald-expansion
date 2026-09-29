@@ -342,7 +342,7 @@ AzaleaTown_Movement_KurtLeave:
 	step_end
 
 AzaleaTown_Text_RivalBefore:
-	.string "......告诉我一件事。\p"
+	.string "……告诉我一件事。\p"
 	.string "火箭队复活了，这是真的吗？\p"
 	.string "什么？你打败了他们？哈！少吹牛\n"
 	.string "了。\p"
@@ -350,7 +350,7 @@ AzaleaTown_Text_RivalBefore:
 	.string "本事。$"
 
 AzaleaTown_Text_RivalWin:
-	.string "......哼！没用的宝可梦！\p"
+	.string "……哼！没用的宝可梦！\p"
 	.string "听好了。你赢只是因为我的宝可梦太\n"
 	.string "弱了。$"
 
@@ -368,7 +368,7 @@ AzaleaTown_Text_RivalAfter:
 	.string "手碍脚。$"
 
 AzaleaTown_Text_RivalLoss:
-	.string "......哼！我就知道你在说谎\n"
+	.string "……哼！我就知道你在说谎\n"
 	.string "。$"
 
 AzaleaTown_Text_Rocket1:
@@ -381,7 +381,7 @@ AzaleaTown_Text_Rocket2:
 	.string "听到这个很开心吧？$"
 
 AzaleaTown_Text_GrampsBefore:
-	.string "镇上的呆呆兽都消失了......\p"
+	.string "镇上的呆呆兽都消失了……\p"
 	.string "听说有人在某个地方贩卖它们的尾\n"
 	.string "巴。$"
 
@@ -402,7 +402,7 @@ AzaleaTown_Text_Youngster:
 
 AzaleaTown_Text_Slowpoke1:
 	.string "呆呆兽：......\p"
-	.string "......哈欠？$"
+	.string "……哈欠？$"
 
 AzaleaTown_Text_Kurt1:
 	.string "栎树林骚动不安！\p"

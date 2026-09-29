@@ -140,18 +140,18 @@ Route39_Barn_EventScript_TwinsAfter::
 	end
 
 Route39_Text_BarnTwinMoomooIsSick:
-	.string "哞哞生病了......\p"
+	.string "哞哞生病了……\p"
 	.string "需要喂它很多橙橙果才行。$"
 
 Route39_Text_BarnTwinFeedingMoomoo:
 	.string "哞哞已经完全康复了！太感谢你了！$"
 
 Route39_Text_MoomooWeakMoo:
-	.string "大奶罐：......哞.....\n"
+	.string "大奶罐：……哞……\n"
 	.string ".$"
 
 Route39_Text_BarnCryIsWeak:
-	.string "叫声听起来很虚弱......要给\n"
+	.string "叫声听起来很虚弱……要给\n"
 	.string "大奶罐一颗橙橙果吗？$"
 
 Route39_Text_MoomooHappyMoo:

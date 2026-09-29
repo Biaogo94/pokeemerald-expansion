@@ -167,7 +167,7 @@ Route30_Text_BugCatcherDonBeaten:
 
 Route30_Text_BugCatcherDonAfter:
 	.string "抓宝可梦的时候精灵球用光了。\p"
-	.string "真应该多买几个备着的......$"
+	.string "真应该多买几个备着的……$"
 
 Route30_Text_YoungsterDirectionsToMrPokemon:
 	.string "宝可梦爷爷的家？还要往前走一段路\n"
@@ -218,7 +218,7 @@ Route30_Text_JoeyPostRematch:
 	.string "吧！$"
 
 Route30_Text_YoungsterJoeyGiveHPUp:
-	.string "我又输了......天哪，你也太\n"
+	.string "我又输了……天哪，你也太\n"
 	.string "强了吧！\p"
 	.string "对了，我差点忘了要把这个交给你。\p"
 	.string "用它让自己变得更强吧，好吗？\p"
@@ -228,10 +228,10 @@ Route30_Text_ElmName:
 	.string "空木博士$"
 
 Route30_Text_Elm_Disaster:
-	.string "空木博士：喂......喂？是\n"
+	.string "空木博士：喂……喂？是\n"
 	.string "{PLAYER}吗？大事不好了！\p"
-	.string "呃、呜......简直太糟糕了！\p"
-	.string "怎么办才好？它......天哪\n"
+	.string "呃、呜……简直太糟糕了！\p"
+	.string "怎么办才好？它……天哪\n"
 	.string "......\p"
 	.string "请快点赶回研究所来！$"
 

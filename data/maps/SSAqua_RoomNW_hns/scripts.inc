@@ -56,7 +56,7 @@ SSAqua_RoomNW_Text_GentlemanEdwardSeen:
 	.string "丢了。$"
 
 SSAqua_RoomNW_Text_GentlemanEdwardBeaten:
-	.string "找......找不到啊.....\n"
+	.string "找……找不到啊……\n"
 	.string ".$"
 
 SSAqua_RoomNW_Text_GentlemanEdwardAfterBattle:
@@ -71,5 +71,5 @@ SSAqua_RoomNW_Text_BurglarCoreyBeaten:
 
 SSAqua_RoomNW_Text_BurglarCoreyAfterBattle:
 	.string "我在这里捡到了一枚漂亮的硬币。\p"
-	.string "一定是有人不小心弄丢的.....\n"
+	.string "一定是有人不小心弄丢的……\n"
 	.string ".$"

@@ -244,7 +244,7 @@ LakeOfRage_Text_Dragonite:
 
 LakeOfRage_Text_LanceForcedToEvolve:
     .string "这座湖里除了暴鲤龙就再没有别的宝\n"
-    .string "可梦了......\p"
+    .string "可梦了……\p"
     .string "看来是鲤鱼王被强迫进化了啊...\n"
     .string "...$"
 
@@ -256,7 +256,7 @@ LakeOfRage_Text_LanceIntro1:
 
 LakeOfRage_Text_LanceIntro2:
     .string "这位男士把传闻告诉了我。\p"
-    .string "所以我们才来调查一番......$"
+    .string "所以我们才来调查一番……$"
 
 LakeOfRage_Text_LanceIntro3:
     .string "{PLAYER}，我刚才看到你战\n"
@@ -275,7 +275,7 @@ LakeOfRage_Text_LanceRadioSignal:
     .string "。$"
 
 LakeOfRage_Text_LanceRefused:
-    .string "这样啊......好吧，如果你改\n"
+    .string "这样啊……好吧，如果你改\n"
     .string "变了主意，请一定要来帮帮我们。$"
 
 LakeOfRage_Text_LanceAskHelp:
@@ -299,7 +299,7 @@ LakeOfRage_Text_SuperNerd:
 
 LakeOfRage_Text_CooltrainerF:
     .string "我眼花了吗？我刚才在湖里看到了一\n"
-    .string "只红色的暴鲤龙......\p"
+    .string "只红色的暴鲤龙……\p"
     .string "可是暴鲤龙通常不都是蓝色的吗？$"
 
 
@@ -308,7 +308,7 @@ LakeOfRage_Text_FisherAndreSeen:
 
 LakeOfRage_Text_FisherAndreBeaten:
     .string "我也许是个钓鱼高手，但作为宝可梦\n"
-    .string "训练家还差得远呢......$"
+    .string "训练家还差得远呢……$"
 
 LakeOfRage_Text_FisherAndreAfter:
     .string "作为钓客我可不会输！我成天都在钓\n"
@@ -317,10 +317,10 @@ LakeOfRage_Text_FisherAndreAfter:
 
 LakeOfRage_Text_FisherRaymondSeen:
     .string "不管怎么钓，上钩的都是同一种宝可\n"
-    .string "梦啊......$"
+    .string "梦啊……$"
 
 LakeOfRage_Text_FisherRaymondBeaten:
-    .string "我的鱼线全缠在一起了......$"
+    .string "我的鱼线全缠在一起了……$"
 
 LakeOfRage_Text_FisherRaymondAfter:
     .string "为什么我就钓不到厉害的宝可梦呢？$"
@@ -331,7 +331,7 @@ LakeOfRage_Text_CooltrainermAaronSeen:
     .string "这就是我们的宿命。$"
 
 LakeOfRage_Text_CooltrainermAaronBeaten:
-    .string "呼......精彩的对战。$"
+    .string "呼……精彩的对战。$"
 
 LakeOfRage_Text_CooltrainermAaronAfter:
     .string "宝可梦和训练家是在不断战斗中变得\n"
@@ -416,7 +416,7 @@ LakeOfRage_Text_WesleyWednesday:
     .string "还是说，你只是运气好碰巧撞上的？$"
 
 LakeOfRage_Text_WesleyNotWednesday:
-    .string "卫斯：倒也不是这样......$"
+    .string "卫斯：倒也不是这样……$"
 
 LakeOfRage_EventScript_Sign1::
 	msgbox LakeOfRage_Text_Sign, MSGBOX_SIGN

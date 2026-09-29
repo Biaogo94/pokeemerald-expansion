@@ -26,5 +26,5 @@ OlivineCity_Text_MartLass:
 	.string "我的。\p"
 	.string "它还带来了他写的信呢。\p"
 	.string "想知道上面写了什么吗？\p"
-	.string "让我想想......不行！这是秘\n"
+	.string "让我想想……不行！这是秘\n"
 	.string "密！$"

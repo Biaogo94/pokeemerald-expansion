@@ -123,11 +123,11 @@ Route35_Text_CamperElliotSeen:
 	.string "我要让我女朋友看看，我有多帅气！$"
 
 Route35_Text_CamperElliotBeaten:
-	.string "真希望你能故意输给我啊.....\n"
+	.string "真希望你能故意输给我啊……\n"
 	.string ".$"
 
 Route35_Text_CamperElliotAfter:
-	.string "在女朋友面前丢大人了......$"
+	.string "在女朋友面前丢大人了……$"
 
 Route35_Text_PicnickerBrookeSeen:
 	.string "我男朋友太弱了，根本靠不住。$"
@@ -143,7 +143,7 @@ Route35_Text_PicnickerKimSeen:
 	.string "你也是要去道馆吗？我也是！$"
 
 Route35_Text_PicnickerKimBeaten:
-	.string "哎呀。没赢过呢......$"
+	.string "哎呀。没赢过呢……$"
 
 Route35_Text_PicnickerKimAfter:
 	.string "道馆徽章真好看，我一直在收集呢。$"
@@ -177,7 +177,7 @@ Route35_Text_BugCatcherArnieSeen:
 	.string "去！$"
 
 Route35_Text_BugCatcherArnieBeaten:
-	.string "咦？我不该输的呀......$"
+	.string "咦？我不该输的呀……$"
 
 Route35_Text_BugCatcherArnieAfter:
 	.string "我的毛球曾在自然公园的捕虫大赛上\n"
@@ -197,14 +197,14 @@ Route35_Text_ArnieRematchIntro:
 	.string "去！$"
 
 Route35_Text_ArnieRematchDefeat:
-	.string "咦？我不该输的呀......$"
+	.string "咦？我不该输的呀……$"
 
 Route35_Text_ArniePostRematch:
 	.string "我的毛球曾在自然公园的捕虫大赛上\n"
 	.string "拿过优胜呢。$"
 
 Route35_Text_BugCatcherArnieYanma:
-	.string "哇......看那些蜻蜻蜓！\p"
+	.string "哇……看那些蜻蜻蜓！\p"
 	.string "太震撼了，我都看呆了。$"
 
 Route35_Text_FirebreatherWaltSeen:

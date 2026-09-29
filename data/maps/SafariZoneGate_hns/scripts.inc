@@ -63,7 +63,7 @@ SafariZoneGate_EventScript_SlowpokeLady::
 
 
 SafariZone_Text_ForeignFeeling:
-	.string "狩猎地带......让我感觉就像\n"
+	.string "狩猎地带……让我感觉就像\n"
 	.string "来到了异国他乡一样。\p"
 	.string "真是一种奇妙的感觉呢。$"
 
@@ -92,7 +92,7 @@ SafariZone_Text_SlowpokeFan:
 SafariZone_Text_CustomSystem:
 	.string "你可能会觉得自定义狩猎地带背后有\n"
 	.string "什么复杂的系统，对吧？\p"
-	.string "但其实真相是......$"
+	.string "但其实真相是……$"
 
 SafariZone_Text_Sign:
 	.string "狩猎地带处处充满刺激与惊喜！\p"

@@ -34,10 +34,10 @@ UnionCave_B1F_Text_HikerPhillipSeen:
 	.string "别客气，来对战吧！$"
 
 UnionCave_B1F_Text_HikerPhillipBeaten:
-	.string "呜呃呃......$"
+	.string "呜呃呃……$"
 
 UnionCave_B1F_Text_HikerPhillipAfter:
-	.string "我已经迷路很久了......\p"
+	.string "我已经迷路很久了……\p"
 	.string "待在这里倒无所谓，但我肚子真--\n"
 	.string "的好饿啊！$"
 
@@ -57,7 +57,7 @@ UnionCave_B1F_Text_PokemaniacAndrewSeen:
 	.string "别来打扰我和我的宝可梦！$"
 
 UnionCave_B1F_Text_PokemaniacAndrewBeaten:
-	.string "走......快走开！$"
+	.string "走……快走开！$"
 
 UnionCave_B1F_Text_PokemaniacAndrewAfter:
 	.string "只有我和宝可梦相伴，我已经乐得找\n"

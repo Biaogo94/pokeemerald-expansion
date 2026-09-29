@@ -23,7 +23,7 @@ Ecruteak_Text_ItemfinderExplanation:
 	.string "有道具哦。$"
 
 Ecruteak_Text_ItemfinderToEachHisOwn:
-	.string "哎......真是人各有志呢..\n"
+	.string "哎……真是人各有志呢..\n"
 	.string "....$"
 
 EcruteakCity_House2_EventScript_ItemFinderMan::
@@ -83,7 +83,7 @@ Ecruteak_Text_TwoTowers:
 	.string "的栖居之所。\p"
 	.string "但其中一座塔被大火烧毁殆尽。\p"
 	.string "自那以后，这两只宝可梦便再也没有\n"
-	.string "现身过......\p"
+	.string "现身过……\p"
 	.string "要继续阅读吗？$"
 
 Ecruteak_Text_ThreeMon:

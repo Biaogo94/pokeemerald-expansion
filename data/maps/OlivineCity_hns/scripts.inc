@@ -156,7 +156,7 @@ OlivineCity_Movement_SilverLeave:
 OlivineCity_Text_SilverEncounter:
 	.string "又是你？别那么提心吊胆的。\p"
 	.string "我才没闲工夫理会像你这样的弱者。\p"
-	.string "说到弱者......这座城市的道\n"
+	.string "说到弱者……这座城市的道\n"
 	.string "馆馆主根本不在这里。听说是在灯塔\l"
 	.string "照料生病的宝可梦呢。\p"
 	.string "哼！真是笑话！生病的宝可梦丢掉不\n"

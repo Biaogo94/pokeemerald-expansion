@@ -109,13 +109,13 @@ Route17_Text_BikerJoelSeen:
 	.string "哇，那辆自行车真帅！$"
 
 Route17_Text_BikerJoelBeaten:
-	.string "但你不光是看起来帅而已.....\n"
+	.string "但你不光是看起来帅而已……\n"
 	.string ".$"
 
 Route17_Text_BikerJoelAfterBattle:
 	.string "我看起来很酷，但实力太弱，所以根\n"
 	.string "本算不上真帅。\p"
-	.string "我必须更加努力特训才行.....\n"
+	.string "我必须更加努力特训才行……\n"
 	.string ".$"
 
 Route17_Text_BikerGlennSeen:
@@ -145,7 +145,7 @@ Route17_Text_RileyRematchIntro:
 	.string "城都小鬼也就只能赢这么一回！$"
 
 Route17_Text_RileyRematchDefeat:
-	.string "我被打趴了......$"
+	.string "我被打趴了……$"
 
 Route17_Text_RileyPostRematch:
 	.string "也许我也应该去城都修行一下了。$"
@@ -158,7 +158,7 @@ Route17_Text_JoelRematchIntro:
 	.string "来看看现在到底谁更帅！$"
 
 Route17_Text_JoelRematchDefeat:
-	.string "还是不够帅气啊......$"
+	.string "还是不够帅气啊……$"
 
 Route17_Text_JoelPostRematch:
 	.string "小鬼，为了能变得和你一样帅，我会\n"

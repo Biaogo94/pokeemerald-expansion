@@ -228,7 +228,7 @@ MahoganyTown_Pokemart:
 	end
 
 MahoganyTown_Shop_Text_Granny:
-	.string "请改天再来吧。本店......现\n"
+	.string "请改天再来吧。本店……现\n"
 	.string "在已经打烊了。$"
 
 MahoganyMart1F_Text_Pharmacist_Lance:
@@ -240,8 +240,8 @@ MahoganyMart1F_Text_BlackBelt:
     .string "大钱的摇钱树啊。$"
 
 MahoganyMart1F_Text_BlackBelt_Lance:
-    .string "唔呃......\p"
-    .string "那家伙的宝可梦太强了......$"
+    .string "唔呃……\p"
+    .string "那家伙的宝可梦太强了……$"
 
 MahoganyMart1F_Text_Lance_HyperBeam:
     .string "阿渡：快龙，破坏光线。$"

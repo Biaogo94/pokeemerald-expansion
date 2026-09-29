@@ -21,7 +21,7 @@ Route28House_Text_Celebrity1:
 Route28House_Text_Celebrity2:
 	.string "当超级大明星真辛苦啊。\p"
 	.string "无论我走到哪里，都有人追着我跑。\p"
-	.string "我只想一个人静静......$"
+	.string "我只想一个人静静……$"
 
 Route28House_Text_Fearow:
 	.string "大嘴雀：嘎啊！$"

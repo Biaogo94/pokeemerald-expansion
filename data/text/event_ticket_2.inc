@@ -29,7 +29,7 @@ EventTicket_Text_OddTicketGetOnBoard:
 
 FarawayIsland_Entrance_Text_SailorReturn:
 	.string "哈奇船长有时真是变化无常得让人抓\n"
-	.string "狂......\p"
+	.string "狂……\p"
 #if IS_HNS
 	.string "你想回浅黄市吗？$"
 #else

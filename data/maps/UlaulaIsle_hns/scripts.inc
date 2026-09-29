@@ -331,7 +331,7 @@ Alola_Ulaula_TrainerBattlePicnicker_Text_0:
 	.string "惊喜吧！我其实一直躲在树上呢！$"
 
 Alola_Ulaula_TrainerBattlePicnicker_Text_1:
-	.string "我又躲回去啦......$"
+	.string "我又躲回去啦……$"
 
 Alola_Ulaula_TrainerBattlePicnicker_Text_2:
 	.string "我刚才好像看到有什么红色的东西在\n"
@@ -343,7 +343,7 @@ Alola_Ulaula_TrainerBattleYoungster_Text_0:
 	.string "拉山的人！$"
 
 Alola_Ulaula_TrainerBattleYoungster_Text_1:
-	.string "这里甚至都不是真正的拉纳基拉山.\n"
+	.string "这里甚至都不是真正的拉纳基拉山。\n"
 	.string ".....$"
 
 Alola_Ulaula_TrainerBattleYoungster_Text_2:
@@ -356,8 +356,8 @@ Alola_Ulaula_TrainerBattleHiker_Text_0:
 	.string "很有两下子吧！$"
 
 Alola_Ulaula_TrainerBattleHiker_Text_1:
-	.string "呜呃......我真该更刻苦训练\n"
-	.string "的......$"
+	.string "呜呃……我真该更刻苦训练\n"
+	.string "的……$"
 
 Alola_Ulaula_TrainerBattleHiker_Text_2:
 	.string "乌拉乌拉岛可是徒步旅行的绝佳去处\n"
@@ -370,7 +370,7 @@ Alola_Ulaula_TrainerBattleCooltrainer_Text_0:
 	.string "一场，转移一下注意力吧！$"
 
 Alola_Ulaula_TrainerBattleCooltrainer_Text_1:
-	.string "真该带个空气清新剂来的.....\n"
+	.string "真该带个空气清新剂来的……\n"
 	.string ".$"
 
 Alola_Ulaula_TrainerBattleCooltrainer_Text_2:

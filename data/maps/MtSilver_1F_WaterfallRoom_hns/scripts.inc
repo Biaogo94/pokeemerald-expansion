@@ -35,7 +35,7 @@ MtSilver_1F_WaterfallRoom_Scientist_Scene::
 	end
 
 MtSilver_1F_WaterfallRoom_Text_Scientist:
-	.string "这里就是未探索分支区域的入口了.\n"
+	.string "这里就是未探索分支区域的入口了。\n"
 	.string ".....\l"
 	.string "{PAUSE 0x0F}\l"
 	.string "{PAUSE 0x0F}\l"

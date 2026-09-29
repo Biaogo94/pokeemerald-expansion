@@ -120,7 +120,7 @@ VioletCity_PokeCenter_Text_ElmsAideNoRoom:
 	.string "空木博士让我来找你。\p"
 	.string "他还有一件事想拜托你。\p"
 	.string "你能收下这颗宝可梦的蛋吗？\p"
-	.string "啊，等等......你得先给同行\n"
+	.string "啊，等等……你得先给同行\n"
 	.string "的队伍腾出空位才行。$"
 
 VioletCity_PokeCenter_Text_ElmsAideGiveEgg:
@@ -148,8 +148,8 @@ VioletCity_PokeCenter_Text_ElmsAideEggToPC:
 	.string "到正辉的电脑里去了。$"
 
 VioletCity_PokeCenter_Text_ElmsAideRefuse:
-	.string "可、可是......空木博士有事\n"
-	.string "找你......$"
+	.string "可、可是……空木博士有事\n"
+	.string "找你……$"
 
 VioletCity_PokeCenter_Text_BooksAreGreat:
 	.string "在宝可梦恢复体力的时候，我最喜欢\n"

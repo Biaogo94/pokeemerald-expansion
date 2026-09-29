@@ -22,8 +22,8 @@ TohjoFalls_GiovanniRoom_EventScript_Radio::
 	end
 
 TohjoFalls_GiovanniRoom_Text_RadioObject::
-	.string "是一台收音机......电池已经\n"
-	.string "没电了......$"
+	.string "是一台收音机……电池已经\n"
+	.string "没电了……$"
 
 TohjoFalls_GiovanniRoom_CancelScene::
 	setvar VAR_TOHJO_FALLS_GIOVANNI_STATE, 0
@@ -200,26 +200,26 @@ TohjoFalls_GiovanniRoom_Text_GiovanniIntro:
 	.string "我不知道你为何会来这里。\p"
 	.string "不过，我必须警告你，这里可不是你\n"
 	.string "这种小鬼该来的地方。\p"
-	.string "你的眼神......让我想起了三\n"
-	.string "年前站在我面前的那个小鬼....\l"
+	.string "你的眼神……让我想起了三\n"
+	.string "年前站在我面前的那个小鬼……\l"
 	.string "..\p"
-	.string "你们有着一模一样的眼神.....\n"
+	.string "你们有着一模一样的眼神……\n"
 	.string ".\p"
 	.string "......\p"
 	.string "我正准备前往满金市，回应呼唤并与\n"
 	.string "我的部下汇合。你打算挡我的路吗？$"
 
 TohjoFalls_GiovanniRoom_Text_GiovanniBeforeBattle:
-	.string "曾经的同伴正在需要我......\n"
+	.string "曾经的同伴正在需要我……\n"
 	.string "我们绝不会重蹈三年前的覆辙！$"
 
 TohjoFalls_GiovanniRoom_Text_GiovanniDefeat:
 	.string "你这家伙到底是什么人？！$"
 
 TohjoFalls_GiovanniRoom_Text_GiovanniAfter:
-	.string "坂木：怎么可能......？这三\n"
-	.string "年来全都白费了吗......？\p"
+	.string "坂木：怎么可能……？这三\n"
+	.string "年来全都白费了吗……？\p"
 	.string "为什么又会是你这种小鬼，再次粉碎\n"
 	.string "了我的梦想？！\p"
 	.string "火箭队珍视的梦想，如今竟已彻底沦\n"
-	.string "为幻影了吗......$"
+	.string "为幻影了吗……$"

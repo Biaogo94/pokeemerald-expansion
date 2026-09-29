@@ -167,11 +167,11 @@ SproutTower_Text_ElderLecturesRival:
 	.string "但我有一言相劝：你应该对自己的宝\n"
 	.string "可梦更好一些。\p"
 	.string "你的对战方式实在太残酷了。\p"
-	.string "宝可梦可不是战斗的工具.....\n"
+	.string "宝可梦可不是战斗的工具……\n"
 	.string ".$"
 
 SproutTower_Text_RivalOnlyCaresStrong:
-	.string "............哼！\p"
+	.string "……哼！\p"
 	.string "自称是什么长老，实力不过如此。\p"
 	.string "这也难怪。\p"
 	.string "成天把“要善待宝可梦”挂在嘴边的\n"
@@ -211,7 +211,7 @@ SproutTower_Text_SageJin_Seen:
 	.string "我为了从宝可梦中悟道而修行！$"
 
 SproutTower_Text_SageJin_Beaten:
-	.string "我的修行还未到家......$"
+	.string "我的修行还未到家……$"
 
 SproutTower_Text_SageJin_AfterBattle:
 	.string "宝可梦变强，训练家也会跟着变强。\p"

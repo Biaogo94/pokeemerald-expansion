@@ -49,7 +49,7 @@ BattleFrontier_PokemonCenter_1F_Text_NextStopBattleArena_hns:
 	.string "才行。$"
 
 BattleFrontier_PokemonCenter_1F_Text_GoingThroughEveryChallenge_hns:
-	.string "咯咯......我就带着这孩子去\n"
+	.string "咯咯……我就带着这孩子去\n"
 	.string "通关所有挑战！$"
 
 BattleFrontier_PokemonCenter_1F_Text_Skitty_hns:

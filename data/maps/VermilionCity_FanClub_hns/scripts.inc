@@ -89,21 +89,21 @@ PokemonFanClub_Text_Chairman_Intro:
 
 PokemonFanClub_Text_Chairman_Rapidash:
 	.string "太好了！那就仔细听好喽！\p"
-	.string "话说......我最心爱的烈焰\n"
-	.string "马......\p"
-	.string "它......可爱......迷\n"
-	.string "人......聪明......让\l"
-	.string "人欲罢不能......而且..\l"
-	.string "....太棒了......哦.\l"
-	.string ".....你也是这么觉得？..\l"
-	.string "....简直太......狂野\l"
-	.string "......美丽......温\l"
-	.string "柔......我超爱它！\p"
-	.string "睡觉的时候......抱抱它.\n"
-	.string ".....暖洋洋又毛茸茸的..\l"
-	.string "....哦，还有......帅气\l"
-	.string "逼人......令人陶醉...\l"
-	.string "...简直宛如天神......\p"
+	.string "话说……我最心爱的烈焰\n"
+	.string "马……\p"
+	.string "它……可爱……迷\n"
+	.string "人……聪明……让\l"
+	.string "人欲罢不能……而且..\l"
+	.string "……太棒了……哦。\l"
+	.string "……你也是这么觉得？..\l"
+	.string "……简直太……狂野\l"
+	.string "……美丽……温\l"
+	.string "柔……我超爱它！\p"
+	.string "睡觉的时候……抱抱它。\n"
+	.string "……暖洋洋又毛茸茸的..\l"
+	.string "……哦，还有……帅气\l"
+	.string "逼人……令人陶醉...\l"
+	.string "...简直宛如天神……\p"
 	.string "哎呀！看看时间！我耽搁你太久了！$"
 
 PokemonFanClub_Text_Chairman_Gift:
@@ -118,16 +118,16 @@ PokemonFanClub_Text_Chairman_Candy:
 PokemonFanClub_Text_Chairman_MoreTales:
 	.string "你好呀，{PLAYER}！\p"
 	.string "你又是来听我聊宝可梦的吗？\p"
-	.string "不是吗？哎呀......我肚子里\n"
-	.string "还有好多话想讲呢......$"
+	.string "不是吗？哎呀……我肚子里\n"
+	.string "还有好多话想讲呢……$"
 
 PokemonFanClub_Text_Chairman_Disappointed:
-	.string "真令人失望......\p"
+	.string "真令人失望……\p"
 	.string "想听的时候随时再来找我吧。$"
 
 PokemonFanClub_Text_Receptionist:
 	.string "我们的会长只要一聊起宝可梦，就会\n"
-	.string "滔滔不绝呢......$"
+	.string "滔滔不绝呢……$"
 
 @=Clefairy=Guy=========================================================================================================
 PokemonFanClub_Text_ClefairyGuy_Adorable:
@@ -142,7 +142,7 @@ PokemonFanClub_Text_ClefairyGuy_MakingDo:
 
 PokemonFanClub_Text_ClefairyGuy_ReturnDoll:
 	.string "啊，原来是这样。弄丢这个皮皮玩偶\n"
-	.string "的小女孩一定很难过吧......\p"
+	.string "的小女孩一定很难过吧……\p"
 	.string "好吧。你能把这个皮皮玩偶送还给那\n"
 	.string "个可怜的小女孩吗？\p"
 	.string "不用担心我，总有一天我能凭自己的\n"

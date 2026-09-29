@@ -174,7 +174,7 @@ VermilionPort_Text_NoPass:
     .string "{PLAYER}想要出示\n"
     .string "{STR_VAR_1}.....\l"
     .string ".\p"
-    .string "......但是没有找到\n"
+    .string "……但是没有找到\n"
     .string "{STR_VAR_1}！\p"
     .string "非常抱歉！必须持有\n"
     .string "{STR_VAR_1}才能登船。$"
@@ -203,8 +203,8 @@ VermilionPort_Text_FlashTicket:
     .string "确认无误。非常感谢！$"
 
 VermilionPort_Text_NoTicket:
-    .string "{PLAYER}正准备出示船票.\n"
+    .string "{PLAYER}正准备出示船票。\n"
     .string ".....\p"
-    .string "......但是没有船票！\p"
+    .string "……但是没有船票！\p"
     .string "很抱歉！只有持有船票的乘客才可以\n"
     .string "登船。$"

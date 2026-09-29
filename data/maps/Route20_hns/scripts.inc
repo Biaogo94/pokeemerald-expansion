@@ -125,7 +125,7 @@ Route20_Text_NicoleRematchIntro:
 	.string "来对战吧！$"
 
 Route20_Text_NicoleRematchDefeat:
-	.string "又被冲走了......$"
+	.string "又被冲走了……$"
 
 Route20_Text_NicolePostRematch:
 	.string "不管输赢，反正我和我的宝可梦身体\n"

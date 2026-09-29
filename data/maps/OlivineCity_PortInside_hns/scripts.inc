@@ -76,7 +76,7 @@ OlivineCity_PortInside_Text_Nationaldex2:
 	.string "为全国图鉴模式！$"
 OlivineCity_PortInside_Text_Nationaldex3:
 	.string "大木博士：想要完成全国图鉴可不是\n"
-	.string "件容易的事......\p"
+	.string "件容易的事……\p"
 	.string "不过，我相信你一定会全力以赴去挑\n"
 	.string "战的！$"
 OlivineCity_PortInside_Text_Nationaldex4:
@@ -256,7 +256,7 @@ OlivinePort_Text_NoPass:
     .string "{PLAYER}想要出示\n"
     .string "{STR_VAR_1}.....\l"
     .string ".\p"
-    .string "......但是没有找到\n"
+    .string "……但是没有找到\n"
     .string "{STR_VAR_1}！\p"
     .string "非常抱歉！必须持有\n"
     .string "{STR_VAR_1}才能登船。$"
@@ -285,9 +285,9 @@ OlivinePort_Text_FlashTicket:
     .string "确认无误。非常感谢！$"
 
 OlivinePort_Text_NoTicket:
-    .string "{PLAYER}正准备出示船票.\n"
+    .string "{PLAYER}正准备出示船票。\n"
     .string ".....\p"
-    .string "......但是没有船票！\p"
+    .string "……但是没有船票！\p"
     .string "很抱歉！只有持有船票的乘客才可以\n"
     .string "登船。$"
 
@@ -305,7 +305,7 @@ OlivinePort_Text_Youngster:
 
 OlivinePort_Text_CooltrainerF:
     .string "关都地区有很多宝可梦呢。\p"
-    .string "真想去看看啊......$"
+    .string "真想去看看啊……$"
 
 OlivinePort_Text_SailorBeforeHOF:
     .string "掉进海里可就危险了，所以禁止入内\n"

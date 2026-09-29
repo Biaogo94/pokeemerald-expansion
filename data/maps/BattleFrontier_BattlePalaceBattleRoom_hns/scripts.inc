@@ -441,7 +441,7 @@ BattleFrontier_BattlePalaceBattleRoom_Movement_SpenserEnter_hns:
 	step_end
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetMeRestoreYourMons_hns:
-	.string "太精彩了......让我为您的宝\n"
+	.string "太精彩了……让我为您的宝\n"
 	.string "可梦恢复体力吧。$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor2ndOpponent_hns:
@@ -469,16 +469,16 @@ BattleFrontier_BattlePalaceBattleRoom_Text_WishToQuitChallenge_hns:
 	.string "要放弃本次挑战吗？$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SavingData_hns:
-	.string "正在保存数据。请稍候......$"
+	.string "正在保存数据。请稍候……$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_RecordLastMatch_hns:
 	.string "要将刚才的比赛记录在开拓区通行证\n"
 	.string "上吗？$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ChallengingPalaceMaven_hns:
-	.string "接下来......\p"
+	.string "接下来……\p"
 	.string "凭借着连胜，你获得了向我们的主人\n"
-	.string "--宫殿守护者挑战的资格....\l"
+	.string "--宫殿守护者挑战的资格……\l"
 	.string "..$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReadyForPalaceMaven_hns:
@@ -511,7 +511,7 @@ BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle_hns:
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetsSeeFrontierPass_hns:
 	.string "哎呀呀，要是您能一直保持那种充满\n"
-	.string "威严的风度就好了......\p"
+	.string "威严的风度就好了……\p"
 	.string "拿来吧！把你的开拓路标拿出来！$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol_hns:
@@ -533,7 +533,7 @@ BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack_hns:
 	.string "准备好了吗？做好战败的觉悟吧！$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_Kaaah_hns:
-	.string "............喝啊啊啊\n"
+	.string "……喝啊啊啊\n"
 	.string "！$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable_hns:
@@ -546,7 +546,7 @@ BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable_hns:
 
 BattleFrontier_BattlePalaceBattleRoom_Text_HurryWithFrontierPass_hns:
 	.string "哎呀呀，要是您能多少保持一点应有\n"
-	.string "的端庄礼仪就好了......\p"
+	.string "的端庄礼仪就好了……\p"
 	.string "真是的，快拿来！快点把你的开拓路\n"
 	.string "标拿出来！$"
 

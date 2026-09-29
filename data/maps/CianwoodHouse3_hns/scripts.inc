@@ -91,7 +91,7 @@ CianwoodCity_Text_ManiacPartyFull:
 	.string "同行的宝可梦已经满了。$"
 
 CianwoodCity_Text_ManiacIfHeComesBack:
-	.string "怎么会这样......要是他又找\n"
+	.string "怎么会这样……要是他又找\n"
 	.string "上门来，我该怎么办啊？$"
 
 CianwoodCity_Text_ManiacHowsdoing:
@@ -117,7 +117,7 @@ CianwoodCity_Text_ManiacRobbed:
 	.string "咦，好像哪里有点不对劲。$"
 
 CianwoodCity_Text_ManiacRobbed2:
-	.string "呜哇，不要啊......你这样跟\n"
+	.string "呜哇，不要啊……你这样跟\n"
 	.string "明抢有什么区别嘛。$"
 
 CianwoodCity_Text_ManiacHappinessSpeech:

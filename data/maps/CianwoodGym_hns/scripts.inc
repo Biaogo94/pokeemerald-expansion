@@ -207,7 +207,7 @@ CianwoodGym_Text_BlackbeltLaoBeaten:
 	.string "太令人震惊了！$"
 
 CianwoodGym_Text_BlackbeltLaoAfter:
-	.string "格斗属性宝可梦很怕超能力....\n"
+	.string "格斗属性宝可梦很怕超能力……\n"
 	.string "..$"
 
 
@@ -237,7 +237,7 @@ CianwoodGym_Text_BlackbeltLungBeaten:
 	.string "被粉碎的居然是我？！$"
 
 CianwoodGym_Text_BlackbeltLungAfter:
-	.string "我的宝可梦输了......我..\n"
-	.string "....我的自尊心全碎了....\l"
+	.string "我的宝可梦输了……我..\n"
+	.string "……我的自尊心全碎了……\l"
 	.string "..$"
 

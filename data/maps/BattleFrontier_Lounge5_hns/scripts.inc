@@ -50,51 +50,51 @@ BattleFrontier_Lounge5_Text_NatureGirlNoneShown_hns::
 	.string "切--！小气鬼！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighAttackLow_hns::
-	.string "嗯嗯......\p"
+	.string "嗯嗯……\p"
 	.string "它说它喜欢战斗！即使受了很痛很痛\n"
 	.string "的伤，它也还是会继续战斗！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighDefenseLow_hns::
-	.string "嗯嗯......\p"
+	.string "嗯嗯……\p"
 	.string "它说它喜欢战斗！但要是受了很痛很\n"
 	.string "痛的伤，它就会先顾着保护自己！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighSupportLow_hns::
-	.string "嗯嗯......\p"
+	.string "嗯嗯……\p"
 	.string "它说它喜欢战斗！但要是受了很痛很\n"
 	.string "痛的伤，它就会变得爱耍小花招！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighAttackLow_hns::
-	.string "嗯嗯......\p"
+	.string "嗯嗯……\p"
 	.string "它说它很懂得照顾自己！但要是受了\n"
 	.string "很痛很痛的伤，它就会全力反击回去\l"
 	.string "！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighDefenseLow_hns::
-	.string "嗯嗯......\p"
+	.string "嗯嗯……\p"
 	.string "它说它很懂得照顾自己！它说不管受\n"
 	.string "没受很痛的伤，它都总是在担心自己\l"
 	.string "！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighSupportLow_hns::
-	.string "嗯嗯......\p"
+	.string "嗯嗯……\p"
 	.string "它说它很懂得照顾自己！但要是受了\n"
 	.string "很痛很痛的伤，它就会变得爱耍小花\l"
 	.string "招！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighAttackLow_hns::
-	.string "嗯嗯......\p"
+	.string "嗯嗯……\p"
 	.string "它说它喜欢耍小花招！但要是受了很\n"
 	.string "痛很痛的伤，它就会全力反击回去！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighDefenseLow_hns::
-	.string "嗯嗯......\p"
+	.string "嗯嗯……\p"
 	.string "它说它喜欢耍小花招！但要是受了很\n"
 	.string "痛很痛的伤，它就会先顾着保护自己\l"
 	.string "！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighSupportLow_hns::
-	.string "嗯嗯......\p"
+	.string "嗯嗯……\p"
 	.string "它说它喜欢耍小花招！它说即使受了\n"
 	.string "很痛很痛的伤，它也还是最喜欢耍小\l"
 	.string "花招！$"

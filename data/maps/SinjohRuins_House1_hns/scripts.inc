@@ -261,7 +261,7 @@ SinjohRuins_Lab_Text_FinalPlateScene1:
 	.string "大吾：{PLAYER}！\p"
 	.string "我想我知道集齐全部17块石板后会\n"
 	.string "发生什么了。\p"
-	.string "我感受到了...........\n"
+	.string "我感受到了……\n"
 	.string ".......$"
 
 SinjohRuins_Lab_Text_FinalPlateScene2:
@@ -409,8 +409,8 @@ SinjohRuins_Lab_EventScript_LinguistAfterEvent::
 	end
 
 SinjohRuins_Lab_Text_Linguist:
-    .string "唔......要解读的古代文字也\n"
-    .string "太多了吧......\p"
+    .string "唔……要解读的古代文字也\n"
+    .string "太多了吧……\p"
     .string "在丰缘地区可没有这种东西啊。$"
 SinjohRuins_Lab_Text_LinguistDuring:
     .string "你可以想象我解读出古代文字时有多\n"
@@ -444,12 +444,12 @@ SinjohRuins_Lab_Text_Archaeologist:
 	.string "年的历史了。\p"
 	.string "碳十四测年结果与在神奥地区发现的\n"
 	.string "文物完全吻合。\p"
-	.string "不过，你找到的那支笛子.....\n"
+	.string "不过，你找到的那支笛子……\n"
 	.string ".似乎年代还要久远得多。$"
 SinjohRuins_Lab_Text_ArchaeologistDuring:
-	.string "那些石板......与神奥地区的\n"
-	.string "关联......还有那支笛子..\l"
-	.string "....一切都开始串连起来了。$"
+	.string "那些石板……与神奥地区的\n"
+	.string "关联……还有那支笛子..\l"
+	.string "……一切都开始串连起来了。$"
 SinjohRuins_Lab_Text_ArchaeologistAfter:
 	.string "你协助我们在这里发掘出的成果，其\n"
 	.string "历史价值无论怎么估量都不为过，\l"
@@ -474,7 +474,7 @@ SinjohRuins_Lab_EventScript_GrowlithePokeball::
 	end
 
 SinjohRuins_Lab_Text_GrowlitheBall:
-    .string "这看起来是卡蒂狗的玩具球....\n"
+    .string "这看起来是卡蒂狗的玩具球……\n"
     .string "..还是不要碰它吧。$"
 
 SinjohRuins_Lab_EventScript_Biologist::
@@ -569,9 +569,9 @@ SinjohRuins_Lab_Text_Note1:
     .string "调查日志1：1975年5月3日\p"
     .string "我们已经抵达了遗迹所在地。\p"
     .string "就连在这么深的谷底，也能感受到白\n"
-    .string "银山的刺骨严寒......\p"
+    .string "银山的刺骨严寒……\p"
     .string "不久之后主力发掘队就会打通山道赶\n"
-    .string "来......我真迫不及待想看看\l"
+    .string "来……我真迫不及待想看看\l"
     .string "我们的脚下究竟隐藏着什么了！$"
 
 SinjohRuins_Lab_Text_Note2:
@@ -603,7 +603,7 @@ SinjohRuins_Lab_Text_Note4:
     .string "队长坚持要在当地就地取材。\p"
     .string "我们在附近村子旁的一处温泉...\n"
     .string "...\p"
-    .string "强行带走了我们需要的目标....\n"
+    .string "强行带走了我们需要的目标……\n"
     .string "..\p"
     .string "我为此感到羞愧。但为了发展，有时\n"
     .string "牺牲是不可避免的。\p"
@@ -611,20 +611,20 @@ SinjohRuins_Lab_Text_Note4:
     .string "这里有6处石室，中央矗立着一座被\n"
     .string "封印的神殿。\p"
     .string "主体结构的建筑风格表明，它可能出\n"
-    .string "自古代神阖之民之手......\p"
+    .string "自古代神阖之民之手……\p"
     .string "也就是我们北迁之前的先祖。\p"
-    .string "队长希望尽快打开那座神殿....\n"
+    .string "队长希望尽快打开那座神殿……\n"
     .string "..$"
 
 SinjohRuins_Lab_Text_Note5:
     .string "调查日志5：1975年6月2日\p"
-    .string "我们终于把它打开了......\p"
-    .string "我本以为自己会欣喜若狂.....\n"
+    .string "我们终于把它打开了……\p"
+    .string "我本以为自己会欣喜若狂……\n"
     .string ".\p"
     .string "但从神殿中喷涌而出的能量冲击，夺\n"
     .string "走了许多优秀同伴的生命。\p"
     .string "更别提那些帮我们开门的宝可梦了。\n"
-    .string "愿它们的灵魂得以安息......\p"
+    .string "愿它们的灵魂得以安息……\p"
     .string "..................\p"
     .string "不论如何。\p"
     .string "神殿是打开了，但留给我们的只有更\n"
@@ -632,7 +632,7 @@ SinjohRuins_Lab_Text_Note5:
     .string "里面根本没有传说中的宝可梦，也没\n"
     .string "有宝藏。\p"
     .string "我们的补给快要耗尽了，而我们的付\n"
-    .string "出却一无所获......$"
+    .string "出却一无所获……$"
 
 SinjohRuins_Lab_Text_Note6:
   	.string "调查日志6：1975年6月10日\p"
@@ -657,18 +657,18 @@ SinjohRuins_Lab_Text_Note8:
   	.string "调查日志8：1975年9月15日\p"
   	.string "失败了。\p"
   	.string "..................\p"
-  	.string "我的宝可梦们......\p"
+  	.string "我的宝可梦们……\p"
   	.string "在我的全部6只宝可梦齐心协力下，\n"
   	.string "终于击碎了神殿里的一堵暗墙。\p"
-  	.string "但它就在那里等着我们......\p"
-  	.string "一个形同巨神般的怪物......\p"
+  	.string "但它就在那里等着我们……\p"
+  	.string "一个形同巨神般的怪物……\p"
   	.string "它释放出的能量与上次如出一辙。\p"
-  	.string "它们全军覆没了......\p"
+  	.string "它们全军覆没了……\p"
   	.string "最可怕的是，那只怪物把暗墙重新封\n"
   	.string "印了起来。\p"
-  	.string "我回不去了。大家再也认不出我了.\n"
+  	.string "我回不去了。大家再也认不出我了。\n"
   	.string ".....\p"
-  	.string "这个地方彻底改变了我......\p"
+  	.string "这个地方彻底改变了我……\p"
   	.string "我打算去和村民们谈谈。\p"
   	.string "他们并不知道我都做了些什么。\p"
   	.string "既然其他人早就离开了，他们只会以\n"
@@ -716,7 +716,7 @@ SinjohRuins_Lab_Text_PlayFlute:
 
 SinjohRuins_Lab_Text_DropedItem:
 	.string "高贵的{STR_VAR_1}掉落\n"
-	.string "了道具......$"
+	.string "了道具……$"
 
 SinjohRuins_Lab_Text_StevenName:
 	.string "大吾$"
@@ -776,7 +776,7 @@ SinjohRuins_Lab_Text_StevenCall6Plates:
 	.string "开了第二间石室。\p"
 	.string "我已经让地质学家把仪器准备好，以\n"
 	.string "防再次发生震动。\p"
-	.string "挖掘得越深......未解之谜反\n"
+	.string "挖掘得越深……未解之谜反\n"
 	.string "而越多了。$"
 
 SinjohRuins_Lab_Text_StevenCall9Plates:
@@ -786,7 +786,7 @@ SinjohRuins_Lab_Text_StevenCall9Plates:
 	.string "这根本就不是地震。\p"
 	.string "某种积聚在地底的能量，由内而外破\n"
 	.string "开了岩石。\p"
-	.string "究竟是什么引起的呢......老\n"
+	.string "究竟是什么引起的呢……老\n"
 	.string "实说，我也不清楚。$"
 
 SinjohRuins_Lab_Text_StevenCall12Plates:
@@ -794,7 +794,7 @@ SinjohRuins_Lab_Text_StevenCall12Plates:
 	.string "又是一次震动。又有石室被打开了。\p"
 	.string "我们到现在还没能找出其中的规律。\p"
 	.string "话说回来，{PLAYER}..\n"
-	.string "....引发这一切的，该不会是你\l"
+	.string "……引发这一切的，该不会是你\l"
 	.string "在做什么吧？\p"
 	.string "不，应该不可能吧。$"
 
@@ -804,7 +804,7 @@ SinjohRuins_Lab_Text_StevenCall15Plates:
 	.string "..................\p"
 	.string "果然如此。\p"
 	.string "长眠于这座遗迹中的传说的宝可梦\n"
-	.string "......是在回应你，对吧？\p"
+	.string "……是在回应你，对吧？\p"
 	.string "就好像希望被你找到一样。\p"
 	.string "我的直觉通常很准。真不该怀疑你\n"
 	.string "的。$"

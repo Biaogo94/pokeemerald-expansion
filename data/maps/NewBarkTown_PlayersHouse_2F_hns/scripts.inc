@@ -85,4 +85,4 @@ NewBarkTown_PlayersHouse_2F_EventScript_TurnOffPlayerPC::
 NewBarkTown_PlayersHouse_2F_Text_NES:
     .string "{PLAYER}玩了一会儿FC游\n"
     .string "戏机。\p"
-    .string "......好啦！该出发了！$"
+    .string "……好啦！该出发了！$"

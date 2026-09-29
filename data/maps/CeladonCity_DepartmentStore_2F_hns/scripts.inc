@@ -22,7 +22,7 @@ CeladonDeptStore2F_Text_PokefanM:
 
 CeladonDeptStore2F_Text_Youngster:
 	.string "我爸爸老是记不住道具的名字，也搞\n"
-	.string "不懂该怎么用，可伤脑筋了....\l"
+	.string "不懂该怎么用，可伤脑筋了……\l"
 	.string "..$"
 
 CeladonDeptStore2F_Text_Directory:

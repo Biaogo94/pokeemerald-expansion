@@ -958,12 +958,12 @@ BattleFrontier_BattleDomeBattleRoom_Text_RefereeDecisionPleaseWait_hns:
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTrainer_hns:
 	.string "裁判们做出了判定！\p"
-	.string "胜者是......噢，天哪！胜者\n"
+	.string "胜者是……噢，天哪！胜者\n"
 	.string "是{STR_VAR_1}！恭喜！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerPlayer_hns:
 	.string "裁判们做出了判定！\p"
-	.string "胜者是......噢，天哪！胜者\n"
+	.string "胜者是……噢，天哪！胜者\n"
 	.string "是{PLAYER}！恭喜！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_BrightNewHope_hns:
@@ -1042,9 +1042,9 @@ BattleFrontier_BattleDomeBattleRoom_Text_FeelGlowOfTrueMaster_hns:
 	.string "感受真正大师的光芒吧！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_MakeWayForDomeAceTucker_hns:
-	.string "接下来......挡在\n"
+	.string "接下来……挡在\n"
 	.string "{PLAYER}创纪录之路上的训\l"
-	.string "练家是......\p"
+	.string "练家是……\p"
 	.string "没错！独一无二的！对战巨蛋的主宰\n"
 	.string "！我们的巨蛋超级巨星！有请希尔斯\l"
 	.string "闪亮登场！$"
@@ -1087,7 +1087,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_ReceivedTacticsSymbol_hns:
 BattleFrontier_BattleDomeBattleRoom_Text_WontUnderestimateYouNextTime_hns:
 	.string "..................\p"
 	.string "我真是大大低估了你。下次我可不会\n"
-	.string "再犯同样的错误了......$"
+	.string "再犯同样的错误了……$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanWinStreakBeStretched_hns:
 	.string "连胜纪录能否继续延续？自信心已经\n"
@@ -1101,14 +1101,14 @@ BattleFrontier_BattleDomeBattleRoom_Text_LegendHasReturnedDomeAceTucker_hns:
 	.string "傲的巨蛋超级巨星！正是希尔斯！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerGoldIntro_hns:
-	.string "希尔斯：啊......观众席震耳\n"
-	.string "欲聋的咆哮......宛如熔炉般\l"
-	.string "沸腾的热情......这里真是个\l"
-	.string "美妙的地方......\p"
-	.string "对大家来说，我就是巨蛋超级巨星.\n"
-	.string ".....我承载着他们的希望与梦\l"
-	.string "想......我绝不能从他们的视\l"
-	.string "线中褪色......\p"
+	.string "希尔斯：啊……观众席震耳\n"
+	.string "欲聋的咆哮……宛如熔炉般\l"
+	.string "沸腾的热情……这里真是个\l"
+	.string "美妙的地方……\p"
+	.string "对大家来说，我就是巨蛋超级巨星。\n"
+	.string "……我承载着他们的希望与梦\l"
+	.string "想……我绝不能从他们的视\l"
+	.string "线中褪色……\p"
 	.string "我要燃烧！更加耀眼、更加璀璨地燃\n"
 	.string "烧！照亮聚集在这里的每一个人！$"
 
@@ -1153,7 +1153,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTucker_hns:
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTucker_hns:
 	.string "裁判们做出了判定！\p"
-	.string "胜者是......天哪！胜者正是\n"
+	.string "胜者是……天哪！胜者正是\n"
 	.string "我们的巨蛋头目！就是达克希德！\p"
 	.string "恭喜！也非常感谢！让我们为巨蛋头\n"
 	.string "目达克希德喝彩吧！$"

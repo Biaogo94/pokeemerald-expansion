@@ -107,7 +107,7 @@ Route15_Text_TeacherHillarySeen:
 	.string "。$"
 
 Route15_Text_TeacherHillaryBeaten:
-	.string "我本来不想输的......$"
+	.string "我本来不想输的……$"
 
 Route15_Text_TeacherHillaryAfterBattle:
 	.string "学习固然重要，但体育锻炼也同样不\n"
@@ -121,7 +121,7 @@ Route15_Text_HillaryRematchIntro:
 	.string "这次由我来给你上一课！$"
 
 Route15_Text_HillaryRematchDefeat:
-	.string "得从头再学起啦......$"
+	.string "得从头再学起啦……$"
 
 Route15_Text_HillaryPostRematch:
 	.string "培育宝可梦就跟教导小孩子一样，必\n"
@@ -176,7 +176,7 @@ Route15_Text_BillyRematchIntro:
 	.string "我的学习成果！$"
 
 Route15_Text_BillyRematchDefeat:
-	.string "我还得多多用功才行......$"
+	.string "我还得多多用功才行……$"
 
 Route15_Text_BillyPostRematch:
 	.string "光读死书可不行，我还欠缺对战经验\n"

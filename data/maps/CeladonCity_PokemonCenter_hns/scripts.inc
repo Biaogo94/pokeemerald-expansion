@@ -24,7 +24,7 @@ CeladonCity_PokemonCenter1F_Text_CooltrainerF:
 
 CeladonCity_PokemonCenter1F_Text_Pharmacist:
 	.string "火箭队的秘密基地就在游戏城地下。\p"
-	.string "......啊，等等。那是三年前\n"
+	.string "……啊，等等。那是三年前\n"
 	.string "的事了。$"
 
 Celadon_Text_Eusine1:
@@ -45,7 +45,7 @@ Celadon_Text_NoBeasts:
 	.string "你捉到传说中的宝可梦雷公和炎帝了\n"
 	.string "吗？\p"
 	.string "<......><......><......>\p"
-	.string "这样啊......\p"
+	.string "这样啊……\p"
 	.string "如果你捉到了哪怕其中一只，也请一\n"
 	.string "定要告诉我啊。\p"
 	.string "拜托你啦，{PLAYER}！$"

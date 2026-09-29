@@ -64,7 +64,7 @@ GoldenrodCity_DepartmentStore_6F_Text_ThisIsntAMon:
 	.string "{STR_VAR_1}啊。$"
 
 GoldenrodCity_DepartmentStore_6F_Text_YouWontTradeMe:
-	.string "不想交换吗？好吧......$"
+	.string "不想交换吗？好吧……$"
 
 GoldenrodCity_DepartmentStore_6F_Text_After:
 	.string "嗨，我以前那只腕力过得还好吗？$"

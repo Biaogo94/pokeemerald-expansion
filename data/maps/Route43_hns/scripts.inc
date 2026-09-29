@@ -149,7 +149,7 @@ Route43_Text_CamperSpencerSeen:
     .string "真是太开心啦！$"
 
 Route43_Text_CamperSpencerBeaten:
-    .string "输掉可一点都不好玩......$"
+    .string "输掉可一点都不好玩……$"
 
 Route43_Text_CamperSpencerAfter:
     .string "愤怒之湖到底出什么事了？\p"

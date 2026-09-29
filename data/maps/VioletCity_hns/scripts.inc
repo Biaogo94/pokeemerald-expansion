@@ -466,14 +466,14 @@ VioletCity_Text_Elm_Call:
 	.string "你能去和他见个面吗？$"
 
 VioletCity_Text_Kimono_Girl1:
-	.string "哎呀呀......那颗蛋一定是.\n"
+	.string "哎呀呀……那颗蛋一定是。\n"
 	.string ".....！$"
 
 VioletCity_Text_Kimono_Girl2:
-	.string "原来如此......\p"
+	.string "原来如此……\p"
 	.string "是从宝可梦爷爷那里交给了空木博士\n"
 	.string "，然后空木博士又交给了你啊。\p"
-	.string "我明白了......$"
+	.string "我明白了……$"
 
 VioletCity_Text_Kimono_Girl3:
 	.string "那颗蛋真的是非常重要的蛋。\p"

@@ -51,7 +51,7 @@ FuchsiaCity_PokemonCenter1F_Text_CooltrainerF:
 	.string "。$"
 
 FuchsiaCity_PokemonCenter1F_Text_JanineImpersonator1:
-	.string "我是阿杏！忍法变身之术.....\n"
+	.string "我是阿杏！忍法变身之术……\n"
 	.string ".嘭！$"
 
 FuchsiaCity_PokemonCenter1F_Text_JanineImpersonator2:

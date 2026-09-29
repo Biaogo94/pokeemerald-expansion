@@ -65,7 +65,7 @@ Route33_Text_HikerAnthonyDunsparce:
 	.string "搞笑了！$"
 
 Route33_Text_Lass:
-	.string "呼，呼......\p"
+	.string "呼，呼……\p"
 	.string "那个洞窟比我想象的还要大。\p"
 	.string "为了找玛力露探险累得够呛，所以我\n"
 	.string "就先出来了。$"

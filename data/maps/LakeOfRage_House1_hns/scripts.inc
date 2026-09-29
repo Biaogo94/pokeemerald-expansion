@@ -20,7 +20,7 @@ LakeOfRage_House1_EventScript_HiddenPowerGuyAfter::
 	end
 
 HiddenPowerGuy_Text_Intro:
-    .string "......你走得很远了呢..\n"
+    .string "……你走得很远了呢..\n"
     .string "....\p"
     .string "我一直在此冥想。在我体内，有一股\n"
     .string "全新的力量觉醒了。\p"
@@ -35,4 +35,4 @@ HiddenPowerGuy_Text_Explanation:
     .string "的宝可梦。$"
 
 HiddenPowerGuy_Text_Meditating:
-    .string "我正在冥想......$"
+    .string "我正在冥想……$"

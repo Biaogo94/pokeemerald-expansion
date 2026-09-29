@@ -34,7 +34,7 @@ NewSinjoh_HauntedHouse_EventScript_TooEarly::
     end
 
 NewSinjoh_HauntedHouse_Text_TooEarlyNoReaction:
-    .string "你感觉到了一股奇异的气息....\n"
+    .string "你感觉到了一股奇异的气息……\n"
     .string "..\p"
     .string "但并没有任何反应。$"
 
@@ -135,7 +135,7 @@ NewSinjoh_House3_Movement_CameraPanRight:
     step_end
 
 NewSinjoh_HauntedHouse_Text_StartScary:
-    .string "你感觉到了一股奇异的气息....\n"
+    .string "你感觉到了一股奇异的气息……\n"
     .string "..\p"
     .string "似乎有谁正在注视着你？$"
 
@@ -172,10 +172,10 @@ NewSinjoh_HauntedHouse_Text_Log2:
     .string "但我心中的负罪感，让我无法坦然接\n"
     .string "受这份善意。\p"
     .string "我现在几乎不出小屋的门了。\p"
-    .string "而每当我想起家人时......他\n"
-    .string "们的面容竟渐渐变了样......\l"
+    .string "而每当我想起家人时……他\n"
+    .string "们的面容竟渐渐变了样……\l"
     .string "我脑海中浮现的，只有在遗迹中丧命\l"
-    .string "的那些宝可梦的面孔......\p"
+    .string "的那些宝可梦的面孔……\p"
     .string "有时我甚至觉得，那些宝可梦就在我\n"
     .string "身边。我在倒影中看到它们，感受到\l"
     .string "它们的注视。\p"
@@ -186,7 +186,7 @@ NewSinjoh_HauntedHouse_Text_Log3:
     .string "1日\p"
     .string "我在这里并不是孤身一人。或许从来\n"
     .string "都不是。\p"
-    .string "那些宝可梦就在我身边......\p"
+    .string "那些宝可梦就在我身边……\p"
     .string "我想，它们是在生我的气。\p"
     .string "物品被胡乱掷出，房门砰然关上。\p"
     .string "沉重的箱子堵住了大门。\p"
@@ -194,10 +194,10 @@ NewSinjoh_HauntedHouse_Text_Log3:
     .string "以离开。\p"
     .string "可如今的我已一无所有。\p"
     .string "我之前写过家人，但我唯一能记起的\n"
-    .string "家人，却只有那些宝可梦.....\l"
+    .string "家人，却只有那些宝可梦……\l"
     .string ".\p"
     .string "食物快吃完了，但愧疚感彻底盖过了\n"
     .string "饥饿。\p"
-    .string "我想，我还是在这里多待一阵子吧.\n"
+    .string "我想，我还是在这里多待一阵子吧。\n"
     .string ".....$"
   

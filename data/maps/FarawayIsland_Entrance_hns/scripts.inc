@@ -46,9 +46,9 @@ FarawayIsland_Entrance_hns_EventScript_Sign::
 
 FarawayIsland_Entrance_hns_Text_Sign:
 	.string "文字已经褪色了，看来是很久以前写\n"
-	.string "下的......\p"
-	.string "......月6日　如果有朝一\n"
-	.string "日......有人类再次踏足于\l"
-	.string "此......希望那会是个善良温\l"
-	.string "柔的人......怀抱着这样的祈\l"
-	.string "愿，我启程了......$"
+	.string "下的……\p"
+	.string "……月6日　如果有朝一\n"
+	.string "日……有人类再次踏足于\l"
+	.string "此……希望那会是个善良温\l"
+	.string "柔的人……怀抱着这样的祈\l"
+	.string "愿，我启程了……$"

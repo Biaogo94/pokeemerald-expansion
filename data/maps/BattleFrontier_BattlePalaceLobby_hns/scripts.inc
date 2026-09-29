@@ -415,7 +415,7 @@ BattleFrontier_BattlePalaceLobby_Text_WhichChallenge_hns:
 	.string "厅。你想选择哪一个挑战？$"
 
 BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsLv50_hns:
-	.string "唉......\p"
+	.string "唉……\p"
 	.string "你并没有带齐挑战所需的3只宝可梦\n"
 	.string "。\p"
 	.string "若要参赛，你必须准备3种不同种类\n"
@@ -429,7 +429,7 @@ BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsEnd_hns:
 	.string "等你做好准备后再来吧。$"
 
 BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsLvOpen_hns:
-	.string "唉......\p"
+	.string "唉……\p"
 	.string "你并没有带齐挑战所需的3只宝可梦\n"
 	.string "。\p"
 	.string "若要参赛，你必须准备3种不同种类\n"
@@ -454,7 +454,7 @@ BattleFrontier_BattlePalaceLobby_Text_ResultsWillBeRecorded_hns:
 	.string "系统正在记录成绩。请稍候片刻。$"
 
 BattleFrontier_BattlePalaceLobby_Text_FirmTrueBondsFor7WinStreak_hns:
-	.string "达成了7连胜......\p"
+	.string "达成了7连胜……\p"
 	.string "看来你与宝可梦之间心意相通的牵绊\n"
 	.string "，确实无比牢固。$"
 
@@ -473,14 +473,14 @@ BattleFrontier_BattlePalaceLobby_Text_NoSpaceForPrize_hns:
 	.string "请整理好包包之后再来领取吧。$"
 
 BattleFrontier_BattlePalaceLobby_Text_WeHaveBeenWaiting_hns:
-	.string "我们恭候多时了......$"
+	.string "我们恭候多时了……$"
 
 BattleFrontier_BattlePalaceLobby_Text_MustSaveBeforeChallenge_hns:
 	.string "在为你带路前往对战大厅之前，需要\n"
 	.string "先保存记录。可以吗？$"
 
 BattleFrontier_BattlePalaceLobby_Text_FailedToSaveBeforeEndingChallenge_hns:
-	.string "唉......\p"
+	.string "唉……\p"
 	.string "上次结束挑战时，你没有进行保存记\n"
 	.string "录。\p"
 	.string "因此，你已被取消挑战资格。真是太\n"
@@ -505,7 +505,7 @@ BattleFrontier_BattlePalaceLobby_Text_LadyCanTellWhatMonsThink_hns:
 	.string "咦？你干嘛用那种眼神看着我？$"
 
 BattleFrontier_BattlePalaceLobby_Text_NatureAndMovesKeyHere_hns:
-	.string "嗯......\p"
+	.string "嗯……\p"
 	.string "看来宝可梦的性格以及学会的招式，\n"
 	.string "正是这里的对战关键。\p"
 	.string "更确切地说，是招式与宝可梦的性格\n"
@@ -557,7 +557,7 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainDoubleBattleChallenge_hns:
 
 BattleFrontier_BattlePalaceLobby_Text_ToDefeatMavenAnd7Trainers_hns:
 	.string "不仅打倒了宫殿首领，还取得了7连\n"
-	.string "胜......$"
+	.string "胜……$"
 
 BattleFrontier_BattlePalaceLobby_Text_PresentYouWithBattlePoints_hns:
 	.string "为了表彰你与宝可梦之间的牵绊，特\n"

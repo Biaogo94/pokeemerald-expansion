@@ -52,7 +52,7 @@ BurnedTower_1FEusineIntroText:
 	.string "米纳君：我叫米纳君。\p"
 	.string "我一直在追踪一只名叫水君的宝可梦\n"
 	.string "。\p"
-	.string "那么你呢......？\p"
+	.string "那么你呢……？\p"
 	.string "{PLAYER}？很高兴认识你！\p"
 	.string "听说水君可能会出现在这座烧焦塔里\n"
 	.string "，所以我赶来看看。\p"
@@ -148,7 +148,7 @@ BurnedTower_1F_Silver_Battle_Chikorita::
 
 BurnedTowerSilver_BeforeText:
 	.string "..............................\p"
-	.string "......哼，是你啊。\p"
+	.string "……哼，是你啊。\p"
 	.string "听说这里有传说的宝可梦筑巢，我就\n"
 	.string "特地过来看看。\p"
 	.string "可这里根本什么都没有嘛！\p"
@@ -157,18 +157,18 @@ BurnedTowerSilver_BeforeText:
 	.string "全都是你的错！$"
 
 BurnedTowerSilver_WinText:
-	.string "......哼！\p"
+	.string "……哼！\p"
 	.string "我之所以会输，全是因为我的宝可梦\n"
 	.string "实在太弱了。\p"
 	.string "真没用。$"
 
 BurnedTowerSilver_AfterText1:
-	.string "......嘁，无所谓了。\p"
+	.string "……嘁，无所谓了。\p"
 	.string "反正像你这种家伙，根本不可能抓得\n"
 	.string "到传说的宝可梦。$"
 
 BurnedTowerSilver_LossText:
-	.string "......哼！\p"
+	.string "……哼！\p"
 	.string "所以我才讨厌跟软蛋对战。纯粹是浪\n"
 	.string "费时间。$"
 
@@ -197,7 +197,7 @@ BurnedTower_Text_NardAfter:
 	.string "这座塔之所以被烧毁，是因为遭到了\n"
 	.string "雷击。\p"
 	.string "跟我吐出的这点小火苗比起来，根本\n"
-	.string "不可同日而语啊......$"
+	.string "不可同日而语啊……$"
 
 BurnedTower_Text_RichardoSeen:
 	.string "我正在烧焦塔里练习偷盗技巧呢！好\n"

@@ -20,7 +20,7 @@ MrPsychic_Text_1:
 	.string "......\p"
 	.string "......\p"
 	.string "......\p"
-	.string "......我知道了！\p"
+	.string "……我知道了！\p"
 	.string "你想要的是这个吧！$"
 
 MrPsychic_Text_2:

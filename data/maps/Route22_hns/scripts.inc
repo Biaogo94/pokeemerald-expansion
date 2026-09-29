@@ -292,9 +292,9 @@ Route22_Text_Silver1:
 Route22_Text_Giovanni1:
 	.string "........................\p"
 	.string "坂木：如果不先承认失败，就无法迈\n"
-	.string "向下一步......\p"
-	.string "现在......我先独自一人行\n"
-	.string "动......\p"
+	.string "向下一步……\p"
+	.string "现在……我先独自一人行\n"
+	.string "动……\p"
 	.string "总有一天，我会建立起更加庞大的组\n"
 	.string "织！$"
 
@@ -306,11 +306,11 @@ Route22_Text_Silver2:
 
 Route22_Text_Giovanni2:
 	.string "坂木：聚集众人的潜能，才能汇聚出\n"
-	.string "庞大的力量......这就是组\l"
-	.string "织......这就是组织的力量\l"
+	.string "庞大的力量……这就是组\l"
+	.string "织……这就是组织的力量\l"
 	.string "......\p"
-	.string "是我没能......完全发挥出手\n"
-	.string "下的潜力......！\p"
+	.string "是我没能……完全发挥出手\n"
+	.string "下的潜力……！\p"
 	.string "但总有一天，你会亲眼见证我与火箭\n"
 	.string "队的东山再起！$"
 
@@ -336,6 +336,6 @@ Route22_Text_Silver5:
 	.string "只凭我自己一个人！$"
 
 Route22_Text_Silver6:
-	.string "{RIVAL}：......你看\n"
+	.string "{RIVAL}：……你看\n"
 	.string "什么看？$"
 

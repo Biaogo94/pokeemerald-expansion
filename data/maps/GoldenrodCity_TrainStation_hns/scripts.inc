@@ -296,7 +296,7 @@ GoldenrodCity_TrainStation_Movement_SlideRight:
 	step_end
 
 GoldenrodMagnetTrainStation_Text_OfficerTrainHasntComeIn:
-    .string "电车还没来啊......\p"
+    .string "电车还没来啊……\p"
     .string "有了！不如由我来背着乘客跑吧！\p"
     .string "--怎么可能行得通嘛。$"
 

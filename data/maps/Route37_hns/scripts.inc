@@ -84,7 +84,7 @@ Route37_Text_TwinsAnnAndAnne1_Seen:
 	.string "安：我和安妮可是齐心协力的！$"
 
 Route37_Text_TwinsAnnAndAnne1_Beaten:
-	.string "安与安妮：呜呜......稍微有\n"
+	.string "安与安妮：呜呜……稍微有\n"
 	.string "点太强了吧。$"
 
 Route37_Text_TwinsAnnAndAnne1_After:
@@ -95,7 +95,7 @@ Route37_Text_TwinsAnnAndAnne2_Seen:
 	.string "安妮：我和安可是齐心协力的！$"
 
 Route37_Text_TwinsAnnAndAnne2_Beaten:
-	.string "安与安妮：呜呜......稍微有\n"
+	.string "安与安妮：呜呜……稍微有\n"
 	.string "点太强了吧。$"
 
 Route37_Text_TwinsAnnAndAnne2_After:
@@ -108,7 +108,7 @@ Route37_Text_PsychicGreg_Seen:
 	.string "！$"
 
 Route37_Text_PsychicGreg_Beaten:
-	.string "我输了。好难过啊......$"
+	.string "我输了。好难过啊……$"
 
 Route37_Text_PsychicGreg_After:
 	.string "让宝可梦陷入睡眠或麻痹状态，是极\n"
@@ -129,9 +129,9 @@ Route37_Text_Sunny_GiveGift2:
 	.string "个送给你！$"
 
 Route37_Text_Sunny_GaveGift:
-	.string "日夫：那个东西......\p"
-	.string "嗯......\p"
-	.string "......是什么来着....\n"
+	.string "日夫：那个东西……\p"
+	.string "嗯……\p"
+	.string "……是什么来着……\n"
 	.string "..\p"
 	.string "......\p"
 	.string "啊！我想起来了！\p"
@@ -147,7 +147,7 @@ Route37_Text_Sunny_Sunday:
 
 Route37_Text_Sunny_NotSunday:
 	.string "日夫：今天不是星期天吗？唔..\n"
-	.string "....我忘了！$"
+	.string "……我忘了！$"
 
 Route37_Text_Sign:
 	.string "37号道路前方为圆朱市$"

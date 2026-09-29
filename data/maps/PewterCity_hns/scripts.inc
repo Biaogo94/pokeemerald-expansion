@@ -77,7 +77,7 @@ PewterCity_Text_Gramps:
 
 PewterCity_Text_Gramps_GotSilverWing:
 	.string "去往未知的崭新之地，邂逅形形色色\n"
-	.string "的人......\p"
+	.string "的人……\p"
 	.string "这就是旅行的乐趣所在啊。$"
 
 PewterCity_EventScript_CitySign::
@@ -108,12 +108,12 @@ PewterCity_Text_GymSign:
 	.string "坚如磐石的宝可梦训练家$"
 
 PewterCity_Text_MuseumSign:
-	.string "这里贴着一张告示......\p"
+	.string "这里贴着一张告示……\p"
 	.string "深灰科学博物馆因进行内部改装，现\n"
-	.string "暂停开放......$"
+	.string "暂停开放……$"
 
 PewterCity_Text_MtMoonGiftShopSign:
-	.string "这里贴着一张告示......\p"
+	.string "这里贴着一张告示……\p"
 	.string "月见山纪念品商店现已开业！$"
 
 PewterCity_Text_WelcomeSign:

@@ -47,7 +47,7 @@ Melemele_House5_Mom_Text_0:
 	.string "我们先在这座群岛上提前体验一下！$"
 
 Melemele_House5_Son_Text_0:
-	.string "嘿嘿......抓人游戏太好玩啦\n"
+	.string "嘿嘿……抓人游戏太好玩啦\n"
 	.string "！$"
 
 Melemele_House5_Son_Text_1:

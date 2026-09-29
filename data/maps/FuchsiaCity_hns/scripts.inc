@@ -116,7 +116,7 @@ FuchsiaCity_Text_GymSign:
 	.string "剧毒的忍者大师$"
 
 FuchsiaCity_Text_SafariZoneOfficeSign:
-	.string "这里贴着一张告示......\p"
+	.string "这里贴着一张告示……\p"
 	.string "狩猎地带事务局暂时关闭，开放时间\n"
 	.string "另行通知。$"
 

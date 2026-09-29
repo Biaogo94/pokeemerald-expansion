@@ -79,7 +79,7 @@ CeladonCity_Text_Poliwrath:
 	.string "快泳蛙：呱！$"
 
 CeladonCity_Text_Teacher1:
-	.string "老虎机又输光了......\p"
+	.string "老虎机又输光了……\p"
 	.string "现在我们女孩子也玩这个呢。\p"
 	.string "你也应该去试试看嘛。$"
 
@@ -88,7 +88,7 @@ CeladonCity_Text_Gramps1:
 	.string "看见房子前面的水池了吗？现在臭泥\n"
 	.string "都住在那里了。\p"
 	.string "它们到底是从哪里来的啊？这可真是\n"
-	.string "个严重的问题......$"
+	.string "个严重的问题……$"
 
 CeladonCity_Text_Gramps2:
 	.string "嘻嘻嘻！这个道馆太棒了！这里只有\n"
@@ -101,14 +101,14 @@ CeladonCity_Text_Youngster1:
 CeladonCity_Text_Youngster2:
 	.string "餐厅里正在举办大胃王比赛呢。\p"
 	.string "光是看着他们狼吞虎咽，我都觉得肚\n"
-	.string "子撑了......$"
+	.string "子撑了……$"
 
 CeladonCity_Text_Teacher2:
 	.string "玉虹百货公司的商品种类最齐全、最\n"
 	.string "丰富了。\p"
 	.string "如果那里都买不到，别的地方就更买\n"
 	.string "不到了。\p"
-	.string "哎呀......我听起来真像个店\n"
+	.string "哎呀……我听起来真像个店\n"
 	.string "员。$"
 
 CeladonCity_Text_Lass:

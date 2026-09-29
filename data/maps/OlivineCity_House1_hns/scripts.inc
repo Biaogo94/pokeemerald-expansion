@@ -43,7 +43,7 @@ OlivineCity_House1_Text_ThisIsntAMon:
 	.string "{STR_VAR_1}啊。$"
 
 OlivineCity_House1_Text_YouWontTradeMe:
-	.string "不想交换吗？好吧......$"
+	.string "不想交换吗？好吧……$"
 
 OlivineCity_House1_Text_After:
 	.string "嗨，我以前的那只霹雳电球过得怎么\n"

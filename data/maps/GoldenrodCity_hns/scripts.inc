@@ -348,7 +348,7 @@ GoldenrodCity_Text_CooltrainerF2_GotCard:
 	.string "音机用了啊！$"
 
 GoldenrodCity_Text_Youngster2:
-	.string "嘿嘿嘿......\p"
+	.string "嘿嘿嘿……\p"
 	.string "因为在百货公司的地下室玩，我被狠\n"
 	.string "狠训了一顿。$"
 
@@ -362,7 +362,7 @@ GoldenrodCity_Text_Gramps:
 	.string "着方向。$"
 
 GoldenrodCity_Text_RocketScout1:
-	.string "原来这就是广播电台啊......$"
+	.string "原来这就是广播电台啊……$"
 
 GoldenrodCity_Text_RocketScout2:
 	.string "找我有何贵干，讨厌鬼？还不快滚！$"
@@ -371,7 +371,7 @@ GoldenrodCity_Text_Rocket1:
 	.string "别在这碍事！一边去，小鬼！$"
 
 GoldenrodCity_Text_Rocket2:
-	.string "占领广播电台......\p"
+	.string "占领广播电台……\p"
 	.string "看什么看？少多管闲事！$"
 
 GoldenrodCity_Text_Rocket3:
@@ -379,10 +379,10 @@ GoldenrodCity_Text_Rocket3:
 	.string "具罢了！$"
 
 GoldenrodCity_Text_Rocket4:
-	.string "我们的梦想马上就要实现了....\n"
+	.string "我们的梦想马上就要实现了……\n"
 	.string "..\p"
 	.string "这一路可真是一段漫长而艰辛的奋斗\n"
-	.string "啊......$"
+	.string "啊……$"
 
 GoldenrodCity_Text_Rocket5:
 	.string "喂，小鬼！这里可不是你该来的地方\n"
@@ -440,7 +440,7 @@ GoldenrodCity_Text_MoveTutorCost:
 	.string "？$"
 
 GoldenrodCity_Text_MoveTutorDecline:
-	.string "啊......可这些招式真的很棒\n"
+	.string "啊……可这些招式真的很棒\n"
 	.string "呢！$"
 
 GoldenrodCity_Text_MoveTutorWhich:
@@ -449,7 +449,7 @@ GoldenrodCity_Text_MoveTutorWhich:
 
 GoldenrodCity_Text_MoveTutorNoCash:
 	.string "真遗憾。看来我得找家里要点零用钱\n"
-	.string "了......$"
+	.string "了……$"
 
 GoldenrodCity_Text_MoveTutorUnderstand:
 	.string "如果你能领悟这个招式，你就已经是\n"
@@ -459,8 +459,8 @@ GoldenrodCity_Text_MoveTutorFarewell:
 	.string "哇哈哈！再见啦，小鬼！$"
 
 GoldenrodCity_Text_MoveTutorBut:
-	.string "但、但是......$"
+	.string "但、但是……$"
 
 GoldenrodCity_Text_MoveTutorNotEnoughCoins:
-	.string "......你的代币不够哦...\n"
+	.string "……你的代币不够哦...\n"
 	.string "...$"

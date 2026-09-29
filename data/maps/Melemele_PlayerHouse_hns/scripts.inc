@@ -585,7 +585,7 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_3:
 	.string "这么说，你把群岛上所有的霸主宝可\n"
 	.string "梦都打败了，是吗？\p"
 	.string "这可是一项相当了不起的成就！\p"
-	.string "我们认识也很久了......\p"
+	.string "我们认识也很久了……\p"
 	.string "差不多是时候来一场宝可梦对战了，\n"
 	.string "你觉得呢？$"
 
@@ -599,7 +599,7 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_6:
 	.string "哇，{PLAYER}！你真是一位\n"
 	.string "强大的训练家！\p"
 	.string "你已经证明了自己有资格知晓我一直\n"
-	.string "保守的关于这些岛屿的秘密....\l"
+	.string "保守的关于这些岛屿的秘密……\l"
 	.string "..\p"
 	.string "并不是只有我注意到了阿罗拉群岛与\n"
 	.string "阿罗拉地区之间的惊人相似之处..\l"
@@ -607,7 +607,7 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_6:
 	.string "卡璞守护神们似乎也亲自造访了这些\n"
 	.string "岛屿。\p"
 	.string "如果你看到它们飞过岛屿，就前往图\n"
-	.string "腾柱......它们也许正在那里\l"
+	.string "腾柱……它们也许正在那里\l"
 	.string "等着你呢！$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_7:
@@ -670,7 +670,7 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_19:
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_20:
 	.string "多亏了你，我得以证实所有的阿罗拉\n"
 	.string "形态都在阿罗拉群岛上生活着！\p"
-	.string "我还想请你帮我做一件事.....\n"
+	.string "我还想请你帮我做一件事……\n"
 	.string ".\p"
 	.string "你能帮我调查一下据守在各岛图腾处\n"
 	.string "的霸主宝可梦吗？\p"
@@ -728,7 +728,7 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_25:
 	.string "你能帮我去调查一下传说中守护着各\n"
 	.string "岛屿霸主之证的“霸主宝可梦”吗？\p"
 	.string "千万要当心！据说那些霸主宝可梦比\n"
-	.string "通常形态的要强大得多......\p"
+	.string "通常形态的要强大得多……\p"
 	.string "说不定正有谁在暗中观察，看你是否\n"
 	.string "具备挑战的资格呢！$"
 

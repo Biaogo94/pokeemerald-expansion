@@ -43,7 +43,7 @@ BlackthornCity_House2_Text_ThisIsntAMon:
 	.string "{STR_VAR_1}啊。$"
 
 BlackthornCity_House2_Text_YouWontTradeMe:
-	.string "不想交换吗？好吧......$"
+	.string "不想交换吗？好吧……$"
 
 BlackthornCity_House2_Text_After:
 	.string "嗨，我的魔墙人偶过得还好吗？$"

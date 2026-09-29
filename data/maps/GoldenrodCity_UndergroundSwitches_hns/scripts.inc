@@ -525,30 +525,30 @@ GoldenrodUnderground_Text_SilverBefore:
     .string "看到你的身影，我就一路跟过来了。\p"
     .string "我去收拾火箭队的时候，可不想被你\n"
     .string "碍手碍脚。\p"
-    .string "......等等。你之前赢过我对\n"
+    .string "……等等。你之前赢过我对\n"
     .string "吧？\p"
     .string "那纯粹只是侥幸。\p"
     .string "我重新锻炼了我的队伍，现在就来把\n"
     .string "这笔账彻底还清！$"
 
 GoldenrodUnderground_Text_SilverWin:
-    .string "......为什么......为\n"
+    .string "……为什么……为\n"
     .string "什么我会输？\p"
     .string "我集结的明明全是最强的宝可梦。\p"
     .string "我也从没有一丝松懈。\p"
     .string "那为什么我还会输？$"
 
 GoldenrodUnderground_Text_SilverAfter:
-    .string "......我想不明白....\n"
+    .string "……我想不明白……\n"
     .string "..\p"
     .string "难道那个叫阿渡的家伙说的是真的\n"
     .string "吗？\p"
     .string "说我没有正确对待宝可梦？\p"
-    .string "爱......\p"
-    .string "信任......\p"
+    .string "爱……\p"
+    .string "信任……\p"
     .string "这就是我所欠缺的吗？\p"
     .string "这就是我赢不了的原因吗？\p"
-    .string "我......我实在搞不懂。\p"
+    .string "我……我实在搞不懂。\p"
     .string "但是，我绝不会到此为止。\p"
     .string "绝不可能。我绝不会因此止步。\p"
     .string "我是不会放弃成为世界最强的宝可梦\n"
@@ -568,9 +568,9 @@ GoldenrodUnderground_Text_GruntM11Beaten:
     .string "可恶！我一犹豫就彻底翻船了！$"
 
 GoldenrodUnderground_Text_GruntM11After:
-    .string "其实我也被绕晕了......虽然\n"
+    .string "其实我也被绕晕了……虽然\n"
     .string "最里面的开关应该最先按下去，可\l"
-    .string "是......$"
+    .string "是……$"
 
 GoldenrodUnderground_Text_GruntM25Seen:
     .string "嘎哈哈哈！\p"
@@ -579,7 +579,7 @@ GoldenrodUnderground_Text_GruntM25Seen:
     .string "！$"
 
 GoldenrodUnderground_Text_GruntM25Beaten:
-    .string "呜呜呜......我搞砸了。$"
+    .string "呜呜呜……我搞砸了。$"
 
 GoldenrodUnderground_Text_GruntM25After:
     .string "好吧。给你个提示！\p"

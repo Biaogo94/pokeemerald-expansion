@@ -101,19 +101,19 @@ RuinsOfAlph_Outside_Text_SuperNerdStan_Seen:
 	.string "打扰我！$"
 
 RuinsOfAlph_Outside_Text_SuperNerdStan_Beaten:
-	.string "对不起......我们对这里的真\n"
+	.string "对不起……我们对这里的真\n"
 	.string "相一无所知，\p"
-	.string "这实在让我太焦躁了......$"
+	.string "这实在让我太焦躁了……$"
 
 RuinsOfAlph_Outside_Text_SuperNerdStan_After:
 	.string "这座遗迹大约建于1500年前。\p"
 	.string "谁也不知道建造者究竟是谁。\p"
 	.string "那些宝可梦石雕究竟有什么含义，至\n"
 	.string "今也无从得知。\p"
-	.string "这里的一切全都是个谜......$"
+	.string "这里的一切全都是个谜……$"
 
 RuinsOfAlph_Outside_Text_PsychicNathan_Seen:
-	.string "唔......这里真是个不可思议\n"
+	.string "唔……这里真是个不可思议\n"
 	.string "的地方。$"
 
 RuinsOfAlph_Outside_Text_PsychicNathan_Beaten:
@@ -140,7 +140,7 @@ RuinsOfAlph_Outside_Text_Fisher1:
 
 RuinsOfAlph_Outside_Text_Fisher2:
 	.string "遗迹里隐藏着一个巨大的秘密！\p"
-	.string "......我是这么觉得的啦..\n"
+	.string "……我是这么觉得的啦..\n"
 	.string "....$"
 
 RuinsOfAlph_Outside_Text_Youngster1:

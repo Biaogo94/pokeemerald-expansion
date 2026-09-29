@@ -73,12 +73,12 @@ SSAqua_RoomSSE_Movement_PlayerEnter:
     step_end
 
 SSAqua_RoomSSE_Text_CantFindGranddaughter:
-    .string "哎呀，你好......\p"
+    .string "哎呀，你好……\p"
     .string "我还是找不到我的孙女。\p"
-    .string "如果她还在船上倒还好......\p"
+    .string "如果她还在船上倒还好……\p"
     .string "她是个精力旺盛的孩子，真担心她会\n"
-    .string "不会给别人添麻烦了......好\l"
-    .string "担心啊......$"
+    .string "不会给别人添麻烦了……好\l"
+    .string "担心啊……$"
 
 SSAqua_RoomSSE_Text_EntertainedGranddaughter:
     .string "是叫{PLAYER}对吧？我听说\n"

@@ -147,7 +147,7 @@ Route12_Text_FisherKyleBeaten:
 
 Route12_Text_FisherKyleAfterBattle:
 	.string "当宝可梦咬钩时，鱼竿上传来的那股\n"
-	.string "拉力......\p"
+	.string "拉力……\p"
 	.string "对我们钓客来说，简直是世界上最棒\n"
 	.string "的感觉了。$"
 

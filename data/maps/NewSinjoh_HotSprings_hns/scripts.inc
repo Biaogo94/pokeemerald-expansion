@@ -44,7 +44,7 @@ NewSinjoh_HotSprings_Text_MualaniBefore:
 	.string "。$"
 
 NewSinjoh_HotSprings_Text_MualaniBeforeBattle:
-	.string "等等......\p"
+	.string "等等……\p"
 	.string "你需要用水滴石板去平息传说的宝可\n"
 	.string "梦？\p"
 	.string "既然舞姬们都认可了你的实力，那我\n"
@@ -106,11 +106,11 @@ NewSinjoh_HotSprings_EventScript_CreepyMan::
 	end
 
 NewSinjoh_HotSprings_Text_CreepyMan:
-	.string "呼啊......\p"
+	.string "呼啊……\p"
 	.string "这泉水泡得我后背太舒服了，简直像\n"
 	.string "有魔力一样。\p"
 	.string "要是你也腰酸背痛的话，不妨留下来\n"
-	.string "和我一起多泡泡......$"
+	.string "和我一起多泡泡……$"
 
 NewSinjoh_HotSprings_EventScript_PLATutor::
 	lock

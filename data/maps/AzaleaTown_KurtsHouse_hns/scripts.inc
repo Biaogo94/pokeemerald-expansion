@@ -335,7 +335,7 @@ KurtsHouse_Text_KurtImCheckingItNow:
 	.string "我现在正在调查呢。$"
 
 KurtsHouse_Text_KurtAhHaISee:
-	.string "啊哈！原来如此！这么说.....\n"
+	.string "啊哈！原来如此！这么说……\n"
 	.string ".$"
 
 KurtsHouse_Text_KurtThisBallStartedToShake:
@@ -349,11 +349,11 @@ KurtsHouse_Text_Kurt_Whatwasthat:
 	.string "我们去外面看看吧！$"
 
 KurtsHouse_Text_GranddaughterSlowpokeGone:
-	.string "呆呆兽们都不见了......是被\n"
+	.string "呆呆兽们都不见了……是被\n"
 	.string "坏人抓走了吗？$"
 
 KurtsHouse_Text_GranddaughterLonely:
-	.string "爷爷不在家......好寂寞啊.\n"
+	.string "爷爷不在家……好寂寞啊。\n"
 	.string ".....$"
 
 KurtsHouse_Text_GranddaughterSlowpokeBack:
@@ -381,10 +381,10 @@ KurtsHouse_Text_Forest:
 	.string "不安宁。$"
 
 KurtsHouse_Text_Slowpoke:
-	.string "呆呆兽：......呀嗯？$"
+	.string "呆呆兽：……呀嗯？$"
 
 KurtsHouse_Text_OakPhoto:
-	.string "......年轻的大木博士？$"
+	.string "……年轻的大木博士？$"
 
 KurtsHouse_Text_CelebiStatue:
 	.string "这是森林守护神的石像。$"

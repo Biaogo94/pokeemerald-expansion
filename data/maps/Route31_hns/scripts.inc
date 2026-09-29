@@ -116,7 +116,7 @@ Route31_EventScript_ItemAntidote::
 	end
 
 Route31_Text_CooltrainerM:
-	.string "黑暗穴......\p"
+	.string "黑暗穴……\p"
 	.string "如果有宝可梦能把里面照亮，我也想\n"
 	.string "去探索一番呢。$"
 
@@ -124,7 +124,7 @@ Route31_Text_BugCatcherWade1_Seen:
 	.string "我抓了好多宝可梦。来和我对战吧！$"
 
 Route31_Text_BugCatcherWade1_Beaten:
-	.string "啊啊啊啊......$"
+	.string "啊啊啊啊……$"
 
 Route31_Text_BugCatcherWade1_After:
 	.string "就算随身带了6只宝可梦，也一样可\n"
@@ -133,22 +133,22 @@ Route31_Text_BugCatcherWade1_After:
 	.string "里。$"
 
 Route31_Text_SleepyMan:
-	.string "......呼噜噜......嗯\n"
+	.string "……呼噜噜……嗯\n"
 	.string "？\p"
 	.string "今天为了找宝可梦，走得太远了。\p"
-	.string "脚好酸，好困啊......\p"
+	.string "脚好酸，好困啊……\p"
 	.string "如果我是野生宝可梦，肯定一下就被\n"
-	.string "捉住了吧......\p"
-	.string "......呼--呼--....\n"
+	.string "捉住了吧……\p"
+	.string "……呼--呼--....\n"
 	.string "..$"
 
 Route31_Text_SleepyManGotMail:
-	.string "......呼--......嗯\n"
+	.string "……呼--……嗯\n"
 	.string "？\p"
 	.string "那是什么？你有邮件要给我吗？$"
 
 Route31_Text_SleepyManFail:
-	.string "......呼--呼--....\n"
+	.string "……呼--呼--....\n"
 	.string "..$"
 
 Route31_Text_HandOverMailMon:
@@ -156,7 +156,7 @@ Route31_Text_HandOverMailMon:
 	.string "宝可梦。$"
 
 Route31_Text_ReadingMail:
-	.string "我来看看......\p"
+	.string "我来看看……\p"
 	.string "谢谢你特地送来给我。\p"
 	.string "我朋友真是个大好人，你也是个热心\n"
 	.string "肠！\p"
@@ -164,8 +164,8 @@ Route31_Text_ReadingMail:
 	.string "有了！这个就送给你吧！$"
 
 Route31_Text_DescribeRest:
-	.string "......呼--......\p"
-	.string "......唔......睡觉！\p"
+	.string "……呼--......\p"
+	.string "……唔……睡觉！\p"
 	.string "“睡一觉就能恢复体力”，所以才叫\n"
 	.string "“睡觉”，明白吗？\p"
 	.string "这是一个在睡眠中恢复HP的招式\n"
@@ -206,7 +206,7 @@ Route31_Text_WadeRematchIntro:
 	.string "我可等你好久了。来对战吧！$"
 
 Route31_Text_WadeRematchDefeat:
-	.string "啊啊啊啊......$"
+	.string "啊啊啊啊……$"
 
 Route31_Text_WadePostRematch:
 	.string "只要我一找到你可能会喜欢的东西，\n"

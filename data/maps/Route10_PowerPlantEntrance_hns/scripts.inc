@@ -107,7 +107,7 @@ Route10_PowerPlantEntrance_Movement_WalkBack:
 	step_end
 
 Route10_PowerPlantEntrance_Text_Officer1AThiefBrokeIn:
-	.string "竟然有贼潜入了发电厂......\p"
+	.string "竟然有贼潜入了发电厂……\p"
 	.string "这世道到底是怎么了？$"
 
 Route10_PowerPlantEntrance_Text_Officer1CeruleanShadyCharacter:
@@ -143,7 +143,7 @@ Route10_PowerPlantEntrance_Text_Officer2ManagerHasBeenSadAndFurious:
 	.string "发电厂的厂长在后面的发电机机房里\n"
 	.string "。\p"
 	.string "不过自从有人破坏了发电机之后，他\n"
-	.string "就又伤心又愤怒......$"
+	.string "就又伤心又愤怒……$"
 
 Route10_PowerPlantEntrance_Text_Officer2ManagerHasBeenCheerful:
 	.string "自从发电机修好之后，厂长的心情就\n"

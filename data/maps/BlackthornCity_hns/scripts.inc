@@ -221,22 +221,22 @@ BlackthornYoungsterText:
 BlackthornCity_MeetSantosText:
 	.string "土夫：......\p"
 	.string "我是星期兄弟姐妹里的土夫。\p"
-	.string "猜猜看是星期几......$"
+	.string "猜猜看是星期几……$"
 
 BlackthornCity_SantosGivesGiftText:
-	.string "这个给你......$"
+	.string "这个给你……$"
 
 BlackthornCity_SantosGaveGiftText:
 	.string "土夫：......\p"
-	.string "诅咒之符......\p"
-	.string "能提升幽灵属性招式的威力....\n"
+	.string "诅咒之符……\p"
+	.string "能提升幽灵属性招式的威力……\n"
 	.string "..\p"
-	.string "可别被吓到了......$"
+	.string "可别被吓到了……$"
 
 BlackthornCity_SantosSaturdayText:
 	.string "土夫：......\p"
-	.string "等下个星期六再见吧......\p"
-	.string "不过我不会再送礼物了......$"
+	.string "等下个星期六再见吧……\p"
+	.string "不过我不会再送礼物了……$"
 
 BlackthornCity_SantosNopeText:
 	.string "土夫：不是。$"

@@ -63,7 +63,7 @@ SproutTower_Text_1F_Sage2:
 	.string "梦而建造的。$"
 
 SproutTower_Text_1F_Granny:
-	.string "高达100英尺的喇叭芽.....\n"
+	.string "高达100英尺的喇叭芽……\n"
 	.string ".\p"
 	.string "人们都说它化作了这里的中心支柱。$"
 
@@ -72,5 +72,5 @@ SproutTower_Text_1F_Teacher:
 	.string "有人正在楼上修行呢。$"
 
 SproutTower_Text_1F_Statue:
-	.string "宝可梦的雕像......\p"
+	.string "宝可梦的雕像……\p"
 	.string "看起来非常庄严气派。$"

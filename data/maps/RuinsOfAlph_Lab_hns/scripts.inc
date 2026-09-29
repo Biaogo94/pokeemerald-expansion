@@ -36,7 +36,7 @@ RuinsOfAlph_Lab_Text_Scientist2:
 
 RuinsOfAlph_Lab_Text_Fossils:
 	.string "在遗迹内部发现的化石。也许在其他\n"
-	.string "地方还能找到更多......$"
+	.string "地方还能找到更多……$"
 
 
 RuinsOfAlph_Lab_EventScript_FossilScientist::
@@ -613,12 +613,12 @@ RuinsOfAlph_Lab_EventScript_WorkOnNext::
 RuinsOfAlph_Lab_Text_DeviceForTalkingToPokemon:
 	.string "我们正在开发一种能与宝可梦交谈的\n"
 	.string "装置。\p"
-	.string "不过目前还没什么进展......$"
+	.string "不过目前还没什么进展……$"
 
 RuinsOfAlph_Lab_Text_DevelopingNewBalls:
-	.string "我正在开发新型的精灵球.....\n"
+	.string "我正在开发新型的精灵球……\n"
 	.string ".\p"
-	.string "不过进展不太顺利......$"
+	.string "不过进展不太顺利……$"
 
 RuinsOfAlph_Lab_Text_WeFinallyMadeNewBalls:
 	.string "我们终于做出了新型的精灵球！\p"
@@ -646,16 +646,16 @@ RuinsOfAlph_Lab_Text_WowThatsAPokenav:
 
 RuinsOfAlph_Lab_Text_DeviceToVisualizePokemonDreams:
 	.string "我正试着开发一种能把宝可梦的梦境\n"
-	.string "具象化呈现出来的装置......\p"
+	.string "具象化呈现出来的装置……\p"
 	.string "不过进展并不顺利。$"
 
 RuinsOfAlph_Lab_Text_DevelopDeviceToResurrectFossils:
 	.string "我一直在尝试开发能让宝可梦从化石\n"
-	.string "中复活的装置......\p"
+	.string "中复活的装置……\p"
 	.string "而且，它成功运转了！$"
 
 RuinsOfAlph_Lab_Text_WantToBringFossilBackToLife:
-	.string "等等！你手上的那个东西....\n"
+	.string "等等！你手上的那个东西……\n"
 	.string "..难道是宝可梦的化石？！\p"
 	.string "你想让那只宝可梦重获新生吗？\p"
 	.string "用我最新研发的“化石复原机”，就\n"
@@ -688,7 +688,7 @@ RuinsOfAlph_Lab_Text_FossilRegeneratorTakesTime:
 	.string "不起的。\p"
 	.string "但它有一个缺点--复原运转需要花\n"
 	.string "相当长的一段时间。\p"
-	.string "所以，呃......不如你在附近\n"
+	.string "所以，呃……不如你在附近\n"
 	.string "散散步，四处逛逛消磨一下时间吧？$"
 
 RuinsOfAlph_Lab_Text_FossilizedMonBroughtBackToLife:
@@ -708,7 +708,7 @@ RuinsOfAlph_Lab_Text_TooManyPokemon:
 
 RuinsOfAlph_Lab_Text_DevelopNewPokenavFeature:
 	.string "我正试着为宝可梦领航员开发一项新\n"
-	.string "功能......\p"
+	.string "功能……\p"
 	.string "不过目前进展不太顺利。$"
 
 RuinsOfAlph_Lab_Text_WhatToWorkOnNext:

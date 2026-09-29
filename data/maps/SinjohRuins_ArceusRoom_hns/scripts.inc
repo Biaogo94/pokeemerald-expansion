@@ -321,7 +321,7 @@ SinjohRuins_ArceusRoom_Text_CryArceus:
 
 SinjohRuins_ArceusRoom_Text_CryArceus2:
 	.string "阿尔宙斯：咚咚咕呜--！\p"
-	.string "阿尔宙斯已经衰弱了......可\n"
+	.string "阿尔宙斯已经衰弱了……可\n"
 	.string "以捕捉了吗？$"
 
 SinjohRuins_ArceusRoom_TriggerSteven::

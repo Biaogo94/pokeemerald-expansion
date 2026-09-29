@@ -25,9 +25,9 @@ PewterCity_Museum_2F_EventScript_Meteor::
 PewterCity_Museum_2F_Text_Nerd:
 	.string "据说曾有陨石坠落在诞生之岛。\p"
 	.string "我们原本很想把它们陈列在博物馆\n"
-	.string "里，可是......\p"
+	.string "里，可是……\p"
 	.string "据说那些陨石散发着奇特的能量，根\n"
-	.string "本无法搬走......$"
+	.string "本无法搬走……$"
 
 PewterCity_Museum_2F_Text_AskedDaddyToCatchPikachu::
     .string "我想要一只皮卡丘！它太可爱啦！\p"

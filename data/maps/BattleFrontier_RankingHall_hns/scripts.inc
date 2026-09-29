@@ -126,7 +126,7 @@ BattleFrontier_RankingHall_Text_WorkHarderIfYouSawFriendsName_hns:
 	.string "激励你更加努力吧！$"
 
 BattleFrontier_RankingHall_Text_MyNamesNotUpThere_hns:
-	.string "嗯......上面没有我的名字.\n"
+	.string "嗯……上面没有我的名字。\n"
 	.string ".....\p"
 	.string "嘛，毕竟我还没参加过挑战，这也理\n"
 	.string "所当然啦。$"

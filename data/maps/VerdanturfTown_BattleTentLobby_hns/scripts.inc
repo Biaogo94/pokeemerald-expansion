@@ -345,14 +345,14 @@ VerdanturfTown_BattleTentLobby_hns_Text_GentleMonsScaryIfAngry:
 	.string "很可怕！$"
 
 VerdanturfTown_BattleTentLobby_hns_Text_AttractionRunsDeep:
-	.string "我对宝可梦的深情......这份\n"
-	.string "吸引力如此深沉......\p"
+	.string "我对宝可梦的深情……这份\n"
+	.string "吸引力如此深沉……\p"
 	.string "哎呀，你没看到吧？算了，没关系。\p"
 	.string "你想不想要这个招式学习器，让你的\n"
 	.string "宝可梦学会呢？$"
 
 VerdanturfTown_BattleTentLobby_hns_Text_AttractionMutual:
-	.string "我对宝可梦的深情......我相\n"
+	.string "我对宝可梦的深情……我相\n"
 	.string "信我们是心意相通、互相吸引的！\p"
 	.string "它们对战时的表现完全符合我的心\n"
 	.string "意！$"

@@ -56,7 +56,7 @@ Route32_Pokecenter_Text_FishingGuruGiveRod:
 	.string "去试试你的钓竿吧。$"
 
 Route32_Pokecenter_Text_FishingGuruNo:
-	.string "哎呀。真让人失望啊......$"
+	.string "哎呀。真让人失望啊……$"
 
 Route32_Pokecenter_Text_FishingGuruAfter:
 	.string "哟，小朋友。鱼上钩了吗？$"

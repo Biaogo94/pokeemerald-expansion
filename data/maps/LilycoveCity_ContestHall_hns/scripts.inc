@@ -333,7 +333,7 @@ LilycoveCity_ContestHall_Text_ManWhoWonEarlierHadPokeblocks_hns:
 
 LilycoveCity_ContestHall_Text_IsntThisPlaceHumongous_hns:
 	.string "哇，这地方也太大了吧！\p"
-	.string "空气中弥漫的紧张感......跟\n"
+	.string "空气中弥漫的紧张感……跟\n"
 	.string "乡下的华丽大赛会场完全不同。$"
 
 LilycoveCity_ContestHall_Text_GiveItBestSmartAppeal_hns:
@@ -348,10 +348,10 @@ LilycoveCity_ContestHall_Text_AreYouEnjoyingThisContest_hns:
 	.string "参加华丽大赛了哦！$"
 
 LilycoveCity_ContestHall_Text_EnteredWrongContest_hns:
-	.string "哎呀呀呀......我报错组别了\n"
+	.string "哎呀呀呀……我报错组别了\n"
 	.string "。\p"
 	.string "居然把这只擅长强壮的宝可梦报进了\n"
-	.string "聪明大赛......\p"
+	.string "聪明大赛……\p"
 	.string "上吧，用看起来很聪明的碎岩震撼全\n"
 	.string "场吧！$"
 
@@ -389,8 +389,8 @@ LilycoveCity_ContestHall_Text_PokemonSmarterThanTrainers_hns:
 
 LilycoveCity_ContestHall_Text_StillLoveSmartnessContests_hns:
 	.string "说到底，我还是最喜欢聪明大赛。\p"
-	.string "那充满知性的绿色......真是\n"
-	.string "太......太帅气了。$"
+	.string "那充满知性的绿色……真是\n"
+	.string "太……太帅气了。$"
 
 LilycoveCity_ContestHall_Text_AreYouEnteringBeautyContest_hns:
 	.string "主持人：你也要参加美丽组的华丽大\n"
@@ -402,22 +402,22 @@ LilycoveCity_ContestHall_Text_EveryPokemonPristineBeauty_hns:
 	.string "哎呀，我都陶醉得差点忘了打分了！$"
 
 LilycoveCity_ContestHall_Text_EyesWillBeGluedToMyBeauty_hns:
-	.string "这么美丽的宝可梦......绝找\n"
+	.string "这么美丽的宝可梦……绝找\n"
 	.string "不出第二只。\p"
 	.string "大家的目光都会被我的美丽所吸引。$"
 
 LilycoveCity_ContestHall_Text_OverdidGrooming_hns:
 	.string "哇啊啊！\p"
 	.string "为了这次华丽大赛，我明明很用心地\n"
-	.string "给宝可梦梳理毛发了......\p"
-	.string "但我弄得太起劲了......它的\n"
-	.string "毛发全变得乱蓬蓬的了......\p"
+	.string "给宝可梦梳理毛发了……\p"
+	.string "但我弄得太起劲了……它的\n"
+	.string "毛发全变得乱蓬蓬的了……\p"
 	.string "我该怎么办啊？$"
 
 LilycoveCity_ContestHall_Text_JudgeWontSeeAuroraBeam_hns:
 	.string "这招极光束实在是太耀眼了，耀眼得\n"
 	.string "评委都看不清了。\p"
-	.string "呃，等等......这样一来不就\n"
+	.string "呃，等等……这样一来不就\n"
 	.string "完全没有意义了吗！$"
 
 LilycoveCity_ContestHall_Text_PokemonLooksLikeYoungerMe_hns:
@@ -455,7 +455,7 @@ LilycoveCity_ContestHall_Text_SuchCharmingCuteAppeals_hns:
 	.string "可爱极了！$"
 
 LilycoveCity_ContestHall_Text_MyAzurillWasDistracted_hns:
-	.string "哎呀，糟了......我可爱的露\n"
+	.string "哎呀，糟了……我可爱的露\n"
 	.string "力丽被别的宝可梦分散了注意力。$"
 
 LilycoveCity_ContestHall_Text_NeverWonBattleButContest_hns:
@@ -471,7 +471,7 @@ LilycoveCity_ContestHall_Text_PetalDanceIsMarvel_hns:
 LilycoveCity_ContestHall_Text_MyMonAppealSoMuchCuter_hns:
 	.string "大家的宝可梦都很可爱。\p"
 	.string "不过，要是我家宝可梦使出可爱表演\n"
-	.string "的话......\p"
+	.string "的话……\p"
 	.string "我相信绝对会比其他人可爱得多。$"
 
 LilycoveCity_ContestHall_Text_MyChildIsInContest_hns:
@@ -488,7 +488,7 @@ LilycoveCity_ContestHall_Text_ThatGirlThereIsCutest_hns:
 	.string "貌？$"
 
 LilycoveCity_ContestHall_Text_WantCuteMonOfMyOwn_hns:
-	.string "哇......看着这些可爱的宝可\n"
+	.string "哇……看着这些可爱的宝可\n"
 	.string "梦，我也好想拥有自己的宝可梦啊！\p"
 	.string "我这就去抓几只！$"
 

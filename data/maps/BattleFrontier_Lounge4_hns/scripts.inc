@@ -22,9 +22,9 @@ BattleFrontier_Lounge4_Text_IfIOpenedRestaurantHere_hns:
 	.string "一笔。$"
 
 BattleFrontier_Lounge4_Text_NeedBreatherAfterBattles_hns:
-	.string "呼......\p"
+	.string "呼……\p"
 	.string "在经历了几场激烈的对战后，我得先\n"
-	.string "喘口气......\p"
+	.string "喘口气……\p"
 	.string "但即便在休息，我的脑子也一刻不停\n"
 	.string "地在构思战术与连招。$"
 

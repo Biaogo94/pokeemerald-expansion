@@ -36,7 +36,7 @@ Route41_Text_SwimmermGeorgeSeen:
 	.string "的宝可梦借我骑骑。$"
 
 Route41_Text_SwimmermGeorgeBeaten:
-	.string "呼......哈......$"
+	.string "呼……哈……$"
 
 Route41_Text_SwimmermGeorgeAfter:
 	.string "去湛蓝市还有好远啊。\p"
@@ -56,7 +56,7 @@ Route41_Text_SwimmermBerkeBeaten:
 	.string "你强大的秘诀究竟是什么？$"
 
 Route41_Text_SwimmermBerkeAfter:
-	.string "那是一个漆黑而暴风雨交加的夜晚.\n"
+	.string "那是一个漆黑而暴风雨交加的夜晚。\n"
 	.string ".....\p"
 	.string "我看见一只巨大的宝可梦从岛上飞了\n"
 	.string "出来。\p"
@@ -89,7 +89,7 @@ Route41_Text_SwimmermMathewBeaten:
 	.string "呜哇，你的体力真好！$"
 
 Route41_Text_SwimmermMathewAfter:
-	.string "关于漩涡列岛的秘密嘛......\p"
+	.string "关于漩涡列岛的秘密嘛……\p"
 	.string "里面可是黑得伸手不见五指！$"
 
 Route41_EventScript_Kaylee::
@@ -119,7 +119,7 @@ Route41_Text_SwimmerfSusieSeen:
 	.string "真优雅。$"
 
 Route41_Text_SwimmerfSusieBeaten:
-	.string "我惨败了......$"
+	.string "我惨败了……$"
 
 Route41_Text_SwimmerfSusieAfter:
 	.string "以前是不是有首很火的歌，讲的是一\n"
@@ -168,7 +168,7 @@ Route41_Text_SwimmerfWendySeen:
 	.string "近。$"
 
 Route41_Text_SwimmerfWendyBeaten:
-	.string "天哪......$"
+	.string "天哪……$"
 
 Route41_Text_SwimmerfWendyAfter:
 	.string "成群的海星星会同时散发出光芒。\p"
@@ -275,7 +275,7 @@ Route41_EventScript_TentacruelAttack4::
 	end
 
 Route41_Text_Tentacruel:
-	.string "毒刺水母：咕噜噜噜......$"
+	.string "毒刺水母：咕噜噜噜……$"
 
 Route41_Text_TentacruelAttack:
 	.string "毒刺水母：咕噜噜噜--！$"

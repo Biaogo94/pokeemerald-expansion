@@ -677,12 +677,12 @@ BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem_hns:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_BagIsFull_hns:
-	.string "......啊......你的背\n"
+	.string "……啊……你的背\n"
 	.string "包似乎已经满了。\p"
 	.string "请整理好背包里的物品后再来吧。$"
 
 BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag_hns:
-	.string "真遗憾......\p"
+	.string "真遗憾……\p"
 	.string "这是我们为您保管的背包。\p"
 	.string "{PLAYER}取回了背包。$"
 
@@ -695,9 +695,9 @@ BattleFrontier_BattlePyramidLobby_Text_HereIsPrize_hns:
 	.string "这是您攻破金字塔的奖励。$"
 
 BattleFrontier_BattlePyramidLobby_Text_TellYouWhatMisfortunesAwait_hns:
-	.string "欢迎......\p"
+	.string "欢迎……\p"
 	.string "就让我来告诉你，在金字塔中等待着\n"
-	.string "你的灾难吧......$"
+	.string "你的灾难吧……$"
 
 BattleFrontier_BattlePyramidLobby_Text_Aah_hns:
 	.string "..................\n"
@@ -706,143 +706,143 @@ BattleFrontier_BattlePyramidLobby_Text_Aah_hns:
 	.string "...啊！$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintParalysis_hns:
-	.string "我看到了倾泻的电火花......\p"
-	.string "......在其中，我看到了你的\n"
-	.string "宝可梦在麻痹中痛苦挣扎....\l"
+	.string "我看到了倾泻的电火花……\p"
+	.string "……在其中，我看到了你的\n"
+	.string "宝可梦在麻痹中痛苦挣扎……\l"
 	.string "..$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPoison_hns:
-	.string "我看到了剧毒......\p"
-	.string "......而且，我看到了你的宝\n"
-	.string "可梦饱受中毒之苦......$"
+	.string "我看到了剧毒……\p"
+	.string "……而且，我看到了你的宝\n"
+	.string "可梦饱受中毒之苦……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintBurn_hns:
-	.string "我看到了鲜红的烈焰......\p"
-	.string "......而且，我看到了你的宝\n"
-	.string "可梦饱受灼伤之苦......$"
+	.string "我看到了鲜红的烈焰……\p"
+	.string "……而且，我看到了你的宝\n"
+	.string "可梦饱受灼伤之苦……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPPWaste_hns:
 	.string "我感受到了无法宣泄的怒火所带来的\n"
-	.string "巨大压力......\p"
-	.string "那是一道诅咒......\p"
-	.string "......而且，我看到你的宝可\n"
+	.string "巨大压力……\p"
+	.string "那是一道诅咒……\p"
+	.string "……而且，我看到你的宝可\n"
 	.string "梦耗尽了招式的能量，不得不使出挣\l"
-	.string "扎......$"
+	.string "扎……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintLevitate_hns:
-	.string "我看到了高高飞在空中的宝可梦.\n"
+	.string "我看到了高高飞在空中的宝可梦。\n"
 	.string ".....\p"
-	.string "......而且，我看到你的宝可\n"
+	.string "……而且，我看到你的宝可\n"
 	.string "梦因地面属性招式无效而束手无策\l"
 	.string "......$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintTrapAbility_hns:
 	.string "我感受到可怕的能量从地底喷涌而\n"
-	.string "出......\p"
-	.string "......而且，我看到你的宝可\n"
+	.string "出……\p"
+	.string "……而且，我看到你的宝可\n"
 	.string "梦无法逃脱那股力量的束缚...\l"
 	.string "...$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintIce_hns:
-	.string "我看到了冰属性宝可梦......\p"
-	.string "......而且，我看到了你的宝\n"
+	.string "我看到了冰属性宝可梦……\p"
+	.string "……而且，我看到了你的宝\n"
 	.string "可梦正在与冰冻状态苦苦抗争..\l"
 	.string "....$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintExplosion_hns:
 	.string "我看到了连番伤及自身的招式..\n"
 	.string "....\p"
-	.string "......而且，我看到你的宝可\n"
-	.string "梦倒在它们面前......$"
+	.string "……而且，我看到你的宝可\n"
+	.string "梦倒在它们面前……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPsychic_hns:
 	.string "我看到了超能力属性宝可梦...\n"
 	.string "...\p"
-	.string "......而且，我看到了你的宝\n"
+	.string "……而且，我看到了你的宝\n"
 	.string "可梦饱受超能力招式的折磨...\l"
 	.string "...$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintRock_hns:
-	.string "我看到了岩石属性宝可梦....\n"
+	.string "我看到了岩石属性宝可梦……\n"
 	.string "..\p"
-	.string "......而且，我看到了你的宝\n"
-	.string "可梦饱受岩石招式的折磨....\l"
+	.string "……而且，我看到了你的宝\n"
+	.string "可梦饱受岩石招式的折磨……\l"
 	.string "..$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintFighting_hns:
-	.string "我看到了格斗属性宝可梦....\n"
+	.string "我看到了格斗属性宝可梦……\n"
 	.string "..\p"
-	.string "......而且，我看到了你的宝\n"
-	.string "可梦被格斗招式痛击......$"
+	.string "……而且，我看到了你的宝\n"
+	.string "可梦被格斗招式痛击……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintWeather_hns:
-	.string "求雨......大晴天....\n"
-	.string "..沙暴......冰雹...\l"
+	.string "求雨……大晴天……\n"
+	.string "..沙暴……冰雹...\l"
 	.string "...\p"
-	.string "我看到了因天气而变强的宝可梦.\n"
+	.string "我看到了因天气而变强的宝可梦。\n"
 	.string ".....\p"
-	.string "......而且，我看到你的宝可\n"
+	.string "……而且，我看到你的宝可\n"
 	.string "梦被各种属性的招式打得晕头转向\l"
 	.string "......$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintBug_hns:
-	.string "我看到了虫属性宝可梦......\p"
-	.string "......而且，我看到了你的宝\n"
-	.string "可梦饱受各种攻击之苦......$"
+	.string "我看到了虫属性宝可梦……\p"
+	.string "……而且，我看到了你的宝\n"
+	.string "可梦饱受各种攻击之苦……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintDark_hns:
-	.string "我看到了恶属性宝可梦......\p"
-	.string "......而且，我看到了你的宝\n"
-	.string "可梦饱受恶属性招式之苦....\l"
+	.string "我看到了恶属性宝可梦……\p"
+	.string "……而且，我看到了你的宝\n"
+	.string "可梦饱受恶属性招式之苦……\l"
 	.string "..$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintWater_hns:
-	.string "我看到了水属性宝可梦......\p"
-	.string "......而且，我看到了你的宝\n"
-	.string "可梦饱受水属性招式之苦....\l"
+	.string "我看到了水属性宝可梦……\p"
+	.string "……而且，我看到了你的宝\n"
+	.string "可梦饱受水属性招式之苦……\l"
 	.string "..$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintGhost_hns:
-	.string "我看到了幽灵属性宝可梦....\n"
+	.string "我看到了幽灵属性宝可梦……\n"
 	.string "..\p"
-	.string "......而且，我看到了你的宝\n"
+	.string "……而且，我看到了你的宝\n"
 	.string "可梦饱受幽灵属性招式之苦...\l"
 	.string "...$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintSteel_hns:
-	.string "我看到了钢属性宝可梦......\p"
-	.string "......而且，我看到了你的宝\n"
+	.string "我看到了钢属性宝可梦……\p"
+	.string "……而且，我看到了你的宝\n"
 	.string "可梦饱受威力极其强大的招式之苦\l"
 	.string "......$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintFlyingDragon_hns:
-	.string "我看到了飞行属性的宝可梦....\n"
+	.string "我看到了飞行属性的宝可梦……\n"
 	.string "..\p"
-	.string "......而且，我还看到了你的\n"
+	.string "……而且，我还看到了你的\n"
 	.string "宝可梦正在威力极其巨大的招式下受\l"
-	.string "苦......$"
+	.string "苦……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintStoneEvolve_hns:
 	.string "我看到了借助进化的石头之力量而进\n"
-	.string "化的宝可梦们......\p"
+	.string "化的宝可梦们……\p"
 	.string "我还感受到了火、水、以及电...\n"
 	.string "...\p"
-	.string "......而且，我还看到了你的\n"
+	.string "……而且，我还看到了你的\n"
 	.string "宝可梦正饱受这三种力量的折磨..\l"
 	.string "....$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintNormal_hns:
-	.string "我看到了一般属性的宝可梦....\n"
+	.string "我看到了一般属性的宝可梦……\n"
 	.string "..\p"
-	.string "......而且，我还看到了你的\n"
+	.string "……而且，我还看到了你的\n"
 	.string "宝可梦正在威力极其巨大的招式下受\l"
-	.string "苦......$"
+	.string "苦……$"
 
 BattleFrontier_BattlePyramidLobby_Text_BelieveMyFortunesOrNot_hns:
 	.string "你是否相信我的占卜，取决于你自己\n"
-	.string "的选择......\p"
-	.string "未来随时都可以改变......祝\n"
-	.string "你一路平安......$"
+	.string "的选择……\p"
+	.string "未来随时都可以改变……祝\n"
+	.string "你一路平安……$"
 
 BattleFrontier_BattlePyramidLobby_Text_TrainersNoticeRunning_hns:
 	.string "你知道吗？\p"

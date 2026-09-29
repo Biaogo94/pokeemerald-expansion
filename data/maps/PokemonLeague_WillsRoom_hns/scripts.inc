@@ -116,8 +116,8 @@ PokemonLeague_WillsRoom_Text_Before:
     .string "输掉是绝不可能的！$"
 
 PokemonLeague_WillsRoom_Text_Beaten:
-    .string "我......我居然......\n"
-    .string "不敢相信......$"
+    .string "我……我居然……\n"
+    .string "不敢相信……$"
 
 PokemonLeague_WillsRoom_Text_Defeat:
     .string "即使被击败了，我也不会改变前进的\n"

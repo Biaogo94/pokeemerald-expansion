@@ -110,7 +110,7 @@ CeruleanCity_Text_Youngster1:
 
 CeruleanCity_Text_Youngster2:
 	.string "哎呀？\p"
-	.string "我的探宝器有反应了......$"
+	.string "我的探宝器有反应了……$"
 
 CeruleanCity_EventScript_Sign::
 	msgbox CeruleanCity_Text_Sign, MSGBOX_SIGN
@@ -141,12 +141,12 @@ CeruleanCity_Text_GymSign:
 	.string "调皮俏丽的人鱼姑娘$"
 
 CeruleanCity_Text_BikeShopSign:
-	.string "这里贴着一张告示......\p"
+	.string "这里贴着一张告示……\p"
 	.string "自行车店已搬迁至城都地区的满金市\n"
 	.string "......$"
 
 CeruleanCity_Text_PoliceSign:
-	.string "这里贴着一张告示......\p"
+	.string "这里贴着一张告示……\p"
 	.string "杜绝盗窃，让我们把城市建设成更加\n"
 	.string "亲切、充满朝气的地方！\p"
 	.string "华蓝警察署$"
@@ -155,5 +155,5 @@ CeruleanCity_Text_CapeSign:
 	.string "前方华蓝海角$"
 
 CeruleanCity_Text_LockedDoor:
-	.string "门锁着......$"
+	.string "门锁着……$"
 

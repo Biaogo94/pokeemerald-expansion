@@ -153,11 +153,11 @@ Route34_Text_CamperTodd_Beaten:
 
 Route34_Text_CamperTodd_After:
 	.string "也许我该寄存在培育屋一只，或者用\n"
-	.string "些道具什么的......$"
+	.string "些道具什么的……$"
 
 Route34_Text_ToddRegister:
 	.string "也许我该寄存在培育屋一只，或者用\n"
-	.string "些道具什么的......$"
+	.string "些道具什么的……$"
 
 Route34_Text_ToddRematchIntro:
 	.string "我对培育宝可梦的能力很有自信。\p"
@@ -168,7 +168,7 @@ Route34_Text_ToddRematchDefeat:
 
 Route34_Text_ToddPostRematch:
 	.string "也许我该寄存在培育屋一只，或者用\n"
-	.string "些道具什么的......$"
+	.string "些道具什么的……$"
 
 Route34_Text_GinaRegister:
 	.string "作为练习对手，你强得过头了啦。$"
@@ -178,7 +178,7 @@ Route34_Text_PicnickerGina_Seen:
 	.string "来打一场练习赛吧。$"
 
 Route34_Text_PicnickerGina_Beaten:
-	.string "哎呀！完全赢不了啊......$"
+	.string "哎呀！完全赢不了啊……$"
 
 Route34_Text_PicnickerGina_After:
 	.string "作为练习对手，你强得过头了啦。$"
@@ -233,7 +233,7 @@ Route34_Text_CooltrainerIrene_After2:
 	.string "这是我们小小的秘密度假胜地！$"
 
 Route34_Text_CooltrainerJenn_Seen:
-	.string "珍恩：搞什么啊......？你到\n"
+	.string "珍恩：搞什么啊……？你到\n"
 	.string "底在干嘛？$"
 
 Route34_Text_CooltrainerJenn_Beaten:
@@ -256,7 +256,7 @@ Route34_Text_CooltrainerKate_Beaten:
 
 Route34_Text_CooltrainerKate_GiveSoftSand:
 	.string "凯特：你真厉害。我们输得心服口\n"
-	.string "服......\p"
+	.string "服……\p"
 	.string "来，把这个拿去吧！$"
 
 Route34_Text_CooltrainerKate_After:

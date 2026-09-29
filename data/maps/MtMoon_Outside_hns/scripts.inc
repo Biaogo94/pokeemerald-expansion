@@ -110,7 +110,7 @@ MtMoon_Outside_Text_WhiteRockTouchDay:
 	.string "................\l"
 	.string "................\l"
 	.string "................\l"
-	.string "...........但是什么也\l"
+	.string "……但是什么也\l"
 	.string "没发生。$"
 
 MtMoon_Outside_Text_WhiteRockTouchNight:

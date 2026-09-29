@@ -87,7 +87,7 @@ SlowpokeWell_B1F_Text_KurtIntro:
 	.string "可是我一不留神摔进了井里。\p"
 	.string "把腰给狠狠摔到了，现在动弹不得。\p"
 	.string "可恶！如果我的腰没事，我的宝可梦\n"
-	.string "早就把他们揍扁了......\p"
+	.string "早就把他们揍扁了……\p"
 	.string "唉，真拿它没办法。\p"
 	.string "{PLAYER}，替我好好教训他\n"
 	.string "们，让他们见识一下你的骨气！$"
@@ -140,11 +140,11 @@ SlowpokeWell_B1F_Text_GruntM2Seen:
 	.string "火箭队的名声可就全毁了！$"
 
 SlowpokeWell_B1F_Text_GruntM2Beaten:
-	.string "嗬......太强了......$"
+	.string "嗬……太强了……$"
 
 SlowpokeWell_B1F_Text_GruntM2After:
 	.string "虽然我们需要钱，但居然沦落到卖呆\n"
-	.string "呆兽之尾......\p"
+	.string "呆兽之尾……\p"
 	.string "当个火箭队手下还真不容易啊！$"
 
 SlowpokeWell_B1F_Text_GruntF1Seen:
@@ -160,7 +160,7 @@ SlowpokeWell_B1F_Text_GruntF1After:
 	.string "拿来卖又有什么关系嘛！$"
 
 SlowpokeWell_B1F_Text_SlowpokeWithMail:
-	.string "尾巴被割掉的呆呆兽......\p"
+	.string "尾巴被割掉的呆呆兽……\p"
 	.string "嗯？它携带着邮件。要阅读吗？$"
 
 SlowpokeWell_B1F_Text_SlowpokeMail:
@@ -170,4 +170,4 @@ SlowpokeWell_B1F_Text_SlowpokeMail:
 	.string "--爱你的爸爸上$"
 
 SlowpokeWell_B1F_Text_TaillessSlowpoke:
-	.string "尾巴被割掉的呆呆兽......$"
+	.string "尾巴被割掉的呆呆兽……$"

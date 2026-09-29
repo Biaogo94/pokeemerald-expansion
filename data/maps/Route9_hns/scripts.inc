@@ -71,7 +71,7 @@ Route9_Text_CamperSidSeen:
 	.string "喂，你！不要随地乱扔垃圾！$"
 
 Route9_Text_CamperSidBeaten:
-	.string "我只是想提醒一下......$"
+	.string "我只是想提醒一下……$"
 
 Route9_Text_CamperSidAfter:
 	.string "抱歉，你并没有乱扔垃圾呀。是我搞\n"
@@ -81,7 +81,7 @@ Route9_Text_PicnickerEdnaSeen:
 	.string "大家都不应该把垃圾留在这里。$"
 
 Route9_Text_PicnickerEdnaBeaten:
-	.string "呜呜......我输了.....\n"
+	.string "呜呜……我输了……\n"
 	.string ".$"
 
 Route9_Text_PicnickerEdnaAfter:
@@ -89,12 +89,12 @@ Route9_Text_PicnickerEdnaAfter:
 	.string "不可或缺。$"
 
 Route9_Text_HikerTimSeen:
-	.string "她翻过白银山走过来，当她走过来.\n"
+	.string "她翻过白银山走过来，当她走过来。\n"
 	.string ".....\p"
 	.string "白银山是在城都对吧？$"
 
 Route9_Text_HikerTimBeaten:
-	.string "我光顾着唱歌了......$"
+	.string "我光顾着唱歌了……$"
 
 Route9_Text_HikerTimAfter:
 	.string "对战最重要的就是集中精神。$"
@@ -104,7 +104,7 @@ Route9_Text_HikerSidneySeen:
 	.string "不过得先对战一场！$"
 
 Route9_Text_HikerSidneyBeaten:
-	.string "哎呀，糟了！居然输了......$"
+	.string "哎呀，糟了！居然输了……$"
 
 Route9_Text_HikerSidneyAfter:
 	.string "发电厂就在那条小河的对岸。$"

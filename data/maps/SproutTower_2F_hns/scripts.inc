@@ -39,7 +39,7 @@ SproutTower_Text_SageNico_AfterBattle:
 	.string "即使面对地震也安然无恙。$"
 
 SproutTower_Text_SageEdmond_Seen:
-	.string "......如风中落叶般摇曳..\n"
+	.string "……如风中落叶般摇曳..\n"
 	.string "....$"
 
 SproutTower_Text_SageEdmond_Beaten:
@@ -47,9 +47,9 @@ SproutTower_Text_SageEdmond_Beaten:
 
 SproutTower_Text_SageEdmond_AfterBattle:
 	.string "我试图模仿喇叭芽柔软的动作来进行\n"
-	.string "对战......\p"
+	.string "对战……\p"
 	.string "但我的修行还远远不够。$"
 
 SproutTower_Text_2F_Statue:
-	.string "宝可梦的雕像......\p"
+	.string "宝可梦的雕像……\p"
 	.string "看起来非常庄严气派。$"

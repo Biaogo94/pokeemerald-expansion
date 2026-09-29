@@ -53,22 +53,22 @@ TinTower_1F_EventScript_SageC_Hooh::
 
 
 TinTower_1F_Sage1_Text:
-	.string "据传说......当宝可梦与人类\n"
+	.string "据传说……当宝可梦与人类\n"
 	.string "的心灵\p"
 	.string "产生共鸣之时，彩虹色的宝可梦便会\n"
-	.string "从天而降......\p"
+	.string "从天而降……\p"
 	.string "难道说传说的宝可梦，是在试炼我们\n"
 	.string "人类吗？$"
 
 TinTower_1F_Sage2_Text:
 	.string "钟之塔被烧毁之时，据说有三只无名\n"
 	.string "宝可梦丧生其中。真是场悲剧啊。\p"
-	.string "然而......\p"
-	.string "一只彩虹色的宝可梦......换\n"
-	.string "句话说......\p"
+	.string "然而……\p"
+	.string "一只彩虹色的宝可梦……换\n"
+	.string "句话说……\p"
 	.string "凤王从天而降，赋予了那三只宝可梦\n"
 	.string "新的生命。\p"
-	.string "它们就是......水君、炎帝和\n"
+	.string "它们就是……水君、炎帝和\n"
 	.string "雷公。\p"
 	.string "传说就是这么流传的。$"
 
@@ -87,7 +87,7 @@ TinTower_1F_Sage4_Text2:
 	.string "据说传说的宝可梦化身为了三种力量\n"
 	.string "......\p"
 	.string "击中塔的雷电、燃烧塔的烈火，\p"
-	.string "以及浇灭烈火的风雨......$"
+	.string "以及浇灭烈火的风雨……$"
 
 TinTower_1F_Sage6_Text2:
 	.string "在传说的宝可梦中，据说水君与凤王\n"

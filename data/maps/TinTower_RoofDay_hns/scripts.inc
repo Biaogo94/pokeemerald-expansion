@@ -289,13 +289,13 @@ TinTower_RoofDay_Text_Kimono_AfterNotCaught:
 	.string "你不仅唤来了凤王，甚至还击败了它\n"
 	.string "......\p"
 	.string "我们已经没有什么好嘱咐的了。旅途\n"
-	.string "中请多保重......$"
+	.string "中请多保重……$"
 
 TinTower_RoofDay_Text_Kimono_AfterCaught:
 	.string "你不仅唤来了凤王，甚至还将它收服\n"
-	.string "了......\p"
+	.string "了……\p"
 	.string "我们已经没有什么好嘱咐的了。旅途\n"
-	.string "中请多保重......$"
+	.string "中请多保重……$"
 
 TinTower_RoofDay_Movement_CameraPanUp:
 	walk_up

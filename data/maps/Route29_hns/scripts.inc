@@ -159,7 +159,7 @@ Route29_EventScript_ItemPotion::
 
 Route29_Text_OldMan1:
 	.string "宝可梦就藏在草丛里。天知道它们什\n"
-	.string "么时候会跳出来......$"
+	.string "么时候会跳出来……$"
 
 Route29_Text_OldMan2:
 	.string "我见过你几次了呢。你抓到了多少只\n"

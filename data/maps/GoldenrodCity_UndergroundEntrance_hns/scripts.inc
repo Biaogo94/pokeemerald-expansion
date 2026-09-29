@@ -27,6 +27,6 @@ GoldenrodUnderground1_Text_SuperNerd:
 
 
 GoldenrodUnderground1_Text_Teacher:
-	.string "虽然楼下有些店铺......但也\n"
+	.string "虽然楼下有些店铺……但也\n"
 	.string "有不少训练家。\p"
 	.string "我可不敢下去。$"

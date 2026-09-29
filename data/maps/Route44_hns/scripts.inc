@@ -114,12 +114,12 @@ Route44_Text_FisherWilton1Beaten:
     .string "算了，当我没说。$"
 
 Route44_Text_FisherWiltonHugePoliwag:
-    .string "刚才跑掉的那只蚊香蝌蚪....\n"
+    .string "刚才跑掉的那只蚊香蝌蚪……\n"
     .string "..可大着呢。\p"
     .string "我发誓它少说也得有5米长！$"
 
 Route44_Text_WiltonRegister:
-    .string "刚才跑掉的那只蚊香蝌蚪....\n"
+    .string "刚才跑掉的那只蚊香蝌蚪……\n"
     .string "..可大着呢。\p"
     .string "我发誓它少说也得有5米长！$"
 
@@ -132,7 +132,7 @@ Route44_Text_WiltonRematchDefeat:
     .string "算了，当我没说。$"
 
 Route44_Text_WiltonPostRematch:
-    .string "刚才跑掉的那只蚊香蝌蚪....\n"
+    .string "刚才跑掉的那只蚊香蝌蚪……\n"
     .string "..可大着呢。\p"
     .string "我发誓它少说也得有5米长！$"
 
@@ -156,7 +156,7 @@ Route44_Text_FisherEdgarSeen:
     .string "道！$"
 
 Route44_Text_FisherEdgarBeaten:
-    .string "唔......这不对劲啊。$"
+    .string "唔……这不对劲啊。$"
 
 Route44_Text_FisherEdgarAfter:
     .string "这样战绩就是100胜101负了。\p"
@@ -196,7 +196,7 @@ Route44_Text_PsychicPhilSeen:
     .string "这场我赢定了！$"
 
 Route44_Text_PsychicPhilBeaten:
-    .string "啊......居然输得这么彻底.\n"
+    .string "啊……居然输得这么彻底。\n"
     .string ".....$"
 
 Route44_Text_PsychicPhilAfter:

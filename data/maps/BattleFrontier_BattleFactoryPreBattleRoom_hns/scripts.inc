@@ -609,11 +609,11 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_WaitFewMoments_hns:
 	.string "刻吗？$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_UnderstoodSirWillDo_hns:
-	.string "......嗯？什么？！....\n"
+	.string "……嗯？什么？！....\n"
 	.string "..哇！明白了！这就照办！$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_MessageFromHeadComeRightNow_hns:
-	.string "哎呀......让您久等了！\p"
+	.string "哎呀……让您久等了！\p"
 	.string "这个设施的首领--工厂头目传来了\n"
 	.string "口信。\p"
 	.string "他说：“我们要开打了！现在就过来\n"

@@ -126,7 +126,7 @@ Route13_Text_PokefanmAlexSeen:
 	.string "拜倒在我高贵的宝可梦面前吧！$"
 
 Route13_Text_PokefanmAlexBeaten:
-	.string "怎......怎么敢对王室无礼！$"
+	.string "怎……怎么敢对王室无礼！$"
 
 Route13_Text_PokefanmAlexAfterBattle:
 	.string "难道不是每个人都梦想着有朝一日成\n"
@@ -141,7 +141,7 @@ Route13_Text_AlexRematchIntro:
 	.string "吧！$"
 
 Route13_Text_AlexRematchDefeat:
-	.string "又被拉下王座了......$"
+	.string "又被拉下王座了……$"
 
 Route13_Text_AlexPostRematch:
 	.string "或许我终究不过是一枚小卒罢了。$"
@@ -161,7 +161,7 @@ Route13_Text_BirdKeeperPerrySeen:
 	.string "速度可是鸟宝可梦的关键属性！$"
 
 Route13_Text_BirdKeeperPerryBeaten:
-	.string "竟然在速度上输给了你......$"
+	.string "竟然在速度上输给了你……$"
 
 Route13_Text_BirdKeeperPerryAfterBattle:
 	.string "你的宝可梦训练得真出色。$"
@@ -181,7 +181,7 @@ Route13_Text_HikerKennySeen:
 	.string "我该去岩山隧道抓一只大岩蛇才对。$"
 
 Route13_Text_HikerKennyBeaten:
-	.string "我输了......$"
+	.string "我输了……$"
 
 Route13_Text_HikerKennyAfterBattle:
 	.string "地质地貌看起来毫无变化，\p"
@@ -197,7 +197,7 @@ Route13_Text_KennyRematchIntro:
 	.string "！$"
 
 Route13_Text_KennyRematchDefeat:
-	.string "还是差了点吗......$"
+	.string "还是差了点吗……$"
 
 Route13_Text_KennyPostRematch:
 	.string "宝可梦的力量就如同流水侵蚀一般。\n"
@@ -441,7 +441,7 @@ Route13_TravelToAlola_Text_3:
 Route13_TravelToAlola_Text_4:
 	.string "嗨！这个港口只限当地居民使用。\p"
 	.string "这片群岛的所有居民都会随身带着一\n"
-	.string "些......\l"
+	.string "些……\l"
 	.string "{PAUSE 30}奇特的纪念品\l"
 	.string "。\p"
 	.string "只要看那个就能一眼认出来，我连船\n"

@@ -131,19 +131,19 @@ GoldenrodCity_Gym_Text_WhitneyBefore:
     .string "超级厉害的哦！$"
 
 GoldenrodCity_Gym_Text_WhitneyShouldntBeSoSerious:
-    .string "呜呜......\p"
-    .string "......哇啊啊啊！你好过分！\p"
-    .string "干嘛那么认真嘛！你......你\n"
+    .string "呜呜……\p"
+    .string "……哇啊啊啊！你好过分！\p"
+    .string "干嘛那么认真嘛！你……你\n"
     .string "这个小屁孩！$"
 
 GoldenrodCity_Gym_Text_WhitneyYouMeanie:
     .string "哇啊啊啊！\p"
     .string "哇啊啊啊！\p"
-    .string "......呜呜，嗝......\n"
-    .string "......大坏蛋！$"
+    .string "……呜呜，嗝……\n"
+    .string "……大坏蛋！$"
 
 GoldenrodCity_Gym_Text_WhitneyWhatDoYouWant:
-    .string "......吸鼻涕......\p"
+    .string "……吸鼻涕……\p"
     .string "怎么？你想要什么？徽章吗？\p"
     .string "啊，对哦。我给忘了。拿去吧，这是\n"
     .string "常规徽章。$"
@@ -175,15 +175,15 @@ GoldenrodCity_Gym_Text_WhitneyRematch:
 GoldenrodCity_Gym_Text_WhitneyRematchDefeat:
     .string "哇啊啊啊！\p"
     .string "哇啊啊啊！\p"
-    .string "......呜呜，嗝......\n"
-    .string "......大坏蛋！$"
+    .string "……呜呜，嗝……\n"
+    .string "……大坏蛋！$"
 
 GoldenrodCity_Gym_Text_LassCarrieSeen:
     .string "可别被我宝可梦可爱的外表骗了。\p"
     .string "它们可是能把你打得落花流水呢！$"
 
 GoldenrodCity_Gym_Text_LassCarrieBeaten:
-    .string "可恶......我还以为你很弱呢\n"
+    .string "可恶……我还以为你很弱呢\n"
     .string "......$"
 
 GoldenrodCity_Gym_Text_LassCarrieAfter:
@@ -198,7 +198,7 @@ GoldenrodCity_Gym_Text_LassBridgetBeaten:
     .string "哎呀，不行不行不行！$"
 
 GoldenrodCity_Gym_Text_LassBridgetAfter:
-    .string "我想赢过小茜，可是......真\n"
+    .string "我想赢过小茜，可是……真\n"
     .string "打击人。\p"
     .string "不过我没事！就算输了，下次再加把\n"
     .string "劲就行了！$"
@@ -214,7 +214,7 @@ GoldenrodCity_Gym_Text_BeautyVictoriaSeen:
     .string "情！$"
 
 GoldenrodCity_Gym_Text_BeautyVictoriaBeaten:
-    .string "等等看......哎呀，已经结束\n"
+    .string "等等看……哎呀，已经结束\n"
     .string "了？$"
 
 GoldenrodCity_Gym_Text_BeautyVictoriaAfter:
@@ -230,7 +230,7 @@ GoldenrodCity_Gym_Text_BeautySamanthaBeaten:
 
 GoldenrodCity_Gym_Text_BeautySamanthaAfter:
     .string "我明明教了喵喵能够应对各种属性的\n"
-    .string "招式......$"
+    .string "招式……$"
 
 GoldenrodCity_Gym_Text_GymGuide:
     .string "哟！未来的冠军！\p"

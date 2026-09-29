@@ -53,7 +53,7 @@ CianwoodCity_Text_BellTowerStory:
 	.string "那就是拿到另一枚与塔顶一模一样的\n"
 	.string "透明铃铛。\p"
 	.string "我年轻时也曾追寻过它，可惜最终一\n"
-	.string "无所获......$"
+	.string "无所获……$"
 
 CianwoodCity_Text_WhirlIslandsStory:
 	.string "你听说过漩涡列岛吗？\p"
@@ -65,22 +65,22 @@ CianwoodCity_Text_WhirlIslandsStory:
 	.string "那就是拿到另一枚与瀑布潭一模一样\n"
 	.string "的海潮铃铛。\p"
 	.string "我年轻时也曾追寻过它，可惜最终一\n"
-	.string "无所获......$"
+	.string "无所获……$"
 
 CianwoodCity_Text_ClearBellReaction:
 	.string "噢！你居然拿到了透明铃铛？！\p"
-	.string "那可是我当年的梦想啊......\n"
-	.string "原来如此......\p"
-	.string "你真的做到了..........\n"
-	.string "........我听到了！\p"
+	.string "那可是我当年的梦想啊……\n"
+	.string "原来如此……\p"
+	.string "你真的做到了……\n"
+	.string "……我听到了！\p"
 	.string "乘着微风，从铃铛塔的方向传来了清\n"
-	.string "脆悠扬的铃声......$"
+	.string "脆悠扬的铃声……$"
 
 CianwoodCity_Text_TidalBellReaction:
 	.string "噢！你居然拿到了海潮铃铛？！\p"
-	.string "那可是我当年的梦想啊......\n"
-	.string "原来如此......\p"
-	.string "你真的做到了..........\n"
-	.string "........我听到了！\p"
+	.string "那可是我当年的梦想啊……\n"
+	.string "原来如此……\p"
+	.string "你真的做到了……\n"
+	.string "……我听到了！\p"
 	.string "乘着海风，从漩涡列岛的方向传来了\n"
-	.string "清脆悠扬的铃声......$"
+	.string "清脆悠扬的铃声……$"

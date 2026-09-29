@@ -63,8 +63,8 @@ VioletGym_Text_Falkner_Intro:
 	.string "正的力量！$"
 
 VioletGym_Text_Falkner_WinLoss:
-	.string "......可恶！父亲悉心培育的\n"
-	.string "鸟宝可梦居然......\p"
+	.string "……可恶！父亲悉心培育的\n"
+	.string "鸟宝可梦居然……\p"
 	.string "好吧。拿去吧。\p"
 	.string "这是宝可梦联盟公认的飞翼徽章。$"
 
@@ -101,7 +101,7 @@ VioletGym_Text_Falkner_Rematch:
 	.string "力量吗？$"
 
 VioletGym_Text_Falkner_RematchLoss:
-	.string "哇......我又输给你了。\p"
+	.string "哇……我又输给你了。\p"
 	.string "我会更加努力修行，成为最出色的鸟\n"
 	.string "使者！$"
 
@@ -127,7 +127,7 @@ VioletGym_Text_BirdKeeperAbe_Beaten:
 
 VioletGym_Text_BirdKeeperAbe_After:
 	.string "居然输给了一个新手训练家，真是太\n"
-	.string "丢脸了......$"
+	.string "丢脸了……$"
 
 VioletGym_Text_GymGuide_Intro:
 	.string "哟！近来如何？虽然我不是训练家，\n"

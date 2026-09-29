@@ -33,7 +33,7 @@ CeruleanHouse_Text_Granny:
 	.string "非常幸福。$"
 
 CeruleanHouse_Text_Gramps:
-	.string "啊......我好幸福啊....\n"
+	.string "啊……我好幸福啊……\n"
 	.string "..$"
 
 CeruleanHouse_Text_Kangaskhan:

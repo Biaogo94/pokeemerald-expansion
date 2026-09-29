@@ -132,7 +132,7 @@ BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes_hns:
 	.string "喜欢用什么招式吧。$"
 
 BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered_hns:
-	.string "宝可梦的性格真是奇妙......\p"
+	.string "宝可梦的性格真是奇妙……\p"
 	.string "有些宝可梦在陷入绝境时，表现出的\n"
 	.string "举动会彻底截然不同呢。$"
 
@@ -141,7 +141,7 @@ BattleFrontier_BattlePalaceCorridor_Text_BeginningToUnderstandNature_hns:
 	.string "它们的行为了吗？$"
 
 BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYouAndMons_hns:
-	.string "啊......我感受到了你和你的\n"
-	.string "宝可梦之间那份强烈而真挚的羁绊.\l"
+	.string "啊……我感受到了你和你的\n"
+	.string "宝可梦之间那份强烈而真挚的羁绊。\l"
 	.string ".....$"
 

@@ -22,7 +22,7 @@ EcruteakMart_Text_SuperNerd:
 	.string "但我朋友的伊布却进化成了月亮伊布\n"
 	.string "。\p"
 	.string "这是为什么呢？我们培育伊布的方法\n"
-	.string "明明是一样的呀......$"
+	.string "明明是一样的呀……$"
 
 EcruteakMart_Text_Granny:
 	.string "如果使用活力碎片，陷入濒死的宝可\n"

@@ -38,11 +38,11 @@ CeladonMansionRoofHouse_Text_PharmacistNotNight:
 
 CeladonMansionRoofHouse_Text_PharmacistStory:
 	.string "很久很久以前，有个小男孩得到了一\n"
-	.string "辆全新的自行车......\p"
-	.string "他迫不及待地想骑上去试试....\n"
+	.string "辆全新的自行车……\p"
+	.string "他迫不及待地想骑上去试试……\n"
 	.string "..\p"
 	.string "他玩得太开心了，完全没注意到太阳\n"
-	.string "已经落山......\p"
+	.string "已经落山……\p"
 	.string "在漆黑一片的夜色中骑车回家时，车\n"
 	.string "速突然慢了下来！\p"
 	.string "脚踏板也变得沉重无比！\p"
@@ -55,7 +55,7 @@ CeladonMansionRoofHouse_Text_PharmacistStory:
 	.string "啊--！！！\p"
 	.string "原来那个小男孩是在自行车道上逆行\n"
 	.string "爬坡呢！\p"
-	.string "......扑通扑通！(吓一跳吧\n"
+	.string "……扑通扑通！(吓一跳吧\n"
 	.string "！)\p"
 	.string "谢谢你这么耐心地听完，这个招式学\n"
 	.string "习器82就送给你吧！$"

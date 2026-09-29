@@ -252,13 +252,13 @@ Route35NationalParkGate_Text_TakePartInFuture:
 	.string "好的。期待你下次的参与！$"
 
 Route35NationalParkGate_Text_FirstMonCantBattle:
-	.string "哎呀......你同行队伍排在首\n"
+	.string "哎呀……你同行队伍排在首\n"
 	.string "位的宝可梦无法战斗。\p"
 	.string "请把它换成你想派出的宝可梦，然后\n"
 	.string "再来找我吧。$"
 
 Route35NationalParkGate_Text_MakeRoom:
-	.string "哎呀......你的同行队伍和电\n"
+	.string "哎呀……你的同行队伍和电\n"
 	.string "脑盒子全都满了。\p"
 	.string "这样就没有空间存放你捕获的虫属性\n"
 	.string "宝可梦了。\p"
@@ -266,7 +266,7 @@ Route35NationalParkGate_Text_MakeRoom:
 	.string "后再来找我吧。$"
 
 Route35NationalParkGate_Text_EggAsFirstMon:
-	.string "哎呀......你同行队伍排在首\n"
+	.string "哎呀……你同行队伍排在首\n"
 	.string "位的是一颗蛋呢。\p"
 	.string "请把它换成你想派出的宝可梦，然后\n"
 	.string "再来找我吧。$"

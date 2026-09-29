@@ -660,7 +660,7 @@ NewBarkTown_Lab_Text_ElmIntro:
 	.string "我有件事想拜托你。\p"
 	.string "我正在做新的宝可梦研究，想请你帮\n"
 	.string "帮忙，{PLAYER}。\p"
-	.string "你看......\p"
+	.string "你看……\p"
 	.string "我正在写一篇论文，想在学会上发表\n"
 	.string "。\p"
 	.string "但还有些地方我怎么也想不明白。\p"
@@ -803,7 +803,7 @@ NewBarkTown_Lab_Text_ElmAfterTheft3:
 	.string "空木：这个？$"
 
 NewBarkTown_Lab_Text_ElmAfterTheft4:
-	.string "但是......这难道是宝可梦的\n"
+	.string "但是……这难道是宝可梦的\n"
 	.string "蛋？\p"
 	.string "如果真是这样，那可是一项重大发现\n"
 	.string "啊！\p"
@@ -853,7 +853,7 @@ NewBarkTown_Lab_Text_ShowTogepi2:
 
 NewBarkTown_Lab_Text_ShowTogepi3:
 	.string "蛋孵化了！原来宝可梦真的是从蛋里\n"
-	.string "生出来的......\p"
+	.string "生出来的……\p"
 	.string "不对，也许并不是所有的宝可梦都这\n"
 	.string "样。\p"
 	.string "哇，还有好多好多的课题需要去研究\n"
@@ -878,7 +878,7 @@ NewBarkTown_Lab_Text_ElmCallYou:
 	.string "什么事，我会给你打电话的。$"
 
 NewBarkTown_Lab_Text_AideAfterTheft:
-	.string "......唉......被偷走\n"
+	.string "……唉……被偷走\n"
 	.string "的那只宝可梦，\p"
 	.string "不知道现在怎么样了。\p"
 	.string "听说被坏人抚养长大的宝可梦，性格\n"
@@ -901,11 +901,11 @@ NewBarkTown_Lab_Text_ElmGiveMasterBall2:
 	.string "我更大的作用，{PLAYER}！$"
 
 NewBarkTown_Lab_Text_KimonoGirls:
-	.string "顺便说一下......有一群漂亮\n"
+	.string "顺便说一下……有一群漂亮\n"
 	.string "的舞妓小姐刚才一直在找你呢。\p"
 	.string "她们说会在缘朱市的缘朱舞场等你。\p"
 	.string "我知道，自从卷入了那枚蛋的事情之\n"
-	.string "后，你经历了很多波折......\p"
+	.string "后，你经历了很多波折……\p"
 	.string "但我相信你一定能坚持到底的。$"
 
 NewBarkTown_Lab_Text_KimonoWaiting:
@@ -913,7 +913,7 @@ NewBarkTown_Lab_Text_KimonoWaiting:
 	.string "等你呢。$"
 
 NewBarkTown_Lab_Text_League:
-	.string "空木博士：哈哈哈哈......干\n"
+	.string "空木博士：哈哈哈哈……干\n"
 	.string "得漂亮！\p"
 	.string "那枚稀有的蛋给你添了不少麻烦吧？\p"
 	.string "舞妓小姐们提到了我？\p"
@@ -967,7 +967,7 @@ NewBarkTown_Lab_Text_AideTheftTestimony:
 	.string "了宝可梦。\p"
 	.string "竟然会有人干出这种事，真是不可思\n"
 	.string "议！\p"
-	.string "......唉......被偷走\n"
+	.string "……唉……被偷走\n"
 	.string "的那只宝可梦，\p"
 	.string "不知道现在怎么样了。\p"
 	.string "听说被坏人抚养长大的宝可梦，性格\n"
@@ -989,7 +989,7 @@ NewBarkTown_Lab_Text_Officer1:
 	.string "...\p"
 	.string "刚才正向空木博士了解情况呢。\p"
 	.string "据说嫌疑人是一个留着红色长发的年\n"
-	.string "轻男子......\p"
+	.string "轻男子……\p"
 	.string "什么？\p"
 	.string "你跟那样的训练家交过手？\p"
 	.string "那你碰巧知道他的名字吗？$"

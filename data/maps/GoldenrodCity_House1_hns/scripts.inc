@@ -32,7 +32,7 @@ GoldenrodCity_NameRatersHouse_EventScript_RenameRival::
 	end
 
 GoldenrodCity_NameRatersHouse_Text_RenameRival:
-	.string "是新闻......\p"
+	.string "是新闻……\p"
 	.string "警察正在寻找这个红发少年！\p"
 	.string "你知道他的名字吗？$"
 
@@ -107,7 +107,7 @@ GoldenrodCity_NameRatersHouse_Text_CritiqueWhichMonNickname:
 	.string "你想让我为哪只宝可梦鉴定昵称呢？$"
 
 GoldenrodCity_NameRatersHouse_Text_FineNameSuggestBetterOne:
-	.string "唔......叫\n"
+	.string "唔……叫\n"
 	.string "{STR_VAR_1}是吧？起得\l"
 	.string "相当不错嘛。\p"
 	.string "不过！如果让我给它改一个稍微好听\n"
@@ -134,7 +134,7 @@ GoldenrodCity_NameRatersHouse_Text_NameNoDifferentYetSuperior:
 	.string "真是太幸运啦！$"
 
 GoldenrodCity_NameRatersHouse_Text_MagnificentName:
-	.string "唔......是\n"
+	.string "唔……是\n"
 	.string "{STR_VAR_1}啊！\p"
 	.string "这真是一个极好的昵称！简直无可挑\n"
 	.string "剔！\p"

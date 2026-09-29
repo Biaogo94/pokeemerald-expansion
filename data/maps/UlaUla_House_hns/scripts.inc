@@ -162,7 +162,7 @@ Alola_Ulaula_House_Phant_Text_0:
 	.string "再次感谢你游玩本作！$"
 
 Alola_Ulaula_House_Phant_Text_1:
-	.string "希望你已经做好了准备......\n"
+	.string "希望你已经做好了准备……\n"
 	.string "祝你好运。$"
 
 Alola_Ulaula_House_Phant_Text_2:
@@ -177,11 +177,11 @@ Alola_Ulaula_House_Phant_Text_4:
 
 Alola_Ulaula_House_Phant_Text_5:
 	.string "那颗蛋里是我最喜欢的宝可梦。\p"
-	.string "请一定要好好照顾它......$"
+	.string "请一定要好好照顾它……$"
 
 Alola_Ulaula_House_Phant_Text_6:
 	.string "没关系的，{PLAYER}。等你\n"
-	.string "准备好了再来吧......$"
+	.string "准备好了再来吧……$"
 
 Alola_Ulaula_House_Phant_Text_7:
 	.string "希望你喜欢这次阿罗拉的小小体验。\p"

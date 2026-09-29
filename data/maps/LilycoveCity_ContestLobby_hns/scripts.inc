@@ -983,7 +983,7 @@ LilycoveCity_ContestLobby_Text_MakePokeblocksDifferentBerries_hns:
 LilycoveCity_ContestLobby_Text_YourPokemonSpurredMeToPaint_hns:
 	.string "恭喜你！\p"
 	.string "为了纪念获胜，我给你的宝可梦画了\n"
-	.string "一幅画......\p"
+	.string "一幅画……\p"
 	.string "哎呀，你的宝可梦展现的精彩表演，\n"
 	.string "激发了我的灵感，让我画得比平时还\l"
 	.string "要出色呢。看，瞧瞧吧？$"
@@ -1021,10 +1021,10 @@ LilycoveCity_ContestLobby_Text_OkaySeeYou_hns:
 	.string "好啦，再见！$"
 
 LilycoveCity_ContestLobby_Text_TakeHomeButIdLikeToTakeToMuseum_hns:
-	.string "啊......那我还是把它带回家\n"
-	.string "去吧......\p"
+	.string "啊……那我还是把它带回家\n"
+	.string "去吧……\p"
 	.string "不过说真的，我还是想送去美术馆呢\n"
-	.string "......好不好嘛？$"
+	.string "……好不好嘛？$"
 
 LilycoveCity_ContestLobby_Text_FineThatsTheWayItIs_hns:
 	.string "哎，好吧，既然如此，我就把它挂在\n"
@@ -1033,7 +1033,7 @@ LilycoveCity_ContestLobby_Text_FineThatsTheWayItIs_hns:
 	.string "啦。$"
 
 LilycoveCity_ContestLobby_Text_MasterRankHereICome_hns:
-	.string "呼......大师级华丽大赛，我\n"
+	.string "呼……大师级华丽大赛，我\n"
 	.string "来啦！\p"
 	.string "我要让全世界都知道，我最心爱的宝\n"
 	.string "可梦是全天下最可爱的存在。时机已\l"
@@ -1051,8 +1051,8 @@ LilycoveCity_ContestLobby_Text_ContestFeastForEyes_hns:
 
 LilycoveCity_ContestLobby_Text_ToughContestIsExtreme_hns:
 	.string "强壮组华丽大赛真是燃爆了，伙计！\p"
-	.string "那一块块隆起的肌肉展示.....\n"
-	.string ".那挥洒如雨的汗水......太\l"
+	.string "那一块块隆起的肌肉展示……\n"
+	.string ".那挥洒如雨的汗水……太\l"
 	.string "迷人了！$"
 
 LilycoveCity_ContestLobby_Text_LavishedCareOnMon_hns:

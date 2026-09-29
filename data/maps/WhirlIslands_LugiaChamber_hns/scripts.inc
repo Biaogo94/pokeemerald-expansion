@@ -289,16 +289,16 @@ WhirlIslands_LugiaChamber_EventScript_KuniAfter::
 	end
 
 WhirlIslands_LugiaChamber_Text_Kimono_AfterNotCaught:
-	.string "你不仅让洛奇亚现身，还击败了它.\n"
+	.string "你不仅让洛奇亚现身，还击败了它。\n"
 	.string ".....\p"
 	.string "我们已经没有什么好说的了。前方的\n"
-	.string "旅途请多加保重......$"
+	.string "旅途请多加保重……$"
 
 WhirlIslands_LugiaChamber_Text_Kimono_AfterCaught:
-	.string "你不仅让洛奇亚现身，还收服了它.\n"
+	.string "你不仅让洛奇亚现身，还收服了它。\n"
 	.string ".....\p"
 	.string "我们已经没有什么好说的了。前方的\n"
-	.string "旅途请多加保重......$"
+	.string "旅途请多加保重……$"
 
 WhirlIslands_LugiaChamber_Movement_CameraPanUp:
 	walk_up
@@ -574,16 +574,16 @@ WhirlIslands_LugiaChamber_Text_Kimono_Opening::
 	.string "亚便会再次从瀑布潭的深处现身。 $"
 
 WhirlIslands_LugiaChamber_Text_Kimono_Closing1::
-	.string "那确实就是洛奇亚......自古\n"
+	.string "那确实就是洛奇亚……自古\n"
 	.string "以来便守护着这些岛屿的神明...\l"
 	.string "... \p"
 	.string "无数人一次又一次地尝试，最终却都\n"
-	.string "失败了......\p"
+	.string "失败了……\p"
 	.string "{PLAYER}，是你那与海鸣之\n"
 	.string "铃完全交融的心意，才终于让它现身\l"
-	.string "了......{PLAYER}，\l"
+	.string "了……{PLAYER}，\l"
 	.string "难道你还不明白吗？\p"
-	.string "洛奇亚......它一直都在等待\n"
+	.string "洛奇亚……它一直都在等待\n"
 	.string "着像你这样的人出现啊。\p"
 	.string "难道不是吗？ $"
 

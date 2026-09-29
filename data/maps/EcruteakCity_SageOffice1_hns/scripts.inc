@@ -102,9 +102,9 @@ EcruteakTinTowerEntrance_Text_SageWithBadge:
 EcruteakTinTowerEntrance_Text_SageNoClearBell:
 	.string "发生了非常重大的事。\p"
 	.string "恕我冒昧，必须请你离开。\p"
-	.string "......抚慰心灵之物....\n"
+	.string "……抚慰心灵之物……\n"
 	.string "..\p"
-	.string "缘寿三老说的话总是这么深奥难懂.\n"
+	.string "缘寿三老说的话总是这么深奥难懂。\n"
 	.string ".....$"
 
 EcruteakTinTowerEntrance_Text_SageHearsClearBell1:
@@ -114,10 +114,10 @@ EcruteakTinTowerEntrance_Text_SageHearsClearBell1:
 EcruteakTinTowerEntrance_Text_SageHearsClearBell2:
 	.string "啊！\p"
 	.string "那是透明铃铛的声音！\p"
-	.string "这......这真是太美妙了！\p"
+	.string "这……这真是太美妙了！\p"
 	.string "我从未听过如此动听的声音！\p"
 	.string "这铃声正映照着持有者纯洁的心灵。\p"
-	.string "你......\p"
+	.string "你……\p"
 	.string "或许你能通过这里，登上铃铛塔。\p"
 	.string "请，快请进吧。$"
 
@@ -126,7 +126,7 @@ EcruteakTinTowerEntrance_Text_SagePleaseDoGoOn:
 
 EcruteakTinTowerEntrance_Text_SageDone:
 	.string "这铃声正映照着持有者纯洁的心灵。\p"
-	.string "你......确实是天选之人。$"
+	.string "你……确实是天选之人。$"
 
 EcruteakTinTowerEntrance_Text_WanderingSage:
 	.string "前方的铃铛塔是一座神圣而美丽的九\n"
@@ -138,7 +138,7 @@ EcruteakTinTowerEntrance_Text_WanderingSageClearBell:
 	.string "梦回到塔顶了！$"
 
 EcruteakTinTowerEntrance_Text_Gramps:
-	.string "两座塔......两只宝可梦..\n"
+	.string "两座塔……两只宝可梦..\n"
 	.string "....\p"
 	.string "但当其中一座被烧毁时，两只宝可梦\n"
 	.string "便都飞离而去，再未归来。$"

@@ -162,7 +162,7 @@ Route45_Text_HikerTimothySeen:
     .string "因为它们就在那里！$"
 
 Route45_Text_HikerTimothyBeaten:
-    .string "失败......也是无法避免的啊\n"
+    .string "失败……也是无法避免的啊\n"
     .string "！$"
 
 Route45_Text_HikerTimothyAfter:
@@ -251,7 +251,7 @@ Route45_Text_CamperQuentinSeen:
     .string "我可是超级超级强的！$"
 
 Route45_Text_CamperQuentinBeaten:
-    .string "我在训练家之丘的时候明明很强的.\n"
+    .string "我在训练家之丘的时候明明很强的。\n"
     .string ".....$"
 
 Route45_Text_CamperQuentinAfter:

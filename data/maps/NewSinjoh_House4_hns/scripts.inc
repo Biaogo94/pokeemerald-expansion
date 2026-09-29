@@ -62,7 +62,7 @@ NewSinjoh_Cafe_EventScript_ScientistM::
 	end
 
 NewSinjoh_Cafe_Text_ScientistM:
-	.string "请原谅我这位同事的失态.....\n"
+	.string "请原谅我这位同事的失态……\n"
 	.string ".\p"
 	.string "这里的饮品后劲比我们在丰缘平时喝\n"
 	.string "的烈得多。\p"

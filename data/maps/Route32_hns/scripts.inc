@@ -414,7 +414,7 @@ Route32_Text_FisherJustin_Beaten:
 	.string "噗通！$"
 
 Route32_Text_FisherJustin_After:
-	.string "沉着、冷静......钓鱼和宝可\n"
+	.string "沉着、冷静……钓鱼和宝可\n"
 	.string "梦对战的精髓是相通的。$"
 
 Route32_Text_FisherRalph1_Seen:
@@ -423,7 +423,7 @@ Route32_Text_FisherRalph1_Seen:
 	.string "我才不会输给毛头小孩呢！$"
 
 Route32_Text_FisherRalph1_Beaten:
-	.string "切！太操之过急了......$"
+	.string "切！太操之过急了……$"
 
 Route32_Text_FisherRalph1_After:
 	.string "钓鱼是一生的热爱。\p"
@@ -439,7 +439,7 @@ Route32_Text_RalphRematchIntro:
 	.string "我才不会输给毛头小孩呢！$"
 
 Route32_Text_RalphRematchDefeat:
-	.string "切！太操之过急了......$"
+	.string "切！太操之过急了……$"
 
 Route32_Text_RalphPostRematch:
 	.string "钓鱼是一生的热爱。\p"
@@ -479,11 +479,11 @@ Route32_Text_YoungsterGordon_After:
 	.string "草丛里粘了好多甩不掉的草刺。$"
 
 Route32_Text_CamperRoland_Seen:
-	.string "刚才那个眼神......真让人在\n"
+	.string "刚才那个眼神……真让人在\n"
 	.string "意啊。$"
 
 Route32_Text_CamperRoland_Beaten:
-	.string "唔......真让人扫兴。$"
+	.string "唔……真让人扫兴。$"
 
 Route32_Text_CamperRoland_After:
 	.string "如果不想对战的话，别和人对上眼神\n"

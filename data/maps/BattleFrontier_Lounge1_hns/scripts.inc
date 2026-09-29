@@ -161,22 +161,22 @@ BattleFrontier_Lounge1_Text_PokemonBreederIntro_hns:
 	.string "来吧！让我看看你的宝可梦！$"
 
 BattleFrontier_Lounge1_Text_AverageAbility_hns:
-	.string "......唔......\p"
+	.string "……唔……\p"
 	.string "这只总体来看，能力的评价算是比较\n"
 	.string "普通。$"
 
 BattleFrontier_Lounge1_Text_BetterThanAverageAbility_hns:
-	.string "......唔......\p"
+	.string "……唔……\p"
 	.string "这只总体来看，能力的评价算是相当\n"
 	.string "不错。$"
 
 BattleFrontier_Lounge1_Text_ImpressiveAbility_hns:
-	.string "......唔......\p"
+	.string "……唔……\p"
 	.string "这只总体来看，拥有相当出色的能力\n"
 	.string "！$"
 
 BattleFrontier_Lounge1_Text_OutstandingAbility_hns:
-	.string "......唔......\p"
+	.string "……唔……\p"
 	.string "这只总体来看，拥有非常了不起的卓\n"
 	.string "越能力！$"
 
@@ -186,39 +186,39 @@ BattleFrontier_Lounge1_Text_BestAspectHP_hns:
 
 BattleFrontier_Lounge1_Text_BestAspectAtk_hns:
 	.string "顺便一提，我觉得它最优秀的方面应\n"
-	.string "该是攻击......$"
+	.string "该是攻击……$"
 
 BattleFrontier_Lounge1_Text_BestAspectDef_hns:
 	.string "顺便一提，我觉得它最优秀的方面应\n"
-	.string "该是防御......$"
+	.string "该是防御……$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpAtk_hns:
 	.string "顺便一提，我觉得它最优秀的方面应\n"
-	.string "该是特攻......$"
+	.string "该是特攻……$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpDef_hns:
 	.string "顺便一提，我觉得它最优秀的方面应\n"
-	.string "该是特防......$"
+	.string "该是特防……$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpeed_hns:
 	.string "顺便一提，我觉得它最优秀的方面应\n"
-	.string "该是速度......$"
+	.string "该是速度……$"
 
 BattleFrontier_Lounge1_Text_StatRelativelyGood_hns:
-	.string "这项能力挺不错的。......嗯\n"
-	.string "......我是这么认为的。$"
+	.string "这项能力挺不错的。……嗯\n"
+	.string "……我是这么认为的。$"
 
 BattleFrontier_Lounge1_Text_StatImpressive_hns:
-	.string "这项能力相当出色。......嗯\n"
-	.string "......我是这么认为的。$"
+	.string "这项能力相当出色。……嗯\n"
+	.string "……我是这么认为的。$"
 
 BattleFrontier_Lounge1_Text_StatOutstanding_hns:
-	.string "这项能力极其优秀！......嗯\n"
-	.string "......我是这么认为的。$"
+	.string "这项能力极其优秀！……嗯\n"
+	.string "……我是这么认为的。$"
 
 BattleFrontier_Lounge1_Text_StatFlawless_hns:
 	.string "简直无可挑剔！完美无瑕！....\n"
-	.string "..嗯......我是这么认为的\l"
+	.string "..嗯……我是这么认为的\l"
 	.string "。$"
 
 BattleFrontier_Lounge1_Text_NoTimeForMyAdvice_hns:
@@ -249,6 +249,6 @@ BattleFrontier_Lounge1_Text_SaidMyMonIsOutstanding_hns:
 
 BattleFrontier_Lounge1_Text_DidntDoAnythingSpecialRaisingIt_hns:
 	.string "他说我的宝可梦非常优秀！但我其实\n"
-	.string "并没有特意做过什么培育啊....\l"
+	.string "并没有特意做过什么培育啊……\l"
 	.string "..$"
 

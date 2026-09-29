@@ -37,7 +37,7 @@ Route11_EventScript_Item_Grass_Knot::
 
 Route11_Text_Engineer:
 	.string "我看见树上有只奇怪的宝可梦爬来爬\n"
-	.string "去，不过看起来不像猴怪.....\l"
+	.string "去，不过看起来不像猴怪……\l"
 	.string ".$"
 
 Route11_Text_YoungsterOwenSeen:
@@ -69,20 +69,20 @@ Route11_Text_PsychicHermanBeaten:
 
 Route11_Text_PsychicHermanAfterBattle:
 	.string "......\p"
-	.string "我闭着眼睛的时候居然输了....\n"
+	.string "我闭着眼睛的时候居然输了……\n"
 	.string "..$"
 
 Route11_Text_PsychicFidelSeen:
-	.string "我看见了......\p"
-	.string "关于你的一切，我都看透了....\n"
+	.string "我看见了……\p"
+	.string "关于你的一切，我都看透了……\n"
 	.string "..$"
 
 Route11_Text_PsychicFidelBeaten:
-	.string "我竟然无法预见你的力量.....\n"
+	.string "我竟然无法预见你的力量……\n"
 	.string ".$"
 
 Route11_Text_PsychicFidelAfterBattle:
-	.string "信念的力量......\p"
+	.string "信念的力量……\p"
 	.string "你之所以强大，是因为你全心信任着\n"
 	.string "自己的宝可梦。$"
 

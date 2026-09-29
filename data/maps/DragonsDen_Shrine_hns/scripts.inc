@@ -176,10 +176,10 @@ DragonsDen_Shrine_EventScript_ElderQuizFinish::
 
 
 DragonsDen_Shrine_Text_ElderGreeting:
-    .string "唔......欢迎来到这里。\p"
+    .string "唔……欢迎来到这里。\p"
     .string "不必说明你的来意。是小椿让你来的\n"
     .string "，对吧？\p"
-    .string "那孩子真是让人操心......虽\n"
+    .string "那孩子真是让人操心……虽\n"
     .string "然很抱歉，但我必须测试一下你。\p"
     .string "别担心，只要回答几个问题就行。准\n"
     .string "备好了吗？$"
@@ -201,16 +201,16 @@ DragonsDen_Shrine_Text_Question5:
     .string "更重要？$"
 
 DragonsDen_Shrine_Text_WrongAnswer1:
-    .string "嗯？我没太听清楚......$"
+    .string "嗯？我没太听清楚……$"
 
 DragonsDen_Shrine_Text_WrongAnswer2:
     .string "你刚才说什么？$"
 
 DragonsDen_Shrine_Text_RightAnswer:
-    .string "哦，我明白了......$"
+    .string "哦，我明白了……$"
 
 DragonsDen_Shrine_Text_PassedTest:
-    .string "嗯......我明白了.....\n"
+    .string "嗯……我明白了……\n"
     .string ".\p"
     .string "你深深地关爱着宝可梦。\p"
     .string "非常值得赞赏。\p"
@@ -338,7 +338,7 @@ DragonsDen_Shrine_Text_ClairYouPassed:
     .string "不过我想问了也是白问。你失败了吧\n"
     .string "？\p"
     .string "................................................\p"
-    .string "......什么？你合格了？！$"
+    .string "……什么？你合格了？！$"
 
 DragonsDen_Shrine_Text_ClairThatCantBe:
     .string "这不可能！$"
@@ -352,14 +352,14 @@ DragonsDen_Shrine_Text_MustIInformLance:
     .string "这孩子无论在技术还是心灵上，都无\n"
     .string "可挑剔！\p"
     .string "认输吧，把升龙徽章交出来！\p"
-    .string "......还是说，要我把这件事\n"
+    .string "……还是说，要我把这件事\n"
     .string "告诉阿渡？$"
 
 DragonsDen_Shrine_Text_IUnderstand:
-    .string "我、我知道了......$"
+    .string "我、我知道了……$"
 
 DragonsDen_Shrine_Text_HereRisingBadge:
-    .string "给，这是升龙徽章......\p"
+    .string "给，这是升龙徽章……\p"
     .string "快点！拿去吧！$"
 
 DragonsDen_Shrine_Text_PlayerReceivedRisingBadge:
@@ -372,7 +372,7 @@ DragonsDen_Shrine_Text_RisingBadgeExplanation:
     .string "力，对你的任何指令都言听计从。$"
 
 DragonsDen_Shrine_Text_ElderScoldsClair:
-    .string "小椿......\p"
+    .string "小椿……\p"
     .string "好好反省一下，这孩子所拥有的，而\n"
     .string "你所欠缺的究竟是什么吧。$"
 
@@ -386,7 +386,7 @@ DragonsDen_Shrine_Text_SilverIsInTraining:
     .string "有个年纪和你相仿的少年正在这里修\n"
     .string "行。\p"
     .string "他很像小椿小时候的样子，真让人有\n"
-    .string "点担心呢......$"
+    .string "点担心呢……$"
 
 DragonsDen_Shrine_EventScript_Elder2::
 	msgbox DragonsDen_Shrine_Text_Elder2, MSGBOX_NPC
@@ -446,7 +446,7 @@ DragonsDen_Shrine_EventScript_ElderAlreadyGotDratini::
 	end
 
 DragonsDen_Shrine_Text_TakeThisDratini:
-    .string "嗯......很高兴能在这里见到\n"
+    .string "嗯……很高兴能在这里见到\n"
     .string "你。\p"
     .string "你来得正好。\p"
     .string "我有样东西要交给你。\p"

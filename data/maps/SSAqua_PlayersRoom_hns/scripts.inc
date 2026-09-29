@@ -22,5 +22,5 @@ SSAquaRooms_Text_TakeRestOnBed_PokecenterChallenge:
 	.string "抱歉，你正在进行宝可梦中心挑战！$"
 
 SSAquaRooms_Text_TakeRestOnBed:
-	.string "这里有张床......好好休息一\n"
+	.string "这里有张床……好好休息一\n"
 	.string "下吧。$"

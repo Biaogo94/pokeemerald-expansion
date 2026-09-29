@@ -29,6 +29,6 @@ CeladonMansionRoof_Text_Fisher:
 	.string "只有青烟了吧！$"
 
 CeladonMansionRoof_Text_Graffiti:
-	.string "墙上有涂鸦......\p"
+	.string "墙上有涂鸦……\p"
 	.string "{PLAYER}给它添了两撇小胡\n"
 	.string "子！$"

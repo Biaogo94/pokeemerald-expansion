@@ -154,13 +154,13 @@ OlivineCity_Gym_EventScript_MoveRight4::
 	return
 
 OlivineCity_Gym_Text_Lass:
-	.string "嘻嘻......在灯塔那时，我就\n"
+	.string "嘻嘻……在灯塔那时，我就\n"
 	.string "已经见识过你的实力了。\p"
 	.string "现在就去向阿蜜展示你真正的实力吧\n"
 	.string "！祝你好运！$"
 
 OlivineCity_Gym_Text_Lass2:
-	.string "你真厉害......既然有这等潜\n"
+	.string "你真厉害……既然有这等潜\n"
 	.string "力，就应该向着更高的目标迈进。\p"
 	.string "你去过卡吉镇了吗？$"
 
@@ -278,7 +278,7 @@ OlivineCity_Gym_Text_JasmineSteelTypeIntro:
 	.string "……那么，可以开始了吗？$"
 
 OlivineCity_Gym_Text_JasmineBetterTrainer:
-	.string "......无论是实力还是温柔的\n"
+	.string "……无论是实力还是温柔的\n"
 	.string "心，你都比我更胜一筹。\p"
 	.string "依照联盟的规则，我将这枚徽章授予\n"
 	.string "你。$"
@@ -288,16 +288,16 @@ OlivineCity_Gym_Text_ReceivedMineralBadge:
 
 OlivineCity_Gym_Text_JasmineBadgeSpeech:
 	.string "钢铁徽章能提升宝可梦的特防。\p"
-	.string "......那个......这个\n"
-	.string "也请收下吧......$"
+	.string "……那个……这个\n"
+	.string "也请收下吧……$"
 
 OlivineCity_Gym_Text_JasmineIronTailSpeech:
-	.string "......使用那张招式学习器，\n"
+	.string "……使用那张招式学习器，\n"
 	.string "可以学会“铁尾”。$"
 
 OlivineCity_Gym_Text_JasmineGoodLuck:
-	.string "那个......虽然不知道该怎么\n"
-	.string "说，但请加油哦......$"
+	.string "那个……虽然不知道该怎么\n"
+	.string "说，但请加油哦……$"
 
 OlivineCity_Gym_Text_JasmineRematchText:
 	.string "……恭喜你，城都的冠军。\p"
@@ -307,7 +307,7 @@ OlivineCity_Gym_Text_JasmineRematchText:
 	.string "再和我较量一场，好吗？$"
 
 OlivineCity_Gym_Text_JasmineRematchDefeatText:
-	.string "......无论是实力还是温柔的\n"
+	.string "……无论是实力还是温柔的\n"
 	.string "心，你都比我更胜一筹。$"
 
 OlivineCity_Gym_EventScript_Statue::
@@ -360,8 +360,8 @@ OlivineCity_Gym_EventScript_JasmineTradeCompleted::
 	end
 
 OlivineCity_Gym_Text_JasmineWantToTrade:
-	.string "......那个，\n"
-	.string "{PLAYER}......我有\l"
+	.string "……那个，\n"
+	.string "{PLAYER}……我有\l"
 	.string "件事想拜托你。\p"
 	.string "这只大钢蛇，是从它还是大岩蛇的时\n"
 	.string "候我就一直培育着的。\p"
@@ -371,13 +371,13 @@ OlivineCity_Gym_Text_JasmineWantToTrade:
 	.string "铁吗？$"
 
 OlivineCity_Gym_Text_JasmineTakeCare:
-	.string "......谢谢你。请好好善待小\n"
-	.string "铁......$"
+	.string "……谢谢你。请好好善待小\n"
+	.string "铁……$"
 
 OlivineCity_Gym_Text_JasmineDeclineTrade:
-	.string "......啊......没关系\n"
-	.string "的。我能理解......$"
+	.string "……啊……没关系\n"
+	.string "的。我能理解……$"
 
 OlivineCity_Gym_Text_JasmineTradeCompleted:
-	.string "......小铁它过得还好吗？希\n"
-	.string "望能得到你的悉心照料......$"
+	.string "……小铁它过得还好吗？希\n"
+	.string "望能得到你的悉心照料……$"

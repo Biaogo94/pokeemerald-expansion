@@ -60,7 +60,7 @@ PewterCity_PokemonCenter_Text_TakeCare:
 	.string "{STR_VAR_1}哦！$"
 
 PewterCity_PokemonCenter_Text_DeclineTrade:
-	.string "不行吗？真遗憾......我觉得\n"
+	.string "不行吗？真遗憾……我觉得\n"
 	.string "你应该会喜欢我的鬼斯通呢。$"
 
 PewterCity_PokemonCenter_Text_NotRequestedMon:

@@ -63,7 +63,7 @@ GoldenrodDeptStore5_EventScript_Receptionist_Already::
 	end
 
 GoldenrodDeptStore_Text_5FReceptionistOhYourMon:
-    .string "你好呀。哎呀，你的宝可梦....\n"
+    .string "你好呀。哎呀，你的宝可梦……\n"
     .string "..$"
 
 GoldenrodDeptStore_Text_5FReceptionistWait:
@@ -71,7 +71,7 @@ GoldenrodDeptStore_Text_5FReceptionistWait:
     .string "你了吗！$"
 
 GoldenrodDeptStore_Text_5FReceptionistPutInSomeMoreEffort:
-	.string "嗯......说不上差，但也谈不\n"
+	.string "嗯……说不上差，但也谈不\n"
 	.string "上好。\p"
 	.string "作为训练家，你还需要再多加努力才\n"
 	.string "行。$"

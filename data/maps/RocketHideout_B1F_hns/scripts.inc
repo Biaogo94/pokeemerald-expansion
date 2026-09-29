@@ -248,7 +248,7 @@ RocketHideout_B1F_Text_CameraGrunt1Seen:
     .string "喂！有入侵者！$"
 
 RocketHideout_B1F_Text_CameraGrunt1Beaten:
-    .string "可恶......我搞砸了....\n"
+    .string "可恶……我搞砸了……\n"
     .string "..$"
 
 RocketHideout_B1F_Text_CameraGrunt2Seen:
@@ -270,7 +270,7 @@ RocketHideout_B1F_Text_ScientistJedSeen:
     .string "你这种入侵者。$"
 
 RocketHideout_B1F_Text_ScientistJedBeaten:
-    .string "我服了......$"
+    .string "我服了……$"
 
 RocketHideout_B1F_Text_ScientistJedAfter:
     .string "好吧，我就透露一个关于我们据点的\n"
@@ -312,7 +312,7 @@ RocketHideout_B1F_EventScript_Persian::
 	end
 
 RocketHideout_B1F_Text_SecurityCameraStatue:
-    .string "这是一座猫老大雕像......$"
+    .string "这是一座猫老大雕像……$"
 
 RocketHideout_B1F_EventScript_DummyPanel::
 	msgbox RocketHideout_B1F_Text_NothingThere, MSGBOX_SIGN
@@ -355,7 +355,7 @@ RocketHideout_B1F_EventScript_TurnOffSwitch::
 	end
 
 RocketHideout_B1F_Text_NothingThere:
-	.string "一块奇怪的地砖......什么也\n"
+	.string "一块奇怪的地砖……什么也\n"
 	.string "没有。$"
 
 RocketHideout_B1F_Text_SecretSwitch:

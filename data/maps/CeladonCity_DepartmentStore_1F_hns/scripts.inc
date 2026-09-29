@@ -29,7 +29,7 @@ CeladonDeptStore_Text_1FGentleman:
 
 CeladonDeptStore_Text_1FTeacher:
     .string "我还是第一次来这里。\p"
-    .string "这里好大啊......\p"
+    .string "这里好大啊……\p"
     .string "真怕自己会迷路。$"
 
 CeladonDeptStore_Text_1FDirectory:

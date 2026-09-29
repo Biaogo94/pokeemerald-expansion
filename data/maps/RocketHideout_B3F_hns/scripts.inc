@@ -99,8 +99,8 @@ RocketHideout_B3F_EventScript_RocketKO::
 	end
 
 RocketHideout_B3F_Text_B3FRocket:
-    .string "呜呃......那个穿披风的家伙\n"
-    .string "强得离谱......$"
+    .string "呜呃……那个穿披风的家伙\n"
+    .string "强得离谱……$"
 
 
 RocketHideout_B3F_Trigger_MurkrowStairs::
@@ -269,11 +269,11 @@ RocketHideout_B3F_EventScript_Item_HyperPotion::
 	end
 
 RocketHideout_B3F_Text_B3FLockedDoorNeedsPassword:
-    .string "门紧闭着......\p"
+    .string "门紧闭着……\p"
     .string "需要两个密码才能打开。$"
 
 RocketHideout_B3F_Text_B3FLockedDoorOpenSesame:
-    .string "门紧闭着......\p"
+    .string "门紧闭着……\p"
     .string "{PLAYER}输入了两个密码。\p"
     .string "门打开了！$"
 
@@ -281,7 +281,7 @@ RocketHideout_B3F_Text_Rival:
     .string "......\p"
     .string "我不是告诉过你，我要彻底摧毁火箭\n"
     .string "队吗？\p"
-    .string "......告诉我，那个带着龙宝\n"
+    .string "……告诉我，那个带着龙宝\n"
     .string "可梦、披着披风的家伙到底是谁？\p"
     .string "我的宝可梦完全不是他的对手。\p"
     .string "可最让我介意的是他说的话...\n"
@@ -567,7 +567,7 @@ RocketHideout_B3F_Text_PetrelIntro:
     .string "哈！$"
 
 RocketHideout_B3F_Text_PetrelDisbelief:
-    .string "......咦？声音一点都不像坂\n"
+    .string "……咦？声音一点都不像坂\n"
     .string "木老大？\p"
     .string "连长相都完全不像？怎么会？！我明\n"
     .string "明那么努力去模仿他了！$"
@@ -585,15 +585,15 @@ RocketHideout_B3F_Text_PetrelReveal:
     .string "打开。它只认我的声音！$"
 
 RocketHideout_B3F_Text_PetrelBeaten:
-    .string "我......我竟然毫无还手之力\n"
+    .string "我……我竟然毫无还手之力\n"
     .string "......\p"
-    .string "坂木老大，请原谅我......$"
+    .string "坂木老大，请原谅我……$"
 
 RocketHideout_B3F_Text_PetrelAfterBattle:
     .string "拉姆达：自从三年前解散火箭队之后\n"
     .string "，我们的坂木老大就一直下落不明。\p"
     .string "但我们坚信，他一定是在等待让我们\n"
-    .string "东山再起的最佳时机......哇\l"
+    .string "东山再起的最佳时机……哇\l"
     .string "哈哈哈！\p"
     .string "虽然输给了你，但这改变不了你根本\n"
     .string "进不去发射机室的事实！\p"
@@ -614,10 +614,10 @@ RocketHideout_B3F_Text_MurkrowSpeak1:
 
 RocketHideout_B3F_Text_MurkrowMimic:
     .string "黑暗鸦正在模仿拉姆达的声音！\p"
-    .string "这样说不定就能......！？$"
+    .string "这样说不定就能……！？$"
 
 RocketHideout_B3F_Text_Murkrow:
-    .string "黑暗鸦：密码是......\p"
+    .string "黑暗鸦：密码是……\p"
     .string "坂木老大万岁。$"
 
 RocketHideout_B3F_Text_GruntF5Seen:
@@ -647,8 +647,8 @@ RocketHideout_B3F_Text_GruntM28Beaten:
 
 RocketHideout_B3F_Text_GruntM28After:
     .string "哎嘿嘿嘿！\p"
-    .string "老大房间的密码嘛......\p"
-    .string "呃......我想想，好像是拉达\n"
+    .string "老大房间的密码嘛……\p"
+    .string "呃……我想想，好像是拉达\n"
     .string "之尾。$"
 
 RocketHideout_B3F_Text_ScientistRossSeen:
@@ -662,7 +662,7 @@ RocketHideout_B3F_Text_ScientistRossBeaten:
     .string "...$"
 
 RocketHideout_B3F_Text_ScientistRossAfter:
-    .string "能让宝可梦陷入狂躁的电波....\n"
+    .string "能让宝可梦陷入狂躁的电波……\n"
     .string "..\p"
     .string "我的实验取得了彻底的成功。\p"
     .string "我的升职已成定局。输掉这一场根本\n"
@@ -677,5 +677,5 @@ RocketHideout_B3F_Text_ScientistMitchBeaten:
 
 RocketHideout_B3F_Text_ScientistMitchAfter:
     .string "要是把我们电波的功率调大，在全国\n"
-    .string "范围内进行广播......\p"
+    .string "范围内进行广播……\p"
     .string "光是想象一下就让人兴奋不已！$"

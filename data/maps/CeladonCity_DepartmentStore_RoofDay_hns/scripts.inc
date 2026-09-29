@@ -35,20 +35,20 @@ CeladonDeptStore6F_Text_Clang:
 	.string "掉出了{STRING}。$"
 
 CeladonDeptStore6F_Text_VendingNoMoney:
-	.string "哎呀，身上的钱不够......$"
+	.string "哎呀，身上的钱不够……$"
 
 CeladonDeptStore6F_Text_VendingNoSpace:
 	.string "背包里已经装不下更多东西了...\n"
 	.string "...$"
 
 CeladonDeptStore6F_Text_SuperNerd:
-	.string "带抽奖轮盘的自动售货机.....\n"
+	.string "带抽奖轮盘的自动售货机……\n"
 	.string ".\p"
 	.string "现在已经见不到了呢。$"
 
 CeladonDeptStore6F_Text_Youngster:
 	.string "啊--！这里根本没有游戏机啊！\p"
-	.string "我还想玩呢......$"
+	.string "我还想玩呢……$"
 
 CeladonDeptStore6F_Text_Directory:
 	.string "6楼：屋顶广场　自动售货机$"

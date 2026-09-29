@@ -634,14 +634,14 @@ BattleFrontier_BattlePikeRoomNormal_Movement_CameraPanDown_hns:
 	step_end
 
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreToFullHealth_hns:
-	.string "欢迎......你的好运真值得夸\n"
-	.string "奖......\p"
-	.string "现在将为你的宝可梦恢复所有活力.\n"
+	.string "欢迎……你的好运真值得夸\n"
+	.string "奖……\p"
+	.string "现在将为你的宝可梦恢复所有活力。\n"
 	.string ".....$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge_hns:
 	.string "祝你在接下来的对战水管挑战中玩得\n"
-	.string "开心......$"
+	.string "开心……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreOneMon_hns:
 	.string "啊，你真走运。我现在心情还算不错\n"
@@ -656,22 +656,22 @@ BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell_hns:
 @ Possibly replaced/superseded by the hard battle room, which is the same but the battle isnt optional
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_CareForBattleWillRestoreMons_hns:
-	.string "打扰一下......\p"
+	.string "打扰一下……\p"
 	.string "要和我对战一场吗？赢了的话，我就\n"
 	.string "为你的宝可梦恢复活力。$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_NowShallWe_hns:
-	.string "很好......那么，开始吧？$"
+	.string "很好……那么，开始吧？$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_HowUnsportingOfYou_hns:
-	.string "这样啊......你真冷淡啊..\n"
+	.string "这样啊……你真冷淡啊..\n"
 	.string "....$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreMonsAsPromised_hns:
-	.string "太精彩了......\p"
+	.string "太精彩了……\p"
 	.string "按照约定，我这就为你的宝可梦恢复\n"
 	.string "所有活力。$"
 
@@ -711,22 +711,22 @@ BattleFrontier_BattlePikeRoomNormal_Text_ThatsEnough_hns:
 	.string "喂！到此为止了！$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForKirlia_hns:
-	.string "我得向你道歉......\p"
+	.string "我得向你道歉……\p"
 	.string "我的奇鲁莉安性格十分“胆小”.\n"
 	.string ".....$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForDusclops_hns:
-	.string "我得向你道歉......\p"
+	.string "我得向你道歉……\p"
 	.string "我的彷徨夜灵性格十分“胆小”.\n"
 	.string ".....$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_AttacksWhenStartled_hns:
 	.string "如果被别人惊吓到，它就会在毫无征\n"
-	.string "兆的情况下发动攻击......\p"
+	.string "兆的情况下发动攻击……\p"
 	.string "你和你的宝可梦没事吧？$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeHopeMonsAreFine_hns:
-	.string "刚才的事真是对不起......希\n"
+	.string "刚才的事真是对不起……希\n"
 	.string "望你的宝可梦没有大碍。$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_Silence_hns:
@@ -734,54 +734,54 @@ BattleFrontier_BattlePikeRoomNormal_Text_Silence_hns:
 	.string "... ... ... ... ... ...$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_BattleSomewhatToughTrainer_hns:
-	.string "欢迎......\p"
+	.string "欢迎……\p"
 	.string "在这里，将由一位有些实力的训练家\n"
-	.string "做你的对手......$"
+	.string "做你的对手……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_RestoreToFullHealth_hns:
-	.string "太精彩了......\p"
+	.string "太精彩了……\p"
 	.string "为了表彰你的胜利，你的宝可梦将恢\n"
-	.string "复全部体力......$"
+	.string "复全部体力……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge_hns2_hns:
 	.string "祝你在接下来的对战水管挑战中玩得\n"
-	.string "开心......$"
+	.string "开心……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ImThePikeQueen_hns:
-	.string "我是小蓟......我就是这里的\n"
-	.string "法则......因为我是管子头领\l"
+	.string "我是小蓟……我就是这里的\n"
+	.string "法则……因为我是管子头领\l"
 	.string "......\p"
 	.string "你应该清楚，若想继续前进，就必须\n"
-	.string "打倒我......\p"
-	.string "......我可不喜欢闲聊。快点\n"
-	.string "，放马过来吧......$"
+	.string "打倒我……\p"
+	.string "……我可不喜欢闲聊。快点\n"
+	.string "，放马过来吧……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_HopeYouDidntUseUpLuck_hns:
-	.string "你的运气......但愿没有全用\n"
-	.string "光在这里......$"
+	.string "你的运气……但愿没有全用\n"
+	.string "光在这里……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyShowMeFrontierPass_hns:
 	.string "小蓟：.............\n"
-	.string ".....把开拓区通行证拿来..\l"
+	.string "……把开拓区通行证拿来..\l"
 	.string "....$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ReceivedLuckSymbol_hns:
 	.string "开拓区通行证上被刻上了运气象征！$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_AllThereIsDisappear_hns:
-	.string "......已经没事了.....\n"
-	.string ".快点消失吧......$"
+	.string "……已经没事了……\n"
+	.string ".快点消失吧……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyYouAgain_hns:
-	.string "小蓟：......又是你啊...\n"
+	.string "小蓟：……又是你啊...\n"
 	.string "...\p"
 	.string "..................\p"
-	.string "......我是一路斩断荆棘、历\n"
-	.string "经风暴才走到今天的......\p"
+	.string "……我是一路斩断荆棘、历\n"
+	.string "经风暴才走到今天的……\p"
 	.string "我可没有一而再、再而三输给同一个\n"
-	.string "对手的习惯......\p"
+	.string "对手的习惯……\p"
 	.string "................\n"
-	.string "..好吧......来战吧...\l"
+	.string "..好吧……来战吧...\l"
 	.string "...$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_NowComeOn_hns:
@@ -790,46 +790,46 @@ BattleFrontier_BattlePikeRoomNormal_Text_NowComeOn_hns:
 BattleFrontier_BattlePikeRoomNormal_Text_LucyFrontierPass_hns:
 	.string "小蓟：.............\n"
 	.string ".....\p"
-	.string "......开拓区通行证....\n"
+	.string "……开拓区通行证……\n"
 	.string "..$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LuckSymbolTookGoldenShine_hns:
 	.string "运气象征散发出金色的光芒！$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_IWontForget_hns:
-	.string "......你，我不会忘记的..\n"
-	.string "..........永远不会..\l"
+	.string "……你，我不会忘记的..\n"
+	.string "……永远不会..\l"
 	.string "....$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomNoHeal_hns:
-	.string "欢迎你的到来......\p"
-	.string "呵呵......看来你的运气不太\n"
-	.string "好呢......\p"
+	.string "欢迎你的到来……\p"
+	.string "呵呵……看来你的运气不太\n"
+	.string "好呢……\p"
 	.string "只要你没选这个房间，你的宝可梦本\n"
-	.string "来是可以恢复体力的......$"
+	.string "来是可以恢复体力的……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealOne_hns:
-	.string "欢迎你的到来......\p"
+	.string "欢迎你的到来……\p"
 	.string "既然你选择了这个房间，我就为你的\n"
-	.string "1只宝可梦恢复全部体力吧....\l"
+	.string "1只宝可梦恢复全部体力吧……\l"
 	.string "..$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealTwo_hns:
-	.string "欢迎你的到来......\p"
+	.string "欢迎你的到来……\p"
 	.string "既然你选择了这个房间，我就为你的\n"
-	.string "2只宝可梦恢复全部体力吧....\l"
+	.string "2只宝可梦恢复全部体力吧……\l"
 	.string "..$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreAllMons_hns:
-	.string "欢迎你的到来......\p"
-	.string "呵呵......你真该感谢幸运之\n"
-	.string "神的眷顾......\p"
+	.string "欢迎你的到来……\p"
+	.string "呵呵……你真该感谢幸运之\n"
+	.string "神的眷顾……\p"
 	.string "既然你选择了这个房间，你的所有宝\n"
-	.string "可梦都将恢复全部体力......$"
+	.string "可梦都将恢复全部体力……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ShallFetchOurMaster_hns:
-	.string "我这就去请我们的首领......$"
+	.string "我这就去请我们的首领……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreTwoMons_hns:
 	.string "哎呀，你真是个幸运儿！我现在心情\n"

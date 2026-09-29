@@ -15,5 +15,5 @@ RedsHouse_Text_NES:
 	.string "该出发了--可没时间磨蹭了！$"
 
 RedsHouse_Text_PC:
-	.string "看来已经很久没有人用过了....\n"
+	.string "看来已经很久没有人用过了……\n"
 	.string "..$"

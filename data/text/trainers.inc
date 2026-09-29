@@ -439,7 +439,7 @@ Route105_Text_PostBattle:
 	.string "诉你的！$"
 
 Route105_Text_ImaniIntro:
-	.string "蓝蓝的天空……辽阔的的大海……好\n"
+	.string "蓝蓝的天空……辽阔的大海……好\n"
 	.string "宁静……$"
 
 Route105_Text_ImaniDefeated:
@@ -1214,8 +1214,8 @@ Route111_Text_DustyRematchDefeat:
 Route111_Text_DustyPostRematch:
 	.string "三十年来，我一直在探寻古代遗迹！\p"
 	.string "不，等等，我已经找了四十年了吗？\p"
-	.string "嗯......甚至可能是五十年\n"
-	.string "......我到底从事这个多久\l"
+	.string "嗯……甚至可能是五十年\n"
+	.string "……我到底从事这个多久\l"
 	.string "了？$"
 
 Route111_Text_TravisIntro:
@@ -1938,7 +1938,7 @@ Route115_Text_KyraDefeat:
 Route115_Text_KyraPostBattle:
 	.string "我真不该犯糊涂一边跑步一边对战\n"
 	.string "的！\p"
-	.string "我得去跑两步冷静一下......$"
+	.string "我得去跑两步冷静一下……$"
 
 Route115_Text_JaidenIntro:
 	.string "接招吧！忍法——终极宝可梦之术！$"
@@ -3175,8 +3175,8 @@ Route123_Text_KindraDefeat:
 	.string "活力十足……$"
 
 Route123_Text_KindraPostBattle:
-	.string "送神火山......宝可梦灵魂长\n"
-	.string "眠之地......\p"
+	.string "送神火山……宝可梦灵魂长\n"
+	.string "眠之地……\p"
 	.string "这里一定洋溢着安抚灵魂的力量吧\n"
 	.string "......$"
 
@@ -3993,8 +3993,8 @@ Route131_Text_RichardDefeat:
 	.string "…$"
 
 Route131_Text_RichardPostBattle:
-	.string "哈啊......哈啊......\n"
-	.string "累死我了......\p"
+	.string "哈啊……哈啊……\n"
+	.string "累死我了……\p"
 	.string "来的时候容易，回去可就难了。\p"
 	.string "我还有力气踏上返程的路吗？$"
 

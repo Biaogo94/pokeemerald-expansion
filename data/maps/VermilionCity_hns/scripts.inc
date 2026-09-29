@@ -314,7 +314,7 @@ VermilionCity_Text_Eusine:
 	.string "但要在水面上奔跑，我可办不到啊。\p"
 	.string "不过，我开始摸清它的行踪规律了。\p"
 	.string "水君偏爱水边！\p"
-	.string "也就是说......$"
+	.string "也就是说……$"
 
 VermilionCity_Text_Eusine2:
 	.string "抱歉啦，{PLAYER}，我得先\n"
@@ -327,7 +327,7 @@ VermilionCity_Text_Teacher:
 
 VermilionCity_Text_MachopOwner:
 	.string "我的宝可梦正在整备土地准备施工。\p"
-	.string "但我根本没钱启动这个工程....\n"
+	.string "但我根本没钱启动这个工程……\n"
 	.string "..$"
 
 VermilionCity_Text_Machop1:
@@ -343,12 +343,12 @@ VermilionCity_Text_SuperNerd:
 	.string "。$"
 
 VermilionCity_Text_SnorlaxSleeping:
-	.string "卡比兽正香甜地打着呼噜.....\n"
+	.string "卡比兽正香甜地打着呼噜……\n"
 	.string ".$"
 
 VermilionCity_Text_RadioNearSnorlax:
 	.string "把宝可梦齿轮放到了睡着的卡比兽身\n"
-	.string "旁......\p"
+	.string "旁……\p"
 	.string "......\p"
 	.string "卡比兽醒过来了！$"
 
@@ -496,7 +496,7 @@ VermilionCity_Movement_StevenWalkToPlayer:
 VermilionCity_Text_StevenIntro:
 	.string "你好！我叫大吾。是来自丰缘地区的\n"
 	.string "冠军。\p"
-	.string "我们以前......见过面吗？\p"
+	.string "我们以前……见过面吗？\p"
 	.string "不可能吧。不过跟我对战过的训练家\n"
 	.string "，眼神看起来都差不多。\p"
 	.string "尤其是那些曾与我展开过恶战的训练\n"
@@ -569,7 +569,7 @@ VermilionCity_Text_Samson:
 	.string "抱歉啊小朋友，我赶时间！\p"
 	.string "13号道路前往群岛的渡轮马上就要\n"
 	.string "开了，我必须赶上它才行！\p"
-	.string "呼......呼......\p"
+	.string "呼……呼……\p"
 	.string "我可是一路从月见山跑过来的。\p"
 	.string "看到这个小玩意儿了吗？\p"
 	.string "我是在礼品店买到这个奇妙纪念物的\n"

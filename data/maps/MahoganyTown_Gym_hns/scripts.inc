@@ -148,7 +148,7 @@ MahoganyTown_Gym_Text_GlacierBadgeSpeech:
     .string "那枚徽章能提高宝可梦的特攻。\p"
     .string "它还能让你的宝可梦使用“潮旋”，\n"
     .string "穿过现实中的旋涡。\p"
-    .string "还有这个......这是老夫送你\n"
+    .string "还有这个……这是老夫送你\n"
     .string "的礼物！$"
 
 MahoganyTown_Gym_Text_HailSpeech:
@@ -223,7 +223,7 @@ MahoganyTown_Gym_Text_BoarderDouglasBeaten:
     .string "好吧，我就把柳伯的秘密告诉你。$"
 
 MahoganyTown_Gym_Text_BoarderDouglasAfter:
-    .string "柳伯强大的秘密就是......\p"
+    .string "柳伯强大的秘密就是……\p"
     .string "他每天都会在瀑布下冥想，以此来锻\n"
     .string "炼自己的身心。$"
 

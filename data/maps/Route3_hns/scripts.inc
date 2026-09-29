@@ -35,23 +35,23 @@ Route3_Text_FirebreatherOtis_Seen:
 	.string "啊！天气还是这么晴朗呢。$"
 
 Route3_Text_FirebreatherOtis_Beaten:
-	.string "虽然是大晴天，但我全身都湿透了.\n"
+	.string "虽然是大晴天，但我全身都湿透了。\n"
 	.string ".....$"
 
 Route3_Text_FirebreatherOtis_AfterBattle:
-	.string "一下雨，火就很难点起来了....\n"
+	.string "一下雨，火就很难点起来了……\n"
 	.string "..$"
 
 Route3_Text_YoungsterWarren_Seen:
-	.string "唔......我不知道该怎么办了\n"
+	.string "唔……我不知道该怎么办了\n"
 	.string "......$"
 
 Route3_Text_YoungsterWarren_Beaten:
-	.string "我就知道会输......$"
+	.string "我就知道会输……$"
 
 Route3_Text_YoungsterWarren_AfterBattle:
 	.string "你看起来很强。\p"
-	.string "我之前都不敢向你挑战呢.....\n"
+	.string "我之前都不敢向你挑战呢……\n"
 	.string ".$"
 
 Route3_Text_YoungsterJimmy_Seen:

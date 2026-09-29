@@ -121,18 +121,18 @@ EcruteakCity_Text_Silver1:
 	.string "咚！！$"
 
 EcruteakCity_Text_Silver2:
-	.string "{RIVAL}：怎么会.....\n"
+	.string "{RIVAL}：怎么会……\n"
 	.string ".？这怎么可能？我怎么可能会输给\l"
-	.string "区区的舞姬......？！$"
+	.string "区区的舞姬……？！$"
 
 EcruteakCity_Text_Silver3:
 	.string "{RIVAL}：\n"
-	.string "{PLAYER}......你一\l"
-	.string "直在看着我吧......\p"
+	.string "{PLAYER}……你一\l"
+	.string "直在看着我吧……\p"
 	.string "哼，你说得没错！\p"
 	.string "我真没想到要打败那5个舞妓居然会\n"
-	.string "这么难......\p"
-	.string "我被彻底打得落花流水......\p"
+	.string "这么难……\p"
+	.string "我被彻底打得落花流水……\p"
 	.string "......\p"
 	.string "你也是为了同样的目的才来这里的\n"
 	.string "吧？\p"
@@ -288,15 +288,15 @@ EcruteakCity_Text_Vulpix:
 
 
 EcruteakCity_Text_UnusedMissingDaughter:
-	.string "糟糕，这可怎么办......\p"
+	.string "糟糕，这可怎么办……\p"
 	.string "我的女儿不见了。\p"
-	.string "不会吧......她总不可能跑到\n"
+	.string "不会吧……她总不可能跑到\n"
 	.string "烧焦塔去了吧。\p"
-	.string "我跟她说过绝对不能靠近那里的.\n"
+	.string "我跟她说过绝对不能靠近那里的。\n"
 	.string ".....\p"
-	.string "听说那里经常有人失踪啊....\n"
+	.string "听说那里经常有人失踪啊……\n"
 	.string "..\p"
-	.string "唉，我到底该怎么办才好....\n"
+	.string "唉，我到底该怎么办才好……\n"
 	.string "..？$"
 
 EcruteakCity_Text_Gramps1:
@@ -314,7 +314,7 @@ EcruteakCity_Text_Lass1:
 	.string "起去吗？$"
 
 EcruteakCity_Text_Lass2:
-	.string "曾经伫立在这里的塔......\p"
+	.string "曾经伫立在这里的塔……\p"
 	.string "我奶奶说它过去可比现在高多了。\p"
 	.string "听说现在里面到处都是幽灵呢。$"
 
@@ -336,11 +336,11 @@ EcruteakCity_Text_Youngster:
 	.string "真想亲眼去看一看。$"
 
 EcruteakCity_Text_Gramps3:
-	.string "在很久很久以前......\p"
+	.string "在很久很久以前……\p"
 	.string "这座塔遭遇了一场大火，有3只无名\n"
 	.string "的宝可梦在火灾中丧命了。\p"
 	.string "一只彩虹色的宝可梦从天而降，赋予\n"
-	.string "了它们新生......\p"
+	.string "了它们新生……\p"
 	.string "这是圆朱道馆馆主代代相传的传说。\p"
 	.string "你问我？\p"
 	.string "老夫年轻时也曾是一名训练家呢。吼\n"

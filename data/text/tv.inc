@@ -1111,11 +1111,11 @@ SmartShopper_Text_DuringSale::
 	.string "次精明的购物。$"
 
 SmartShopper_Text_OutroNormal::
-	.string "记者：嗯......\n"
+	.string "记者：嗯……\n"
 	.string "{STR_VAR_1}听起来真是\l"
 	.string "个精打细算的购物达人呢！\p"
 	.string "{STR_VAR_1}采购的总金\n"
-	.string "额竟然达到了......\p"
+	.string "额竟然达到了……\p"
 	.string "¥{STR_VAR_2}？！真是\n"
 	.string "个惊人的数字！\p"
 	.string "哎呀！时间到了！下期节目再见啦！$"
@@ -1279,7 +1279,7 @@ TrendWatcher_Text_Intro::
 	.string "没有流行起来嘛。\p"
 	.string "你想听听这是怎么回事吗？\p"
 	.string "MC：呃，不用了。我们想知道的是\n"
-	.string "当下正在流行的东西......$"
+	.string "当下正在流行的东西……$"
 
 @ Identical to below, may have been different in other languages
 TrendWatcher_Text_MaleTaughtMePhrase::
@@ -1303,9 +1303,9 @@ TrendWatcher_Text_PhraseWasHopeless::
 	.string "我可是拼了命地教大家，然而..\n"
 	.string "....\p"
 	.string "也许“{STR_VAR_1}”这\n"
-	.string "部分就是不太对劲吧......\p"
+	.string "部分就是不太对劲吧……\p"
 	.string "MC：呃，打扰一下，老哥，我需要\n"
-	.string "知道的是现在流行什么......$"
+	.string "知道的是现在流行什么……$"
 
 @ Identical to below, may have been different in other languages
 TrendWatcher_Text_MaleTellMeBigger::
@@ -1321,12 +1321,12 @@ TrendWatcher_Text_FemaleTellMeBigger::
 	.string "行语！$"
 
 TrendWatcher_Text_Outro::
-	.string "MC：......呃......\n"
+	.string "MC：……呃……\n"
 	.string "各位走在时尚前沿的潮人朋友们，你\l"
 	.string "们都听到了！\p"
 	.string "{STR_VAR_1}\n"
 	.string "{STR_VAR_2}....\l"
-	.string "..呃......在武斗镇根本就\l"
+	.string "..呃……在武斗镇根本就\l"
 	.string "没火起来！\p"
 	.string "节目时间到了，咱们下期再会！\p"
 	.string "老爷爷：{STR_VAR_1}\n"
@@ -2059,7 +2059,7 @@ gTVWhatsNo1InHoennTodayText01::
 	.string "在玩的时候，有人听到\n"
 	.string "{STR_VAR_1}喃喃自语\l"
 	.string "道：“对我来说，转盘根本就没在动\l"
-	.string "嘛......”这可真有意思不是\l"
+	.string "嘛……”这可真有意思不是\l"
 	.string "吗？$"
 
 gTVWhatsNo1InHoennTodayText02::
@@ -2218,7 +2218,7 @@ TVSecretBaseSecrets_Text_UsedGlassOrnament::
 	.string "参观者正在端详一件玻璃装饰品！\p"
 	.string "噢，糟糕！\p"
 	.string "参观者伸手摸了！\p"
-	.string "上面沾满了指纹......$"
+	.string "上面沾满了指纹……$"
 
 TVSecretBaseSecrets_Text_UsedTV::
 	.string "访客正在看电视！\p"

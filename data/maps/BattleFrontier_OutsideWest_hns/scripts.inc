@@ -278,7 +278,7 @@ BattleFrontier_OutsideWest_Text_MayISeeYourTicket_hns:
 	.string "船票。$"
 
 BattleFrontier_OutsideWest_Text_MustHaveTicketToBoard_hns:
-	.string "{PLAYER}没有船票....\n"
+	.string "{PLAYER}没有船票……\n"
 	.string "..\p"
 	.string "非常抱歉。\p"
 	.string "必须持有船票才能乘渡轮。$"
@@ -305,7 +305,7 @@ BattleFrontier_OutsideWest_Text_ThenWhereWouldYouLikeToGo_hns:
 
 BattleFrontier_OutsideWest_Text_BestOutOfAllMyFriends_hns:
 	.string "我在朋友当中明明是最强的，可在这\n"
-	.string "里......根本不堪一击！$"
+	.string "里……根本不堪一击！$"
 
 BattleFrontier_OutsideWest_Text_CantFindBattleTower_hns:
 	.string "我想去对战塔，可哪怕拿着对战开拓\n"
@@ -314,7 +314,7 @@ BattleFrontier_OutsideWest_Text_CantFindBattleTower_hns:
 
 BattleFrontier_OutsideWest_Text_GotSeasickOnWayHere_hns:
 	.string "我本来打算一到这里就去挑战的。\p"
-	.string "可路上晕船晕得厉害......呕\n"
+	.string "可路上晕船晕得厉害……呕\n"
 	.string "......$"
 
 BattleFrontier_OutsideWest_Text_OnlyToughTrainersBroughtHere_hns:
@@ -325,13 +325,13 @@ BattleFrontier_OutsideWest_Text_OnlyToughTrainersBroughtHere_hns:
 	.string "拓区都不知道呢。$"
 
 BattleFrontier_OutsideWest_Text_SureWeCanChallengeWithNoMons_hns:
-	.string "喂，哥......\p"
+	.string "喂，哥……\p"
 	.string "就算一只宝可梦都没有，真的也能挑\n"
 	.string "战吗？$"
 
 BattleFrontier_OutsideWest_Text_BigGuySaidIllLendYouMons_hns:
-	.string "呃......应该没问题的吧。\p"
-	.string "大概......\p"
+	.string "呃……应该没问题的吧。\p"
+	.string "大概……\p"
 	.string "不过你还记得那个很凶的大叔吗？他\n"
 	.string "说：“我可以借你们宝可梦！”$"
 
@@ -343,10 +343,10 @@ BattleFrontier_OutsideWest_Text_WhosRaisingThoseRentalMons_hns:
 
 BattleFrontier_OutsideWest_Text_ScaredOfPikeBecauseSeviper_hns:
 	.string "因为饭匙蛇的关系，我很害怕进对战\n"
-	.string "管道......\p"
+	.string "管道……\p"
 	.string "但、但我大老远来了这里，就一定要\n"
-	.string "制霸所有设施！......瑟瑟发\l"
-	.string "抖......$"
+	.string "制霸所有设施！……瑟瑟发\l"
+	.string "抖……$"
 
 BattleFrontier_OutsideWest_Text_LetsPlayRockPaperScissors_hns:
 	.string "来玩石头剪刀布吧！石头、剪子、布\n"
@@ -358,7 +358,7 @@ BattleFrontier_OutsideWest_Text_WonIllTakePikeChallenge_hns:
 	.string "！$"
 
 BattleFrontier_OutsideWest_Text_LostIllPutOffPikeChallenge_hns:
-	.string "哎呀......我输了。\p"
+	.string "哎呀……我输了。\p"
 	.string "看来我今天的运气不怎么样。挑战对\n"
 	.string "战管道的事，还是推迟到明天吧。$"
 
@@ -397,22 +397,22 @@ BattleFrontier_OutsideWest_Text_FinallyArrivedAtFrontier_hns:
 	.string "的！$"
 
 BattleFrontier_OutsideWest_Text_SquareFilledWithToughPeople_hns:
-	.string "嚼，嚼......\p"
+	.string "嚼，嚼……\p"
 	.string "这个广场上看起来满是厉害的家伙啊\n"
 	.string "。\p"
-	.string "嚼，嚼......$"
+	.string "嚼，嚼……$"
 
 BattleFrontier_OutsideWest_Text_MetOlderGirlAtPike_hns:
-	.string "咔嚓，嚼嚼......\p"
+	.string "咔嚓，嚼嚼……\p"
 	.string "前阵子，我在对战管子遇到了一位大\n"
 	.string "姐姐。\p"
 	.string "她的眼神非常凶恶，透着一股狠劲。\p"
-	.string "咔嚓，嚼嚼......\p"
+	.string "咔嚓，嚼嚼……\p"
 	.string "她气得大喊：“你给我别吃了！”然\n"
 	.string "后就把我暴揍了一顿。\p"
 	.string "那可真是一段让人毛骨悚然的恐怖经\n"
 	.string "历啊。\p"
-	.string "咔嚓，嚼嚼......$"
+	.string "咔嚓，嚼嚼……$"
 
 BattleFrontier_OutsideWest_Text_LastTimeOurEyesMet_hns:
 	.string "哈？听听你说的什么话！那根本不算\n"
@@ -435,7 +435,7 @@ BattleFrontier_OutsideWest_Text_DomeAceIsMine_hns:
 	.string "像！$"
 
 BattleFrontier_OutsideWest_Text_FansOverThereUsedToBeTrainers_hns:
-	.string "在那边吵架的那些人......\p"
+	.string "在那边吵架的那些人……\p"
 	.string "虽然难以置信，但她们以前也是训练\n"
 	.string "家，而且相当厉害呢。\p"
 	.string "曾经不仅实力超强，还很有名气。\p"
@@ -451,7 +451,7 @@ BattleFrontier_OutsideWest_Text_MonWithLongTailInFrontier_hns:
 	.string "我听到传闻，说有人在对战开拓区的\n"
 	.string "某个地方见到了尾巴特别长的宝可梦\l"
 	.string "。\p"
-	.string "肯定非常可爱。我敢肯定.....\n"
+	.string "肯定非常可爱。我敢肯定……\n"
 	.string ".\p"
 	.string "哎呀，挑战的事先放一边。我忍不住\n"
 	.string "想要去找找那个惹人怜爱的家伙了！$"

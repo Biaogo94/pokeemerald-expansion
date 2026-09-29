@@ -460,9 +460,9 @@ BattleFrontier_BattleFactoryLobby_Text_NeedKnowledgeOfMonsMoves_hns:
 	.string "，是很难一路赢下去的。$"
 
 BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon_hns:
-	.string "我换了只很弱的宝可梦......\n"
-	.string "我本来还以为它很强呢......\p"
-	.string "结果被打得落花流水......$"
+	.string "我换了只很弱的宝可梦……\n"
+	.string "我本来还以为它很强呢……\p"
+	.string "结果被打得落花流水……$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedToCheckOpponentsMons_hns:
 	.string "事情完全没按我的设想发展。\p"

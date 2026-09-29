@@ -20,7 +20,7 @@ MahoganyTown_House1_EventScript_TeacherDuring::
 MahoganyRedGyaradosHouse_Text_BlackBelt:
     .string "我听说湖里出现了红色的暴鲤龙。\p"
     .string "这可真奇怪，因为那个湖里就连普通\n"
-    .string "的暴鲤龙都很少见呢......$"
+    .string "的暴鲤龙都很少见呢……$"
 
 MahoganyRedGyaradosHouse_Text_Teacher:
     .string "我最喜欢的广播节目？那当然是宝可\n"

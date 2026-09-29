@@ -36,8 +36,8 @@ LavenderTown_PokemonCenter1F_Text_Teacher:
 
 LavenderTown_PokemonCenter1F_Text_Youngster:
 	.string "如果发电厂不运转，磁悬浮列车就跑\n"
-	.string "不起来......\p"
-	.string "而且广播电台也没法进行广播了.\n"
+	.string "不起来……\p"
+	.string "而且广播电台也没法进行广播了。\n"
 	.string ".....$"
 
 LavenderTown_PokemonCenter1F_Text_Youngster_ReturnedMachinePart:

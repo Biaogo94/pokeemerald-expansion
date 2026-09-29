@@ -71,9 +71,9 @@ TrainerHill_Roof_hns_Text_YouFinallyCameBravo:
 	.string "等等！别说！我知道你一个人千里迢\n"
 	.string "迢跑到这里来是为了什么！\p"
 	.string "你想见我，训练家之丘的主人，是因\n"
-	.string "为......\p"
+	.string "为……\p"
 	.string "你想和我组队双打对吧！哇呼--！\p"
-	.string "......咦？不是吗？\p"
+	.string "……咦？不是吗？\p"
 	.string "不管怎样，你一路打上来的英姿我都\n"
 	.string "看到了。真是精彩绝伦的对战！太棒\l"
 	.string "了！$"
@@ -96,7 +96,7 @@ TrainerHill_Roof_hns_Text_GotHereMarvelouslyQuickly:
 	.string "计时板上的成绩！$"
 
 TrainerHill_Roof_hns_Text_YouWerentVeryQuick:
-	.string "不过，哎呀......你赶到这里\n"
+	.string "不过，哎呀……你赶到这里\n"
 	.string "的时间并不算快呢。$"
 
 TrainerHill_Roof_hns_Text_ArriveZippierNextTime:

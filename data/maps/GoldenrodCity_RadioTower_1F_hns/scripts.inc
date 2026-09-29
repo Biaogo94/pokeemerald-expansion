@@ -49,7 +49,7 @@ RadioTower1F_Text_Whitney1::
 	.string "小茜：嗨！\p"
 	.string "我叫小茜！\p"
 	.string "我听说这里有答题赢取广播卡的活动\n"
-	.string "，就赶过来参加了......\p"
+	.string "，就赶过来参加了……\p"
 	.string "但这问答也太难了吧！$"
 
 RadioTower1F_Text_Whitney2::
@@ -234,12 +234,12 @@ RadioTower1F_Text_GruntM3Seen:
     .string "就让你们见识一下我们的厉害！$"
 
 RadioTower1F_Text_GruntM3Beaten:
-    .string "太强了！老大，对不起......$"
+    .string "太强了！老大，对不起……$"
 
 RadioTower1F_Text_GruntM3After:
-    .string "你太强了......\p"
+    .string "你太强了……\p"
     .string "这样下去我们的计划会被破坏的。我\n"
-    .string "得去警告其他人......$"
+    .string "得去警告其他人……$"
 
 RadioTower1F_Text_Directory:
     .string "1楼 前台2楼 营业部\p"

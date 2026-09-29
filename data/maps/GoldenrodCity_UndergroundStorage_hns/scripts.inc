@@ -53,7 +53,7 @@ RadioTowerBasement_Text_GruntM24Seen:
     .string "！$"
 
 RadioTowerBasement_Text_GruntM24Beaten:
-    .string "被解决掉的反倒是我......$"
+    .string "被解决掉的反倒是我……$"
 
 RadioTowerBasement_Text_GruntM24After:
     .string "火箭队会一直坚持下去，等待坂木老\n"
@@ -69,7 +69,7 @@ RadioTowerBasement_Text_GruntM14Beaten:
     .string "可恶啊！$"
 
 RadioTowerBasement_Text_GruntM14After:
-    .string "我输了......\p"
+    .string "我输了……\p"
     .string "坂木老大，请原谅我！$"
 
 RadioTowerBasement_Text_GruntM15Seen:
@@ -105,5 +105,5 @@ RadioTowerBasement_Text_DirectorAfter:
     .string "他们甚至可能用特殊的电波来操纵宝\n"
     .string "可梦！\p"
     .string "我现在只能求助于你了。\p"
-    .string "求求你救救广播电台......\p"
+    .string "求求你救救广播电台……\p"
     .string "还有全国所有的宝可梦吧！$"

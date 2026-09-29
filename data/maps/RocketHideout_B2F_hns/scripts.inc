@@ -254,7 +254,7 @@ RocketHideout_B2F_Text_ArianaChallenge:
     .string "一直胡作非为下去。\p"
     .string "这样下去，火箭队的威信迟早会被一\n"
     .string "点点消磨殆尽的，你明白吗？\p"
-    .string "......所以，是时候做个了结\n"
+    .string "……所以，是时候做个了结\n"
     .string "了。不管你有多强，\p"
     .string "要是我们两个一起上的话，你可就没\n"
     .string "有半分胜算了哦。对吧？\p"
@@ -596,8 +596,8 @@ RocketHideout_Text_ArianaRetreat:
     .string "我们有更加宏大的计划。火箭队真正\n"
     .string "的可怕之处，你们很快就会切身体会\l"
     .string "到了。\p"
-    .string "趁现在好好得意一阵吧......\n"
-    .string "嘻嘻嘻......$"
+    .string "趁现在好好得意一阵吧……\n"
+    .string "嘻嘻嘻……$"
 
 RocketHideout_Text_LanceStepBack:
     .string "抱歉啊，{PLAYER}。我看你\n"
@@ -609,13 +609,13 @@ RocketHideout_Text_LanceStepBack:
 
 RocketHideout_B2F_Text_LanceElectrodeFaint:
     .string "引发一切问题的就是这台机器。\p"
-    .string "上面好像没有电源开关......\p"
+    .string "上面好像没有电源开关……\p"
     .string "没办法了，看来我们只能把所有的顽\n"
     .string "皮雷弹都打倒才行。\p"
     .string "这样应该就能阻止这台机器继续发射\n"
     .string "诡异的电波了。\p"
     .string "虽说宝可梦本身并没有错，这么做实\n"
-    .string "在让人过意不去......\p"
+    .string "在让人过意不去……\p"
     .string "{PLAYER}，我们分头行动\n"
     .string "吧。$"
 
@@ -770,14 +770,14 @@ RocketHideout_B2F_Text_GruntM18Seen:
     .string "但不得不把你彻底收拾掉了。$"
 
 RocketHideout_B2F_Text_GruntM18Beaten:
-    .string "我就知道会输......$"
+    .string "我就知道会输……$"
 
 RocketHideout_B2F_Text_GruntM18After:
     .string "我上次出任务的时候，也是被一个小\n"
     .string "鬼给狠狠痛扁了一顿。\p"
     .string "当时我们在强抢宝可梦，一个留着红\n"
     .string "长发、眼神凶恶的小鬼直接把我给收\l"
-    .string "拾了......$"
+    .string "拾了……$"
 
 RocketHideout_B2F_EventScript_Grunt15::
 	trainerbattle_single TRAINER_GRUNT_15_HNS, RocketHideout_B2F_Text_GruntM18Seen, RocketHideout_B2F_Text_GruntM18Beaten
@@ -788,7 +788,7 @@ RocketHideout_B2F_Text_GruntM19Seen:
     .string "你这个可恶的讨厌鬼！$"
 
 RocketHideout_B2F_Text_GruntM19Beaten:
-    .string "可恶......$"
+    .string "可恶……$"
 
 RocketHideout_B2F_Text_GruntM19After:
     .string "哼，只有头领才知道那扇门的密码。\p"

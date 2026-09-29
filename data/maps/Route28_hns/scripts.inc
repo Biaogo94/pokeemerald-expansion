@@ -77,14 +77,14 @@ Route28_Text_Scientist:
 	.string "有天界之笛的踪影。\p"
 	.string "它可能在山里面，不过这里的野生宝\n"
 	.string "可梦实力很强，我的队伍需要休息一\l"
-	.string "下......\p"
+	.string "下……\p"
 	.string "..................\p"
-	.string "听不清你在说什么......老大\n"
+	.string "听不清你在说什么……老大\n"
 	.string "......？\p"
 	.string "我要去一趟宝可梦中心。\p"
 	.string "等我找到笛子再打给您。$"
 
 Route28_Text_Scientist2:
-	.string "......嘟--\p"
-	.string "神都的信号真是烂透了......$"
+	.string "……嘟--\p"
+	.string "神都的信号真是烂透了……$"
 

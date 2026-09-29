@@ -415,7 +415,7 @@ MatchCall_HNS_Tully_General3::
 	.string "对了，我打倒了一只野生的\n"
 	.string "{STR_VAR_3}哦。\p"
 	.string "它可真大啊，有这么大呢！\p"
-	.string "嘿嘿，在电话里好像比划不出来啊.\n"
+	.string "嘿嘿，在电话里好像比划不出来啊。\n"
 	.string ".....$"
 
 MatchCall_HNS_Tully_FoundItem::
@@ -448,7 +448,7 @@ MatchCall_HNS_Brent_General2::
 
 MatchCall_HNS_Brent_General3::
 	.string "喂，{PLAYER}！我是阿齐！\p"
-	.string "你知道吗......？\p"
+	.string "你知道吗……？\p"
 	.string "正辉老家原来是在满金市呢。\p"
 	.string "而且听说，正辉好像不太擅长对战。$"
 
@@ -509,7 +509,7 @@ MatchCall_HNS_Vance_General3::
 	.string "喂，{PLAYER}！我是阿翔！\p"
 	.string "我们能轻轻松松搞定\n"
 	.string "{STR_VAR_3}！\p"
-	.string "......咦？你也是吗？那不是\n"
+	.string "……咦？你也是吗？那不是\n"
 	.string "挺棒的嘛！$"
 
 MatchCall_HNS_Vance_Battle::
@@ -596,7 +596,7 @@ MatchCall_HNS_Parry_General3::
 	.string "哈哈，我们击倒了一只野生的\n"
 	.string "{STR_VAR_3}！\p"
 	.string "虽然挺过瘾的，但我本来还挺想收服\n"
-	.string "它的......$"
+	.string "它的……$"
 
 MatchCall_HNS_Parry_Battle::
 	.string "喂，{PLAYER}！我是佩里！\p"
@@ -616,7 +616,7 @@ MatchCall_HNS_Erin_General2::
 
 MatchCall_HNS_Erin_General3::
 	.string "嗨，{PLAYER}！我是艾琳！\p"
-	.string "还有还有......我刚才对战打\n"
+	.string "还有还有……我刚才对战打\n"
 	.string "倒了{STR_VAR_3}哦！\p"
 	.string "看来我有好好培育我的宝可梦！$"
 
@@ -631,7 +631,7 @@ MatchCall_HNS_Jack_General1::
 	.string "你的宝可梦最近怎么样？\p"
 	.string "我的{STR_VAR_3}好奇心\n"
 	.string "太强了，真是个伤脑筋的问题。\p"
-	.string "也许它随了我吧......$"
+	.string "也许它随了我吧……$"
 
 MatchCall_HNS_Jack_General2::
 	.string "喂，{PLAYER}！我是杰克！\p"
@@ -797,7 +797,7 @@ MatchCall_HNS_Reena_General1::
 	.string "你好啊，{PLAYER}。我是莉\n"
 	.string "娜。\p"
 	.string "喂，你的宝可梦状态如何？\p"
-	.string "什么？很好？这样啊......\p"
+	.string "什么？很好？这样啊……\p"
 	.string "什么？问我的宝可梦？\p"
 	.string "那当然是好得不得了啊！这是什么傻\n"
 	.string "问题？$"
@@ -805,7 +805,7 @@ MatchCall_HNS_Reena_General1::
 MatchCall_HNS_Reena_General2::
 	.string "你好啊，{PLAYER}。我是莉\n"
 	.string "娜。\p"
-	.string "我说你啊......\p"
+	.string "我说你啊……\p"
 	.string "还记得我的{STR_VAR_3}\n"
 	.string "吗？\p"
 	.string "没错，就是它。那只可爱的\n"
@@ -816,7 +816,7 @@ MatchCall_HNS_Reena_General3::
 	.string "你好啊，{PLAYER}。我是莉\n"
 	.string "娜。\p"
 	.string "可别因为侥幸赢了我一次就得意忘形\n"
-	.string "哦......\p"
+	.string "哦……\p"
 	.string "那纯粹只是侥幸罢了！$"
 
 MatchCall_HNS_Reena_Battle::
@@ -888,7 +888,7 @@ MatchCall_HNS_Trevor_Battle::
 
 @ Kyle - Fisherman, Route 12
 MatchCall_HNS_Kyle_General1::
-	.string "谁啊？！......咦，是我打过\n"
+	.string "谁啊？！……咦，是我打过\n"
 	.string "去的？\p"
 	.string "我是凯尔啦。可别给忘了！$"
 
@@ -1043,7 +1043,7 @@ MatchCall_HNS_Charles_General2::
 	.string "喂，{PLAYER}！\p"
 	.string "夜晚的单车道感觉真是别有一番风味\n"
 	.string "啊。\p"
-	.string "路灯的光影与拂面的夜风.....\n"
+	.string "路灯的光影与拂面的夜风……\n"
 	.string ".这就是自由啊！$"
 
 MatchCall_HNS_Charles_Battle::

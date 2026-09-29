@@ -132,7 +132,7 @@ Route42_Movement_Eusine2:
 	step_end
 
 Route42_Text_EusineAdmireSuicune:
-	.string "米那君：水君......它是多么\n"
+	.string "米那君：水君……它是多么\n"
 	.string "英武！\p"
 	.string "它是多么清澈！它是多么美丽！\p"
 	.string "而且它的身姿是何等迅捷！$"
@@ -144,13 +144,13 @@ Route42_Text_EusineJealous:
 	.string "不过，这也无所谓。我对追求水君的\n"
 	.string "那份执着，可是远远超越你的..\l"
 	.string "....\p"
-	.string "我爷爷曾经......对神话传说\n"
+	.string "我爷爷曾经……对神话传说\n"
 	.string "非常痴迷。\p"
 	.string "我从小就从他那里听过许多关于水君\n"
 	.string "的故事。$"
 
 Route42_Text_EusineWontGiveUp:
-	.string "水君......在查明你的真正目\n"
+	.string "水君……在查明你的真正目\n"
 	.string "的之前，我是绝对不会放弃追踪你的\l"
 	.string "......\p"
 	.string "你听到了吗！$"
@@ -252,7 +252,7 @@ Route42_Text_PokemaniacShaneSeen:
 	.string "开！$"
 
 Route42_Text_PokemaniacShaneBeaten:
-	.string "早知道就用月之石了......$"
+	.string "早知道就用月之石了……$"
 
 Route42_Text_PokemaniacShaneAfter:
 	.string "你在收集宝可梦图鉴吗？\p"

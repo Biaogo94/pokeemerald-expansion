@@ -158,7 +158,7 @@ SinjohRuins_Text_StevenGotoStairs1:
 
 SinjohRuins_Text_StevenGotoStairs2:
     .string "{PLAYER}。我们已经解读出\n"
-    .string "其余的古代文字了......\p"
+    .string "其余的古代文字了……\p"
     .string "如果解读没有出错，在那座阶梯顶端\n"
     .string "的宝可梦，就是全宇宙最强大的存在\l"
     .string "。\p"
@@ -347,7 +347,7 @@ SinjohRuins_Text_ChallengeSteven:
 	.string "就做好吃苦头的觉悟吧！$"
 
 SinjohRuins_Text_StevenDefeat:
-	.string "你......你已经做好了万全的\n"
+	.string "你……你已经做好了万全的\n"
 	.string "准备。$"
 
 SinjohRuins_EventScript_Steven::

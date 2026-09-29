@@ -83,10 +83,10 @@ CharcoalKiln_Text_Boss1:
 	.string "里吧。$"
 
 CharcoalKiln_Text_Boss2:
-	.string "呆呆兽们回来了......$"
+	.string "呆呆兽们回来了……$"
 
 CharcoalKiln_Text_Boss3:
-	.string "呆呆兽们回来了......\p"
+	.string "呆呆兽们回来了……\p"
 	.string "但我那学徒还没从桐树林回来。\p"
 	.string "那个懒鬼到底跑哪儿去了？$"
 

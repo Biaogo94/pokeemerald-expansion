@@ -101,11 +101,11 @@ Route35GoldenrodGate_Text_RandyWeirdTree:
 	.string "不知道现在挪开了没？$"
 
 Route35GoldenrodGate_Text_CantCarryMoreMon:
-	.string "你无法携带更多的宝可梦了....\n"
+	.string "你无法携带更多的宝可梦了……\n"
 	.string "..$"
 
 Route35GoldenrodGate_Text_RandyNeverMind:
-	.string "这样啊......那就算了吧..\n"
+	.string "这样啊……那就算了吧..\n"
 	.string "....$"
 
 Route35GoldenrodGate_Text_ThanksForDelivery:

@@ -395,7 +395,7 @@ Alola_Poni_TotemBattle_Text_0:
 
 Alola_Poni_TotemBattle_Text_1:
 	.string "霸主电击魔兽倒下了！它不知道逃窜\n"
-	.string "到哪里去了......$"
+	.string "到哪里去了……$"
 
 PoniIsle_hns_Movement_FacePlayerUpAfterTotemWarp:
 	face_up
@@ -421,7 +421,7 @@ Alola_Poni_Totem_sign_Text_4:
 
 Alola_Poni_Totem_sign_Text_5:
 	.string "这里伫立着一个奇异的图腾，正散发\n"
-	.string "出一股能量......$"
+	.string "出一股能量……$"
 
 Alola_Poni_BattleVsTapuFini_Text_0:
 	.string "菲咿--！$"
@@ -430,7 +430,7 @@ Alola_Poni_TrainerBattleSwimmer1_Text_0:
 	.string "水温变暖了，完全没问题！$"
 
 Alola_Poni_TrainerBattleSwimmer1_Text_1:
-	.string "哎呀，我忘了涂防晒霜......$"
+	.string "哎呀，我忘了涂防晒霜……$"
 
 Alola_Poni_TrainerBattleSwimmer1_Text_2:
 	.string "我游泳时遇到了好多超棒的宝可梦！\n"

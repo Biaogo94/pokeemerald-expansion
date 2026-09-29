@@ -67,7 +67,7 @@ BlackthornCity_MoveDeletersHouse_EventScript_LastMonWithSurf::
 	end
 
 BlackthornCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove:
-	.string "呃......噢，对了，我是招式\n"
+	.string "呃……噢，对了，我是招式\n"
 	.string "遗忘爷爷。\p"
 	.string "我能让宝可梦忘记它们学会的招式。\p"
 	.string "需要我帮忙吗？$"
@@ -80,7 +80,7 @@ BlackthornCity_MoveDeletersHouse_Text_WhichMoveShouldBeForgotten:
 
 BlackthornCity_MoveDeletersHouse_Text_MonOnlyKnowsOneMove:
 	.string "{STR_VAR_1}只学会了一\n"
-	.string "个招式，所以无法遗忘......$"
+	.string "个招式，所以无法遗忘……$"
 
 BlackthornCity_MoveDeletersHouse_Text_MonsMoveShouldBeForgotten:
 	.string "嗯！要让{STR_VAR_1}遗\n"
@@ -196,7 +196,7 @@ BlackthornCity_MoveRelearnersHouse_Text_TeachWhichMove:
 	.string "要传授哪个招式呢？$"
 
 BlackthornCity_MoveRelearnersHouse_Text_DontHaveMoveToTeachPokemon:
-	.string "抱歉......\p"
+	.string "抱歉……\p"
 	.string "看来我没有能传授给这只宝可梦的招\n"
 	.string "式。$"
 

@@ -232,16 +232,16 @@ Route14_Text_Eusine:
 	.string "但在水君面前，我想做个光明磊落的\n"
 	.string "训练家！\p"
 	.string "所以，我就把线索也分享给你吧。\p"
-	.string "据说......水君喜欢高地..\n"
-	.string "....靠近水边......而且\l"
-	.string "在北方某个地方......\p"
+	.string "据说……水君喜欢高地..\n"
+	.string "……靠近水边……而且\l"
+	.string "在北方某个地方……\p"
 	.string "具体在哪里我现在还不知道。只有我\n"
 	.string "和你！\p"
 	.string "看谁能先找到它！我要向你发起挑战\n"
 	.string "！$"
 
 Route14_Text_PokefanmTrevorSeen:
-	.string "你好。你知道吗......？\p"
+	.string "你好。你知道吗……？\p"
 	.string "如果带宝可梦在它们有记忆的地方培\n"
 	.string "育，它们会变得更加亲密哦。$"
 
@@ -251,7 +251,7 @@ Route14_Text_PokefanmTrevorBeaten:
 
 Route14_Text_PokefanmTrevorAfterBattle:
 	.string "要是有个能轻松查出宝可梦是在哪儿\n"
-	.string "捕获的方法就好了......$"
+	.string "捕获的方法就好了……$"
 
 Route14_Text_TrevorRegister:
 	.string "你真有意思！能把电话号码告诉我吗\n"
@@ -262,7 +262,7 @@ Route14_Text_TrevorRematchIntro:
 	.string "起特训呢！$"
 
 Route14_Text_TrevorRematchDefeat:
-	.string "也许我该去些新地方了......$"
+	.string "也许我该去些新地方了……$"
 
 Route14_Text_TrevorPostRematch:
 	.string "亲密度能让宝可梦变得更强。我对此\n"
@@ -276,7 +276,7 @@ Route14_Text_PokefanmCarterBeaten:
 	.string "哇啊啊啊！$"
 
 Route14_Text_PokefanmCarterAfterBattle:
-	.string "小锯鳄、火球鼠、菊草叶.....\n"
+	.string "小锯鳄、火球鼠、菊草叶……\n"
 	.string ".\p"
 	.string "我觉得这是个搭配很均衡的组合。$"
 
@@ -289,7 +289,7 @@ Route14_Text_CarterRematchIntro:
 	.string "耀了！来对战吧！$"
 
 Route14_Text_CarterRematchDefeat:
-	.string "我宝贝的最初伙伴们......$"
+	.string "我宝贝的最初伙伴们……$"
 
 Route14_Text_CarterPostRematch:
 	.string "不同地区有好多最初的伙伴可以收集\n"
@@ -300,7 +300,7 @@ Route14_Text_BirdKeeperRoySeen:
 	.string "在天空中翱翔。$"
 
 Route14_Text_BirdKeeperRoyBeaten:
-	.string "做梦归做梦，可我根本飞不起来啊.\n"
+	.string "做梦归做梦，可我根本飞不起来啊。\n"
 	.string ".....$"
 
 Route14_Text_BirdKeeperRoyAfterBattle:

@@ -473,9 +473,9 @@ BattleFrontier_BattleArenaLobby_Text_RecordLastMatch_hns:
 	.string "记录在开拓对战手账上吗？$"
 
 BattleFrontier_BattleArenaLobby_Text_BadIdeaToNotAttack_hns:
-	.string "我在裁判的判定中输了......\p"
+	.string "我在裁判的判定中输了……\p"
 	.string "光用防御招式而不去攻击，看来真的\n"
-	.string "不是个好策略啊......$"
+	.string "不是个好策略啊……$"
 
 BattleFrontier_BattleArenaLobby_Text_LandingHitsWorked_hns:
 	.string "我靠裁判判定赢了！\p"

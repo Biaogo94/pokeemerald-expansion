@@ -25,7 +25,7 @@ Route1_Text_SchoolboyDanny_Seen:
 	.string "训练家相遇，第一件事当然是对战！$"
 
 Route1_Text_SchoolboyDanny_Beaten:
-	.string "呜呜......我的负场又增加了\n"
+	.string "呜呜……我的负场又增加了\n"
 	.string "......$"
 
 Route1_Text_SchoolboyDanny_AfterBattle:
@@ -36,7 +36,7 @@ Route1_Text_CooltrainerFQuinn_Seen:
 	.string "那边的！要不要来对战？$"
 
 Route1_Text_CooltrainerFQuinn_Beaten:
-	.string "彻底被打垮了......$"
+	.string "彻底被打垮了……$"
 
 Route1_Text_CooltrainerFQuinn_AfterBattle:
 	.string "你真强。\p"

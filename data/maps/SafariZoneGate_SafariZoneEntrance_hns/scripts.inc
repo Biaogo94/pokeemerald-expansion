@@ -238,7 +238,7 @@ SafariZoneGate_SafariZoneEntrance_Text_BaobaLastMon:
 SafariZoneGate_SafariZoneEntrance_Text_BaobaDone:
 	.string "啊，{PLAYER}！\p"
 	.string "多亏了你，狩猎地带现在蒸蒸日上！\p"
-	.string "也许我该任命你为狩猎地带的园长.\n"
+	.string "也许我该任命你为狩猎地带的园长。\n"
 	.string ".....\p"
 	.string "不，那也太荒唐了。哈哈哈哈！$"
 

@@ -290,7 +290,7 @@ SaffronStation_Movement_SlideLeft:
 	step_end
 
 SaffronMagnetTrainStation_Text_OfficerTrainHasntComeIn:
-    .string "电车还没来啊......\p"
+    .string "电车还没来啊……\p"
     .string "有了！不如由我来背着乘客跑吧！\p"
     .string "--怎么可能行得通嘛。$"
 
@@ -321,10 +321,10 @@ SaffronMagnetTrainStation_Text_GymGuide:
 	.string "磁力列车是用电力和磁力以惊人速度\n"
 	.string "飞驰的\p"
 	.string "超现代化铁路线路。\p"
-	.string "可是，要是没有电的话......$"
+	.string "可是，要是没有电的话……$"
 
 SaffronMagnetTrainStation_Text_GymGuide_ReturnedPart:
-	.string "呼......\p"
+	.string "呼……\p"
 	.string "我到底在关都和城都之间往返了多少\n"
 	.string "次呢？$"
 

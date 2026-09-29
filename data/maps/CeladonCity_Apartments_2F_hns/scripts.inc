@@ -18,7 +18,7 @@ CeladonMansion2F_Text_Computer:
 	.string "{PLAYER}打开了电脑。\p"
 	.string "......\p"
 	.string "有人正在写一封电子邮件。\p"
-	.string "......真希望你能来关都看看\n"
+	.string "……真希望你能来关都看看\n"
 	.string "。\p"
 	.string "我想这里的巨大变化一定会让你大吃\n"
 	.string "一惊。\p"
@@ -56,7 +56,7 @@ CeladonMansion2F_EventScript_DaniRainbow::
 
 CeladonMansion2F_Text_LilDill:
 	.string "嗨大家好，补丁15--\p"
-	.string "抱歉，口误了......\p"
+	.string "抱歉，口误了……\p"
 	.string "你好呀，我是游戏总监！\p"
 	.string "地图、图块集、脚本以及许多内容都\n"
 	.string "是由我制作的。\p"

@@ -136,12 +136,12 @@ Route39_Text_ChooseLegend::
 	.string "巴奥巴：我的天哪！刚才那个影子是\n"
 	.string "宝可梦吗？\p"
 	.string "你看清楚了吗？我都看不出它是什么\n"
-	.string "颜色的......$"
+	.string "颜色的……$"
 
 Route39_Text_BaobaIntro::
-	.string "真是不可思议......\p"
-	.string "......哦哦！你拿着的那个\n"
-	.string "......难道就是......\l"
+	.string "真是不可思议……\p"
+	.string "……哦哦！你拿着的那个\n"
+	.string "……难道就是……\l"
 	.string "宝可梦图鉴吗！\p"
 	.string "我真是好久都没见过了。\p"
 	.string "我叫巴奥巴！我以前在浅红市经营狩\n"
@@ -214,7 +214,7 @@ Route39_EventScript_Woman::
 	end
 
 Route39_Text_Woman:
-	.string "刚才那个影子......难道是只\n"
+	.string "刚才那个影子……难道是只\n"
 	.string "巨大的波波？$"
 
 Route39_EventScript_Miltank::
@@ -336,7 +336,7 @@ Route39_Text_PokefanFJaimeSeen:
 	.string "来对战吧。$"
 
 Route39_Text_PokefanFJaimeBeaten:
-	.string "哎，真让人失望......$"
+	.string "哎，真让人失望……$"
 
 Route39_Text_PokefanFJaimeAfter:
 	.string "我就是在夜里的这条39号道路上遇\n"

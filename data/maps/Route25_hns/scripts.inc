@@ -191,12 +191,12 @@ Route25_Trigger_SuicuneLeftLeft::
 	goto Route25_Trigger_SuicuneLeft
 
 Route25_Text_Eusine1:
-	.string "米那君：呼，呼......我..\n"
-	.string "....不是你的对手啊。\p"
-	.string "......果然不出我所料。..\n"
+	.string "米那君：呼，呼……我..\n"
+	.string "……不是你的对手啊。\p"
+	.string "……果然不出我所料。..\n"
 	.string "................\l"
 	.string "................\l"
-	.string "........你去吧。\p"
+	.string "……你去吧。\p"
 	.string "自从在圆朱市的烧焦塔遇见你起，我\n"
 	.string "就隐约预感到，水君一定会选择你。$"
 
@@ -207,11 +207,11 @@ Route25_Text_Eusine2:
 	.string "。$"
 
 Route25_Text_Eusine3:
-	.string "{PLAYER}......你们\n"
-	.string "两个真是太棒了......\p"
+	.string "{PLAYER}……你们\n"
+	.string "两个真是太棒了……\p"
 	.string "我从没见过如此激烈的对战！我已经\n"
-	.string "毫无遗憾了......\p"
-	.string "再见了，水君！再见了......\n"
+	.string "毫无遗憾了……\p"
+	.string "再见了，水君！再见了……\n"
 	.string "{PLAYER}！$"
 
 Route25_EventScript_Eusine::
@@ -388,8 +388,8 @@ Route25_Text_MistyDate:
 	.string "电灯泡！你没听错，就是讨人嫌的电\n"
 	.string "灯泡！\p"
 	.string "......\p"
-	.string "......咦？你身上的那些徽章\n"
-	.string "......是城都地区的道馆徽章\l"
+	.string "……咦？你身上的那些徽章\n"
+	.string "……是城都地区的道馆徽章\l"
 	.string "吗？\p"
 	.string "既然集齐了8枚，想必还挺有两下子\n"
 	.string "的嘛。\p"
@@ -431,7 +431,7 @@ Route25_Text_LassLauraSeen:
 	.string "我是第4位！开始觉得累了吗？$"
 
 Route25_Text_LassLauraBeaten:
-	.string "连我也输了......$"
+	.string "连我也输了……$"
 
 Route25_Text_LassLauraAfter:
 	.string "我已经尽力了。毫无遗憾。$"
@@ -451,13 +451,13 @@ Route25_Text_LassShannonSeen:
 	.string "可是很强的！$"
 
 Route25_Text_LassShannonBeaten:
-	.string "开玩笑的吧......$"
+	.string "开玩笑的吧……$"
 
 Route25_Text_LassShannonAfter:
 	.string "我已经尽力了。毫无遗憾。$"
 
 Route25_Text_SupernerdPatSeen:
-	.string "哼哼哼......\p"
+	.string "哼哼哼……\p"
 	.string "我可跟那6个训练家不是一伙的。\p"
 	.string "我一直埋伏在这里，就等你在连番激\n"
 	.string "战后筋疲力尽，再把你收拾掉！$"
@@ -466,7 +466,7 @@ Route25_Text_SupernerdPatBeaten:
 	.string "难道你一点都不累吗？！$"
 
 Route25_Text_SupernerdPatAfter:
-	.string "对不起......我再也不耍诈了\n"
+	.string "对不起……我再也不耍诈了\n"
 	.string "......$"
 
 Route25_Text_CooltrainerKevinNugget:

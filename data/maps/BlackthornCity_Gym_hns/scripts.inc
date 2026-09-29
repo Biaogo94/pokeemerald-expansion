@@ -238,7 +238,7 @@ BlackthornGym_Text_ClairIntroText:
     .string "哪怕是面对宝可梦联盟的四天王，我\n"
     .string "也绝不会落下风。\p"
     .string "即使如此，你还打算向我挑战吗？\p"
-    .string "......好啊，那就来吧！\p"
+    .string "……好啊，那就来吧！\p"
     .string "身为道馆馆主，面对任何对手我都会\n"
     .string "全力以赴！$"
 
@@ -318,11 +318,11 @@ BlackthornGym_Text_CooltrainerfFranSeenText:
     .string "的！$"
 
 BlackthornGym_Text_CooltrainerfFranBeatenText:
-    .string "呜呜......我输了.....\n"
+    .string "呜呜……我输了……\n"
     .string ".$"
 
 BlackthornGym_Text_CooltrainerfFranAfterBattleText:
-    .string "哎呀......小椿大人要生气了\n"
+    .string "哎呀……小椿大人要生气了\n"
     .string "......$"
 
 BlackthornGym_Text_CooltrainermPaulSeenText:

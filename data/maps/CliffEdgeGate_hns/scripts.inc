@@ -28,7 +28,7 @@ CliffEdgeGate_Text_IntroOpen:
 CliffEdgeGate_Text_Expectations:
 	.string "大家都很期待是挺好的啦。\p"
 	.string "不过前台那位接待小姐似乎有点戏太\n"
-	.string "过了......\p"
+	.string "过了……\p"
 	.string "可别抱太高的期望哦！$"
 
 CliffEdgeGate_EventScript_CaveSign::

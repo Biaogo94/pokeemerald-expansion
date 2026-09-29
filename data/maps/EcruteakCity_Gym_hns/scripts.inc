@@ -94,13 +94,13 @@ MortyIntroText:
 	.string "修行。\p"
 	.string "其结果，便是我如今能看见常人所看\n"
 	.string "不见的东西。\p"
-	.string "还差一点点......\p"
+	.string "还差一点点……\p"
 	.string "只要再精进一点，我就能预见到与那\n"
 	.string "只彩虹色宝可梦相遇的未来。\p"
 	.string "就由你来助我达到那个境界吧！$"
 
 MortyWinLossText:
-	.string "我还修行得不够啊......\p"
+	.string "我还修行得不够啊……\p"
 	.string "好吧。这枚徽章就归你了。$"
 
 Text_ReceivedFogBadge:
@@ -119,11 +119,11 @@ MortyText_ShadowBallSpeech:
 	.string "合适的话就拿去用吧。$"
 
 MortyFightDoneText:
-	.string "原来如此......\p"
+	.string "原来如此……\p"
 	.string "你的旅途引领你走过了许许多多遥远\n"
 	.string "的地方。\p"
 	.string "你所见证过的天地远胜于我。\p"
-	.string "这可真让我羡慕啊......$"
+	.string "这可真让我羡慕啊……$"
 
 MortyRematchText:
 	.string "啊，城都的冠军！欢迎你的到来。\p"
@@ -137,13 +137,13 @@ MortyRematchText:
 	.string "要再来切磋一场吗？$"
 
 Morty_RematchDefeatText:
-	.string "我还修行得不够啊......\p"
+	.string "我还修行得不够啊……\p"
 	.string "你所见证过的天地远胜于我。\p"
-	.string "这可真让我羡慕啊......$"
+	.string "这可真让我羡慕啊……$"
 
 SageJeffreySeenText:
 	.string "我和我的宝可梦一起度过了春天。\p"
-	.string "接着是夏天、秋天和冬天.....\n"
+	.string "接着是夏天、秋天和冬天……\n"
 	.string ".\p"
 	.string "然后春天又一次来临。我们已经相伴\n"
 	.string "了许久。$"
@@ -170,7 +170,7 @@ MediumMarthaSeenText:
 	.string "胜者必将是我！$"
 
 MediumMarthaBeatenText:
-	.string "我......我......我输\n"
+	.string "我……我……我输\n"
 	.string "了！$"
 
 MediumMarthaAfterBattleText:
@@ -195,7 +195,7 @@ EcruteakCity_GymGuideText:
 	.string "属性的宝可梦。\p"
 	.string "虽然松叶是幽灵属性的专家，但也要\n"
 	.string "当心他那只神秘的鹿。\p"
-	.string "据说那只宝可梦能引发诡异的噩梦.\n"
+	.string "据说那只宝可梦能引发诡异的噩梦。\n"
 	.string ".....$"
 
 EcruteakCity_GymGuideWinText:

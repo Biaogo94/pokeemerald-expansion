@@ -190,7 +190,7 @@ GoldenrodCity_RadioTower_3F_Text_GruntM7Beaten:
 	.string "什么？！$"
 
 GoldenrodCity_RadioTower_3F_Text_GruntM7After:
-	.string "我居然失职了......\p"
+	.string "我居然失职了……\p"
 	.string "阿波罗大人一定会大发雷霆的...\n"
 	.string "...$"
 
@@ -225,7 +225,7 @@ GoldenrodCity_RadioTower_3F_Text_ScientistMarcBeaten:
 	.string "切！是我太小看你了！$"
 
 GoldenrodCity_RadioTower_3F_Text_ScientistMarcAfter:
-	.string "哇哈哈哈......\p"
+	.string "哇哈哈哈……\p"
 	.string "从这里想发射多强的信号，就能发射\n"
 	.string "多强的信号。$"
 

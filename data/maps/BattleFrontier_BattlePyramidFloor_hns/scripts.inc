@@ -398,39 +398,39 @@ BattlePyramid_Text_ZeroItemsRemaining4_hns::
 
 BattlePyramid_Text_EightItemsRemaining5_hns::
 	.string "听说在金字塔的这一层，有8个道具\n"
-	.string "呢......$"
+	.string "呢……$"
 
 BattlePyramid_Text_SevenItemsRemaining5_hns::
 	.string "听说在金字塔的这一层，有7个道具\n"
-	.string "呢......$"
+	.string "呢……$"
 
 BattlePyramid_Text_SixItemsRemaining5_hns::
 	.string "听说在金字塔的这一层，有6个道具\n"
-	.string "呢......$"
+	.string "呢……$"
 
 BattlePyramid_Text_FiveItemsRemaining5_hns::
 	.string "听说在金字塔的这一层，有5个道具\n"
-	.string "呢......$"
+	.string "呢……$"
 
 BattlePyramid_Text_FourItemsRemaining5_hns::
 	.string "听说在金字塔的这一层，有4个道具\n"
-	.string "呢......$"
+	.string "呢……$"
 
 BattlePyramid_Text_ThreeItemsRemaining5_hns::
 	.string "听说在金字塔的这一层，有3个道具\n"
-	.string "呢......$"
+	.string "呢……$"
 
 BattlePyramid_Text_TwoItemsRemaining5_hns::
 	.string "听说在金字塔的这一层，有2个道具\n"
-	.string "呢......$"
+	.string "呢……$"
 
 BattlePyramid_Text_OneItemRemaining5_hns::
 	.string "听说在金字塔的这一层，有1个道具\n"
-	.string "呢......$"
+	.string "呢……$"
 
 BattlePyramid_Text_ZeroItemsRemaining5_hns::
 	.string "听说在金字塔的这一层，没有任何道\n"
-	.string "具呢......$"
+	.string "具呢……$"
 
 BattlePyramid_Text_EightItemsRemaining6_hns::
 	.string "你收集到道具了吗？\p"
@@ -678,5 +678,5 @@ BattlePyramid_Text_OneTrainersRemaining6_hns::
 	.string "续保持胜利吗？$"
 
 BattlePyramid_Text_ZeroTrainersRemaining6_hns::
-	.string "现在已经没有训练家能够挑战你了.\n"
+	.string "现在已经没有训练家能够挑战你了。\n"
 	.string ".....$"

@@ -231,7 +231,7 @@ BattleFrontier_BattlePyramidTop_Text_ChiefBeatYouHere_hns:
 	.string "二！\p"
 	.string "我们的首领已经先你一步征服了金字\n"
 	.string "塔。\p"
-	.string "但是，年轻的探险家啊......\n"
+	.string "但是，年轻的探险家啊……\n"
 	.string "你是一名训练家！\p"
 	.string "展现你的力量，从首领手中夺取顶点\n"
 	.string "的荣耀吧！\p"
@@ -239,13 +239,13 @@ BattleFrontier_BattlePyramidTop_Text_ChiefBeatYouHere_hns:
 	.string "气再踏出一步吧！$"
 
 BattleFrontier_BattlePyramidTop_Text_ExplorationsAreGrandestAdventure_hns:
-	.string "年轻的冒险者啊......\p"
+	.string "年轻的冒险者啊……\p"
 	.string "你不觉得探险是最壮丽的冒险吗？\p"
 	.string "你自己的智慧！\p"
 	.string "你自己的力量！\p"
 	.string "你自己的宝可梦！\p"
 	.string "最重要的是，仅凭你自己的勇气，引\n"
-	.string "领你穿行于未知的世界......$"
+	.string "领你穿行于未知的世界……$"
 
 BattleFrontier_BattlePyramidTop_Text_ImPyramidKingBrandon_hns:
 	.string "啊，没错，这样的人生确实壮丽！相\n"
@@ -276,19 +276,19 @@ BattleFrontier_BattlePyramidTop_Text_LookForwardToNextMeeting_hns:
 	.string "！$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonYouveReturned_hns:
-	.string "神代：......你终于回来了，\n"
-	.string "年轻的探险家......\p"
+	.string "神代：……你终于回来了，\n"
+	.string "年轻的探险家……\p"
 	.string "看来你对冒险的热爱，发自你内心的\n"
-	.string "最深处......\p"
-	.string "是啊......你和我年轻的时候\n"
-	.string "简直一模一样......\p"
+	.string "最深处……\p"
+	.string "是啊……你和我年轻的时候\n"
+	.string "简直一模一样……\p"
 	.string "................\n"
-	.string "..啊......\p"
+	.string "..啊……\p"
 	.string "那份激情！\p"
 	.string "那份危险！\p"
 	.string "那份绝境！\p"
 	.string "那些舍生忘死、感受生命真谛的冒险\n"
-	.string "岁月，又回来了......$"
+	.string "岁月，又回来了……$"
 
 BattleFrontier_BattlePyramidTop_Text_MyCourageIsOffMeter_hns:
 	.string "那么！\p"

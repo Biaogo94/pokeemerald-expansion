@@ -10,7 +10,7 @@ FuchsiaCity_Mart_EventScript_Woman::
 	end
 
 FuchsiaMart_Text_Fisher:
-	.string "以前的狩猎地带纪念品可要好得多.\n"
+	.string "以前的狩猎地带纪念品可要好得多。\n"
 	.string ".....$"
 
 FuchsiaMart_Text_CooltrainerF:

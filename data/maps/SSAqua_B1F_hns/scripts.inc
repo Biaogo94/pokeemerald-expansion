@@ -54,8 +54,8 @@ SSAqua_B1F_Text_FastShipOnDutySailor:
 	.string "班呢。$"
 
 SSAqua_B1F_Text_FastShipOnDutySailorRefused:
-	.string "哎呀，糟了......\p"
-	.string "船长一定会大发雷霆的......$"
+	.string "哎呀，糟了……\p"
+	.string "船长一定会大发雷霆的……$"
 
 SSAqua_B1F_Text_FastShipOnDutySailorThanks:
 	.string "谢啦，小朋友！我狠狠训了他一顿，\n"
@@ -97,7 +97,7 @@ SSAqua_B1F_Text_PicnickerDebraBeaten:
 	.string "哎呀！你也太强了吧！$"
 
 SSAqua_B1F_Text_PicnickerDebraAfter:
-	.string "金黄市、玉虹市......听说关\n"
+	.string "金黄市、玉虹市……听说关\n"
 	.string "都地区有很多大城市呢。$"
 
 SSAqua_B1F_EventScript_Fritz::
@@ -106,10 +106,10 @@ SSAqua_B1F_EventScript_Fritz::
 	end
 
 SSAqua_B1F_Text_JugglerFritzSeen:
-	.string "呃呕......我晕船了！$"
+	.string "呃呕……我晕船了！$"
 
 SSAqua_B1F_Text_JugglerFritzBeaten:
-	.string "我已经一步也走不动了......$"
+	.string "我已经一步也走不动了……$"
 
 SSAqua_B1F_Text_JugglerFritzAfter:
 	.string "我再也不坐船了。下次，\p"
@@ -124,7 +124,7 @@ SSAqua_B1F_Text_SailorGarrettSeen:
 	.string "这里可是我们水手工作的地方！$"
 
 SSAqua_B1F_Text_SailorGarrettBeaten:
-	.string "在自己的主场居然输了......$"
+	.string "在自己的主场居然输了……$"
 
 SSAqua_B1F_Text_SailorGarrettAfter:
 	.string "从枯叶市到浅黄市之间，每次搭载的\n"
@@ -141,7 +141,7 @@ SSAqua_B1F_Text_FisherJonahSeen:
 	.string "好无聊啊！来对战吧！$"
 
 SSAqua_B1F_Text_FisherJonahBeaten:
-	.string "我......我现在不无聊了..\n"
+	.string "我……我现在不无聊了..\n"
 	.string "....$"
 
 SSAqua_B1F_Text_FisherJonahAfter:
@@ -174,7 +174,7 @@ SSAqua_B1F_Text_SailorKennethSeen:
 	.string "冠军！$"
 
 SSAqua_B1F_Text_SailorKennethBeaten:
-	.string "显然是我欠缺修行啊......$"
+	.string "显然是我欠缺修行啊……$"
 
 SSAqua_B1F_Text_SailorKennethAfter:
 	.string "8枚徽章！这肯定能证明你击败了\p"

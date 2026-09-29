@@ -60,7 +60,7 @@ SaffronCity_Gym_EventScript_Sabrina_Defeated::
 	end
 
 SaffronCity_Gym_Text_SabrinaIntro:
-	.string "娜姿：我知道你会来......\p"
+	.string "娜姿：我知道你会来……\p"
 	.string "早在三年前，我就预见到了你的到来\n"
 	.string "。\p"
 	.string "你是为了得到我的徽章吧。\p"
@@ -71,8 +71,8 @@ SaffronCity_Gym_Text_SabrinaIntro:
 	.string "下我的超能力吧！$"
 
 SaffronCity_Gym_Text_SabrinaWinLoss:
-	.string "娜姿：你的力量......\p"
-	.string "远远超出了我的预见......\p"
+	.string "娜姿：你的力量……\p"
+	.string "远远超出了我的预见……\p"
 	.string "也许，要彻底看透未来是不可能的吧\n"
 	.string "......\p"
 	.string "好吧，你赢了。这是你应得的金黄徽\n"
@@ -83,7 +83,7 @@ SaffronCity_Gym_Text_ReceivedMarshBadge:
 
 SaffronCity_Gym_Text_MarshBadgeInfo:
 	.string "娜姿：金黄徽章能激发出你的潜在能\n"
-	.string "力......\p"
+	.string "力……\p"
 	.string "虽然我没能准确预见出你的力量，但\n"
 	.string "唯有这一点我深信不疑。\p"
 	.string "你定会成为一位受人爱戴的顶尖冠军\n"
@@ -96,12 +96,12 @@ SaffronCity_Gym_Text_Sabrina_ExplainTM:
 	.string "里面记录着特性互换。\p"
 	.string "它能将对手的特性夺走，并与自己的\n"
 	.string "特性进行交换。\p"
-	.string "要好好运用它......$"
+	.string "要好好运用它……$"
 
 SaffronCity_Gym_Text_SabrinaPostBattle:
 	.string "娜姿：你对宝可梦的爱，压倒了我的\n"
-	.string "超能力......\p"
-	.string "我想，爱的力量也是一种超能力吧.\n"
+	.string "超能力……\p"
+	.string "我想，爱的力量也是一种超能力吧。\n"
 	.string ".....$"
 
 SaffronCity_Gym_Text_SabrinaRematch:
@@ -113,14 +113,14 @@ SaffronCity_Gym_Text_SabrinaRematch:
 
 SaffronCity_Gym_Text_SabrinaRematchDefeat:
 	.string "娜姿：你对宝可梦的爱，再次压倒了\n"
-	.string "我的超能力......$"
+	.string "我的超能力……$"
 
 SaffronCity_Gym_Text_MediumRebeccaSeen:
 	.string "被你打倒的那些人的力量，都汇聚到\n"
 	.string "我这里了！$"
 
 SaffronCity_Gym_Text_MediumRebeccaBeaten:
-	.string "好强......实在太强了...\n"
+	.string "好强……实在太强了...\n"
 	.string "...$"
 
 SaffronCity_Gym_Text_MediumRebeccaAfter:
@@ -137,12 +137,12 @@ SaffronCity_Gym_Text_PsychicFranklinAfter:
 	.string "魂。$"
 
 SaffronCity_Gym_Text_MediumDorisSeen:
-	.string "呵呵呵呵......我看得很清楚\n"
+	.string "呵呵呵呵……我看得很清楚\n"
 	.string "。\p"
 	.string "我能看透你的灵魂！$"
 
 SaffronCity_Gym_Text_MediumDorisBeaten:
-	.string "虽然读懂了你的心思，我还是输了.\n"
+	.string "虽然读懂了你的心思，我还是输了。\n"
 	.string ".....$"
 
 SaffronCity_Gym_Text_MediumDorisAfter:
@@ -154,7 +154,7 @@ SaffronCity_Gym_Text_PsychicJaredSeen:
 	.string "官方道馆呢。$"
 
 SaffronCity_Gym_Text_PsychicJaredBeaten:
-	.string "我完全不是对手......$"
+	.string "我完全不是对手……$"
 
 SaffronCity_Gym_Text_PsychicJaredAfter:
 	.string "格斗道馆的首领空手道大王，刚才被\n"

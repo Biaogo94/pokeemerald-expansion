@@ -370,10 +370,10 @@ VermilionGym_Text_JugglerHortonSeen:
 	.string "吧！$"
 
 VermilionGym_Text_JugglerHortonBeaten:
-	.string "哇啊！被彻底压制了......$"
+	.string "哇啊！被彻底压制了……$"
 
 VermilionGym_Text_JugglerHortonAfter:
-	.string "赢了我可别太得意......\p"
+	.string "赢了我可别太得意……\p"
 	.string "马志士馆主可是非常厉害的。$"
 
 VermilionCity_Gym_Text_GymGuyAdvice::

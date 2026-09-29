@@ -154,9 +154,9 @@ Route34_DayCare_EventScript_ClerkAfter::
 Route34_DayCare_Text_ClerkBefore:
 	.string "我是培育屋夫妇的儿子。\p"
 	.string "在一位训练家的宝可梦身边发现了一\n"
-	.string "颗不可思议的蛋，但他们并不想要.\l"
+	.string "颗不可思议的蛋，但他们并不想要。\l"
 	.string ".....\p"
-	.string "我很想把它交给你......但我\n"
+	.string "我很想把它交给你……但我\n"
 	.string "怎么能确定你会好好照顾它呢？$"
 
 Route34_DayCare_Text_ClerkNoRoom:
@@ -493,7 +493,7 @@ Route34_Text_IllKeepIt:
 	.string "啦！$"
 
 Route34_Text_YouHaveNoRoomForIt:
-	.string "你的同行宝可梦已经满了.....\n"
+	.string "你的同行宝可梦已经满了……\n"
 	.string ".腾出空位后再来吧。$"
 
 Route34_Text_ReceivedEgg:
@@ -550,7 +550,7 @@ Route34_DayCare_Text_FineThenComeAgain:
 	.string "哎呀，这样啊。欢迎下次再来。$"
 
 Route34_DayCare_Text_NotEnoughMoney:
-	.string "你的钱不够呢......$"
+	.string "你的钱不够呢……$"
 
 Route34_DayCare_Text_TakeOtherOneBackToo:
 	.string "另一只也要一起领回去吗？$"

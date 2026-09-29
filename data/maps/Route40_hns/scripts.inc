@@ -37,7 +37,7 @@ Route40_Text_SwimmermRandallSeen:
 	.string "别骑着宝可梦，自己游呀！$"
 
 Route40_Text_SwimmermRandallBeaten:
-	.string "哎呀。我输了......$"
+	.string "哎呀。我输了……$"
 
 Route40_Text_SwimmermRandallAfter:
 	.string "游泳可是全身运动，对身体很健康的\n"
@@ -137,7 +137,7 @@ Route40_Text_MonicaMonday:
 
 Route40_Text_MonicaNotMonday:
 	.string "月姬：今天好像不是星期一呢。真遗\n"
-	.string "憾......$"
+	.string "憾……$"
 
 Route40_Text_MonicaNope:
 	.string "不对哦。$"

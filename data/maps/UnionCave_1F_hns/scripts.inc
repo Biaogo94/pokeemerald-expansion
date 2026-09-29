@@ -89,7 +89,7 @@ UnionCave_1F_Text_PokemaniacLarrySeen:
 	.string "那咱们就是收集劲敌了！$"
 
 UnionCave_1F_Text_PokemaniacLarryBeaten:
-	.string "唔呃。我可怜的宝可梦......$"
+	.string "唔呃。我可怜的宝可梦……$"
 
 UnionCave_1F_Text_PokemaniacLarryAfter:
 	.string "有时候，能从洞窟深处听到宝可梦的\n"

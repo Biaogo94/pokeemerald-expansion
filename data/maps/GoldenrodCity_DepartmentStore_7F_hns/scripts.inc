@@ -94,7 +94,7 @@ GoldenrodDeptStore_Text_RoofSuperNerdQuitBotheringMe:
 
 GoldenrodDeptStore_Text_RoofPokefanM:
     .string "有件东西我特别想买，可是手头的钱\n"
-    .string "不够......\p"
+    .string "不够……\p"
     .string "也许我该把采到的树果拿去卖掉..\n"
     .string "....$"
 
@@ -105,6 +105,6 @@ GoldenrodDeptStore_Text_RoofTeacher:
 
 GoldenrodDeptStore_Text_RoofBugCatcher:
     .string "我的宝可梦每到关键时刻总会陷入麻\n"
-    .string "痹或者中毒......\p"
+    .string "痹或者中毒……\p"
     .string "所以我来买点万灵药。\p"
     .string "不知道还有没有存货呢？$"

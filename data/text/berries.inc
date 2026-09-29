@@ -80,7 +80,7 @@ LilycoveCity_Text_BecauseYoureTrainer:
 	.string "就因为你是训练家！$"
 
 LilycoveCity_Text_PokeblocksSuitPokemon:
-	.string "说到底......\p"
+	.string "说到底……\p"
 	.string "正如端庄素雅非常适合我一样，\n"
 	.string "{POKEBLOCK}也同样完美\l"
 	.string "适合宝可梦。$"
@@ -216,7 +216,7 @@ SootopolisCity_Text_ThenILoveAutumn:
 	.string "你喜欢什么季节？$"
 
 SootopolisCity_Text_OhDoesntMatter:
-	.string "啊......算了，没关系..\n"
+	.string "啊……算了，没关系..\n"
 	.string "....\p"
 	.string "我想要了解的事情还有好多好多呢\n"
 	.string "......$"

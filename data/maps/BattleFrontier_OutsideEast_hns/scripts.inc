@@ -263,20 +263,20 @@ BattleFrontier_OutsideEast_Text_BattleTowerFeelsSpecial_hns:
 BattleFrontier_OutsideEast_Text_ConquerLeagueAndFrontier_hns:
 	.string "我的宏伟抱负就是制霸对战开拓区和\n"
 	.string "宝可梦联盟。\p"
-	.string "如果我的梦想实现了......\p"
-	.string "我......我就去问隔壁的美美\n"
+	.string "如果我的梦想实现了……\p"
+	.string "我……我就去问隔壁的美美\n"
 	.string "愿不愿意和我做朋友！$"
 
 BattleFrontier_OutsideEast_Text_PyramidTooHarsh_hns:
 	.string "对战金字塔太残酷了！我根本到不了\n"
 	.string "顶层！\p"
 	.string "既然已经无计可施了，也许我能从外\n"
-	.string "面爬上去......$"
+	.string "面爬上去……$"
 
 BattleFrontier_OutsideEast_Text_ThriveInDarkness_hns:
-	.string "我在黑暗中茁壮成长......是\n"
-	.string "的......有什么配得上我？非\l"
-	.string "对战金字塔莫属......\p"
+	.string "我在黑暗中茁壮成长……是\n"
+	.string "的……有什么配得上我？非\l"
+	.string "对战金字塔莫属……\p"
 	.string "在彻头彻尾的绝望黑暗中漫步，你觉\n"
 	.string "得如何？$"
 
@@ -290,7 +290,7 @@ BattleFrontier_OutsideEast_Text_DidScottBringYouHere_hns:
 	.string "也是亚希达带你来的吗？那家伙到底\n"
 	.string "是怎么回事？\p"
 	.string "虽然听上去他确实挺有发掘优秀训练\n"
-	.string "家的眼光，但是......\p"
+	.string "家的眼光，但是……\p"
 	.string "我从没亲眼见过他亲自对战过。$"
 
 BattleFrontier_OutsideEast_Text_BelieveInYouBuddy_hns:
@@ -299,7 +299,7 @@ BattleFrontier_OutsideEast_Text_BelieveInYouBuddy_hns:
 	.string "食，我都给你做！$"
 
 BattleFrontier_OutsideEast_Text_ZigzagoonLooksVacant_hns:
-	.string "蛇纹熊一脸茫然......$"
+	.string "蛇纹熊一脸茫然……$"
 
 BattleFrontier_OutsideEast_Text_PeopleCallMeBusybody_hns:
 	.string "人们都说我是个爱管闲事的人，但我\n"
@@ -307,7 +307,7 @@ BattleFrontier_OutsideEast_Text_PeopleCallMeBusybody_hns:
 	.string "你的帽子戴歪了！哎呀不行，地上有\n"
 	.string "垃圾！糟了，快到吃晚饭的时间了！\p"
 	.string "在对战宫殿只能在旁边看着，我都不\n"
-	.string "知道自己忍不忍得住......$"
+	.string "知道自己忍不忍得住……$"
 
 BattleFrontier_OutsideEast_Text_OnceBeatGymLeader_hns:
 	.string "我现在看着可能不起眼，但我曾经打\n"
@@ -361,7 +361,7 @@ BattleFrontier_OutsideEast_Text_GotWipedOut_hns:
 BattleFrontier_OutsideEast_Text_ToughTrainerInBattleTower_hns:
 	.string "这家伙在挑战对战塔的时候，遇到了\n"
 	.string "一个强得可怕的训练家。\p"
-	.string "现在看看他成了什么样......\p"
+	.string "现在看看他成了什么样……\p"
 	.string "如果你想去对战塔，可一定要小心谨\n"
 	.string "慎。$"
 
@@ -393,9 +393,9 @@ BattleFrontier_OutsideEast_Text_FrontierNotExclusivelyForToughTrainers_hns:
 	.string "准备的。\p"
 	.string "看起来，许多身怀绝技的人也都受到\n"
 	.string "了邀请。\p"
-	.string "亚希达那个人......\p"
+	.string "亚希达那个人……\p"
 	.string "建造这个地方，也许是为了更大的目\n"
-	.string "标......$"
+	.string "标……$"
 
 BattleFrontier_OutsideEast_Text_OddTreeHereSeemsToWiggle_hns:
 	.string "打扰一下，年轻人。你的视力好吗？\p"
@@ -408,7 +408,7 @@ BattleFrontier_OutsideEast_Text_OnceAnOddTreePastHere_hns:
 	.string "。$"
 
 BattleFrontier_OutsideEast_Text_StickyMonWithLongTail_hns:
-	.string "我......我看见了！\p"
+	.string "我……我看见了！\p"
 	.string "前面有一只黏糊糊的、长着长尾巴的\n"
 	.string "宝可梦！\p"
 	.string "它藏在一块巨石下面，还一直死死盯\n"

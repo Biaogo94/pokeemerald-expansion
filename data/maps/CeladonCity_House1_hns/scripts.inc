@@ -59,7 +59,7 @@ CeladonCity_House1_Text_ChefEatathon:
 	.string "目前无法为您提供服务，非常抱歉。$"
 
 CeladonCity_House1_Text_Fisher1Snarfle:
-	.string "......呼噜，嚼嚼.....\n"
+	.string "……呼噜，嚼嚼……\n"
 	.string ".$"
 
 CeladonCity_House1_Text_Fisher1Concentration:
@@ -67,7 +67,7 @@ CeladonCity_House1_Text_Fisher1Concentration:
 	.string "会让我分心的！$"
 
 CeladonCity_House1_Text_Fisher2GulpChew:
-	.string "......咕嘟......嚼嚼\n"
+	.string "……咕嘟……嚼嚼\n"
 	.string "......$"
 
 CeladonCity_House1_Text_Fisher2Quantity:
@@ -75,21 +75,21 @@ CeladonCity_House1_Text_Fisher2Quantity:
 	.string "只要吃饱就很幸福！$"
 
 CeladonCity_House1_Text_Fisher3MunchMunch:
-	.string "嚼嚼，嚼嚼......$"
+	.string "嚼嚼，嚼嚼……$"
 
 CeladonCity_House1_Text_Fisher3GoldenrodIsBest:
 	.string "这里的饭菜挺好吃，但要说哪里的美\n"
 	.string "食天下第一，还得是满金市。$"
 
 CeladonCity_House1_Text_TeacherCrunchCrunch:
-	.string "咯吱......咯吱......$"
+	.string "咯吱……咯吱……$"
 
 CeladonCity_House1_Text_TeacherNoCoinCase:
 	.string "这里可没人会给你代币盒。你应该去\n"
 	.string "城都地区找找看。$"
 
 CeladonCity_House1_Text_TeacherKeepEating:
-	.string "咔嚓......咔嚓......\p"
+	.string "咔嚓……咔嚓……\p"
 	.string "我还能继续吃！\p"
 	.string "老板，再来一份！$"
 

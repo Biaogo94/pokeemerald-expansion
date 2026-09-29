@@ -39,7 +39,7 @@ Route4_Text_BirdKeeperHank_Seen:
 	.string "一场吗？$"
 
 Route4_Text_BirdKeeperHank_Beaten:
-	.string "哎呀！这局竟然输了......$"
+	.string "哎呀！这局竟然输了……$"
 
 Route4_Text_BirdKeeperHank_AfterBattle:
 	.string "如果有特别想培育的宝可梦，先让它\n"
@@ -58,14 +58,14 @@ Route4_Text_PicnickerHope_AfterBattle:
 	.string "但它们究竟在哪里呢？$"
 
 Route4_Text_PicnickerSharon_Seen:
-	.string "唔......我......$"
+	.string "唔……我……$"
 
 Route4_Text_PicnickerSharon_Beaten:
 	.string "…$"
 
 Route4_Text_PicnickerSharon_AfterBattle:
-	.string "......我还是再去多修行一下\n"
-	.string "吧......$"
+	.string "……我还是再去多修行一下\n"
+	.string "吧……$"
 
 Route4_Text_MtMoonSquareSign:
 	.string "月见山因塌方开辟新入口\p"

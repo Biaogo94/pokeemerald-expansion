@@ -514,14 +514,14 @@ Alola_Akala_TotemBattle_Text_0:
 
 Alola_Akala_TotemBattle_Text_1:
 	.string "霸主鸭嘴炎兽被击败了！它不知道逃\n"
-	.string "往哪里去了......$"
+	.string "往哪里去了……$"
 
 Alola_Akala_TotemBattle_Text_2:
 	.string "普罗--！$"
 
 Alola_Akala_TotemBattle_Text_3:
 	.string "霸主大朝北鼻被击败了！它不知道逃\n"
-	.string "往哪里去了......$"
+	.string "往哪里去了……$"
 
 Alola_Akala_Totem_sign_Text_0:
 	.string "图腾正散发出一股强烈的能量...\n"
@@ -542,7 +542,7 @@ Alola_Akala_Totem_sign_Text_4:
 
 Alola_Akala_Totem_sign_Text_5:
 	.string "这里伫立着一个奇异的图腾，正散发\n"
-	.string "出一股能量......$"
+	.string "出一股能量……$"
 
 Alola_Akala_BattleVsTapuLele_Text_0:
 	.string "哩--哩哩！$"
@@ -551,7 +551,7 @@ Alola_Akala_TrainerBattleHiker_Text_0:
 	.string "我来到这些岛屿是为了登山！$"
 
 Alola_Akala_TrainerBattleHiker_Text_1:
-	.string "结果我摔倒了......$"
+	.string "结果我摔倒了……$"
 
 Alola_Akala_TrainerBattleHiker_Text_2:
 	.string "阿卡拉岛最适合登山了！这里有茂密\n"
@@ -562,7 +562,7 @@ Alola_Akala_TrainerBattlePicnicker_Text_0:
 
 Alola_Akala_TrainerBattlePicnicker_Text_1:
 	.string "看来出其不意也不是每次都效果绝佳\n"
-	.string "啊......$"
+	.string "啊……$"
 
 Alola_Akala_TrainerBattlePicnicker_Text_2:
 	.string "阿卡拉岛草木郁郁葱葱，我可以轻松\n"
@@ -584,7 +584,7 @@ Alola_Akala_TrainerBattleSwimmerLand_Text_0:
 
 Alola_Akala_TrainerBattleSwimmerLand_Text_1:
 	.string "哎哟，需要救生员的时候他们都去哪\n"
-	.string "儿了......$"
+	.string "儿了……$"
 
 Alola_Akala_TrainerBattleSwimmerLand_Text_2:
 	.string "阿卡拉岛的海滩最棒了！沙子又软，\n"
@@ -594,7 +594,7 @@ Alola_Akala_TrainerBattleSwimmerWater_Text_0:
 	.string "借过借过！我正在折返游呢！$"
 
 Alola_Akala_TrainerBattleSwimmerWater_Text_1:
-	.string "我想要的休息可不是这种啊....\n"
+	.string "我想要的休息可不是这种啊……\n"
 	.string "..$"
 
 Alola_Akala_TrainerBattleSwimmerWater_Text_2:
@@ -606,7 +606,7 @@ Alola_Akala_TrainerBattleSwimmerWaterM_Text_0:
 
 Alola_Akala_TrainerBattleSwimmerWaterM_Text_1:
 	.string "如果不是我自己游过来，也许还有力\n"
-	.string "气能赢呢......$"
+	.string "气能赢呢……$"
 
 Alola_Akala_TrainerBattleSwimmerWaterM_Text_2:
 	.string "这里的洋流很急！能一路迁徙到这些\n"

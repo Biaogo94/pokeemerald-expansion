@@ -123,7 +123,7 @@ Route26_Text_CooltrainerfJoyceAfter:
 Route26_Text_CooltrainerfBethSeen:
     .string "我输给了一个叫{RIVAL}的训\n"
     .string "练家。\p"
-    .string "他确实很强，但是......\p"
+    .string "他确实很强，但是……\p"
     .string "他给人的感觉就像是不择手段也一定\n"
     .string "要赢似的。\p"
     .string "真替他的宝可梦感到难过。$"

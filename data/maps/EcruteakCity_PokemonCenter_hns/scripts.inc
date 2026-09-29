@@ -129,7 +129,7 @@ EcruteakCity_PokemonCenter1F_Text_CooltrainerF:
 	.string "他的宝可梦也是强得没话说。$"
 
 EcruteakCity_PokemonCenter1F_Text_GymGuide:
-	.string "愤怒之湖......\p"
-	.string "大量出现的暴鲤龙......\p"
+	.string "愤怒之湖……\p"
+	.string "大量出现的暴鲤龙……\p"
 	.string "我嗅到了阴谋的味道。绝对没错！$"
 

@@ -42,7 +42,7 @@ Route2_Text_BugCatcherRob_Seen:
 	.string "输的准备吧！$"
 
 Route2_Text_BugCatcherRob_Beaten:
-	.string "彻底输了......$"
+	.string "彻底输了……$"
 
 Route2_Text_BugCatcherRob_AfterBattle:
 	.string "我要去寻找更强的虫宝可梦。$"

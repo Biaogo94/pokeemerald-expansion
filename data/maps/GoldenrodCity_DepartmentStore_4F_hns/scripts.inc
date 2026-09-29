@@ -45,10 +45,10 @@ GoldenrodDeptStore_Text_4FBugCatcher:
 GoldenrodDeptStore_Text_4FGameboyKid:
     .string "曾有传言说，有些宝可梦只能通过连\n"
     .string "接线通信交换才能进化。\p"
-    .string "哼......\p"
+    .string "哼……\p"
     .string "真是道听途说。\p"
     .string "我知道传言中的几种宝可梦：豪力、\n"
-    .string "勇基拉、鬼斯通，还有......\l"
+    .string "勇基拉、鬼斯通，还有……\l"
     .string "呃，隆隆石，其实它们只要提升等级\l"
     .string "就能进化了。$"
 

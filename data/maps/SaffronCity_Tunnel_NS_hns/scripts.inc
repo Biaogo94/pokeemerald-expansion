@@ -30,9 +30,9 @@ SaffronCity_Tunnel_NS_EventScript_BaldingManAfter::
 
 SaffronCity_Tunnel_NS_Text_BaldingManIntro:
 	.string "别害怕，我不是什么坏人。\p"
-	.string "像这种地方......总会引来心\n"
+	.string "像这种地方……总会引来心\n"
 	.string "术不正的家伙。\p"
-	.string "他们早晚会惹出麻烦来......\p"
+	.string "他们早晚会惹出麻烦来……\p"
 	.string "光是想想就让我火大。$"
 
 SaffronCity_Tunnel_NS_Text_BaldingManCandybarDetected:
@@ -48,21 +48,21 @@ SaffronCity_Tunnel_NS_Text_BaldingManGaveCandybar:
 	.string "吧唧吧唧！\p"
 	.string "啊啊！真是火大！\p"
 	.string "吧唧吧唧！\p"
-	.string "啊啊......\p"
+	.string "啊啊……\p"
 	.string "................\n"
-	.string "........呼！\p"
+	.string "……呼！\p"
 	.string "感觉心情舒畅多了！谢谢你的馒头！\n"
 	.string "这个送给你！$"
 
 SaffronCity_Tunnel_NS_Text_BaldingManGaveTm:
-	.string "招式学习器64里面装的是....\n"
+	.string "招式学习器64里面装的是……\n"
 	.string "..\p"
 	.string "滴--            答\n"
 	.string "滴--            答\l"
 	.string "滴--            答\l"
 	.string "滴--            答\l"
-	.string "滴...............\l"
+	.string "滴……\l"
 	.string "................\l"
 	.string "................\l"
-	.string ".......轰隆--！！！$"
+	.string "……轰隆--！！！$"
 

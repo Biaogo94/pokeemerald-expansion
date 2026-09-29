@@ -111,12 +111,12 @@ GoldenrodCity_UndergroundTunnel_Movement_Kimono_Leave2:
 
 
 GoldenrodCity_UndergroundTunnel_Text_Kimono1:
-	.string "穿黑衣服的火箭队到处乱窜....\n"
+	.string "穿黑衣服的火箭队到处乱窜……\n"
 	.string "..\p"
 	.string "我还纳闷发生什么事了呢。原来是你\n"
 	.string "击退了火箭队？真了不起！\p"
 	.string "如果是你的话，说不定能够面对传说\n"
-	.string "的宝可......$"
+	.string "的宝可……$"
 
 GoldenrodCity_UndergroundTunnel_Text_Kimono2:
 	.string "哈哈！没什么。我得先走了。$"
@@ -381,10 +381,10 @@ GoldenrodUnderground_Text_SupernerdEricSeen:
     .string "...$"
 
 GoldenrodUnderground_Text_SupernerdEricBeaten:
-    .string "......咕哝......$"
+    .string "……咕哝……$"
 
 GoldenrodUnderground_Text_SupernerdEricAfterBattle:
-    .string "看来还是得堂堂正正地玩啊....\n"
+    .string "看来还是得堂堂正正地玩啊……\n"
     .string "..$"
 
 GoldenrodUnderground_Text_SupernerdTeruSeen:
@@ -431,7 +431,7 @@ GoldenrodUnderground_Text_PokemaniacDonaldAfterBattleOld:
     .string "电话通知你的。$"
 
 GoldenrodUnderground_Text_DoorsLocked:
-    .string "门上着锁......$"
+    .string "门上着锁……$"
 
 GoldenrodUnderground_Text_DoorIsOpen:
     .string "门已经开了。$"

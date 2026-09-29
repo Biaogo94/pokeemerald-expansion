@@ -15,7 +15,7 @@ SSAqua_RoomSW_Text_BeautyCassieSeen:
     .string "我想忘掉伤心事。来对战吧！$"
 
 SSAqua_RoomSW_Text_BeautyCassieBeaten:
-    .string "我的心在哭泣......$"
+    .string "我的心在哭泣……$"
 
 SSAqua_RoomSW_Text_BeautyCassieAfterBattle:
     .string "航海是治愈失恋最好的良药。\p"

@@ -108,7 +108,7 @@ ViridianCity_Text_GrampsNearGym_BlueReturned:
 	.string "祝你好运，你肯定会需要运气的。$"
 
 ViridianCity_Text_DreamEaterFisherNew:
-	.string "......呼--噜--....\n"
+	.string "……呼--噜--....\n"
 	.string "..\p"
 	.string "哈欠--！\p"
 	.string "不知不觉在太阳底下睡着了。\p"
@@ -117,13 +117,13 @@ ViridianCity_Text_DreamEaterFisherNew:
 
 
 ViridianCity_Text_DreamEaterFisher_GotTM::
-	.string "......呼--噜--....\n"
+	.string "……呼--噜--....\n"
 	.string "..$"
 
 ViridianCity_Text_DreamEaterFisher:
 	.string "哈欠--！\p"
 	.string "不知不觉在太阳底下睡着了。\p"
-	.string "......我刚才做了个梦，梦见\n"
+	.string "……我刚才做了个梦，梦见\n"
 	.string "一只催眠貘吃掉了我的梦。很奇怪吧\l"
 	.string "？\p"
 	.string "咦？这是什么？\p"
@@ -134,7 +134,7 @@ ViridianCity_Text_DreamEaterFisher:
 ViridianCity_Text_DreamEaterFisher_GotDreamEater:
 	.string "招式学习器42里面是“食梦”.\n"
 	.string ".....\p"
-	.string "......呼--噜--...\n"
+	.string "……呼--噜--...\n"
 	.string "...$"
 
 ViridianCity_Text_Youngster:

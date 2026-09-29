@@ -67,25 +67,25 @@ Route8_Text_SupernerdSamSeen:
 	.string "磁浮列车到底是怎么运行的呢？$"
 
 Route8_Text_SupernerdSamBeaten:
-	.string "我只是想看看磁浮列车......$"
+	.string "我只是想看看磁浮列车……$"
 
 Route8_Text_SupernerdSamAfter:
 	.string "磁铁的力量太神奇了！$"
 
 Route8_Text_SupernerdTomSeen:
-	.string "嗯......你收集了不少道馆徽\n"
+	.string "嗯……你收集了不少道馆徽\n"
 	.string "章嘛。$"
 
 Route8_Text_SupernerdTomBeaten:
-	.string "果然不出我所料......你很强\n"
+	.string "果然不出我所料……你很强\n"
 	.string "！$"
 
 Route8_Text_SupernerdTomAfter:
 	.string "道馆徽章能让你在对战中占得优势。$"
 
 Route8_Text_LockedDoor:
-	.string "门锁着......$"
+	.string "门锁着……$"
 
 Route8_Text_UndergroundPathSign:
 	.string "传单被撕破了。\p"
-	.string "根本没法辨认上面的字......$"
+	.string "根本没法辨认上面的字……$"

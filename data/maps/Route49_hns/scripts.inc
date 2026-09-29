@@ -112,7 +112,7 @@ Route49_KimonoGitl_Movement2:
 	step_end
 
 Route49_Text_KimonoGirl:
-    .string "你......\p"
+    .string "你……\p"
     .string "你就是{PLAYER}，对吧？我\n"
     .string "从圆朱市的堂姐妹那里听说过关于你\l"
     .string "的种种事迹。\p"

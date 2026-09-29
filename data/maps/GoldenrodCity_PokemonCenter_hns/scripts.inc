@@ -240,7 +240,7 @@ GoldenrodCity_PokemonCenter_PokefanFTooBadText:
     .string "哎？你没有吗？真遗憾。$"
 
 GoldenrodCity_PokemonCenter_PokefanFAnotherTimeThenText:
-    .string "哎......好吧，那下次再说吧\n"
+    .string "哎……好吧，那下次再说吧\n"
     .string "。$"
 
 GoldenrodCity_PokemonCenter_PlayerGaveAwayTheEonMailText:

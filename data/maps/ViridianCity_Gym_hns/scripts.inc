@@ -70,7 +70,7 @@ ViridianCity_Gym_Text_LeaderBlue_Win:
 	.string "青绿：什么？！\p"
 	.string "我到底怎么会输给你啊？！\p"
 	.string "......\p"
-	.string "切，好吧......拿去吧--这\n"
+	.string "切，好吧……拿去吧--这\n"
 	.string "是绿色徽章。$"
 
 ViridianCity_Gym_Text_ReceivedEarthBadge:
@@ -117,7 +117,7 @@ ViridianCity_Gym_Text_Guide:
 	.string "使出你的浑身解数上吧！$"
 
 ViridianCity_Gym_Text_Guide_Win:
-	.string "天哪，你可真厉害......\p"
+	.string "天哪，你可真厉害……\p"
 	.string "那场对战太令人热血沸腾了，感动得\n"
 	.string "我眼泪都要掉下来了。$"
 

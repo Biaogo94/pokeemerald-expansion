@@ -650,12 +650,12 @@ IlexForest_Movement_Kurt2:
 	step_end
 
 IlexForest_Text_ApprenticeIntro:
-	.string "哎呀......师父肯定要发飙了\n"
+	.string "哎呀……师父肯定要发飙了\n"
 	.string "......\p"
 	.string "负责砍树做木炭的大葱鸭自己跑掉了\n"
 	.string "。\p"
 	.string "我可不敢进栎树林里面去找它。\p"
-	.string "这里面又大又黑，吓死人了....\n"
+	.string "这里面又大又黑，吓死人了……\n"
 	.string "..$"
 
 IlexForest_Text_ApprenticeAfter:
@@ -675,7 +675,7 @@ IlexForest_Text_CharcoalMasterIntro:
 	.string "要是没有它，我们可就没法砍树来做\n"
 	.string "木炭了。\p"
 	.string "多谢你啊，小朋友！\p"
-	.string "该怎么谢你才好呢......\p"
+	.string "该怎么谢你才好呢……\p"
 	.string "有了！来，拿着这个。$"
 
 IlexForest_Text_CharcoalMasterOutro:
@@ -699,13 +699,13 @@ IlexForest_Text_Signpost:
 	.string "。$"
 
 IlexForest_Text_Shrine:
-	.string "栎树林的神龛......\p"
-	.string "这里供奉着森林的守护神.....\n"
+	.string "栎树林的神龛……\p"
+	.string "这里供奉着森林的守护神……\n"
 	.string ".$"
 
 IlexForest_Text_ShrineCelebiEvent:
-	.string "栎树林的神龛......\p"
-	.string "这里供奉着森林的守护神.....\n"
+	.string "栎树林的神龛……\p"
+	.string "这里供奉着森林的守护神……\n"
 	.string ".\p"
 	.string "咦？这是什么？\p"
 	.string "这里有个凹槽。看起来刚好可以把\n"
@@ -730,7 +730,7 @@ IlexForest_Text_BugCatcherWayneSeen:
 	.string "你把宝可梦都吓跑了！$"
 
 IlexForest_Text_BugCatcherWayneBeaten:
-	.string "那只宝可梦我以前可没见过....\n"
+	.string "那只宝可梦我以前可没见过……\n"
 	.string "..$"
 
 IlexForest_Text_BugCatcherWayneAfter:
@@ -751,7 +751,7 @@ IlexForest_Text_Kimono_Girl2:
 	.string "？$"
 
 IlexForest_Text_Kimono_Girl3:
-	.string "哎呀呀......你自己也迷路了\n"
+	.string "哎呀呀……你自己也迷路了\n"
 	.string "，对吧？$"
 
 IlexForest_Text_Kimono_Girl4:

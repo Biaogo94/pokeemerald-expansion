@@ -1021,9 +1021,9 @@ MatchCall_PersonalizedText38::
 
 MatchCall_PersonalizedText39::
 	.string "喂，我是{STR_VAR_1}.\n"
-	.string ".....哎呀！\p"
+	.string "……哎呀！\p"
 	.string "噗通！\p"
-	.string "咕噜咕噜咕噜......\p"
+	.string "咕噜咕噜咕噜……\p"
 	.string "哗啦！\p"
 	.string "呼--呼--！呼--呼--！\p"
 	.string "喂！抱歉啊！我刚才擦了防晒油。\p"
@@ -2082,7 +2082,7 @@ MatchCall_Text_Winona2::
 	.string "！\p"
 	.string "新冠军诞生的捷报，已经传遍了茵郁\n"
 	.string "市！\p"
-	.string "不过......下一次我们交手，\n"
+	.string "不过……下一次我们交手，\n"
 	.string "结果可不会跟上次一样了。$"
 
 MatchCall_Text_Winona3::
@@ -2098,25 +2098,25 @@ MatchCall_Text_Winona4::
 	.string "想一样。$"
 
 MatchCall_Text_TateLiza1::
-	.string "枫：哦！你是......南：\n"
+	.string "枫：哦！你是……南：\n"
 	.string "{PLAYER}！\p"
-	.string "枫：我们正在加紧修行......\n"
+	.string "枫：我们正在加紧修行……\n"
 	.string "南：为了能重开我们的道馆！\p"
-	.string "枫：等我们的道馆准备好了....\n"
+	.string "枫：等我们的道馆准备好了……\n"
 	.string "..南：等我们的道馆准备好了..\l"
 	.string "....\p"
-	.string "枫：名字旁边就会出现标记....\n"
+	.string "枫：名字旁边就会出现标记……\n"
 	.string "..南：就在对战寻呼名单上！$"
 
 MatchCall_Text_TateLiza2::
 	.string "枫：{PLAYER}，恭喜你！南\n"
 	.string "：{PLAYER}，恭喜你！\p"
-	.string "枫：我们两个呢......南：还\n"
+	.string "枫：我们两个呢……南：还\n"
 	.string "在修行当中！\p"
 	.string "枫：虽然还需要一点时间，不过..\n"
-	.string "....南：等我们的道馆准备好了\l"
+	.string "……南：等我们的道馆准备好了\l"
 	.string "......\p"
-	.string "枫：名字旁边就会出现标记....\n"
+	.string "枫：名字旁边就会出现标记……\n"
 	.string "..南：就在对战寻呼名单上！$"
 
 MatchCall_Text_TateLiza3::
@@ -2124,18 +2124,18 @@ MatchCall_Text_TateLiza3::
 	.string "{PLAYER}！\p"
 	.string "枫：我们的道馆准备好啦！南：我们\n"
 	.string "的道馆准备好啦！\p"
-	.string "枫：随时欢迎......南：来绿\n"
+	.string "枫：随时欢迎……南：来绿\n"
 	.string "岭市做客！$"
 
 MatchCall_Text_TateLiza4::
 	.string "枫：{PLAYER}，和你进行的\n"
-	.string "对战......南：是不可多得的\l"
+	.string "对战……南：是不可多得的\l"
 	.string "宝贵经验。\p"
-	.string "枫：要是之后能......南：再\n"
+	.string "枫：要是之后能……南：再\n"
 	.string "一起对战就好了！$"
 
 MatchCall_Text_Juan1::
-	.string "亚当：唔......是叫\n"
+	.string "亚当：唔……是叫\n"
 	.string "{PLAYER}{KUN}...\l"
 	.string "...对吧？\p"
 	.string "与你之间的对战，让我想起了第一次\n"
@@ -2144,16 +2144,16 @@ MatchCall_Text_Juan1::
 	.string "才呢！$"
 
 MatchCall_Text_Juan2::
-	.string "亚当：呵呵......\n"
+	.string "亚当：呵呵……\n"
 	.string "{PLAYER}{KUN}...\l"
 	.string "...你终于实现了自己的目标。\p"
-	.string "看来我识人的眼光果然没错....\n"
+	.string "看来我识人的眼光果然没错……\n"
 	.string "..\p"
 	.string "既然你已经登上了力量与声望的巅峰\n"
 	.string "，我真希望有机会能与你再度相会。$"
 
 MatchCall_Text_Juan3::
-	.string "亚当：嚯嚯......\n"
+	.string "亚当：嚯嚯……\n"
 	.string "{PLAYER}{KUN}...\l"
 	.string "...\p"
 	.string "我们的琉璃道馆终于重新开放了。\p"
@@ -2163,10 +2163,10 @@ MatchCall_Text_Juan4::
 	.string "亚当：{PLAYER}{KUN}\n"
 	.string "......\p"
 	.string "与你交锋的战斗宛如天籁之音，在我\n"
-	.string "心弦上拨动出灵感的共鸣.....\l"
+	.string "心弦上拨动出灵感的共鸣……\l"
 	.string ".\p"
 	.string "每当我闭上双眼，便能看见你随着旋\n"
-	.string "律翩跹翱翔的身姿......$"
+	.string "律翩跹翱翔的身姿……$"
 
 MatchCall_Text_Sidney::
 	.string "花月：哟，{PLAYER}！\p"
@@ -2548,8 +2548,8 @@ MatchCall_Text_Scott4::
 	.string "好像是叫熔岩队和水舰队吧。\p"
 	.string "我本来还以为那帮人里会有几位身手\n"
 	.string "不凡的训练家呢。\p"
-	.string "......不过如果只是些暴徒的\n"
-	.string "话......$"
+	.string "……不过如果只是些暴徒的\n"
+	.string "话……$"
 
 MatchCall_Text_Scott5::
 	.string "亚希达：哦，嗨，{PLAYER}\n"
@@ -2613,7 +2613,7 @@ MatchCall_Text_Norman5::
 
 MatchCall_Text_Norman6::
 	.string "爸爸：喝啊！哈啊！咄啊！\p"
-	.string "......哦？是\n"
+	.string "……哦？是\n"
 	.string "{PLAYER}啊！\p"
 	.string "你正好赶上我和宝可梦热火朝天地修\n"
 	.string "行呢！$"
@@ -2632,7 +2632,7 @@ MatchCall_Text_Norman8::
 	.string "的挑战吧！$"
 
 MatchCall_Text_Norman9::
-	.string "爸爸：......你真让我刮目相\n"
+	.string "爸爸：……你真让我刮目相\n"
 	.string "看啊，{PLAYER}。你究竟还\l"
 	.string "能飞得多高呢？$"
 

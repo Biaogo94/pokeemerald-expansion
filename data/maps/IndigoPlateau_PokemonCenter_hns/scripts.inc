@@ -95,13 +95,13 @@ IndigoPlateau_Text_RivalEntrance1:
 
 IndigoPlateau_Text_RivalWin:
     .string "......\p"
-    .string "好......我输了......$"
+    .string "好……我输了……$"
 
 IndigoPlateau_Text_RivalAfter:
-    .string "......可恶......还是\n"
-    .string "赢不了吗......\p"
-    .string "我......我必须更加为我的宝\n"
-    .string "可梦着想才行......\p"
+    .string "……可恶……还是\n"
+    .string "赢不了吗……\p"
+    .string "我……我必须更加为我的宝\n"
+    .string "可梦着想才行……\p"
     .string "哼！可别输得太难看啊！$"
 
 IndigoPlateau_EventScript_Psychic::
@@ -154,10 +154,10 @@ IndigoPlateau_Text_TeleportGuy1:
 
 IndigoPlateau_Text_TeleportGuyYes:
     .string "好，好。在脑海中想象出你家的样子\n"
-    .string "吧......$"
+    .string "吧……$"
 
 IndigoPlateau_Text_TeleportGuyNo:
     .string "好，好。祝你好运！$"
 
 IndigoPlateau_Text_Abra:
-    .string "凯西：开~西......$"
+    .string "凯西：开~西……$"

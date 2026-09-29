@@ -644,7 +644,7 @@ GoldenrodCity_GameCorner_Text_CooltrainerM:
     .string "罢休！$"
 
 GoldenrodCity_GameCorner_Text_PokefanF:
-    .string "轮盘啊......\p"
+    .string "轮盘啊……\p"
     .string "比起老虎机，我更喜欢玩这个，因为\n"
     .string "赔率更容易算。\p"
     .string "不过中奖的报酬也低很多就是了。$"

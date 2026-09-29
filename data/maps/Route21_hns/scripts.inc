@@ -26,7 +26,7 @@ Route21_Text_SwimmermSethSeen:
 	.string "看到陆地了！要加把劲游过去！$"
 
 Route21_Text_SwimmermSethBeaten:
-	.string "咕嘟......$"
+	.string "咕嘟……$"
 
 Route21_Text_SwimmermSethAfterBattle:
 	.string "红莲岛的火山那边，有个神气活现的\n"
@@ -37,7 +37,7 @@ Route21_Text_SwimmerfNikkiSeen:
 	.string "！$"
 
 Route21_Text_SwimmerfNikkiBeaten:
-	.string "真担心会被晒伤啊......$"
+	.string "真担心会被晒伤啊……$"
 
 Route21_Text_SwimmerfNikkiAfterBattle:
 	.string "我可得留心别被大太阳晒出斑点才行\n"
@@ -47,8 +47,8 @@ Route21_Text_FisherArnoldSeen:
 	.string "钓鱼钓腻了。来对战吧！$"
 
 Route21_Text_FisherArnoldBeaten:
-	.string "一败涂地......$"
+	.string "一败涂地……$"
 
 Route21_Text_FisherArnoldAfterBattle:
-	.string "我还是回去钓鱼吧......$"
+	.string "我还是回去钓鱼吧……$"
 

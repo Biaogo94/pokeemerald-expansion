@@ -24,7 +24,7 @@ SaffronCity_PokemonCenter_EventScript_Youngster::
 
 SaffronCity_PokemonCenter1F_Text_Teacher:
 	.string "城都的宝可梦中心是什么样子的？\p"
-	.string "......哦，原来如此。跟关都\n"
+	.string "……哦，原来如此。跟关都\n"
 	.string "的也没什么太大区别嘛。\p"
 	.string "那我就能放心地去城都啦！$"
 

@@ -161,7 +161,7 @@ PokedexRating_Text_LessThan80::
 	.string "到更多宝可梦的！$"
 
 PokedexRating_Text_LessThan90::
-	.string "太棒了！让我猜猜......你平\n"
+	.string "太棒了！让我猜猜……你平\n"
 	.string "时就很喜欢收集东西，对吧？$"
 
 PokedexRating_Text_LessThan100::
@@ -203,7 +203,7 @@ PokedexRating_Text_LookForwardToFilledNationalDex::
 	.string "天！$"
 
 PokedexRating_Text_YouveCompletedDex::
-	.string "终于......\p"
+	.string "终于……\p"
 	.string "你终于彻底完成了宝可梦图鉴！\p"
 	.string "太壮观了！这真是一项了不起的壮举\n"
 	.string "！$"
@@ -223,7 +223,7 @@ PokedexRating_Text_LoveSeeingYourPokedex::
 	.string "哇哈哈！\p"
 	.string "其实我心里有数，不过我就是喜欢亲\n"
 	.string "眼瞧瞧！\p"
-	.string "让我来看看......$"
+	.string "让我来看看……$"
 
 @ HnS (mostly directly copied from HGSS)
 
@@ -340,7 +340,7 @@ gJohtoDexRatingText_Complete::
 	.string "哇！城都图鉴已经全部完成了！\p"
 	.string "多亏了你，{PLAYER}，城都\n"
 	.string "图鉴彻底完成了！\p"
-	.string "太震撼了......你交出了一份\n"
+	.string "太震撼了……你交出了一份\n"
 	.string "不可思议的答卷！$"
 
 gNationalDexRatingText_LessThan100::
@@ -378,7 +378,7 @@ gNationalDexRatingText_LessThan400::
 	.string "试着把它们全都找出来吧！$"
 
 gNationalDexRatingText_LessThan435::
-	.string "哇，你竟然收集了这么多.....\n"
+	.string "哇，你竟然收集了这么多……\n"
 	.string ".！老实说，连我都有些惊讶了！$"
 
 gNationalDexRatingText_LessThan465::
@@ -396,7 +396,7 @@ gNationalDexRatingText_LessThanMaxDex::
 gNationalDexRatingText_Complete::
 	.string "太完美了！这份全国图鉴实在太不可\n"
 	.string "思议了！\p"
-	.string "哇......\n"
+	.string "哇……\n"
 	.string "{PAUSE 10}\p"
 	.string "你出色地回应了我的期待！\p"
 	.string "不，你甚至超越了我的想象，\n"

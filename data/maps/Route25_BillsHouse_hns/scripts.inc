@@ -586,7 +586,7 @@ Route25_BillsHouse_Text_ExcitedToSee:
 	.string "你愿意给我看吗？那真是太好了！$"
 
 Route25_BillsHouse_Text_YouDontHaveIt:
-	.string "你身上没有吗？那可真遗憾....\n"
+	.string "你身上没有吗？那可真遗憾……\n"
 	.string "..$"
 
 Route25_BillsHouse_Text_ShownPokemon:

@@ -48,7 +48,7 @@ Route18_Text_BirdKeeperBobSeen:
 	.string "走自行车道是去玉虹市的捷径。$"
 
 Route18_Text_BirdKeeperBobBeaten:
-	.string "......呼！$"
+	.string "……呼！$"
 
 Route18_Text_BirdKeeperBobAfterBattle:
 	.string "要是没有自行车的话，是不准走这条\n"

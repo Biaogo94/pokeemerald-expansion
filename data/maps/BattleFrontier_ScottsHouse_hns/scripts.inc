@@ -211,7 +211,7 @@ BattleFrontier_ScottsHouse_EventScript_Scott_hnsFaceAwayWest_hns::
 
 BattleFrontier_ScottsHouse_Text_WelcomeToBattleFrontier_hns:
 	.string "亚希达：哎呀，欢迎欢迎！嘿嘿..\n"
-	.string "....地方有点窄，别介意啊。\p"
+	.string "……地方有点窄，别介意啊。\p"
 	.string "不管怎样，{PLAYER}\n"
 	.string "{KUN}，让我正式欢迎你来到对\l"
 	.string "战开拓区。\p"
@@ -280,12 +280,12 @@ BattleFrontier_ScottsHouse_Text_MayFindWildMonsInFrontier_hns:
 	.string "。\p"
 	.string "那，你猜怎么着？\p"
 	.string "在对战开拓区的某个角落，你也许会\n"
-	.string "遇到野生宝可梦哦......呼呼\l"
+	.string "遇到野生宝可梦哦……呼呼\l"
 	.string "呼！$"
 
 BattleFrontier_ScottsHouse_Text_YouveCollectedAllSilverSymbols_hns:
 	.string "亚希达：在对战开拓区玩得开心吗？\p"
-	.string "......等等......噢！\p"
+	.string "……等等……噢！\p"
 	.string "你的开拓区通行证！你已经集齐了全\n"
 	.string "部的银色象征？！\p"
 	.string "这简直太让人惊叹了！你果然很强，\n"
@@ -298,7 +298,7 @@ BattleFrontier_ScottsHouse_Text_YouveCollectedAllSilverSymbols_hns:
 BattleFrontier_ScottsHouse_Text_YouveCollectedAllGoldSymbols_hns:
 	.string "亚希达：希望你在对战开拓区一切都\n"
 	.string "过得开心。\p"
-	.string "......等等......天哪\n"
+	.string "……等等……天哪\n"
 	.string "，我简直不敢相信自己的眼睛！\p"
 	.string "你的开拓区通行证！你竟然集齐了全\n"
 	.string "部的金色象征？！\p"

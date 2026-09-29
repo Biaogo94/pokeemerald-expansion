@@ -128,9 +128,9 @@ VictoryRoadKanto_1F_Movement_SilverLeave:
 
 VictoryRoad_Text_RivalBefore:
     .string "慢着。\p"
-    .string "......你是准备去挑战宝可梦\n"
+    .string "……你是准备去挑战宝可梦\n"
     .string "联盟吗？\p"
-    .string "......别笑死人了。\p"
+    .string "……别笑死人了。\p"
     .string "你明明比我弱多了。\p"
     .string "我已经和以前不一样了。\p"
     .string "我现在带着最优秀、最强大的宝可梦\n"
@@ -139,21 +139,21 @@ VictoryRoad_Text_RivalBefore:
     .string "{PLAYER}！我要向你挑战！$"
 
 VictoryRoad_Text_RivalDefeat:
-    .string "......我竟然赢不了....\n"
+    .string "……我竟然赢不了……\n"
     .string "..\p"
-    .string "我已经倾尽了全力......\p"
+    .string "我已经倾尽了全力……\p"
     .string "你所拥有的，还有我所欠缺的...\n"
     .string "...\p"
     .string "我开始明白那个龙之大师对我说过的\n"
-    .string "话了......$"
+    .string "话了……$"
 
 VictoryRoad_Text_RivalAfter:
-    .string "......我可还没放弃成为最强\n"
-    .string "训练家的目标......\p"
+    .string "……我可还没放弃成为最强\n"
+    .string "训练家的目标……\p"
     .string "我会查明白自己为什么赢不了，并且\n"
-    .string "变得更强......\p"
+    .string "变得更强……\p"
     .string "等到了那时候，我一定会再来挑战\n"
     .string "你。\p"
     .string "然后全力以赴把你打趴下。\p"
-    .string "......哼！在那之前，你可别\n"
+    .string "……哼！在那之前，你可别\n"
     .string "懈怠了。$"

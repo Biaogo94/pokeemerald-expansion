@@ -30,7 +30,7 @@ SaffronCity_SilphCo_EventScript_Refused::
 	end
 
 SaffronCity_SilphCo_Text_Refused:
-	.string "哎呀......$"
+	.string "哎呀……$"
 
 SaffronCity_SilphCo_EventScript_TreeckoChosen::
 	closemessage
@@ -92,12 +92,12 @@ SaffronCity_SilphCo_Movement_StevenLeave:
 
 
 SaffronCity_SilphCo_Text_Steven1:
-	.string "喂......信号不太好呢...\n"
+	.string "喂……信号不太好呢...\n"
 	.string "...我想这得看我爸爸怎么决定了\l"
-	.string "。我知道了......那我先出发\l"
+	.string "。我知道了……那我先出发\l"
 	.string "了。回头见。$"
 SaffronCity_SilphCo_Text_Steven2:
-	.string "大吾：你是......我记得你的\n"
+	.string "大吾：你是……我记得你的\n"
 	.string "眼神。\p"
 	.string "只要看到眼神澄澈闪烁的训练家，我\n"
 	.string "就一定能记住。\p"

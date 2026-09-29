@@ -586,7 +586,7 @@ BattleFrontier_BattleDomeLobby_Text_LastWinnerWasTough_hns:
 	.string "赛结果。$"
 
 BattleFrontier_OutsideWest_Text_LongDreamedAboutBattleFrontier_hns:
-	.string "对战开拓区......我一直梦想\n"
+	.string "对战开拓区……我一直梦想\n"
 	.string "着有这样一个地方。$"
 
 @ Functionally unused
@@ -608,7 +608,7 @@ BattleFrontier_BattleDomeLobby_Text_WinnersGainReputation_hns:
 
 BattleFrontier_BattleDomeLobby_Text_TrashedInFirstRound_hns:
 	.string "我在第一轮就碰上了夺冠大热门。\p"
-	.string "结果当然是被打得落花流水....\n"
+	.string "结果当然是被打得落花流水……\n"
 	.string "..$"
 
 BattleFrontier_BattleDomeLobby_Text_NeedToCheckOpponentCarefully_hns:

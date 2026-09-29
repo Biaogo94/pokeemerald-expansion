@@ -340,14 +340,14 @@ Alola_Ulaula_TotemBattle_Text_0:
 
 Alola_Ulaula_TotemBattle_Text_1:
 	.string "霸主巨蔓藤被击败了！它不知道逃到\n"
-	.string "哪里去了......$"
+	.string "哪里去了……$"
 
 Alola_Ulaula_TotemBattle_Text_2:
 	.string "咕噜啊！$"
 
 Alola_Ulaula_TotemBattle_Text_3:
 	.string "霸主火暴猴被击败了！它不知道逃到\n"
-	.string "哪里去了......$"
+	.string "哪里去了……$"
 
 UlaUla_Forest_hns_Movement_FacePlayerUpAfterTotemWarp:
 	face_up
@@ -376,7 +376,7 @@ Alola_Ulaula_Totem_sign_Text_5:
 
 Alola_Ulaula_Totem_sign_Text_6:
 	.string "这里伫立着一个奇异的图腾，正散发\n"
-	.string "出一股能量......$"
+	.string "出一股能量……$"
 
 Alola_Ulaula_BattleVsTapuBulu_Text_0:
 	.string "哞-哞噜！$"

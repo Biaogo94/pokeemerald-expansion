@@ -715,7 +715,7 @@ AzaleaTown_Gym_Text_BugsyRematch:
 
 AzaleaTown_Gym_Text_BugsyRematchDefeat:
 	.string "哇，你真是一位厉害的训练家。看来\n"
-	.string "我的研究还不够透彻......$"
+	.string "我的研究还不够透彻……$"
 
 AzaleaTown_Gym_Text_BugCatcherBennySeen:
 	.string "虫属性宝可梦在早期就会进化。所以\n"
@@ -732,12 +732,12 @@ AzaleaTown_Gym_Text_BugCatcherAlSeen:
 	.string "证明给你看！$"
 
 AzaleaTown_Gym_Text_BugCatcherAlBeaten:
-	.string "你证明了你有多强悍......$"
+	.string "你证明了你有多强悍……$"
 
 AzaleaTown_Gym_Text_BugCatcherAlAfter:
 	.string "明明那么帅气，但大多数女孩子都不\n"
 	.string "喜欢虫属性宝可梦呢。\p"
-	.string "不知道为什么......$"
+	.string "不知道为什么……$"
 
 AzaleaTown_Gym_Text_BugCatcherJoshSeen:
 	.string "是你拯救了所有的呆呆兽？哇，你真\n"
@@ -785,7 +785,7 @@ AzaleaTown_Gym_Text_GymGuide:
 	.string "的了解可是货真价实的。\p"
 	.string "如果没有我的建议，挑战会很艰难\n"
 	.string "哦。\p"
-	.string "让我想想......阿笔的蓑衣虫\n"
+	.string "让我想想……阿笔的蓑衣虫\n"
 	.string "宝可梦学会了能弥补其岩石属性弱点\l"
 	.string "的招式。\p"
 	.string "对了，可别忘了那些棘手的要害击\n"

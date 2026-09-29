@@ -250,7 +250,7 @@ BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead_hns:
 	.string "是太死板了！\p"
 	.string "听好了，懂吗？知识可不光是看书或\n"
 	.string "是死做案头工作。\p"
-	.string "光做那些事情......根本就毫\n"
+	.string "光做那些事情……根本就毫\n"
 	.string "无用处！\p"
 	.string "你得用心和身体去亲身体会，明白吗\n"
 	.string "？\p"
@@ -270,8 +270,8 @@ BattleFrontier_BattleFactoryBattleRoom_Text_ReceivedKnowledgeSymbol_hns:
 	.string "知识象征被刻在了开拓区通行证上！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NextTimeNoHoldsBarred_hns:
-	.string "嘿......你这小子还挺机灵的\n"
-	.string "嘛......\p"
+	.string "嘿……你这小子还挺机灵的\n"
+	.string "嘛……\p"
 	.string "下次我可要动真格的了。绝不留情，\n"
 	.string "懂吗？\p"
 	.string "你可要好好保持钻研啊！$"
@@ -279,7 +279,7 @@ BattleFrontier_BattleFactoryBattleRoom_Text_NextTimeNoHoldsBarred_hns:
 BattleFrontier_BattleFactoryBattleRoom_Text_HarderLookThanLastTime_hns:
 	.string "达拉：喂，喂！最近怎么样？有在好\n"
 	.string "好钻研吗？\p"
-	.string "......哦？\p"
+	.string "……哦？\p"
 	.string "看起来比上次见你时还要精悍成熟了\n"
 	.string "呢。\p"
 	.string "这下可有意思了！我都开始兴奋起来\n"
@@ -289,7 +289,7 @@ BattleFrontier_BattleFactoryBattleRoom_Text_AllRightBringItOn_hns:
 	.string "好嘞！放马过来吧！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass_hns:
-	.string "达拉：搞什么......你已经远\n"
+	.string "达拉：搞什么……你已经远\n"
 	.string "远超出我的水平了啊！\p"
 	.string "真是的！把开拓通行证拿来让我看看\n"
 	.string "！$"

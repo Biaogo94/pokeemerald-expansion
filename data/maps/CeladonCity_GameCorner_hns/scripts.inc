@@ -94,7 +94,7 @@ CeladonGameCorner_Text_Teacher:
 	.string "了吧。$"
 
 CeladonGameCorner_Text_FishingGuru:
-	.string "我觉得这台机器能中大奖.....\n"
+	.string "我觉得这台机器能中大奖……\n"
 	.string ".\p"
 	.string "每台机器的中奖概率都不一样呢。$"
 
@@ -112,17 +112,17 @@ CeladonGameCorner_Text_GymGuide:
 	.string "哟！未来的冠军！\p"
 	.string "你也在玩老虎机吗？\p"
 	.string "我想攒够代币换宝可梦奖品。\p"
-	.string "不过代币还远远不够呢......$"
+	.string "不过代币还远远不够呢……$"
 
 CeladonGameCorner_Text_PokefanF:
-	.string "轮盘啊......\p"
+	.string "轮盘啊……\p"
 	.string "比起老虎机，我更喜欢玩这个，因为\n"
 	.string "赔率更容易算。\p"
 	.string "不过中奖的报酬也低很多就是了。$"
 
 CeladonGameCorner_Text_Gramps:
-	.string "嗯......全部押在蓝色上的胜\n"
-	.string "率肯定更高，但是......该怎\l"
+	.string "嗯……全部押在蓝色上的胜\n"
+	.string "率肯定更高，但是……该怎\l"
 	.string "么办呢？$"
 
 CeladonGameCorner_Text_Woman:

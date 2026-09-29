@@ -130,12 +130,12 @@ BattleFrontier_Lounge2_Text_MyInformationsBeenUsefulRight_hns::
 	.string "我的情报对你肯定超级有帮助吧？$"
 
 BattleFrontier_Lounge2_Text_FacilityIsHottest_hns::
-	.string "让我想想......\p"
+	.string "让我想想……\p"
 	.string "听起来现在最热门的设施是\n"
 	.string "{STR_VAR_1}。$"
 
 BattleFrontier_Lounge2_Text_BattleTowerIsHottest_hns::
-	.string "让我想想......\p"
+	.string "让我想想……\p"
 	.string "听起来对战塔的\n"
 	.string "{STR_VAR_1}最受瞩目。$"
 
@@ -194,7 +194,7 @@ BattleFrontier_Lounge2_Text_FactoryHeadIsThere_hns::
 
 BattleFrontier_Lounge2_Text_FactoryHeadSilverMons_hns::
 	.string "你已经和工厂首领交过手了吗？\p"
-	.string "让我想想......他进行对战时\n"
+	.string "让我想想……他进行对战时\n"
 	.string "，也只是获得三只租用的宝可梦。\p"
 	.string "他的对战条件和你几乎完全相同。$"
 
@@ -340,6 +340,6 @@ BattleFrontier_Lounge2_Text_AmazingPowerOfPersuasion_hns::
 	.string "伦比！$"
 
 BattleFrontier_Lounge2_Text_ThisPlaceIsScaringMe_hns::
-	.string "......这是什么地方啊？好可\n"
-	.string "怕......$"
+	.string "……这是什么地方啊？好可\n"
+	.string "怕……$"
 

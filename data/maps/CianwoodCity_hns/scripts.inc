@@ -92,7 +92,7 @@ CianwoodCity_Text_ChucksWifeEasierToFly:
 	.string "你是一路渡海过来的吗？\p"
 	.string "那可真不容易啊。\p"
 	.string "要是你的宝可梦学会“飞翔”的话，\n"
-	.string "就会轻松得多了......$"
+	.string "就会轻松得多了……$"
 
 CianwoodCity_Text_ChucksWifeBeatChuck:
 	.string "不过要是没有这个城市的道馆徽章，\n"
@@ -276,8 +276,8 @@ CianwoodCity_Text_EusineSuicune:
 	.string "水君是如此美丽而威严。\p"
 	.string "在城镇与道路上以惊人的速度疾驰而\n"
 	.string "去。\p"
-	.string "真是太美妙了......\p"
-	.string "好想近距离看一眼水君啊....\n"
+	.string "真是太美妙了……\p"
+	.string "好想近距离看一眼水君啊……\n"
 	.string "..\p"
 	.string "我决定了。\p"
 	.string "为了赢得水君的认可，我要以训练家\n"

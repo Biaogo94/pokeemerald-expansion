@@ -118,7 +118,7 @@ SaffronCity_Text_PokefanM_ReturnedPart:
 
 SaffronCity_Text_CooltrainerM:
 	.string "我本来兴致勃勃地去道馆，想跟训练\n"
-	.string "家们大战一场......\p"
+	.string "家们大战一场……\p"
 	.string "结果，误闯进了隔壁已经废弃的道\n"
 	.string "馆。\p"
 	.string "哎呀，真是丢死人了。$"
@@ -130,14 +130,14 @@ SaffronCity_Text_CooltrainerF:
 	.string "公司。$"
 
 SaffronCity_Text_Fisher:
-	.string "嚼......嚼......\p"
+	.string "嚼……嚼……\p"
 	.string "听说发电厂那边出大乱子了。\p"
-	.string "嚼......嚼......$"
+	.string "嚼……嚼……$"
 
 SaffronCity_Text_Fisher_ReturnedPart:
-	.string "嚼......嚼......\p"
+	.string "嚼……嚼……\p"
 	.string "听说发电厂那边之前出了大乱子啊。\p"
-	.string "嚼......嚼......哈\n"
+	.string "嚼……嚼……哈\n"
 	.string "啊，吃饱了！$"
 
 SaffronCity_Text_Youngster1:

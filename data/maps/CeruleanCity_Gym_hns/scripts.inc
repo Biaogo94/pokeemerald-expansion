@@ -237,8 +237,8 @@ CeruleanGym_Text_MistyIntro:
 	.string "我的水属性宝可梦可是很厉害的！$"
 
 CeruleanGym_Text_MistyWinLoss:
-	.string "小霞：你真的很强呢......\p"
-	.string "我承认你的实力了......\p"
+	.string "小霞：你真的很强呢……\p"
+	.string "我承认你的实力了……\p"
 	.string "这个给你。这是蓝色徽章。$"
 
 CeruleanGym_Text_ReceivedBadge:
@@ -259,7 +259,7 @@ CeruleanGym_Text_MistyRematch:
 	.string "要跟我再比一场吗？$"
 
 CeruleanGym_Text_MistyRematchDefeat:
-	.string "小霞：你真的很厉害呢......$"
+	.string "小霞：你真的很厉害呢……$"
 
 CeruleanGym_Text_SwimmerfDianaSeen:
 	.string "抱歉刚刚不在。我们快开始吧！$"
@@ -274,7 +274,7 @@ CeruleanGym_Text_SwimmerfBrianaSeen:
 	.string "可别被我优雅的泳姿扰乱了心神哦。$"
 
 CeruleanGym_Text_SwimmerfBrianaBeaten:
-	.string "呜，你居然这么从容地就解决了我.\n"
+	.string "呜，你居然这么从容地就解决了我。\n"
 	.string ".....$"
 
 CeruleanGym_Text_SwimmerfBrianaAfter:
@@ -283,11 +283,11 @@ CeruleanGym_Text_SwimmerfBrianaAfter:
 	.string "得落花流水的。$"
 
 CeruleanGym_Text_SwimmermParkerSeen:
-	.string "咕噜咕噜......\p"
+	.string "咕噜咕噜……\p"
 	.string "我是第一个！放马过来吧！$"
 
 CeruleanGym_Text_SwimmermParkerBeaten:
-	.string "怎么会这样......$"
+	.string "怎么会这样……$"
 
 CeruleanGym_Text_SwimmermParkerAfter:
 	.string "小霞这几年的实力可是突飞猛进呢。\p"

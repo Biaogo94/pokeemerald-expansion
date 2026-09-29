@@ -421,7 +421,7 @@ BattleFrontier_Lounge7_Text_TeachMoveToWhichMon_hns:
 	.string "可梦吧。$"
 
 BattleFrontier_Lounge7_Text_HaventGotEnoughPoints_hns:
-	.string "什么啊......你的对战点数不\n"
+	.string "什么啊……你的对战点数不\n"
 	.string "够啊！$"
 
 BattleFrontier_Lounge7_Text_IllTakeBattlePoints_hns:
@@ -429,7 +429,7 @@ BattleFrontier_Lounge7_Text_IllTakeBattlePoints_hns:
 	.string "就收下啦，多谢！$"
 
 BattleFrontier_Lounge7_Text_YouDontWantTo_hns:
-	.string "什么嘛？你不想学啊......\p"
+	.string "什么嘛？你不想学啊……\p"
 	.string "要是想见识我的本领，随时都可以来\n"
 	.string "找我！$"
 
@@ -468,9 +468,9 @@ BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful_hns:
 	.string "实力。\p"
 	.string "甚至，她们传授的宝可梦招式变得更\n"
 	.string "加精妙了。\p"
-	.string "但是......不知为何，我总忍\n"
-	.string "不住感慨......\p"
-	.string "岁月真是太残酷了......$"
+	.string "但是……不知为何，我总忍\n"
+	.string "不住感慨……\p"
+	.string "岁月真是太残酷了……$"
 
 BattleFrontier_Lounge7_Text_SoftboiledDesc_hns::
 	.string "回复自己最大HP的一半。$"
@@ -549,7 +549,7 @@ BattleFrontier_Lounge7_Text_FirePunchDesc_hns::
 
 
 BattleFrontier_Lounge7_Text_ElementalTutorIntro::
-	.string "呼......呼......\p"
+	.string "呼……呼……\p"
 	.string "什、什么、怎么了？\p"
 	.string "啊，抱歉，我打了个瞌睡。\p"
 	.string "我是终极招式传授家。\p"
@@ -558,7 +558,7 @@ BattleFrontier_Lounge7_Text_ElementalTutorIntro::
 	.string "你是来学习这种强大的力量的吗？$"
 
 BattleFrontier_Lounge7_Text_ElementalTutorWelcomeBack:
-	.string "呼......呼......\p"
+	.string "呼……呼……\p"
 	.string "什、什么、怎么了、谁？\p"
 	.string "哦，你是来学习我那最强招式的力量\n"
 	.string "的吗？$"
