@@ -972,7 +972,7 @@ static const u8 *const sDesc_PartyLimit[] = {
     sText_Desc_PartyLimit, sText_Desc_PartyLimit, sText_Desc_PartyLimit,
 };
 static const u8 *const sDesc_LevelCap[] = {
-    COMPOUND_STRING("没有等级上限。\\n可以超过正常等级。"),
+    COMPOUND_STRING("没有等级上限。\n可以超过正常等级。"),
     COMPOUND_STRING("等级上限取决于下一座道馆\n最高{PKMN}的等级。"),
     COMPOUND_STRING("等级上限取决于下一座道馆\n最低{PKMN}的等级。"),
 };
@@ -997,12 +997,12 @@ static const u8 *const sDesc_NoEVs[] = {
 static const u8 *const sDesc_ScalingIVs[] = {
     COMPOUND_STRING("敌方训练家的{PKMN}\n拥有正常的个体值。"),
     COMPOUND_STRING("训练家{PKMN}的个体值\n会随道馆徽章提升！"),
-    COMPOUND_STRING("所有训练家{PKMN}\\n都是满个体值！"),
+    COMPOUND_STRING("所有训练家{PKMN}\n都是满个体值！"),
 };
 static const u8 *const sDesc_ScalingEVs[] = {
     COMPOUND_STRING("敌方训练家的{PKMN}\n没有努力值。"),
     COMPOUND_STRING("训练家{PKMN}的努力值\n会随道馆徽章提升！"),
-    COMPOUND_STRING("所有训练家{PKMN}\\n都拥有高努力值！"),
+    COMPOUND_STRING("所有训练家{PKMN}\n都拥有高努力值！"),
     COMPOUND_STRING("所有训练家{PKMN}\n都有252努力值！极难！"),
 };
 static const u8 *const sDesc_MaxPartyIVs[] = {
