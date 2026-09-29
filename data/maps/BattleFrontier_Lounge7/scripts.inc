@@ -330,8 +330,8 @@ BattleFrontier_Lounge7_Text_TeachWhichMove:
 
 BattleFrontier_Lounge7_Text_MoveWillBeXBattlePoints:
 	.string "{STR_VAR_1}，是吗？那\n"
-	.string "要付给我{STR_VAR_2}B\l"
-	.string "P的对战点数，如何？$"
+	.string "要付给我{STR_VAR_2}\l"
+	.string "BP的对战点数，如何？$"
 
 BattleFrontier_Lounge7_Text_TeachMoveToWhichMon:
 	.string "好，好，现在告诉我要教给哪只宝可\n"

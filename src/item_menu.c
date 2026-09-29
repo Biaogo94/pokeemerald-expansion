@@ -314,7 +314,7 @@ static const struct MenuAction sItemMenuActions[] = {
     [ACTION_BY_TYPE]           = {COMPOUND_STRING("种类"),      {ItemMenu_SortByType}},
     [ACTION_BY_AMOUNT]         = {COMPOUND_STRING("数量"),    {ItemMenu_SortByAmount}},
     [ACTION_BY_INDEX]          = {COMPOUND_STRING("编号"),     {ItemMenu_SortByIndex}},
-    [ACTION_REGISTER_TAP]      = {COMPOUND_STRING("TAP"),      {ItemMenu_Register}},
+    [ACTION_REGISTER_TAP]      = {COMPOUND_STRING("注册"),      {ItemMenu_Register}},
     [ACTION_REGISTER_HOLD]     = {COMPOUND_STRING("携带"),     {ItemMenu_RegisterHold}},
     [ACTION_DUMMY]             = {gText_EmptyString2, {NULL}}
 };

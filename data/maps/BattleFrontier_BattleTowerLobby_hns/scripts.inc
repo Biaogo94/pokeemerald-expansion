@@ -1336,8 +1336,8 @@ BattleFrontier_BattleTowerLobby_Text_ExplainSalonRules_hns:
 BattleFrontier_BattleTowerLobby_Text_ExplainMultiLinkRules_hns:
 	.string "通信多人对战模式是两位朋友一起并\n"
 	.string "肩挑战的模式。\p"
-	.string "你和朋友必须通过无线适配器或GB\n"
-	.string "A专用通信线进行连接。\p"
+	.string "你和朋友必须通过无线适配器或\n"
+	.string "GBA专用通信线进行连接。\p"
 	.string "在报名柜台时，每人必须各自选择2\n"
 	.string "只宝可梦。\p"
 	.string "这些宝可梦不能与朋友的重复。\p"

@@ -393,8 +393,8 @@ BattleFrontier_BattleArenaLobby_Text_OkayToSave:
 	.string "入记录。可以吗？$"
 
 BattleFrontier_BattleArenaLobby_Text_WhichLevelMode:
-	.string "对战竞技场提供2个等级的挑战，L\n"
-	.string "v. 50级和自由等级。您要选择\l"
+	.string "对战竞技场提供2个等级的挑战，\n"
+	.string "Lv.50级和自由等级。您要选择\l"
 	.string "哪个？$"
 
 BattleFrontier_BattleArenaLobby_Text_SelectThreeMons:

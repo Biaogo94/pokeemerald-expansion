@@ -266,9 +266,9 @@ BravoTrainerBattleTower_Text_ResponseUnsatisfied::
 	.string "直扑面而来呢！$"
 
 BravoTrainerBattleTower_Text_Outro::
-	.string "Bravo，\n"
-	.string "{STR_VAR_1}！Brav\l"
-	.string "o，{STR_VAR_2}！\p"
+	.string "精彩！精彩！{STR_VAR_1}！\p"
+	.string "还有{STR_VAR_2}也\n"
+	.string "同样精彩！\p"
 	.string "期待看到{STR_VAR_1}未\n"
 	.string "来再创佳绩！\p"
 	.string "本期节目就到这里！下次再见！$"

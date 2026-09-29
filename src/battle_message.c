@@ -194,8 +194,8 @@ const u8 *const gBattleStringsTable[STRINGID_COUNT] =
 {
     [STRINGID_TRAINER1LOSETEXT]                     = COMPOUND_STRING("{B_TRAINER1_LOSE_TEXT}"),
     [STRINGID_PKMNGAINEDEXP]                        = COMPOUND_STRING("{B_BUFF1}获得了\n{B_BUFF2}\l{B_BUFF3}经验值！\p"),
-    [STRINGID_PKMNGREWTOLV]                         = COMPOUND_STRING("{B_BUFF1}上升到了等级\n{B_BUFF2}！\l{WAIT_SE}\p"),
-    [STRINGID_PKMNLEARNEDMOVE]                      = COMPOUND_STRING("{B_BUFF1}学会了\n{B_BUFF2}！\l{WAIT_SE}\p"),
+    [STRINGID_PKMNGREWTOLV]                         = COMPOUND_STRING("{B_BUFF1}升到了\n{B_BUFF2}级！{WAIT_SE}\p"),
+    [STRINGID_PKMNLEARNEDMOVE]                      = COMPOUND_STRING("{B_BUFF1}学会了\n{B_BUFF2}！{WAIT_SE}\p"),
     [STRINGID_TRYTOLEARNMOVE1]                      = COMPOUND_STRING("{B_BUFF1}想要学习\n{B_BUFF2}。\p"),
     [STRINGID_TRYTOLEARNMOVE2]                      = COMPOUND_STRING("但是，{B_BUFF1}已经不能\n习得更多的招式。\p"),
     [STRINGID_TRYTOLEARNMOVE3]                      = COMPOUND_STRING("为了学习{B_BUFF2}，要忘\n记其他的招式吗？"),
@@ -387,7 +387,7 @@ const u8 *const gBattleStringsTable[STRINGID_COUNT] =
     [STRINGID_DEFENDERSSTATFELL]                    = COMPOUND_STRING("{B_DEF_NAME_WITH_PREFIX}\n的{B_BUFF1}\l{B_BUFF2}降低了！"),
     [STRINGID_CRITICALHIT]                          = COMPOUND_STRING("击中了要害！"),
     [STRINGID_ONEHITKO]                             = COMPOUND_STRING("一击必杀！"),
-    [STRINGID_123POOF]                              = COMPOUND_STRING("一......\n{PAUSE 10}二.....\l.{PAUSE 10}然后...\l...{PAUSE 10}\l{PAUSE 20}\l{PLAY_SE SE_BALL_BOUNCE_1}\l太棒啦！\p"),
+    [STRINGID_123POOF]                              = COMPOUND_STRING("1，{PAUSE 10}2，{PAUSE 10}……{PAUSE 10}\n{PAUSE 20}{PLAY_SE SE_BALL_BOUNCE_1}……砰！\p"),
     [STRINGID_ANDELLIPSIS]                          = COMPOUND_STRING("于是……\p"),
     [STRINGID_NOTVERYEFFECTIVE]                     = COMPOUND_STRING("好像效果不好……"),
     [STRINGID_SUPEREFFECTIVE]                       = COMPOUND_STRING("效果绝佳！"),
@@ -1415,14 +1415,14 @@ const u16 gZenModeStringIds[] =
 };
 
 const u8 gText_PkmnIsEvolving[] = _("……哦！？{STR_VAR_1}\n的样子……！");
-const u8 gText_CongratsPkmnEvolved[] = _("恭喜！{STR_VAR_1}进化\n为{STR_VAR_2}了！\l{WAIT_SE}\p");
+const u8 gText_CongratsPkmnEvolved[] = _("恭喜！{STR_VAR_1}进化\n为{STR_VAR_2}了！{WAIT_SE}\p");
 const u8 gText_PkmnStoppedEvolving[] = _("什么……？{STR_VAR_1}\n的变化停止了！\p");
 const u8 gText_EllipsisQuestionMark[] = _("......？\p");
 const u8 gText_WhatWillPkmnDo[] = _("{B_BUFF1}要做什么呢？");
 const u8 gText_WhatWillPkmnDo2[] = _("{B_PLAYER_NAME}要\n做什么呢？");
 const u8 gText_WhatWillWallyDo[] = _("满充要做什么呢？");
 const u8 gText_LinkStandby[] = _("{PAUSE 16}正在等待连接\n……");
-const u8 gText_BattleMenu[] = _("战斗{CLEAR_TO 56}包\n包宝可梦\l{CLEAR_TO 56}逃走");
+const u8 gText_BattleMenu[] = _("战斗{CLEAR_TO 56}背包\n宝可梦{CLEAR_TO 56}逃走");
 const u8 gText_SafariZoneMenu[] = _("精灵球{CLEAR_TO 56}\n{POKEBLOCK}靠近\l{CLEAR_TO 56}逃跑");
 const u8 gText_SafariZoneMenuFrlg[] = _("{PALETTE 5}\n{COLOR_HIGHLIGHT_SHADOW 13 14 15}\l精灵球{CLEAR_TO 56}\l诱饵投石\l{CLEAR_TO 56}逃跑");
 const u8 gText_MoveInterfacePP[] = _("PP ");

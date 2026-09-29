@@ -47,9 +47,9 @@ const u8 gText_Girl[] = _("女孩");
 const u8 gText_ThisIsAPokemon[] = _("这就是被我们称为“宝可梦”的生物\n。{PAUSE 96}\p");
 const u8 gText_5MarksPokemon[] = _("？？？宝可梦");
 const u8 gText_UnkHeight[] = _("{CLEAR_TO 0x0C}??'??”");
-const u8 gText_UnkHeightMetric[] = _("???.? m");
+const u8 gText_UnkHeightMetric[] = _("???.?米");
 const u8 gText_UnkWeight[] = _("????.? 磅");
-const u8 gText_UnkWeightMetric[] = _("???.? kg.");
+const u8 gText_UnkWeightMetric[] = _("???.?千克");
 const u8 gText_EmptyPkmnCategory[] = _("宝可梦"); // Unused
 const u8 gText_EmptyHeight[] = _("{CLEAR_TO 0x0C}    '    ”"); // Unused
 const u8 gText_EmptyWeight[] = _("         .  磅"); // Unused
@@ -425,14 +425,14 @@ const u8 gText_EggWillHatchSoon[] = _("好像偶尔在动。再过一点时间�
 const u8 gText_EggAboutToHatch[] = _("能听到从里面传来的声音！好像快要\n孵出来了！");
 const u8 gText_EggReadyToHatch_Nuzlocke[] = _("就要孵化了，但受限于Nuzloc\nke规则限制！");
 const u8 gText_HMMovesCantBeForgotten2[] = _("暂时不能忘记秘传招式。");
-const u8 gText_XNatureMetAtYZ[] = _("{DYNAMIC 0}\n{DYNAMIC 2}\l{DYNAMIC 1}\l{DYNAMIC 5}\l{DYNAMIC 6}\l{DYNAMIC 7}性格，在\l{LV_2}\l{DYNAMIC 0}\l{DYNAMIC 3}\l{DYNAMIC 1}时，于\l{DYNAMIC 0}\l{DYNAMIC 4}\l{DYNAMIC 1}相遇。");
-const u8 gText_XNatureHatchedAtYZ[] = _("{DYNAMIC 0}\n{DYNAMIC 2}\l{DYNAMIC 1}\l{DYNAMIC 5}\l{DYNAMIC 6}\l{DYNAMIC 7}性格，在\l{LV_2}\l{DYNAMIC 0}\l{DYNAMIC 3}\l{DYNAMIC 1}时，于\l{DYNAMIC 0}\l{DYNAMIC 4}\l{DYNAMIC 1}孵化。");
-const u8 gText_XNatureObtainedInTrade[] = _("{DYNAMIC 0}\n{DYNAMIC 2}\l{DYNAMIC 1}\l{DYNAMIC 5}\l{DYNAMIC 6}\l{DYNAMIC 7}性格，通过\l连接交换获得。");
-const u8 gText_XNatureFatefulEncounter[] = _("{DYNAMIC 0}\n{DYNAMIC 2}\l{DYNAMIC 1}\l{DYNAMIC 5}\l{DYNAMIC 6}\l{DYNAMIC 7}性格，在\l{LV_2}\l{DYNAMIC 0}\l{DYNAMIC 3}\l{DYNAMIC 1}时命运般的\l相遇。");
-const u8 gText_XNatureProbablyMetAt[] = _("{DYNAMIC 0}\n{DYNAMIC 2}\l{DYNAMIC 1}\l{DYNAMIC 5}\l{DYNAMIC 6}\l{DYNAMIC 7}性格，似乎\l是在{LV_2}\l{DYNAMIC 0}\l{DYNAMIC 3}\l{DYNAMIC 1}时，于\l{DYNAMIC 0}\l{DYNAMIC 4}\l{DYNAMIC 1}相遇。");
-const u8 gText_XNature[] = _("{DYNAMIC 0}\n{DYNAMIC 2}\l{DYNAMIC 1}\l{DYNAMIC 5}\l{DYNAMIC 6}\l{DYNAMIC 7}性格");
-const u8 gText_XNatureMetSomewhereAt[] = _("{DYNAMIC 0}\n{DYNAMIC 2}\l{DYNAMIC 1}\l{DYNAMIC 5}\l{DYNAMIC 6}\l{DYNAMIC 7}性格，在某\l处的{LV_2}\l{DYNAMIC 0}\l{DYNAMIC 3}\l{DYNAMIC 1}时相遇。");
-const u8 gText_XNatureHatchedSomewhereAt[] = _("{DYNAMIC 0}\n{DYNAMIC 2}\l{DYNAMIC 1}\l{DYNAMIC 5}\l{DYNAMIC 6}\l{DYNAMIC 7}性格，在某\l处的{LV_2}\l{DYNAMIC 0}\l{DYNAMIC 3}\l{DYNAMIC 1}时孵化。");
+const u8 gText_XNatureMetAtYZ[] = _("{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5}{DYNAMIC 6}{DYNAMIC 7}性格，\l在{LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}时，于\l{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}相遇。");
+const u8 gText_XNatureHatchedAtYZ[] = _("{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5}{DYNAMIC 6}{DYNAMIC 7}性格，\l在{LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}时，于\l{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}孵化。");
+const u8 gText_XNatureObtainedInTrade[] = _("{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5}{DYNAMIC 6}{DYNAMIC 7}性格，\l通过连接交换获得。");
+const u8 gText_XNatureFatefulEncounter[] = _("{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5}{DYNAMIC 6}{DYNAMIC 7}性格，\l在{LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}时，\l命运般地相遇了。");
+const u8 gText_XNatureProbablyMetAt[] = _("{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5}{DYNAMIC 6}{DYNAMIC 7}性格，\l似乎是在{LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}时，\l于{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}相遇的。");
+const u8 gText_XNature[] = _("{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5}{DYNAMIC 6}{DYNAMIC 7}性格");
+const u8 gText_XNatureMetSomewhereAt[] = _("{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5}{DYNAMIC 6}{DYNAMIC 7}性格，\l似乎是在某处{LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}时相遇。");
+const u8 gText_XNatureHatchedSomewhereAt[] = _("{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5}{DYNAMIC 6}{DYNAMIC 7}性格，\l似乎是在某处{LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}时孵化。");
 const u8 gText_OddEggFoundByCouple[] = _("从培育屋夫妇那里发现的不可思议的\n宝可梦蛋。");
 const u8 gText_PeculiarEggNicePlace[] = _("在一个好地方得到的罕见的宝可梦蛋\n。");
 const u8 gText_PeculiarEggTrade[] = _("通过交换得到的罕见的宝可梦蛋。");
@@ -557,7 +557,7 @@ const u8 gText_MenuOptionPokedex[] = _("图鉴");
 const u8 gText_MenuOptionPokemon[] = _("宝可梦");
 const u8 gText_MenuOptionBag[] = _("背包");
 #if IS_HNS
-const u8 gText_MenuOptionPokenav[] = _("宝可梦齿轮");
+const u8 gText_MenuOptionPokenav[] = _("宝可装置");
 #else
 const u8 gText_MenuOptionPokenav[] = _("POKéNAV");
 #endif
@@ -1027,7 +1027,7 @@ const u8 gText_MenuPokedex[] = _("图鉴");
 const u8 gText_MenuPokemon[] = _("宝可梦");
 const u8 gText_MenuBag[] = _("背包");
 #if IS_HNS
-const u8 gText_MenuPokenav[] = _("宝可梦齿轮");
+const u8 gText_MenuPokenav[] = _("宝可装置");
 #else
 const u8 gText_MenuPokenav[] = _("POKéNAV");
 #endif

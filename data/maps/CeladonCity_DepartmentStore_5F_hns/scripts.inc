@@ -85,8 +85,8 @@ CeladonDeptStore5F_Text_Gentleman:
 	.string "可是手头的钱不够......$"
 
 CeladonDeptStore5F_Text_Sailor:
-	.string "我好想买PP提升剂来增加招式的P\n"
-	.string "P啊。可惜这东西根本没得卖...\l"
+	.string "我好想买PP提升剂来增加招式的\n"
+	.string "PP啊。可惜这东西根本没得卖...\l"
 	.string "...$"
 
 CeladonDeptStore5F_Text_Teacher:

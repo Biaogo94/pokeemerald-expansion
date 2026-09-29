@@ -1316,8 +1316,8 @@ Route111_Text_CeliaDefeat:
 	.string "啊啊！我真不该来的！$"
 
 Route111_Text_CeliaPostBattle:
-	.string "在这样的沙暴里，即便装备着我的G\n"
-	.string "OGO护目镜也没办法野餐啊……$"
+	.string "在这样的沙暴里，即便装备着我的\n"
+	.string "GOGO护目镜也没办法野餐啊……$"
 
 Route111_Text_BryanIntro:
 	.string "你到底有多强？让我们来揭开谜底吧\n"

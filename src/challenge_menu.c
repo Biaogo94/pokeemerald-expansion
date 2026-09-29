@@ -335,11 +335,11 @@ static const u16 sTextPal[] = INCBIN_U16("graphics/interface/option_menu_text_cu
 
 static const u8 *const sChoices_OffOn[] = {
     COMPOUND_STRING("关"),
-    COMPOUND_STRING("ON"),
+    COMPOUND_STRING("开"),
 };
 
 static const u8 *const sChoices_OnOff[] = {
-    COMPOUND_STRING("ON"),
+    COMPOUND_STRING("开"),
     COMPOUND_STRING("关"),
 };
 
@@ -527,7 +527,7 @@ static const u8 *const sChoices_OffChaos[] = {
 
 static const u8 *const sChoices_YesNo[] = {
     COMPOUND_STRING("是"),
-    COMPOUND_STRING("NO"),
+    COMPOUND_STRING("否"),
 };
 
 static const u8 *const sChoices_BanUnban[] = {

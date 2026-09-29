@@ -63,19 +63,18 @@ BerryTree_EventScript_ItemUseWailmerPail::
 	end
 
 BerryTree_Text_Hns_NotRipe:
-	.string "这是一棵树果树！树果还没有成熟。$"
+	.string "这棵果树上还没有成熟的树果。$"
 
 BerryTree_Text_Hns_Picked:
-	.string "{PLAYER}摘下了\n"
-	.string "{STR_VAR_2}个\l"
+	.string "摘下了{STR_VAR_2}个\n"
 	.string "{STR_VAR_1}。$"
 
 BerryTree_Text_Hns_BagFull:
-	.string "包包的树果口袋满了。\p"
-	.string "没法带走{STR_VAR_1}。$"
+	.string "树果口袋已满。\p"
+	.string "{STR_VAR_1}带不走了。$"
 
 BerryTree_Text_Hns_Sprouted:
-	.string "树果树突然发芽了！$"
+	.string "树果树发芽了！$"
 
 #else
 

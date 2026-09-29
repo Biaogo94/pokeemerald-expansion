@@ -346,8 +346,8 @@ static const u8 *const sPageDescriptions[] =
     [POKENAV_MENUITEM_RIBBONS]                 = COMPOUND_STRING("查看获得的奖章。"),
 #if IS_HNS
     [POKENAV_MENUITEM_RADIO]                   = COMPOUND_STRING("收听广播。"),
-    [POKENAV_MENUITEM_SWITCH_OFF]              = COMPOUND_STRING("收起宝可梦齿轮。"),
-    [POKENAV_MENUITEM_CONDITION_CANCEL]        = COMPOUND_STRING("返回宝可梦齿轮菜单。"),
+    [POKENAV_MENUITEM_SWITCH_OFF]              = COMPOUND_STRING("收起宝可装置。"),
+    [POKENAV_MENUITEM_CONDITION_CANCEL]        = COMPOUND_STRING("返回宝可装置菜单。"),
 #else
     [POKENAV_MENUITEM_SWITCH_OFF]              = COMPOUND_STRING("收起宝可梦导航器。"),
     [POKENAV_MENUITEM_CONDITION_CANCEL]        = COMPOUND_STRING("返回宝可梦导航器菜单。"),

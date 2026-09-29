@@ -1679,8 +1679,8 @@ gText_ApprenticeMonThanks10::
 	.string "谢谢师父！以后也请多多指教啦！$"
 
 gText_ApprenticeWhichMon11::
-	.string "A——H——O——Y！就是Aho\n"
-	.string "y的拼法！\p"
+	.string "A——H——O——Y！就是\n"
+	.string "Ahoy的拼法！\p"
 	.string "我就是那个说唱水手！你肯定记得我\n"
 	.string "是谁吧？\p"
 	.string "今天有个宝可梦问题需要你的建议！\p"
@@ -2298,8 +2298,8 @@ gText_ApprenticePickWinSpeech9::
 
 gText_ApprenticeWinSpeechThanks9::
 	.string "{STR_VAR_1}\p"
-	.string "嗯哼，这话真棒！Si, buen\n"
-	.string "o！嗯哼，我会试着这么说，就像，\l"
+	.string "嗯哼，这话真棒！Si,\n"
+	.string "bueno！嗯哼，我会试着这么说，就像，\l"
 	.string "火腿！\p"
 	.string "那么，是时候说再见了！感谢你为我\n"
 	.string "做的一切！\p"
@@ -2331,8 +2331,8 @@ gText_ApprenticeWinSpeechThanks10::
 	.string "就这样吧！再见了，我的师父！$"
 
 gText_ApprenticePickWinSpeech11::
-	.string "A——H——O——Y！就是Aho\n"
-	.string "y，嗨的拼法！\p"
+	.string "A——H——O——Y！就是\n"
+	.string "Ahoy，嗨的拼法！\p"
 	.string "我就是那个说唱水手！这将是我最后\n"
 	.string "的问题，你可别哭！\p"
 	.string "这是个寻求你建议的台词问题！\p"

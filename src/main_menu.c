@@ -258,7 +258,7 @@ static const u16 sBirchSpeechBgGradientPal[] = INCBIN_U16("graphics/birch_speech
 
 static const u8 gText_SaveFileCorrupted[] = _("存档文件已损坏。\n将读取之前的存档。");
 static const u8 gText_SaveFileErased[] = _("存档文件已因损坏\n被删除。");
-static const u8 gJPText_No1MSubCircuit[] = _("1Mサブきばんが ささっていません！");
+static const u8 gJPText_No1MSubCircuit[] = _("未检测到1M子电路卡带！");
 static const u8 gText_BatteryRunDry[] = _("内部电池电量耗尽。\n游戏仍可运行。\p但是，基于时钟的事件\n将不再发生。");
 
 static const u8 gText_MainMenuNewGame[] = _("从头开始");
@@ -478,49 +478,49 @@ static const struct MenuAction sMenuActions_Gender[] = {
 };
 
 static const u8 *const sMalePresetNames[] = {
-    COMPOUND_STRING("STU"),
-    COMPOUND_STRING("MILTON"),
-    COMPOUND_STRING("TOM"),
-    COMPOUND_STRING("KENNY"),
-    COMPOUND_STRING("REID"),
-    COMPOUND_STRING("JUDE"),
-    COMPOUND_STRING("JAXSON"),
-    COMPOUND_STRING("EASTON"),
-    COMPOUND_STRING("WALKER"),
-    COMPOUND_STRING("TERU"),
-    COMPOUND_STRING("JOHNNY"),
-    COMPOUND_STRING("BRETT"),
-    COMPOUND_STRING("SETH"),
-    COMPOUND_STRING("TERRY"),
-    COMPOUND_STRING("CASEY"),
-    COMPOUND_STRING("DARREN"),
-    COMPOUND_STRING("LANDON"),
-    COMPOUND_STRING("COLLIN"),
-    COMPOUND_STRING("STANLEY"),
-    COMPOUND_STRING("QUINCY")
+    COMPOUND_STRING("阿响"),
+    COMPOUND_STRING("响太"),
+    COMPOUND_STRING("小响"),
+    COMPOUND_STRING("阿金"),
+    COMPOUND_STRING("金太"),
+    COMPOUND_STRING("健太"),
+    COMPOUND_STRING("大辅"),
+    COMPOUND_STRING("小诚"),
+    COMPOUND_STRING("诚也"),
+    COMPOUND_STRING("武志"),
+    COMPOUND_STRING("大树"),
+    COMPOUND_STRING("拓海"),
+    COMPOUND_STRING("小翼"),
+    COMPOUND_STRING("悠真"),
+    COMPOUND_STRING("真人"),
+    COMPOUND_STRING("快斗"),
+    COMPOUND_STRING("光辉"),
+    COMPOUND_STRING("小豪"),
+    COMPOUND_STRING("豪太"),
+    COMPOUND_STRING("直树")
 };
 
 static const u8 *const sFemalePresetNames[] = {
-    COMPOUND_STRING("KIMMY"),
-    COMPOUND_STRING("TIARA"),
-    COMPOUND_STRING("BELLA"),
-    COMPOUND_STRING("JAYLA"),
-    COMPOUND_STRING("ALLIE"),
-    COMPOUND_STRING("LIANNA"),
-    COMPOUND_STRING("SARA"),
-    COMPOUND_STRING("MONICA"),
-    COMPOUND_STRING("CAMILA"),
-    COMPOUND_STRING("AUBREE"),
-    COMPOUND_STRING("RUTHIE"),
-    COMPOUND_STRING("HAZEL"),
-    COMPOUND_STRING("NADINE"),
-    COMPOUND_STRING("TANJA"),
-    COMPOUND_STRING("YASMIN"),
-    COMPOUND_STRING("NICOLA"),
-    COMPOUND_STRING("LILLIE"),
-    COMPOUND_STRING("TERRA"),
-    COMPOUND_STRING("LUCY"),
-    COMPOUND_STRING("HALIE")
+    COMPOUND_STRING("琴音"),
+    COMPOUND_STRING("小音"),
+    COMPOUND_STRING("琴里"),
+    COMPOUND_STRING("小雪"),
+    COMPOUND_STRING("雪乃"),
+    COMPOUND_STRING("美月"),
+    COMPOUND_STRING("小美"),
+    COMPOUND_STRING("芽衣"),
+    COMPOUND_STRING("小葵"),
+    COMPOUND_STRING("樱子"),
+    COMPOUND_STRING("小樱"),
+    COMPOUND_STRING("真由"),
+    COMPOUND_STRING("由奈"),
+    COMPOUND_STRING("玲奈"),
+    COMPOUND_STRING("小玲"),
+    COMPOUND_STRING("心美"),
+    COMPOUND_STRING("美羽"),
+    COMPOUND_STRING("小光"),
+    COMPOUND_STRING("绫乃"),
+    COMPOUND_STRING("阿葵")
 };
 
 // The number of male vs. female names is assumed to be the same.

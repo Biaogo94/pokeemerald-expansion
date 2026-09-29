@@ -698,7 +698,7 @@ static void DrawFrameTypeChoice(u8 selection, int y, bool8 active)
     }
     text[i] = EOS;
 
-    DrawRightSideChoiceText(COMPOUND_STRING("TYPE"), 104, y + 1, FALSE, active);
+    DrawRightSideChoiceText(COMPOUND_STRING("边框"), 104, y + 1, FALSE, active);
     DrawRightSideChoiceText(text, 128, y + 1, TRUE, active);
 }
 

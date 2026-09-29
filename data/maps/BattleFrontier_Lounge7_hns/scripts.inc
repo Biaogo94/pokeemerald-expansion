@@ -479,8 +479,8 @@ BattleFrontier_Lounge7_Text_SeismicTossDesc_hns::
 	.string "给予对手和自己等级相同的伤害。$"
 
 BattleFrontier_Lounge7_Text_DreamEaterDesc_hns::
-	.string "回复给予睡眠中对手的伤害的一半H\n"
-	.string "P。$"
+	.string "回复给予睡眠中对手的伤\n"
+	.string "害的一半HP。$"
 
 BattleFrontier_Lounge7_Text_MegaPunchDesc_hns::
 	.string "充满惊人力量的强力一拳。$"

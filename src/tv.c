@@ -192,7 +192,7 @@ static void DoTVShowLilycoveContestLady(void);
 static const u8 sText_Good[] = _("好");
 static const u8 sText_VeryGood[] = _("很好");
 static const u8 sText_Excellent[] = _("非常好");
-static const u8 sText_SoSo[] = _("So-so");
+static const u8 sText_SoSo[] = _("一般");
 static const u8 sText_Bad[] = _("差");
 static const u8 sText_TheWorst[] = _("最差");
 

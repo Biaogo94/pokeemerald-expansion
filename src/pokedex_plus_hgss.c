@@ -135,12 +135,12 @@ static const u16 sSizeScreenSilhouette_Pal[] = INCBIN_U16("graphics/pokedex/size
 
 static const u8 sText_Stats_Buttons[] = _("{A_BUTTON}切换   {DPAD_UPDOWN}招式");
 static const u8 sText_Stats_Buttons_Decapped[] = _("{A_BUTTON}切换   {DPAD_UPDOWN}招式");
-static const u8 sText_Stats_HP[] = _("HP");
-static const u8 sText_Stats_Attack[] = _("ATK");
-static const u8 sText_Stats_Defense[] = _("DEF");
-static const u8 sText_Stats_Speed[] = _("SPE");
-static const u8 sText_Stats_SpAttack[] = _("SP.A");
-static const u8 sText_Stats_SpDefense[] = _("SP.D");
+static const u8 sText_Stats_HP[] = _("体力");
+static const u8 sText_Stats_Attack[] = _("攻击");
+static const u8 sText_Stats_Defense[] = _("防御");
+static const u8 sText_Stats_Speed[] = _("速度");
+static const u8 sText_Stats_SpAttack[] = _("特攻");
+static const u8 sText_Stats_SpDefense[] = _("特防");
 static const u8 sText_Stats_EV_Plus1[] = _("{UP_ARROW_2}");
 static const u8 sText_Stats_EV_Plus2[] = _("{UP_ARROW_2}{UP_ARROW_2}");
 static const u8 sText_Stats_EV_Plus3[] = _("{UP_ARROW_2}{UP_ARROW_2}{UP_ARROW_2}");
@@ -179,7 +179,7 @@ static const u8 sText_Stats_FLUCTUATING[] = _("波动");
 static const u8 sText_Stats_MEDIUM_SLOW[] = _("中等偏慢");
 static const u8 sText_Stats_FAST[] = _("快");
 static const u8 sText_Stats_SLOW[] = _("慢");
-static const u8 sText_Stats_ContestHeart[] = _("H");
+static const u8 sText_Stats_ContestHeart[] = _("心");
 static const u8 sText_Stats_Minus[] = _("-");
 static const u8 sText_Stats_eggGroup[] = _("蛋组1：");
 static const u8 sText_Stats_eggGroup_Groups[] = _("{STR_VAR_1}/{STR_VAR_2}");
@@ -6750,7 +6750,7 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
                 break;
             case EVO_ITEM:
                 CopyItemName(evolutions[i].param, gStringVar2);
-                StringExpandPlaceholders(gStringVar4, COMPOUND_STRING("{STR_VAR_2} is used"));
+                StringExpandPlaceholders(gStringVar4, COMPOUND_STRING("使用{STR_VAR_2}"));
                 break;
             case EVO_SPLIT_FROM_EVO:
                 StringCopy(gStringVar4, COMPOUND_STRING("从"));
@@ -6779,7 +6779,7 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
             {
                 if (j == 0)
                 {
-                    StringAppend(gStringVar4, COMPOUND_STRING(", "));
+                    StringAppend(gStringVar4, COMPOUND_STRING("，"));
                 }
 
                 enum EvolutionConditions condition = evolutions[i].params[j].condition;
@@ -6794,16 +6794,16 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
                     }
                     break;
                 case IF_MIN_FRIENDSHIP:
-                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}friendship"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}亲密度"));
                     break;
                 case IF_ATK_GT_DEF:
-                    StringAppend(gStringVar4, COMPOUND_STRING("Atk > Def"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("攻击>防御"));
                     break;
                 case IF_ATK_EQ_DEF:
-                    StringAppend(gStringVar4, COMPOUND_STRING("Atk = Def"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("攻击=防御"));
                     break;
                 case IF_ATK_LT_DEF:
-                    StringAppend(gStringVar4, COMPOUND_STRING("Atk < Def"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("攻击<防御"));
                     break;
                 case IF_TIME:
                     switch (evolutions[i].params[j].arg1)
@@ -6851,19 +6851,19 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
                     StringAppend(gStringVar4, gStringVar2);
                     break;
                 case IF_MIN_BEAUTY:
-                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}beauty"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}美丽"));
                     break;
                 case IF_MIN_COOLNESS:
-                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}coolness"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}帅气"));
                     break;
                 case IF_MIN_SMARTNESS:
-                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}smartness"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}聪明"));
                     break;
                 case IF_MIN_TOUGHNESS:
-                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}toughness"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}强壮"));
                     break;
                 case IF_MIN_CUTENESS:
-                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}cuteness"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}可爱"));
                     break;
                 // Gen 4
                 case IF_SPECIES_IN_PARTY:
@@ -6908,7 +6908,7 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
                     if (condition == IF_REGION)
                         StringAppend(gStringVar4, COMPOUND_STRING("在"));
                     else if (condition == IF_NOT_REGION)
-                        StringAppend(gStringVar4, COMPOUND_STRING("out of "));
+                        StringAppend(gStringVar4, COMPOUND_STRING("不在"));
 
                     switch ((enum Region)evolutions[i].params[j].arg1)
                     {
@@ -6924,7 +6924,7 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
                     case REGION_KALOS: StringAppend(gStringVar4, COMPOUND_STRING("卡洛斯")); break;
                     case REGION_ALOLA: StringAppend(gStringVar4, COMPOUND_STRING("阿罗拉群岛")); break;
                     case REGION_GALAR: StringAppend(gStringVar4, COMPOUND_STRING("伽勒尔")); break;
-                    case REGION_HISUI: StringAppend(gStringVar4, COMPOUND_STRING("神都")); break;
+                    case REGION_HISUI: StringAppend(gStringVar4, COMPOUND_STRING("洗翠")); break;
                     case REGION_PALDEA: StringAppend(gStringVar4, COMPOUND_STRING("帕底亚")); break;
                     }
                     break;
@@ -7010,7 +7010,7 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
 
                 if (evolutions[i].params[j+1].condition != CONDITIONS_END)
                 {
-                    StringAppend(gStringVar4, COMPOUND_STRING(", "));
+                    StringAppend(gStringVar4, COMPOUND_STRING("，"));
                 }
             }
         }

@@ -1341,8 +1341,8 @@ BattleFrontier_BattleTowerLobby_Text_ExplainSalonRules:
 BattleFrontier_BattleTowerLobby_Text_ExplainMultiLinkRules:
 	.string "通过多人连线对战模式可以和朋友一\n"
 	.string "起挑战。\p"
-	.string "需要先和朋友通过无线适配器或GB\n"
-	.string "A连接线进行连接，\p"
+	.string "需要先和朋友通过无线适配器或\n"
+	.string "GBA连接线进行连接，\p"
 	.string "并在挑战申请处选好您要携带的宝可\n"
 	.string "梦，\p"
 	.string "这些宝可梦的种类要与您朋友的不同\n"

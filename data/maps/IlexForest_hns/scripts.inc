@@ -708,8 +708,8 @@ IlexForest_Text_ShrineCelebiEvent:
 	.string "这里供奉着森林的守护神.....\n"
 	.string ".\p"
 	.string "咦？这是什么？\p"
-	.string "这里有个凹槽。看起来刚好可以把G\n"
-	.string "S球放进去。\p"
+	.string "这里有个凹槽。看起来刚好可以把\n"
+	.string "GS球放进去。\p"
 	.string "要把GS球放进去吗？$"
 
 IlexForest_Text_InsertGSBall:

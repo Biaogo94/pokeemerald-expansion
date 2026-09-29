@@ -63,10 +63,9 @@ CeladonCity_Gym_Text_Erika_GiveTM:
 CeladonCity_Gym_Text_Erika_ExplainTM:
 	.string "这是“终极吸取”。\p"
 	.string "这是一个非常神奇的招式，能将给予\n"
-	.string "对手伤害的一半用来回复自己的H\l"
-	.string "P。\p"
-	.string "如果你喜欢的话，请务必用用看.\n"
-	.string ".....$"
+	.string "对手伤害的一半用来回复自己的\n"
+	.string "HP。\p"
+	.string "如果你喜欢的话，请务必用用看！$"
 
 CeladonCity_Gym_Text_ErikaAfterBattle:
 	.string "莉佳：输掉对战还是会让人有些心有\n"
