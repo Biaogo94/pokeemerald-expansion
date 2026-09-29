@@ -1,6 +1,7 @@
 #include "global.h"
 #include "line_break.h"
 #include "text.h"
+#include "chinese_text.h"
 #include "malloc.h"
 
 void StripLineBreaks(u8 *src)
