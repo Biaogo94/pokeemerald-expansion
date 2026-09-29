@@ -334,210 +334,210 @@ static const u16 sTextPal[] = INCBIN_U16("graphics/interface/option_menu_text_cu
 // =============================================================================
 
 static const u8 *const sChoices_OffOn[] = {
-    COMPOUND_STRING("OFF"),
+    COMPOUND_STRING("关"),
     COMPOUND_STRING("ON"),
 };
 
 static const u8 *const sChoices_OnOff[] = {
     COMPOUND_STRING("ON"),
-    COMPOUND_STRING("OFF"),
+    COMPOUND_STRING("关"),
 };
 
 static const u8 *const sChoices_Gamemode[] = {
-    COMPOUND_STRING("RECOMMENDED"),
-    COMPOUND_STRING("CUSTOM"),
+    COMPOUND_STRING("推荐"),
+    COMPOUND_STRING("自定义"),
 };
 
 static const u8 *const sChoices_OriginalModern[] = {
-    COMPOUND_STRING("ORIGINAL"),
-    COMPOUND_STRING("MODERN"),
+    COMPOUND_STRING("原版"),
+    COMPOUND_STRING("新版"),
 };
 
-static const u8 sText_TopBar_Left[]   = _("{L_BUTTON}PREVIOUS");
-static const u8 sText_TopBar_Right[]  = _("{R_BUTTON}NEXT");
-static const u8 sText_TopBar_Save[]   = _("{R_BUTTON}SAVE");
-static const u8 sText_TopBar_Cancel[] = _("{B_BUTTON}CANCEL");
+static const u8 sText_TopBar_Left[]   = _("{L_BUTTON}上一页");
+static const u8 sText_TopBar_Right[]  = _("{R_BUTTON}下一页");
+static const u8 sText_TopBar_Save[]   = _("{R_BUTTON}保存");
+static const u8 sText_TopBar_Cancel[] = _("{B_BUTTON}取消");
 
 // =============================================================================
 // Tab item tables — skeleton placeholders
 // =============================================================================
 
 static const u8 *const sDesc_Gamemode[] = {
-    COMPOUND_STRING("Recommended settings."),
-    COMPOUND_STRING("Choose your own rules."),
+    COMPOUND_STRING("推荐的设置。"),
+    COMPOUND_STRING("自行选择你的规则。"),
 };
 static const u8 *const sDesc_ModernMoves[] = {
-    COMPOUND_STRING("Generation 3 LEARNSETS and EGG\n MOVES with no changes."),
-    COMPOUND_STRING("Generation 7 LEARNSETS and EGG\n MOVES + minor changes."),
+    COMPOUND_STRING("第三世代的可学会招式与蛋招式，\n不做任何改动。"),
+    COMPOUND_STRING("第七世代的可学会招式与蛋招式，\n并做了少量改动。"),
 };
 static const u8 *const sDesc_Synchronize[] = {
-    COMPOUND_STRING("SYNCHRONIZE works as in GEN III.\n50% chance to copy nature."),
-    COMPOUND_STRING("SYNCHRONIZE works as in GEN VIII+.\n100% chance to copy nature."),
+    COMPOUND_STRING("同步特性与第三世代相同。\n50%概率复制性格。"),
+    COMPOUND_STRING("同步特性与第八世代以后相同。\n100%概率复制性格。"),
 };
 static const u8 *const sDesc_Sturdy[] = {
-    COMPOUND_STRING("STURDY works as in GEN III. Only\nnegates OHKO moves (GUILLOTINE, etc.)"),
-    COMPOUND_STRING("STURDY works as in GEN V+.\n{PKMN} survive lethal hits with 1HP."),
+    COMPOUND_STRING("结实与第三世代相同。\n仅免疫一击必杀招式。"),
+    COMPOUND_STRING("结实与第五世代以后相同。\n受致命攻击时以1HP存活。"),
 };
 static const u8 *const sDesc_NewCitrus[] = {
-    COMPOUND_STRING("SITRUS BERRY restores 30HP.\nSame as GEN III."),
-    COMPOUND_STRING("SITRUS BERRY restores 25% of\ntotal HP. Same as GEN IV and up."),
+    COMPOUND_STRING("文柚果回复30HP。\n与第三世代相同。"),
+    COMPOUND_STRING("文柚果回复最大HP的25%。\n与第四世代以后相同。"),
 };
 static const u8 *const sDesc_FairyTypes[] = {
-    COMPOUND_STRING("FAIRY TYPE isn't added to {PKMN}\nthat got it in GEN VI."),
-    COMPOUND_STRING("FAIRY TYPE is added / changed to\ncertain {PKMN}, as in GEN VI."),
+    COMPOUND_STRING("不会为在第六世代获得\n妖精属性的{PKMN}追加该属性。"),
+    COMPOUND_STRING("与第六世代相同，为部分{PKMN}\n追加或变更为妖精属性。"),
 };
 static const u8 *const sDesc_LegAbilities[] = {
-    COMPOUND_STRING("PRESSURE stays as the main\nability of some legendaries."),
-    COMPOUND_STRING("Legendaries have PRESSURE changed\nfor a better ability."),
+    COMPOUND_STRING("部分传说宝可梦的招牌特性\n仍为压迫感。"),
+    COMPOUND_STRING("传说宝可梦的压迫感\n被替换为更强的特性。"),
 };
 static const u8 *const sDesc_InfiniteTMs[] = {
-    COMPOUND_STRING("TMs are not reusable.\nLike in the original."),
-    COMPOUND_STRING("TMs are reusable."),
+    COMPOUND_STRING("招式学习器无法重复使用。\n与原版相同。"),
+    COMPOUND_STRING("招式学习器可以重复使用。"),
 };
 static const u8 *const sDesc_Mints[] = {
-    COMPOUND_STRING("Mints are not available ingame until\nfinishing the game."),
-    COMPOUND_STRING("Mints can be bought at the\nFLOWER SHOP after the 3rd badge."),
+    COMPOUND_STRING("通关之前无法在游戏中\n获得性格薄荷。"),
+    COMPOUND_STRING("获得3枚徽章后，可以在花店\n购买性格薄荷。"),
 };
 static const u8 *const sDesc_SurvivePoison[] = {
-    COMPOUND_STRING("Your {PKMN} will faint if they are\nPOISONED."),
-    COMPOUND_STRING("Your {PKMN} will survive the POISON\nstatus with 1HP."),
+    COMPOUND_STRING("{PKMN}在中毒状态下\n会逐渐失去HP而倒下。"),
+    COMPOUND_STRING("{PKMN}在中毒状态下\n会以1HP存活。"),
 };
 static const u8 *const sDesc_Split[] = {
-    COMPOUND_STRING("PHYSICAL and SPECIAL MOVES\ndepend on the {PKMN} TYPE."),
-    COMPOUND_STRING("PHYSICAL and SPECIAL MOVES\nare MOVE specific."),
+    COMPOUND_STRING("物理与特殊招式的划分\n取决于{PKMN}的属性。"),
+    COMPOUND_STRING("物理与特殊招式的划分\n取决于招式本身。"),
 };
 static const u8 *const sChoices_Gen3Gen7[] = {
-    COMPOUND_STRING("GEN 3"),
-    COMPOUND_STRING("GEN 7"),
+    COMPOUND_STRING("第3世代"),
+    COMPOUND_STRING("第7世代"),
 };
 static const u8 *const sChoices_Gen3Gen1[] = {
-    COMPOUND_STRING("GEN 3"),
-    COMPOUND_STRING("GEN 1"),
+    COMPOUND_STRING("第3世代"),
+    COMPOUND_STRING("第1世代"),
 };
 static const u8 *const sDesc_GenOneRecharge[] = {
-    COMPOUND_STRING("RECHARGE MOVES like HYPER BEAM will\nalways need to recharge after use."),
-    COMPOUND_STRING("If a RECHARGE MOVE KO's the opponent,\nno recharge turn is needed."),
+    COMPOUND_STRING("破坏光线等蓄力招式\n使用后必须蓄力。"),
+    COMPOUND_STRING("若蓄力招式击倒了对手，\n则无需再蓄力。"),
 };
 static const u8 *const sDesc_Next[] = {
-    COMPOUND_STRING("Continue to the next page."),
+    COMPOUND_STRING("继续到下一页。"),
 };
 
 static const struct ChallengeMenuItem sTabItems_Mode[] = {
     [ITEM_MODE_GAMEMODE] = {
-        .name         = COMPOUND_STRING("GAMEMODE"),
+        .name         = COMPOUND_STRING("游戏模式"),
         .descriptions = sDesc_Gamemode,
         .numChoices   = 2,
         .choiceNames  = sChoices_Gamemode,
     },
     [ITEM_MODE_MODERN_MOVES] = {
-        .name         = COMPOUND_STRING("{PKMN} MOVEPOOL"),
+        .name         = COMPOUND_STRING("{PKMN}招式池"),
         .descriptions = sDesc_ModernMoves,
         .numChoices   = 2,
         .choiceNames  = sChoices_Gen3Gen7,
     },
     [ITEM_MODE_SYNCHRONIZE] = {
-        .name         = COMPOUND_STRING("SYNCHRONIZE"),
+        .name         = COMPOUND_STRING("同步"),
         .descriptions = sDesc_Synchronize,
         .numChoices   = 2,
         .choiceNames  = sChoices_OriginalModern,
     },
     [ITEM_MODE_STURDY] = {
-        .name         = COMPOUND_STRING("STURDY"),
+        .name         = COMPOUND_STRING("结实"),
         .descriptions = sDesc_Sturdy,
         .numChoices   = 2,
         .choiceNames  = sChoices_OriginalModern,
     },
     [ITEM_MODE_NEW_CITRUS] = {
-        .name         = COMPOUND_STRING("SITRUS BERRY"),
+        .name         = COMPOUND_STRING("文柚果"),
         .descriptions = sDesc_NewCitrus,
         .numChoices   = 2,
         .choiceNames  = sChoices_OriginalModern,
     },
     [ITEM_MODE_FAIRY_TYPES] = {
-        .name         = COMPOUND_STRING("ADD FAIRY TYPE"),
+        .name         = COMPOUND_STRING("追加妖精属性"),
         .descriptions = sDesc_FairyTypes,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_MODE_LEGENDARY_ABILITIES] = {
-        .name         = COMPOUND_STRING("LEGEN. ABILITIES"),
+        .name         = COMPOUND_STRING("传说宝可梦特性"),
         .descriptions = sDesc_LegAbilities,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_MODE_INFINITE_TMS] = {
-        .name         = COMPOUND_STRING("REUSABLE TMS"),
+        .name         = COMPOUND_STRING("学习器复用"),
         .descriptions = sDesc_InfiniteTMs,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_MODE_MINTS] = {
-        .name         = COMPOUND_STRING("NATURE MINTS"),
+        .name         = COMPOUND_STRING("性格薄荷"),
         .descriptions = sDesc_Mints,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_MODE_SURVIVE_POISON] = {
-        .name         = COMPOUND_STRING("SURVIVE POISON"),
+        .name         = COMPOUND_STRING("中毒存活"),
         .descriptions = sDesc_SurvivePoison,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_MODE_SPLIT] = {
-        .name         = COMPOUND_STRING("PHYS/SP SPLIT"),
+        .name         = COMPOUND_STRING("物理特殊分割"),
         .descriptions = sDesc_Split,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_MODE_GEN_ONE_RECHARGE] = {
-        .name         = COMPOUND_STRING("RECHARGE MOVES"),
+        .name         = COMPOUND_STRING("蓄力招式"),
         .descriptions = sDesc_GenOneRecharge,
         .numChoices   = 2,
         .choiceNames  = sChoices_Gen3Gen1,
     },
     [ITEM_MODE_NEXT] = {
-        .name         = COMPOUND_STRING("NEXT"),
+        .name         = COMPOUND_STRING("下一页"),
         .descriptions = sDesc_Next,
         .numChoices   = 0,
         .choiceNames  = NULL,
     },
 };
 
-static const u8 *const sDesc_SaveExit[] = { COMPOUND_STRING("Save choices and continue...") };
-static const u8 sText_ConfirmSave[] = COMPOUND_STRING("Confirm your choices?");
+static const u8 *const sDesc_SaveExit[] = { COMPOUND_STRING("保存选择并继续……") };
+static const u8 sText_ConfirmSave[] = COMPOUND_STRING("确认你的选择吗？");
 
 // =============================================================================
 // Choice strings — shared across tabs
 // =============================================================================
 
 static const u8 *const sChoices_OffRandom[] = {
-    COMPOUND_STRING("OFF"),
-    COMPOUND_STRING("RANDOM"),
+    COMPOUND_STRING("关"),
+    COMPOUND_STRING("随机"),
 };
 
 static const u8 *const sChoices_GenScope[] = {
-    COMPOUND_STRING("GEN 1-9"),
-    COMPOUND_STRING("GEN 1-3"),
+    COMPOUND_STRING("第1-9世代"),
+    COMPOUND_STRING("第1-3世代"),
 };
 
 static const u8 *const sChoices_OffChaos[] = {
-    COMPOUND_STRING("OFF"),
-    COMPOUND_STRING("CHAOS"),
+    COMPOUND_STRING("关"),
+    COMPOUND_STRING("混乱"),
 };
 
 static const u8 *const sChoices_YesNo[] = {
-    COMPOUND_STRING("YES"),
+    COMPOUND_STRING("是"),
     COMPOUND_STRING("NO"),
 };
 
 static const u8 *const sChoices_BanUnban[] = {
-    COMPOUND_STRING("BAN"),
-    COMPOUND_STRING("UNBAN"),
+    COMPOUND_STRING("禁止"),
+    COMPOUND_STRING("解禁"),
 };
 
 static const u8 *const sChoices_RtcFake[] = {
-    COMPOUND_STRING("RTC"),
-    COMPOUND_STRING("FAKE RTC"),
+    COMPOUND_STRING("真实时钟"),
+    COMPOUND_STRING("模拟时钟"),
 };
 
 static const u8 *const sChoices_ShinyChance[] = {
@@ -549,19 +549,19 @@ static const u8 *const sChoices_ShinyChance[] = {
 };
 
 static const u8 *const sChoices_Nuzlocke[] = {
-    COMPOUND_STRING("OFF"),
-    COMPOUND_STRING("EASY"),
-    COMPOUND_STRING("NORMAL"),
-    COMPOUND_STRING("HARD"),
+    COMPOUND_STRING("关"),
+    COMPOUND_STRING("简单"),
+    COMPOUND_STRING("普通"),
+    COMPOUND_STRING("困难"),
 };
 
 static const u8 *const sChoices_CemeteryRelease[] = {
-    COMPOUND_STRING("CEMETERY"),
-    COMPOUND_STRING("RELEASE"),
+    COMPOUND_STRING("墓地"),
+    COMPOUND_STRING("放生"),
 };
 
 static const u8 *const sChoices_PartyLimit[] = {
-    COMPOUND_STRING("OFF"),
+    COMPOUND_STRING("关"),
     COMPOUND_STRING("5"),
     COMPOUND_STRING("4"),
     COMPOUND_STRING("3"),
@@ -570,9 +570,9 @@ static const u8 *const sChoices_PartyLimit[] = {
 };
 
 static const u8 *const sChoices_LevelCap[] = {
-    COMPOUND_STRING("OFF"),
-    COMPOUND_STRING("NORMAL"),
-    COMPOUND_STRING("HARD"),
+    COMPOUND_STRING("关"),
+    COMPOUND_STRING("普通"),
+    COMPOUND_STRING("困难"),
 };
 
 static const u8 *const sChoices_ExpMult[] = {
@@ -583,44 +583,44 @@ static const u8 *const sChoices_ExpMult[] = {
 };
 
 static const u8 *const sChoices_TrainerIVs[] = {
-    COMPOUND_STRING("OFF"),
-    COMPOUND_STRING("SCALE"),
-    COMPOUND_STRING("HARD"),
+    COMPOUND_STRING("关"),
+    COMPOUND_STRING("按比例"),
+    COMPOUND_STRING("困难"),
 };
 
 static const u8 *const sChoices_TrainerEVs[] = {
-    COMPOUND_STRING("OFF"),
-    COMPOUND_STRING("SCALE"),
-    COMPOUND_STRING("HARD"),
-    COMPOUND_STRING("EXTREM"),
+    COMPOUND_STRING("关"),
+    COMPOUND_STRING("按比例"),
+    COMPOUND_STRING("困难"),
+    COMPOUND_STRING("极难"),
 };
 
 static const u8 *const sChoices_PlayerIVs[] = {
-    COMPOUND_STRING("YES"),
+    COMPOUND_STRING("是"),
     COMPOUND_STRING("NO"),
     COMPOUND_STRING("NO (HP)"),
 };
 
 static const u8 *const sChoices_PkmnCenter[] = {
-    COMPOUND_STRING("YES"),
+    COMPOUND_STRING("是"),
     COMPOUND_STRING("NO"),
 };
 
 static const u8 *const sChoices_Expensive[] = {
-    COMPOUND_STRING("OFF"),
+    COMPOUND_STRING("关"),
     COMPOUND_STRING("x5"),
     COMPOUND_STRING("x10"),
     COMPOUND_STRING("x50!"),
 };
 
 static const u8 *const sChoices_EvoLimit[] = {
-    COMPOUND_STRING("OFF"),
-    COMPOUND_STRING("FIRST"),
-    COMPOUND_STRING("ALL"),
+    COMPOUND_STRING("关"),
+    COMPOUND_STRING("首个"),
+    COMPOUND_STRING("全部"),
 };
 
 static const u8 *const sChoices_BstEqual[] = {
-    COMPOUND_STRING("OFF"),
+    COMPOUND_STRING("关"),
     COMPOUND_STRING("100"),
     COMPOUND_STRING("255"),
     COMPOUND_STRING("500"),
@@ -631,65 +631,65 @@ static const u8 *const sChoices_BstEqual[] = {
 // =============================================================================
 
 static const u8 *const sDesc_RtcType[] = {
-    COMPOUND_STRING("Use vanilla Real Time Clock."),
-    COMPOUND_STRING("Use a fake Real Time Clock.\n1h in real life = 1 day in-game."),
+    COMPOUND_STRING("使用真实的系统时钟。"),
+    COMPOUND_STRING("使用模拟时钟。\n现实1小时=游戏内1天。"),
 };
 static const u8 *const sDesc_ShinyChance[] = {
-    COMPOUND_STRING("Very low chance of SHINY encounter.\nDefault chance from Generation III."),
-    COMPOUND_STRING("Low chance of SHINY encounter.\nDefault chance from Generation VI+."),
-    COMPOUND_STRING("Decent chance of SHINY encounter."),
-    COMPOUND_STRING("High chance of SHINY encounter."),
-    COMPOUND_STRING("Very high chance of SHINY encounter."),
+    COMPOUND_STRING("遇到异色{PKMN}的概率极低。\n第三世代的默认概率。"),
+    COMPOUND_STRING("遇到异色{PKMN}的概率较低。\n第六世代以后的默认概率。"),
+    COMPOUND_STRING("遇到异色{PKMN}的概率尚可。"),
+    COMPOUND_STRING("遇到异色{PKMN}的概率较高。"),
+    COMPOUND_STRING("遇到异色{PKMN}的概率极高。"),
 };
 static const u8 *const sDesc_ItemDrop[] = {
-    COMPOUND_STRING("Wild {PKMN} items will be only\nobtainable via capture or THIEF."),
-    COMPOUND_STRING("Wild {PKMN} will drop their hold\nitem after defeating them."),
+    COMPOUND_STRING("野生{PKMN}携带的道具\n只能通过收服或小偷获得。"),
+    COMPOUND_STRING("打倒野生{PKMN}后，\n它会掉落携带的道具。"),
 };
 static const u8 *const sDesc_FrontierBans[] = {
-    COMPOUND_STRING("Powerful legendary {PKMN} are banned\nin the BATTLE FRONTIER. Default."),
-    COMPOUND_STRING("All legendaries are allowed to\nparticipate in the BATTLE FRONTIER."),
+    COMPOUND_STRING("强大的传说宝可梦\n禁止参加对战开拓区。默认。"),
+    COMPOUND_STRING("所有传说宝可梦都可以\n参加对战开拓区。"),
 };
 static const u8 *const sDesc_ShinyColor[] = {
-    COMPOUND_STRING("Original shiny color palette for\nall {PKMN}. Default."),
-    COMPOUND_STRING("Some shiny {PKMN} have brand new\ncolor palettes."),
+    COMPOUND_STRING("所有{PKMN}使用原版的\n异色配色。默认。"),
+    COMPOUND_STRING("部分异色{PKMN}拥有\n全新的配色。"),
 };
 static const u8 *const sDesc_FeaturesNext[] = {
-    COMPOUND_STRING("Continue to Randomizer options."),
+    COMPOUND_STRING("继续到随机化选项。"),
 };
 
 static const struct ChallengeMenuItem sTabItems_Features[] = {
     [ITEM_FEATURES_RTC_TYPE] = {
-        .name         = COMPOUND_STRING("CLOCK TYPE"),
+        .name         = COMPOUND_STRING("时钟类型"),
         .descriptions = sDesc_RtcType,
         .numChoices   = 2,
         .choiceNames  = sChoices_RtcFake,
     },
     [ITEM_FEATURES_SHINY_CHANCE] = {
-        .name         = COMPOUND_STRING("SHINY CHANCE"),
+        .name         = COMPOUND_STRING("异色概率"),
         .descriptions = sDesc_ShinyChance,
         .numChoices   = 5,
         .choiceNames  = sChoices_ShinyChance,
     },
     [ITEM_FEATURES_SHINY_COLOR] = {
-        .name         = COMPOUND_STRING("ALT SHINY"),
+        .name         = COMPOUND_STRING("异色配色"),
         .descriptions = sDesc_ShinyColor,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_FEATURES_ITEM_DROP] = {
-        .name         = COMPOUND_STRING("ITEM DROP"),
+        .name         = COMPOUND_STRING("道具掉落"),
         .descriptions = sDesc_ItemDrop,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_FEATURES_FRONTIER_BANS] = {
-        .name         = COMPOUND_STRING("FRONTIER BANS"),
+        .name         = COMPOUND_STRING("开拓区禁用"),
         .descriptions = sDesc_FrontierBans,
         .numChoices   = 2,
         .choiceNames  = sChoices_BanUnban,
     },
     [ITEM_FEATURES_NEXT] = {
-        .name         = COMPOUND_STRING("NEXT"),
+        .name         = COMPOUND_STRING("下一页"),
         .descriptions = sDesc_FeaturesNext,
         .numChoices   = 0,
         .choiceNames  = NULL,
@@ -701,182 +701,182 @@ static const struct ChallengeMenuItem sTabItems_Features[] = {
 // =============================================================================
 
 static const u8 *const sDesc_RandomOffOn[] = {
-    COMPOUND_STRING("Game will not be randomized."),
-    COMPOUND_STRING("Play the game randomized.\nSettings below!"),
+    COMPOUND_STRING("游戏不会被随机化。"),
+    COMPOUND_STRING("以随机化方式游玩。\n设置见下方！"),
 };
 static const u8 *const sDesc_RandomStarter[] = {
-    COMPOUND_STRING("Standard starter {PKMN}."),
-    COMPOUND_STRING("Randomize starter {PKMN}."),
+    COMPOUND_STRING("标准的初始{PKMN}。"),
+    COMPOUND_STRING("随机化初始{PKMN}。"),
 };
 static const u8 *const sDesc_RandomWild[] = {
-    COMPOUND_STRING("Same wild encounter as in the\nbase game."),
-    COMPOUND_STRING("Randomize wild {PKMN}."),
+    COMPOUND_STRING("野生遭遇与原版相同。"),
+    COMPOUND_STRING("随机化野生{PKMN}。"),
 };
 static const u8 *const sDesc_RandomMapBased[] = {
-    COMPOUND_STRING("Wild encounters are fully random\nevery time."),
-    COMPOUND_STRING("Wild encounters are seeded per map.\nSame area always has the same {PKMN}."),
+    COMPOUND_STRING("野生遭遇每次都完全随机。"),
+    COMPOUND_STRING("野生遭遇按地图固定种子。\n同一区域始终出现相同{PKMN}。"),
 };
 static const u8 *const sDesc_RandomTrainer[] = {
-    COMPOUND_STRING("Trainer will have their expected\nparty."),
-    COMPOUND_STRING("Randomize enemy trainer parties."),
+    COMPOUND_STRING("训练家使用原本的队伍。"),
+    COMPOUND_STRING("随机化敌方训练家的队伍。"),
 };
 static const u8 *const sDesc_RandomStatic[] = {
-    COMPOUND_STRING("Static encounters will be the same\nas in the base game."),
-    COMPOUND_STRING("Named {PKMN}, casino {PKMN}, roamers, and\nsome other special {PKMN} won't change."),
+    COMPOUND_STRING("固定遭遇与原版相同。"),
+    COMPOUND_STRING("命名{PKMN}、游戏厅{PKMN}、游走宝可梦\n等特殊{PKMN}不会改变。"),
 };
 static const u8 *const sDesc_RandomSimilar[] = {
-    COMPOUND_STRING("{PKMN} replaced with similar tiered\nones. Currently based on evo stages."),
-    COMPOUND_STRING("Distribution of {PKMN} not balanced\naround their strength!"),
+    COMPOUND_STRING("{PKMN}会被替换为强度相近的种类。\n目前按进化阶段分级。"),
+    COMPOUND_STRING("{PKMN}的分布不会按强度\n进行平衡！"),
 };
 static const u8 *const sDesc_RandomLegendaries[] = {
-    COMPOUND_STRING("Legendary {PKMN} will not be\nincluded and randomized."),
-    COMPOUND_STRING("Include legendary {PKMN} in\nrandomization!"),
+    COMPOUND_STRING("传说宝可梦不会被纳入\n随机化对象。"),
+    COMPOUND_STRING("将传说宝可梦纳入\n随机化对象！"),
 };
 static const u8 *const sDesc_RandomGenScope[] = {
-    COMPOUND_STRING("Randomize into {PKMN} from every\ngeneration."),
-    COMPOUND_STRING("Only GEN 1-3 {PKMN} and their\ncross-gen evolutions."),
+    COMPOUND_STRING("从所有世代的{PKMN}中\n随机选择。"),
+    COMPOUND_STRING("仅限第1-3世代的{PKMN}\n及其跨世代进化。"),
 };
 static const u8 *const sDesc_RandomType[] = {
-    COMPOUND_STRING("{PKMN} types stay the same as in\nthe base game."),
-    COMPOUND_STRING("Randomize all {PKMN} types."),
+    COMPOUND_STRING("{PKMN}的属性与原版相同。"),
+    COMPOUND_STRING("随机化所有{PKMN}的属性。"),
 };
 static const u8 *const sDesc_RandomMoves[] = {
-    COMPOUND_STRING("{PKMN} moves stay the same as in\nthe base game."),
-    COMPOUND_STRING("Randomize all {PKMN} moves."),
+    COMPOUND_STRING("{PKMN}的招式与原版相同。"),
+    COMPOUND_STRING("随机化所有{PKMN}的招式。"),
 };
 static const u8 *const sDesc_RandomAbilities[] = {
-    COMPOUND_STRING("{PKMN} abilities stay the same as\nin the base game."),
-    COMPOUND_STRING("Randomize all {PKMN} abilities."),
+    COMPOUND_STRING("{PKMN}的特性与原版相同。"),
+    COMPOUND_STRING("随机化所有{PKMN}的特性。"),
 };
 static const u8 *const sDesc_RandomEvolutions[] = {
-    COMPOUND_STRING("{PKMN} evolutions stay the same as\nin the base game."),
-    COMPOUND_STRING("Randomize all {PKMN} evolutions."),
+    COMPOUND_STRING("{PKMN}的进化与原版相同。"),
+    COMPOUND_STRING("随机化所有{PKMN}的进化。"),
 };
 static const u8 *const sDesc_RandomEvoMethods[] = {
-    COMPOUND_STRING("The {PKMN} that can potentially\nevolve are unchanged."),
-    COMPOUND_STRING("Randomize evolution lines. Allows\nnew evolution lines to occur!"),
+    COMPOUND_STRING("可以进化的{PKMN}种类\n保持不变。"),
+    COMPOUND_STRING("随机化进化链。\n可能出现全新的进化链！"),
 };
 static const u8 *const sDesc_RandomTypeEffec[] = {
-    COMPOUND_STRING("Type effectiveness chart will remain\nthe same as in the base game."),
-    COMPOUND_STRING("Randomize type effectiveness.\nWARNING: CAN BE BUGGY!"),
+    COMPOUND_STRING("属性相性表与原版相同。"),
+    COMPOUND_STRING("随机化属性相性。\n警告：可能出现错误！"),
 };
 static const u8 *const sDesc_RandomItems[] = {
-    COMPOUND_STRING("All found or received items are the\nsame as in the base game."),
-    COMPOUND_STRING("Randomize found, hidden and received\nitems. KEY items are excluded!"),
+    COMPOUND_STRING("拾取和获得的道具\n与原版相同。"),
+    COMPOUND_STRING("随机化拾取、隐藏和获得的道具。\n重要物品除外！"),
 };
 static const u8 *const sDesc_RandomChaos[] = {
-    COMPOUND_STRING("Chaos mode disabled."),
-    COMPOUND_STRING("Every above chosen option will be\nvery chaotic. NOT recommended!"),
+    COMPOUND_STRING("混乱模式已关闭。"),
+    COMPOUND_STRING("上述所有选项都会变得\n极其混乱。不推荐！"),
 };
 static const u8 *const sDesc_RandomNext[] = {
-    COMPOUND_STRING("Continue to Nuzlocke options."),
+    COMPOUND_STRING("继续到Nuzlocke选项。"),
 };
 
 static const struct ChallengeMenuItem sTabItems_Randomizer[] = {
     [ITEM_RANDOM_OFF_ON] = {
-        .name         = COMPOUND_STRING("RANDOMIZER"),
+        .name         = COMPOUND_STRING("随机化"),
         .descriptions = sDesc_RandomOffOn,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_STARTER] = {
-        .name         = COMPOUND_STRING("STARTER {PKMN}"),
+        .name         = COMPOUND_STRING("初始{PKMN}"),
         .descriptions = sDesc_RandomStarter,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_WILD_PKMN] = {
-        .name         = COMPOUND_STRING("WILD {PKMN}"),
+        .name         = COMPOUND_STRING("野生{PKMN}"),
         .descriptions = sDesc_RandomWild,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_MAP_BASED] = {
-        .name         = COMPOUND_STRING("MAP SEEDED"),
+        .name         = COMPOUND_STRING("地图固定种子"),
         .descriptions = sDesc_RandomMapBased,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_RANDOM_TRAINER] = {
-        .name         = COMPOUND_STRING("TRAINER"),
+        .name         = COMPOUND_STRING("训练家"),
         .descriptions = sDesc_RandomTrainer,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_STATIC] = {
-        .name         = COMPOUND_STRING("STATIC {PKMN}"),
+        .name         = COMPOUND_STRING("固定{PKMN}"),
         .descriptions = sDesc_RandomStatic,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_SIMILAR] = {
-        .name         = COMPOUND_STRING("BALANCING"),
+        .name         = COMPOUND_STRING("平衡性"),
         .descriptions = sDesc_RandomSimilar,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_RANDOM_LEGENDARIES] = {
-        .name         = COMPOUND_STRING("LEGENDARIES"),
+        .name         = COMPOUND_STRING("传说宝可梦"),
         .descriptions = sDesc_RandomLegendaries,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_RANDOM_GEN_SCOPE] = {
-        .name         = COMPOUND_STRING("GEN SCOPE"),
+        .name         = COMPOUND_STRING("世代范围"),
         .descriptions = sDesc_RandomGenScope,
         .numChoices   = 2,
         .choiceNames  = sChoices_GenScope,
     },
     [ITEM_RANDOM_TYPE] = {
-        .name         = COMPOUND_STRING("TYPE"),
+        .name         = COMPOUND_STRING("属性"),
         .descriptions = sDesc_RandomType,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_MOVES] = {
-        .name         = COMPOUND_STRING("MOVES"),
+        .name         = COMPOUND_STRING("招式"),
         .descriptions = sDesc_RandomMoves,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_ABILITIES] = {
-        .name         = COMPOUND_STRING("ABILITIES"),
+        .name         = COMPOUND_STRING("特性"),
         .descriptions = sDesc_RandomAbilities,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_EVOLUTIONS] = {
-        .name         = COMPOUND_STRING("EVOLUTIONS"),
+        .name         = COMPOUND_STRING("进化"),
         .descriptions = sDesc_RandomEvolutions,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_EVO_METHODS] = {
-        .name         = COMPOUND_STRING("EVO LINES"),
+        .name         = COMPOUND_STRING("进化链"),
         .descriptions = sDesc_RandomEvoMethods,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_TYPE_EFFEC] = {
-        .name         = COMPOUND_STRING("EFFECTIVENESS"),
+        .name         = COMPOUND_STRING("属性相性"),
         .descriptions = sDesc_RandomTypeEffec,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_ITEMS] = {
-        .name         = COMPOUND_STRING("ITEMS"),
+        .name         = COMPOUND_STRING("道具"),
         .descriptions = sDesc_RandomItems,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_CHAOS] = {
-        .name         = COMPOUND_STRING("CHAOS MODE"),
+        .name         = COMPOUND_STRING("混乱模式"),
         .descriptions = sDesc_RandomChaos,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffChaos,
     },
     [ITEM_RANDOM_NEXT] = {
-        .name         = COMPOUND_STRING("NEXT"),
+        .name         = COMPOUND_STRING("下一页"),
         .descriptions = sDesc_RandomNext,
         .numChoices   = 0,
         .choiceNames  = NULL,
@@ -888,74 +888,74 @@ static const struct ChallengeMenuItem sTabItems_Randomizer[] = {
 // =============================================================================
 
 static const u8 *const sDesc_Nuzlocke[] = {
-    COMPOUND_STRING("Nuzlocke mode is disabled."),
-    COMPOUND_STRING("Fainted {PKMN} can't be used anymore!\nNo more rules are enforced."),
-    COMPOUND_STRING("One catch per route! Fainted {PKMN}\ncan't be used anymore."),
-    COMPOUND_STRING("Same rules as NORMAL but also\ndeletes SAVE on battle loss!"),
+    COMPOUND_STRING("Nuzlocke模式已关闭。"),
+    COMPOUND_STRING("濒死的{PKMN}将无法再使用！\n不强制其他规则。"),
+    COMPOUND_STRING("每条道路只能收服一只！\n濒死的{PKMN}无法再使用。"),
+    COMPOUND_STRING("规则与普通模式相同，\n但战败会删除存档！"),
 };
 static const u8 *const sDesc_SpeciesClause[] = {
-    COMPOUND_STRING("Only not prior caught {PKMN} count\nas first encounter. RECOMMENDED!"),
-    COMPOUND_STRING("The player always has to catch the\nfirst {PKMN} per route."),
+    COMPOUND_STRING("只有未捕获过的{PKMN}才算\n首次遭遇。推荐！"),
+    COMPOUND_STRING("玩家必须收服每条道路上\n首次遭遇的{PKMN}。"),
 };
 static const u8 *const sDesc_ShinyClause[] = {
-    COMPOUND_STRING("The player can always catch shiny\n{PKMN}. RECOMMENDED!"),
-    COMPOUND_STRING("The player can only catch a shiny\n{PKMN} if it's the first encounter."),
+    COMPOUND_STRING("玩家随时都可以收服\n异色{PKMN}。推荐！"),
+    COMPOUND_STRING("只有当异色{PKMN}是首次遭遇时\n才能收服它。"),
 };
 static const u8 *const sDesc_Nicknaming[] = {
-    COMPOUND_STRING("Forces the player to nickname every\n{PKMN}. RECOMMENDED!"),
-    COMPOUND_STRING("Nicknames are optional."),
+    COMPOUND_STRING("强制玩家为每只{PKMN}\n起昵称。推荐！"),
+    COMPOUND_STRING("昵称为可选项。"),
 };
 static const u8 *const sDesc_Deletion[] = {
-    COMPOUND_STRING("Fainted {PKMN} are sent to the PC\nafter battle and can't be retrieved."),
-    COMPOUND_STRING("Fainted {PKMN} are released after\nbattle!"),
+    COMPOUND_STRING("濒死的{PKMN}战后会被送入电脑，\n且无法取回。"),
+    COMPOUND_STRING("濒死的{PKMN}战后会被放生！"),
 };
 static const u8 *const sDesc_RareCandy[] = {
-    COMPOUND_STRING("Infinite Rare Candy will be in the\nplayer's PC at game start."),
-    COMPOUND_STRING("Player will not have access to\nInfinite Rare Candy."),
+    COMPOUND_STRING("游戏开始时，玩家的电脑里\n会有无限神奇糖果。"),
+    COMPOUND_STRING("玩家无法获得\n无限神奇糖果。"),
 };
 static const u8 *const sDesc_NuzlockeNext[] = {
-    COMPOUND_STRING("Continue to difficulty options."),
+    COMPOUND_STRING("继续到难度选项。"),
 };
 
 static const struct ChallengeMenuItem sTabItems_Nuzlocke[] = {
     [ITEM_NUZLOCKE_NUZLOCKE] = {
-        .name         = COMPOUND_STRING("NUZLOCKE"),
+        .name         = COMPOUND_STRING("Nuzlocke"),
         .descriptions = sDesc_Nuzlocke,
         .numChoices   = 4,
         .choiceNames  = sChoices_Nuzlocke,
     },
     [ITEM_NUZLOCKE_SPECIES_CLAUSE] = {
-        .name         = COMPOUND_STRING("DUPES CLAUSE"),
+        .name         = COMPOUND_STRING("重复条款"),
         .descriptions = sDesc_SpeciesClause,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_NUZLOCKE_SHINY_CLAUSE] = {
-        .name         = COMPOUND_STRING("SHINY CLAUSE"),
+        .name         = COMPOUND_STRING("异色条款"),
         .descriptions = sDesc_ShinyClause,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_NUZLOCKE_NICKNAMING] = {
-        .name         = COMPOUND_STRING("NICKNAMES"),
+        .name         = COMPOUND_STRING("昵称"),
         .descriptions = sDesc_Nicknaming,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_NUZLOCKE_DELETION] = {
-        .name         = COMPOUND_STRING("FAINTING"),
+        .name         = COMPOUND_STRING("濒死处理"),
         .descriptions = sDesc_Deletion,
         .numChoices   = 2,
         .choiceNames  = sChoices_CemeteryRelease,
     },
     [ITEM_NUZLOCKE_RARE_CANDY] = {
-        .name         = COMPOUND_STRING("INF. RARE CANDY"),
+        .name         = COMPOUND_STRING("无限神奇糖果"),
         .descriptions = sDesc_RareCandy,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_NUZLOCKE_NEXT] = {
-        .name         = COMPOUND_STRING("NEXT"),
+        .name         = COMPOUND_STRING("下一页"),
         .descriptions = sDesc_NuzlockeNext,
         .numChoices   = 0,
         .choiceNames  = NULL,
@@ -966,131 +966,130 @@ static const struct ChallengeMenuItem sTabItems_Nuzlocke[] = {
 // DIFFICULTY descriptions + table
 // =============================================================================
 
-static const u8 sText_Desc_PartyLimit[] = _("Limits the amount of {PKMN} in the\nparty. 1 has visual bugs in DOUBLES.");
+static const u8 sText_Desc_PartyLimit[] = _("限制队伍中{PKMN}的数量。\n设为1时双打会有显示错误。");
 static const u8 *const sDesc_PartyLimit[] = {
     sText_Desc_PartyLimit, sText_Desc_PartyLimit, sText_Desc_PartyLimit,
     sText_Desc_PartyLimit, sText_Desc_PartyLimit, sText_Desc_PartyLimit,
 };
 static const u8 *const sDesc_LevelCap[] = {
-    COMPOUND_STRING("No level cap. Overleveling possible."),
-    COMPOUND_STRING("Maximum level is based on the next\ngym's highest {PKMN} level."),
-    COMPOUND_STRING("Maximum level is based on the next\ngym's lowest {PKMN} level."),
+    COMPOUND_STRING("没有等级上限。\\n可以超过正常等级。"),
+    COMPOUND_STRING("等级上限取决于下一座道馆\n最高{PKMN}的等级。"),
+    COMPOUND_STRING("等级上限取决于下一座道馆\n最低{PKMN}的等级。"),
 };
 static const u8 *const sDesc_ExpMult[] = {
-    COMPOUND_STRING("{PKMN} gain normal EXP. Points.\nStacks with HARD MODE EXP."),
-    COMPOUND_STRING("{PKMN} gain 50 percent more EXP.\nPoints! Stacks with HARD MODE EXP."),
-    COMPOUND_STRING("{PKMN} gain double EXP. Points!\nStacks with HARD MODE EXP."),
-    COMPOUND_STRING("{PKMN} gain ZERO EXP. Points!!!\nApplies to HARD MODE EXP. as well."),
+    COMPOUND_STRING("{PKMN}获得正常经验值。\n可与困难模式经验叠加。"),
+    COMPOUND_STRING("{PKMN}获得1.5倍经验值！\n可与困难模式经验叠加。"),
+    COMPOUND_STRING("{PKMN}获得双倍经验值！\n可与困难模式经验叠加。"),
+    COMPOUND_STRING("{PKMN}无法获得经验值！！！\n困难模式经验同样无效。"),
 };
 static const u8 *const sDesc_ItemPlayer[] = {
-    COMPOUND_STRING("The player can use battle items."),
-    COMPOUND_STRING("The player can NOT use battle items.\nHold items are allowed!"),
+    COMPOUND_STRING("玩家可以使用对战道具。"),
+    COMPOUND_STRING("玩家不能使用对战道具。\n携带道具不受限制！"),
 };
 static const u8 *const sDesc_ItemTrainer[] = {
-    COMPOUND_STRING("Enemy trainers can use battle items."),
-    COMPOUND_STRING("Enemy trainers can NOT use battle\nitems."),
+    COMPOUND_STRING("敌方训练家可以使用对战道具。"),
+    COMPOUND_STRING("敌方训练家不能使用对战道具。"),
 };
 static const u8 *const sDesc_NoEVs[] = {
-    COMPOUND_STRING("The player's {PKMN} gain effort\nvalues as expected."),
-    COMPOUND_STRING("The player's {PKMN} do NOT gain any\neffort values!"),
+    COMPOUND_STRING("玩家的{PKMN}正常\n获得努力值。"),
+    COMPOUND_STRING("玩家的{PKMN}不会\n获得任何努力值！"),
 };
 static const u8 *const sDesc_ScalingIVs[] = {
-    COMPOUND_STRING("The {PKMN} of enemy Trainer have\nthe expected IVs."),
-    COMPOUND_STRING("The IVs of Trainer {PKMN} increase\nwith gym badges!"),
-    COMPOUND_STRING("All Trainer {PKMN} have perfect IVs!"),
+    COMPOUND_STRING("敌方训练家的{PKMN}\n拥有正常的个体值。"),
+    COMPOUND_STRING("训练家{PKMN}的个体值\n会随道馆徽章提升！"),
+    COMPOUND_STRING("所有训练家{PKMN}\\n都是满个体值！"),
 };
 static const u8 *const sDesc_ScalingEVs[] = {
-    COMPOUND_STRING("The {PKMN} of enemy Trainer have\nno EVs."),
-    COMPOUND_STRING("The EVs of Trainer {PKMN} increase\nwith gym badges!"),
-    COMPOUND_STRING("All Trainer {PKMN} have high EVs!"),
-    COMPOUND_STRING("All Trainer {PKMN} have 252 EVs!\nVery Hard!"),
+    COMPOUND_STRING("敌方训练家的{PKMN}\n没有努力值。"),
+    COMPOUND_STRING("训练家{PKMN}的努力值\n会随道馆徽章提升！"),
+    COMPOUND_STRING("所有训练家{PKMN}\\n都拥有高努力值！"),
+    COMPOUND_STRING("所有训练家{PKMN}\n都有252努力值！极难！"),
 };
 static const u8 *const sDesc_MaxPartyIVs[] = {
-    COMPOUND_STRING("Your {PKMN} have the expected IVs\n(between 0 and 31)."),
-    COMPOUND_STRING("The IVs of your {PKMN} are set\nalways to the maximum (31)."),
-    COMPOUND_STRING("IVs are set between 30 and 31 to\nallow different Hidden Powers."),
+    COMPOUND_STRING("你的{PKMN}的个体值正常，\n介于0到31之间。"),
+    COMPOUND_STRING("你的{PKMN}的个体值\n始终为最大值31。"),    COMPOUND_STRING("个体值在30到31之间，\n以保留不同的觉醒力量。"),
 };
 static const u8 *const sDesc_LessEscapes[] = {
-    COMPOUND_STRING("The player can easily run away from\nbattles, as usual."),
-    COMPOUND_STRING("The player can't easily run away\nfrom battles. Use repels!"),
+    COMPOUND_STRING("玩家可以像平常一样\n轻松逃离战斗。"),
+    COMPOUND_STRING("玩家无法轻松逃离战斗。\n请使用驱虫喷雾！"),
 };
 static const u8 *const sDesc_EscapeRopeDig[] = {
-    COMPOUND_STRING("ESCAPE ROPE and DIG can be used to\nexit dungeons."),
-    COMPOUND_STRING("ESCAPE ROPE and DIG can't be used\nto exit dungeons."),
+    COMPOUND_STRING("可以使用离洞绳和挖洞\n离开洞窟。"),
+    COMPOUND_STRING("不能使用离洞绳和挖洞\n离开洞窟。"),
 };
 static const u8 *const sDesc_DifficultyNext[] = {
-    COMPOUND_STRING("Continue to challenge options."),
+    COMPOUND_STRING("继续到挑战选项。"),
 };
 
 static const struct ChallengeMenuItem sTabItems_Difficulty[] = {
     [ITEM_DIFFICULTY_PARTY_LIMIT] = {
-        .name         = COMPOUND_STRING("PARTY LIMIT"),
+        .name         = COMPOUND_STRING("队伍上限"),
         .descriptions = sDesc_PartyLimit,
         .numChoices   = 6,
         .choiceNames  = sChoices_PartyLimit,
     },
     [ITEM_DIFFICULTY_LEVEL_CAP] = {
-        .name         = COMPOUND_STRING("LEVEL CAP"),
+        .name         = COMPOUND_STRING("等级上限"),
         .descriptions = sDesc_LevelCap,
         .numChoices   = 3,
         .choiceNames  = sChoices_LevelCap,
     },
     [ITEM_DIFFICULTY_EXP_MULTIPLIER] = {
-        .name         = COMPOUND_STRING("EXP. MULTIPLIER"),
+        .name         = COMPOUND_STRING("经验倍率"),
         .descriptions = sDesc_ExpMult,
         .numChoices   = 4,
         .choiceNames  = sChoices_ExpMult,
     },
     [ITEM_DIFFICULTY_ITEM_PLAYER] = {
-        .name         = COMPOUND_STRING("PLAYER ITEMS"),
+        .name         = COMPOUND_STRING("玩家道具"),
         .descriptions = sDesc_ItemPlayer,
         .numChoices   = 2,
         .choiceNames  = sChoices_YesNo,
     },
     [ITEM_DIFFICULTY_ITEM_TRAINER] = {
-        .name         = COMPOUND_STRING("TRAINER ITEMS"),
+        .name         = COMPOUND_STRING("训练家道具"),
         .descriptions = sDesc_ItemTrainer,
         .numChoices   = 2,
         .choiceNames  = sChoices_YesNo,
     },
     [ITEM_DIFFICULTY_MAX_PARTY_IVS] = {
-        .name         = COMPOUND_STRING("PLAYER IVs"),
+        .name         = COMPOUND_STRING("玩家个体值"),
         .descriptions = sDesc_MaxPartyIVs,
         .numChoices   = 3,
         .choiceNames  = sChoices_PlayerIVs,
     },
     [ITEM_DIFFICULTY_SCALING_IVS] = {
-        .name         = COMPOUND_STRING("TRAINER IVs"),
+        .name         = COMPOUND_STRING("训练家个体值"),
         .descriptions = sDesc_ScalingIVs,
         .numChoices   = 3,
         .choiceNames  = sChoices_TrainerIVs,
     },
     [ITEM_DIFFICULTY_NO_EVS] = {
-        .name         = COMPOUND_STRING("PLAYER EVs"),
+        .name         = COMPOUND_STRING("玩家努力值"),
         .descriptions = sDesc_NoEVs,
         .numChoices   = 2,
         .choiceNames  = sChoices_YesNo,
     },
     [ITEM_DIFFICULTY_SCALING_EVS] = {
-        .name         = COMPOUND_STRING("TRAINER EVs"),
+        .name         = COMPOUND_STRING("训练家努力值"),
         .descriptions = sDesc_ScalingEVs,
         .numChoices   = 4,
         .choiceNames  = sChoices_TrainerEVs,
     },
     [ITEM_DIFFICULTY_LESS_ESCAPES] = {
-        .name         = COMPOUND_STRING("LESS ESCAPES"),
+        .name         = COMPOUND_STRING("限制逃跑"),
         .descriptions = sDesc_LessEscapes,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_DIFFICULTY_ESCAPE_ROPE_DIG] = {
-        .name         = COMPOUND_STRING("ESC. ROPE / DIG"),
+        .name         = COMPOUND_STRING("绳索/挖洞"),
         .descriptions = sDesc_EscapeRopeDig,
         .numChoices   = 2,
         .choiceNames  = sChoices_YesNo,
     },
     [ITEM_DIFFICULTY_NEXT] = {
-        .name         = COMPOUND_STRING("NEXT"),
+        .name         = COMPOUND_STRING("下一页"),
         .descriptions = sDesc_DifficultyNext,
         .numChoices   = 0,
         .choiceNames  = NULL,
@@ -1102,25 +1101,25 @@ static const struct ChallengeMenuItem sTabItems_Difficulty[] = {
 // =============================================================================
 
 static const u8 *const sDesc_Pokecenter[] = {
-    COMPOUND_STRING("The player can visit {PKMN}centers\nand other locations to heal."),
-    COMPOUND_STRING("The player CAN'T visit {PKMN}centers\nor other locations to heal."),
+    COMPOUND_STRING("玩家可以前往{PKMN}中心\n等场所进行治疗。"),
+    COMPOUND_STRING("玩家不能前往{PKMN}中心\n等场所进行治疗。"),
 };
 static const u8 *const sDesc_Expensive[] = {
-    COMPOUND_STRING("Everything has the usual cost."),
-    COMPOUND_STRING("Everything is 5 times more\nexpensive!"),
-    COMPOUND_STRING("Everything is 10 times more\nexpensive! Good ol' capitalism."),
-    COMPOUND_STRING("Everything is 50 times more\nexpensive! Ultra capitalism!"),
+    COMPOUND_STRING("一切商品都按原价出售。"),
+    COMPOUND_STRING("所有商品的价格\n变为5倍！"),
+    COMPOUND_STRING("所有商品的价格\n变为10倍！资本主义。"),
+    COMPOUND_STRING("所有商品的价格\n变为50倍！超级资本主义！"),
 };
 static const u8 *const sDesc_EvoLimit[] = {
-    COMPOUND_STRING("{PKMN} evolve as expected."),
-    COMPOUND_STRING("{PKMN} can only evolve into their\nfirst evolution."),
-    COMPOUND_STRING("{PKMN} can NOT evolve at all!"),
+    COMPOUND_STRING("{PKMN}正常进化。"),
+    COMPOUND_STRING("{PKMN}只能进化到\n第一阶段。"),
+    COMPOUND_STRING("{PKMN}完全无法进化！"),
 };
 #define NUM_ONE_TYPE_CHOICES 20
 #define ONE_TYPE_OFF 31
 #define EVO_LINE_TYPE_SEARCH_DEPTH 4 // deepest evolution chain worth walking
 
-static const u8 sText_Desc_OneType[] = _("Allow only one {PKMN} type the\nplayer can capture and use.");
+static const u8 sText_Desc_OneType[] = _("只允许玩家收服并使用\n单一属性的{PKMN}。");
 static const u8 *const sDesc_OneType[] = {
     sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType,
     sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType,
@@ -1129,65 +1128,65 @@ static const u8 *const sDesc_OneType[] = {
     sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType, sText_Desc_OneType,
 };
 static const u8 *const sDesc_BstEqualizer[] = {
-    COMPOUND_STRING("All {PKMN} have their original\nbase stats."),
-    COMPOUND_STRING("{PKMN} stats are calculated with\n100 of each base stat."),
-    COMPOUND_STRING("{PKMN} stats are calculated with\n255 of each base stat."),
-    COMPOUND_STRING("{PKMN} stats are calculated with\n500 of each base stat."),
+    COMPOUND_STRING("所有{PKMN}保持原本的\n种族值。"),
+    COMPOUND_STRING("所有{PKMN}的种族值\n按每项100计算。"),
+    COMPOUND_STRING("所有{PKMN}的种族值\n按每项255计算。"),
+    COMPOUND_STRING("所有{PKMN}的种族值\n按每项500计算。"),
 };
 static const u8 *const sDesc_Mirror[] = {
-    COMPOUND_STRING("The player uses their own party."),
-    COMPOUND_STRING("In Trainer battles, the player gets\na copy of the enemy's party!"),
+    COMPOUND_STRING("玩家使用自己的队伍。"),
+    COMPOUND_STRING("训练家对战时，玩家会获得\n敌方队伍的副本！"),
 };
 static const u8 *const sDesc_MirrorThief[] = {
-    COMPOUND_STRING("The player gets their own party\nback after battles."),
-    COMPOUND_STRING("The player keeps the enemies party\nafter battle!"),
+    COMPOUND_STRING("战斗结束后，玩家\n取回自己的队伍。"),
+    COMPOUND_STRING("战斗结束后，玩家\n保留敌方的队伍！"),
 };
 
 static const struct ChallengeMenuItem sTabItems_Challenges[] = {
     [ITEM_CHALLENGES_POKECENTER] = {
-        .name         = COMPOUND_STRING("{PKMN}CENTER"),
+        .name         = COMPOUND_STRING("{PKMN}中心"),
         .descriptions = sDesc_Pokecenter,
         .numChoices   = 2,
         .choiceNames  = sChoices_PkmnCenter,
     },
     [ITEM_CHALLENGES_EXPENSIVE] = {
-        .name         = COMPOUND_STRING("ULTRA EXPENSIVE!"),
+        .name         = COMPOUND_STRING("天价！"),
         .descriptions = sDesc_Expensive,
         .numChoices   = 4,
         .choiceNames  = sChoices_Expensive,
     },
     [ITEM_CHALLENGES_EVO_LIMIT] = {
-        .name         = COMPOUND_STRING("EVO LIMIT"),
+        .name         = COMPOUND_STRING("进化限制"),
         .descriptions = sDesc_EvoLimit,
         .numChoices   = 3,
         .choiceNames  = sChoices_EvoLimit,
     },
     [ITEM_CHALLENGES_ONE_TYPE] = {
-        .name         = COMPOUND_STRING("ONE TYPE ONLY"),
+        .name         = COMPOUND_STRING("单一属性"),
         .descriptions = sDesc_OneType,
         .numChoices   = NUM_ONE_TYPE_CHOICES,
         .choiceNames  = NULL,
     },
     [ITEM_CHALLENGES_BST_EQUALIZER] = {
-        .name         = COMPOUND_STRING("BST EQUALIZER"),
+        .name         = COMPOUND_STRING("种族值均衡"),
         .descriptions = sDesc_BstEqualizer,
         .numChoices   = 4,
         .choiceNames  = sChoices_BstEqual,
     },
     [ITEM_CHALLENGES_MIRROR] = {
-        .name         = COMPOUND_STRING("MIRROR MODE"),
+        .name         = COMPOUND_STRING("镜像模式"),
         .descriptions = sDesc_Mirror,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_CHALLENGES_MIRROR_THIEF] = {
-        .name         = COMPOUND_STRING("MIRROR THIEF"),
+        .name         = COMPOUND_STRING("镜像夺取"),
         .descriptions = sDesc_MirrorThief,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_CHALLENGES_SAVE] = {
-        .name         = COMPOUND_STRING("SAVE"),
+        .name         = COMPOUND_STRING("保存"),
         .descriptions = sDesc_SaveExit,
         .numChoices   = 0,
         .choiceNames  = NULL,
@@ -1206,12 +1205,12 @@ struct TabDef
 };
 
 static const struct TabDef sTabs[TAB_COUNT] = {
-    [TAB_MODE]       = { COMPOUND_STRING("MODE"),       sTabItems_Mode,       ITEM_MODE_COUNT },
-    [TAB_FEATURES]   = { COMPOUND_STRING("FEATURES"),   sTabItems_Features,   ITEM_FEATURES_COUNT },
-    [TAB_RANDOMIZER] = { COMPOUND_STRING("RANDOMIZER"), sTabItems_Randomizer, ITEM_RANDOM_COUNT },
-    [TAB_NUZLOCKE]   = { COMPOUND_STRING("NUZLOCKE"),   sTabItems_Nuzlocke,   ITEM_NUZLOCKE_COUNT },
-    [TAB_DIFFICULTY] = { COMPOUND_STRING("DIFFICULTY"),  sTabItems_Difficulty, ITEM_DIFFICULTY_COUNT },
-    [TAB_CHALLENGES] = { COMPOUND_STRING("CHALLENGES"), sTabItems_Challenges, ITEM_CHALLENGES_COUNT },
+    [TAB_MODE]       = { COMPOUND_STRING("模式"),       sTabItems_Mode,       ITEM_MODE_COUNT },
+    [TAB_FEATURES]   = { COMPOUND_STRING("功能"),   sTabItems_Features,   ITEM_FEATURES_COUNT },
+    [TAB_RANDOMIZER] = { COMPOUND_STRING("随机化"), sTabItems_Randomizer, ITEM_RANDOM_COUNT },
+    [TAB_NUZLOCKE]   = { COMPOUND_STRING("Nuzlocke"),   sTabItems_Nuzlocke,   ITEM_NUZLOCKE_COUNT },
+    [TAB_DIFFICULTY] = { COMPOUND_STRING("难度"),  sTabItems_Difficulty, ITEM_DIFFICULTY_COUNT },
+    [TAB_CHALLENGES] = { COMPOUND_STRING("挑战"), sTabItems_Challenges, ITEM_CHALLENGES_COUNT },
 };
 
 // =============================================================================
@@ -1508,8 +1507,8 @@ static void ChallengeMenu_ItemPrintFunc(u8 windowId, u32 itemId, u8 y)
     {
         u8 n = sel;
         const u8 *text;
-        static const u8 sText_Random[] = _("RANDOM");
-        static const u8 sText_Off[] = _("OFF");
+        static const u8 sText_Random[] = _("随机");
+        static const u8 sText_Off[] = _("关");
         if (n > 18)
             text = sText_Off;
         else if (n == 18)

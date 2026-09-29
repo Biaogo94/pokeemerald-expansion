@@ -44,9 +44,9 @@ EventScript_CancelCut::
 	end
 
 Text_WantToCut:
-	.string "This tree looks like it can be\n"
-	.string "CUT down!\p"
-	.string "Would you like to CUT it?$"
+	.string "这棵树看起来可以用\n"
+	.string "“居合斩”砍倒！\p"
+	.string "要使用“居合斩”吗？$"
 
 Text_MonUsedFieldMove:
 	.string "{STR_VAR_1}使出了{STR_VAR_2}！$"
@@ -268,14 +268,14 @@ EventScript_CancelStrength::
 	end
 
 Text_WantToStrength:
-	.string "It's a big boulder, but a POKéMON\n"
-	.string "may be able to push it aside.\p"
-	.string "Would you like to use STRENGTH?$"
+	.string "这是一块巨石，但宝可梦\n"
+	.string "也许能把它推开。\p"
+	.string "要使用“怪力”吗？$"
 
 Text_MonUsedStrength:
-	.string "{STR_VAR_1} used STRENGTH!\p"
-	.string "{STR_VAR_1}'s STRENGTH made it\n"
-	.string "possible to move boulders around!$"
+	.string "{STR_VAR_1}使用了“怪力”！\p"
+	.string "{STR_VAR_1}的怪力\n"
+	.string "让巨石可以移动了！$"
 
 Text_CantStrength:
 	.string "好大的岩石……\n"
@@ -310,8 +310,8 @@ EventScript_EndWaterfall::
 	end
 
 Text_CantWaterfall:
-	.string "A wall of water is crashing down with\n"
-	.string "a mighty roar.$"
+	.string "一堵水墙伴随着怒吼\n"
+	.string "倾泻而下。$"
 
 Text_WantToWaterfall:
 	.string "好大的瀑布啊！\n"

@@ -60,10 +60,10 @@ static void UpdateStairsMovement(s16, s16, s16*, s16*, s16*);
 static void Task_StairWarp(u8);
 static void ForceStairsMovement(u32, s16*, s16*);
 
-static const u8 sText_PlayerScurriedToCenter[] = _("{PLAYER} scurried to a POKéMON CENTER,\nprotecting the exhausted and fainted\nPOKéMON from further harm…\p");
-static const u8 sText_PlayerScurriedBackHome[] = _("{PLAYER} scurried back home, protecting\nthe exhausted and fainted POKéMON from\nfurther harm…\p");
-static const u8 sText_PlayerRegroupCenter[] = _("{PLAYER} scurried to a POKéMON CENTER,\nto regroup and reconsider the battle\nstrategy…\p");
-static const u8 sText_PlayerRegroupHome[] = _("{PLAYER} scurried back home, to regroup\nand reconsider the battle strategy…\p");
+static const u8 sText_PlayerScurriedToCenter[] = _("{PLAYER}护着精疲力竭、失去战斗能力的\n宝可梦，\n急匆匆地赶回了宝可梦中心……\p");
+static const u8 sText_PlayerScurriedBackHome[] = _("{PLAYER}护着精疲力竭、失去战斗能力的\n宝可梦，\n急匆匆地赶回了家……\p");
+static const u8 sText_PlayerRegroupCenter[] = _("{PLAYER}为了重整旗鼓、\n反思对战策略，\n急匆匆地赶回了宝可梦中心……\p");
+static const u8 sText_PlayerRegroupHome[] = _("{PLAYER}为了重整旗鼓、\n反思对战策略，\n急匆匆地赶回了家……\p");
 
 // data[0] is used universally by tasks in this file as a state for switches
 #define tState       data[0]
@@ -1472,9 +1472,9 @@ static void Task_RushInjuredPokemonToCenter(u8 taskId)
             if (gTasks[taskId].tIsPlayerHouse)
             {
                 if (IS_FRLG)
-                    StringCopy(gStringVar1, COMPOUND_STRING("PROF. OAK"));
+                    StringCopy(gStringVar1, COMPOUND_STRING("大木博士"));
                 else
-                    StringCopy(gStringVar1, COMPOUND_STRING("PROF. BIRCH"));
+                    StringCopy(gStringVar1, COMPOUND_STRING("小田卷博士"));
                 ScriptContext_SetupScript(EventScript_AfterWhiteOutMomHeal);
             }
             else if (IS_FRLG)

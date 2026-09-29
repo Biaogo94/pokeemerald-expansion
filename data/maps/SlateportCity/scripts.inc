@@ -1094,10 +1094,9 @@ SlateportCity_Text_CaptSternBeingInterviewed:
 	.string "吗？$"
 
 SlateportCity_Text_InterviewerSoCool:
-	.string "That lady interviewer is so cool\n"
-	.string "and pretty.\p"
-	.string "When I grow up, I'm going to be\n"
-	.string "an international journalist!$"
+	.string "那位女记者又酷又漂亮。\p"
+	.string "等我长大了，\n"
+	.string "也要当一名国际记者！$"
 
 SlateportCity_Text_SternSaysDiscoveredSomething:
 	.string "楠木馆长说他们在海底找到了什么东\n"
@@ -1196,9 +1195,9 @@ SlateportCity_Text_OceanicMuseumSign:
 	.string "海洋科学博物馆$"
 
 SlateportCity_Text_CitySign:
-	.string "SLATEPORT CITY\p"
-	.string "“The port where people and POKéMON\n"
-	.string "cross paths.”$"
+	.string "凯那市\p"
+	.string "“人与宝可梦\n"
+	.string "交汇的港口。”$"
 
 SlateportCity_Text_MarketSign:
 	.string "凯那市市场“我们有其他地方买不到\n"

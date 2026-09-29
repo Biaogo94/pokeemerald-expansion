@@ -359,9 +359,9 @@ LavaridgeTown_Text_OhYouLikeHotSprings:
 	.string "。$"
 
 LavaridgeTown_Text_BatheInHotSpringsEveryDay:
-	.string "I bathe in the hot springs every day.\p"
-	.string "I want to become a beautiful and strong\n"
-	.string "GYM LEADER like FLANNERY.$"
+	.string "我每天都泡温泉。\p"
+	.string "我想成为像亚莎那样\n"
+	.string "又美丽又强大的道馆馆主。$"
 
 LavaridgeTown_Text_IfPokemonInHotSprings:
 	.string "如果把宝可梦放进温泉，它就会变得\n"
@@ -375,9 +375,9 @@ LavaridgeTown_Text_HotSpringsClaims:
 	.string "加财运……$"
 
 LavaridgeTown_Text_TownSign:
-	.string "LAVARIDGE TOWN\p"
-	.string "“POKéMON CENTER HOT SPRINGS\n"
-	.string "An excellent place for relaxing!”$"
+	.string "釜炎镇\p"
+	.string "“宝可梦中心温泉\n"
+	.string "放松身心的绝佳去处！”$"
 
 LavaridgeTown_Text_GymSign:
 	.string "釜炎镇宝可梦道馆馆主：亚莎“热情\n"

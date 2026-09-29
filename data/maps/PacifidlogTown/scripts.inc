@@ -47,7 +47,7 @@ PacifidlogTown_Text_SkyPillarTooScary:
 	.string "镇中更安心。$"
 
 PacifidlogTown_Text_TownSign:
-	.string "PACIFIDLOG TOWN\p"
-	.string "“Where the morning sun smiles upon\n"
-	.string "the waters.”$"
+	.string "暮水镇\p"
+	.string "“朝阳微笑着\n"
+	.string "洒落水面的地方。”$"
 

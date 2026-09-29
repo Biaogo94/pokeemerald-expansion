@@ -438,17 +438,17 @@ BattleFrontier_OutsideWest_Text_SquareFilledWithToughPeople:
 	.string "嘎吱嘎吱……$"
 
 BattleFrontier_OutsideWest_Text_MetOlderGirlAtPike:
-	.string "Crunch, munch…\p"
-	.string "A while back, I met this older girl\n"
-	.string "at the BATTLE PIKE.\p"
-	.string "She had these eyes that were scary\n"
-	.string "in a real ornery way.\p"
-	.string "Crunch, munch…\p"
-	.string "She got all furious: “Will you quit\n"
-	.string "eating!” Then she whaled on me.\p"
-	.string "It was a hair-raising kind of\n"
-	.string "scary experience, sure enough.\p"
-	.string "Crunch, munch…$"
+	.string "喀嚓喀嚓……\p"
+	.string "前阵子，我在对战管道\n"
+	.string "遇到了一位大姐姐。\p"
+	.string "她那双眼睛凶得很，\n"
+	.string "透着一股狠劲儿。\p"
+	.string "喀嚓喀嚓……\p"
+	.string "她气得大喊：“别再吃了！”\n"
+	.string "然后狠狠揍了我一顿。\p"
+	.string "那真是一次令人毛骨悚然的\n"
+	.string "可怕经历。\p"
+	.string "喀嚓喀嚓……$"
 
 BattleFrontier_OutsideWest_Text_LastTimeOurEyesMet:
 	.string "哈，你要不要听听你在说什么？那什\n"

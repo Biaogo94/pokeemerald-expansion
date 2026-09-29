@@ -512,11 +512,11 @@ static void Task_FirstBattleEnterParty_RunPrinterMsg2(u8 taskId);
 static void Task_FirstBattleEnterParty_FadeNormal(u8 taskId);
 static void Task_FirstBattleEnterParty_WaitFadeNormal(u8 taskId);
 
-static const u8 sText_askText[] = _("Would you like to change {STR_VAR_1}'s\nability to {STR_VAR_2}?");
-static const u8 sText_doneText[] = _("{STR_VAR_1}'s ability became\n{STR_VAR_2}!{PAUSE_UNTIL_PRESS}");
-static const u8 sText_BasePointsResetToZero[] = _("{STR_VAR_1}'s base points\nwere all reset to zero!{PAUSE_UNTIL_PRESS}");
-static const u8 sText_CannotSendMonToBoxHM[] = _("Cannot send that mon to the box,\nbecause it knows a HM move.{PAUSE_UNTIL_PRESS}");
-static const u8 sText_CannotSendMonToBoxPartner[] = _("Cannot send a mon that doesn't\nbelong to you to the box.{PAUSE_UNTIL_PRESS}");
+static const u8 sText_askText[] = _("要将{STR_VAR_1}的特性\n变更为{STR_VAR_2}吗？");
+static const u8 sText_doneText[] = _("{STR_VAR_1}的特性\n变成了{STR_VAR_2}！{PAUSE_UNTIL_PRESS}");
+static const u8 sText_BasePointsResetToZero[] = _("{STR_VAR_1}的基础点数\n全部归零了！{PAUSE_UNTIL_PRESS}");
+static const u8 sText_CannotSendMonToBoxHM[] = _("它学会了秘传学习器，\n无法送进电脑。{PAUSE_UNTIL_PRESS}");
+static const u8 sText_CannotSendMonToBoxPartner[] = _("无法把不属于你的宝可梦\n送进电脑。{PAUSE_UNTIL_PRESS}");
 
 // static const data
 #include "data/party_menu.h"
@@ -5197,8 +5197,8 @@ void ItemUseCB_AbilityPatch(u8 taskId, TaskFunc task)
 
 void Task_Mint(u8 taskId)
 {
-    static const u8 sText_askText[] = _("It might affect {STR_VAR_1}'s stats.\nAre you sure you want to use it?");
-    static const u8 sText_doneText[] = _("{STR_VAR_1}'s stats may have changed due\nto the effects of the {STR_VAR_2}!{PAUSE_UNTIL_PRESS}");
+    static const u8 sText_askText[] = _("这可能会影响{STR_VAR_1}的能力值。\n确定要使用吗？");
+    static const u8 sText_doneText[] = _("受{STR_VAR_2}的影响，\n{STR_VAR_1}的能力值似乎发生了变化！{PAUSE_UNTIL_PRESS}");
     s16 *data = gTasks[taskId].data;
 
     switch (tState)
@@ -6144,7 +6144,7 @@ static void BufferMonStatsToTaskData(struct Pokemon *mon, s16 *data)
 
 void Task_DynamaxCandy(u8 taskId)
 {
-    static const u8 sText_doneText[] = _("{STR_VAR_1}'s Dynamax Level\nincreased by 1!{PAUSE_UNTIL_PRESS}");
+    static const u8 sText_doneText[] = _("{STR_VAR_1}的极巨化等级\n提升了1！{PAUSE_UNTIL_PRESS}");
     s16 *data = gTasks[taskId].data;
 
     switch (tState)
@@ -6997,7 +6997,7 @@ void ItemUseCB_PokeBall(u8 taskId, TaskFunc task)
     struct Pokemon *mon = &gPlayerParty[gPartyMenu.slotId];
     u16 currBall = GetMonData(mon, MON_DATA_POKEBALL);
     u16 newBall = ItemIdToBallId(gSpecialVar_ItemId);
-    static const u8 sText_MonBallWasChanged[] = _("{STR_VAR_1} was put in the {STR_VAR_2}.{PAUSE_UNTIL_PRESS}");
+    static const u8 sText_MonBallWasChanged[] = _("将{STR_VAR_1}放进了{STR_VAR_2}。{PAUSE_UNTIL_PRESS}");
 
     if (currBall == newBall)
     {

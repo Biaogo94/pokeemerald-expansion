@@ -864,7 +864,7 @@ void UpdateSpeciesSpritePSS(struct BoxPokemon *boxmon);
 
 static const u8 gText_JustOnePkmn[] = _("你身边只有一只宝可梦。");
 static const u8 gText_PartyFull[] = _("同行的宝可梦已满！");
-static const u8 gText_Box[] = _("BOX");
+static const u8 gText_Box[] = _("盒子");
 
 struct {
     const u8 *text;
@@ -8205,7 +8205,7 @@ static void InitMenu(void)
     sStorage->menuWindow.baseBlock = 92;
 }
 
-static const u8 gPCText_Give[] = _("GIVE");
+static const u8 gPCText_Give[] = _("交出");
 
 static const u8 *const sMenuTexts[] =
 {
@@ -8225,29 +8225,29 @@ static const u8 *const sMenuTexts[] =
     [MENU_GIVE]       = gPCText_Give,
     [MENU_GIVE_2]     = gPCText_Give,
     [MENU_SWITCH]     = COMPOUND_STRING("交换"),
-    [MENU_BAG]        = COMPOUND_STRING("BAG"),
+    [MENU_BAG]        = COMPOUND_STRING("背包"),
     [MENU_INFO]       = COMPOUND_STRING("信息"),
-    [MENU_SCENERY_1]  = COMPOUND_STRING("SCENERY 1"),
-    [MENU_SCENERY_2]  = COMPOUND_STRING("SCENERY 2"),
-    [MENU_SCENERY_3]  = COMPOUND_STRING("SCENERY 3"),
-    [MENU_ETCETERA]   = COMPOUND_STRING("ETCETERA"),
-    [MENU_FRIENDS]    = COMPOUND_STRING("FRIENDS"),
-    [MENU_FOREST]     = COMPOUND_STRING("FOREST"),
-    [MENU_CITY]       = COMPOUND_STRING("CITY"),
-    [MENU_DESERT]     = COMPOUND_STRING("DESERT"),
-    [MENU_SAVANNA]    = COMPOUND_STRING("SAVANNA"),
-    [MENU_CRAG]       = COMPOUND_STRING("CRAG"),
-    [MENU_VOLCANO]    = COMPOUND_STRING("VOLCANO"),
-    [MENU_SNOW]       = COMPOUND_STRING("SNOW"),
-    [MENU_CAVE]       = COMPOUND_STRING("CAVE"),
-    [MENU_BEACH]      = COMPOUND_STRING("BEACH"),
-    [MENU_SEAFLOOR]   = COMPOUND_STRING("SEAFLOOR"),
-    [MENU_RIVER]      = COMPOUND_STRING("RIVER"),
-    [MENU_SKY]        = COMPOUND_STRING("SKY"),
-    [MENU_POLKADOT]   = COMPOUND_STRING("POLKA-DOT"),
-    [MENU_POKECENTER] = COMPOUND_STRING("POKéCENTER"),
-    [MENU_MACHINE]    = COMPOUND_STRING("MACHINE"),
-    [MENU_SIMPLE]     = COMPOUND_STRING("SIMPLE"),
+    [MENU_SCENERY_1]  = COMPOUND_STRING("风景1"),
+    [MENU_SCENERY_2]  = COMPOUND_STRING("风景2"),
+    [MENU_SCENERY_3]  = COMPOUND_STRING("风景3"),
+    [MENU_ETCETERA]   = COMPOUND_STRING("杂项"),
+    [MENU_FRIENDS]    = COMPOUND_STRING("伙伴"),
+    [MENU_FOREST]     = COMPOUND_STRING("森林"),
+    [MENU_CITY]       = COMPOUND_STRING("城市"),
+    [MENU_DESERT]     = COMPOUND_STRING("沙漠"),
+    [MENU_SAVANNA]    = COMPOUND_STRING("草原"),
+    [MENU_CRAG]       = COMPOUND_STRING("峭壁"),
+    [MENU_VOLCANO]    = COMPOUND_STRING("火山"),
+    [MENU_SNOW]       = COMPOUND_STRING("雪原"),
+    [MENU_CAVE]       = COMPOUND_STRING("洞窟"),
+    [MENU_BEACH]      = COMPOUND_STRING("海滨"),
+    [MENU_SEAFLOOR]   = COMPOUND_STRING("海底"),
+    [MENU_RIVER]      = COMPOUND_STRING("河流"),
+    [MENU_SKY]        = COMPOUND_STRING("天空"),
+    [MENU_POLKADOT]   = COMPOUND_STRING("圆点"),
+    [MENU_POKECENTER] = COMPOUND_STRING("宝可梦中心"),
+    [MENU_MACHINE]    = COMPOUND_STRING("机械"),
+    [MENU_SIMPLE]     = COMPOUND_STRING("简约"),
     [MENU_SELECT]     = COMPOUND_STRING("选择"),
 };
 

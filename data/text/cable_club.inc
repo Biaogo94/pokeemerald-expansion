@@ -238,13 +238,13 @@ MossdeepCity_GameCorner_1F_Text_PokemonJumpInfo:
 	.string "生。$"
 
 MossdeepCity_GameCorner_1F_Text_DodrioBerryPickingInfo:
-	.string "“DODRIO BERRY-PICKING”\p"
-	.string "Command DODRIO's three heads to\n"
-	.string "catch falling BERRIES.\p"
-	.string "Press right, up, or left on the\n"
-	.string "{PLUS} Control Pad to move the heads.\p"
-	.string "To play this game, you must have\n"
-	.string "a DODRIO.$"
+	.string "“嘟嘟摘树果”\p"
+	.string "指挥嘟嘟的三颗头\n"
+	.string "接住掉落的树果。\p"
+	.string "按十字键的右、上、左，\n"
+	.string "即可操控三颗头。\p"
+	.string "要玩这个游戏，\n"
+	.string "你必须拥有一只嘟嘟。$"
 
 MossdeepCity_GameCorner_1F_Text_TalkToOldManToPlay:
 	.string "如果您想玩游戏，就告诉我后面的老\n"

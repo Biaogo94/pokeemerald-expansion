@@ -283,12 +283,12 @@ SlateportCity_BattleTentLobby_Text_CouldntFindMonForMe:
 	.string "！$"
 
 SlateportCity_BattleTentLobby_Text_ExplainTorment:
-	.string "That's, like, TM41, you know?\n"
-	.string "Hey, it's TORMENT, you hearing me?\p"
-	.string "Like, it won't let the other guy\n"
-	.string "use the same move twice in a row, see?\p"
-	.string "Hey, now, you listen here, like,\n"
-	.string "I'm not laying a torment on you!$"
+	.string "那个呀，是招式学习器41啦。\n"
+	.string "喂喂，可是“无理取闹”哟，听到没？\p"
+	.string "就是说呀，它能让对手\n"
+	.string "没法连续使出同一招，明白不？\p"
+	.string "喂，你给我听好啦，我可不是\n"
+	.string "在对你无理取闹哟！$"
 
 SlateportCity_BattleTentLobby_Text_IllTryUsingBugMons:
 	.string "我并不很喜欢虫属性宝可梦，但也许\n"

@@ -707,12 +707,14 @@ BattleFrontier_BattlePikeRoomNormal_Text_ThatsEnough:
 	.string "适可而止吧！$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForKirlia:
-	.string "I must apologize to you…\p"
-	.string "My KIRLIA has a TIMID nature…$"
+	.string "我必须向你道歉……\p"
+	.string "我的奇鲁莉安\n"
+	.string "是胆小性格……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForDusclops:
-	.string "I must apologize to you…\p"
-	.string "My DUSCLOPS has a TIMID nature…$"
+	.string "我必须向你道歉……\p"
+	.string "我的夜巨人\n"
+	.string "是胆小性格……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_AttacksWhenStartled:
 	.string "一旦受到了惊吓就会无视警告胡乱攻\n"

@@ -94,15 +94,15 @@ static const struct SignatureZMove sSignatureZMoves[] =
     {SPECIES_SNORLAX,                 ITEM_SNORLIUM_Z,           MOVE_GIGA_IMPACT,         MOVE_PULVERIZING_PANCAKE},
 };
 
-static const u8 sText_ResetStats[] = _("Reset Lowered Stats");
-static const u8 sText_StatsPlus[] = _("+ All Stats");
-static const u8 sText_StatsPlus2[] = _("++ All Stats");
-static const u8 sText_CritHitsPlus[] = _("+ Critical Hit Chance");
-static const u8 sText_FollowMe[] = _("Follow Me");
-static const u8 sText_RecoverHP[] = _("Recover HP");
-static const u8 sText_HealAllyHP[] = _("Heal Replacement HP");
-static const u8 sText_PowerColon[] = _("Power: ");
-static const u8 sText_NoAdditionalEffect[] = _("No Additional Effect");
+static const u8 sText_ResetStats[] = _("重置被降低的能力");
+static const u8 sText_StatsPlus[] = _("全能力提升");
+static const u8 sText_StatsPlus2[] = _("全能力大幅提升");
+static const u8 sText_CritHitsPlus[] = _("击中要害率提升");
+static const u8 sText_FollowMe[] = _("看我嘛");
+static const u8 sText_RecoverHP[] = _("回复HP");
+static const u8 sText_HealAllyHP[] = _("回复替换宝可梦的HP");
+static const u8 sText_PowerColon[] = _("威力：");
+static const u8 sText_NoAdditionalEffect[] = _("无追加效果");
 
 // Functions
 bool32 IsZMove(enum Move move)

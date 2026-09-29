@@ -62,15 +62,15 @@ VerdanturfTown_EventScript_RusturfTunnelSign::
 	end
 
 VerdanturfTown_Text_ManTryingToDigTunnel:
-	.string "My papa told me.\p"
-	.string "He says this tunnel is full of\n"
-	.string "timid POKéMON.\p"
-	.string "They get all scared of loud noise and\n"
-	.string "make a big uproar.\p"
-	.string "So they had to stop the big tunnel\n"
-	.string "project.\p"
-	.string "But there's one man. He's trying to dig\n"
-	.string "the tunnel by himself!$"
+	.string "我爸爸告诉我的。\p"
+	.string "他说这条隧道里全是\n"
+	.string "胆小的宝可梦。\p"
+	.string "它们一听到大的声响\n"
+	.string "就会吓得大吵大闹。\p"
+	.string "所以隧道的大工程\n"
+	.string "只好停了下来。\p"
+	.string "但有一个人，正靠自己的力量\n"
+	.string "挖掘这条隧道！$"
 
 VerdanturfTown_Text_ManDugTunnelForLove:
 	.string "听说那人挖隧道是为了心爱的姑娘。\p"
@@ -84,10 +84,10 @@ VerdanturfTown_Text_AirCleanHere:
 	.string "的好转。$"
 
 VerdanturfTown_Text_MakeBattleTentDebut:
-	.string "My POKéMON and I, we've been riding\n"
-	.string "a hot winning streak.\p"
-	.string "So I decided to make my BATTLE TENT\n"
-	.string "debut in this town.$"
+	.string "我和我的宝可梦一路连胜，\n"
+	.string "势头正旺。\p"
+	.string "所以我决定在这座城镇的\n"
+	.string "对战帐篷初次亮相。$"
 
 VerdanturfTown_Text_GuyTryingToBustThroughCave:
 	.string "你看到友好商店旁边的洞窟了吗？\p"
@@ -103,9 +103,9 @@ VerdanturfTown_Text_EasyToGetToRustboroNow:
 	.string "新产品方便多了。$"
 
 VerdanturfTown_Text_TownSign:
-	.string "VERDANTURF TOWN\p"
-	.string "“The windswept highlands with the\n"
-	.string "sweet fragrance of grass.”$"
+	.string "绿荫镇\p"
+	.string "“风吹拂的高地，\n"
+	.string "飘着青草的甜香。”$"
 
 VerdanturfTown_Text_WandasHouse:
 	.string "满盈的家$"

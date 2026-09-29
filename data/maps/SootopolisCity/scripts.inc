@@ -1392,9 +1392,9 @@ SootopolisCity_Text_GymSign:
 	.string "“娇艳欲滴的道馆馆主！”$"
 
 SootopolisCity_Text_CitySign:
-	.string "SOOTOPOLIS CITY\p"
-	.string "“The mystical city where history\n"
-	.string "slumbers.”$"
+	.string "琉璃市\p"
+	.string "“历史沉眠的\n"
+	.string "神秘之城。”$"
 
 SootopolisCity_Text_DoorIsClosed:
 	.string "这扇门上着锁。$"

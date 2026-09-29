@@ -1185,9 +1185,9 @@ static const u8 sText_CantThrowPokeBall_TwoMons[] = _("不能投掷精灵球！\
 static const u8 sText_CantThrowPokeBall_SemiInvulnerable[] = _("不能投掷精灵球！\n视野里没有宝可梦！\p");
 static const u8 sText_CantThrowPokeBall_Disabled[] = _("现在不能使用精灵球！\p");
 static const u8 sText_CantThrowPokeBall_NuzlockeZone[] = _("你已经在这片区域\n遇到过宝可梦了！\p");
-static const u8 sText_CantThrowPokeBall_NuzlockeSpecies[] = _("Species Clause: a POKéMON in\nthis evolution line was caught!\p");
+static const u8 sText_CantThrowPokeBall_NuzlockeSpecies[] = _("同类条款：你已经收服过\n这条进化线上的宝可梦！\p");
 static const u8 sText_CantThrowPokeBall_NuzlockeAlreadyCaught[] = _("你已经捕捉过\n这只宝可梦了！\p");
-static const u8 sText_CantThrowPokeBall_OneType[] = _("This POKéMON doesn't match\nyour type challenge!\p");
+static const u8 sText_CantThrowPokeBall_OneType[] = _("这只宝可梦不符合你的\n属性挑战规则！\p");
 void ItemUseInBattle_PokeBall(u8 taskId)
 {
     switch (GetBallThrowableState())

@@ -200,50 +200,50 @@ static const u16 sTextPal[] = INCBIN_U16("graphics/interface/option_menu_text_cu
 // =============================================================================
 
 static const u8 *const sChoices_OnOff[] = {
-    COMPOUND_STRING("ON"),
-    COMPOUND_STRING("OFF"),
+    COMPOUND_STRING("开"),
+    COMPOUND_STRING("关"),
 };
 
 static const u8 *const sChoices_ShiftSet[] = {
-    COMPOUND_STRING("SHIFT"),
-    COMPOUND_STRING("SET"),
+    COMPOUND_STRING("替换"),
+    COMPOUND_STRING("固定"),
 };
 
 static const u8 *const sChoices_MonoStereo[] = {
-    COMPOUND_STRING("MONO"),
-    COMPOUND_STRING("STEREO"),
+    COMPOUND_STRING("单声道"),
+    COMPOUND_STRING("立体声"),
 };
 
 static const u8 *const sChoices_ButtonMode[] = {
-    COMPOUND_STRING("NORMAL"),
+    COMPOUND_STRING("普通"),
     COMPOUND_STRING("LR"),
     COMPOUND_STRING("L=A"),
 };
 
 static const u8 *const sChoices_TextSpeed[] = {
-    COMPOUND_STRING("SLOW"),
-    COMPOUND_STRING("MID"),
-    COMPOUND_STRING("FAST"),
-    COMPOUND_STRING("FASTER"),
+    COMPOUND_STRING("慢"),
+    COMPOUND_STRING("中"),
+    COMPOUND_STRING("快"),
+    COMPOUND_STRING("更快"),
 };
 
 static const u8 *const sChoices_MetricImperial[] = {
-    COMPOUND_STRING("METRIC"),
-    COMPOUND_STRING("IMPERIAL"),
+    COMPOUND_STRING("公制"),
+    COMPOUND_STRING("英制"),
 };
 
 static const u8 *const sChoices_OldModern[] = {
-    COMPOUND_STRING("OLD"),
-    COMPOUND_STRING("MODERN"),
+    COMPOUND_STRING("原版"),
+    COMPOUND_STRING("新版"),
 };
 
 static const u8 *const sChoices_Gen3Gen4[] = {
-    COMPOUND_STRING("GEN 3"),
-    COMPOUND_STRING("GEN 4"),
+    COMPOUND_STRING("第3世代"),
+    COMPOUND_STRING("第4世代"),
 };
 
 static const u8 *const sChoices_RunType[] = {
-    COMPOUND_STRING("NO"),
+    COMPOUND_STRING("无"),
     COMPOUND_STRING("L+R+A"),
     COMPOUND_STRING("B{RIGHT_ARROW}A"),
     COMPOUND_STRING("B"),
@@ -263,7 +263,7 @@ static const u8 sText_TopBar_Right[] = _("{R_BUTTON}");
 // Descriptions
 // =============================================================================
 
-static const u8 sText_Desc_TextSpeed[] = _("Choose one of the four text-display\nspeeds.");
+static const u8 sText_Desc_TextSpeed[] = _("在四种文字显示速度\n中进行选择。");
 static const u8 *const sDesc_TextSpeed[] = {
     sText_Desc_TextSpeed,
     sText_Desc_TextSpeed,
@@ -271,98 +271,98 @@ static const u8 *const sDesc_TextSpeed[] = {
     sText_Desc_TextSpeed,
 };
 static const u8 *const sDesc_BattleScene[] = {
-    COMPOUND_STRING("Show the {PKMN} animations\nand attack animations."),
-    COMPOUND_STRING("Skip the {PKMN} animations\nand attack animations."),
+    COMPOUND_STRING("显示{PKMN}的出场动画\n和招式动画。"),
+    COMPOUND_STRING("跳过{PKMN}的出场动画\n和招式动画。"),
 };
 static const u8 *const sDesc_BattleStyle[] = {
-    COMPOUND_STRING("Get the option to switch your\n{PKMN} after the enemies faints."),
-    COMPOUND_STRING("No free switch after fainting the\nenemies {PKMN}."),
+    COMPOUND_STRING("打倒对手后，可以\n替换自己的{PKMN}。"),
+    COMPOUND_STRING("打倒对手的{PKMN}后，\n不能自由替换。"),
 };
 static const u8 *const sDesc_ButtonMode[] = {
-    COMPOUND_STRING("All buttons work as normal."),
-    COMPOUND_STRING("On some screens the L and R buttons\nact as left and right."),
-    COMPOUND_STRING("The L button acts as another A\nbutton for one-handed play."),
+    COMPOUND_STRING("所有按键功能正常。"),
+    COMPOUND_STRING("在部分画面中，L键和R键\n充当左右方向键。"),
+    COMPOUND_STRING("L键可作为另一个A键，\n方便单手游玩。"),
 };
 static const u8 *const sDesc_Follower[] = {
-    COMPOUND_STRING("Let the first {PKMN} in your\nparty follow you."),
-    COMPOUND_STRING("Walk alone."),
+    COMPOUND_STRING("让队伍中排在最前面的\n{PKMN}跟着你走。"),
+    COMPOUND_STRING("独自前行。"),
 };
 static const u8 *const sDesc_LargeFollower[] = {
-    COMPOUND_STRING("Enable large {PKMN} followers.\nCan cause graphical issues."),
-    COMPOUND_STRING("Disable large {PKMN} followers.\nRecommended."),
+    COMPOUND_STRING("启用大型{PKMN}跟随。\n可能出现图像问题。"),
+    COMPOUND_STRING("关闭大型{PKMN}跟随。\n推荐。"),
 };
 static const u8 *const sDesc_Autorun[] = {
-    COMPOUND_STRING("Run without pressing B."),
-    COMPOUND_STRING("Press and hold B to run."),
+    COMPOUND_STRING("无需按B键即可跑步。"),
+    COMPOUND_STRING("按住B键跑步。"),
 };
 static const u8 *const sDesc_AutorunSurf[] = {
-    COMPOUND_STRING("Surf faster without pressing B."),
-    COMPOUND_STRING("Press and hold B to surf faster."),
+    COMPOUND_STRING("无需按B键即可高速冲浪。"),
+    COMPOUND_STRING("按住B键高速冲浪。"),
 };
 static const u8 *const sDesc_Fishing[] = {
-    COMPOUND_STRING("Automatically reel while fishing."),
-    COMPOUND_STRING("Manually reel while fishing.\nFish like you always fished!"),
+    COMPOUND_STRING("钓鱼时自动收竿。"),
+    COMPOUND_STRING("钓鱼时手动收竿。\n像从前一样钓鱼吧！"),
 };
 static const u8 *const sDesc_FasterJoy[] = {
-    COMPOUND_STRING("NURSE JOY heals you faster."),
-    COMPOUND_STRING("NURSE JOY heals you with the\nusual animation."),
+    COMPOUND_STRING("乔伊小姐更快地为你治疗。"),
+    COMPOUND_STRING("乔伊小姐按通常的动画\n为你治疗。"),
 };
 static const u8 *const sDesc_UnitType[] = {
-    COMPOUND_STRING("Display BERRY and {PKMN} weight\nand size in kilograms and meters."),
-    COMPOUND_STRING("Display BERRY and {PKMN} weight\nand size in pounds and inches."),
+    COMPOUND_STRING("以千克和米显示树果与{PKMN}\n的重量和大小。"),
+    COMPOUND_STRING("以磅和英寸显示树果与{PKMN}\n的重量和大小。"),
 };
 static const u8 *const sDesc_MatchCall[] = {
-    COMPOUND_STRING("TRAINERs will be able to call you,\noffering rematches and info."),
-    COMPOUND_STRING("You will not receive calls.\nSpecial events will still occur."),
+    COMPOUND_STRING("训练家会打来电话，\n邀请再战或提供情报。"),
+    COMPOUND_STRING("不会接到来电。\n特殊事件仍会发生。"),
 };
 static const u8 *const sDesc_FrameType[] = {
-    COMPOUND_STRING("Choose the frame surrounding the\nwindows."),
+    COMPOUND_STRING("选择窗口四周的边框。"),
 };
 static const u8 *const sDesc_FastIntro[] = {
-    COMPOUND_STRING("Skip the sliding animation\nand enter battles faster."),
-    COMPOUND_STRING("Battles load at the usual speed."),
+    COMPOUND_STRING("跳过滑入动画，\n更快进入战斗。"),
+    COMPOUND_STRING("战斗以通常速度载入。"),
 };
 static const u8 *const sDesc_FastBattles[] = {
-    COMPOUND_STRING("Skips all delays in battles, which\nmakes them faster."),
-    COMPOUND_STRING("Manual delay skipping. You can\npress A or B to skip delays."),
+    COMPOUND_STRING("跳过战斗中的所有延迟，\n使战斗更加流畅。"),
+    COMPOUND_STRING("手动跳过延迟。可以按A键\n或B键跳过延迟。"),
 };
 static const u8 *const sDesc_NewBackgrounds[] = {
-    COMPOUND_STRING("Original battle terrain backgrounds."),
-    COMPOUND_STRING("Modernized battle terrain\nbackgrounds, from HnS."),
+    COMPOUND_STRING("原版战斗地形背景。"),
+    COMPOUND_STRING("心魂风格的现代化\n战斗地形背景。"),
 };
 static const u8 *const sDesc_NewBattleUI[] = {
-    COMPOUND_STRING("Original GEN III Battle UI."),
-    COMPOUND_STRING("Modernized GEN IV Battle UI."),
+    COMPOUND_STRING("原版第三世代战斗界面。"),
+    COMPOUND_STRING("现代化的第四世代战斗界面。"),
 };
 static const u8 *const sDesc_BallPrompt[] = {
-    COMPOUND_STRING("Press {R_BUTTON} in battle to use Pokeballs.\nHold {L_BUTTON}/{R_BUTTON} to swap {PKMN}BALLS."),
-    COMPOUND_STRING("Disables the prompt to use\n{PKMN}BALLS quickly."),
+    COMPOUND_STRING("战斗中按{R_BUTTON}使用精灵球。\n按住{L_BUTTON}/{R_BUTTON}切换球种。"),
+    COMPOUND_STRING("关闭快速使用精灵球\n的提示。"),
 };
 static const u8 *const sDesc_RunType[] = {
-    COMPOUND_STRING("No quick running from battles."),
-    COMPOUND_STRING("Hold {L_BUTTON}+{R_BUTTON}, then {A_BUTTON} to run from\nbattles before they start."),
-    COMPOUND_STRING("Press {B_BUTTON} to move the cursor to the RUN\noption after the battle started."),
-    COMPOUND_STRING("Press {B_BUTTON} to run from battles before\nthey start."),
+    COMPOUND_STRING("无法快速逃离战斗。"),
+    COMPOUND_STRING("按住{L_BUTTON}+{R_BUTTON}再按{A_BUTTON}，\n可在开战前逃离。"),
+    COMPOUND_STRING("战斗开始后按{B_BUTTON}，\n将光标移到“逃跑”选项。"),
+    COMPOUND_STRING("开战前按{B_BUTTON}逃离战斗。"),
 };
 static const u8 *const sDesc_LRRun[] = {
-    COMPOUND_STRING("Enables a prompt to show that you\ncan run away from battles."),
-    COMPOUND_STRING("Disables said prompt to flee.\nButton combo still works."),
+    COMPOUND_STRING("显示可以逃离战斗的提示。"),
+    COMPOUND_STRING("关闭该逃跑提示。\n按键组合仍然有效。"),
 };
 static const u8 *const sDesc_Sound[] = {
-    COMPOUND_STRING("Sound is the same in all speakers.\nRecommended for original hardware."),
-    COMPOUND_STRING("Play the left and right audio channel\nseparately. Great with headphones."),
+    COMPOUND_STRING("所有扬声器声音相同。\n推荐在原装主机上使用。"),
+    COMPOUND_STRING("分别播放左右声道。\n戴耳机游玩效果绝佳。"),
 };
 static const u8 *const sDesc_Music[] = {
-    COMPOUND_STRING("Enables music playback.\nChange maps to take effect."),
-    COMPOUND_STRING("Disables music playback.\nChange maps to take effect."),
+    COMPOUND_STRING("开启音乐播放。\n切换地图后生效。"),
+    COMPOUND_STRING("关闭音乐播放。\n切换地图后生效。"),
 };
 static const u8 *const sDesc_BikeMusic[] = {
-    COMPOUND_STRING("Enables BIKE music."),
-    COMPOUND_STRING("Disables BIKE music."),
+    COMPOUND_STRING("开启自行车音乐。"),
+    COMPOUND_STRING("关闭自行车音乐。"),
 };
 static const u8 *const sDesc_SurfMusic[] = {
-    COMPOUND_STRING("Enables SURF music."),
-    COMPOUND_STRING("Disables SURF music."),
+    COMPOUND_STRING("开启冲浪音乐。"),
+    COMPOUND_STRING("关闭冲浪音乐。"),
 };
 
 // =============================================================================
@@ -371,79 +371,79 @@ static const u8 *const sDesc_SurfMusic[] = {
 
 static const struct OptionMenuItem sTabItems_Main[] = {
     [ITEM_MAIN_TEXTSPEED] = {
-        .name         = COMPOUND_STRING("TEXT SPEED"),
+        .name         = COMPOUND_STRING("文字速度"),
         .descriptions = sDesc_TextSpeed,
         .numChoices   = 4,
         .choiceNames  = sChoices_TextSpeed,
     },
     [ITEM_MAIN_BATTLESCENE] = {
-        .name         = COMPOUND_STRING("BATTLE SCENE"),
+        .name         = COMPOUND_STRING("战斗动画"),
         .descriptions = sDesc_BattleScene,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_BATTLESTYLE] = {
-        .name         = COMPOUND_STRING("BATTLE STYLE"),
+        .name         = COMPOUND_STRING("战斗方式"),
         .descriptions = sDesc_BattleStyle,
         .numChoices   = 2,
         .choiceNames  = sChoices_ShiftSet,
     },
     [ITEM_MAIN_BUTTONMODE] = {
-        .name         = COMPOUND_STRING("BUTTON MODE"),
+        .name         = COMPOUND_STRING("按键模式"),
         .descriptions = sDesc_ButtonMode,
         .numChoices   = 3,
         .choiceNames  = sChoices_ButtonMode,
     },
     [ITEM_MAIN_FOLLOWER] = {
-        .name         = COMPOUND_STRING("FOLLOWER"),
+        .name         = COMPOUND_STRING("跟随"),
         .descriptions = sDesc_Follower,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_LARGE_FOLLOWER] = {
-        .name         = COMPOUND_STRING("BIG FOLLOWERS"),
+        .name         = COMPOUND_STRING("大型跟随"),
         .descriptions = sDesc_LargeFollower,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_AUTORUN] = {
-        .name         = COMPOUND_STRING("AUTORUN"),
+        .name         = COMPOUND_STRING("自动跑步"),
         .descriptions = sDesc_Autorun,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_AUTORUN_SURF] = {
-        .name         = COMPOUND_STRING("AUTORUN (SURF)"),
+        .name         = COMPOUND_STRING("自动冲浪"),
         .descriptions = sDesc_AutorunSurf,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_FISHING] = {
-        .name         = COMPOUND_STRING("EASIER FISHING"),
+        .name         = COMPOUND_STRING("轻松钓鱼"),
         .descriptions = sDesc_Fishing,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_FASTER_JOY] = {
-        .name         = COMPOUND_STRING("FASTER JOY"),
+        .name         = COMPOUND_STRING("快速治疗"),
         .descriptions = sDesc_FasterJoy,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_UNIT_TYPE] = {
-        .name         = COMPOUND_STRING("UNIT SYSTEM"),
+        .name         = COMPOUND_STRING("单位制"),
         .descriptions = sDesc_UnitType,
         .numChoices   = 2,
         .choiceNames  = sChoices_MetricImperial,
     },
     [ITEM_MAIN_MATCHCALL] = {
-        .name         = COMPOUND_STRING("MATCH CALLS"),
+        .name         = COMPOUND_STRING("训练家来电"),
         .descriptions = sDesc_MatchCall,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_FRAMETYPE] = {
-        .name         = COMPOUND_STRING("FRAME"),
+        .name         = COMPOUND_STRING("边框"),
         .descriptions = sDesc_FrameType,
         .numChoices   = FRAME_TYPE_SPECIAL,
         .choiceNames  = NULL,
@@ -452,43 +452,43 @@ static const struct OptionMenuItem sTabItems_Main[] = {
 
 static const struct OptionMenuItem sTabItems_Battle[] = {
     [ITEM_BATTLE_FAST_INTRO] = {
-        .name         = COMPOUND_STRING("FAST INTRO"),
+        .name         = COMPOUND_STRING("快速入场"),
         .descriptions = sDesc_FastIntro,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_BATTLE_FAST_BATTLES] = {
-        .name         = COMPOUND_STRING("FAST BATTLES"),
+        .name         = COMPOUND_STRING("快速战斗"),
         .descriptions = sDesc_FastBattles,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_BATTLE_NEW_BACKGROUNDS] = {
-        .name         = COMPOUND_STRING("BATTLE TERRAIN"),
+        .name         = COMPOUND_STRING("战斗背景"),
         .descriptions = sDesc_NewBackgrounds,
         .numChoices   = 2,
         .choiceNames  = sChoices_OldModern,
     },
     [ITEM_BATTLE_NEW_BATTLEUI] = {
-        .name         = COMPOUND_STRING("BATTLE UI"),
+        .name         = COMPOUND_STRING("战斗界面"),
         .descriptions = sDesc_NewBattleUI,
         .numChoices   = 2,
         .choiceNames  = sChoices_Gen3Gen4,
     },
     [ITEM_BATTLE_BALL_PROMPT] = {
-        .name         = COMPOUND_STRING("BALL PROMPT"),
+        .name         = COMPOUND_STRING("精灵球快捷"),
         .descriptions = sDesc_BallPrompt,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_BATTLE_RUN_TYPE] = {
-        .name         = COMPOUND_STRING("QUICK RUN"),
+        .name         = COMPOUND_STRING("快速逃跑"),
         .descriptions = sDesc_RunType,
         .numChoices   = 4,
         .choiceNames  = sChoices_RunType,
     },
     [ITEM_BATTLE_LR_RUN] = {
-        .name         = COMPOUND_STRING("RUN PROMPT"),
+        .name         = COMPOUND_STRING("逃跑提示"),
         .descriptions = sDesc_LRRun,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
@@ -497,25 +497,25 @@ static const struct OptionMenuItem sTabItems_Battle[] = {
 
 static const struct OptionMenuItem sTabItems_Sound[] = {
     [ITEM_SOUND_SOUND] = {
-        .name         = COMPOUND_STRING("SOUND"),
+        .name         = COMPOUND_STRING("声音"),
         .descriptions = sDesc_Sound,
         .numChoices   = 2,
         .choiceNames  = sChoices_MonoStereo,
     },
     [ITEM_SOUND_MUSIC] = {
-        .name         = COMPOUND_STRING("MUSIC"),
+        .name         = COMPOUND_STRING("音乐"),
         .descriptions = sDesc_Music,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_SOUND_BIKE_MUSIC] = {
-        .name         = COMPOUND_STRING("BIKE MUSIC"),
+        .name         = COMPOUND_STRING("自行车音乐"),
         .descriptions = sDesc_BikeMusic,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_SOUND_SURF_MUSIC] = {
-        .name         = COMPOUND_STRING("SURF MUSIC"),
+        .name         = COMPOUND_STRING("冲浪音乐"),
         .descriptions = sDesc_SurfMusic,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
@@ -534,9 +534,9 @@ struct TabDef
 };
 
 static const struct TabDef sTabs[TAB_COUNT] = {
-    [TAB_MAIN]   = { COMPOUND_STRING("OPTIONS"),        sTabItems_Main,   ITEM_MAIN_COUNT },
-    [TAB_BATTLE] = { COMPOUND_STRING("BATTLE OPTIONS"), sTabItems_Battle, ITEM_BATTLE_COUNT },
-    [TAB_SOUND]  = { COMPOUND_STRING("SOUND"),          sTabItems_Sound,  ITEM_SOUND_COUNT },
+    [TAB_MAIN]   = { COMPOUND_STRING("选项"),        sTabItems_Main,   ITEM_MAIN_COUNT },
+    [TAB_BATTLE] = { COMPOUND_STRING("战斗选项"), sTabItems_Battle, ITEM_BATTLE_COUNT },
+    [TAB_SOUND]  = { COMPOUND_STRING("声音"),          sTabItems_Sound,  ITEM_SOUND_COUNT },
 };
 
 // =============================================================================

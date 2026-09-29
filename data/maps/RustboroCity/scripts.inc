@@ -1217,9 +1217,9 @@ RustboroCity_Text_DevonCorpBranchOfficeSign:
 	.string "“闲杂人等请勿入内。”$"
 
 RustboroCity_Text_CitySign:
-	.string "RUSTBORO CITY\p"
-	.string "“The city probing the integration of\n"
-	.string "nature and science.”$"
+	.string "卡那兹市\p"
+	.string "“探寻自然与科学\n"
+	.string "融合之道之城。”$"
 
 RustboroCity_Text_TrainersSchoolSign:
 	.string "宝可梦训练家学校\p"

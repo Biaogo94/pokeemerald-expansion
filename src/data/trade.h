@@ -1263,7 +1263,7 @@ static const struct InGameTrade sIngameTrades[] =
         [INGAME_TRADE_NIDORAN] = 
     {
 #if defined(FIRERED)
-        .nickname = _("MS. NIDO"),
+        .nickname = _("尼多女士"),
         .species = SPECIES_NIDORAN_F,
         .ivs = {22, 18, 25, 19, 15, 22},
         .abilityNum = 0,
@@ -1272,12 +1272,12 @@ static const struct InGameTrade sIngameTrades[] =
         .personality = 0x4c970b89,
         .heldItem = ITEM_TINY_MUSHROOM,
         .mailNum = MAIL_NONE,
-        .otName = _("SAIGE"),
+        .otName = _("小澄"),
         .otGender = FEMALE,
         .sheen = 10,
         .requestedSpecies = SPECIES_NIDORAN_M
 #else
-        .nickname = _("MR. NIDO"),
+        .nickname = _("尼多先生"),
         .species = SPECIES_NIDORAN_M,
         .ivs = {19, 25, 18, 22, 22, 15},
         .abilityNum = 0,
@@ -1286,7 +1286,7 @@ static const struct InGameTrade sIngameTrades[] =
         .personality = 0x4c970b9e,
         .heldItem = ITEM_TINY_MUSHROOM,
         .mailNum = MAIL_NONE,
-        .otName = _("SAIGE"),
+        .otName = _("小澄"),
         .otGender = FEMALE,
         .sheen = 10,
         .requestedSpecies = SPECIES_NIDORAN_F
@@ -1311,7 +1311,7 @@ static const struct InGameTrade sIngameTrades[] =
     [INGAME_TRADE_NIDORINOA] = 
     {
 #if defined(FIRERED)
-        .nickname = _("NINA"),
+        .nickname = _("妮娜"),
         .species = SPECIES_NIDORINA,
         .ivs = {22, 25, 18, 19, 22, 15},
         .abilityNum = 0,
@@ -1320,12 +1320,12 @@ static const struct InGameTrade sIngameTrades[] =
         .personality = 0x00eeca15,
         .heldItem = ITEM_NONE,
         .mailNum = 255,
-        .otName = _("TURNER"),
+        .otName = _("特纳"),
         .otGender = MALE,
         .sheen = 10,
         .requestedSpecies = SPECIES_NIDORINO
 #else
-        .nickname = _("NINO"),
+        .nickname = _("尼诺"),
         .species = SPECIES_NIDORINO,
         .ivs = {19, 18, 25, 22, 15, 22},
         .abilityNum = 0,
@@ -1334,7 +1334,7 @@ static const struct InGameTrade sIngameTrades[] =
         .personality = 0x00eeca19,
         .heldItem = ITEM_NONE,
         .mailNum = MAIL_NONE,
-        .otName = _("TURNER"),
+        .otName = _("特纳"),
         .otGender = MALE,
         .sheen = 10,
         .requestedSpecies = SPECIES_NIDORINA

@@ -93,8 +93,8 @@ LavenderTown_RadioStation_Text_Gentleman_GotExpnCard:
 LavenderTown_RadioStation_Text_SuperNerd2:
 	.string "嗨，你好呀！\p"
 	.string "我就是超级音乐总监！\p"
-	.string "Huh? Your RADIO can't tune into\n" @POKéGEAR
-	.string "收听我的音乐节目。太遗憾了！\p"
+	.string "咦？你的" @POKéGEAR
+	.string "收音机功能，\n收不到我的音乐节目。太遗憾了！\p"
 	.string "只要弄到扩展卡，就能收听到了。你\n"
 	.string "最好也去弄一张！$"
 

@@ -237,13 +237,13 @@ FortreeCity_Gym_Text_ReceivedFeatherBadge:
 	.string "羽徽章。$"
 
 FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis:
-	.string "With the FEATHER BADGE, all POKéMON up\n"
-	.string "to LV 70, even those received through\l"
-	.string "trades, will obey your every command.\p"
-	.string "You will also be able to use\n"
-	.string "the HM move FLY outside of battle.\p"
-	.string "And this…\n"
-	.string "This is a gift from me.$"
+	.string "获得羽毛徽章后，70级以下的宝可梦，\n"
+	.string "包括通过交换得到的，\l"
+	.string "都会听从你的指挥。\p"
+	.string "你还可以在对战外使用\n"
+	.string "秘传学习器“飞翔”。\p"
+	.string "还有这个……\n"
+	.string "这是我送你的礼物。$"
 
 FortreeCity_Gym_Text_ExplainAerialAce:
 	.string "招式学习器40的里面是燕返，\p"

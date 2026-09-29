@@ -353,9 +353,9 @@ MauvilleCity_Gym_Text_ExplainDynamoBadgeTakeThis:
 	.string "嗯……你也收下这个吧！$"
 
 MauvilleCity_Gym_Text_ExplainShockWave:
-	.string "That TM34 there contains SHOCK WAVE.\p"
-	.string "It's a trustworthy move that never\n"
-	.string "misses! You can count on it!\p"
+	.string "那台招式学习器34里装的是“电击波”。\p"
+	.string "它是绝不会落空的可靠招式！\n"
+	.string "尽管放心交给它！\p"
 	.string "… … … … … …$"
 
 MauvilleCity_Gym_Text_RegisteredWattson:

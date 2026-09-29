@@ -1425,11 +1425,11 @@ Common_EventScript_PartyIsFull::
 	end
 
 Common_Text_ReceivedMon:
-	.string "{PLAYER} received {STR_VAR_1}!$"
+	.string "{PLAYER}收到了{STR_VAR_1}！$"
 
 Common_Text_PartyIsFull:
-	.string "Whoa, wait. You can't carry any\n"
-	.string "more POKéMON.$"	
+	.string "哎呀，等等。你已经不能再带\n"
+	.string "更多的宝可梦了。$"
 
 Common_EventScript_PlayerHandedOverTheItem::
 	bufferitemname STR_VAR_1, VAR_0x8004
@@ -1452,103 +1452,100 @@ Common_EventScript_PlayerHandedOverTheItem::
 
 @ The below and surf.inc could be split into some text/notices.inc
 gText_PokemartSign::
-	.string "“Selected items for your convenience!”\n"
-	.string "POKéMON MART$"
+	.string "“为你精选称心的商品！”\n"
+	.string "宝可梦商店$"
 
 gText_PokemonCenterSign::
-	.string "“Rejuvenate your tired partners!”\n"
-	.string "POKéMON CENTER$"
+	.string "“让疲惫的伙伴恢复活力！”\n"
+	.string "宝可梦中心$"
 
 gText_MomOrDadMightLikeThisProgram::
-	.string "{STR_VAR_1} might like this program.\n"
+	.string "{STR_VAR_1}也许会喜欢这个节目。\n"
 	.string "… … … … … … … … … … … … … … … …\p"
-	.string "Better get going!$"
+	.string "差不多该出发了！$"
 
 gText_WhichFloorWouldYouLike::
-	.string "Welcome to LILYCOVE DEPARTMENT STORE.\p"
-	.string "Which floor would you like?$"
+	.string "欢迎来到水静市百货商店。\p"
+	.string "请问您想去哪一层？$"
 
 gText_SandstormIsVicious::
-	.string "The sandstorm is vicious.\n"
-	.string "It's impossible to keep going.$"
+	.string "沙暴非常猛烈。\n"
+	.string "实在无法继续前进。$"
 
 gText_SelectWithoutRegisteredItem::
-	.string "An item in the BAG can be\n"
-	.string "registered to SELECT for easy use.$"
+	.string "背包中的道具可以登记到\n"
+	.string "SELECT键上，方便使用。$"
 
 gText_SelectWithoutRegisteredHoldItem::
-	.string "A KEY ITEM can be registered\n"
-	.string "to holding SELECT for easy use.$"
+	.string "重要物品可以登记到\n"
+	.string "按住的SELECT键上，方便使用。$"
 
 gText_PokemonTrainerSchoolEmail::
-	.string "There's an e-mail from POKéMON TRAINER\n"
-	.string "SCHOOL.\p"
+	.string "有一封来自宝可梦训练家\n"
+	.string "学校的邮件。\p"
 	.string "… … … … … …\p"
-	.string "A POKéMON may learn up to four moves.\p"
-	.string "A TRAINER's expertise is tested on the\n"
-	.string "move sets chosen for POKéMON.\p"
+	.string "宝可梦最多可以学会四个招式。\p"
+	.string "训练家的本事，就体现在为宝可梦\n"
+	.string "挑选的招式组合上。\p"
 	.string "… … … … … …$"
 
 gText_PlayerHouseBootPC::
-	.string "{PLAYER} booted up the PC.$"
+	.string "{PLAYER}打开了电脑。$"
 
 gText_PokeblockLinkCanceled::
-	.string "The link was canceled.$"
+	.string "连接已取消。$"
 
 gText_UnusedNicknameReceivedPokemon::
-	.string "Want to give a nickname to\n"
-	.string "the {STR_VAR_2} you received?$"
+	.string "要为收到的{STR_VAR_2}\n"
+	.string "起个昵称吗？$"
 
 gText_PlayerWhitedOut::
-	.string "{PLAYER} is out of usable\n"
-	.string "POKéMON!\p{PLAYER} whited out!$"
+	.string "{PLAYER}没有可以出战的\n"
+	.string "宝可梦了！\p"
+	.string "{PLAYER}眼前一片黑暗！$"
 
 gText_FirstShouldRestoreMonsHealth::
-	.string "First, you should restore your\n"
-	.string "POKéMON to full health.$"
+	.string "首先，你应该先让宝可梦\n"
+	.string "恢复健康。$"
 
 gText_MonsHealedShouldBuyPotions::
-	.string "Your POKéMON have been healed\n"
-	.string "to perfect health.\p"
-	.string "If your POKéMON's energy, HP,\n"
-	.string "is down, please come see us.\p"
-	.string "If you're planning to go far in the\n"
-	.string "field, you should buy some POTIONS\l"
-	.string "at the POKéMON MART.\p"
-	.string "We hope you excel!$"
+	.string "您的宝可梦已经\n"
+	.string "完全恢复健康了。\p"
+	.string "如果宝可梦的体力HP见底了，\n"
+	.string "请随时来我们这里。\p"
+	.string "要是你打算去远方探险，最好先在\n"
+	.string "宝可梦商店买些伤药带在身上。\p"
+	.string "祝你旅途愉快！$"
 
 gText_MonsHealed::
-	.string "Your POKéMON have been healed\n"
-	.string "to perfect health.\p"
-	.string "We hope you excel!$"
+	.string "您的宝可梦已经\n"
+	.string "完全恢复健康了。\p"
+	.string "祝你旅途愉快！$"
 
 gText_HadQuiteAnExperienceTakeRest::
-	.string "MOM: {PLAYER}!\n"
-	.string "Welcome home.\p"
-	.string "It sounds like you had quite\n"
-	.string "an experience.\p"
-	.string "Maybe you should take a quick\n"
-	.string "rest.$"
+	.string "妈妈：{PLAYER}！\n"
+	.string "欢迎回家。\p"
+	.string "听起来你经历了\n"
+	.string "不少事情呢。\p"
+	.string "要不要稍微\n"
+	.string "休息一下？$"
 
 gText_MomExplainHPGetPotions::
-	.string "MOM: Oh, good! You and your\n"
-	.string "POKéMON are looking great.\p"
-	.string "I just heard from {STR_VAR_1}.\p"
-	.string "He said that POKéMON's energy is\n"
-	.string "measured in HP.\p"
-	.string "If your POKéMON lose their HP,\n"
-	.string "you can restore them at any\l"
-	.string "POKéMON CENTER.\p"
-	.string "If you're going to travel far away,\n"
-	.string "the smart TRAINER stocks up on\l"
-	.string "POTIONS at the POKéMON MART.\p"
-	.string "Make me proud, honey!\p"
-	.string "Take care!$"
+	.string "妈妈：哦，太好了！你和\n"
+	.string "宝可梦都精神饱满呢。\p"
+	.string "我刚听{STR_VAR_1}说……\p"
+	.string "他说，宝可梦的体力\n"
+	.string "是用HP来表示的。\p"
+	.string "如果宝可梦的HP减少了，可以去\n"
+	.string "任意一家宝可梦中心恢复。\p"
+	.string "要出远门的话，聪明的训练家都会\n"
+	.string "先在宝可梦商店备好伤药。\p"
+	.string "要让我为你骄傲哦！保重！$"
 
 #if IS_HNS
 gText_RegisteredTrainerinPokeNav::
-	.string "Registered {STR_VAR_1} {STR_VAR_2}\n"
-	.string "in the POKéGEAR.$"
+	.string "已将{STR_VAR_1} {STR_VAR_2}登录到\n"
+	.string "宝可梦齿轮。$"
 #else
 gText_RegisteredTrainerinPokeNav::
 	.string "Registered {STR_VAR_1} {STR_VAR_2}\n"
@@ -1556,77 +1553,75 @@ gText_RegisteredTrainerinPokeNav::
 #endif
 
 gText_ComeBackWithSecretPower::
-	.string "Do you know the TM SECRET POWER?\p"
-	.string "Our group, we love the TM SECRET\n"
-	.string "POWER.\p"
-	.string "One of our members will give it to you.\n"
-	.string "Come back and show me if you get it.\p"
-	.string "We'll accept you as a member and sell\n"
-	.string "you good stuff in secrecy.$"
+	.string "你知道招式学习器“秘密之力”吗？\p"
+	.string "我们这伙人，可喜欢\n"
+	.string "“秘密之力”了。\p"
+	.string "得到它之后，就回来给我看看吧。\p"
+	.string "我们会接纳你成为同伴，\n"
+	.string "还会偷偷卖给你好东西。$"
 
 gText_PokerusExplanation::
-	.string "Your POKéMON may be infected with\n"
-	.string "POKéRUS.\p"
-	.string "Little is known about the POKéRUS\n"
-	.string "except that they are microscopic life-\l"
-	.string "forms that attach to POKéMON.\p"
-	.string "While infected, POKéMON are said to\n"
-	.string "grow exceptionally well.$"
+	.string "你的宝可梦可能感染了\n"
+	.string "宝可病毒。\p"
+	.string "关于宝可病毒，目前所知不多，只知\n"
+	.string "它是附着在宝可梦身上的微小\n"
+	.string "生命体。\p"
+	.string "据说在感染期间，宝可梦\n"
+	.string "会成长得特别好。$"
 
 	.include "data/text/surf.inc"
 
 gText_DoorOpenedFarAway::
-	.string "It sounded as if a door opened\n"
-	.string "somewhere far away.$"
+	.string "远处似乎有什么门\n"
+	.string "打开了。$"
 
 gText_BigHoleInTheWall::
-	.string "There is a big hole in the wall.$"
+	.string "墙上开了一个大洞。$"
 
 gText_SorryWirelessClubAdjustments::
-	.string "I'm terribly sorry.\n"
-	.string "The POKéMON WIRELESS CLUB is\l"
-	.string "undergoing adjustments now.$"
+	.string "非常抱歉。\n"
+	.string "宝可梦无线俱乐部\n"
+	.string "现在正在调整中。$"
 
 gText_UndergoingAdjustments::
-	.string "It appears to be undergoing\n"
-	.string "adjustments…$"
+	.string "这里似乎正在调整中……$"
 
 @ Unused
 gText_SorryTradeCenterInspections::
-	.string "I'm terribly sorry. The TRADE CENTER\n"
-	.string "is undergoing inspections.$"
+	.string "非常抱歉。交换俱乐部\n"
+	.string "现在正在检修中。$"
 
 @ Unused
 gText_SorryRecordCornerPreparation::
-	.string "I'm terribly sorry. The RECORD CORNER\n"
-	.string "is under preparation.$"
+	.string "非常抱歉。记录角\n"
+	.string "现在正在准备中。$"
 
 gText_PlayerHandedOverTheItem::
-	.string "{PLAYER} handed over the\n"
-	.string "{STR_VAR_1}.$"
+	.string "{PLAYER}交出了\n"
+	.string "{STR_VAR_1}。$"
 
 gText_ThankYouForAccessingMysteryGift::
-	.string "Thank you for accessing the\n"
-	.string "MYSTERY GIFT System.$"
+	.string "感谢您使用\n"
+	.string "神秘礼物系统。$"
 
 gText_PlayerFoundOneTMHM::
-	.string "{PLAYER} found one {STR_VAR_1}\n"
-	.string "{STR_VAR_2}!$"
+	.string "{PLAYER}发现了1个\n"
+	.string "{STR_VAR_1}{STR_VAR_2}！$"
 
 gText_PlayerFoundTMHMs::
-	.string "{PLAYER} found {STR_VAR_3} {STR_VAR_1}\n"
-	.string "{STR_VAR_2}!$"
+	.string "{PLAYER}发现了{STR_VAR_3}个\n"
+	.string "{STR_VAR_1}{STR_VAR_2}！$"
 
 gText_Sudowoodo_Attacked::
-	.string "The weird tree doesn't like the\n"
-	.string "WAILMER PAIL!\p"
-	.string "The weird tree attacked!$"
+	.string "那棵怪树不喜欢\n"
+	.string "吼吼鲸喷壶！\p"
+	.string "怪树发起攻击了！$"
 
 gText_LegendaryFlewAway::
-	.string "The {STR_VAR_1} flew away!$"
+	.string "{STR_VAR_1}飞走了！$"
 
 gText_WantWhichFloor::
-	.string "Which floor do you want?$"
+	.string "你想去哪一层？$"
 
 	.include "data/text/pc_transfer.inc"
 	.include "data/text/questionnaire.inc"
@@ -1759,11 +1754,11 @@ EventScript_TryDarkenRuins::
 	return
 
 Text_MonFlewAway::
-	.string "The {STR_VAR_1} flew away!$"
+	.string "{STR_VAR_1}飞走了！$"
 
 @ Call for legendary bird trio
 Text_Gyaoo::
-	.string "Gyaoo!$"
+	.string "嘎奥！$"
 
 EventScript_BrailleCursorWaitButton::
 	special BrailleCursorToggle

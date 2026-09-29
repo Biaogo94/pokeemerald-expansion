@@ -206,11 +206,11 @@ static const struct MenuAction sMenuActions_Gender[] = {
 };
 
 static const u8 *const sMalePresetNames[] = {
-    COMPOUND_STRING("GOLD"),
+    COMPOUND_STRING("小金"),
 };
 
 static const u8 *const sFemalePresetNames[] = {
-    COMPOUND_STRING("KRIS"),
+    COMPOUND_STRING("克丽丝"),
 };
 
 #define NUM_PRESET_NAMES min(ARRAY_COUNT(sMalePresetNames), ARRAY_COUNT(sFemalePresetNames))
@@ -580,7 +580,7 @@ static void Task_NewGameHnsSpeech_SlideInNewGenderSprite(u8 taskId)
 
 static void Task_NewGameHnsSpeech_ChallengeDisclaimer(u8 taskId)
 {
-    static const u8 sText_Disclaimer[] = _("What challenge are you\nexpecting?\p{COLOR RED}The following settings can be changed\nfrom the PC once you start the game.\lHowever, after starting the game, the\lnuzlocke, randomizer, difficulty and\lchallenge settings can only be made\leasier, not harder.");
+    static const u8 sText_Disclaimer[] = _("你期待怎样的挑战？\p{COLOR RED}以下设定在开始游戏后，\n可以通过电脑进行更改。\l但游戏开始后，Nuzlocke、随机化、难度\l和挑战相关设定只能调简单，\l不能调困难。");
     NewGameHnsSpeech_ClearWindow(0);
     StringCopy(gStringVar4, sText_Disclaimer);
     AddTextPrinterWithCustomSpeedForMessage(FALSE, 2);

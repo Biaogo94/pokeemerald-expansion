@@ -654,9 +654,9 @@ LilycoveCity_Text_TeamAquaLotGoneForGood:
 	.string "。$"
 
 LilycoveCity_Text_CitySign:
-	.string "LILYCOVE CITY\p"
-	.string "“Where the land ends and the\n"
-	.string "sea begins.”$"
+	.string "水静市\p"
+	.string "“陆地尽头，\n"
+	.string "海洋开始的地方。”$"
 
 LilycoveCity_Text_ContestHallSign:
 	.string "宝可梦华丽大赛会场“训练家聚集的\n"

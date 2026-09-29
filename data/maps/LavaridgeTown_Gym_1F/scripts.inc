@@ -297,16 +297,16 @@ LavaridgeTown_Gym_1F_Text_FlanneryIntro:
 	.string "上磨砺而出的火辣招式！$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryDefeat:
-	.string "Oh…\n"
-	.string "I guess I was trying too hard…\p"
-	.string "I… I've only recently become\n"
-	.string "a GYM LEADER.\p"
-	.string "I tried too hard to be someone\n"
-	.string "I'm not.\p"
-	.string "I have to do things my natural way. If\n"
-	.string "I don't, my POKéMON will be confused.\p"
-	.string "Thanks for teaching me that.\n"
-	.string "For that, you deserve this.$"
+	.string "唉……\n"
+	.string "大概是我太用力了……\p"
+	.string "我……我才刚当上道馆馆主\n"
+	.string "没多久。\p"
+	.string "我太想扮成另一个自己，\n"
+	.string "反而适得其反。\p"
+	.string "我得用我自己的方式来。\n"
+	.string "不然宝可梦们也会不知所措。\p"
+	.string "谢谢你教会我这个道理。\n"
+	.string "为此，这个给你。$"
 
 LavaridgeTown_Gym_1F_Text_ReceivedHeatBadge:
 	.string "{PLAYER}从亚莎那里得到了\n"

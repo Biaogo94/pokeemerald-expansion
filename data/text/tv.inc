@@ -567,12 +567,12 @@ gTVMassOutbreakText00::
 	.string "内容。$"
 
 gTV3CheersForPokeblocksText00::
-	.string "MC: We hope you're in good cheer,\n"
-	.string "“3 CHEERS FOR {POKEBLOCK}S” is here!\p"
-	.string "Today, we examine the {POKEBLOCK} blended\n"
-	.string "by {STR_VAR_1} and associates.\p"
-	.string "Without any delay, let me feed it\n"
-	.string "to my gourmet POKéMON GULPIN.\p"
+	.string "主持人：祝愿各位心情愉快，\n"
+	.string "《为{POKEBLOCK}欢呼3次》开始啦！\p"
+	.string "今天要品鉴的是{STR_VAR_1}\n"
+	.string "一行人混合的{POKEBLOCK}。\p"
+	.string "事不宜迟，让我把它喂给美食家\n"
+	.string "宝可梦吞吞兽吧。\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …$"
 
@@ -607,8 +607,8 @@ gTV3CheersForPokeblocksText04::
 	.string "次能够表现得更好！$"
 
 gTV3CheersForPokeblocksText05::
-	.string "Tune in next time!\n"
-	.string "Our slogan is “3 CHEERS FOR {POKEBLOCK}S!”$"
+	.string "下次再见！\n"
+	.string "我们的口号是“为{POKEBLOCK}欢呼3次”！$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_WhatsYourOpinionOfTrainer::
 	.string "嗨，你好啊！\p"

@@ -273,7 +273,7 @@ static const u8 gText_MysteryEventsCantUse[] = _("连接无线适配器时\n无�
 
 static const u8 gText_ContinueMenuPlayer[] = _("玩家");
 static const u8 gText_ContinueMenuTime[] = _("时间");
-static const u8 gText_ContinueMenuPokedex[] = _("POKéDEX");
+static const u8 gText_ContinueMenuPokedex[] = _("图鉴");
 static const u8 gText_ContinueMenuBadges[] = _("徽章");
 
 #define MENU_LEFT 2

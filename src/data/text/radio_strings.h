@@ -161,7 +161,7 @@ static const u8 sRadioText_LC_Drag2[] = _("真是麻烦死了......");
 // Places and People
 // ==========================================================
 
-static const u8 sRadioText_PnP_Intro[] = _("PLACES AND PEOPLE! Brought");
+static const u8 sRadioText_PnP_Intro[] = _("《地点与人物！》由");
 static const u8 sRadioText_PnP_Intro2[] = _("DJ莉莉为您带来！");
 static const u8 sRadioText_PnP_Space[] = _(" ");
 
@@ -251,7 +251,7 @@ static const u8 sRadioBuenaPassword_LuckyChannel[]    = _("幸运号码频道");
 // ==========================================================
 
 static const u8 sOPT_Report_Clefairy_0[]  = _("玛琪：今晚将为您带来");
-static const u8 sOPT_Report_Clefairy_1[]  = _("moment on POKéMON TALK!");
+static const u8 sOPT_Report_Clefairy_1[]  = _("一刻，尽在《宝可梦漫谈》！");
 static const u8 sOPT_Report_Clefairy_2[]  = _("大木：今天我们要聚焦");
 static const u8 sOPT_Report_Clefairy_3[]  = _("神秘的皮皮！");
 static const u8 sOPT_Report_Clefairy_4[]  = _("它们聚集在月见山，");
@@ -273,7 +273,7 @@ static const u8 sOPT_Report_Lapras_8[]  = _("大木：据说它的歌声");
 static const u8 sOPT_Report_Lapras_9[]  = _("能抚慰大海的心灵。");
 
 static const u8 sOPT_Report_Ampharos_0[]  = _("玛莉：欢迎大家收听！");
-static const u8 sOPT_Report_Ampharos_1[]  = _("Time for POKéMON TALK!");
+static const u8 sOPT_Report_Ampharos_1[]  = _("《宝可梦漫谈》时间到！");
 static const u8 sOPT_Report_Ampharos_2[]  = _("大木：今天就让我们来看看");
 static const u8 sOPT_Report_Ampharos_3[]  = _("我们的好朋友电龙！");
 static const u8 sOPT_Report_Ampharos_4[]  = _("它明亮的尾巴能穿透浓雾，");

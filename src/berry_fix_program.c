@@ -16,10 +16,10 @@
 #include "constants/rgb.h"
 
 enum {
-    WIN_TITLE,          // "Berry Program Update" header on the first screen
+    WIN_TITLE,          // "树果程序更新" header on the first screen
     WIN_MSG_BODY,
     WIN_GAME_NAMES,     // The labels under the GBA graphics on the link screen
-    WIN_TURN_OFF_TITLE, // "Ruby/Sapphire" at the top of the "turn off the power" screen
+    WIN_TURN_OFF_TITLE, // "红宝石/蓝宝石" at the top of the "turn off the power" screen
 };
 
 struct {
@@ -35,9 +35,9 @@ static int BerryFix_TrySetScene(int);
 static void BerryFix_SetScene(int);
 static void BerryFix_HideScene(void);
 
-static const u8 sText_BerryProgramUpdate[] = _("Berry Program Update");
-static const u8 sText_RubySapphire[] = _("Ruby/Sapphire");
-static const u8 sText_Emerald[] = _("Emerald");
+static const u8 sText_BerryProgramUpdate[] = _("树果程序更新");
+static const u8 sText_RubySapphire[] = _("红宝石/蓝宝石");
+static const u8 sText_Emerald[] = _("绿宝石");
 static const u8 sText_BerryProgramWillBeUpdatedPressA[] = _("The Berry Program on your POKéMON\n"
                                                             "Ruby/Sapphire Game Pak will be updated.\n"
                                                             "{COLOR RED}{SHADOW LIGHT_RED}Press the A Button.");

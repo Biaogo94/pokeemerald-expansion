@@ -173,21 +173,21 @@ static u16 SampleResortGorgeousReward(void);
 static void Task_ShakeScreen(u8 taskId);
 static void Task_EndScreenShake(u8 taskId);
 
-static const u8 sText_BigGuy[] = _("Big guy");
-static const u8 sText_BigGirl[] = _("Big girl");
-static const u8 sText_Son[] = _("son");
-static const u8 sText_Daughter[] = _("daughter");
-static const u8 sText_99TimesPlus[] = _("99 times +");
-static const u8 sText_1MinutePlus[] = _("1 minute +");
-static const u8 sText_SpaceSeconds[] = _(" seconds");
-static const u8 sText_SpaceTimes[] = _(" time(s)");
+static const u8 sText_BigGuy[] = _("大块头");
+static const u8 sText_BigGirl[] = _("大姑娘");
+static const u8 sText_Son[] = _("儿子");
+static const u8 sText_Daughter[] = _("女儿");
+static const u8 sText_99TimesPlus[] = _("99次以上");
+static const u8 sText_1MinutePlus[] = _("1分钟以上");
+static const u8 sText_SpaceSeconds[] = _("秒");
+static const u8 sText_SpaceTimes[] = _("次");
 
-static const u8 sText_Wallace[] = _("WALLACE");
-static const u8 sText_Steven[] = _("STEVEN");
-static const u8 sText_Brawly[] = _("BRAWLY");
-static const u8 sText_Winona[] = _("WINONA");
-static const u8 sText_Phoebe[] = _("PHOEBE");
-static const u8 sText_Glacia[] = _("GLACIA");
+static const u8 sText_Wallace[] = _("米可利");
+static const u8 sText_Steven[] = _("大吾");
+static const u8 sText_Brawly[] = _("藤树");
+static const u8 sText_Winona[] = _("娜琪");
+static const u8 sText_Phoebe[] = _("芙蓉");
+static const u8 sText_Glacia[] = _("波妮");
 
 void Special_ShowDiploma(void)
 {
@@ -2555,89 +2555,89 @@ static const u8 *const sScrollableMultichoiceOptions[][MAX_SCROLL_MULTI_LENGTH] 
     },
     [SCROLL_MULTI_GLASS_WORKSHOP_VENDOR] =
     {
-        COMPOUND_STRING("BLUE FLUTE"),
-        COMPOUND_STRING("YELLOW FLUTE"),
-        COMPOUND_STRING("RED FLUTE"),
-        COMPOUND_STRING("WHITE FLUTE"),
-        COMPOUND_STRING("BLACK FLUTE"),
-        COMPOUND_STRING("PRETTY CHAIR"),
-        COMPOUND_STRING("PRETTY DESK"),
+        COMPOUND_STRING("蓝色之笛"),
+        COMPOUND_STRING("黄色之笛"),
+        COMPOUND_STRING("红色之笛"),
+        COMPOUND_STRING("白色之笛"),
+        COMPOUND_STRING("黑色之笛"),
+        COMPOUND_STRING("漂亮椅子"),
+        COMPOUND_STRING("漂亮桌子"),
         gText_Exit
     },
     [SCROLL_MULTI_POKEMON_FAN_CLUB_RATER] =
     {
-        COMPOUND_STRING("0 pts"),
-        COMPOUND_STRING("10 pts"),
-        COMPOUND_STRING("20 pts"),
-        COMPOUND_STRING("30 pts"),
-        COMPOUND_STRING("40 pts"),
-        COMPOUND_STRING("50 pts"),
-        COMPOUND_STRING("60 pts"),
-        COMPOUND_STRING("70 pts"),
-        COMPOUND_STRING("80 pts"),
-        COMPOUND_STRING("90 pts"),
-        COMPOUND_STRING("100 pts"),
+        COMPOUND_STRING("0分"),
+        COMPOUND_STRING("10分"),
+        COMPOUND_STRING("20分"),
+        COMPOUND_STRING("30分"),
+        COMPOUND_STRING("40分"),
+        COMPOUND_STRING("50分"),
+        COMPOUND_STRING("60分"),
+        COMPOUND_STRING("70分"),
+        COMPOUND_STRING("80分"),
+        COMPOUND_STRING("90分"),
+        COMPOUND_STRING("100分"),
         COMPOUND_STRING("?")
     },
     [SCROLL_MULTI_BF_EXCHANGE_CORNER_DECOR_VENDOR_1] =
     {
-        COMPOUND_STRING("KISS POSTER{CLEAR_TO 0x5E}16BP"),
-        COMPOUND_STRING("KISS CUSHION{CLEAR_TO 0x5E}32BP"),
-        COMPOUND_STRING("SMOOCHUM DOLL{CLEAR_TO 0x5E}32BP"),
-        COMPOUND_STRING("TOGEPI DOLL{CLEAR_TO 0x5E}48BP"),
-        COMPOUND_STRING("MEOWTH DOLL{CLEAR_TO 0x5E}48BP"),
-        COMPOUND_STRING("CLEFAIRY DOLL{CLEAR_TO 0x5E}48BP"),
-        COMPOUND_STRING("DITTO DOLL{CLEAR_TO 0x5E}48BP"),
-        COMPOUND_STRING("CYNDAQUIL DOLL{CLEAR_TO 0x5E}80BP"),
-        COMPOUND_STRING("CHIKORITA DOLL{CLEAR_TO 0x5E}80BP"),
-        COMPOUND_STRING("TOTODILE DOLL{CLEAR_TO 0x5E}80BP"),
+        COMPOUND_STRING("亲吻海报{CLEAR_TO 0x5E}16BP"),
+        COMPOUND_STRING("亲吻坐垫{CLEAR_TO 0x5E}32BP"),
+        COMPOUND_STRING("迷唇娃玩偶{CLEAR_TO 0x5E}32BP"),
+        COMPOUND_STRING("波克比玩偶{CLEAR_TO 0x5E}48BP"),
+        COMPOUND_STRING("喵喵玩偶{CLEAR_TO 0x5E}48BP"),
+        COMPOUND_STRING("皮皮玩偶{CLEAR_TO 0x5E}48BP"),
+        COMPOUND_STRING("百变怪玩偶{CLEAR_TO 0x5E}48BP"),
+        COMPOUND_STRING("火球鼠玩偶{CLEAR_TO 0x5E}80BP"),
+        COMPOUND_STRING("菊草叶玩偶{CLEAR_TO 0x5E}80BP"),
+        COMPOUND_STRING("小锯鳄玩偶{CLEAR_TO 0x5E}80BP"),
         gText_Exit
     },
     [SCROLL_MULTI_BF_EXCHANGE_CORNER_DECOR_VENDOR_2] =
     {
-        COMPOUND_STRING("LAPRAS DOLL{CLEAR_TO 0x58}128BP"),
-        COMPOUND_STRING("SNORLAX DOLL{CLEAR_TO 0x58}128BP"),
-        COMPOUND_STRING("VENUSAUR DOLL{CLEAR_TO 0x58}256BP"),
-        COMPOUND_STRING("CHARIZARD DOLL{CLEAR_TO 0x58}256BP"),
-        COMPOUND_STRING("BLASTOISE DOLL{CLEAR_TO 0x58}256BP"),
+        COMPOUND_STRING("拉普拉斯玩偶{CLEAR_TO 0x58}128BP"),
+        COMPOUND_STRING("卡比兽玩偶{CLEAR_TO 0x58}128BP"),
+        COMPOUND_STRING("妙蛙花玩偶{CLEAR_TO 0x58}256BP"),
+        COMPOUND_STRING("喷火龙玩偶{CLEAR_TO 0x58}256BP"),
+        COMPOUND_STRING("水箭龟玩偶{CLEAR_TO 0x58}256BP"),
         gText_Exit
     },
     [SCROLL_MULTI_BF_EXCHANGE_CORNER_VITAMIN_VENDOR] =
     {
-        COMPOUND_STRING("PROTEIN{CLEAR_TO 0x64}1BP"),
-        COMPOUND_STRING("CALCIUM{CLEAR_TO 0x64}1BP"),
-        COMPOUND_STRING("IRON{CLEAR_TO 0x64}1BP"),
-        COMPOUND_STRING("ZINC{CLEAR_TO 0x64}1BP"),
-        COMPOUND_STRING("CARBOS{CLEAR_TO 0x64}1BP"),
-        COMPOUND_STRING("HP UP{CLEAR_TO 0x64}1BP"),
+        COMPOUND_STRING("攻击增强剂{CLEAR_TO 0x64}1BP"),
+        COMPOUND_STRING("特攻增强剂{CLEAR_TO 0x64}1BP"),
+        COMPOUND_STRING("防御增强剂{CLEAR_TO 0x64}1BP"),
+        COMPOUND_STRING("特防增强剂{CLEAR_TO 0x64}1BP"),
+        COMPOUND_STRING("速度增强剂{CLEAR_TO 0x64}1BP"),
+        COMPOUND_STRING("HP增强剂{CLEAR_TO 0x64}1BP"),
         gText_Exit
     },
     [SCROLL_MULTI_BF_EXCHANGE_CORNER_HOLD_ITEM_VENDOR] =
     {
-        COMPOUND_STRING("LEFTOVERS{CLEAR_TO 0x5E}48BP"),
-        COMPOUND_STRING("WHITE HERB{CLEAR_TO 0x5E}48BP"),
-        COMPOUND_STRING("QUICK CLAW{CLEAR_TO 0x5E}48BP"),
-        COMPOUND_STRING("MENTAL HERB{CLEAR_TO 0x5E}48BP"),
-        COMPOUND_STRING("BRIGHTPOWDER{CLEAR_TO 0x5E}64BP"),
-        COMPOUND_STRING("CHOICE BAND{CLEAR_TO 0x5E}64BP"),
-        COMPOUND_STRING("KING'S ROCK{CLEAR_TO 0x5E}64BP"),
-        COMPOUND_STRING("FOCUS BAND{CLEAR_TO 0x5E}64BP"),
-        COMPOUND_STRING("SCOPE LENS{CLEAR_TO 0x5E}64BP"),
+        COMPOUND_STRING("吃剩的东西{CLEAR_TO 0x5E}48BP"),
+        COMPOUND_STRING("白色香草{CLEAR_TO 0x5E}48BP"),
+        COMPOUND_STRING("先制之爪{CLEAR_TO 0x5E}48BP"),
+        COMPOUND_STRING("心灵香草{CLEAR_TO 0x5E}48BP"),
+        COMPOUND_STRING("光粉{CLEAR_TO 0x5E}64BP"),
+        COMPOUND_STRING("讲究头带{CLEAR_TO 0x5E}64BP"),
+        COMPOUND_STRING("王者之证{CLEAR_TO 0x5E}64BP"),
+        COMPOUND_STRING("气势头带{CLEAR_TO 0x5E}64BP"),
+        COMPOUND_STRING("焦点镜{CLEAR_TO 0x5E}64BP"),
         gText_Exit
     },
     [SCROLL_MULTI_BERRY_POWDER_VENDOR] =
     {
-        COMPOUND_STRING("ENERGYPOWDER{CLEAR_TO 114}{FONT_SMALL}50"),
-        COMPOUND_STRING("ENERGY ROOT{CLEAR_TO 114}{FONT_SMALL}80"),
-        COMPOUND_STRING("HEAL POWDER{CLEAR_TO 114}{FONT_SMALL}50"),
-        COMPOUND_STRING("REVIVAL HERB{CLEAR_TO 108}{FONT_SMALL}300"),
-        COMPOUND_STRING("PROTEIN{CLEAR_TO 99}{FONT_SMALL}1,000"),
-        COMPOUND_STRING("IRON{CLEAR_TO 99}{FONT_SMALL}1,000"),
-        COMPOUND_STRING("CARBOS{CLEAR_TO 99}{FONT_SMALL}1,000"),
-        COMPOUND_STRING("CALCIUM{CLEAR_TO 99}{FONT_SMALL}1,000"),
-        COMPOUND_STRING("ZINC{CLEAR_TO 99}{FONT_SMALL}1,000"),
-        COMPOUND_STRING("HP UP{CLEAR_TO 99}{FONT_SMALL}1,000"),
-        COMPOUND_STRING("PP UP{CLEAR_TO 99}{FONT_SMALL}3,000"),
+        COMPOUND_STRING("元气粉{CLEAR_TO 114}{FONT_SMALL}50"),
+        COMPOUND_STRING("元气根{CLEAR_TO 114}{FONT_SMALL}80"),
+        COMPOUND_STRING("万能粉{CLEAR_TO 114}{FONT_SMALL}50"),
+        COMPOUND_STRING("复活草{CLEAR_TO 108}{FONT_SMALL}300"),
+        COMPOUND_STRING("攻击增强剂{CLEAR_TO 99}{FONT_SMALL}1,000"),
+        COMPOUND_STRING("防御增强剂{CLEAR_TO 99}{FONT_SMALL}1,000"),
+        COMPOUND_STRING("速度增强剂{CLEAR_TO 99}{FONT_SMALL}1,000"),
+        COMPOUND_STRING("特攻增强剂{CLEAR_TO 99}{FONT_SMALL}1,000"),
+        COMPOUND_STRING("特防增强剂{CLEAR_TO 99}{FONT_SMALL}1,000"),
+        COMPOUND_STRING("HP增强剂{CLEAR_TO 99}{FONT_SMALL}1,000"),
+        COMPOUND_STRING("PP提升剂{CLEAR_TO 99}{FONT_SMALL}3,000"),
         gText_Exit
     },
     [SCROLL_MULTI_BF_RECEPTIONIST] =
@@ -2655,38 +2655,38 @@ static const u8 *const sScrollableMultichoiceOptions[][MAX_SCROLL_MULTI_LENGTH] 
     },
     [SCROLL_MULTI_BF_MOVE_TUTOR_1] =
     {
-        COMPOUND_STRING("SOFTBOILED{CLEAR_TO 0x4E}16BP"),
-        COMPOUND_STRING("SEISMIC TOSS{CLEAR_TO 0x4E}24BP"),
-        COMPOUND_STRING("DREAM EATER{CLEAR_TO 0x4E}24BP"),
-        COMPOUND_STRING("MEGA PUNCH{CLEAR_TO 0x4E}24BP"),
-        COMPOUND_STRING("MEGA KICK{CLEAR_TO 0x4E}48BP"),
-        COMPOUND_STRING("BODY SLAM{CLEAR_TO 0x4E}48BP"),
-        COMPOUND_STRING("ROCK SLIDE{CLEAR_TO 0x4E}48BP"),
-        COMPOUND_STRING("COUNTER{CLEAR_TO 0x4E}48BP"),
-        COMPOUND_STRING("THUNDER WAVE{CLEAR_TO 0x4E}48BP"),
-        COMPOUND_STRING("SWORDS DANCE{CLEAR_TO 0x4E}48BP"),
+        COMPOUND_STRING("生蛋{CLEAR_TO 0x4E}16BP"),
+        COMPOUND_STRING("地球上投{CLEAR_TO 0x4E}24BP"),
+        COMPOUND_STRING("食梦{CLEAR_TO 0x4E}24BP"),
+        COMPOUND_STRING("百万吨重拳{CLEAR_TO 0x4E}24BP"),
+        COMPOUND_STRING("百万吨重踢{CLEAR_TO 0x4E}48BP"),
+        COMPOUND_STRING("泰山压顶{CLEAR_TO 0x4E}48BP"),
+        COMPOUND_STRING("岩崩{CLEAR_TO 0x4E}48BP"),
+        COMPOUND_STRING("双倍奉还{CLEAR_TO 0x4E}48BP"),
+        COMPOUND_STRING("电磁波{CLEAR_TO 0x4E}48BP"),
+        COMPOUND_STRING("剑舞{CLEAR_TO 0x4E}48BP"),
         gText_Exit
     },
     [SCROLL_MULTI_BF_MOVE_TUTOR_2] =
     {
-        COMPOUND_STRING("DEFENSE CURL{CLEAR_TO 0x4E}16BP"),
-        COMPOUND_STRING("SNORE{CLEAR_TO 0x4E}24BP"),
-        COMPOUND_STRING("MUD-SLAP{CLEAR_TO 0x4E}24BP"),
-        COMPOUND_STRING("SWIFT{CLEAR_TO 0x4E}24BP"),
-        COMPOUND_STRING("ICY WIND{CLEAR_TO 0x4E}24BP"),
-        COMPOUND_STRING("ENDURE{CLEAR_TO 0x4E}48BP"),
-        COMPOUND_STRING("PSYCH UP{CLEAR_TO 0x4E}48BP"),
-        COMPOUND_STRING("ICE PUNCH{CLEAR_TO 0x4E}48BP"),
-        COMPOUND_STRING("THUNDERPUNCH{CLEAR_TO 0x4E}48BP"),
-        COMPOUND_STRING("FIRE PUNCH{CLEAR_TO 0x4E}48BP"),
+        COMPOUND_STRING("变圆{CLEAR_TO 0x4E}16BP"),
+        COMPOUND_STRING("打鼾{CLEAR_TO 0x4E}24BP"),
+        COMPOUND_STRING("掷泥{CLEAR_TO 0x4E}24BP"),
+        COMPOUND_STRING("高速星星{CLEAR_TO 0x4E}24BP"),
+        COMPOUND_STRING("冰冻之风{CLEAR_TO 0x4E}24BP"),
+        COMPOUND_STRING("挺住{CLEAR_TO 0x4E}48BP"),
+        COMPOUND_STRING("自我暗示{CLEAR_TO 0x4E}48BP"),
+        COMPOUND_STRING("冰冻拳{CLEAR_TO 0x4E}48BP"),
+        COMPOUND_STRING("雷电拳{CLEAR_TO 0x4E}48BP"),
+        COMPOUND_STRING("火焰拳{CLEAR_TO 0x4E}48BP"),
         gText_Exit
     },
 #if IS_HNS
         [SCROLL_MULTI_BF_MOVE_TUTOR_3] =
     {
-        COMPOUND_STRING("FRENZY PLANT{CLEAR_TO 0x4E}64BP"),
-        COMPOUND_STRING("BLAST BURN{CLEAR_TO 0x4E}64BP"),
-        COMPOUND_STRING("HYDRO CANNON{CLEAR_TO 0x4E}64BP"),
+        COMPOUND_STRING("疯狂植物{CLEAR_TO 0x4E}64BP"),
+        COMPOUND_STRING("爆炸烈焰{CLEAR_TO 0x4E}64BP"),
+        COMPOUND_STRING("加农水炮{CLEAR_TO 0x4E}64BP"),
         gText_Exit
     },
 #endif
@@ -5411,7 +5411,7 @@ static void Task_ElevatorShake(u8 taskId)
     }
 }
 
-static const u8 sText_NowOn[] = _("Now on:");
+static const u8 sText_NowOn[] = _("现在播放:");
 
 void DrawElevatorCurrentFloorWindow(void)
 {

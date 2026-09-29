@@ -959,20 +959,20 @@ MauvilleCity_GameCorner_Text_ThankYouHereAreYourCoins:
 	.string "谢谢惠顾！这是您的代币！$"
 
 MauvilleCity_GameCorner_Text_DontHaveEnoughMoneyFor50:
-	.string "Um… You don't appear to have\n"
-	.string "enough money to buy COINS…\p"
-	.string "Please come back when you have\n"
-	.string "at least ¥1000!$"
+	.string "呃……你的钱好像\n"
+	.string "不够买金币……\p"
+	.string "请至少带上1000日元\n"
+	.string "再来吧！$"
 
 MauvilleCity_GameCorner_Text_DontHaveEnoughMoney:
 	.string "呃……您的现金似乎不够……$"
 
 MauvilleCity_GameCorner_Text_NoRoomFor50Coins:
-	.string "Oh! Your COIN CASE is too full to buy\n"
-	.string "any more COINS!\p"
-	.string "Enjoy the GOLDENROD GAME CORNER or\n"
-	.string "exchange your COINS for prizes before\l"
-	.string "coming back!$"
+	.string "哎呀！你的金币袋已经满了，\n"
+	.string "买不了更多金币了！\p"
+	.string "去满金游戏城玩玩，或者先把金币\n"
+	.string "兑换成奖品，\l"
+	.string "再回来吧！$"
 
 MauvilleCity_GameCorner_Text_NoRoomForCoins:
 	.string "咦？你的代币盒装不下那么多代币呢\n"

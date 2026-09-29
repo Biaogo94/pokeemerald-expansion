@@ -722,16 +722,16 @@ LittlerootTown_ProfessorBirchsLab_Text_BirchRivalGoneHome:
 	.string "一下。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_HeardYouBeatRivalTakePokedex:
-	.string "PROF. BIRCH: Oh, hi, {PLAYER}{KUN}!\p"
-	.string "I heard you beat {RIVAL} on\n"
-	.string "your first try. That's excellent!\p"
-	.string "{RIVAL}'s been helping with my research\n"
-	.string "for a long time.\p"
-	.string "{RIVAL} has an extensive history as\n"
-	.string "a TRAINER already.\p"
-	.string "Here, {PLAYER}{KUN}, I ordered this for my\n"
-	.string "research, but I think you should have\l"
-	.string "this POKéDEX.$"
+	.string "小田卷博士：哦，是你呀，{PLAYER}{KUN}！\p"
+	.string "听说你第一次就赢了{RIVAL}。\n"
+	.string "真是出色！\p"
+	.string "{RIVAL}长期以来\n"
+	.string "一直协助我的研究。\p"
+	.string "{RIVAL}身为训练家，\n"
+	.string "早已身经百战。\p"
+	.string "给，{PLAYER}{KUN}，这是我为了研究\n"
+	.string "订购的东西，不过我觉得\l"
+	.string "这台宝可梦图鉴应该交给你。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_ReceivedPokedex:
 	.string "{PLAYER}得到了宝可梦图鉴\n"

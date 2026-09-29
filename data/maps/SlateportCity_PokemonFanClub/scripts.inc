@@ -294,12 +294,12 @@ SlateportCity_PokemonFanClub_Text_HmHmISee:
 	.string "唔，嗯……看来……$"
 
 SlateportCity_PokemonFanClub_Text_GiveMonMorePokeblocks:
-	.string "Hmmm… It's not bad, but it's not\n"
-	.string "good, either…\p"
-	.string "You, the TRAINER, must put more\n"
-	.string "effort into raising this POKéMON!\p"
-	.string "For instance, may I suggest that\n"
-	.string "you give it more {POKEBLOCK}S?$"
+	.string "嗯……说不上差，\n"
+	.string "但也说不上好……\p"
+	.string "你这位训练家，得在培育这只宝可梦上\n"
+	.string "多下点功夫！\p"
+	.string "比如说，多给它吃点\n"
+	.string "{POKEBLOCK}如何？$"
 
 SlateportCity_PokemonFanClub_Text_NoSpaceForReward:
 	.string "哎呀呀……\p"
