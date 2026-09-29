@@ -444,7 +444,7 @@ static const struct MatchCallStructTrainer sWattsonMatchCallHeader =
     .mapSec = MAPSEC_BLACKTHORN_CITY,
     .flag = FLAG_ENABLE_WATTSON_MATCH_CALL,
     .rematchTableIdx = REMATCH_WATTSON,
-    .desc = COMPOUND_STRING('电光石火'),
+    .desc = COMPOUND_STRING("电光石火"),
     .name = NULL,
     .textData = sWattsonTextScripts
 };
@@ -892,7 +892,7 @@ static const struct MatchCallStructTrainer sWattsonMatchCallHeader =
     .mapSec = MAPSEC_MAUVILLE_CITY,
     .flag = FLAG_ENABLE_WATTSON_MATCH_CALL,
     .rematchTableIdx = REMATCH_WATTSON,
-    .desc = COMPOUND_STRING('电光石火'),
+    .desc = COMPOUND_STRING("电光石火"),
     .name = NULL,
     .textData = sWattsonTextScripts
 };
