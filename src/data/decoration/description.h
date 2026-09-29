@@ -171,29 +171,24 @@ const u8 DecorDesc_E_NOTE_MAT[] = _(
     "踩上去就会发出E音的地毯。");
 
 const u8 DecorDesc_F_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "an F note when\n"
-        "stepped on.");
+    "踩上去就会发出F音的\n"
+        "地毯。");
 
 const u8 DecorDesc_G_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "a G note when\n"
-        "stepped on.");
+    "踩上去就会发出G音的\n"
+        "地毯。");
 
 const u8 DecorDesc_A_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "an A note when\n"
-        "stepped on.");
+    "踩上去就会发出A音的\n"
+        "地毯。");
 
 const u8 DecorDesc_B_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "a B note when\n"
-        "stepped on.");
+    "踩上去就会发出B音的\n"
+        "地毯。");
 
 const u8 DecorDesc_C_HIGH_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "a high C note when\n"
-        "stepped on.");
+    "踩上去就会发出高音C的\n"
+        "地毯。");
 
 const u8 DecorDesc_SURF_MAT[] = _(
     "印有冲浪图案的垫子。上面可以放置\n"
