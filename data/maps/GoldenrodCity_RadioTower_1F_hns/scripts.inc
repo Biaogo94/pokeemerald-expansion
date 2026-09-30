@@ -420,8 +420,8 @@ GoldenrodCity_RadioTower_1F_Text_AllFiveDigitsMatched:
 	.string "{STR_VAR_1}！$"
 
 GoldenrodCity_RadioTower_1F_Text_NoRoomForThis:
-	.string "哎呀？你的包包好像已经装不下了。\p"
-	.string "请整理好包包的空间后再来找我吧。$"
+	.string "哎呀？你的背包好像已经装不下了。\p"
+	.string "请整理好背包的空间后再来找我吧。$"
 
 GoldenrodCity_RadioTower_1F_Text_PrizeWeveBeenHolding:
 	.string "{PLAYER}对吧？好的，我正\n"

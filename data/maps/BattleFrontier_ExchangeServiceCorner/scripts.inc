@@ -386,7 +386,7 @@ BattleFrontier_ExchangeServiceCorner_Text_PCIsFull:
 	.string "很抱歉……您的电脑好像满了……$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DontHaveSpaceToHoldIt:
-	.string "很抱歉……您的包包已经放不下了…\n"
+	.string "很抱歉……您的背包已经放不下了…\n"
 	.string "…$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ThankYouVisitWithPoints:

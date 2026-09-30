@@ -34,7 +34,7 @@ ShoalCave_LowTideEntranceRoom_Text_WantedToMakeShellBell:
 	.string "啊……$"
 
 ShoalCave_LowTideEntranceRoom_Text_NoSpaceInYourBag:
-	.string "如果我做好了的话你的包包里就没有\n"
+	.string "如果我做好了的话你的背包里就没有\n"
 	.string "空间了，\p"
 	.string "腾出些地方再回来吧。$"
 

@@ -42,7 +42,7 @@ GoldenrodCity_BikeShop_EventScript_Bike::
 	end
 
 GoldenrodCity_BikeShop_Text_Clerk2:
-	.string "只要在包包里登记好自行车，按一个\n"
+	.string "只要在背包里登记好自行车，按一个\n"
 	.string "键就能轻松骑上了。\p"
 	.string "如果你想骑得更快，就得先停下来才\n"
 	.string "行！\p"

@@ -983,7 +983,7 @@
     "file": "data/maps/BattleFrontier_BattleArenaLobby/scripts.inc",
     "label": "BattleFrontier_BattleArenaLobby_Text_BagFullReturnForPrize",
     "index": 0,
-    "zh": "哎？\\n您的包包满了。\\p整理空间后\\n再来拿您的奖品。$",
+    "zh": "哎？\\n您的背包满了。\\p整理空间后\\n再来拿您的奖品。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -1529,7 +1529,7 @@
     "file": "data/maps/BattleFrontier_BattleDomeLobby/scripts.inc",
     "label": "BattleFrontier_BattleDomeLobby_Text_BagFullMakeRoom",
     "index": 0,
-    "zh": "啊，您的包包已经满了。\\p请将包包整理好之后\\n再来找我。$",
+    "zh": "啊，您的背包已经满了。\\p请将背包整理好之后\\n再来找我。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -2894,7 +2894,7 @@
     "file": "data/maps/BattleFrontier_BattlePalaceLobby/scripts.inc",
     "label": "BattleFrontier_BattlePalaceLobby_Text_NoSpaceForPrize",
     "index": 0,
-    "zh": "看起来您没有地方\\n装我们的礼物了，\\p整理好包包再\\n回来这里吧。$",
+    "zh": "看起来您没有地方\\n装我们的礼物了，\\p整理好背包再\\n回来这里吧。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -3230,7 +3230,7 @@
     "file": "data/maps/BattleFrontier_BattlePikeLobby/scripts.inc",
     "label": "BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules",
     "index": 0,
-    "zh": "在选择式对战的挑战中\\n包包和宝可导航不能使用。$",
+    "zh": "在选择式对战的挑战中\\n背包和宝可导航不能使用。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -4042,63 +4042,63 @@
     "file": "data/maps/BattleFrontier_BattlePyramidFloor/scripts.inc",
     "label": "BattlePyramid_Text_EightItemsRemaining3",
     "index": 0,
-    "zh": "你的包包还能放下几个道具？\\p我估计，在这一层还有\\n8个道具。$",
+    "zh": "你的背包还能放下几个道具？\\p我估计，在这一层还有\\n8个道具。$",
     "ref": "remotes/zh/master"
   },
   {
     "file": "data/maps/BattleFrontier_BattlePyramidFloor/scripts.inc",
     "label": "BattlePyramid_Text_SevenItemsRemaining3",
     "index": 0,
-    "zh": "你的包包还能放下几个道具？\\p我估计，在这一层还有\\n7个道具。$",
+    "zh": "你的背包还能放下几个道具？\\p我估计，在这一层还有\\n7个道具。$",
     "ref": "remotes/zh/master"
   },
   {
     "file": "data/maps/BattleFrontier_BattlePyramidFloor/scripts.inc",
     "label": "BattlePyramid_Text_SixItemsRemaining3",
     "index": 0,
-    "zh": "你的包包还能放下几个道具？\\p我估计，在这一层还有\\n6个道具。$",
+    "zh": "你的背包还能放下几个道具？\\p我估计，在这一层还有\\n6个道具。$",
     "ref": "remotes/zh/master"
   },
   {
     "file": "data/maps/BattleFrontier_BattlePyramidFloor/scripts.inc",
     "label": "BattlePyramid_Text_FiveItemsRemaining3",
     "index": 0,
-    "zh": "你的包包还能放下几个道具？\\p我估计，在这一层还有\\n5个道具。$",
+    "zh": "你的背包还能放下几个道具？\\p我估计，在这一层还有\\n5个道具。$",
     "ref": "remotes/zh/master"
   },
   {
     "file": "data/maps/BattleFrontier_BattlePyramidFloor/scripts.inc",
     "label": "BattlePyramid_Text_FourItemsRemaining3",
     "index": 0,
-    "zh": "你的包包还能放下几个道具？\\p我估计，在这一层还有\\n4个道具。$",
+    "zh": "你的背包还能放下几个道具？\\p我估计，在这一层还有\\n4个道具。$",
     "ref": "remotes/zh/master"
   },
   {
     "file": "data/maps/BattleFrontier_BattlePyramidFloor/scripts.inc",
     "label": "BattlePyramid_Text_ThreeItemsRemaining3",
     "index": 0,
-    "zh": "你的包包还能放下几个道具？\\p我估计，在这一层还有\\n3个道具。$",
+    "zh": "你的背包还能放下几个道具？\\p我估计，在这一层还有\\n3个道具。$",
     "ref": "remotes/zh/master"
   },
   {
     "file": "data/maps/BattleFrontier_BattlePyramidFloor/scripts.inc",
     "label": "BattlePyramid_Text_TwoItemsRemaining3",
     "index": 0,
-    "zh": "你的包包还能放下几个道具？\\p我估计，在这一层还有\\n2个道具。$",
+    "zh": "你的背包还能放下几个道具？\\p我估计，在这一层还有\\n2个道具。$",
     "ref": "remotes/zh/master"
   },
   {
     "file": "data/maps/BattleFrontier_BattlePyramidFloor/scripts.inc",
     "label": "BattlePyramid_Text_OneItemRemaining3",
     "index": 0,
-    "zh": "你的包包还能放下几个道具？\\p我估计，在这一层可能只剩\\n1个道具了。$",
+    "zh": "你的背包还能放下几个道具？\\p我估计，在这一层可能只剩\\n1个道具了。$",
     "ref": "remotes/zh/master"
   },
   {
     "file": "data/maps/BattleFrontier_BattlePyramidFloor/scripts.inc",
     "label": "BattlePyramid_Text_ZeroItemsRemaining3",
     "index": 0,
-    "zh": "你的包包还能放下几个道具？\\p我估计，这一层已经没有\\n道具可以找了。\\l你多保重！$",
+    "zh": "你的背包还能放下几个道具？\\p我估计，这一层已经没有\\n道具可以找了。\\l你多保重！$",
     "ref": "remotes/zh/master"
   },
   {
@@ -4651,7 +4651,7 @@
     "file": "data/maps/BattleFrontier_BattlePyramidLobby/scripts.inc",
     "label": "BattleFrontier_BattlePyramidLobby_Text_ExplainBattlePyramid",
     "index": 0,
-    "zh": "在探索式对战中，\\n您需要探索金字塔内部，\\l并努力抵达顶层。\\p金字塔中有7层迷宫，\\n每层不仅有强大的训练家，\\l还有野生宝可梦。\\p您需要带3只宝可梦进入，\\n并且它们不能携带道具。\\p登顶的过程中，\\n您会获得一个战斗包包\\l用于存放道具，\\p如果挑战失败，战斗包包中的所有\\n道具都会消失。\\p如果您在中途想要暂停的话，\\n请选择“休息”并写入记录，\\p请确保在退出前完好地写下了记录。\\n否则我们将视挑战为无效。$",
+    "zh": "在探索式对战中，\\n您需要探索金字塔内部，\\l并努力抵达顶层。\\p金字塔中有7层迷宫，\\n每层不仅有强大的训练家，\\l还有野生宝可梦。\\p您需要带3只宝可梦进入，\\n并且它们不能携带道具。\\p登顶的过程中，\\n您会获得一个战斗背包\\l用于存放道具，\\p如果挑战失败，战斗背包中的所有\\n道具都会消失。\\p如果您在中途想要暂停的话，\\n请选择“休息”并写入记录，\\p请确保在退出前完好地写下了记录。\\n否则我们将视挑战为无效。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -4707,28 +4707,28 @@
     "file": "data/maps/BattleFrontier_BattlePyramidLobby/scripts.inc",
     "label": "BattleFrontier_BattlePyramidLobby_Text_WeWillHoldBagForSafekeeping",
     "index": 0,
-    "zh": "{PLAYER}，在探索期间，\\n我们会暂时替您保管包包。$",
+    "zh": "{PLAYER}，在探索期间，\\n我们会暂时替您保管背包。$",
     "ref": "remotes/zh/master"
   },
   {
     "file": "data/maps/BattleFrontier_BattlePyramidLobby/scripts.inc",
     "label": "BattleFrontier_BattlePyramidLobby_Text_PleaseTakePreviousBattleBag",
     "index": 0,
-    "zh": "作为交换，\\n请带上您之前用过的这个战斗包包。$",
+    "zh": "作为交换，\\n请带上您之前用过的这个战斗背包。$",
     "ref": "remotes/zh/master"
   },
   {
     "file": "data/maps/BattleFrontier_BattlePyramidLobby/scripts.inc",
     "label": "BattleFrontier_BattlePyramidLobby_Text_PleaseTakeThisBattleBag",
     "index": 0,
-    "zh": "作为交换，\\n请带上这个战斗包包。$",
+    "zh": "作为交换，\\n请带上这个战斗背包。$",
     "ref": "remotes/zh/master"
   },
   {
     "file": "data/maps/BattleFrontier_BattlePyramidLobby/scripts.inc",
     "label": "BattleFrontier_BattlePyramidLobby_Text_ExchangedBagForBattleBag",
     "index": 0,
-    "zh": "{PLAYER}把包包换成了\\n战斗包包。$",
+    "zh": "{PLAYER}把背包换成了\\n战斗背包。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -4742,7 +4742,7 @@
     "file": "data/maps/BattleFrontier_BattlePyramidLobby/scripts.inc",
     "label": "BattleFrontier_BattlePyramidLobby_Text_DidntSaveBeforeQuittingTakeBag",
     "index": 0,
-    "zh": "探险家啊，有个大问题！\\p您在上次结束时\\n没有写入记录。\\p遗憾地告诉您，没有写入记录的\\n挑战我们将视其为无效。\\p这是您寄放在我们\\n这里的包包。\\p{PLAYER}拿回了包包。$",
+    "zh": "探险家啊，有个大问题！\\p您在上次结束时\\n没有写入记录。\\p遗憾地告诉您，没有写入记录的\\n挑战我们将视其为无效。\\p这是您寄放在我们\\n这里的背包。\\p{PLAYER}拿回了背包。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -4763,14 +4763,14 @@
     "file": "data/maps/BattleFrontier_BattlePyramidLobby/scripts.inc",
     "label": "BattleFrontier_BattlePyramidLobby_Text_HeldItemsMovedToBag",
     "index": 0,
-    "zh": "您的宝可梦携带的所有道具\\n都会放回到战斗包包中，{PLAYER}。$",
+    "zh": "您的宝可梦携带的所有道具\\n都会放回到战斗背包中，{PLAYER}。$",
     "ref": "remotes/zh/master"
   },
   {
     "file": "data/maps/BattleFrontier_BattlePyramidLobby/scripts.inc",
     "label": "BattleFrontier_BattlePyramidLobby_Text_BagCannotHoldPickItemsToKeep",
     "index": 0,
-    "zh": "很抱歉，战斗包包装不下\\n所有的道具，\\p请选择您需要保留在\\n战斗包包中的道具。$",
+    "zh": "很抱歉，战斗背包装不下\\n所有的道具，\\p请选择您需要保留在\\n战斗背包中的道具。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -4784,7 +4784,7 @@
     "file": "data/maps/BattleFrontier_BattlePyramidLobby/scripts.inc",
     "label": "BattleFrontier_BattlePyramidLobby_Text_PickItemsToKeep",
     "index": 0,
-    "zh": "请选择您需要保留在\\n战斗包包中的道具。$",
+    "zh": "请选择您需要保留在\\n战斗背包中的道具。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -4798,7 +4798,7 @@
     "file": "data/maps/BattleFrontier_BattlePyramidLobby/scripts.inc",
     "label": "BattleFrontier_BattlePyramidLobby_Text_UsedBattleBagWillBeKept",
     "index": 0,
-    "zh": "我们会寄存您所使用的战斗包包\\n以便您进行下一次挑战。\\p{PLAYER}取下战斗包包，\\n换回了包包。$",
+    "zh": "我们会寄存您所使用的战斗背包\\n以便您进行下一次挑战。\\p{PLAYER}取下战斗背包，\\n换回了背包。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -4826,14 +4826,14 @@
     "file": "data/maps/BattleFrontier_BattlePyramidLobby/scripts.inc",
     "label": "BattleFrontier_BattlePyramidLobby_Text_BagIsFull",
     "index": 0,
-    "zh": "……啊……\\n您的包包已经满了。\\p请整理好包包\\n以后再来。$",
+    "zh": "……啊……\\n您的背包已经满了。\\p请整理好背包\\n以后再来。$",
     "ref": "remotes/zh/master"
   },
   {
     "file": "data/maps/BattleFrontier_BattlePyramidLobby/scripts.inc",
     "label": "BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag",
     "index": 0,
-    "zh": "真遗憾……\\p这是我们为您\\n保管的包包。\\p{PLAYER}取回了包包。$",
+    "zh": "真遗憾……\\p这是我们为您\\n保管的背包。\\p{PLAYER}取回了背包。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -5078,7 +5078,7 @@
     "file": "data/maps/BattleFrontier_BattlePyramidLobby/scripts.inc",
     "label": "BattleFrontier_BattlePyramidLobby_Text_ExplainBagRules",
     "index": 0,
-    "zh": "在金字塔中，您可以像使用\\n您的包包一样使用战斗包包。\\p有2种不同的战斗包包——\\n分别是为Lv. 50级和\\l自由等级的冒险而准备的。\\p2种包包都可以携带10种道具，\\n每种道具99个。\\p如果在探索中失败的话，\\n战斗包包里的东西都会丢失。$",
+    "zh": "在金字塔中，您可以像使用\\n您的背包一样使用战斗背包。\\p有2种不同的战斗背包——\\n分别是为Lv. 50级和\\l自由等级的冒险而准备的。\\p2种背包都可以携带10种道具，\\n每种道具99个。\\p如果在探索中失败的话，\\n战斗背包里的东西都会丢失。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -5414,7 +5414,7 @@
     "file": "data/maps/BattleFrontier_BattleTowerLobby/scripts.inc",
     "label": "BattleFrontier_BattleTowerLobby_Text_BagFullMakeRoom",
     "index": 0,
-    "zh": "啊，您的包包已经满了。\\p请将包包整理好之后\\n再来找我。$",
+    "zh": "啊，您的背包已经满了。\\p请将背包整理好之后\\n再来找我。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -8445,7 +8445,7 @@
     "file": "data/maps/BattleFrontier_ExchangeServiceCorner/scripts.inc",
     "label": "BattleFrontier_ExchangeServiceCorner_Text_DontHaveSpaceToHoldIt",
     "index": 0,
-    "zh": "很抱歉……\\n您的包包已经放不下了……$",
+    "zh": "很抱歉……\\n您的背包已经放不下了……$",
     "ref": "remotes/zh/master"
   },
   {
@@ -11175,7 +11175,7 @@
     "file": "data/maps/CeladonCity_DepartmentStore_Roof_Frlg/scripts.inc",
     "label": "CeladonCity_DepartmentStore_Roof_Text_DontHaveSpaceForThis",
     "index": 0,
-    "zh": "你的包包满了！$",
+    "zh": "你的背包满了！$",
     "ref": "remotes/zh/master"
   },
   {
@@ -12022,7 +12022,7 @@
     "file": "data/maps/CeladonCity_Restaurant_Frlg/scripts.inc",
     "label": "CeladonCity_Restaurant_Text_MakeRoomForThis",
     "index": 0,
-    "zh": "把包包腾出点地方来！$",
+    "zh": "把背包腾出点地方来！$",
     "ref": "remotes/zh/master"
   },
   {
@@ -20394,7 +20394,7 @@
     "file": "data/maps/LittlerootTown_ProfessorBirchsLab/scripts.inc",
     "label": "LittlerootTown_ProfessorBirchsLab_Text_OhYourBagsFull",
     "index": 0,
-    "zh": "呀，你的包包满了。$",
+    "zh": "呀，你的背包满了。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -20422,7 +20422,7 @@
     "file": "data/maps/LittlerootTown_ProfessorBirchsLab/scripts.inc",
     "label": "LittlerootTown_ProfessorBirchsLab_Text_HeyYourBagsFull",
     "index": 0,
-    "zh": "喂，你的包包满了。$",
+    "zh": "喂，你的背包满了。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -30439,7 +30439,7 @@
     "file": "data/maps/Route109_SeashoreHouse/scripts.inc",
     "label": "Route109_SeashoreHouse_Text_BagFull",
     "index": 0,
-    "zh": "哎，但是你的包包已经满了，\\n我会暂时替你保管的。$",
+    "zh": "哎，但是你的背包已经满了，\\n我会暂时替你保管的。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -30978,7 +30978,7 @@
     "file": "data/maps/Route110/scripts.inc",
     "label": "Route110_Text_TrainerTipsRegisterItems",
     "index": 0,
-    "zh": "有用的公告牌！\\p包包里的道具可以\\n按SELECT键来整理。$",
+    "zh": "有用的公告牌！\\p背包里的道具可以\\n按SELECT键来整理。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -32469,7 +32469,7 @@
     "file": "data/maps/Route113/scripts.inc",
     "label": "Route113_Text_TrainerTipsRegisterKeyItems",
     "index": 0,
-    "zh": "有用的公告牌！\\p可以将包包中的某个重要物品\\n登录到SELECT键上，\\p按下SELECT键就可以\\n方便地使用登录的物品了。$",
+    "zh": "有用的公告牌！\\p可以将背包中的某个重要物品\\n登录到SELECT键上，\\p按下SELECT键就可以\\n方便地使用登录的物品了。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -32560,7 +32560,7 @@
     "file": "data/maps/Route113_GlassWorkshop/scripts.inc",
     "label": "Route113_GlassWorkshop_Text_NoRoomInBag",
     "index": 0,
-    "zh": "哦？\\n你的包包里面没有地方了，呼呼。\\p我先替你保管着，以后再来吧，\\n呼呼。$",
+    "zh": "哦？\\n你的背包里面没有地方了，呼呼。\\p我先替你保管着，以后再来吧，\\n呼呼。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -32798,7 +32798,7 @@
     "file": "data/maps/Route116/scripts.inc",
     "label": "Route116_Text_BagIsJamPacked",
     "index": 0,
-    "zh": "你的包包满了，\\n装不下这重复球。$",
+    "zh": "你的背包满了，\\n装不下这重复球。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -32875,7 +32875,7 @@
     "file": "data/maps/Route116/scripts.inc",
     "label": "Route116_Text_TrainerTipsBagHasPockets",
     "index": 0,
-    "zh": "有用的公告牌！\\p包包由数个\\n口袋组成，\\p得到的道具会\\n自动放入合适的口袋中。\\p每个训练家都应\\n有一个自己的包包。$",
+    "zh": "有用的公告牌！\\p背包由数个\\n口袋组成，\\p得到的道具会\\n自动放入合适的口袋中。\\p每个训练家都应\\n有一个自己的背包。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -33890,7 +33890,7 @@
     "file": "data/maps/Route124_DivingTreasureHuntersHouse/scripts.inc",
     "label": "Route124_DivingTreasureHuntersHouse_Text_BagFull",
     "index": 0,
-    "zh": "啊呀，你的包包满了，\\n清理掉一些东西吧，朋友！$",
+    "zh": "啊呀，你的背包满了，\\n清理掉一些东西吧，朋友！$",
     "ref": "remotes/zh/master"
   },
   {
@@ -45524,7 +45524,7 @@
     "file": "data/maps/SlateportCity_PokemonFanClub/scripts.inc",
     "label": "SlateportCity_PokemonFanClub_Text_NoSpaceForReward",
     "index": 0,
-    "zh": "哎呀呀……\\p你的宝可梦培育得很不错，\\n本该给你奖励的。\\p但很遗憾，你的包包\\n已经满了。$",
+    "zh": "哎呀呀……\\p你的宝可梦培育得很不错，\\n本该给你奖励的。\\p但很遗憾，你的背包\\n已经满了。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -46553,7 +46553,7 @@
     "file": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc",
     "label": "SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull1",
     "index": 0,
-    "zh": "嗯？\\n你的包包已经塞满了。$",
+    "zh": "嗯？\\n你的背包已经塞满了。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -46609,7 +46609,7 @@
     "file": "data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc",
     "label": "SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull2",
     "index": 0,
-    "zh": "嗯？\\n你的包包已经塞满了。$",
+    "zh": "嗯？\\n你的背包已经塞满了。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -48520,7 +48520,7 @@
     "file": "data/maps/TrainerHill_Entrance/scripts.inc",
     "label": "TrainerHill_Roof_Text_FullUpBeBackLaterForThis",
     "index": 0,
-    "zh": "噢，不行，包包已经装满了！\\n你晚点再来拿这个吧！$",
+    "zh": "噢，不行，背包已经装满了！\\n你晚点再来拿这个吧！$",
     "ref": "remotes/zh/master"
   },
   {
@@ -53686,7 +53686,7 @@
     "file": "data/text/battle_tent.inc",
     "label": "FallarborTown_BattleTentLobby_Text_BagFullReturnForPrize",
     "index": 0,
-    "zh": "哎？\\n包包已经满了。\\p请把包包整理好之后\\n再来领取吧。$",
+    "zh": "哎？\\n背包已经满了。\\p请把背包整理好之后\\n再来领取吧。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -53896,7 +53896,7 @@
     "file": "data/text/battle_tent.inc",
     "label": "SlateportCity_BattleTentLobby_Text_NoRoomInBagMakeRoom",
     "index": 0,
-    "zh": "哎？\\n包包已经满了。\\p请把包包整理好之后\\n再来领取吧。$",
+    "zh": "哎？\\n背包已经满了。\\p请把背包整理好之后\\n再来领取吧。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -55394,7 +55394,7 @@
     "file": "data/text/lottery_corner.inc",
     "label": "LilycoveCity_DepartmentStore_1F_Text_NoRoomForThis",
     "index": 0,
-    "zh": "哎？\\n好像您没有放奖品的地方了，\\p等您的包包里腾出空间之后，\\n请再来找我。$",
+    "zh": "哎？\\n好像您没有放奖品的地方了，\\p等您的背包里腾出空间之后，\\n请再来找我。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -57949,7 +57949,7 @@
     "file": "data/text/obtain_item.inc",
     "label": "gText_TheBagIsFull",
     "index": 0,
-    "zh": "包包满了………$",
+    "zh": "背包满了………$",
     "ref": "remotes/zh/master"
   },
   {
@@ -57970,14 +57970,14 @@
     "file": "data/text/obtain_item.inc",
     "label": "gText_TooBadBagIsFull",
     "index": 0,
-    "zh": "太遗憾了！\\n包包满了……$",
+    "zh": "太遗憾了！\\n背包满了……$",
     "ref": "remotes/zh/master"
   },
   {
     "file": "data/text/obtain_item.inc",
     "label": "gText_PlayerPutItemInBag",
     "index": 0,
-    "zh": "{PLAYER}把{STR_VAR_2}\\n放入了包包里。$",
+    "zh": "{PLAYER}把{STR_VAR_2}\\n放入了背包里。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -59104,7 +59104,7 @@
     "file": "data/text/shoal_cave.inc",
     "label": "ShoalCave_LowTideEntranceRoom_Text_NoSpaceInYourBag",
     "index": 0,
-    "zh": "如果我做好了的话\\n你的包包里就没有空间了，\\p腾出些地方再回来吧。$",
+    "zh": "如果我做好了的话\\n你的背包里就没有空间了，\\p腾出些地方再回来吧。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -61736,7 +61736,7 @@
     "file": "data/text/trainers.inc",
     "label": "Route112_Text_TrentRegister",
     "index": 0,
-    "zh": "啊，我的腿抽筋了。\\n能从我的包包里拿些\\l绷带给我吗？\\p哦不，那个是我的宝可导航！\\n好吧，我会登记上你的。$",
+    "zh": "啊，我的腿抽筋了。\\n能从我的背包里拿些\\l绷带给我吗？\\p哦不，那个是我的宝可导航！\\n好吧，我会登记上你的。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -64669,7 +64669,7 @@
     "file": "data/text/trainers.inc",
     "label": "Route121_Text_CalePostBattle",
     "index": 0,
-    "zh": "我在水静百货买了太多东西了。\\p那家店就在这条路前面。\\n真想有一个像你的那样的包包。$",
+    "zh": "我在水静百货买了太多东西了。\\p那家店就在这条路前面。\\n真想有一个像你的那样的背包。$",
     "ref": "remotes/zh/master"
   },
   {
@@ -69149,7 +69149,7 @@
     "file": "data/text/tv.inc",
     "label": "TVSecretBaseSecrets_Text_UsedBag",
     "index": 0,
-    "zh": "……哦？\\p访客正翻找自己的包包！\\p掏出了{STR_VAR_2}！\\p看访客举着{STR_VAR_2}\\n笑得多开心！\\p简直像电视广告一样！$",
+    "zh": "……哦？\\p访客正翻找自己的背包！\\p掏出了{STR_VAR_2}！\\p看访客举着{STR_VAR_2}\\n笑得多开心！\\p简直像电视广告一样！$",
     "ref": "remotes/zh/master"
   },
   {
@@ -70360,7 +70360,7 @@
     "file": "src/strings.c",
     "label": "gText_CloseBag",
     "index": 0,
-    "zh": "合上包包",
+    "zh": "合上背包",
     "ref": "remotes/zh/master"
   },
   {
@@ -70878,7 +70878,7 @@
     "file": "src/strings.c",
     "label": "gText_BagFullCouldNotRemoveItem",
     "index": 0,
-    "zh": "包包已满，\\n不能接收道具了。{PAUSE_UNTIL_PRESS}",
+    "zh": "背包已满，\\n不能接收道具了。{PAUSE_UNTIL_PRESS}",
     "ref": "remotes/zh/master"
   },
   {
@@ -72117,14 +72117,14 @@
     "file": "src/strings.c",
     "label": "gText_BagIsFull",
     "index": 0,
-    "zh": "包包已经满了。{PAUSE_UNTIL_PRESS}",
+    "zh": "背包已经满了。{PAUSE_UNTIL_PRESS}",
     "ref": "remotes/zh/master"
   },
   {
     "file": "src/strings.c",
     "label": "gText_MailToBagMessageErased",
     "index": 0,
-    "zh": "邮件信息被清除掉了，\\n邮件放回了包包。{PAUSE_UNTIL_PRESS}",
+    "zh": "邮件信息被清除掉了，\\n邮件放回了背包。{PAUSE_UNTIL_PRESS}",
     "ref": "remotes/zh/master"
   },
   {
@@ -81539,7 +81539,7 @@
     "file": "src/battle_message.c",
     "label": "gText_BattleMenu",
     "index": 0,
-    "zh": "战斗{CLEAR_TO 56}包包\\n宝可梦{CLEAR_TO 56}逃走",
+    "zh": "战斗{CLEAR_TO 56}背包\\n宝可梦{CLEAR_TO 56}逃走",
     "ref": "remotes/zh/master"
   },
   {
@@ -90982,7 +90982,7 @@
     "file": "src/data/items.h",
     "label": "ITEM_BERRY_POUCH.description",
     "index": 0,
-    "zh": "将树果收集起来的\\n袋子，放在包包的\\n重要物品口袋里。",
+    "zh": "将树果收集起来的\\n袋子，放在背包的\\n重要物品口袋里。",
     "ref": "remotes/zh/master"
   },
   {
@@ -109518,7 +109518,7 @@
     "file": "src/data/script_menu.h",
     "label": "MultichoiceList_FrontierItemChoose[0]",
     "index": 0,
-    "zh": "对战包包",
+    "zh": "对战背包",
     "ref": "remotes/zh/master"
   },
   {
@@ -109721,14 +109721,14 @@
     "file": "src/data/script_menu.h",
     "label": "MultichoiceList_BattlePyramidRules[3]",
     "index": 0,
-    "zh": "对战包包",
+    "zh": "对战背包",
     "ref": "remotes/zh/master"
   },
   {
     "file": "src/data/script_menu.h",
     "label": "MultichoiceList_BattlePikeRules[0]",
     "index": 0,
-    "zh": "宝可导航和包包",
+    "zh": "宝可导航和背包",
     "ref": "remotes/zh/master"
   },
   {
@@ -123945,7 +123945,7 @@
     "file": "src/data/easy_chat/easy_chat_group_trainer.h",
     "label": "EC_WORD_BAG.text",
     "index": 0,
-    "zh": "包包",
+    "zh": "背包",
     "ref": "remotes/zh/master"
   },
   {
@@ -143706,7 +143706,7 @@
     "file": "src/data/pokemon/species_info/gen_7_families.h",
     "label": "SPECIES_ROWLET.description",
     "index": 0,
-    "zh": "在狭窄黑暗的地方会很平静。\\n有时候也会用训练家的\\n怀抱或包包代替巢穴。",
+    "zh": "在狭窄黑暗的地方会很平静。\\n有时候也会用训练家的\\n怀抱或背包代替巢穴。",
     "ref": "remotes/zh/master"
   },
   {

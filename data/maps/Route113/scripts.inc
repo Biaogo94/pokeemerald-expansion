@@ -153,7 +153,7 @@ Route113_Text_RouteSignFallarbor:
 
 Route113_Text_TrainerTipsRegisterKeyItems:
 	.string "有用的公告牌！\p"
-	.string "可以将包包中的某个重要物品登录到\n"
+	.string "可以将背包中的某个重要物品登录到\n"
 	.string "SELECT键上，\p"
 	.string "按下SELECT键就可以方便地使\n"
 	.string "用登录的物品了。$"

@@ -596,7 +596,7 @@ LilycoveCity_PokemonCenter_1F_Text_IllGiveYouThisInReturn:
 	.string "希望你也能好好保存……$"
 
 LilycoveCity_PokemonCenter_1F_Text_YouDontHaveSpaceForIt:
-	.string "哎，你的包包没空间\n"
+	.string "哎，你的背包没空间\n"
 	.string "装下这个了啊。\p"
 	.string "整理好之后\n"
 	.string "再来找我吧……$"
@@ -650,7 +650,7 @@ LilycoveCity_PokemonCenter_1F_Text_XReceivedOneY:
 	.string "{STR_VAR_2}！$"
 
 LilycoveCity_PokemonCenter_1F_Text_YourBagIsFilledUp:
-	.string "哎？你的包包满了！\n"
+	.string "哎？你的背包满了！\n"
 	.string "有空间的时候再来吧。$"
 
 LilycoveCity_PokemonCenter_1F_Text_WrongTheCorrectAnswerIs:

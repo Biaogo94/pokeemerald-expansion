@@ -316,7 +316,7 @@ Route124_DivingTreasureHuntersHouse_Text_TradeSomethingElse:
 	.string "你还想换别的吗？$"
 
 Route124_DivingTreasureHuntersHouse_Text_BagFull:
-	.string "啊呀，你的包包满了，清理掉一些东\n"
+	.string "啊呀，你的背包满了，清理掉一些东\n"
 	.string "西吧，朋友！$"
 
 Route124_DivingTreasureHuntersHouse_Text_ComeBackIfYouChangeMind:

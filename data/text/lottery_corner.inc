@@ -66,7 +66,7 @@ LilycoveCity_DepartmentStore_1F_Text_AllFiveDigitsMatched:
 
 LilycoveCity_DepartmentStore_1F_Text_NoRoomForThis:
 	.string "哎？好像您没有放奖品的地方了，\p"
-	.string "等您的包包里腾出空间之后，请再来\n"
+	.string "等您的背包里腾出空间之后，请再来\n"
 	.string "找我。$"
 
 LilycoveCity_DepartmentStore_1F_Text_PrizeWeveBeenHolding:

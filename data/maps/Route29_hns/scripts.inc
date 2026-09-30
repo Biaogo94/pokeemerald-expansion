@@ -169,7 +169,7 @@ Route29_Text_OldMan2:
 Route29_Text_OldManExplanation:
 	.string "如果先削弱它们的体力，宝可梦就会\n"
 	.string "更容易被收服。\p"
-	.string "接着从包包里对它们扔出精灵球！任\n"
+	.string "接着从背包里对它们扔出精灵球！任\n"
 	.string "何球都行。\p"
 	.string "如果想了解更多技巧，就去桔梗市的\n"
 	.string "学院看看吧！\p"

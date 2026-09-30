@@ -549,7 +549,7 @@ BattleFrontier_BattlePyramidLobby_Text_ExplainBattlePyramid:
 	.string "不能携带道具。\p"
 	.string "登顶的过程中，您会获得一个战斗包\n"
 	.string "包用于存放道具，\p"
-	.string "如果挑战失败，战斗包包中的所有道\n"
+	.string "如果挑战失败，战斗背包中的所有道\n"
 	.string "具都会消失。\p"
 	.string "如果您在中途想要暂停的话，请选择\n"
 	.string "“休息”并写入记录，\p"
@@ -594,18 +594,18 @@ BattleFrontier_BattlePyramidLobby_Text_ShowYouIntoPyramid:
 
 BattleFrontier_BattlePyramidLobby_Text_WeWillHoldBagForSafekeeping:
 	.string "{PLAYER}，在探索期间，我\n"
-	.string "们会暂时替您保管包包。$"
+	.string "们会暂时替您保管背包。$"
 
 BattleFrontier_BattlePyramidLobby_Text_PleaseTakePreviousBattleBag:
 	.string "作为交换，请带上您之前用过的这个\n"
-	.string "战斗包包。$"
+	.string "战斗背包。$"
 
 BattleFrontier_BattlePyramidLobby_Text_PleaseTakeThisBattleBag:
-	.string "作为交换，请带上这个战斗包包。$"
+	.string "作为交换，请带上这个战斗背包。$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExchangedBagForBattleBag:
-	.string "{PLAYER}把包包换成了战斗\n"
-	.string "包包。$"
+	.string "{PLAYER}把背包换成了战斗\n"
+	.string "背包。$"
 
 BattleFrontier_BattlePyramidLobby_Text_StepOnFloorPanel:
 	.string "每当您踩上这样的地板，就会被传送\n"
@@ -617,8 +617,8 @@ BattleFrontier_BattlePyramidLobby_Text_DidntSaveBeforeQuittingTakeBag:
 	.string "您在上次结束时没有写入记录。\p"
 	.string "遗憾地告诉您，没有写入记录的挑战\n"
 	.string "我们将视其为无效。\p"
-	.string "这是您寄放在我们这里的包包。\p"
-	.string "{PLAYER}拿回了包包。$"
+	.string "这是您寄放在我们这里的背包。\p"
+	.string "{PLAYER}拿回了背包。$"
 
 BattleFrontier_BattlePyramidLobby_Text_YouveConqueredPyramid:
 	.string "欢迎回来！\p"
@@ -632,19 +632,19 @@ BattleFrontier_BattlePyramidLobby_Text_MonHoldingItemCannotTake:
 
 BattleFrontier_BattlePyramidLobby_Text_HeldItemsMovedToBag:
 	.string "您的宝可梦携带的所有道具都会放回\n"
-	.string "到战斗包包中，{PLAYER}。$"
+	.string "到战斗背包中，{PLAYER}。$"
 
 BattleFrontier_BattlePyramidLobby_Text_BagCannotHoldPickItemsToKeep:
-	.string "很抱歉，战斗包包装不下所有的道具\n"
+	.string "很抱歉，战斗背包装不下所有的道具\n"
 	.string "，\p"
-	.string "请选择您需要保留在战斗包包中的道\n"
+	.string "请选择您需要保留在战斗背包中的道\n"
 	.string "具。$"
 
 BattleFrontier_BattlePyramidLobby_Text_LeastOneMonHoldingItem:
 	.string "仍有宝可梦在携带着道具。$"
 
 BattleFrontier_BattlePyramidLobby_Text_PickItemsToKeep:
-	.string "请选择您需要保留在战斗包包中的道\n"
+	.string "请选择您需要保留在战斗背包中的道\n"
 	.string "具。$"
 
 @ Unused
@@ -653,10 +653,10 @@ BattleFrontier_BattlePyramidLobby_Text_ReturnedEverythingMonsHeld:
 	.string "的道具。$"
 
 BattleFrontier_BattlePyramidLobby_Text_UsedBattleBagWillBeKept:
-	.string "我们会寄存您所使用的战斗包包以便\n"
+	.string "我们会寄存您所使用的战斗背包以便\n"
 	.string "您进行下一次挑战。\p"
-	.string "{PLAYER}取下战斗包包，换\n"
-	.string "回了包包。$"
+	.string "{PLAYER}取下战斗背包，换\n"
+	.string "回了背包。$"
 
 BattleFrontier_BattlePyramidLobby_Text_RecordResultsWait:
 	.string "正在记录您的成绩，请稍等。$"
@@ -673,13 +673,13 @@ BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_BagIsFull:
-	.string "……啊……您的包包已经满了。\p"
-	.string "请整理好包包以后再来。$"
+	.string "……啊……您的背包已经满了。\p"
+	.string "请整理好背包以后再来。$"
 
 BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag:
 	.string "真遗憾……\p"
-	.string "这是我们为您保管的包包。\p"
-	.string "{PLAYER}取回了包包。$"
+	.string "这是我们为您保管的背包。\p"
+	.string "{PLAYER}取回了背包。$"
 
 BattleFrontier_BattlePyramidLobby_Text_LookForwardToNextChallenge:
 	.string "随时恭候您再次挑战！$"
@@ -861,13 +861,13 @@ BattleFrontier_BattlePyramidLobby_Text_ExplainMazeRules:
 	.string "梦，里面都会稍微变亮一些。$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainBagRules:
-	.string "在金字塔中，您可以像使用您的包包\n"
-	.string "一样使用战斗包包。\p"
-	.string "有2种不同的战斗包包——分别是为\n"
+	.string "在金字塔中，您可以像使用您的背包\n"
+	.string "一样使用战斗背包。\p"
+	.string "有2种不同的战斗背包——分别是为\n"
 	.string "Lv. 50级和自由等级的冒险而\l"
 	.string "准备的。\p"
-	.string "2种包包都可以携带10种道具，每\n"
+	.string "2种背包都可以携带10种道具，每\n"
 	.string "种道具99个。\p"
-	.string "如果在探索中失败的话，战斗包包里\n"
+	.string "如果在探索中失败的话，战斗背包里\n"
 	.string "的东西都会丢失。$"
 

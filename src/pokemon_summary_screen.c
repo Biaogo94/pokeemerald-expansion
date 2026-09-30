@@ -4434,7 +4434,7 @@ static void PrintMoveDetails(enum Move move)
             if (B_SHOW_CATEGORY_ICON == TRUE)
                 ShowCategoryIcon(GetBattleMoveCategory(move));
             PrintMovePowerAndAccuracy(move);
-            PrintTextOnWindow(windowId, GetMoveDescription(move), 6, 1, 0, 0);
+            PrintTextOnWindowToFitPx(windowId, GetMoveDescription(move), 6, 1, 0, 0, WindowWidthPx(windowId) - 6);
         }
         else
         {

@@ -2,7 +2,7 @@ gText_ObtainedTheItem::
 	.string "获得了{STR_VAR_2}！$"
 
 gText_TheBagIsFull::
-	.string "包包满了………$"
+	.string "背包满了………$"
 
 gText_PutItemInPocket::
 	.string "{PLAYER}把\n"
@@ -14,11 +14,11 @@ gText_PlayerFoundOneItem::
 	.string "{STR_VAR_2}！$"
 
 gText_TooBadBagIsFull::
-	.string "太遗憾了！包包满了……$"
+	.string "太遗憾了！背包满了……$"
 
 gText_PlayerPutItemInBag::
 	.string "{PLAYER}把\n"
-	.string "{STR_VAR_2}放入了包包\l"
+	.string "{STR_VAR_2}放入了背包\l"
 	.string "里。$"
 
 gText_ObtainedTheDecor::

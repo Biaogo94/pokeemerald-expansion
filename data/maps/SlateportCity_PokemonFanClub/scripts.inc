@@ -305,7 +305,7 @@ SlateportCity_PokemonFanClub_Text_NoSpaceForReward:
 	.string "哎呀呀……\p"
 	.string "你的宝可梦培育得很不错，本该给你\n"
 	.string "奖励的。\p"
-	.string "但很遗憾，你的包包已经满了。$"
+	.string "但很遗憾，你的背包已经满了。$"
 
 SlateportCity_PokemonFanClub_Text_MonMostImpressiveGiveItThis:
 	.string "你的{STR_VAR_1}培育得\n"

@@ -2230,7 +2230,7 @@ TVSecretBaseSecrets_Text_UsedMudBall::
 
 TVSecretBaseSecrets_Text_UsedBag::
 	.string "……哦？\p"
-	.string "访客正翻找自己的包包！\p"
+	.string "访客正翻找自己的背包！\p"
 	.string "掏出了{STR_VAR_2}！\p"
 	.string "看访客举着{STR_VAR_2}\n"
 	.string "笑得多开心！\p"

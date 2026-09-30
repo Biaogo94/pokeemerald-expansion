@@ -410,12 +410,12 @@ BerryTree_Text_PickedTheBerry:
 
 BerryTree_Text_PutAwayBerry:
 	.string "{PLAYER}将\n"
-	.string "{STR_VAR_1}放入包包的\l"
+	.string "{STR_VAR_1}放入背包的\l"
 	.string "树果口袋中。\p"
 	.string "这里变回了松软的土地。$"
 
 BerryTree_Text_BerryPocketFull:
-	.string "因为包包的树果口袋已满。\p"
+	.string "因为背包的树果口袋已满。\p"
 	.string "所以放弃了摘取\n"
 	.string "{STR_VAR_1}。$"
 
@@ -484,7 +484,7 @@ BerryTree_Text_BerryLeftUnpicked_Mutation:
 	.string "摘。$"
 
 BerryTree_Text_BerryPocketFull_Mutation:
-	.string "包包的果实袋已满。\p"
+	.string "背包的果实袋已满。\p"
 	.string "{STR_VAR_1} 和 \n"
 	.string "{STR_VAR_3} 无法被采\l"
 	.string "摘。$"
@@ -498,7 +498,7 @@ BerryTree_Text_PickedTheBerry_Mutation:
 BerryTree_Text_PutAwayBerry_Mutation:
 	.string "{PLAYER}把\n"
 	.string "{STR_VAR_1}和\l"
-	.string "{STR_VAR_3}放进了包包\l"
+	.string "{STR_VAR_3}放进了背包\l"
 	.string "的树果口袋。\p"
 	.string "土地又变得松软肥沃了。$"
 .endif

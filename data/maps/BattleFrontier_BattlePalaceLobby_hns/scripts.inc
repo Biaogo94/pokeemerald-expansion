@@ -468,9 +468,9 @@ BattleFrontier_BattlePalaceLobby_Text_BattlePointsFor7WinStreak_hns:
 	.string "赠予你对战点数。$"
 
 BattleFrontier_BattlePalaceLobby_Text_NoSpaceForPrize_hns:
-	.string "你的包包似乎已经装不下这份奖品了\n"
+	.string "你的背包似乎已经装不下这份奖品了\n"
 	.string "。\p"
-	.string "请整理好包包之后再来领取吧。$"
+	.string "请整理好背包之后再来领取吧。$"
 
 BattleFrontier_BattlePalaceLobby_Text_WeHaveBeenWaiting_hns:
 	.string "我们恭候多时了……$"

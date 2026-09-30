@@ -353,7 +353,7 @@ Route113_GlassWorkshop_Text_IveFinishedGlassItem:
 	.string "好了。拿去吧，呼呼。$"
 
 Route113_GlassWorkshop_Text_NoRoomInBag:
-	.string "哦？你的包包里面没有地方了，呼呼\n"
+	.string "哦？你的背包里面没有地方了，呼呼\n"
 	.string "。\p"
 	.string "我先替你保管着，以后再来吧，呼呼\n"
 	.string "。$"

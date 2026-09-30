@@ -66,7 +66,7 @@ CeladonCity_Restaurant_Text_ReceivedCoinCaseFromMan::
 	.string "。$"
 
 CeladonCity_Restaurant_Text_MakeRoomForThis::
-	.string "把包包腾出点地方来！$"
+	.string "把背包腾出点地方来！$"
 
 CeladonCity_Restaurant_Text_ThoughtIdWinItBack::
 	.string "我总想着要把输的都赢回来……$"

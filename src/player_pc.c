@@ -175,7 +175,7 @@ static const u8 sText_Mailbox[] = _("邮箱");
 
 static const u8 sText_WithdrawHowManyItems[] = _("要取出多少个\n{STR_VAR_1}？");
 static const u8 sText_WithdrawXItems[] = _("取出了{STR_VAR_2}个\n{STR_VAR_1}。");
-static const u8 sText_NoRoomInBag[] = _("包包里没有足够的\n空间了。");
+static const u8 sText_NoRoomInBag[] = _("背包里没有足够的\n空间了。");
 static const u8 sText_TooImportantToToss[] = _("这个太重要了，\n不能丢弃！");
 
 static const u8 *const sItemStorage_OptionDescriptions[] =
@@ -228,7 +228,7 @@ static const u16 sNewGamePCItems[][2] =
 const struct MenuAction gMailboxMailOptions[] =
 {
     { COMPOUND_STRING("阅读"),        {Mailbox_DoMailRead} },
-    { COMPOUND_STRING("移到包包"), {Mailbox_MoveToBag} },
+    { COMPOUND_STRING("移到背包"), {Mailbox_MoveToBag} },
     { COMPOUND_STRING("携带"),        {Mailbox_Give} },
     { gText_Cancel2,                  {Mailbox_Cancel} }
 };

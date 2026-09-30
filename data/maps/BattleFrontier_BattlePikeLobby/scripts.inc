@@ -399,7 +399,7 @@ BattleFrontier_BattlePikeLobby_Text_ReadWhichHeading:
 	.string "要读哪一部分的说明？$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules:
-	.string "在选择式对战的挑战中包包和宝可导\n"
+	.string "在选择式对战的挑战中背包和宝可导\n"
 	.string "航不能使用。$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainHeldItemRules:

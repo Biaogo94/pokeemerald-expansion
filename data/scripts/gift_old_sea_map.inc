@@ -52,6 +52,6 @@ sText_MysteryGiftOldSeaMapThankYou:
 
 sText_MysteryGiftOldSeaMapBagFull:
 	.string "哦，抱歉，{PLAYER}。\n"
-	.string "您的包包里放重要物品的口袋满了。\p"
+	.string "您的背包里放重要物品的口袋满了。\p"
 	.string "请存一些东西到电脑\n"
 	.string "然后回来拿这个吧。$"

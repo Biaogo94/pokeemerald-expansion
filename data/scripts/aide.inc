@@ -27,5 +27,5 @@ Aide_Text_GetEnoughMonsComeBackForItem::
 	.string "{STR_VAR_2}吧。$"
 
 Aide_Text_DontHaveAnyRoomForItem::
-	.string "哎呀！你的包包好像装不下\n"
+	.string "哎呀！你的背包好像装不下\n"
 	.string "{STR_VAR_2}了。$"

@@ -378,7 +378,7 @@ TrainerHill_Roof_Text_HaveTheMostMarvelousGift:
 	.string "物要送给你！$"
 
 TrainerHill_Roof_Text_FullUpBeBackLaterForThis:
-	.string "噢，不行，包包已经装满了！你晚点\n"
+	.string "噢，不行，背包已经装满了！你晚点\n"
 	.string "再来拿这个吧！$"
 
 TrainerHill_Roof_Text_GotHereMarvelouslyQuickly:

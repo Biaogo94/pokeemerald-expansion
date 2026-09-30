@@ -1410,7 +1410,7 @@ Route112_Text_TrentPostBattle:
 	.string "的。$"
 
 Route112_Text_TrentRegister:
-	.string "啊，我的腿抽筋了。能从我的包包里\n"
+	.string "啊，我的腿抽筋了。能从我的背包里\n"
 	.string "拿些绷带给我吗？\p"
 	.string "哦不，那个是我的宝可导航！好吧，\n"
 	.string "我会登记上你的。$"
@@ -3014,7 +3014,7 @@ Route121_Text_CaleDefeat:
 Route121_Text_CalePostBattle:
 	.string "我在水静百货买了太多东西了。\p"
 	.string "那家店就在这条路前面。真想有一个\n"
-	.string "像你的那样的包包。$"
+	.string "像你的那样的背包。$"
 
 Route121_Text_MylesIntro:
 	.string "我最喜欢的事情莫过于看看别人的宝\n"

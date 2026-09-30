@@ -67,7 +67,7 @@ NationalPark_Normal_EventScript_Persian::
 
 
 NationalPark_Normal_Text_Lass:
-	.string "看！瞧瞧我的包包！\p"
+	.string "看！瞧瞧我的背包！\p"
 	.string "我从宝可梦图鉴打印出喜欢的宝可\n"
 	.string "梦，把它们全贴在包上了。$"
 
@@ -268,5 +268,5 @@ NationalPark_Normal_Text_BeverlyGaveItem:
 	.string "的！$"
 
 NationalPark_Normal_Text_BeverlyNoRoom:
-	.string "嗯，你的包包装满了。\p"
+	.string "嗯，你的背包装满了。\p"
 	.string "腾出地方再来找我吧。$"

@@ -122,7 +122,7 @@ Route109_SeashoreHouse_Text_TakeTheseSodaPopBottles:
 	.string "总共6瓶劲爽汽水！$"
 
 Route109_SeashoreHouse_Text_BagFull:
-	.string "哎，但是你的包包已经满了，我会暂\n"
+	.string "哎，但是你的背包已经满了，我会暂\n"
 	.string "时替你保管的。$"
 
 Route109_SeashoreHouse_Text_WantToBuySodaPop:

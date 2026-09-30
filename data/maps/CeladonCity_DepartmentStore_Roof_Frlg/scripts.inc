@@ -323,7 +323,7 @@ CeladonCity_DepartmentStore_Roof_Text_ExplainTM33::
 	.string "。$"
 
 CeladonCity_DepartmentStore_Roof_Text_DontHaveSpaceForThis::
-	.string "你的包包满了！$"
+	.string "你的背包满了！$"
 
 CeladonCity_DepartmentStore_Roof_Text_ImNotThirstyAfterAll::
 	.string "不用了，谢谢！我一点不渴了！$"

@@ -920,7 +920,7 @@ Route110_Text_TrainerTipsPrlzSleep:
 
 Route110_Text_TrainerTipsRegisterItems:
 	.string "有用的公告牌！\p"
-	.string "包包里的道具可以按SELECT键\n"
+	.string "背包里的道具可以按SELECT键\n"
 	.string "来整理。$"
 
 Route110_Text_TrickHouseSign:

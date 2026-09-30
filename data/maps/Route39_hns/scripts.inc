@@ -397,5 +397,5 @@ Route39_Text_DerekGaveItem:
 	.string "的吧？$"
 
 Route39_Text_DerekNoRoom:
-	.string "嗯，你的包包装满了。\p"
+	.string "嗯，你的背包装满了。\p"
 	.string "腾出地方再来找我吧。$"

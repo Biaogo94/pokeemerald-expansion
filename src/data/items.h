@@ -13494,7 +13494,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("树果袋"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "将树果收集起来的袋子，放在包包的\n"
+            "将树果收集起来的袋子，放在背包的\n"
             "重要物品口袋里。"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,

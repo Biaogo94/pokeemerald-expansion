@@ -355,5 +355,5 @@ Route36_Text_AlanGaveItem:
 	.string "的！$"
 
 Route36_Text_AlanNoRoom:
-	.string "嗯，你的包包装满了。\p"
+	.string "嗯，你的背包装满了。\p"
 	.string "腾出地方再来找我吧。$"

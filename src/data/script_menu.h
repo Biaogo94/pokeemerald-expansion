@@ -550,7 +550,7 @@ static const struct MenuAction MultichoiceList_ContestRank[] =
 
 static const struct MenuAction MultichoiceList_FrontierItemChoose[] =
 {
-    {COMPOUND_STRING("对战包包")},
+    {COMPOUND_STRING("对战背包")},
     {COMPOUND_STRING("持有物")},
     {gText_Exit},
 };
@@ -711,13 +711,13 @@ static const struct MenuAction MultichoiceList_BattlePyramidRules[] =
     {COMPOUND_STRING("金字塔：宝可梦")},
     {COMPOUND_STRING("金字塔：训练家")},
     {COMPOUND_STRING("金字塔：迷宫")},
-    {COMPOUND_STRING("对战包包")},
+    {COMPOUND_STRING("对战背包")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_BattlePikeRules[] =
 {
-    {COMPOUND_STRING("宝可导航和包包")},
+    {COMPOUND_STRING("宝可导航和背包")},
     {COMPOUND_STRING("持有物")},
     {COMPOUND_STRING("宝可梦顺序")},
     {gText_Exit},

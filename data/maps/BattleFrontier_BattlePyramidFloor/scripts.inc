@@ -322,40 +322,40 @@ BattlePyramid_Text_ZeroItemsRemaining2::
 	.string "这里已经没有任何道具了！$"
 
 BattlePyramid_Text_EightItemsRemaining3::
-	.string "你的包包还能放下几个道具？\p"
+	.string "你的背包还能放下几个道具？\p"
 	.string "我估计，在这一层还有8个道具。$"
 
 BattlePyramid_Text_SevenItemsRemaining3::
-	.string "你的包包还能放下几个道具？\p"
+	.string "你的背包还能放下几个道具？\p"
 	.string "我估计，在这一层还有7个道具。$"
 
 BattlePyramid_Text_SixItemsRemaining3::
-	.string "你的包包还能放下几个道具？\p"
+	.string "你的背包还能放下几个道具？\p"
 	.string "我估计，在这一层还有6个道具。$"
 
 BattlePyramid_Text_FiveItemsRemaining3::
-	.string "你的包包还能放下几个道具？\p"
+	.string "你的背包还能放下几个道具？\p"
 	.string "我估计，在这一层还有5个道具。$"
 
 BattlePyramid_Text_FourItemsRemaining3::
-	.string "你的包包还能放下几个道具？\p"
+	.string "你的背包还能放下几个道具？\p"
 	.string "我估计，在这一层还有4个道具。$"
 
 BattlePyramid_Text_ThreeItemsRemaining3::
-	.string "你的包包还能放下几个道具？\p"
+	.string "你的背包还能放下几个道具？\p"
 	.string "我估计，在这一层还有3个道具。$"
 
 BattlePyramid_Text_TwoItemsRemaining3::
-	.string "你的包包还能放下几个道具？\p"
+	.string "你的背包还能放下几个道具？\p"
 	.string "我估计，在这一层还有2个道具。$"
 
 BattlePyramid_Text_OneItemRemaining3::
-	.string "你的包包还能放下几个道具？\p"
+	.string "你的背包还能放下几个道具？\p"
 	.string "我估计，在这一层可能只剩1个道具\n"
 	.string "了。$"
 
 BattlePyramid_Text_ZeroItemsRemaining3::
-	.string "你的包包还能放下几个道具？\p"
+	.string "你的背包还能放下几个道具？\p"
 	.string "我估计，这一层已经没有道具可以找\n"
 	.string "了。你多保重！$"
 

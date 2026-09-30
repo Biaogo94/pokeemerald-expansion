@@ -127,7 +127,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Trainer[] = {
     },
     [EC_INDEX(EC_WORD_BAG)] =
     {
-        .text = COMPOUND_STRING("包包"),
+        .text = COMPOUND_STRING("背包"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SAPPHIRE),
         .enabled = TRUE,
     },

@@ -463,7 +463,7 @@ BattleFrontier_BattlePalaceLobby_Text_BattlePointsFor7WinStreak:
 
 BattleFrontier_BattlePalaceLobby_Text_NoSpaceForPrize:
 	.string "看起来您没有地方装我们的礼物了，\p"
-	.string "整理好包包再回来这里吧。$"
+	.string "整理好背包再回来这里吧。$"
 
 BattleFrontier_BattlePalaceLobby_Text_WeHaveBeenWaiting:
 	.string "我们已经恭候多时……$"

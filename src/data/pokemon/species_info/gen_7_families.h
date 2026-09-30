@@ -31,7 +31,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .weight = 15,
         .description = COMPOUND_STRING(
             "在狭窄黑暗的地方会很平静。有时候\n"
-            "也会用训练家的怀抱或包包代替巢穴\n"
+            "也会用训练家的怀抱或背包代替巢穴\n"
             "。"),
         .pokemonScale = 530,
         .pokemonOffset = 13,

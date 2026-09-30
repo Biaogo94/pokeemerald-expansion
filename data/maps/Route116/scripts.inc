@@ -398,7 +398,7 @@ Route116_Text_NewBallAvailableAtMart:
 	.string "到时一定要试试！谢谢，再见！$"
 
 Route116_Text_BagIsJamPacked:
-	.string "你的包包满了，装不下这重复球。$"
+	.string "你的背包满了，装不下这重复球。$"
 
 Route116_Text_TokenOfAppreciation:
 	.string "我把这种新的精灵球送给你，我们最\n"
@@ -445,8 +445,8 @@ Route116_Text_TrainerTipsBToStopEvolution:
 
 Route116_Text_TrainerTipsBagHasPockets:
 	.string "有用的公告牌！\p"
-	.string "包包由数个口袋组成，\p"
+	.string "背包由数个口袋组成，\p"
 	.string "得到的道具会自动放入合适的口袋中\n"
 	.string "。\p"
-	.string "每个训练家都应有一个自己的包包。$"
+	.string "每个训练家都应有一个自己的背包。$"
 

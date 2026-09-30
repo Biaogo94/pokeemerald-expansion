@@ -767,7 +767,7 @@ LittlerootTown_ProfessorBirchsLab_Text_CatchCutePokemonWithPokeBalls:
 	.string "捕捉它们！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_OhYourBagsFull:
-	.string "呀，你的包包满了。$"
+	.string "呀，你的背包满了。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayWhereShouldIGoNext:
 	.string "小遥：接下来该去哪里找宝可梦呢？$"
@@ -785,7 +785,7 @@ LittlerootTown_ProfessorBirchsLab_Text_CatchCoolPokemonWithPokeBalls:
 	.string "用精灵球捕捉到！$"
 
 LittlerootTown_ProfessorBirchsLab_Text_HeyYourBagsFull:
-	.string "喂，你的包包满了。$"
+	.string "喂，你的背包满了。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanWhereShouldIGoNext:
 	.string "小悠：接下来该去哪儿找宝可梦呢…\n"

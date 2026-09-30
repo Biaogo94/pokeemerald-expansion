@@ -452,7 +452,7 @@ BattleFrontier_BattleArenaLobby_Text_ReceivedPrize:
 
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_BagFullReturnForPrize:
-	.string "哎？您的包包满了。\p"
+	.string "哎？您的背包满了。\p"
 	.string "整理空间后再来拿您的奖品。$"
 
 BattleFrontier_BattleArenaLobby_Text_ThankYouWaitWhileSave:

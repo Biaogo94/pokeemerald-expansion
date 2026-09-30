@@ -96,8 +96,8 @@ FallarborTown_BattleTentLobby_Text_ReceivedPrize:
 	.string "{STR_VAR_1}。$"
 
 FallarborTown_BattleTentLobby_Text_BagFullReturnForPrize:
-	.string "哎？包包已经满了。\p"
-	.string "请把包包整理好之后再来领取吧。$"
+	.string "哎？背包已经满了。\p"
+	.string "请把背包整理好之后再来领取吧。$"
 
 FallarborTown_BattleTentLobby_Text_ThankYouWaitWhileSaving:
 	.string "辛苦了！\p"
@@ -285,8 +285,8 @@ SlateportCity_BattleTentLobby_Text_AwardYouThisPrize:
 	.string "这份奖品。$"
 
 SlateportCity_BattleTentLobby_Text_NoRoomInBagMakeRoom:
-	.string "哎？包包已经满了。\p"
-	.string "请把包包整理好之后再来领取吧。$"
+	.string "哎？背包已经满了。\p"
+	.string "请把背包整理好之后再来领取吧。$"
 
 SlateportCity_BattleTentLobby_Text_BeenWaitingForYou:
 	.string "我们已经恭候多时了！\p"
