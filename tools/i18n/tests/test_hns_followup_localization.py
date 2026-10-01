@@ -63,12 +63,35 @@ def test_trainer_memo_has_complete_met_and_nature_variants():
         assert "DYNAMIC 4" in value or "某处" in value
 
 
+def test_summary_trainer_memo_uses_window_newlines_not_dialogue_scroll():
+    strings = read("src/strings.c")
+    memo_names = (
+        "gText_XNatureMetAtYZ", "gText_XNatureHatchedAtYZ",
+        "gText_XNatureObtainedInTrade", "gText_XNatureFatefulEncounter",
+        "gText_XNatureProbablyMetAt", "gText_XNatureMetSomewhereAt",
+        "gText_XNatureHatchedSomewhereAt",
+    )
+    for name in memo_names:
+        match = re.search(rf"const u8 {name}\[\].*?= _\(\"(.*?)\"\);", strings)
+        assert match, name
+        assert r"\l" not in match.group(1), name
+        assert r"\n" in match.group(1), name
+    summary = read("src/pokemon_summary_screen.c")
+    memo_printer = re.search(r"static void PrintMonTrainerMemo\(void\)\s*\{(.*?)\n\}", summary, re.S)
+    assert memo_printer and "PrintTextOnWindowToFit" in memo_printer.group(1)
+
+
 def test_summary_page_wraps_move_descriptions_to_fit_pixel_width():
     text = read("src/pokemon_summary_screen.c")
     move_details = re.search(r"static void PrintMoveDetails\(enum Move move\)\s*\{(.*?)\n\}", text, re.S)
     assert move_details
     assert "PrintTextOnWindowToFitPx" in move_details.group(1)
     assert "WindowWidthPx(windowId) - 6" in move_details.group(1)
+
+
+def test_summary_graphic_page_title_is_localized():
+    renderer = read("tools/i18n/draw_summary_labels.py")
+    assert "((192, 196), '招式', [(193, 193), (194, 194)])" in renderer
 
 
 def test_nature_names_remain_current_official_simplified_names():

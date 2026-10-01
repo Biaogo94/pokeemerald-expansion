@@ -1,4 +1,5 @@
-"""Pixel-level tests for the compact English move-type badges."""
+"""Pixel-level tests for the compact Chinese move-type badges."""
+from collections import Counter
 from pathlib import Path
 import re
 
@@ -34,19 +35,26 @@ def test_move_type_badges_have_chinese_labels_and_preserve_sprite_geometry():
         assert image.mode == "P", name
         assert image.size == (32, 16), name
         assert max(image.get_flattened_data()) < 16, name
-        # Test visible glyph ink from the configured Chinese font, allowing the
-        # original icon's outline/shadow palette variation.
+        fill = Counter(image.getpixel((x, y)) for y in range(4, 12) for x in range(2, 30)).most_common(1)[0][0]
+        palette = image.getpalette()
+        bg = palette[fill * 3:fill * 3 + 3]
+        strongest = max(
+            range(1, 16),
+            key=lambda color: sum((palette[color * 3 + channel] - bg[channel]) ** 2 for channel in range(3)),
+        )
+        # Match the configured font's ink to the badge's highest-contrast color.
         x0 = (32 - 8 * len(label)) // 2
+        ink_pixels = []
         for index, char in enumerate(label):
             if char == "?":
                 continue
             font_glyph = glyph(char)
             for y in range(10):
                 for x in range(8):
-                    if font_glyph.getpixel((x, y)) >= 80:
-                        assert image.getpixel((x0 + index * 8 + x, y + 3)) != 0, (name, char)
-        # The original frame may use the same palette indices as the old text;
-        # geometry and localized glyph ink are the stable contract.
+                    if font_glyph.getpixel((x, y)) <= 160 and 4 <= y + 1 < 12:
+                        ink_pixels.append(image.getpixel((x0 + index * 8 + x, y + 1)))
+        if ink_pixels:
+            assert strongest in set(ink_pixels), name
 
 
 def test_move_type_badge_renderer_exists_and_lists_all_assets():

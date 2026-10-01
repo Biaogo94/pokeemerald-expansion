@@ -41,7 +41,12 @@ def draw_badge(path, label, charmap, font):
     pixels = image.load()
     interior = [pixels[x, y] for y in range(4, 12) for x in range(2, 30)]
     fill = Counter(interior).most_common(1)[0][0]
-    ink = next((c for c, _ in Counter(interior).most_common() if c != fill), fill)
+    palette = image.getpalette()
+    bg_rgb = palette[fill * 3:fill * 3 + 3]
+    ink = max(
+        range(1, 16),
+        key=lambda color: sum((palette[color * 3 + channel] - bg_rgb[channel]) ** 2 for channel in range(3)),
+    )
     for y in range(4, 12):
         for x in range(2, 30):
             pixels[x, y] = fill
@@ -50,7 +55,7 @@ def draw_badge(path, label, charmap, font):
         glyph = glyph_for(char, charmap, font)
         for y in range(10):
             for x in range(8):
-                if glyph.getpixel((x, y)) >= 80 and 4 <= y + 1 < 12:
+                if glyph.getpixel((x, y)) <= 160 and 4 <= y + 1 < 12:
                     pixels[x0 + index * 8 + x, y + 1] = ink
     image.save(path, optimize=False)
 

@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parents[2]
 SHEETS = [ROOT / 'graphics/summary_screen/tiles.png',
           ROOT / 'graphics/summary_screen/hns/tiles.png']
 CHARMAP = (ROOT / 'charmap.txt').read_text(encoding='utf-8')
-FONT = Image.open(ROOT / 'graphics/fonts/chinese_small.png')
+FONT = Image.open(ROOT / 'graphics/fonts/chinese_small.png').convert('L')
 
 # (tile span, label, per-char sub-spans) — sub-spans handle banners whose
 # tiles display split across two screen rows (page-switch ribbon wraps).
@@ -33,6 +33,7 @@ LABELS = [
     ((208, 216), '说明', [(208, 212), (212, 216)]),          # DESCRIPTION
     ((224, 232), '取消', [(224, 228), (228, 232)]),          # CANCEL
     ((176, 179), '取消', [(176, 177), (178, 179)]),          # CANCEL (egg)
+    ((192, 196), '招式', [(193, 193), (194, 194)]),          # MOVES page title
 ]
 
 
@@ -49,7 +50,7 @@ def glyph_9x7(char):
     ink = FONT.crop((x, y, x + 10, y + 13))  # 10x13 ink region
     small = ink.resize((9, 7), Image.LANCZOS)
     px = small.load()
-    return [[1 if px[i, j] > 0 else 0 for i in range(9)] for j in range(7)]
+    return [[1 if px[i, j] <= 160 else 0 for i in range(9)] for j in range(7)]
 
 
 def tile_span(im, t0, t1):
