@@ -175,16 +175,16 @@ SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner::
 	.string "开派对。$"
 
 SSAnne_2F_Corridor_Text_RivalIntro::
-	.string "{RIVAL}：Hello！\n"
+	.string "{RIVAL}：你好！\n"
 	.string "{PLAYER}！\p"
-	.string "真没想到能在这里碰见你！\n"
+	.string "没想到会在这里遇见你！\n"
 	.string "{PLAYER}，你真的有被邀请\l"
 	.string "吗？\p"
 	.string "另外你的宝可梦图鉴收集得怎么样了\n"
 	.string "？\p"
 	.string "我已经收服40种了。不同的地方有\n"
 	.string "不同的宝可梦。\p"
-	.string "要匍匐在草地里，努力地寻找它们！$"
+	.string "在草丛里仔细寻找它们吧！$"
 
 SSAnne_2F_Corridor_Text_RivalDefeat::
 	.string "哼！\p"

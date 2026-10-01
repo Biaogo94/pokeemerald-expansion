@@ -79,7 +79,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE1_WINDOW] =
     {
-        .header = COMPOUND_STRING("幼童宝可梦的特性"),
+        .header = COMPOUND_STRING("幼年宝可梦的特性"),
         .desc = COMPOUND_STRING("皮丘的特性是静电。皮宝宝的特性是\n"
                                 "迷人之躯。宝宝丁的特性是迷人之躯\l"
                                 "。无畏小子的特性是毅力。迷唇娃的\l"
@@ -92,7 +92,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE2_WINDOW] =
     {
-        .header = COMPOUND_STRING("幼童宝可梦的属性"),
+        .header = COMPOUND_STRING("幼年宝可梦的属性"),
         .desc = COMPOUND_STRING("皮丘是电属性。皮宝宝是一般属性。\n"
                                 "宝宝丁是一般属性。无畏小子是格斗\l"
                                 "属性。迷唇娃是冰属性。电击怪是电\l"
@@ -104,14 +104,14 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE3_WINDOW] =
     {
-        .header = COMPOUND_STRING("幼童宝可梦的叫声"),
-        .desc = COMPOUND_STRING("PICHU says WAAAH.\n"
-                                "CLEFFA says EEK.\n"
-                                "IGGLYBUFF says LALALA.\n"
-                                "TYROGUE says HIYAH.\n"
-                                "SMOOCHUM says EHEHE.\n"
-                                "ELEKID says OI, OI, OI.\n"
-                                "MAGBY says TCH."
+        .header = COMPOUND_STRING("幼年宝可梦的叫声"),
+        .desc = COMPOUND_STRING("皮丘：哇啊啊！\n"
+                                "皮宝宝：咿！\n"
+                                "宝宝丁：啦啦啦！\n"
+                                "无畏小子：喝呀！\n"
+                                "迷唇娃：嘿嘿！\n"
+                                "电击怪：哟、哟、哟！\n"
+                                "鸭嘴宝宝：啧！"
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,
@@ -119,7 +119,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE4_WINDOW] =
     {
-        .header = COMPOUND_STRING("幼童宝可梦的习性"),
+        .header = COMPOUND_STRING("幼年宝可梦的习性"),
         .desc = COMPOUND_STRING("皮丘喜欢整天玩耍。皮宝宝喜欢眺望\n"
                                 "月亮。宝宝丁能让大家入睡。无畏小\l"
                                 "子总是不断修行。迷唇娃喜欢炫耀自\l"

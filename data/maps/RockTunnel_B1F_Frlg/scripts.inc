@@ -71,15 +71,15 @@ RockTunnel_B1F_Text_CooperPostBattle::
 	.string "它送给我吗？$"
 
 RockTunnel_B1F_Text_SteveIntro::
-	.string "嗯…你了解宝可梦cosplay吗\n"
-	.string "？$"
+	.string "嗯……你知道\n"
+	.string "什么是宝可梦角色扮演吗？$"
 
 RockTunnel_B1F_Text_SteveDefeat::
 	.string "好吧，就这样吧。$"
 
 RockTunnel_B1F_Text_StevePostBattle::
-	.string "所谓cosplay宝可梦，就是为\n"
-	.string "了好玩打扮成宝可梦的样子！\p"
+	.string "所谓宝可梦角色扮演，就是为了\n"
+	.string "好玩而装扮成宝可梦的样子！\p"
 	.string "我最喜欢扮成皮皮了。$"
 
 RockTunnel_B1F_Text_AllenIntro::

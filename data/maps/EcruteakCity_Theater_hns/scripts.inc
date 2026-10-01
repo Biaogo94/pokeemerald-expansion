@@ -420,7 +420,7 @@ EcruteakCity_Theater_Text_BoyBefore:
 
 EcruteakCity_Theater_Text_Boy:
 	.string "本来该由我来英雄救美的……\n"
-	.string ".！借机接近舞姬小姐的计划全泡汤\l"
+	.string "借机接近舞姬小姐的计划全泡汤\l"
 	.string "了！$"
 
 EcruteakCity_Theater_Text_Granny:
@@ -432,7 +432,7 @@ EcruteakCity_Theater_Text_Granny:
 
 EcruteakCity_Theater_Text_GrannyBefore:
 	.string "哎哟……好疼啊……\n"
-	.string ".！肚子痛得要命！\p"
+	.string "肚子痛得要命！\p"
 	.string "要不是肚子这么痛，我才不会让那个\n"
 	.string "家伙那么嚣张……！$"
 
@@ -447,7 +447,7 @@ EcruteakCity_Theater_Text_Gramps:
 
 EcruteakCity_Theater_Text_GrampsBefore:
 	.string "哎哟……好痛啊……\n"
-	.string ".！我的腰痛又犯了！\p"
+	.string "我的腰痛又犯了！\p"
 	.string "要不是腰这么痛，我才不会让那个家\n"
 	.string "伙那么嚣张……！$"
 

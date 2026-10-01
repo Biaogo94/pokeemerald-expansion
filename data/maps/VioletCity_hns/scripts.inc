@@ -466,8 +466,8 @@ VioletCity_Text_Elm_Call:
 	.string "你能去和他见个面吗？$"
 
 VioletCity_Text_Kimono_Girl1:
-	.string "哎呀呀……那颗蛋一定是。\n"
-	.string ".....！$"
+	.string "哎呀呀……\n"
+	.string "那颗蛋一定是……！$"
 
 VioletCity_Text_Kimono_Girl2:
 	.string "原来如此……\p"

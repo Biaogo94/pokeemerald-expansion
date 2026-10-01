@@ -811,14 +811,14 @@ SixIsland_WaterPath_Text_EdwardRematchIntro::
 	.string "嘿嘿嘿，我又在偷偷练习了。$"
 
 SixIsland_WaterPath_Text_SamirRematchIntro::
-	.string "怎么，你已经看腻像我这样的游泳选\n"
-	.string "手了吗？\p"
-	.string "哎呀，别嫌弃嘛！再和我对战一场吧\n"
-	.string "。$"
+	.string "你已经看腻我这样的游泳选手了吗？\n"
+	.string "哎呀，别嫌弃嘛！\p"
+	.string "再和我\n"
+	.string "对战一场吧！$"
 
 SixIsland_WaterPath_Text_DeniseRematchIntro::
-	.string "唉......我男朋友又在忙了.\n"
-	.string ".....$"
+	.string "唉……我男朋友又忙起来了。\n"
+	.string "……$"
 
 SixIsland_WaterPath_Text_EarlRematchIntro::
 	.string "快告诉我，这附近的山到底都在哪儿\n"

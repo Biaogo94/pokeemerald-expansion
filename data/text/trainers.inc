@@ -1491,10 +1491,10 @@ Route113_Text_DillonDefeat:
 	.string "你还真是强啊！$"
 
 Route113_Text_DillonPostBattle:
-	.string "嗷！我看不见了！我的睫毛上“净”\n"
-	.string "是灰“烬”！\p"
-	.string "Get到了吗？\p"
-	.string "好吧，看来不怎么样……$"
+	.string "嗷！我看不见了！睫毛上沾满了\n"
+	.string "火山灰！\p"
+	.string "睫毛和火山灰，很“灰”谐吧？\p"
+	.string "好吧，这笑话真冷，抱歉……$"
 
 Route113_Text_MadelineIntro:
 	.string "我用这把阳伞为我亲爱的呆火驼挡一\n"

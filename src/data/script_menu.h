@@ -905,17 +905,17 @@ const u8 sText_NoThanks[] = _("不用了");
 
 static const struct MenuAction sMultichoiceList_GameCornerPokemonPrizes[] = {
 #if defined(FIRERED)
-    { COMPOUND_STRING("ABRA{CLEAR_TO 0x55}{FONT_SMALL} 180 COINS") },
+    { COMPOUND_STRING("凯西{CLEAR_TO 0x55}{FONT_SMALL} 180 COINS") },
     { COMPOUND_STRING("皮皮\n{CLEAR_TO 0x55}\l{FONT_SMALL} 500\l枚代币") },
     { COMPOUND_STRING("迷你龙\n{CLEAR_TO 0x4B}\l{FONT_SMALL} 2,8\l00枚代币") },
     { COMPOUND_STRING("飞天螳螂\n{CLEAR_TO 0x4B}\l{FONT_SMALL} 5,5\l00枚代币") },
-    { COMPOUND_STRING("PORYGON{CLEAR_TO 0x4B}{FONT_SMALL} 9,999 COINS") },
+    { COMPOUND_STRING("多边兽{CLEAR_TO 0x4B}{FONT_SMALL} 9,999 COINS") },
 #else
-    { COMPOUND_STRING("ABRA{CLEAR_TO 0x55}{FONT_SMALL} 120") },
+    { COMPOUND_STRING("凯西{CLEAR_TO 0x55}{FONT_SMALL} 120") },
     { COMPOUND_STRING("皮皮\n{CLEAR_TO 0x55}\l{FONT_SMALL} 750") },
     { COMPOUND_STRING("凯罗斯\n{CLEAR_TO 0x4B}\l{FONT_SMALL} 2,5\l00") },
     { COMPOUND_STRING("迷你龙\n{CLEAR_TO 0x4B}\l{FONT_SMALL} 4,6\l00") },
-    { COMPOUND_STRING("PORYGON{CLEAR_TO 0x4B}{FONT_SMALL} 6,500") },
+    { COMPOUND_STRING("多边兽{CLEAR_TO 0x4B}{FONT_SMALL} 6,500") },
 #endif
     { sText_NoThanks }
 };

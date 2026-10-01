@@ -2298,11 +2298,10 @@ gText_ApprenticePickWinSpeech9::
 
 gText_ApprenticeWinSpeechThanks9::
 	.string "{STR_VAR_1}\p"
-	.string "嗯哼，这话真棒！Si,\n"
-	.string "bueno！嗯哼，我会试着这么说，就像，\l"
-	.string "火腿！\p"
-	.string "那么，是时候说再见了！感谢你为我\n"
-	.string "做的一切！\p"
+	.string "嗯哼，这话真棒！Si，\n"
+	.string "bueno！我会照着这么说：砰！\l\p"
+	.string "那么，是时候说再见了！谢谢你，\n"
+	.string "为我做的一切！\p"
 	.string "改天和我对战一场，好吗？再见！$"
 
 gText_ApprenticePickWinSpeech10::

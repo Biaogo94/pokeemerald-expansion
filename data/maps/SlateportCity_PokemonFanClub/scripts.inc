@@ -296,8 +296,8 @@ SlateportCity_PokemonFanClub_Text_HmHmISee:
 SlateportCity_PokemonFanClub_Text_GiveMonMorePokeblocks:
 	.string "嗯……说不上差，\n"
 	.string "但也说不上好……\p"
-	.string "你这位训练家，得在培育这只宝可梦上\n"
-	.string "多下点功夫！\p"
+	.string "培育这只宝可梦，你得多花些心思\n"
+	.string "才行！\p"
 	.string "比如说，多给它吃点\n"
 	.string "{POKEBLOCK}如何？$"
 

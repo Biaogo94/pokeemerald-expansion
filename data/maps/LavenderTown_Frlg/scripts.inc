@@ -58,18 +58,18 @@ LavenderTown_Text_JustImaginingWhiteHand::
 	.string "这只是我的想象而已。$"
 
 LavenderTown_Text_TownKnownAsMonGraveSite::
-	.string "This town is known as the grave\n"
-	.string "site of POKéMON.\p"
-	.string "Memorial services are held in\n"
-	.string "POKéMON TOWER.$"
+	.string "这座城镇是宝可梦的\n"
+	.string "墓地。\p"
+	.string "追悼仪式会在\n"
+	.string "宝可梦塔举行。$"
 
 LavenderTown_Text_GhostsAppearedInTower::
 	.string "幽灵在宝可梦塔里出没。\p"
-	.string "我想那应该是被火箭队杀掉的 宝可\n"
-	.string "梦的灵魂吧。$"
+	.string "我想那应该是被火箭队所害的\n"
+	.string "宝可梦的灵魂吧。$"
 
 LavenderTown_Text_TownSign::
-	.string "紫苑镇高贵的紫色小镇$"
+	.string "紫苑镇：高贵优雅的紫色小镇$"
 
 LavenderTown_Text_SilphScopeNotice::
 	.string "新的西尔佛观测镜！让无形的东西变\n"

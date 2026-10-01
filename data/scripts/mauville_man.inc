@@ -246,10 +246,10 @@ MauvilleCity_PokemonCenter_1F_Text_WhichTaleToTell:
 	.string "你想听哪个？$"
 
 MauvilleCity_PokemonCenter_1F_Text_IKnowNoTales:
-	.string "不过，我不知道什么传说中的训练家。\n"
+	.string "不过，我并不认识传说中的训练家。\n"
 	.string "所以，也就不知道有什么故事。\p"
-	.string "这世上存在能称为\n"
-	.string "传说中的训练家的人吗？$"
+	.string "这世上真的存在\n"
+	.string "传说中的训练家吗？$"
 
 MauvilleCity_PokemonCenter_1F_Text_YouDidStatXTimes:
 	.string "啊？！\n"

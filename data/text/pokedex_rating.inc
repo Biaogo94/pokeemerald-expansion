@@ -379,7 +379,7 @@ gNationalDexRatingText_LessThan400::
 
 gNationalDexRatingText_LessThan435::
 	.string "哇，你竟然收集了这么多……\n"
-	.string ".！老实说，连我都有些惊讶了！$"
+	.string "老实说，连我都有些惊讶了！$"
 
 gNationalDexRatingText_LessThan465::
 	.string "现在正是紧要关头！可千万不要灰心\n"

@@ -122,7 +122,7 @@ EcruteakCity_Text_Silver1:
 
 EcruteakCity_Text_Silver2:
 	.string "{RIVAL}：怎么会……\n"
-	.string ".？这怎么可能？我怎么可能会输给\l"
+	.string "这怎么可能？我怎么可能会输给\l"
 	.string "区区的舞姬……？！$"
 
 EcruteakCity_Text_Silver3:
@@ -293,11 +293,11 @@ EcruteakCity_Text_UnusedMissingDaughter:
 	.string "不会吧……她总不可能跑到\n"
 	.string "烧焦塔去了吧。\p"
 	.string "我跟她说过绝对不能靠近那里的。\n"
-	.string ".....\p"
+	.string "……\p"
 	.string "听说那里经常有人失踪啊……\n"
-	.string "..\p"
+	.string "……\p"
 	.string "唉，我到底该怎么办才好……\n"
-	.string "..？$"
+	.string "……？$"
 
 EcruteakCity_Text_Gramps1:
 	.string "圆朱市过去曾有两座塔，东西各耸立\n"
