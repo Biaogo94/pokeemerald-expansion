@@ -238,7 +238,7 @@ FortreeCity_Gym_Text_ReceivedFeatherBadge:
 
 FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis:
 	.string "获得羽毛徽章后，\n"
-	.string "70级以下（含交换来的）宝可梦\l"
+	.string "70级以下，包括交换来的宝可梦\l"
 	.string "都会听从你的指挥。\p"
 	.string "你还可以在对战外使用\n"
 	.string "秘传学习器“飞翔”。\p"
