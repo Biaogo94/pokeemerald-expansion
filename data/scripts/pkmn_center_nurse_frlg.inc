@@ -98,8 +98,7 @@ Movement_Bow::
 
 Text_WelcomeWantToHealPkmn_Frlg::
 	.string "欢迎光临宝可梦中心！\p"
-	.string "要为你的宝可梦恢复\n"
-	.string "健康吗？$"
+	.string "要为你的宝可梦恢复健康吗？$"
 
 Text_TakeYourPkmnForFewSeconds_Frlg::
 	.string "好的，我先带你的宝可梦\n"
