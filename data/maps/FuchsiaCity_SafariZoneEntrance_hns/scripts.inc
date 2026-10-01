@@ -224,8 +224,8 @@ FuchsiaCity_SafariZoneEntrance_Text_StevenWelcome:
 	.string "的生态环境，用以吸引并容纳来自丰\l"
 	.string "缘地区的外来物种。\p"
 	.string "我们鼓励训练家们尽可能多地捕捉它\n"
-	.string "们，以此安全地将它们移出自然环境\l"
-	.string "。\p"
+	.string "们，以此安全地将它们移出自然环\l"
+	.string "境。\p"
 	.string "你在这里会发现非常罕见的宝可梦。\n"
 	.string "尤其是当你提升了原野区等级之后。\p"
 	.string "随时都可以找这里的接待员来提升你\n"
@@ -300,22 +300,18 @@ FuchsiaCity_SafariZoneEntrance_Text_Steven:
 
 FuchsiaCity_SafariZoneEntrance_Text_Level1:
 	.string "你好，{PLAYER}，你想要将\n"
-	.string "原野区等级提升到2级吗？费用是¥\l"
-	.string "200,000。$"
+	.string "原野区等级提升到2级吗？费用是¥20,000。$"
 
 FuchsiaCity_SafariZoneEntrance_Text_Level2:
 	.string "你好，{PLAYER}，你想要将\n"
-	.string "原野区等级提升到3级吗？费用是¥\l"
-	.string "300,000。$"
+	.string "原野区等级提升到3级吗？费用是¥30,000。$"
 
 FuchsiaCity_SafariZoneEntrance_Text_Level3:
 	.string "你好，{PLAYER}，你想要将\n"
-	.string "原野区等级提升到4级吗？费用是¥\l"
-	.string "400,000。$"
+	.string "原野区等级提升到4级吗？费用是¥40,000。$"
 
 FuchsiaCity_SafariZoneEntrance_Text_UpgradeGuyDeclined:
-	.string "哎呀，那可真是太遗憾了……\n"
-	.string ".$"
+	.string "哎呀，那可真是太遗憾了…….$"
 
 FuchsiaCity_SafariZoneEntrance_Text_UpgradeGuyAccepted:
 	.string "祝您尽情享受原野区的高级会员体\n"
@@ -345,9 +341,8 @@ FuchsiaCity_SafariZoneEntrance_EventScript_StevenTradeCompleted::
 	end
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenWantToTrade:
-	.string "那个，{PLAYER}....\n"
-	.string "..这只铁哑铃我培育有一段时间\l"
-	.string "了。\p"
+	.string "那个，{PLAYER}......这只\n"
+	.string "铁哑铃我培育有一段时间了。\p"
 	.string "但我认为跟着像你这样的训练家，它\n"
 	.string "能得到更好的成长。\p"
 	.string "你愿意用你的\n"

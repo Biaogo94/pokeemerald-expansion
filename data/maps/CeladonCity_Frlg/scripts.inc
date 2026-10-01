@@ -130,8 +130,8 @@ CeladonCity_Text_Poliwrath::
 	.string "蚊香泳士 哩吡哩吡特！$"
 
 CeladonCity_Text_GetLostOrIllPunchYou::
-	.string "你在看什么呢？滚开，不然我就揍你\n"
-	.string "。$"
+	.string "你在看什么呢？滚开，不然我就揍\n"
+	.string "你。$"
 
 CeladonCity_Text_KeepOutOfTeamRocketsWay::
 	.string "离火箭队远点！$"
@@ -170,8 +170,8 @@ CeladonCity_Text_GameCornerSign::
 CeladonCity_Text_ScaldedTongueOnTea::
 	.string "啊 喔……我的舌头被烫伤了！\p"
 	.string "大厦里的老妇人给我喝了一些茶。\p"
-	.string "但茶太烫了！必须等凉下来之后再喝\n"
-	.string "。$"
+	.string "但茶太烫了！必须等凉下来之后再\n"
+	.string "喝。$"
 
 Text_SoftboiledTeach::
 	.string "小朋友，你好！\p"

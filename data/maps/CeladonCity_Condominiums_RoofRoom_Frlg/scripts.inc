@@ -106,8 +106,8 @@ CeladonCity_Condominiums_RoofRoom_EventScript_ExitBlackboard::
 CeladonCity_Condominiums_RoofRoom_Text_TheresNothingIDontKnow::
 	.string "就像我在黑板上写的那样，我无所不\n"
 	.string "知。\p"
-	.string "我了解在GAME BOY ADV\n"
-	.string "ANCE中的宝可梦世界！\p"
+	.string "我了解在GAME BOY ADVANCE中的宝可\n"
+	.string "梦世界！\p"
 	.string "和你的朋友们一起玩吧，祝你们交换\n"
 	.string "宝可梦愉快！$"
 

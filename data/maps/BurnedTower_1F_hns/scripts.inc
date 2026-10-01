@@ -50,12 +50,12 @@ BurnedTower_Movement_Eusine2:
 
 BurnedTower_1FEusineIntroText:
 	.string "米纳君：我叫米纳君。\p"
-	.string "我一直在追踪一只名叫水君的宝可梦\n"
-	.string "。\p"
+	.string "我一直在追踪一只名叫水君的宝可\n"
+	.string "梦。\p"
 	.string "那么你呢……？\p"
 	.string "{PLAYER}？很高兴认识你！\p"
-	.string "听说水君可能会出现在这座烧焦塔里\n"
-	.string "，所以我赶来看看。\p"
+	.string "听说水君可能会出现在这座烧焦塔\n"
+	.string "里，所以我赶来看看。\p"
 	.string "但它究竟会在哪里呢？$"
 
 BurnedTower_1F_EventScript_Item_HpUp::
@@ -89,8 +89,8 @@ BurnedTower_1FEusineText:
 
 BurnedTower_1FMortyText:
 	.string "小松：身为圆朱道馆的馆主，我有责\n"
-	.string "任去探究那些被称为传说的宝可梦-\l"
-	.string "-水君、炎帝和雷公。\p"
+	.string "任去探究那些被称为传说的宝可梦--\l"
+	.string "水君、炎帝和雷公。\p"
 	.string "既然米纳君在这里，我就决定和他一\n"
 	.string "起调查这座塔。$"
 
@@ -152,8 +152,8 @@ BurnedTowerSilver_BeforeText:
 	.string "听说这里有传说的宝可梦筑巢，我就\n"
 	.string "特地过来看看。\p"
 	.string "可这里根本什么都没有嘛！\p"
-	.string "本少爷费了半天劲才来到这种破地方\n"
-	.string "，结果什么都没有？开什么玩笑！\p"
+	.string "本少爷费了半天劲才来到这种破地\n"
+	.string "方，结果什么都没有？开什么玩笑！\p"
 	.string "全都是你的错！$"
 
 BurnedTowerSilver_WinText:
@@ -205,5 +205,4 @@ BurnedTower_Text_RichardoSeen:
 BurnedTower_Text_RichardoBeaten:
 	.string "噗------。$"
 BurnedTower_Text_RichardoAfter:
-	.string "也许犯罪这份职业并不适合我...\n"
-	.string "...$"
+	.string "也许犯罪这份职业并不适合我......$"

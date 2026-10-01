@@ -59,8 +59,8 @@ EverGrandeCity_GlaciasRoom_EventScript_Defeated::
 	end
 
 EverGrandeCity_GlaciasRoom_Text_IntroSpeech:
-	.string "欢迎您。我叫波妮，是四天王的一员\n"
-	.string "。\p"
+	.string "欢迎您。我叫波妮，是四天王的一\n"
+	.string "员。\p"
 	.string "我千里迢迢来到丰缘磨砺我的冰属性\n"
 	.string "技巧。\p"
 	.string "但是我在这儿见到的尽是些弱不禁风\n"
@@ -70,8 +70,8 @@ EverGrandeCity_GlaciasRoom_Text_IntroSpeech:
 	.string "太棒了……！$"
 
 EverGrandeCity_GlaciasRoom_Text_Defeat:
-	.string "您和您的宝可梦……灵魂燃烧的那么\n"
-	.string "炽烈！\p"
+	.string "您和您的宝可梦……灵魂燃烧的那么炽\n"
+	.string "烈！\p"
 	.string "这激烈的热量仿佛能吞噬一切。\p"
 	.string "难怪我的冰属性技巧奈何不了您。$"
 

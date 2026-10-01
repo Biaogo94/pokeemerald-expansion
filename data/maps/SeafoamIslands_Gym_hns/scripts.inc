@@ -87,8 +87,8 @@ SeafoamIslands_Gym_Text_BlaineIntro:
 	.string "哈！你最好备好灼伤药！$"
 
 SeafoamIslands_Gym_Text_BlaineWinLoss:
-	.string "夏伯：太棒了。我已经完全燃尽了。\n"
-	.string ".....\p"
+	.string "夏伯：太棒了。我已经完全燃尽了"
+	.string "。.....\p"
 	.string "深红徽章归你了！$"
 
 SeafoamIslands_Gym_Text_ReceivedVolcanoBadge:
@@ -101,8 +101,8 @@ SeafoamIslands_Gym_Text_BlaineAfterBattle:
 	.string "较量一次。$"
 
 SeafoamIslands_Gym_Text_BlaineFightDone:
-	.string "夏伯：我的火属性宝可梦会变得更强\n"
-	.string "。\p"
+	.string "夏伯：我的火属性宝可梦会变得更\n"
+	.string "强。\p"
 	.string "你就走着瞧吧！$"
 
 SeafoamIslands_Gym_Text_BlaineRematch:
@@ -121,8 +121,8 @@ SeafoamIslands_Gym_Text_GymGuideWin:
 	.string "哟！\p"
 	.string "……咦？已经结束了吗？\p"
 	.string "抱歉抱歉！\p"
-	.string "红莲道馆没了，我不知道去哪里找你\n"
-	.string "。\p"
+	.string "红莲道馆没了，我不知道去哪里找\n"
+	.string "你。\p"
 	.string "不过嘛，就算没有我的建议，你也足\n"
 	.string "够强了。我就知道你会赢！$"
 

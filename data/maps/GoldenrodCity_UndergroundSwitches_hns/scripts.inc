@@ -525,22 +525,19 @@ GoldenrodUnderground_Text_SilverBefore:
     .string "看到你的身影，我就一路跟过来了。\p"
     .string "我去收拾火箭队的时候，可不想被你\n"
     .string "碍手碍脚。\p"
-    .string "……等等。你之前赢过我对\n"
-    .string "吧？\p"
+    .string "……等等。你之前赢过我对吧？\p"
     .string "那纯粹只是侥幸。\p"
     .string "我重新锻炼了我的队伍，现在就来把\n"
     .string "这笔账彻底还清！$"
 
 GoldenrodUnderground_Text_SilverWin:
-    .string "……为什么……为\n"
-    .string "什么我会输？\p"
+    .string "……为什么……为什么我会输？\p"
     .string "我集结的明明全是最强的宝可梦。\p"
     .string "我也从没有一丝松懈。\p"
     .string "那为什么我还会输？$"
 
 GoldenrodUnderground_Text_SilverAfter:
-    .string "……我想不明白……\n"
-    .string "..\p"
+    .string "……我想不明白……..\p"
     .string "难道那个叫阿渡的家伙说的是真的\n"
     .string "吗？\p"
     .string "说我没有正确对待宝可梦？\p"
@@ -568,15 +565,14 @@ GoldenrodUnderground_Text_GruntM11Beaten:
     .string "可恶！我一犹豫就彻底翻船了！$"
 
 GoldenrodUnderground_Text_GruntM11After:
-    .string "其实我也被绕晕了……虽然\n"
-    .string "最里面的开关应该最先按下去，可\l"
-    .string "是……$"
+    .string "其实我也被绕晕了……虽然最里面的开\n"
+    .string "关应该最先按下去，可是……$"
 
 GoldenrodUnderground_Text_GruntM25Seen:
     .string "嘎哈哈哈！\p"
     .string "被这些卷帘门搞得团团转了吧？\p"
-    .string "要是你能赢过我，我就告诉你个秘密\n"
-    .string "！$"
+    .string "要是你能赢过我，我就告诉你个秘\n"
+    .string "密！$"
 
 GoldenrodUnderground_Text_GruntM25Beaten:
     .string "呜呜呜……我搞砸了。$"
@@ -598,8 +594,8 @@ GoldenrodUnderground_Text_BurglarDuncanAfter:
     .string "啊，小鬼！$"
 
 GoldenrodUnderground_Text_BurglarEddieSeen:
-    .string "工程还没搞完，他们就把这里废弃了\n"
-    .string "。\p"
+    .string "工程还没搞完，他们就把这里废弃\n"
+    .string "了。\p"
     .string "我正在找找有没有剩下的值钱玩意。$"
 
 GoldenrodUnderground_Text_BurglarEddieBeaten:
@@ -612,15 +608,15 @@ GoldenrodUnderground_Text_BurglarEddieAfter:
 
 GoldenrodUnderground_Text_GruntM13Seen:
     .string "我可不管你是不是迷路的。\p"
-    .string "既然敢闯到这里，你就只能任人宰割\n"
-    .string "！$"
+    .string "既然敢闯到这里，你就只能任人宰\n"
+    .string "割！$"
 
 GoldenrodUnderground_Text_GruntM13Beaten:
     .string "呃！哼，真以为自己很神气吗？$"
 
 GoldenrodUnderground_Text_GruntM13After:
-    .string "敢跟火箭队作对，你胆子可真不小啊\n"
-    .string "。$"
+    .string "敢跟火箭队作对，你胆子可真不小\n"
+    .string "啊。$"
 
 GoldenrodUnderground_Text_GruntF3Seen:
     .string "你迷路了吗？不，看起来不像。\p"

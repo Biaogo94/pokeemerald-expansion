@@ -31,12 +31,12 @@ Route10_Text_ClarkIntro::
 	.string "哈哈-哈哈-啊哈哈$"
 
 Route10_Text_ClarkDefeat::
-	.string "哈-啊啊！不准笑！啊啊-发烧了！\n"
-	.string "啊啊-啊嚏！$"
+	.string "哈-啊啊！不准笑！啊啊-发烧了！啊\n"
+	.string "啊-啊嚏！$"
 
 Route10_Text_ClarkPostBattle::
-	.string "啊啊-啊嚏！啊嚏！抽鼻子，擦鼻涕\n"
-	.string "。$"
+	.string "啊啊-啊嚏！啊嚏！抽鼻子，擦鼻\n"
+	.string "涕。$"
 
 Route10_Text_HermanIntro::
 	.string "嘿，小子！想看我的宝可梦$"
@@ -48,8 +48,8 @@ Route10_Text_HermanPostBattle::
 	.string "我讨厌你。比我强的人我都不喜欢！$"
 
 Route10_Text_HeidiIntro::
-	.string "我已经在宝可梦道馆中辗转奋战多时\n"
-	.string "。\p"
+	.string "我已经在宝可梦道馆中辗转奋战多\n"
+	.string "时。\p"
 	.string "…可总是输多赢少。$"
 
 Route10_Text_HeidiDefeat::
@@ -71,8 +71,8 @@ Route10_Text_TrentPostBattle::
 	.string "这样的空气里人都像要飞起来了！$"
 
 Route10_Text_CarolIntro::
-	.string "我现在有点头晕，好久都没有登山了\n"
-	.string "。$"
+	.string "我现在有点头晕，好久都没有登山\n"
+	.string "了。$"
 
 Route10_Text_CarolDefeat::
 	.string "我实在坚持不住了。都怪我没有做好\n"

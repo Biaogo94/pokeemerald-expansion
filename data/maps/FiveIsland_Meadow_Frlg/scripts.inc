@@ -52,8 +52,8 @@ FiveIsland_Meadow_EventScript_Rocket3::
 
 @ Unused
 FiveIsland_Meadow_Text_DoorNeedsTwoPasswords::
-	.string "とびらを　あけるには\n"
-	.string "パスワードが　2つ　いるようだ$"
+	.string "とびらを　あけるにはパスワードが\n"
+	.string "　2つ　いるようだ$"
 
 FiveIsland_Meadow_Text_EnteredPasswordAnotherNeeded::
 	.string "{PLAYER}输入了一段密码。\p"
@@ -63,8 +63,8 @@ FiveIsland_Meadow_Text_EnteredPasswordAnotherNeeded::
 
 FiveIsland_Meadow_Text_EnteredPasswordDoorOpened::
 	.string "{PLAYER}输入了两段密码。\p"
-	.string "“多多少少 少少多多”“大大小小\n"
-	.string " 小小大大”\p"
+	.string "“多多少少 少少多多”“大大小小 小\n"
+	.string "小大大”\p"
 	.string "…… …… ……\p"
 	.string "仓库的门打开了！$"
 

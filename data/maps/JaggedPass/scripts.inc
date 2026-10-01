@@ -158,10 +158,9 @@ JaggedPass_Text_EricDefeat:
 	.string "失败让我痛苦！$"
 
 JaggedPass_Text_EricPostBattle:
-	.string "确实，在宝可梦的对战中我失败了…\n"
-	.string "…\p"
-	.string "但说到对山的热爱我绝对不会输给你\n"
-	.string "！$"
+	.string "确实，在宝可梦的对战中我失败了……\p"
+	.string "但说到对山的热爱我绝对不会输给\n"
+	.string "你！$"
 
 JaggedPass_Text_DianaIntro:
 	.string "这可不是可以随便来闲逛的地方，这\n"

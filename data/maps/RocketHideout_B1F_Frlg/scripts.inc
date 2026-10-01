@@ -98,8 +98,8 @@ RocketHideout_B1F_Text_Grunt4Defeat::
 	.string "不可能！$"
 
 RocketHideout_B1F_Text_Grunt4PostBattle::
-	.string "好吧，我说……乘电梯去见我们的老\n"
-	.string "大吧。$"
+	.string "好吧，我说……乘电梯去见我们的老大\n"
+	.string "吧。$"
 
 RocketHideout_B1F_Text_Grunt5Intro::
 	.string "你迷路了吗，小老鼠？$"

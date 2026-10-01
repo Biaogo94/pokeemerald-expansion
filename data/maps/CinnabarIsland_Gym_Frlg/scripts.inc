@@ -738,8 +738,8 @@ CinnabarIsland_Gym_Text_ReceivedTM38FromBlaine::
 	.string "TM38。$"
 
 CinnabarIsland_Gym_Text_BlainePostBattle::
-	.string "TM38是大字爆炎。把它教给火属\n"
-	.string "性宝可梦。\p"
+	.string "TM38是大字爆炎。把它教给火属性宝\n"
+	.string "可梦。\p"
 	.string "六尾或者火恐龙是一个不错的选择。$"
 
 CinnabarIsland_Gym_Text_MakeSpaceForThis::
@@ -754,8 +754,7 @@ CinnabarIsland_Gym_Text_ErikDefeat::
 
 CinnabarIsland_Gym_Text_ErikPostBattle::
 	.string "燃素，专业点说的话，可燃物……\p"
-	.string "……空气中的氧……叽哩呱啦呱啦叽\n"
-	.string "哩…$"
+	.string "……空气中的氧……叽哩呱啦呱啦叽哩…$"
 
 CinnabarIsland_Gym_Text_QuinnIntro::
 	.string "过去我是一名小偷但我现在是一名正\n"
@@ -776,8 +775,8 @@ CinnabarIsland_Gym_Text_AveryDefeat::
 	.string "哇啊！我学的还不够！$"
 
 CinnabarIsland_Gym_Text_AveryPostBattle::
-	.string "我的理论很高深，和你讲你很难明白\n"
-	.string "。$"
+	.string "我的理论很高深，和你讲你很难明\n"
+	.string "白。$"
 
 CinnabarIsland_Gym_Text_RamonIntro::
 	.string "走自己的路让别人说去吧。我就只喜\n"
@@ -791,8 +790,8 @@ CinnabarIsland_Gym_Text_RamonPostBattle::
 	.string "望着用它了！$"
 
 CinnabarIsland_Gym_Text_DerekIntro::
-	.string "我知道夏伯为什么会成为一名训练家\n"
-	.string "。$"
+	.string "我知道夏伯为什么会成为一名训练\n"
+	.string "家。$"
 
 CinnabarIsland_Gym_Text_DerekDefeat::
 	.string "喔$"

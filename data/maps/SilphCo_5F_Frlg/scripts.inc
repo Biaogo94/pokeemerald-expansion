@@ -73,12 +73,12 @@ SilphCo_5F_Text_Grunt1Defeat::
 	.string "隆隆！$"
 
 SilphCo_5F_Text_Grunt1PostBattle::
-	.string "和火箭队战斗可不是一个明智的选择\n"
-	.string "！$"
+	.string "和火箭队战斗可不是一个明智的选\n"
+	.string "择！$"
 
 SilphCo_5F_Text_BeauIntro::
-	.string "我们在这一层研究关于精灵球的技术\n"
-	.string "。$"
+	.string "我们在这一层研究关于精灵球的技\n"
+	.string "术。$"
 
 SilphCo_5F_Text_BeauDefeat::
 	.string "啊！哎哟！$"
@@ -95,8 +95,8 @@ SilphCo_5F_Text_DaltonDefeat::
 	.string "哦，天哪！$"
 
 SilphCo_5F_Text_DaltonPostBattle::
-	.string "你只不过刚到5F而已。要见我们的\n"
-	.string "老大，还要走很长的一段路！$"
+	.string "你只不过刚到5F而已。要见我们的老\n"
+	.string "大，还要走很长的一段路！$"
 
 SilphCo_5F_Text_Grunt2Intro::
 	.string "在火箭队面前放尊重些！$"
@@ -129,5 +129,5 @@ SilphCo_5F_Text_RocketBossLookingForStrongMons::
 	.string "那些混蛋占领了我们的大厦……\p"
 	.string "他们的头目说他一直在寻找强大的宝\n"
 	.string "可梦。\p"
-	.string "我希望我们的总裁能不遇上这些麻烦\n"
-	.string "……$"
+	.string "我希望我们的总裁能不遇上这些麻\n"
+	.string "烦……$"

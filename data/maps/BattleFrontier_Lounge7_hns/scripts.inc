@@ -400,8 +400,8 @@ BattleFrontier_Lounge7_Text_LeftTutorIntro_hns:
 	.string "就让我证明给你看吧。我可以传授你\n"
 	.string "的宝可梦既特别又可爱的招式哦。\p"
 	.string "不过我可不能免费教你。用一点点对\n"
-	.string "战点数来换我教的招式，你觉得如何\l"
-	.string "？$"
+	.string "战点数来换我教的招式，你觉得如\l"
+	.string "何？$"
 
 BattleFrontier_Lounge7_Text_LeftTutorWelcomeBack_hns:
 	.string "哇哈哈哈！\p"
@@ -412,17 +412,16 @@ BattleFrontier_Lounge7_Text_TeachWhichMove_hns:
 	.string "好好，看这里！要学哪个招式呢？$"
 
 BattleFrontier_Lounge7_Text_MoveWillBeXBattlePoints_hns:
-	.string "是招式{STR_VAR_1}对吧\n"
-	.string "？需要{STR_VAR_2}点对\l"
-	.string "战点数，可以吗？$"
+	.string "是招式{STR_VAR_1}对\n"
+	.string "吧？需要{STR_VAR_2}点\l"
+	.string "对战点数，可以吗？$"
 
 BattleFrontier_Lounge7_Text_TeachMoveToWhichMon_hns:
 	.string "很好很好，选一只要学这个招式的宝\n"
 	.string "可梦吧。$"
 
 BattleFrontier_Lounge7_Text_HaventGotEnoughPoints_hns:
-	.string "什么啊……你的对战点数不\n"
-	.string "够啊！$"
+	.string "什么啊……你的对战点数不够啊！$"
 
 BattleFrontier_Lounge7_Text_IllTakeBattlePoints_hns:
 	.string "见识到我的厉害了吧？那对战点数我\n"
@@ -437,8 +436,8 @@ BattleFrontier_Lounge7_Text_RightTutorIntro_hns:
 	.string "嘻嘻嘻！\p"
 	.string "虽然现在看不太出来，但我以前可是\n"
 	.string "个非常出色的训练家呢。\p"
-	.string "我当时可是人称最强无敌的游泳健将\n"
-	.string "，没骗你吧！\p"
+	.string "我当时可是人称最强无敌的游泳健\n"
+	.string "将，没骗你吧！\p"
 	.string "...... ...... ...... ...... ...... ......\p"
 	.string "怎么了？你不信我吗？\p"
 	.string "我和那边那个滑稽的女人可不一样。\n"
@@ -468,8 +467,7 @@ BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful_hns:
 	.string "实力。\p"
 	.string "甚至，她们传授的宝可梦招式变得更\n"
 	.string "加精妙了。\p"
-	.string "但是……不知为何，我总忍\n"
-	.string "不住感慨……\p"
+	.string "但是……不知为何，我总忍不住感慨……\p"
 	.string "岁月真是太残酷了……$"
 
 BattleFrontier_Lounge7_Text_SoftboiledDesc_hns::
@@ -479,8 +477,7 @@ BattleFrontier_Lounge7_Text_SeismicTossDesc_hns::
 	.string "给予对手和自己等级相同的伤害。$"
 
 BattleFrontier_Lounge7_Text_DreamEaterDesc_hns::
-	.string "回复给予睡眠中对手的伤\n"
-	.string "害的一半HP。$"
+	.string "回复给予睡眠中对手的伤害的一半HP。$"
 
 BattleFrontier_Lounge7_Text_MegaPunchDesc_hns::
 	.string "充满惊人力量的强力一拳。$"
@@ -505,8 +502,8 @@ BattleFrontier_Lounge7_Text_ThunderWaveDesc_hns::
 	.string "陷入麻痹状态。$"
 
 BattleFrontier_Lounge7_Text_SwordsDanceDesc_hns::
-	.string "跳起战斗之舞，大幅提高自己的攻击\n"
-	.string "。$"
+	.string "跳起战斗之舞，大幅提高自己的攻\n"
+	.string "击。$"
 
 BattleFrontier_Lounge7_Text_DefenseCurlDesc_hns::
 	.string "蜷缩身体遮挡弱点，从而提高自己的\n"
@@ -528,8 +525,8 @@ BattleFrontier_Lounge7_Text_IcyWindDesc_hns::
 	.string "冰冷的攻击，会降低对手的速度。$"
 
 BattleFrontier_Lounge7_Text_EndureDesc_hns::
-	.string "在1回合内挺住任何攻击，必定剩下\n"
-	.string "1点HP。$"
+	.string "在1回合内挺住任何攻击，必定剩下1\n"
+	.string "点HP。$"
 
 BattleFrontier_Lounge7_Text_PsychUpDesc_hns::
 	.string "复制对手的能力变化效果并施加在自\n"

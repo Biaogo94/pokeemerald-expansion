@@ -303,14 +303,12 @@ TrainerHill_Entrance_Text_SaveGameBeforeEnter:
 	.string "在进入之前，请先写入记录。$"
 
 TrainerHill_Entrance_Text_TrainersUpToFloorX:
-	.string "唔，我看看……当前在场的训练家…\n"
-	.string "…\p"
-	.string "最高到第{STR_VAR_1}层\n"
-	.string "。$"
+	.string "唔，我看看……当前在场的训练家……\p"
+	.string "最高到第{STR_VAR_1}\n"
+	.string "层。$"
 
 TrainerHill_Entrance_Text_TrainersInEveryRoom:
-	.string "唔，我看看……当前在场的训练家…\n"
-	.string "…\p"
+	.string "唔，我看看……当前在场的训练家……\p"
 	.string "似乎每个房间都有训练家聚集。$"
 
 TrainerHill_Entrance_Text_LikeToChallengeTrainers:
@@ -348,15 +346,15 @@ TrainerHill_Entrance_Text_ExplainTrainerHill:
 	.string "战的活动，\p"
 	.string "比赛内容是从服务台出发，计时抵达\n"
 	.string "楼顶的馆主处。\p"
-	.string "最快纪录将展示在计时榜上——不妨\n"
-	.string "和朋友比比看。\p"
+	.string "最快纪录将展示在计时榜上——不妨和\n"
+	.string "朋友比比看。\p"
 	.string "在沿途的训练家对战中，无法获得经\n"
 	.string "验值或金钱。$"
 
 @ Unused
 TrainerHill_Entrance_Text_NeedAtLeastTwoPokemon:
-	.string "哦，对不起，但是您只有1只宝可梦\n"
-	.string "。\p"
+	.string "哦，对不起，但是您只有1只宝可\n"
+	.string "梦。\p"
 	.string "您最少需要2只宝可梦来参加这个活\n"
 	.string "动。$"
 
@@ -395,14 +393,14 @@ TrainerHill_Roof_Text_YouWerentVeryQuick:
 TrainerHill_Roof_Text_ArriveZippierNextTime:
 	.string "也许下次你能更快一点的话，我会更\n"
 	.string "高兴的。\p"
-	.string "那样的话，我会很乐意和你组队搭档\n"
-	.string "！\p"
+	.string "那样的话，我会很乐意和你组队搭\n"
+	.string "档！\p"
 	.string "下次再见，朋友！$"
 
 @ Unused
 TrainerHill_Roof_Text_BuiltTrainerHillToFindPartner:
-	.string "我建造这座训练师之丘只有一个原因\n"
-	.string "！\p"
+	.string "我建造这座训练师之丘只有一个原\n"
+	.string "因！\p"
 	.string "那就是找到最适合的搭档，和我组成\n"
 	.string "双打队伍！$"
 
@@ -414,8 +412,8 @@ TrainerHill_Entrance_Text_ChallengeTime:
 TrainerHill_Entrance_Text_WhatSortOfTrainersAreAhead:
 	.string "谁知道前面会遇到什么样的训练师和\n"
 	.string "宝可梦组合呢？\p"
-	.string "我只知道，我会打倒所有挡路的家伙\n"
-	.string "！$"
+	.string "我只知道，我会打倒所有挡路的家\n"
+	.string "伙！$"
 
 TrainerHill_Entrance_Text_CantWaitToTestTheWaters:
 	.string "听说各地的强大训练师都会来这座训\n"

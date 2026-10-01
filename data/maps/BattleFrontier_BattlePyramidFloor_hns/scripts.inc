@@ -614,8 +614,8 @@ BattlePyramid_Text_OneTrainersRemaining4_hns::
 	.string "训练家，完成全胜呢。$"
 
 BattlePyramid_Text_ZeroTrainersRemaining4_hns::
-	.string "现在已经没有任何一个人能打败你了\n"
-	.string "......$"
+	.string "现在已经没有任何一个人能打败你\n"
+	.string "了......$"
 
 BattlePyramid_Text_SevenTrainersRemaining5_hns::
 	.string "说不定你有实力击败剩下的7位高手\n"
@@ -678,5 +678,5 @@ BattlePyramid_Text_OneTrainersRemaining6_hns::
 	.string "续保持胜利吗？$"
 
 BattlePyramid_Text_ZeroTrainersRemaining6_hns::
-	.string "现在已经没有训练家能够挑战你了。\n"
-	.string ".....$"
+	.string "现在已经没有训练家能够挑战你了"
+	.string "。.....$"

@@ -284,8 +284,8 @@ BattleFrontier_BattlePikeLobby_Text_TakeChallenge:
 BattleFrontier_BattlePikeLobby_Text_ExplainBattlePike:
 	.string "这里举办名为选择式对战的比赛。\p"
 	.string "选择式对战的规则很简单……\p"
-	.string "在3条道路中选择1条抵达对战管道\n"
-	.string "最后的终点房间。仅此而已。\p"
+	.string "在3条道路中选择1条抵达对战管道最\n"
+	.string "后的终点房间。仅此而已。\p"
 	.string "然而，在选择的道路上会发生什么事\n"
 	.string "完全取决于挑战者的运气……\p"
 	.string "如果您达到了终点，我们将向您呈上\n"
@@ -299,14 +299,14 @@ BattleFrontier_BattlePikeLobby_Text_LookForwardToSeeingYou:
 	.string "期待您再次光临……$"
 
 BattleFrontier_BattlePikeLobby_Text_WhichChallengeMode:
-	.string "您有2个选择，Lv. 50级和自\n"
-	.string "由等级。要挑战哪个？$"
+	.string "您有2个选择，Lv. 50级和自由等\n"
+	.string "级。要挑战哪个？$"
 
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLv50:
 	.string "冒昧打扰，但……\p"
 	.string "您能够参加对战的宝可梦不满3只。\p"
-	.string "您需要准备3只等级50以内的不同\n"
-	.string "种类的宝可梦，\p"
+	.string "您需要准备3只等级50以内的不同种\n"
+	.string "类的宝可梦，\p"
 	.string "并且让它们分别携带不同道具才可参\n"
 	.string "加对战。\p"
 	.string "此外，蛋{STR_VAR_1}！$"
@@ -338,8 +338,7 @@ BattleFrontier_BattlePikeLobby_Text_ChallengeEndedRecordResults:
 
 BattleFrontier_BattlePikeLobby_Text_PossessLuckInAbundance:
 	.string "您完成了挑战……\p"
-	.string "不得不说……您好像拥有非凡的运气\n"
-	.string "……$"
+	.string "不得不说……您好像拥有非凡的运气……$"
 
 BattleFrontier_BattlePikeLobby_Text_ShallRecordResults:
 	.string "正在记录结果。请稍等……$"
@@ -351,15 +350,14 @@ BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints2:
 
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_ReachedBattlePointLimit:
-	.string "看起来您的对战点数已经达到上限…\n"
-	.string "…\p"
+	.string "看起来您的对战点数已经达到上限……\p"
 	.string "请用对战点数兑换奖品后再回来……$"
 
 BattleFrontier_BattlePikeLobby_Text_FailedToSaveBeforeQuitting:
 	.string "冒昧打扰，但……\p"
 	.string "您在上次结束时没有成功写入记录。\p"
-	.string "真抱歉……没有写入记录的挑战我们\n"
-	.string "将视其为无效。$"
+	.string "真抱歉……没有写入记录的挑战我们将\n"
+	.string "视其为无效。$"
 
 BattleFrontier_BattlePikeLobby_Text_SnatchedVictoryFromQueen:
 	.string "恭喜……\p"
@@ -377,8 +375,8 @@ BattleFrontier_BattlePikeLobby_Text_OneRoomAwayFromGoal:
 	.string "之类的异常状态。$"
 
 BattleFrontier_BattlePikeLobby_Text_NeverHadToBattleTrainer:
-	.string "我已经完成了10次挑战，但我没有\n"
-	.string "和任何一个训练家对战过。$"
+	.string "我已经完成了10次挑战，但我没有和\n"
+	.string "任何一个训练家对战过。$"
 
 BattleFrontier_BattlePikeLobby_Text_ThinkAbilitiesUsefulHere:
 	.string "听着！听着！\p"

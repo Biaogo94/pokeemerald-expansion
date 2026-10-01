@@ -56,8 +56,8 @@ Route41_Text_SwimmermBerkeBeaten:
 	.string "你强大的秘诀究竟是什么？$"
 
 Route41_Text_SwimmermBerkeAfter:
-	.string "那是一个漆黑而暴风雨交加的夜晚。\n"
-	.string ".....\p"
+	.string "那是一个漆黑而暴风雨交加的夜晚"
+	.string "。.....\p"
 	.string "我看见一只巨大的宝可梦从岛上飞了\n"
 	.string "出来。\p"
 	.string "它银色的羽翼上洒下点点光芒。$"

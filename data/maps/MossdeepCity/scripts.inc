@@ -391,24 +391,23 @@ MossdeepCity_Text_CitySign:
 	.string "宝可梦！”$"
 
 MossdeepCity_Text_SpaceCenterSign:
-	.string "绿岭市宇宙中心“最接近宇宙的地方\n"
-	.string "。”$"
+	.string "绿岭市宇宙中心“最接近宇宙的地\n"
+	.string "方。”$"
 
 MossdeepCity_Text_ScottSomethingWrongWithTown:
 	.string "亚希达：{PLAYER}\n"
-	.string "{KUN}，还好吗？我这儿很顺利\l"
-	.string "！\p"
+	.string "{KUN}，还好吗？我这儿很顺\l"
+	.string "利！\p"
 	.string "我听说绿岭市的道馆馆主实力很强，\n"
 	.string "所以我打算过来亲眼见识一下。\p"
 	.string "但这镇子上好像不太对劲，\p"
 	.string "人们都在谈论什么宇宙中心和一封警\n"
 	.string "告信……\p"
-	.string "虽然我觉得这事跟我没啥关系就是了\n"
-	.string "。$"
+	.string "虽然我觉得这事跟我没啥关系就是\n"
+	.string "了。$"
 
 MossdeepCity_Text_SootopolisNewGymLeader:
-	.string "啊……海浪冲刷双脚的感觉……真好\n"
-	.string "……\p"
+	.string "啊……海浪冲刷双脚的感觉……真好……\p"
 	.string "说到海浪，你知道那个水上城市琉璃\n"
 	.string "市吗？\p"
 	.string "那儿的道馆来了个新馆主，\p"

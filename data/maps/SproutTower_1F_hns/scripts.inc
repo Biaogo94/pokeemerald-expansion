@@ -63,8 +63,7 @@ SproutTower_Text_1F_Sage2:
 	.string "梦而建造的。$"
 
 SproutTower_Text_1F_Granny:
-	.string "高达100英尺的喇叭芽……\n"
-	.string ".\p"
+	.string "高达100英尺的喇叭芽…….\p"
 	.string "人们都说它化作了这里的中心支柱。$"
 
 SproutTower_Text_1F_Teacher:

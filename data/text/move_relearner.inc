@@ -27,8 +27,7 @@ MoveRelearner_Text_HaveNoPkmn:
 	.string "你没有同行的宝可梦！$"
 
 MoveRelearner_Text_CantTeachMoveToEgg:
-	.string "抱歉……但是蛋是没法学会\n"
-	.string "招式的。$"
+	.string "抱歉……但是蛋是没法学会招式的。$"
 
 MoveRelearner_Text_CantTeachMoveToPkmn:
 	.string "抱歉……\p"
@@ -51,8 +50,8 @@ MoveRelearner_Text_MoveLWR::
 	.string "招式$"
 
 MoveRelearner_Text_WhichXmoveShouldTeach:
-	.string "要学习哪个{STR_VAR_3}\n"
-	.string "？$"
+	.string "要学习哪个\n"
+	.string "{STR_VAR_3}？$"
 
 MoveRelearner_Text_ThankYouComeAgain:
 	.string "想让宝可梦学习招式时再过来吧。$"

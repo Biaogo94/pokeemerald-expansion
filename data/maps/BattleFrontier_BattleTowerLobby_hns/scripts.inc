@@ -981,13 +981,13 @@ BattleFrontier_BattleTowerLobby_Text_ProgressWillBeSaved_hns:
 BattleFrontier_BattleTowerLobby_Text_AboutToFace50thTrainer_hns:
 	.string "您终于要挑战第50位训练家了。\p"
 	.string "从现在开始，每当您达成7连胜，您\n"
-	.string "的宝可梦都将获得一枚纪念缎带勋章\l"
-	.string "。\p"
+	.string "的宝可梦都将获得一枚纪念缎带勋\l"
+	.string "章。\p"
 	.string "祝您好运！$"
 
 BattleFrontier_BattleTowerLobby_Text_HereAreSomeRibbons_hns:
-	.string "这是连胜7位强力训练家的缎带勋章\n"
-	.string "。\p"
+	.string "这是连胜7位强力训练家的缎带勋\n"
+	.string "章。\p"
 	.string "{PLAYER}获得了缎带勋章！$"
 
 BattleFrontier_BattleTowerLobby_Text_PutRibbonOnMons_hns:
@@ -996,12 +996,12 @@ BattleFrontier_BattleTowerLobby_Text_PutRibbonOnMons_hns:
 
 BattleFrontier_BattleTowerLobby_Text_DescribeFeelingsAboutBattleTower_hns:
 	.string "打扰一下，请问有空吗？\p"
-	.string "你能告诉我，你在对战塔对战开始前\n"
-	.string "，以及获胜或落败时的心情吗？$"
+	.string "你能告诉我，你在对战塔对战开始\n"
+	.string "前，以及获胜或落败时的心情吗？$"
 
 BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouBegin_hns:
-	.string "好的，那么你在对战开始前的心情是\n"
-	.string "？$"
+	.string "好的，那么你在对战开始前的心情\n"
+	.string "是？$"
 
 BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouveWon_hns:
 	.string "那么获胜时的心情呢？$"
@@ -1046,8 +1046,8 @@ BattleFrontier_BattleTowerLobby_Text_LookForwardToAnotherChallenge_hns:
 	.string "期待您的再次挑战！$"
 
 BattleFrontier_BattleTowerLobby_Text_WhichLevelMode_hns:
-	.string "对战室提供两种挑战等级：50级和\n"
-	.string "自由等级。你要选择哪一个？$"
+	.string "对战室提供两种挑战等级：50级和自\n"
+	.string "由等级。你要选择哪一个？$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_PleaseSelectMons_hns:
@@ -1071,8 +1071,7 @@ BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50_hns:
 	.string "你没有{STR_VAR_2}只符\n"
 	.string "合参赛条件的宝可梦。\p"
 	.string "参赛需要{STR_VAR_2}只\n"
-	.string "50级以下且种类各不相同的宝可\l"
-	.string "梦。\p"
+	.string "50级以下且种类各不相同的宝可梦。\p"
 	.string "它们携带的道具也不能相同。\p"
 	.string "蛋{STR_VAR_1}。$"
 
@@ -1092,8 +1091,8 @@ BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpen_hns:
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50_hnsSingles_hns:
 	.string "不好意思！\p"
 	.string "您没有3只符合参赛资格的宝可梦。\p"
-	.string "参赛必须拥有3只不同的、等级在5\n"
-	.string "0级以下的宝可梦。\p"
+	.string "参赛必须拥有3只不同的、等级在50\n"
+	.string "级以下的宝可梦。\p"
 	.string "并且它们所携带的道具种类也必须各\n"
 	.string "不相同。\p"
 	.string "蛋{STR_VAR_1}。$"
@@ -1101,40 +1100,40 @@ BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50_hnsSingles_hns:
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpen_hnsSingles_hns:
 	.string "非常抱歉！\p"
 	.string "你没有3只符合参赛条件的宝可梦。\p"
-	.string "参赛需要3只种类各不相同的宝可梦\n"
-	.string "。\p"
+	.string "参赛需要3只种类各不相同的宝可\n"
+	.string "梦。\p"
 	.string "它们携带的道具也不能相同。\p"
 	.string "蛋{STR_VAR_1}。$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50_hnsDoubles_hns:
 	.string "非常抱歉！\p"
 	.string "你没有4只符合参赛条件的宝可梦。\p"
-	.string "参赛需要4只50级以下且种类各不\n"
-	.string "相同的宝可梦。\p"
+	.string "参赛需要4只50级以下且种类各不相\n"
+	.string "同的宝可梦。\p"
 	.string "它们携带的道具也不能相同。\p"
 	.string "蛋{STR_VAR_1}。$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpen_hnsDoubles_hns:
 	.string "非常抱歉！\p"
 	.string "你没有4只符合参赛条件的宝可梦。\p"
-	.string "参赛需要4只种类各不相同的宝可梦\n"
-	.string "。\p"
+	.string "参赛需要4只种类各不相同的宝可\n"
+	.string "梦。\p"
 	.string "它们携带的道具也不能相同。\p"
 	.string "蛋{STR_VAR_1}。$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50_hnsMultis_hns:
 	.string "非常抱歉！\p"
 	.string "你没有2只符合参赛条件的宝可梦。\p"
-	.string "参赛需要2只50级以下且种类各不\n"
-	.string "相同的宝可梦。\p"
+	.string "参赛需要2只50级以下且种类各不相\n"
+	.string "同的宝可梦。\p"
 	.string "它们携带的道具也不能相同。\p"
 	.string "蛋{STR_VAR_1}。$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpen_hnsMultis_hns:
 	.string "非常抱歉！\p"
 	.string "你没有2只符合参赛条件的宝可梦。\p"
-	.string "参赛需要2只种类各不相同的宝可梦\n"
-	.string "。\p"
+	.string "参赛需要2只种类各不相同的宝可\n"
+	.string "梦。\p"
 	.string "它们携带的道具也不能相同。\p"
 	.string "蛋{STR_VAR_1}。$"
 
@@ -1199,8 +1198,8 @@ BattleFrontier_BattleTowerLobby_Text_ExplainMultisChallenge_hns:
 	.string "的设施。\p"
 	.string "多人对战需要与塔内的训练家搭档，\n"
 	.string "双方各派2只宝可梦参赛。\p"
-	.string "塔内有一个名为“对战沙龙”的房\n"
-	.string "间，可以在那里遇到其他训练家。\p"
+	.string "塔内有一个名为“对战沙龙”的房间，\n"
+	.string "可以在那里遇到其他训练家。\p"
 	.string "你必须在那里找到一位训练家，作为\n"
 	.string "多人对战的搭档。\p"
 	.string "组成搭档后，就会被带到多人对战\n"
@@ -1227,8 +1226,8 @@ BattleFrontier_BattleTowerLobby_Text_TakeLinkMultisChallenge_hns:
 BattleFrontier_BattleTowerLobby_Text_ExplainLinkMultisChallenge_hns:
 	.string "对战塔的多人对战室，是与朋友一起\n"
 	.string "进行多人对战的设施。\p"
-	.string "挑战时需要使用无线适配器或GBA\n"
-	.string "专用通信线与朋友进行连接。\p"
+	.string "挑战时需要使用无线适配器或GBA专\n"
+	.string "用通信线与朋友进行连接。\p"
 	.string "你必须与朋友组队，并且各自派出2\n"
 	.string "只不同种类的宝可梦。\p"
 	.string "对战塔里有许多用于团队对战的多人\n"
@@ -1249,8 +1248,8 @@ BattleFrontier_BattleTowerLobby_Text_PleaseSelectTwoMons_hns2_hns:
 BattleFrontier_BattleTowerLobby_Text_ChoseSameMonAsFriend_hns:
 	.string "你选择了与朋友相同种类的宝可梦。\p"
 	.string "请选择与朋友不同的2只宝可梦，并\n"
-	.string "统一要参加的等级后，重新进行报名\l"
-	.string "。$"
+	.string "统一要参加的等级后，重新进行报\l"
+	.string "名。$"
 
 BattleFrontier_BattleTowerLobby_Text_LinkMultiOnlyForTwoPlayers_hns:
 	.string "通信多人对战室的挑战仅限2名通信\n"
@@ -1283,8 +1282,8 @@ BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlMode_hnsSameMon_hnss
 
 BattleFrontier_BattleTowerLobby_Text_ChooseDifferentMonsMatchLvlMode_hns:
 	.string "请选择与朋友不同的2只宝可梦，并\n"
-	.string "统一要参加的等级后，重新进行报名\l"
-	.string "。$"
+	.string "统一要参加的等级后，重新进行报\l"
+	.string "名。$"
 
 BattleFrontier_BattleTowerLobby_Text_SaveGameBeforeShowingIn_hns:
 	.string "在带您入场前需要先保存记录。请稍\n"
@@ -1300,8 +1299,8 @@ BattleFrontier_BattleTowerLobby_Text_AwardYouTheseBattlePoints_hns:
 
 BattleFrontier_Text_ObtainedXBattlePoints_hns:
 	.string "{PLAYER}获得了\n"
-	.string "{STR_VAR_1}点对战点数\l"
-	.string "。$"
+	.string "{STR_VAR_1}点对战点\l"
+	.string "数。$"
 
 BattleFrontier_BattleTowerLobby_Text_RulesAreListed_hns:
 	.string "这里列出了对战塔的规则。$"
@@ -1310,13 +1309,13 @@ BattleFrontier_BattleTowerLobby_Text_ReadWhichHeading_hns:
 	.string "想了解哪一项？$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainTowerRules_hns:
-	.string "对战塔是进行4种对战的设施--单\n"
-	.string "打对战、双打对战、多人对战以及通\l"
-	.string "信多人对战。\p"
-	.string "每种对战模式都有各自独立的对战室\n"
-	.string "。\p"
-	.string "请前往对应对战模式的接待柜台报名\n"
-	.string "。$"
+	.string "对战塔是进行4种对战的设施--单打\n"
+	.string "对战、双打对战、多人对战以及通信\l"
+	.string "多人对战。\p"
+	.string "每种对战模式都有各自独立的对战\n"
+	.string "室。\p"
+	.string "请前往对应对战模式的接待柜台报\n"
+	.string "名。$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainMonRules_hns:
 	.string "根据你所进入的对战室不同，需要携\n"
@@ -1336,8 +1335,8 @@ BattleFrontier_BattleTowerLobby_Text_ExplainSalonRules_hns:
 BattleFrontier_BattleTowerLobby_Text_ExplainMultiLinkRules_hns:
 	.string "通信多人对战模式是两位朋友一起并\n"
 	.string "肩挑战的模式。\p"
-	.string "你和朋友必须通过无线适配器或\n"
-	.string "GBA专用通信线进行连接。\p"
+	.string "你和朋友必须通过无线适配器或GBA\n"
+	.string "专用通信线进行连接。\p"
 	.string "在报名柜台时，每人必须各自选择2\n"
 	.string "只宝可梦。\p"
 	.string "这些宝可梦不能与朋友的重复。\p"

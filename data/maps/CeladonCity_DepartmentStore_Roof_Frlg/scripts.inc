@@ -299,8 +299,8 @@ Text_ReceivedItemFromLittleGirl::
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM16::
 	.string "TM16是光墙。\p"
-	.string "这个技能可以削弱你对手的特殊攻击\n"
-	.string "。$"
+	.string "这个技能可以削弱你对手的特殊攻\n"
+	.string "击。$"
 
 CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis::
 	.string "太好了！\p"
@@ -319,8 +319,8 @@ CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis::
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM33::
 	.string "TM33是反射壁。\p"
-	.string "这个技能可以削弱你对手的物理攻击\n"
-	.string "。$"
+	.string "这个技能可以削弱你对手的物理攻\n"
+	.string "击。$"
 
 CeladonCity_DepartmentStore_Roof_Text_DontHaveSpaceForThis::
 	.string "你的背包满了！$"
@@ -329,10 +329,10 @@ CeladonCity_DepartmentStore_Roof_Text_ImNotThirstyAfterAll::
 	.string "不用了，谢谢！我一点不渴了！$"
 
 CeladonCity_DepartmentStore_Roof_Text_MySisterIsImmature::
-	.string "信不信由你，我妹妹也是一个训练家\n"
-	.string "。\p"
-	.string "不过，她太任性了，都快把我逼疯了\n"
-	.string "！$"
+	.string "信不信由你，我妹妹也是一个训练\n"
+	.string "家。\p"
+	.string "不过，她太任性了，都快把我逼疯\n"
+	.string "了！$"
 
 CeladonCity_DepartmentStore_Roof_Text_ImThirstyIWantDrink::
 	.string "我渴！我要喝饮料嘛！$"

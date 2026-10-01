@@ -74,7 +74,7 @@ RustboroCity_Mart_Text_ShouldBuySuperPotionsInstead:
 	.string "我得买些厉害伤药来代替普通伤药。$"
 
 RustboroCity_Mart_Text_GettingEscapeRopeJustInCase:
-	.string "我要买些离洞绳，避免在山洞里迷路\n"
-	.string "。\p"
+	.string "我要买些离洞绳，避免在山洞里迷\n"
+	.string "路。\p"
 	.string "这样只要用它就能回到入口了。$"
 

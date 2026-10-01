@@ -67,8 +67,8 @@ LilycoveCity_MoveDeletersHouse_EventScript_LastMonWithSurf::
 	end
 
 LilycoveCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove:
-	.string "呃......噢，对了，我是招式\n"
-	.string "遗忘爷爷。\p"
+	.string "呃......噢，对了，我是招式遗忘爷\n"
+	.string "爷。\p"
 	.string "我能让宝可梦忘记它们学会的招式。\p"
 	.string "需要我帮忙吗？$"
 
@@ -96,8 +96,8 @@ LilycoveCity_MoveDeletersHouse_Text_ComeAgain:
 	.string "想想要忘记招式，就想起俺来吧！$"
 
 LilycoveCity_MoveDeletersHouse_Text_EggCantForgetMoves:
-	.string "啥？那是蛋呐。什么招式都学不会哟\n"
-	.string "……$"
+	.string "啥？那是蛋呐。什么招式都学不会\n"
+	.string "哟……$"
 
 LilycoveCity_MoveDeletersHouse_Text_CantForgetSurf:
 	.string "嗯……\p"

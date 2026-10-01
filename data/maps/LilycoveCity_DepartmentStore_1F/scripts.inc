@@ -156,8 +156,7 @@ LilycoveCity_DepartmentStore_1F_Text_Azumarill:
 	.string "露力丽：玛丽露丽露丽！$"
 
 LilycoveCity_DepartmentStore_1F_Text_FloorNamesSign:
-	.string "1F： 服务前台     彩票中\n"
-	.string "心\p"
+	.string "1F： 服务前台     彩票中心\p"
 	.string "2F： 训练家地带\p"
 	.string "3F： 战斗收藏\p"
 	.string "4F： 招式学习器中心\p"

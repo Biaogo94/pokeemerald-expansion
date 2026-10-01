@@ -25,8 +25,8 @@ FortreeCity_House5_Text_TreeHousesAreGreat:
 	.string "的地方。$"
 
 FortreeCity_House5_Text_AdaptedToNature:
-	.string "为了生存，人类和宝可梦适应了自然\n"
-	.string "，\p"
+	.string "为了生存，人类和宝可梦适应了自\n"
+	.string "然，\p"
 	.string "因此我们没必要让自然遵循我们的规\n"
 	.string "则。$"
 

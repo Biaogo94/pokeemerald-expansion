@@ -98,13 +98,13 @@ Route15_Text_TeacherColetteBeaten:
 	.string "呀啊--！$"
 
 Route15_Text_TeacherColetteAfterBattle:
-	.string "在当老师之前，我也经常丢三落四的\n"
-	.string "。$"
+	.string "在当老师之前，我也经常丢三落四\n"
+	.string "的。$"
 
 Route15_Text_TeacherHillarySeen:
 	.string "大晴天的时候，孩子们比起在教室里\n"
-	.string "学习，应该更想在操场上奔跑玩耍吧\l"
-	.string "。$"
+	.string "学习，应该更想在操场上奔跑玩耍\l"
+	.string "吧。$"
 
 Route15_Text_TeacherHillaryBeaten:
 	.string "我本来不想输的……$"
@@ -144,8 +144,8 @@ Route15_Text_SchoolboyTommyBeaten:
 	.string "我忘了写作业啦！$"
 
 Route15_Text_SchoolboyTommyAfterBattle:
-	.string "“撒哟哪啦”！这可是我刚在日语课\n"
-	.string "上学到的！$"
+	.string "“撒哟哪啦”！这可是我刚在日语课上\n"
+	.string "学到的！$"
 
 Route15_Text_SchoolboyJohnnySeen:
 	.string "我们的社会实践课是要去紫苑广播电\n"

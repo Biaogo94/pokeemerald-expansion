@@ -35,7 +35,7 @@ Route3_Text_BenDefeat::
 Route3_Text_BenPostBattle::
 	.string "你用过宝可梦中心的电脑来存放宝可\n"
 	.string "梦吗？\p"
-	.string "每个盒子最多可以存放30个宝可梦\n"
+	.string "每个盒子最多可以存放30个宝可梦"
 	.string "。$"
 
 Route3_Text_JaniceIntro::
@@ -58,8 +58,8 @@ Route3_Text_GregDefeat::
 	.string "了！$"
 
 Route3_Text_GregPostBattle::
-	.string "如果电脑里的一个宝可梦寄存箱满了\n"
-	.string "，就切换到另一个盒子去。$"
+	.string "如果电脑里的一个宝可梦寄存箱满\n"
+	.string "了，就切换到另一个盒子去。$"
 
 Route3_Text_SallyIntro::
 	.string "似乎你总在让着我……这真是太有趣\n"

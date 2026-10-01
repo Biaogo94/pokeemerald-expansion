@@ -304,8 +304,8 @@ VermilionCity_Gym_Text_LtSurgePostBattle::
 
 VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
 	.string "橘色徽章能提升你宝可梦的速度！\p"
-	.string "能让你的宝可梦飞翔得像闪电一样快\n"
-	.string "，\p"
+	.string "能让你的宝可梦飞翔得像闪电一样\n"
+	.string "快，\p"
 	.string "你很特别啊，小子！拿着这个吧！$"
 
 VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
@@ -317,8 +317,8 @@ VermilionCity_Gym_Text_ExplainTM34::
 	.string "把它教给一只电属性宝可梦！$"
 
 VermilionCity_Gym_Text_MakeRoomInYourBag::
-	.string "哟，小子，把你的背包里腾出空间来\n"
-	.string "！$"
+	.string "哟，小子，把你的背包里腾出空间\n"
+	.string "来！$"
 
 VermilionCity_Gym_Text_LtSurgeDefeat::
 	.string "真是令人吃惊！\p"
@@ -339,8 +339,8 @@ VermilionCity_Gym_Text_TuckerPostBattle::
 	.string "名。$"
 
 VermilionCity_Gym_Text_BailyIntro::
-	.string "虽然我体重很轻，但是我擅长使用电\n"
-	.string "！\p"
+	.string "虽然我体重很轻，但是我擅长使用\n"
+	.string "电！\p"
 	.string "所以我加入了这个道馆。$"
 
 VermilionCity_Gym_Text_BailyDefeat::
@@ -362,8 +362,9 @@ VermilionCity_Gym_Text_DwaynePostBattle::
 	.string "训练馆的机关是马志士亲自安装的。\p"
 	.string "他做的机关都是双层的。我给你点提\n"
 	.string "示吧。\p"
-	.string "如果你找到了打开第一道电锁的开关\n"
-	.string "，第二道电锁的开关就在它的附近。$"
+	.string "如果你找到了打开第一道电锁的开\n"
+	.string "关，第二道电锁的开关就在它的附\l"
+	.string "近。$"
 
 VermilionCity_Gym_Text_GymGuyAdvice::
 	.string "嗨！未来的冠军！\p"

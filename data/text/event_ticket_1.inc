@@ -1,7 +1,7 @@
 EventTicket_Text_ShowOldSeaMap:
 	.string "去凯那市的渡轮……\p"
-	.string "嗯？什么？要去地图上的这个地方吗\n"
-	.string "？\p"
+	.string "嗯？什么？要去地图上的这个地方\n"
+	.string "吗？\p"
 	.string "我认得一个人，也许能帮上你。请稍\n"
 	.string "等。$"
 
@@ -12,8 +12,8 @@ EventTicket_Text_ThatPass:
 EventTicket_Text_ShowEonTicket:
 	.string "嘿，伙计，拿着那张奇怪的船票的人\n"
 	.string "就是你吗？\p"
-	.string "我说，那可是南方非常远的一个小岛\n"
-	.string "，\p"
+	.string "我说，那可是南方非常远的一个小\n"
+	.string "岛，\p"
 	.string "而且谁也不知道到那儿之后会碰上什\n"
 	.string "么东西，想想就激动啊！\p"
 	.string "上船了！$"

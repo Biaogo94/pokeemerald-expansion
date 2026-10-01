@@ -453,8 +453,8 @@ BattleFrontier_BattleDomeLobby_Text_ExplainSinglesChallenge_hns:
 	.string "战的锦标赛。\p"
 	.string "所有参赛的训练家必须各自派出3只\n"
 	.string "宝可梦。\p"
-	.string "在每场对战中，必须将3只中的1只\n"
-	.string "宝可梦作为候补。\p"
+	.string "在每场对战中，必须将3只中的1只宝\n"
+	.string "可梦作为候补。\p"
 	.string "另外2只宝可梦将依次进行对战。\p"
 	.string "在确认对手的3只宝可梦后，再决定\n"
 	.string "出场的2只宝可梦。\p"
@@ -474,8 +474,8 @@ BattleFrontier_BattleDomeLobby_Text_WhichLevelMode_hns:
 	.string "别。您要选择哪一个？$"
 
 BattleFrontier_BattleDomeLobby_Text_SelectThreeMons_hns:
-	.string "那么请选择您想要参赛的3只宝可梦\n"
-	.string "。$"
+	.string "那么请选择您想要参赛的3只宝可\n"
+	.string "梦。$"
 
 BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsLvOpen_hns:
 	.string "不好意思！\p"
@@ -490,8 +490,8 @@ BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsEnd_hns:
 BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsLv50_hns:
 	.string "不好意思！\p"
 	.string "您没有3只符合参赛资格的宝可梦。\p"
-	.string "参赛必须拥有3只不同的、等级在5\n"
-	.string "0级以下的宝可梦。\p"
+	.string "参赛必须拥有3只不同的、等级在50\n"
+	.string "级以下的宝可梦。\p"
 	.string "并且它们所携带的道具种类也必须各\n"
 	.string "不相同。\p"
 	.string "蛋{STR_VAR_1}。$"
@@ -549,13 +549,13 @@ BattleFrontier_BattleDomeLobby_Text_ExplainDoublesChallenge_hns:
 	.string "打对战进行的锦标赛。\p"
 	.string "所有参赛的训练家必须各自派出3只\n"
 	.string "宝可梦。\p"
-	.string "在每场对战中，3只宝可梦中必须有\n"
-	.string "1只作为后备留在场下。\p"
+	.string "在每场对战中，3只宝可梦中必须有1\n"
+	.string "只作为后备留在场下。\p"
 	.string "剩下的2只宝可梦将参加双打对战。\p"
 	.string "在查看对手的3只宝可梦后，选择出\n"
 	.string "场的2只宝可梦。\p"
-	.string "击败4位训练家即可赢得锦标赛冠军\n"
-	.string "。\p"
+	.string "击败4位训练家即可赢得锦标赛冠\n"
+	.string "军。\p"
 	.string "锦标赛冠军将获得对战点数奖励。\p"
 	.string "如果想中途暂停锦标赛，请保存游戏\n"
 	.string "记录。\p"
@@ -563,12 +563,12 @@ BattleFrontier_BattleDomeLobby_Text_ExplainDoublesChallenge_hns:
 	.string "格。$"
 
 BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsSinglesLv50_hns:
-	.string "这是上一届50级单打对战锦标赛的\n"
-	.string "结果。$"
+	.string "这是上一届50级单打对战锦标赛的结\n"
+	.string "果。$"
 
 BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsDoublesLv50_hns:
-	.string "这是上一届50级双打对战锦标赛的\n"
-	.string "结果。$"
+	.string "这是上一届50级双打对战锦标赛的结\n"
+	.string "果。$"
 
 BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsSinglesLvOpen_hns:
 	.string "这是上一届公开等级单打对战锦标赛\n"
@@ -586,13 +586,13 @@ BattleFrontier_BattleDomeLobby_Text_LastWinnerWasTough_hns:
 	.string "赛结果。$"
 
 BattleFrontier_OutsideWest_Text_LongDreamedAboutBattleFrontier_hns:
-	.string "对战开拓区……我一直梦想\n"
-	.string "着有这样一个地方。$"
+	.string "对战开拓区……我一直梦想着有这样一\n"
+	.string "个地方。$"
 
 @ Functionally unused
 BattleFrontier_OutsideWest_Text_BattleDomeSign2_hns:
-	.string "对战巨蛋成为战无不胜的超级巨星吧\n"
-	.string "！$"
+	.string "对战巨蛋成为战无不胜的超级巨星\n"
+	.string "吧！$"
 
 @ Functionally unused
 BattleFrontier_OutsideWest_Text_QuestionMarkUnderConstruction_hns:
@@ -608,8 +608,7 @@ BattleFrontier_BattleDomeLobby_Text_WinnersGainReputation_hns:
 
 BattleFrontier_BattleDomeLobby_Text_TrashedInFirstRound_hns:
 	.string "我在第一轮就碰上了夺冠大热门。\p"
-	.string "结果当然是被打得落花流水……\n"
-	.string "..$"
+	.string "结果当然是被打得落花流水……..$"
 
 BattleFrontier_BattleDomeLobby_Text_NeedToCheckOpponentCarefully_hns:
 	.string "要是当时我把这只宝可梦作为后备留\n"
@@ -653,5 +652,5 @@ BattleFrontier_BattleDomeLobby_Text_ExplainTourneyTree_hns:
 
 BattleFrontier_BattleDomeLobby_Text_ExplainDoubleKORules_hns:
 	.string "如果在锦标赛对战中，双方宝可梦同\n"
-	.string "时倒下--即出现同归于尽的情况，\l"
-	.string "裁判将对比赛进行裁决并宣布胜者。$"
+	.string "时倒下--即出现同归于尽的情况，裁\l"
+	.string "判将对比赛进行裁决并宣布胜者。$"

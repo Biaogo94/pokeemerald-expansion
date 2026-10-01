@@ -360,8 +360,8 @@ BattleFrontier_BattleArenaLobby_EventScript_ExitRules::
 BattleFrontier_BattleArenaLobby_Text_WelcomeToBattleArena:
 	.string "训练家的斗志将在此接受考验！\p"
 	.string "欢迎来到对战竞技场！\p"
-	.string "我是您的三回合定胜负锦标赛的向导\n"
-	.string "！$"
+	.string "我是您的三回合定胜负锦标赛的向\n"
+	.string "导！$"
 
 BattleFrontier_BattleArenaLobby_Text_WishToTakeChallenge:
 	.string "要挑战对战竞技场吗？$"
@@ -393,9 +393,8 @@ BattleFrontier_BattleArenaLobby_Text_OkayToSave:
 	.string "入记录。可以吗？$"
 
 BattleFrontier_BattleArenaLobby_Text_WhichLevelMode:
-	.string "对战竞技场提供2个等级的挑战，\n"
-	.string "Lv.50级和自由等级。您要选择\l"
-	.string "哪个？$"
+	.string "对战竞技场提供2个等级的挑战，Lv.\n"
+	.string "50级和自由等级。您要选择哪个？$"
 
 BattleFrontier_BattleArenaLobby_Text_SelectThreeMons:
 	.string "好的，请选择参加的3只宝可梦。$"
@@ -430,8 +429,8 @@ BattleFrontier_BattleArenaLobby_Text_DidntSaveBeforeShuttingDown:
 	.string "您在上次结束时没有写入记录吧？\p"
 	.string "非常遗憾，没有写入记录的挑战我们\n"
 	.string "将视其为无效。\p"
-	.string "当然，您随时可以开始一次新的挑战\n"
-	.string "。$"
+	.string "当然，您随时可以开始一次新的挑\n"
+	.string "战。$"
 
 BattleFrontier_BattleArenaLobby_Text_CongratsOnSevenWins:
 	.string "祝贺您完成7连胜壮举！$"
@@ -491,8 +490,8 @@ BattleFrontier_BattleArenaLobby_Text_OrderOfMonsImportant:
 	.string "举个例子，如果你的首发宝可梦存在\n"
 	.string "属性劣势，不妨让第二只宝可梦配备\l"
 	.string "能克制该劣势属性的招式。\p"
-	.string "我认为这是组建强力队伍的有效策略\n"
-	.string "。$"
+	.string "我认为这是组建强力队伍的有效策\n"
+	.string "略。$"
 
 BattleFrontier_BattleArenaLobby_Text_RulesAreListed:
 	.string "上面列出了三回合定胜负锦标赛的规\n"
@@ -513,22 +512,21 @@ BattleFrontier_BattleArenaLobby_Text_ExplainBattleRules:
 	.string "至当前对战分出结果。$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainMindRules:
-	.string "第1个判定准则是“心”。这个因素\n"
-	.string "评价战斗者的进攻意识。\p"
+	.string "第1个判定准则是“心”。这个因素评\n"
+	.string "价战斗者的进攻意识。\p"
 	.string "判定依据的是训练家下达攻击招式的\n"
 	.string "命令的频率。$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainSkillRules:
-	.string "第2个判定准则是“技”。这个因素\n"
-	.string "评价宝可梦的招式命中。\p"
+	.string "第2个判定准则是“技”。这个因素评\n"
+	.string "价宝可梦的招式命中。\p"
 	.string "如果招式成功生效，技的评价就会上\n"
 	.string "升。\p"
 	.string "如果招式使用失败，技的评价则会下\n"
 	.string "降。\p"
-	.string "对于攻击招式，如果招式“效果绝佳\n"
-	.string "”的话，技的评价就会上升。如果“\l"
-	.string "没有效果”的话，技的评价就会下降\l"
-	.string "。\p"
+	.string "对于攻击招式，如果招式“效果绝佳”\n"
+	.string "的话，技的评价就会上升。如果“没\l"
+	.string "有效果”的话，技的评价就会下降。\p"
 	.string "对于像保护和看穿的招式，技的评价\n"
 	.string "是不会上升的。\p"
 	.string "如果对手使用了保护或看穿等招式，\n"
@@ -536,9 +534,9 @@ BattleFrontier_BattleArenaLobby_Text_ExplainSkillRules:
 	.string "评价也不会下降。$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainBodyRules:
-	.string "第3个判定准则是“体”。这个因素\n"
-	.string "评价宝可梦在战斗结束后剩余的体力\l"
-	.string "比例。\p"
+	.string "第3个判定准则是“体”。这个因素评\n"
+	.string "价宝可梦在战斗结束后剩余的体力比\l"
+	.string "例。\p"
 	.string "这个准则会同时参考宝可梦战斗开始\n"
 	.string "时的体力和战斗结束后剩余的体力。$"
 

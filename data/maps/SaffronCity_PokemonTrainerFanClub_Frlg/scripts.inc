@@ -405,8 +405,8 @@ SaffronCity_PokemonTrainerFanClub_Text_AlwaysCheerForYou::
 	.string "加油，{PLAYER}！$"
 
 SaffronCity_PokemonTrainerFanClub_Text_IllAlwaysBelieveInYou::
-	.string "我会一直相信你，{PLAYER}\n"
-	.string "。\p"
+	.string "我会一直相信你，\n"
+	.string "{PLAYER}。\p"
 	.string "当你认真战斗时，向别人展现自己。$"
 
 SaffronCity_PokemonTrainerFanClub_Text_WasYourFanNotAnymore::
@@ -445,13 +445,12 @@ SaffronCity_PokemonTrainerFanClub_Text_BrocksMyHero::
 	.string "小刚是我心中的英雄！他是男人中的\n"
 	.string "男人！\p"
 	.string "呵呵，我让妈妈给我做了点事。\p"
-	.string "我让她在我的短裤上绣上了“小刚”\n"
+	.string "我让她在我的短裤上绣上了“小刚”"
 	.string "！$"
 
 SaffronCity_PokemonTrainerFanClub_Text_BrocksFanToBitterEnd::
 	.string "......  ......\p"
-	.string "......  ......我是\n"
-	.string "小刚的粉丝！\p"
+	.string "......  ......我是小刚的粉丝！\p"
 	.string "就算全世界只剩我一个粉丝，我也赌\n"
 	.string "上如磐石般的意志，以及我的短裤发\l"
 	.string "誓！\p"
@@ -471,11 +470,11 @@ SaffronCity_PokemonTrainerFanClub_Text_HadPleasureOfWatchingYouBattle::
 
 SaffronCity_PokemonTrainerFanClub_Text_NeverSeenTrainerOfYourMagnificence::
 	.string "我到过很多地方旅行。\p"
-	.string "但我从没见过像你这么伟大的训练家\n"
-	.string "。\p"
+	.string "但我从没见过像你这么伟大的训练\n"
+	.string "家。\p"
 	.string "相信自己的能力继续战斗吧！\p"
-	.string "以此作为对我的承诺吧，我的小偶像\n"
-	.string "！$"
+	.string "以此作为对我的承诺吧，我的小偶\n"
+	.string "像！$"
 
 SaffronCity_PokemonTrainerFanClub_Text_HmmAndYouAre::
 	.string "嗯……你是谁？\p"
@@ -493,7 +492,7 @@ SaffronCity_PokemonTrainerFanClub_Text_YouveStillAWaysToGo::
 SaffronCity_PokemonTrainerFanClub_Text_YoullBeTalkedAboutIfYouKeepWinning::
 	.string "聚集在这里的人都是宝可梦训练家的\n"
 	.string "粉丝。\p"
-	.string "他们看战斗的方式……是出色的画面\n"
+	.string "他们看战斗的方式……是出色的画面"
 	.string "。\p"
 	.string "如果你继续胜利下去的话，也许在这\n"
 	.string "里你会成为这里的话题。$"
@@ -537,13 +536,13 @@ SaffronCity_PokemonTrainerFanClub_Text_TheWayYouBattleIsCool::
 SaffronCity_PokemonTrainerFanClub_Text_ImOnlyOneLeftOfYourFans::
 	.string "哟，{PLAYER}！\p"
 	.string "看起来我是你唯一仅剩的粉丝了。\p"
-	.string "但是你知道，我喜欢作为唯一的粉丝\n"
-	.string "，这样压力小啊。\p"
+	.string "但是你知道，我喜欢作为唯一的粉\n"
+	.string "丝，这样压力小啊。\p"
 	.string "继续保持！$"
 
 SaffronCity_PokemonTrainerFanClub_Text_LoveWayTrainerTalks::
-	.string "{STR_VAR_1}很棒，对吗\n"
-	.string "？我喜欢他说话的方式。\p"
+	.string "{STR_VAR_1}很棒，对\n"
+	.string "吗？我喜欢他说话的方式。\p"
 	.string "我很想有机会亲自见他一面。$"
 
 SaffronCity_PokemonTrainerFanClub_Text_ImLoneTrainerFan::
@@ -565,8 +564,8 @@ SaffronCity_PokemonTrainerFanClub_Text_AdoreWayYouBattle::
 SaffronCity_PokemonTrainerFanClub_Text_ImYourNumberOneFan::
 	.string "哦，天哪！这不是{PLAYER}\n"
 	.string "吗！\p"
-	.string "太令人失望了……我是你唯一的头号\n"
-	.string "粉丝！\p"
+	.string "太令人失望了……我是你唯一的头号粉\n"
+	.string "丝！\p"
 	.string "没办法！至少让我为你喝彩！\p"
 	.string "加油，加油，{PLAYER}！$"
 
@@ -589,8 +588,8 @@ SaffronCity_PokemonTrainerFanClub_Text_YouReallyAreAmazing::
 	.string "一名训练家。$"
 
 SaffronCity_PokemonTrainerFanClub_Text_ImYourOnlyFan::
-	.string "我是你仅有的粉丝……唉……真是寂\n"
-	.string "寞得很……\p"
+	.string "我是你仅有的粉丝……唉……真是寂寞得\n"
+	.string "很……\p"
 	.string "你不能努力一点，让别人关注关注你\n"
 	.string "吗？$"
 
@@ -614,20 +613,19 @@ SaffronCity_PokemonTrainerFanClub_Text_YourBattleStyleIsEducational::
 	.string "我希望你能继续向着成功努力，嘿！$"
 
 SaffronCity_PokemonTrainerFanClub_Text_WontStopBeingYourFan::
-	.string "不要只是看着别人战斗，自己战斗吧\n"
-	.string "！\p"
-	.string "……我道场的掌门曾今这样训斥我…\n"
-	.string "…\p"
+	.string "不要只是看着别人战斗，自己战斗\n"
+	.string "吧！\p"
+	.string "……我道场的掌门曾今这样训斥我……\p"
 	.string "但是这不会妨碍我成为你的粉丝！\p"
 	.string "我无法不当你的粉丝！$"
 
 SaffronCity_PokemonTrainerFanClub_Text_OnlyMasterHasMyRespect::
 	.string "嗨呀！只有一个训练家能得到我的尊\n"
 	.string "敬。\p"
-	.string "在格斗道场，没有人比得过我的掌门\n"
-	.string "。\p"
-	.string "你应该像我一样成为我的掌门的粉丝\n"
-	.string "！嗨呀！$"
+	.string "在格斗道场，没有人比得过我的掌\n"
+	.string "门。\p"
+	.string "你应该像我一样成为我的掌门的粉\n"
+	.string "丝！嗨呀！$"
 
 SaffronCity_PokemonTrainerFanClub_Text_NeverBeFanOfAnyoneButMaster::
 	.string "嗨呀！我很尊敬在格斗道场的我的掌\n"

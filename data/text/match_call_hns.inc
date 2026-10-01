@@ -3,8 +3,8 @@
 
 @ Joey - Youngster, Route 30
 MatchCall_HNS_Joey_General1::
-	.string "哟，{PLAYER}！最近怎么样\n"
-	.string "？\p"
+	.string "哟，{PLAYER}！最近怎么\n"
+	.string "样？\p"
 	.string "你的宝可梦都还好吗？\p"
 	.string "我的{STR_VAR_3}跟平时\n"
 	.string "一样，干劲十足呢。\p"
@@ -19,8 +19,8 @@ MatchCall_HNS_Joey_General2::
 	.string "宝可梦吧！$"
 
 MatchCall_HNS_Joey_General3::
-	.string "哟，{PLAYER}！最近怎么样\n"
-	.string "？\p"
+	.string "哟，{PLAYER}！最近怎么\n"
+	.string "样？\p"
 	.string "我正在研究{STR_VAR_3}\n"
 	.string "的招式，琢磨一些战术呢。\p"
 	.string "等我想出好点子，咱们就来对战吧！$"
@@ -55,8 +55,8 @@ MatchCall_HNS_Wade_General2::
 MatchCall_HNS_Wade_General3::
 	.string "{PLAYER}，你好呀！\p"
 	.string "对了对了，前阵子我们一击就打倒了\n"
-	.string "一只野生的{STR_VAR_3}\l"
-	.string "。\p"
+	.string "一只野生的\l"
+	.string "{STR_VAR_3}。\p"
 	.string "它倒下得太容易了，我都觉得那可怜\n"
 	.string "的小家伙有点可怜了。$"
 
@@ -91,8 +91,7 @@ MatchCall_HNS_Ralph_General3::
 	.string "{STR_VAR_3}。\p"
 	.string "我跟我家孩子炫耀，他居然嘲笑我，\n"
 	.string "说他也能轻轻松松做到。\p"
-	.string "哎，这孩子真是越来越狂妄了...\n"
-	.string "...$"
+	.string "哎，这孩子真是越来越狂妄了......$"
 
 MatchCall_HNS_Ralph_Battle::
 	.string "嗨，{PLAYER}！\p"
@@ -110,8 +109,8 @@ MatchCall_HNS_Liz_General1::
 	.string "我和前台的护士都成朋友了呢！$"
 
 MatchCall_HNS_Liz_General2::
-	.string "嗨，{PLAYER}！你快听我说\n"
-	.string "。\p"
+	.string "嗨，{PLAYER}！你快听我\n"
+	.string "说。\p"
 	.string "我的{STR_VAR_3}真是太\n"
 	.string "可爱了！\p"
 	.string "它总是喜欢蹭我撒娇呢！$"
@@ -119,8 +118,8 @@ MatchCall_HNS_Liz_General2::
 MatchCall_HNS_Liz_General3::
 	.string "嗨，{PLAYER}！听我说听我\n"
 	.string "说！\p"
-	.string "你不觉得桔梗道馆的阿速又帅又酷吗\n"
-	.string "？\p"
+	.string "你不觉得桔梗道馆的阿速又帅又酷\n"
+	.string "吗？\p"
 	.string "不过据说他在外修行的爸爸，比阿速\n"
 	.string "还要帅气有型呢。\p"
 	.string "真希望能见他一面啊！$"
@@ -133,8 +132,8 @@ MatchCall_HNS_Liz_Battle::
 MatchCall_HNS_Anthony_General1::
 	.string "你好呀，{PLAYER}！\p"
 	.string "你的宝可梦还是那么充满活力吗？\p"
-	.string "我和我的{STR_VAR_3}-\n"
-	.string "-浑身都是使不完的劲儿。\p"
+	.string "我和我的{STR_VAR_3}--\n"
+	.string "浑身都是使不完的劲儿。\p"
 	.string "我们每天都去爬山，把旺盛的精力全\n"
 	.string "都发泄出来。$"
 
@@ -167,15 +166,15 @@ MatchCall_HNS_Todd_General1::
 	.string "或者用道具把它们变强。$"
 
 MatchCall_HNS_Todd_General2::
-	.string "喂，{PLAYER}！最近怎么样\n"
-	.string "？\p"
+	.string "喂，{PLAYER}！最近怎么\n"
+	.string "样？\p"
 	.string "我的{STR_VAR_3}看起来\n"
 	.string "和我越来越像了呢。\p"
 	.string "真是越来越可爱了！$"
 
 MatchCall_HNS_Todd_General3::
-	.string "喂，{PLAYER}！最近怎么样\n"
-	.string "？\p"
+	.string "喂，{PLAYER}！最近怎么\n"
+	.string "样？\p"
 	.string "还有，你知道吗？\p"
 	.string "现在我们能轻松搞定\n"
 	.string "{STR_VAR_3}了哦。\p"
@@ -187,25 +186,25 @@ MatchCall_HNS_Todd_Battle::
 
 @ Gina - Picnicker, Route 34
 MatchCall_HNS_Gina_General1::
-	.string "你好，{PLAYER}！最近好吗\n"
-	.string "？\p"
+	.string "你好，{PLAYER}！最近好\n"
+	.string "吗？\p"
 	.string "你的宝可梦还是那么强吗？\p"
 	.string "我每天都在和\n"
-	.string "{STR_VAR_3}一起特训呢\l"
-	.string "。$"
+	.string "{STR_VAR_3}一起特训\l"
+	.string "呢。$"
 
 MatchCall_HNS_Gina_General2::
-	.string "你好，{PLAYER}！最近好吗\n"
-	.string "？\p"
+	.string "你好，{PLAYER}！最近好\n"
+	.string "吗？\p"
 	.string "我和我的{STR_VAR_3}配\n"
 	.string "合得越来越默契了。$"
 
 MatchCall_HNS_Gina_General3::
-	.string "你好，{PLAYER}！最近好吗\n"
-	.string "？\p"
+	.string "你好，{PLAYER}！最近好\n"
+	.string "吗？\p"
 	.string "我们刚和一只野生\n"
-	.string "{STR_VAR_3}大战了一场\l"
-	.string "，好不容易才把它打倒。\p"
+	.string "{STR_VAR_3}大战了一\l"
+	.string "场，好不容易才把它打倒。\p"
 	.string "我们已经找到感觉了！$"
 
 MatchCall_HNS_Gina_Battle::
@@ -249,8 +248,8 @@ MatchCall_HNS_Arnie_General2::
 	.string "喂，{PLAYER}！最近过得怎\n"
 	.string "么样？\p"
 	.string "我一直和我家的\n"
-	.string "{STR_VAR_3}形影不离呢\l"
-	.string "！\p"
+	.string "{STR_VAR_3}形影不离\l"
+	.string "呢！\p"
 	.string "它太可爱了！我真是喜欢得不得了！$"
 
 MatchCall_HNS_Arnie_General3::
@@ -266,78 +265,78 @@ MatchCall_HNS_Arnie_Battle::
 
 @ Alan - Schoolboy, Route 36
 MatchCall_HNS_Alan_General1::
-	.string "你好，{PLAYER}！我是阿兰\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是阿\n"
+	.string "兰！\p"
 	.string "{PLAYER}，你有好好培育你\n"
 	.string "的宝可梦吗？\p"
 	.string "我在书上读到过，捉到的宝可梦都要\n"
 	.string "倾注爱心精心培育才行。$"
 
 MatchCall_HNS_Alan_General2::
-	.string "你好，{PLAYER}！我是阿兰\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是阿\n"
+	.string "兰！\p"
 	.string "我的{STR_VAR_3}正如我\n"
 	.string "计算的一样，变得越来越强了！$"
 
 MatchCall_HNS_Alan_General3::
-	.string "你好，{PLAYER}！我是阿兰\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是阿\n"
+	.string "兰！\p"
 	.string "对了，前几天我们打倒了一只野生的\n"
 	.string "{STR_VAR_3}哦。\p"
 	.string "提前学习研究果然奏效了！$"
 
 MatchCall_HNS_Alan_FoundItem::
-	.string "你好，{PLAYER}！我是阿兰\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是阿\n"
+	.string "兰！\p"
 	.string "嘿嘿嘿，我捡到了个好东西！\p"
 	.string "送给你吧！\p"
 	.string "你要不要来36号道路拿一下呢？$"
 
 MatchCall_HNS_Alan_Battle::
-	.string "你好，{PLAYER}！我是阿兰\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是阿\n"
+	.string "兰！\p"
 	.string "我一直在等你呢。来对战吧！$"
 
 @ Dana - Lass, Route 38
 MatchCall_HNS_Dana_General1::
-	.string "你好，{PLAYER}！我是达娜\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是达\n"
+	.string "娜！\p"
 	.string "我的{STR_VAR_3}精神饱\n"
 	.string "满过头了，甚至有点吓人呢。\p"
 	.string "你的宝可梦还好吗？$"
 
 MatchCall_HNS_Dana_General2::
-	.string "你好，{PLAYER}！我是达娜\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是达\n"
+	.string "娜！\p"
 	.string "我的{STR_VAR_3}越来越\n"
 	.string "漂亮了！\p"
 	.string "我都给它拍了好多好多照片呢！$"
 
 MatchCall_HNS_Dana_General3::
-	.string "你好，{PLAYER}！我是达娜\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是达\n"
+	.string "娜！\p"
 	.string "打倒野生的{STR_VAR_3}\n"
 	.string "只用了一瞬间哦。\p"
 	.string "肯定是因为你上次教了我一些对战技\n"
 	.string "巧吧。$"
 
 MatchCall_HNS_Dana_FoundItem::
-	.string "你好，{PLAYER}！我是达娜\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是达\n"
+	.string "娜！\p"
 	.string "你知道吗？我弄到了个好礼物！\p"
 	.string "照之前说好的，送给你啦！我相信你\n"
 	.string "一定会喜欢的。\p"
 	.string "快来拿吧！我在38号道路等你！$"
 
 MatchCall_HNS_Dana_Battle::
-	.string "你好，{PLAYER}！我是达娜\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是达\n"
+	.string "娜！\p"
 	.string "我一直在等你呢。来对战吧！$"
 
 @ Chad - Schoolboy, Route 38
 MatchCall_HNS_Chad_General1::
-	.string "你好，{PLAYER}！我是查德\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是查\n"
+	.string "德！\p"
 	.string "你的宝可梦还好吗？\p"
 	.string "你认识大木博士，你的宝可梦当然没\n"
 	.string "问题啦！\p"
@@ -346,8 +345,8 @@ MatchCall_HNS_Chad_General1::
 	.string "人呢。$"
 
 MatchCall_HNS_Chad_General2::
-	.string "你好，{PLAYER}！我是查德\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是查\n"
+	.string "德！\p"
 	.string "我最近开始观察野生的\n"
 	.string "{STR_VAR_3}了。\p"
 	.string "通过观察，我学到了各种各样的新知\n"
@@ -356,14 +355,14 @@ MatchCall_HNS_Chad_General2::
 	.string "宝可梦研究员啊。$"
 
 MatchCall_HNS_Chad_General3::
-	.string "你好，{PLAYER}！我是查德\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是查\n"
+	.string "德！\p"
 	.string "我要好好用功学习，争取能当上大木\n"
 	.string "博士的助手！$"
 
 MatchCall_HNS_Chad_Battle::
-	.string "你好，{PLAYER}！我是阿学\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是阿\n"
+	.string "学！\p"
 	.string "我一直在等你呢。来对战吧！$"
 
 @ Derek - Pokefan M, Route 39
@@ -415,8 +414,8 @@ MatchCall_HNS_Tully_General3::
 	.string "对了，我打倒了一只野生的\n"
 	.string "{STR_VAR_3}哦。\p"
 	.string "它可真大啊，有这么大呢！\p"
-	.string "嘿嘿，在电话里好像比划不出来啊。\n"
-	.string ".....$"
+	.string "嘿嘿，在电话里好像比划不出来啊"
+	.string "。.....$"
 
 MatchCall_HNS_Tully_FoundItem::
 	.string "喂，{PLAYER}！我是阿泰！\p"
@@ -458,8 +457,8 @@ MatchCall_HNS_Brent_Battle::
 
 @ Tiffany - Picnicker, Route 43
 MatchCall_HNS_Tiffany_General1::
-	.string "你好，{PLAYER}！我是阿玲\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是阿\n"
+	.string "玲！\p"
 	.string "你的宝可梦都还好吗？\p"
 	.string "要记得每天带它们去宝可梦中心哦。\p"
 	.string "可别太勉强它们了。\p"
@@ -468,26 +467,26 @@ MatchCall_HNS_Tiffany_General1::
 	.string "爱又有活力呢。$"
 
 MatchCall_HNS_Tiffany_General2::
-	.string "你好，{PLAYER}！我是阿玲\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是阿\n"
+	.string "玲！\p"
 	.string "我的{STR_VAR_3}超级可\n"
 	.string "爱，对不对？\p"
-	.string "我总是抱着它睡觉--软绵绵又暖烘\n"
-	.string "烘的！$"
+	.string "我总是抱着它睡觉--软绵绵又暖烘烘\n"
+	.string "的！$"
 
 MatchCall_HNS_Tiffany_General3::
-	.string "你好，{PLAYER}！我是阿玲\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是阿\n"
+	.string "玲！\p"
 	.string "对啦，刚才我和野生的\n"
-	.string "{STR_VAR_3}对战了一场\l"
-	.string "......\p"
+	.string "{STR_VAR_3}对战了一\l"
+	.string "场......\p"
 	.string "我的皮皮差点就失去战斗能力了！\p"
 	.string "是不是太讨厌了？我最讨厌恶劣的\n"
 	.string "{STR_VAR_3}了！$"
 
 MatchCall_HNS_Tiffany_Battle::
-	.string "你好，{PLAYER}！我是阿玲\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是阿\n"
+	.string "玲！\p"
 	.string "我一直在等你呢。来对战吧！$"
 
 @ Vance - Bird Keeper, Route 44
@@ -509,8 +508,7 @@ MatchCall_HNS_Vance_General3::
 	.string "喂，{PLAYER}！我是阿翔！\p"
 	.string "我们能轻轻松松搞定\n"
 	.string "{STR_VAR_3}！\p"
-	.string "……咦？你也是吗？那不是\n"
-	.string "挺棒的嘛！$"
+	.string "……咦？你也是吗？那不是挺棒的嘛！$"
 
 MatchCall_HNS_Vance_Battle::
 	.string "喂，{PLAYER}！我是阿翔！\p"
@@ -533,8 +531,7 @@ MatchCall_HNS_Wilton_General3::
 	.string "喂，{PLAYER}！我是威尔\n"
 	.string "顿！\p"
 	.string "我们打倒了一只野生的\n"
-	.string "{STR_VAR_3}....\l"
-	.string "..\p"
+	.string "{STR_VAR_3}......\p"
 	.string "不过说真的，比起打倒野生宝可梦，\n"
 	.string "我觉得还是钓鱼更有趣呢。$"
 
@@ -616,8 +613,8 @@ MatchCall_HNS_Erin_General2::
 
 MatchCall_HNS_Erin_General3::
 	.string "嗨，{PLAYER}！我是艾琳！\p"
-	.string "还有还有……我刚才对战打\n"
-	.string "倒了{STR_VAR_3}哦！\p"
+	.string "还有还有……我刚才对战打倒了\n"
+	.string "{STR_VAR_3}哦！\p"
 	.string "看来我有好好培育我的宝可梦！$"
 
 MatchCall_HNS_Erin_Battle::
@@ -642,8 +639,8 @@ MatchCall_HNS_Jack_General2::
 MatchCall_HNS_Jack_General3::
 	.string "喂，{PLAYER}！我是杰克！\p"
 	.string "你知道吗？\p"
-	.string "在下雨天的时候，“打雷”是一定会\n"
-	.string "击中目标的。\p"
+	.string "在下雨天的时候，“打雷”是一定会击\n"
+	.string "中目标的。\p"
 	.string "我朋友打听到了很多厉害的小窍门。\n"
 	.string "只要他告诉我，我就会立刻打电话转\l"
 	.string "告你的。$"
@@ -728,17 +725,17 @@ MatchCall_HNS_Gaven_Battle::
 
 @ Beth - Cooltrainer F, Route 26
 MatchCall_HNS_Beth_General1::
-	.string "你好，{PLAYER}！我是贝丝\n"
-	.string "！\p"
-	.string "你是那种经常去宝可梦中心的类型吗\n"
-	.string "？\p"
+	.string "你好，{PLAYER}！我是贝\n"
+	.string "丝！\p"
+	.string "你是那种经常去宝可梦中心的类型\n"
+	.string "吗？\p"
 	.string "我可是每天都去哦。时刻关注宝可梦\n"
 	.string "的健康，可是宝可梦训练家的基本功\l"
 	.string "呢。$"
 
 MatchCall_HNS_Beth_General2::
-	.string "你好，{PLAYER}！我是贝丝\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是贝\n"
+	.string "丝！\p"
 	.string "你还记得我那可爱的\n"
 	.string "{STR_VAR_3}吗？\p"
 	.string "{STR_VAR_3}跑得非常快\n"
@@ -747,13 +744,13 @@ MatchCall_HNS_Beth_General2::
 	.string "真是太痛快了。$"
 
 MatchCall_HNS_Beth_General3::
-	.string "你好，{PLAYER}！我是贝丝\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是贝\n"
+	.string "丝！\p"
 	.string "什么时候再来对战一场吧！$"
 
 MatchCall_HNS_Beth_Battle::
-	.string "你好，{PLAYER}！我是贝丝\n"
-	.string "！\p"
+	.string "你好，{PLAYER}！我是贝\n"
+	.string "丝！\p"
 	.string "我一直都在等你呢。来对战吧！$"
 
 @ Jose - Bird Keeper, Route 27
@@ -768,8 +765,8 @@ MatchCall_HNS_Jose_General1::
 MatchCall_HNS_Jose_General2::
 	.string "喂，{PLAYER}！我是何塞！\p"
 	.string "跟你说哦，我那只\n"
-	.string "{STR_VAR_3}拿着的大葱\l"
-	.string "，闻起来可香了。\p"
+	.string "{STR_VAR_3}拿着的大\l"
+	.string "葱，闻起来可香了。\p"
 	.string "那香味简直勾得我食欲大开！$"
 
 MatchCall_HNS_Jose_General3::
@@ -781,12 +778,11 @@ MatchCall_HNS_Jose_General3::
 
 MatchCall_HNS_Jose_FoundItem::
 	.string "喂，{PLAYER}！我是何塞！\p"
-	.string "我的大葱鸭嘴里叼着个很漂亮的东西\n"
-	.string "。\p"
-	.string "就像之前答应好的，这个就送给你吧\n"
-	.string "。\p"
-	.string "快来27号道路找我，我当面交给你\n"
-	.string "。$"
+	.string "我的大葱鸭嘴里叼着个很漂亮的东\n"
+	.string "西。\p"
+	.string "就像之前答应好的，这个就送给你\n"
+	.string "吧。\p"
+	.string "快来27号道路找我，我当面交给你。$"
 
 MatchCall_HNS_Jose_Battle::
 	.string "喂，{PLAYER}！我是何塞！\p"
@@ -855,14 +851,14 @@ MatchCall_HNS_Riley_General1::
 
 MatchCall_HNS_Riley_General2::
 	.string "哟，{PLAYER}！\p"
-	.string "你们城都来的小鬼还挺有两下子的嘛\n"
-	.string "。看来之前是我小瞧你了。\p"
+	.string "你们城都来的小鬼还挺有两下子的\n"
+	.string "嘛。看来之前是我小瞧你了。\p"
 	.string "不过，可别因此就翘尾巴啊！$"
 
 MatchCall_HNS_Riley_Battle::
 	.string "哟，{PLAYER}！我是莱利。\p"
-	.string "快到自行车道来！我想和你再战一场\n"
-	.string "！$"
+	.string "快到自行车道来！我想和你再战一\n"
+	.string "场！$"
 
 @ Trevor - Juggler, Route 14
 MatchCall_HNS_Trevor_General1::
@@ -888,8 +884,7 @@ MatchCall_HNS_Trevor_Battle::
 
 @ Kyle - Fisherman, Route 12
 MatchCall_HNS_Kyle_General1::
-	.string "谁啊？！……咦，是我打过\n"
-	.string "去的？\p"
+	.string "谁啊？！……咦，是我打过去的？\p"
 	.string "我是凯尔啦。可别给忘了！$"
 
 MatchCall_HNS_Kyle_General2::
@@ -990,8 +985,8 @@ MatchCall_HNS_Billy_General2::
 
 MatchCall_HNS_Billy_Battle::
 	.string "喂，{PLAYER}！我是比利。\p"
-	.string "我又学到了几招新绝活！快来15号\n"
-	.string "道路吧！$"
+	.string "我又学到了几招新绝活！快来15号道\n"
+	.string "路吧！$"
 
 @ Kenny - Hiker, Route 13
 MatchCall_HNS_Kenny_General1::
@@ -1001,15 +996,15 @@ MatchCall_HNS_Kenny_General1::
 
 MatchCall_HNS_Kenny_General2::
 	.string "嗨，{PLAYER}！\p"
-	.string "我是肯尼。\n"
-	.string "我去参观了深灰科学博物馆！\p"
-	.string "你知道吗？整个关都地区\n"
-	.string "以前都淹没在水下呢！$"
+	.string "我是肯尼。我去参观了深灰科学博物\n"
+	.string "馆！\p"
+	.string "你知道吗？整个关都地区以前都淹没\n"
+	.string "在水下呢！$"
 
 MatchCall_HNS_Kenny_Battle::
 	.string "嗨，{PLAYER}！我是肯尼。\p"
 	.string "我已经在山里刻苦修行过了！\p"
-	.string "快来13号道路痛痛快快对战一场吧\n"
+	.string "快来13号道路痛痛快快对战一场吧"
 	.string "！$"
 
 @ Joel - Biker, Route 17
@@ -1033,21 +1028,21 @@ MatchCall_HNS_Joel_Battle::
 
 @ Charles - Biker, Route 17
 MatchCall_HNS_Charles_General1::
-	.string "喂，{PLAYER}！我是查尔斯\n"
-	.string "。\p"
-	.string "我在合众可是被称为'心碎狂客'的\n"
-	.string "男人呢。\p"
+	.string "喂，{PLAYER}！我是查尔\n"
+	.string "斯。\p"
+	.string "我在合众可是被称为'心碎狂客'的男\n"
+	.string "人呢。\p"
 	.string "现在的我则是公路之星！$"
 
 MatchCall_HNS_Charles_General2::
 	.string "喂，{PLAYER}！\p"
 	.string "夜晚的单车道感觉真是别有一番风味\n"
 	.string "啊。\p"
-	.string "路灯的光影与拂面的夜风……\n"
-	.string ".这就是自由啊！$"
+	.string "路灯的光影与拂面的夜风…….这就是\n"
+	.string "自由啊！$"
 
 MatchCall_HNS_Charles_Battle::
-	.string "喂，{PLAYER}！我是查尔斯\n"
-	.string "。\p"
+	.string "喂，{PLAYER}！我是查尔\n"
+	.string "斯。\p"
 	.string "公路之星们想要找你雪耻！快来单车\n"
 	.string "道吧！$"

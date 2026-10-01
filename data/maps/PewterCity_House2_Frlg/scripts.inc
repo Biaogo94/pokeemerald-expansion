@@ -18,8 +18,8 @@ PewterCity_House2_Text_MonsLearnTechniquesAsTheyGrow::
 PewterCity_House2_Text_MonsEasierCatchIfStatused::
 	.string "当一只宝可梦进入异常状态时会容易\n"
 	.string "收服一些。\p"
-	.string "睡眠，中毒，烧伤，或者麻痹……这\n"
-	.string "些都能对其造成影响。\p"
+	.string "睡眠，中毒，烧伤，或者麻痹……这些\n"
+	.string "都能对其造成影响。\p"
 	.string "但是收服一只宝可梦从来都不是件容\n"
 	.string "易的事！$"
 

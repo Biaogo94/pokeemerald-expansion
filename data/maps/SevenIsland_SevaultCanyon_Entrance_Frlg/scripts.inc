@@ -25,12 +25,12 @@ SevenIsland_SevaultCanyon_Entrance_Text_MasonDefeat::
 	.string "歌吧！$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonPostBattle::
-	.string "啦啦……我的宝可梦，我把它们送出\n"
-	.string "去了，所有的女孩都在尖叫、呐喊。$"
+	.string "啦啦……我的宝可梦，我把它们送出去\n"
+	.string "了，所有的女孩都在尖叫、呐喊。$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasIntro::
-	.string "这座岛太宽广了……这个地方不容易\n"
-	.string "巡查啊。$"
+	.string "这座岛太宽广了……这个地方不容易巡\n"
+	.string "查啊。$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasDefeat::
 	.string "啊哈……$"

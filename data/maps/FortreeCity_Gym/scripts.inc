@@ -216,8 +216,8 @@ FortreeCity_Gym_Text_DariusDefeat:
 
 FortreeCity_Gym_Text_DariusPostBattle:
 	.string "你确实打败了我，但你最好小心点！\n"
-	.string "我们的馆主娜琪的宝可梦都不好对付\l"
-	.string "。$"
+	.string "我们的馆主娜琪的宝可梦都不好对\l"
+	.string "付。$"
 
 FortreeCity_Gym_Text_WinonaIntro:
 	.string "我是娜琪，茵郁道馆的道馆馆主。\p"
@@ -237,23 +237,21 @@ FortreeCity_Gym_Text_ReceivedFeatherBadge:
 	.string "羽徽章。$"
 
 FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis:
-	.string "获得羽毛徽章后，\n"
-	.string "70级以下，包括交换来的宝可梦\l"
-	.string "都会听从你的指挥。\p"
-	.string "你还可以在对战外使用\n"
-	.string "秘传学习器“飞翔”。\p"
-	.string "还有这个……\n"
-	.string "这是我送你的礼物。$"
+	.string "获得羽毛徽章后，70级以下，包括交\n"
+	.string "换来的宝可梦都会听从你的指挥。\p"
+	.string "你还可以在对战外使用秘传学习器\n"
+	.string "“飞翔”。\p"
+	.string "还有这个……这是我送你的礼物。$"
 
 FortreeCity_Gym_Text_ExplainAerialAce:
 	.string "招式学习器40的里面是燕返，\p"
-	.string "它的速度……没有任何宝可梦能侥幸\n"
-	.string "躲过。\p"
+	.string "它的速度……没有任何宝可梦能侥幸躲\n"
+	.string "过。\p"
 	.string "…… …… ……$"
 
 FortreeCity_Gym_Text_RegisteredWinona:
-	.string "把道馆馆主娜琪登记到宝可导航里了\n"
-	.string "。$"
+	.string "把道馆馆主娜琪登记到宝可导航里\n"
+	.string "了。$"
 
 FortreeCity_Gym_Text_WinonaPostBattle:
 	.string "虽然我输给了你，但我仍会专注于鸟\n"

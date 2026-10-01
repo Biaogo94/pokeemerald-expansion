@@ -316,8 +316,7 @@ Route110_TrickHousePuzzle7_EventScript_Everett::
 
 Route110_TrickHousePuzzle7_Text_WroteSecretCodeLockOpened::
 	.string "{PLAYER}在门上写下密码。\p"
-	.string "“我想拥抱戏法大王”…… …… \n"
-	.string "…… ……\p"
+	.string "“我想拥抱戏法大王”…… …… …… ……\p"
 	.string "锁“咔嗒”一声开了！$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaIntro:
@@ -325,23 +324,23 @@ Route110_TrickHousePuzzle7_Text_JoshuaIntro:
 	.string "他怎么做到的？$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaDefeat:
-	.string "啊呀！你真是太强了！你怎么做到的\n"
-	.string "？$"
+	.string "啊呀！你真是太强了！你怎么做到\n"
+	.string "的？$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaPostBattle:
-	.string "我也想要像一阵烟一样消失或者出现\n"
-	.string "。$"
+	.string "我也想要像一阵烟一样消失或者出\n"
+	.string "现。$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaIntro:
-	.string "总是在同样的地方转来转去……这会\n"
-	.string "招致厄运的……$"
+	.string "总是在同样的地方转来转去……这会招\n"
+	.string "致厄运的……$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaDefeat:
 	.string "败了！不祥的预兆……$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaPostBattle:
-	.string "我已经在同一个地方转了十多次了…\n"
-	.string "…真不幸……$"
+	.string "我已经在同一个地方转了十多次了……\n"
+	.string "真不幸……$"
 
 Route110_TrickHousePuzzle7_Text_AlexisIntro:
 	.string "胜利的人就会先离开这儿，我有这样\n"
@@ -383,6 +382,6 @@ Route110_TrickHousePuzzle7_Text_EverettDefeat:
 	.string "啊，你真强。$"
 
 Route110_TrickHousePuzzle7_Text_EverettPostBattle:
-	.string "我本来打算打败你之后和你交换位置\n"
-	.string "，结果……$"
+	.string "我本来打算打败你之后和你交换位\n"
+	.string "置，结果……$"
 

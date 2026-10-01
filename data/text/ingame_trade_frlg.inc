@@ -36,8 +36,9 @@ Trade_Text_Thanks::
 	.string "谢谢！$"
 
 Trade_Text_HasTradedMonGrownStronger::
-	.string "我换给你的{STR_VAR_2}\n"
-	.string "，有变得更强了吗？$"
+	.string "我换给你的\n"
+	.string "{STR_VAR_2}，有变得更\l"
+	.string "强了吗？$"
 
 Trade_Text_DoYouHaveMonWantToTradeForMon::
 	.string "你好！你有{STR_VAR_1}\n"
@@ -51,8 +52,8 @@ Trade_Text_ThatsTooBad::
 Trade_Text_ThisIsNoMon::
 	.string "......这不是\n"
 	.string "{STR_VAR_1}啊。\p"
-	.string "如果你收服到了，一定要和我交换哦\n"
-	.string "。$"
+	.string "如果你收服到了，一定要和我交换\n"
+	.string "哦。$"
 
 Trade_Text_ThanksYoureAPal::
 	.string "谢谢你，你真是个好伙伴！$"

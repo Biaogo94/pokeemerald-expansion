@@ -231,8 +231,8 @@ BattleFrontier_BattlePyramidTop_Text_ChiefBeatYouHere_hns:
 	.string "二！\p"
 	.string "我们的首领已经先你一步征服了金字\n"
 	.string "塔。\p"
-	.string "但是，年轻的探险家啊……\n"
-	.string "你是一名训练家！\p"
+	.string "但是，年轻的探险家啊……你是一名训\n"
+	.string "练家！\p"
 	.string "展现你的力量，从首领手中夺取顶点\n"
 	.string "的荣耀吧！\p"
 	.string "那么，请吧！做好准备后，就怀揣勇\n"
@@ -259,8 +259,8 @@ BattleFrontier_BattlePyramidTop_Text_ImPyramidKingBrandon_hns:
 	.string "哈哈哈哈！这可太令人兴奋了！$"
 
 BattleFrontier_BattlePyramidTop_Text_BringCourageToOurBattle_hns:
-	.string "那么！带上你的勇气，来和我对战吧\n"
-	.string "！$"
+	.string "那么！带上你的勇气，来和我对战\n"
+	.string "吧！$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonFrontierPassPlease_hns:
 	.string "神代：哈哈哈哈！确实壮丽！当真壮\n"
@@ -272,18 +272,17 @@ BattleFrontier_BattlePyramidTop_Text_ReceivedBraveSymbol_hns:
 	.string "开拓通行证上被印上了英勇象征！$"
 
 BattleFrontier_BattlePyramidTop_Text_LookForwardToNextMeeting_hns:
-	.string "年轻的探险家！期待与你的下次相遇\n"
-	.string "！$"
+	.string "年轻的探险家！期待与你的下次相\n"
+	.string "遇！$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonYouveReturned_hns:
-	.string "神代：……你终于回来了，\n"
-	.string "年轻的探险家……\p"
+	.string "神代：……你终于回来了，年轻的探险\n"
+	.string "家……\p"
 	.string "看来你对冒险的热爱，发自你内心的\n"
 	.string "最深处……\p"
-	.string "是啊……你和我年轻的时候\n"
-	.string "简直一模一样……\p"
-	.string "................\n"
-	.string "..啊……\p"
+	.string "是啊……你和我年轻的时候简直一模一\n"
+	.string "样……\p"
+	.string "..................啊……\p"
 	.string "那份激情！\p"
 	.string "那份危险！\p"
 	.string "那份绝境！\p"

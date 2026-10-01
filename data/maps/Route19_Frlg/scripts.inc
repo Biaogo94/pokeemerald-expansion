@@ -15,8 +15,8 @@ Route19_Text_RichardPostBattle::
 	.string "谢谢你，孩子！我准备好去游泳了。$"
 
 Route19_Text_ReeceIntro::
-	.string "等等！慢慢来！你的心脏会受不了的\n"
-	.string "！$"
+	.string "等等！慢慢来！你的心脏会受不了\n"
+	.string "的！$"
 
 Route19_Text_ReeceDefeat::
 	.string "噢！真冷！$"
@@ -94,8 +94,7 @@ Route19_Text_AxlePostBattle::
 	.string "我，我的腿！抽筋了！糟了……$"
 
 Route19_Text_ConnieIntro::
-	.string "我和我的朋友一路游了过来……好累\n"
-	.string "……$"
+	.string "我和我的朋友一路游了过来……好累……$"
 
 Route19_Text_ConnieDefeat::
 	.string "我一点力气也没了……$"

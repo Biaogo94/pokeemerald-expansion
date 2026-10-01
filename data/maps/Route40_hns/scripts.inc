@@ -24,8 +24,8 @@ Route40_Text_SwimmermSimonBeaten:
 	.string "好啦！我投降！认输了！$"
 
 Route40_Text_SwimmermSimonAfter:
-	.string "湛蓝市离这里还有一段挺远的距离呢\n"
-	.string "。$"
+	.string "湛蓝市离这里还有一段挺远的距离\n"
+	.string "呢。$"
 
 Route40_EventScript_Randall::
 	trainerbattle_single TRAINER_RANDALL_HNS, Route40_Text_SwimmermRandallSeen, Route40_Text_SwimmermRandallBeaten
@@ -110,8 +110,8 @@ Route40_EventScript_Youngster::
 
 Route40_Text_StandingYoungster:
 	.string "你去过训练家之丘了吗？\p"
-	.string "我想那里一定聚集了好多强力训练家\n"
-	.string "。\p"
+	.string "我想那里一定聚集了好多强力训练\n"
+	.string "家。\p"
 	.string "不过你拿到了这么多徽章，表现一定\n"
 	.string "不会差的。$"
 

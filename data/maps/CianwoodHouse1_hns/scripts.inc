@@ -36,17 +36,18 @@ CianwoodHouse1_EventScript_HermitClearBell::
 CianwoodCity_Text_OldManIntro:
 	.string "我都记不清上一次有人来拜访我是什\n"
 	.string "么时候了。\p"
-	.string "年轻时，我也曾是一名宝可梦训练家\n"
-	.string "。登过巍峨高塔，也潜过浩瀚深海。\p"
+	.string "年轻时，我也曾是一名宝可梦训练\n"
+	.string "家。登过巍峨高塔，也潜过浩瀚深\l"
+	.string "海。\p"
 	.string "凡事都倾注了无数心血。\p"
 	.string "不过现在嘛，我在这片海滩上听听风\n"
-	.string "浪声，过着清闲日子，倒也乐得自在\l"
-	.string "。$"
+	.string "浪声，过着清闲日子，倒也乐得自\l"
+	.string "在。$"
 
 CianwoodCity_Text_BellTowerStory:
 	.string "你听说过缘朱市的铃铛塔吗？\p"
-	.string "据说在塔顶上挂着被称为“透明铃\n"
-	.string "铛”的东西。\p"
+	.string "据说在塔顶上挂着被称为“透明铃铛”\n"
+	.string "的东西。\p"
 	.string "即使狂风呼啸，它们也不会发出半点\n"
 	.string "声响。\p"
 	.string "要想让它们鸣响，只有一个办法。\p"
@@ -69,18 +70,14 @@ CianwoodCity_Text_WhirlIslandsStory:
 
 CianwoodCity_Text_ClearBellReaction:
 	.string "噢！你居然拿到了透明铃铛？！\p"
-	.string "那可是我当年的梦想啊……\n"
-	.string "原来如此……\p"
-	.string "你真的做到了……\n"
-	.string "……我听到了！\p"
+	.string "那可是我当年的梦想啊……原来如此……\p"
+	.string "你真的做到了…………我听到了！\p"
 	.string "乘着微风，从铃铛塔的方向传来了清\n"
 	.string "脆悠扬的铃声……$"
 
 CianwoodCity_Text_TidalBellReaction:
 	.string "噢！你居然拿到了海潮铃铛？！\p"
-	.string "那可是我当年的梦想啊……\n"
-	.string "原来如此……\p"
-	.string "你真的做到了……\n"
-	.string "……我听到了！\p"
+	.string "那可是我当年的梦想啊……原来如此……\p"
+	.string "你真的做到了…………我听到了！\p"
 	.string "乘着海风，从漩涡列岛的方向传来了\n"
 	.string "清脆悠扬的铃声……$"

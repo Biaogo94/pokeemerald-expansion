@@ -101,8 +101,7 @@ Route110_TrickHousePuzzle2_EventScript_Georgia::
 
 Route110_TrickHousePuzzle2_Text_WroteSecretCodeLockOpened:
 	.string "{PLAYER}在门上写下密码。\p"
-	.string "“戏法大王十分聪颖”…… …… \n"
-	.string "…… ……\p"
+	.string "“戏法大王十分聪颖”…… …… …… ……\p"
 	.string "锁“咔嗒”一声开了！$"
 
 Route110_TrickHousePuzzle2_Text_TedIntro:

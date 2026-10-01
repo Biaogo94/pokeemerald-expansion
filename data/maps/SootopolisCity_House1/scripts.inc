@@ -34,8 +34,8 @@ SootopolisCity_House1_Text_DevelopedThisTM:
 	.string "传授给你吧！$"
 
 SootopolisCity_House1_Text_ExplainBrickBreak:
-	.string "招式学习器31的内容是劈瓦！这是\n"
-	.string "一种无法描述的恐怖招式。$"
+	.string "招式学习器31的内容是劈瓦！这是一\n"
+	.string "种无法描述的恐怖招式。$"
 
 SootopolisCity_House1_Text_Kecleon:
 	.string "变隐龙：噗噗噗呀。$"

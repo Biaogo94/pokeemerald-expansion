@@ -661,8 +661,8 @@ NewBarkTown_Lab_Text_ElmIntro:
 	.string "我正在做新的宝可梦研究，想请你帮\n"
 	.string "帮忙，{PLAYER}。\p"
 	.string "你看……\p"
-	.string "我正在写一篇论文，想在学会上发表\n"
-	.string "。\p"
+	.string "我正在写一篇论文，想在学会上发\n"
+	.string "表。\p"
 	.string "但还有些地方我怎么也想不明白。\p"
 	.string "所以！\p"
 	.string "我想请你培育一只我最近刚捉到的宝\n"
@@ -673,8 +673,8 @@ NewBarkTown_Lab_Text_ElmAccepted:
 	.string "大忙了！$"
 
 NewBarkTown_Lab_Text_ElmRefused:
-	.string "可是……拜托了，我真的很需要你的\n"
-	.string "帮助！$"
+	.string "可是……拜托了，我真的很需要你的帮\n"
+	.string "助！$"
 
 NewBarkTown_Lab_Text_ElmResearchAmbitions:
 	.string "当我公布我的研究成果时，我相信我\n"
@@ -684,9 +684,8 @@ NewBarkTown_Lab_Text_ElmResearchAmbitions:
 
 NewBarkTown_Lab_Text_ElmGotAnEmail:
 	.string "哎呀！我收到了一封邮件！\p"
-	.string "…… …… …… …… …… …\n"
-	.string "… …… ……嗯…… 原来如此…\l"
-	.string "…\p"
+	.string "…… …… …… …… …… …… …… ……嗯…… 原来\n"
+	.string "如此……\p"
 	.string "好的！$"
 
 NewBarkTown_Lab_Text_ElmMissionFromMrPokemon:
@@ -781,8 +780,8 @@ NewBarkTown_Lab_Text_GotElmsNumber:
 NewBarkTown_Lab_Text_ElmDescribesMrPokemon:
 	.string "宝可梦爷爷总是到处跑，收集各种稀\n"
 	.string "奇古怪的东西。\p"
-	.string "可惜大多只是罕见，并没有什么用处\n"
-	.string "......$"
+	.string "可惜大多只是罕见，并没有什么用\n"
+	.string "处......$"
 
 NewBarkTown_Lab_Text_ElmPokeBall:
 	.string "里面装着空木博士捕获的宝可梦。$"
@@ -790,8 +789,8 @@ NewBarkTown_Lab_Text_ElmPokeBall:
 @THEFT================================================================================
 
 NewBarkTown_Lab_Text_ElmAfterTheft1:
-	.string "空木：{PLAYER}，出大事了\n"
-	.string "......\p"
+	.string "空木：{PLAYER}，出大事\n"
+	.string "了......\p"
 	.string "啊，对了，宝可梦爷爷的大发现到底\n"
 	.string "是什么？$"
 
@@ -803,8 +802,7 @@ NewBarkTown_Lab_Text_ElmAfterTheft3:
 	.string "空木：这个？$"
 
 NewBarkTown_Lab_Text_ElmAfterTheft4:
-	.string "但是……这难道是宝可梦的\n"
-	.string "蛋？\p"
+	.string "但是……这难道是宝可梦的蛋？\p"
 	.string "如果真是这样，那可是一项重大发现\n"
 	.string "啊！\p"
 	.string "空木：什么！？！？\p"
@@ -819,8 +817,8 @@ NewBarkTown_Lab_Text_ElmAfterTheft4:
 	.string "洽。\p"
 	.string "你应该去挑战宝可梦道馆看看。\p"
 	.string "最近的道馆就在桔梗市。\p"
-	.string "......{PLAYER}。通\n"
-	.string "往冠军之路可是很漫长的。\p"
+	.string "......{PLAYER}。通往冠军\n"
+	.string "之路可是很漫长的。\p"
 	.string "出发之前，记得一定要去跟你妈妈打\n"
 	.string "声招呼。$"
 
@@ -878,8 +876,7 @@ NewBarkTown_Lab_Text_ElmCallYou:
 	.string "什么事，我会给你打电话的。$"
 
 NewBarkTown_Lab_Text_AideAfterTheft:
-	.string "……唉……被偷走\n"
-	.string "的那只宝可梦，\p"
+	.string "……唉……被偷走的那只宝可梦，\p"
 	.string "不知道现在怎么样了。\p"
 	.string "听说被坏人抚养长大的宝可梦，性格\n"
 	.string "也会变坏呢。$"
@@ -901,8 +898,8 @@ NewBarkTown_Lab_Text_ElmGiveMasterBall2:
 	.string "我更大的作用，{PLAYER}！$"
 
 NewBarkTown_Lab_Text_KimonoGirls:
-	.string "顺便说一下……有一群漂亮\n"
-	.string "的舞妓小姐刚才一直在找你呢。\p"
+	.string "顺便说一下……有一群漂亮的舞妓小姐\n"
+	.string "刚才一直在找你呢。\p"
 	.string "她们说会在缘朱市的缘朱舞场等你。\p"
 	.string "我知道，自从卷入了那枚蛋的事情之\n"
 	.string "后，你经历了很多波折……\p"
@@ -913,8 +910,7 @@ NewBarkTown_Lab_Text_KimonoWaiting:
 	.string "等你呢。$"
 
 NewBarkTown_Lab_Text_League:
-	.string "空木博士：哈哈哈哈……干\n"
-	.string "得漂亮！\p"
+	.string "空木博士：哈哈哈哈……干得漂亮！\p"
 	.string "那枚稀有的蛋给你添了不少麻烦吧？\p"
 	.string "舞妓小姐们提到了我？\p"
 	.string "其实我可什么都没做哦。\p"
@@ -923,8 +919,8 @@ NewBarkTown_Lab_Text_League:
 	.string "既然已经做到了这一步，你现在应该\n"
 	.string "有资格挑战联盟了！\p"
 	.string "去石英高原吧！\p"
-	.string "你知道怎么去吗？沿着27号道路\n"
-	.string "走，接上26号道路。\p"
+	.string "你知道怎么去吗？沿着27号道路走，\n"
+	.string "接上26号道路。\p"
 	.string "到了那里之后，一直往北走就行了！$"
 
 
@@ -957,18 +953,16 @@ NewBarkTown_Lab_Text_AideAlwaysBusy:
 
 NewBarkTown_Lab_Text_AideSave:
 	.string "平时一定要记得多存档！\p"
-	.string "按下START键打开菜单，然后选\n"
-	.string "择“记录”即可保存游戏！$"
+	.string "按下START键打开菜单，然后选择“记\n"
+	.string "录”即可保存游戏！$"
 
 NewBarkTown_Lab_Text_AideTheftTestimony:
-	.string "刚才外面传来好大一声巨响...\n"
-	.string "...\p"
+	.string "刚才外面传来好大一声巨响......\p"
 	.string "我们跑出去看的时候，发现有人偷走\n"
 	.string "了宝可梦。\p"
 	.string "竟然会有人干出这种事，真是不可思\n"
 	.string "议！\p"
-	.string "……唉……被偷走\n"
-	.string "的那只宝可梦，\p"
+	.string "……唉……被偷走的那只宝可梦，\p"
 	.string "不知道现在怎么样了。\p"
 	.string "听说被坏人抚养长大的宝可梦，性格\n"
 	.string "也会变坏呢。$"
@@ -985,8 +979,7 @@ NewBarkTown_Lab_Text_AideExplainBalls:
 	.string "灵球就能捉到它们。$"
 
 NewBarkTown_Lab_Text_Officer1:
-	.string "我听说这里有宝可梦被盗了...\n"
-	.string "...\p"
+	.string "我听说这里有宝可梦被盗了......\p"
 	.string "刚才正向空木博士了解情况呢。\p"
 	.string "据说嫌疑人是一个留着红色长发的年\n"
 	.string "轻男子……\p"

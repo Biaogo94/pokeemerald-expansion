@@ -18,6 +18,5 @@ VermilionCity_House1_Text_FishingDude:
 	.string "鲤鱼王呢。$"
 
 VermilionCity_House1_Text_Photo:
-	.string "这是一张大家在钓鱼的照片……\n"
-	.string "..\p"
+	.string "这是一张大家在钓鱼的照片……..\p"
 	.string "他们看起来玩得很开心……$"

@@ -28,8 +28,7 @@ Route47_Text_CamperSeen::
 	.string "宝可梦在这里露营！$"
 
 Route47_Text_CamperBeaten::
-	.string "我想我该往更深的山里走走了...\n"
-	.string "...$"
+	.string "我想我该往更深的山里走走了......$"
 
 Route47_Text_CamperAfter::
 	.string "回见啦！$"
@@ -47,22 +46,22 @@ Route47_EventScript_Kae::
 	end
 
 Route47_Text_Couple1Seen::
-	.string "汤姆：1加1等于2，但只要\n"
-	.string "我们两人联手，就会变得更强！\p"
-	.string "凯：我们可不是什么普普通通\n"
-	.string "的组合哦！$"
+	.string "汤姆：1加1等于2，但只要我们两人\n"
+	.string "联手，就会变得更强！\p"
+	.string "凯：我们可不是什么普普通通的组合\n"
+	.string "哦！$"
 
 Route47_Text_Couple1Beaten::
-	.string "汤姆：这可真出乎我的意料。\n"
-	.string "凯：你也太不按常理出牌了！$"
+	.string "汤姆：这可真出乎我的意料。凯：你\n"
+	.string "也太不按常理出牌了！$"
 
 Route47_Text_Couple1After1::
-	.string "汤姆：看来你的实力真是难以\n"
-	.string "预测啊！$"
+	.string "汤姆：看来你的实力真是难以预测\n"
+	.string "啊！$"
 
 Route47_Text_Couple1After2::
-	.string "凯：我还以为你只是个普通的\n"
-	.string "独行训练家，真是看走眼了！$"
+	.string "凯：我还以为你只是个普通的独行训\n"
+	.string "练家，真是看走眼了！$"
 
 Route47_EventScript_Duff::
 	trainerbattle_double TRAINER_DUFF_AND_EDA_HNS, Route47_Text_Couple2Seen, Route47_Text_Couple2Beaten, Route104_Text_GinaNotEnoughMons
@@ -76,23 +75,22 @@ Route47_EventScript_Eda::
 	end
 
 Route47_Text_Couple2Seen::
-	.string "达夫：守护着我的女朋友，我\n"
-	.string "的心情就会激动澎湃！\p"
-	.string "艾达：我对男朋友的爱意，比大\n"
-	.string "海还要辽阔深沉！$"
+	.string "达夫：守护着我的女朋友，我的心情\n"
+	.string "就会激动澎湃！\p"
+	.string "艾达：我对男朋友的爱意，比大海还\n"
+	.string "要辽阔深沉！$"
 
 Route47_Text_Couple2Beaten::
-	.string "达夫：完全不是你的对手……\n"
-	.string "艾达：你真是不简单啊\l"
-	.string "……$"
+	.string "达夫：完全不是你的对手……艾达：你\n"
+	.string "真是不简单啊……$"
 
 Route47_Text_Couple2After1::
-	.string "达夫：感谢你带来如此精彩的\n"
-	.string "对战！再见啦！$"
+	.string "达夫：感谢你带来如此精彩的对战！\n"
+	.string "再见啦！$"
 
 Route47_Text_Couple2After2::
-	.string "艾达：你也一定要找一个绝妙的\n"
-	.string "伴侣哦！$"
+	.string "艾达：你也一定要找一个绝妙的伴侣\n"
+	.string "哦！$"
 
 Route47_EventScript_Sage::
 	lock
@@ -113,8 +111,7 @@ EmbeddedTower_Text_OldManIntro:
 	.string "甚至有传闻说它一路延伸到了海底的\n"
 	.string "最深处！\p"
 	.string "简而言之，那处遗迹曾经将天空、大\n"
-	.string "地与海洋彼此连接在一起……\l"
-	.string ".\p"
+	.string "地与海洋彼此连接在一起…….\p"
 	.string "如今巨塔的大部分都已坍塌，残留的\n"
 	.string "只有入口与内部，在那里能看到一些\l"
 	.string "奇异的纹路。$"

@@ -13,8 +13,8 @@ gText_Oak_Pokemon::
 gText_Oak_MainSpeech::
 	.string "这个世界上广泛生活着被称为宝可梦\n"
 	.string "的生物。\p"
-	.string "人类和宝可梦互相支持，生活在一起\n"
-	.string "。\p"
+	.string "人类和宝可梦互相支持，生活在一\n"
+	.string "起。\p"
 	.string "有人和宝可梦玩耍，有人和它们一起\n"
 	.string "对战。\p"
 	.string "但关于宝可梦，我们还未全知全晓。\p"

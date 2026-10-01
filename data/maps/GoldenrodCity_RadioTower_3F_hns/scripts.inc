@@ -151,14 +151,14 @@ GoldenrodCity_RadioTower_3F_Text_SuperNerd:
 	.string "大概有400种呢。$"
 
 GoldenrodCity_RadioTower_3F_Text_GymGuideRockets:
-	.string "对训练家来说，宝可梦是至亲的伙伴\n"
-	.string "。\p"
+	.string "对训练家来说，宝可梦是至亲的伙\n"
+	.string "伴。\p"
 	.string "火箭队居然妄图去操纵宝可梦，真是\n"
 	.string "太差劲了。$"
 
 GoldenrodCity_RadioTower_3F_Text_GymGuide:
-	.string "为了播出有趣的节目，我们24小时\n"
-	.string "全天候运转。\p"
+	.string "为了播出有趣的节目，我们24小时全\n"
+	.string "天候运转。\p"
 	.string "我也要全力以赴全天候待命！$"
 
 GoldenrodCity_RadioTower_3F_Text_CooltrainerFPleaseSave:
@@ -191,8 +191,7 @@ GoldenrodCity_RadioTower_3F_Text_GruntM7Beaten:
 
 GoldenrodCity_RadioTower_3F_Text_GruntM7After:
 	.string "我居然失职了……\p"
-	.string "阿波罗大人一定会大发雷霆的...\n"
-	.string "...$"
+	.string "阿波罗大人一定会大发雷霆的......$"
 
 GoldenrodCity_RadioTower_3F_Text_GruntM8Seen:
 	.string "指挥宝可梦去犯罪，这种感觉真是爽\n"
@@ -206,8 +205,8 @@ GoldenrodCity_RadioTower_3F_Text_GruntM8After:
 	.string "可恶！没用的宝可梦最讨厌了！$"
 
 GoldenrodCity_RadioTower_3F_Text_GruntM9Seen:
-	.string "卷帘门怎么开了？难道是你搞的鬼吗\n"
-	.string "？$"
+	.string "卷帘门怎么开了？难道是你搞的鬼\n"
+	.string "吗？$"
 
 GoldenrodCity_RadioTower_3F_Text_GruntM9Beaten:
 	.string "完蛋了！$"

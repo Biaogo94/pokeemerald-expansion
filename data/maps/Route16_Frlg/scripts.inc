@@ -89,8 +89,8 @@ Route16_Text_KojiDefeat::
 	.string "我晕了！$"
 
 Route16_Text_KojiPostBattle::
-	.string "刚才我啥也没说，谁想要你的自行车\n"
-	.string "！$"
+	.string "刚才我啥也没说，谁想要你的自行\n"
+	.string "车！$"
 
 Route16_Text_LukeIntro::
 	.string "出来打一架吧，胆小鬼！$"
@@ -138,8 +138,8 @@ Route16_Text_RubenPostBattle::
 	.string "也不差。$"
 
 Route16_Text_MonSprawledOutInSlumber::
-	.string "一只宝可梦躺在那儿，睡得无比香甜\n"
-	.string "。$"
+	.string "一只宝可梦躺在那儿，睡得无比香\n"
+	.string "甜。$"
 
 Route16_Text_CyclingRoadSign::
 	.string "享受斜坡吧！单车路$"
@@ -172,8 +172,8 @@ Route16_Text_LeaDefeat::
 	.string "来很帅！$"
 
 Route16_Text_LeaPostBattle::
-	.string "嘉穗：呵呵，不好意思。阿神太帅了\n"
-	.string "。$"
+	.string "嘉穗：呵呵，不好意思。阿神太帅\n"
+	.string "了。$"
 
 Route16_Text_LeaNotEnoughMons::
 	.string "嘉穗 哦，你没有两只宝可梦和你一\n"

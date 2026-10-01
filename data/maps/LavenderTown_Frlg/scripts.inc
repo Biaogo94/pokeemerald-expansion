@@ -54,19 +54,17 @@ LavenderTown_Text_SoThereAreBelievers::
 
 LavenderTown_Text_JustImaginingWhiteHand::
 	.string "哈哈哈，我可不这么认为喔。\p"
-	.string "看你肩膀上那只白色的鬼手…………\n"
-	.string "这只是我的想象而已。$"
+	.string "看你肩膀上那只白色的鬼手…………这只\n"
+	.string "是我的想象而已。$"
 
 LavenderTown_Text_TownKnownAsMonGraveSite::
-	.string "这座城镇是宝可梦的\n"
-	.string "墓地。\p"
-	.string "追悼仪式会在\n"
-	.string "宝可梦塔举行。$"
+	.string "这座城镇是宝可梦的墓地。\p"
+	.string "追悼仪式会在宝可梦塔举行。$"
 
 LavenderTown_Text_GhostsAppearedInTower::
 	.string "幽灵在宝可梦塔里出没。\p"
-	.string "我想那应该是被火箭队所害的\n"
-	.string "宝可梦的灵魂吧。$"
+	.string "我想那应该是被火箭队所害的宝可梦\n"
+	.string "的灵魂吧。$"
 
 LavenderTown_Text_TownSign::
 	.string "紫苑镇：高贵优雅的紫色小镇$"

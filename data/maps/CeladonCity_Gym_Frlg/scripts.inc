@@ -84,17 +84,16 @@ CeladonCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 CeladonCity_Gym_Text_ErikaIntro::
-	.string "你好......天气真好呢，对吧\n"
-	.string "？让人感觉好舒服......\p"
-	.string "......哎呀......我刚\n"
-	.string "才不小心打瞌睡了呢。欢迎你的到来\l"
-	.string "。\p"
-	.string "我的名字叫莉佳。是玉虹道馆的馆主\n"
-	.string "。\p"
+	.string "你好......天气真好呢，对吧？让人\n"
+	.string "感觉好舒服......\p"
+	.string "......哎呀......我刚才不小心打瞌\n"
+	.string "睡了呢。欢迎你的到来。\p"
+	.string "我的名字叫莉佳。是玉虹道馆的馆\n"
+	.string "主。\p"
 	.string "我正在修习花道。\p"
 	.string "我的宝可梦全都是草属性的。\p"
-	.string "......哎呀，对不起，我不知\n"
-	.string "道原来你是来向我挑战的。\p"
+	.string "......哎呀，对不起，我不知道原来\n"
+	.string "你是来向我挑战的。\p"
 	.string "好吧，不过我可不会输给你哦。\n"
 	.string "{PLAY_BGM MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
@@ -108,8 +107,8 @@ CeladonCity_Gym_Text_ErikaPostBattle::
 	.string "我从不收集不可爱的宝可梦。$"
 
 CeladonCity_Gym_Text_ExplainRainbowBadgeTakeThis::
-	.string "彩虹徽章可以让50级以下的宝可梦\n"
-	.string "听从你的指挥。\p"
+	.string "彩虹徽章可以让50级以下的宝可梦听\n"
+	.string "从你的指挥。\p"
 	.string "它也可以让你的宝可梦在战斗中和战\n"
 	.string "斗外都能使用怪力。\p"
 	.string "也请你收下这个。$"
@@ -122,8 +121,8 @@ CeladonCity_Gym_Text_ExplainTM19::
 	.string "TM19是终极吸取。\p"
 	.string "这个技能造成伤害的一半会被你的宝\n"
 	.string "可梦吸收过来回复体力。\p"
-	.string "难道你不认为这是个非常棒的技能吗\n"
-	.string "？$"
+	.string "难道你不认为这是个非常棒的技能\n"
+	.string "吗？$"
 
 CeladonCity_Gym_Text_ShouldMakeRoomForThis::
 	.string "你的背包满了。$"
@@ -136,8 +135,8 @@ CeladonCity_Gym_Text_KayDefeat::
 	.string "你太粗鲁了！$"
 
 CeladonCity_Gym_Text_KayPostBattle::
-	.string "啊啊！我真希望莉佳好好教训你一下\n"
-	.string "！$"
+	.string "啊啊！我真希望莉佳好好教训你一\n"
+	.string "下！$"
 
 CeladonCity_Gym_Text_BridgetIntro::
 	.string "唔，你好。我正无聊呢。$"
@@ -161,8 +160,8 @@ CeladonCity_Gym_Text_TinaPostBattle::
 
 CeladonCity_Gym_Text_TamiaIntro::
 	.string "喂，喂！看看我的宝可梦！\p"
-	.string "我喜欢草属性。它们培育起来很容易\n"
-	.string "。$"
+	.string "我喜欢草属性。它们培育起来很容\n"
+	.string "易。$"
 
 CeladonCity_Gym_Text_TamiaDefeat::
 	.string "不！$"

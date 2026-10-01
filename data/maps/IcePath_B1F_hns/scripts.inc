@@ -34,6 +34,6 @@ IcePath_B1F_EventScript_Sign::
 
 IcePath_B1F_Text_Sign:
 	.string "危险 碎冰路面骑自行车快速通过按\n"
-	.string "……键进行挡位切换牌子上\l"
-	.string "的字迹模糊不清……$"
+	.string "……键进行挡位切换牌子上的字迹模糊\l"
+	.string "不清……$"
 

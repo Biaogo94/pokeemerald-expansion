@@ -202,8 +202,8 @@ SilphCo_11F_Text_Grunt1Defeat::
 	.string "哇哇哇！不好了！$"
 
 SilphCo_11F_Text_Grunt1PostBattle::
-	.string "走路给我小心点……我的老大喜欢强\n"
-	.string "大的宝可梦！$"
+	.string "走路给我小心点……我的老大喜欢强大\n"
+	.string "的宝可梦！$"
 
 SilphCo_11F_Text_MonitorHasMonsOnIt::
 	.string "显示屏上有宝可梦！$"

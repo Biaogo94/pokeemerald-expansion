@@ -52,9 +52,8 @@ GoldenrodCity_BikeShop_Text_Clerk2:
 	.string "到更快的速度！$"
 
 GoldenrodCity_BikeShop_Text_ClerkIntro:
-    .string "……唉……虽然搬\n"
-    .string "到了这里，但自行车却一台都卖不出\l"
-    .string "去。怎么会这样呢？\p"
+    .string "……唉……虽然搬到了这里，但自行车却\n"
+    .string "一台都卖不出去。怎么会这样呢？\p"
     .string "你能骑上自行车，帮我做做宣传吗？$"
 
 GoldenrodCity_BikeShop_Text_ClerkAgreed:
@@ -75,8 +74,7 @@ GoldenrodCity_BikeShop_Text_Mainshop:
 	.string "注意哦！接下来速度会变得更快！$"
 
 GoldenrodCity_BikeShop_Text_Refused:
-    .string "……唉……人心的\n"
-    .string "温暖啊……$"
+    .string "……唉……人心的温暖啊……$"
 
 GoldenrodCity_BikeShop_Text_JustReleasedCompact:
     .string "全新发售！\p"

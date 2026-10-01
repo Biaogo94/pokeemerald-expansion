@@ -47,8 +47,7 @@ NewSinjoh_House1_Text_Looking4Celebi:
 
 NewSinjoh_House1_Text_NicePokemonButNotCelebi:
     .string "你的这只宝可梦真是太棒了，不过这\n"
-    .string "并不是我想见的那一只呢……\l"
-    .string ".$"
+    .string "并不是我想见的那一只呢…….$"
 
 NewSinjoh_House1_OffersWooper:
     .string "就是它！是活生生的时拉比！！\p"
@@ -56,12 +55,12 @@ NewSinjoh_House1_OffersWooper:
     .string "的北方来给我看。\p"
     .string "拿去吧，我女朋友去遥远地区旅行时\n"
     .string "抓了太多这种宝可梦……\p"
-    .string "这个特别的乌波就送给你当做谢礼吧\n"
-    .string "，{PLAYER}。$"
+    .string "这个特别的乌波就送给你当做谢礼\n"
+    .string "吧，{PLAYER}。$"
 
 NewSinjoh_House1_Text_Decline:
-	.string "真遗憾啊。我真的很想亲眼见见它呢\n"
-	.string "。$"
+	.string "真遗憾啊。我真的很想亲眼见见它\n"
+	.string "呢。$"
 
 NewSinjoh_House1_Text_TakeCareOfWooper:
     .string "一定要替我好好照顾那只乌波哦？$"

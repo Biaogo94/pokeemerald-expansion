@@ -45,8 +45,8 @@ SilphCo_9F_EventScript_Grunt2::
 	end
 
 SilphCo_9F_Text_YouShouldTakeQuickNap::
-	.string "你看起来很累。你应该快去休息一下\n"
-	.string "。$"
+	.string "你看起来很累。你应该快去休息一\n"
+	.string "下。$"
 
 SilphCo_9F_Text_DontGiveUp::
 	.string "不要放弃！$"

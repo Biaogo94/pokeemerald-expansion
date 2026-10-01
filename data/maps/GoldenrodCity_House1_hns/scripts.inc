@@ -16,8 +16,8 @@ GoldenrodCity_NameRatersHouse_EventScript_ToggleShiniesRefused::
 	end
 
 GoldenrodCity_NameRatersHouse_Text_AskToggleShinies:
-	.string "要切换异色宝可梦的专属配色设置吗\n"
-	.string "？$"
+	.string "要切换异色宝可梦的专属配色设置\n"
+	.string "吗？$"
 
 GoldenrodCity_NameRatersHouse_Text_ToggleShinies:
 	.string "已切换异色配色设置！\p"
@@ -107,9 +107,8 @@ GoldenrodCity_NameRatersHouse_Text_CritiqueWhichMonNickname:
 	.string "你想让我为哪只宝可梦鉴定昵称呢？$"
 
 GoldenrodCity_NameRatersHouse_Text_FineNameSuggestBetterOne:
-	.string "唔……叫\n"
-	.string "{STR_VAR_1}是吧？起得\l"
-	.string "相当不错嘛。\p"
+	.string "唔……叫{STR_VAR_1}是\n"
+	.string "吧？起得相当不错嘛。\p"
 	.string "不过！如果让我给它改一个稍微好听\n"
 	.string "一点的名字，你意下如何？$"
 
@@ -134,8 +133,7 @@ GoldenrodCity_NameRatersHouse_Text_NameNoDifferentYetSuperior:
 	.string "真是太幸运啦！$"
 
 GoldenrodCity_NameRatersHouse_Text_MagnificentName:
-	.string "唔……是\n"
-	.string "{STR_VAR_1}啊！\p"
+	.string "唔……是{STR_VAR_1}啊！\p"
 	.string "这真是一个极好的昵称！简直无可挑\n"
 	.string "剔！\p"
 	.string "从今往后，你也要好好珍惜你的\n"

@@ -92,18 +92,15 @@ SaffronCity_SilphCo_Movement_StevenLeave:
 
 
 SaffronCity_SilphCo_Text_Steven1:
-	.string "喂……信号不太好呢...\n"
-	.string "...我想这得看我爸爸怎么决定了\l"
-	.string "。我知道了……那我先出发\l"
-	.string "了。回头见。$"
+	.string "喂……信号不太好呢......我想这得看\n"
+	.string "我爸爸怎么决定了。我知道了……那我\l"
+	.string "先出发了。回头见。$"
 SaffronCity_SilphCo_Text_Steven2:
-	.string "大吾：你是……我记得你的\n"
-	.string "眼神。\p"
+	.string "大吾：你是……我记得你的眼神。\p"
 	.string "只要看到眼神澄澈闪烁的训练家，我\n"
 	.string "就一定能记住。\p"
 	.string "你带着宝可梦图鉴呢！这么说你也在\n"
-	.string "四处探寻宝可梦吗！让我想想...\l"
-	.string "...\p"
+	.string "四处探寻宝可梦吗！让我想想......\p"
 	.string "我想在这方面我能帮上你的忙。\p"
 	.string "假设你的面前放着几块石头。你会选\n"
 	.string "择哪种颜色呢？$"

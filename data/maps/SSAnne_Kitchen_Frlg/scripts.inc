@@ -64,8 +64,8 @@ SSAnne_Kitchen_Text_PeelSpudsEveryDay::
 	.string "我天天削土豆！嗯嗯……$"
 
 SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton::
-	.string "你听说过卡比兽吗？它是一个大胃王\n"
-	.string "。\p"
+	.string "你听说过卡比兽吗？它是一个大胃\n"
+	.string "王。\p"
 	.string "再没有其它宝可梦能像卡比兽那样吃\n"
 	.string "那么多、睡那么久！$"
 

@@ -6,16 +6,16 @@ CableClub_Text_WhichService:
 	.string "请问您需要使用哪项服务？$"
 
 CableClub_Text_TradeUsingLinkCable::
-	.string "通过GBA连接线与其他玩家交换宝\n"
-	.string "可梦。$"
+	.string "通过GBA连接线与其他玩家交换宝可\n"
+	.string "梦。$"
 
 CableClub_Text_BattleUsingLinkCable::
-	.string "通过GBA连接线与其他训练家进行\n"
-	.string "对战。$"
+	.string "通过GBA连接线与其他训练家进行对\n"
+	.string "战。$"
 
 CableClub_Text_RecordCornerUsingLinkCable::
-	.string "通过GBA连接线与其他人使用记录\n"
-	.string "角功能。$"
+	.string "通过GBA连接线与其他人使用记录角\n"
+	.string "功能。$"
 
 @ Unused
 CableClub_Text_CloseThisMenu:
@@ -37,8 +37,8 @@ gText_PleaseWaitForLink::
 	.string "正在等待连接………… B键：取消$"
 
 gText_ConfirmLinkWhenPlayersReady::
-	.string "等待所有玩家准备完毕……A键：确\n"
-	.string "认B键：取消$"
+	.string "等待所有玩家准备完毕……A键：确认B\n"
+	.string "键：取消$"
 
 gText_ConfirmStartLinkWithXPlayers::
 	.string "开始与{STR_VAR_1}名玩\n"
@@ -62,8 +62,8 @@ Text_SomeoneIsNotReadyToLink:
 	.string "请待所有人准备就绪之后再来。$"
 
 Text_LinkErrorPleaseReset:
-	.string "对不起，连接发生错误……请重启之\n"
-	.string "后再试。$"
+	.string "对不起，连接发生错误……请重启之后\n"
+	.string "再试。$"
 
 Text_PlayersMadeDifferentSelections:
 	.string "连接伙伴的选择似乎不一致。$"
@@ -76,13 +76,13 @@ CableClub_Text_IncorrectNumberOfParticipants:
 
 CableClub_Text_CantSingleBattleWithXPlayers:
 	.string "单打模式无法由\n"
-	.string "{STR_VAR_1}名玩家进行\l"
-	.string "。$"
+	.string "{STR_VAR_1}名玩家进\l"
+	.string "行。$"
 
 CableClub_Text_CantDoubleBattleWithXPlayers:
 	.string "双打模式无法由\n"
-	.string "{STR_VAR_1}名玩家进行\l"
-	.string "。$"
+	.string "{STR_VAR_1}名玩家进\l"
+	.string "行。$"
 
 CableClub_Text_NeedFourPlayers:
 	.string "此对战模式需要4位玩家参与。$"
@@ -95,8 +95,8 @@ Text_TerminateLinkConfirmation:
 	.string "吗？$"
 
 Text_TerminateLinkPleaseWait:
-	.string "正在中止连接……将由向导带您离开\n"
-	.string "房间，请稍候。$"
+	.string "正在中止连接……将由向导带您离开房\n"
+	.string "间，请稍候。$"
 
 CableClub_Text_TooBusyToNotice:
 	.string "这个训练家太忙，没空注意……$"
@@ -172,12 +172,12 @@ CableClub_Text_YouMayBattleHere::
 	.string "在这里您可以与朋友进行对战。$"
 
 CableClub_Text_CanMakeBerryPowder::
-	.string "可以与2到5个训练家一起制作树果\n"
-	.string "粉末。$"
+	.string "可以与2到5个训练家一起制作树果粉\n"
+	.string "末。$"
 
 CableClub_Text_CanMixRecords::
-	.string "这里可以将2到4个玩家的记录混合\n"
-	.string "在一起。$"
+	.string "这里可以将2到4个玩家的记录混合在\n"
+	.string "一起。$"
 
 @ Unused
 CableClub_Text_GuideToVariousServices:
@@ -207,8 +207,8 @@ CableClub_Text_NoEnigmaBerryInUnionRoom:
 	.string "宝可梦无法进入联盟交谊厅。$"
 
 CableClub_Text_UnionRoomAdapterNotConnected:
-	.string "这里是宝可梦无线俱乐部联盟交谊厅\n"
-	.string "，\p"
+	.string "这里是宝可梦无线俱乐部联盟交谊\n"
+	.string "厅，\p"
 	.string "很抱歉，您的无线适配器没有正确连\n"
 	.string "接，\p"
 	.string "请下次再来。$"
@@ -222,15 +222,15 @@ CableClub_Text_PlayerIsWaiting:
 	.string "备好了。加油！$"
 
 MossdeepCity_GameCorner_1F_Text_DescribeWhichGame:
-	.string "需要的话，我可以向您解说对战规则\n"
-	.string "。\p"
+	.string "需要的话，我可以向您解说对战规\n"
+	.string "则。\p"
 	.string "需要解说哪一项？$"
 
 MossdeepCity_GameCorner_1F_Text_PokemonJumpInfo:
 	.string "“宝可梦跳绳”\p"
 	.string "用A键让您的宝可梦跳过藤鞭。\p"
-	.string "只有60厘米以下的小型宝可梦可以\n"
-	.string "参加，\p"
+	.string "只有60厘米以下的小型宝可梦可以参\n"
+	.string "加，\p"
 	.string "而且，只会游泳、挖掘、飞行的宝可\n"
 	.string "梦并不擅长跳跃，\p"
 	.string "因此，这些宝可梦也无法参加。\p"
@@ -239,12 +239,11 @@ MossdeepCity_GameCorner_1F_Text_PokemonJumpInfo:
 
 MossdeepCity_GameCorner_1F_Text_DodrioBerryPickingInfo:
 	.string "“嘟嘟摘树果”\p"
-	.string "指挥嘟嘟的三颗头\n"
-	.string "接住掉落的树果。\p"
-	.string "按十字键的右、上、左，\n"
-	.string "即可操控三颗头。\p"
-	.string "要玩这个游戏，\n"
-	.string "你必须拥有一只嘟嘟。$"
+	.string "指挥嘟嘟的三颗头接住掉落的树果。\p"
+	.string "按十字键的右、上、左，即可操控三\n"
+	.string "颗头。\p"
+	.string "要玩这个游戏，你必须拥有一只嘟\n"
+	.string "嘟。$"
 
 MossdeepCity_GameCorner_1F_Text_TalkToOldManToPlay:
 	.string "如果您想玩游戏，就告诉我后面的老\n"
@@ -281,10 +280,10 @@ MossdeepCity_GameCorner_1F_Text_ExplainRequiredMon:
 	.string "可以参加吗？$"
 
 MossdeepCity_GameCorner_1F_Text_ShortJumpingPokemonAllowed:
-	.string "参加“宝可梦跳绳”的宝可梦必须在\n"
-	.string "60厘米以下，\p"
-	.string "此外，不会跳跃的宝可梦也无法参加\n"
-	.string "，\p"
+	.string "参加“宝可梦跳绳”的宝可梦必须在60\n"
+	.string "厘米以下，\p"
+	.string "此外，不会跳跃的宝可梦也无法参\n"
+	.string "加，\p"
 	.string "比如说，只会游泳、挖掘、飞行的宝\n"
 	.string "可梦。\p"
 	.string "知道这些就够了。$"
@@ -321,12 +320,12 @@ CableClub_Text_ExplainBattleModes:
 	.string "可梦。\p"
 	.string "对战开始时每位选手同时派出1只宝\n"
 	.string "可梦。\p"
-	.string "双打模式中2位选手各自至少带上2\n"
-	.string "只宝可梦。\p"
-	.string "对战开始时2位选手同时派出2只宝\n"
-	.string "可梦。\p"
-	.string "混战模式中4位选手各自至少带上1\n"
-	.string "只宝可梦。\p"
+	.string "双打模式中2位选手各自至少带上2只\n"
+	.string "宝可梦。\p"
+	.string "对战开始时2位选手同时派出2只宝可\n"
+	.string "梦。\p"
+	.string "混战模式中4位选手各自至少带上1只\n"
+	.string "宝可梦。\p"
 	.string "对战开始时每位选手同时派出1只宝\n"
 	.string "可梦。$"
 
@@ -345,8 +344,8 @@ CableClub_Text_ChooseGroupLeader:
 CableClub_Text_WelcomeUnionRoomEnter:
 	.string "欢迎来到宝可梦无线连接俱乐部联盟\n"
 	.string "交谊厅。\p"
-	.string "在这里你可以直接与其他训练家互动\n"
-	.string "，甚至包括一些您不认识的人。\p"
+	.string "在这里你可以直接与其他训练家互\n"
+	.string "动，甚至包括一些您不认识的人。\p"
 	.string "要进入房间吗？$"
 
 CableClub_Text_UnionRoomInfo:
@@ -354,8 +353,8 @@ CableClub_Text_UnionRoomInfo:
 	.string "且也进入了联盟交谊厅的玩家。\p"
 	.string "你可以在这里做各种事情，比如互相\n"
 	.string "问候。\p"
-	.string "您可以拿出2只等级30的宝可梦进\n"
-	.string "行1对1的对战。\p"
+	.string "您可以拿出2只等级30的宝可梦进行1\n"
+	.string "对1的对战。\p"
 	.string "您也可以和2到5个人在这里进行聊\n"
 	.string "天。\p"
 	.string "或者您也可以登记宝可梦进行交换。\p"
@@ -376,14 +375,14 @@ CableClub_Text_FirstTimeRightThisWay:
 
 CableClub_Text_ExplainWirelessClubFirstTime:
 	.string "在这层有2个房间。\p"
-	.string "首先是左边的房间，这是联盟交谊厅\n"
-	.string "。\p"
+	.string "首先是左边的房间，这是联盟交谊\n"
+	.string "厅。\p"
 	.string "您能够和那些在您周围并且也进入该\n"
 	.string "房间的训练家进行连接。\p"
 	.string "您可以和他们一起进行聊天、对战或\n"
 	.string "交换。\p"
-	.string "其次是右边的房间，叫做直接连接室\n"
-	.string "。\p"
+	.string "其次是右边的房间，叫做直接连接\n"
+	.string "室。\p"
 	.string "您可以和他们进行交换或对战。\p"
 	.string "如果无线适配器没有连接，您仍然可\n"
 	.string "以使用GBA连接线进行连接。\p"
@@ -393,8 +392,8 @@ CableClub_Text_ExplainWirelessClubFirstTime:
 
 CableClub_Text_AskAboutLinking:
 	.string "您好，{PLAYER}！\p"
-	.string "我是青名，宝可梦中心2楼的服务员\n"
-	.string "。\p"
+	.string "我是青名，宝可梦中心2楼的服务\n"
+	.string "员。\p"
 	.string "您想了解关于连接的事情吗？$"
 
 CableClub_Text_ExplainWirelessClub:

@@ -120,8 +120,7 @@ BattleFrontier_BattlePalaceCorridor_Movement_AttendantEnterBattleRoom_hns:
 	step_end
 
 BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame_hns:
-	.string "人和宝可梦，其实都是一样的...\n"
-	.string "...\p"
+	.string "人和宝可梦，其实都是一样的......\p"
 	.string "因各自性格的不同，会有擅长的事，\n"
 	.string "也会有不擅长的事。$"
 
@@ -141,7 +140,6 @@ BattleFrontier_BattlePalaceCorridor_Text_BeginningToUnderstandNature_hns:
 	.string "它们的行为了吗？$"
 
 BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYouAndMons_hns:
-	.string "啊……我感受到了你和你的\n"
-	.string "宝可梦之间那份强烈而真挚的羁绊。\l"
-	.string ".....$"
+	.string "啊……我感受到了你和你的宝可梦之间\n"
+	.string "那份强烈而真挚的羁绊。.....$"
 

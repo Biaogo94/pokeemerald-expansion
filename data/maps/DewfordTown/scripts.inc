@@ -687,8 +687,8 @@ DewfordTown_Text_GiveYouOneOfMyRods:
 	.string "我就把我的钓竿给你一支吧。$"
 
 DewfordTown_Text_ThrowInFishingAdvice:
-	.string "作为附送，我给你几条钓鱼的建议吧\n"
-	.string "！\p"
+	.string "作为附送，我给你几条钓鱼的建议\n"
+	.string "吧！\p"
 	.string "首先，面对水面，甩出钓竿。\p"
 	.string "集中精神……鱼咬钩的时候，拉起钓\n"
 	.string "竿。\p"
@@ -718,14 +718,14 @@ DewfordTown_Text_FishingAdvice:
 DewfordTown_Text_XIsTheBiggestHappeningThingRight:
 	.string "我知道什么在发生，什么最时髦，我\n"
 	.string "一直在调查。\p"
-	.string "你听说过这个新词“\n"
-	.string "{STR_VAR_1}”吗？\p"
+	.string "你听说过这个新词\n"
+	.string "“{STR_VAR_1}”吗？\p"
 	.string "没错！你当然知道！\p"
-	.string "我是说，嘘“\n"
-	.string "{STR_VAR_1}”……是现\l"
-	.string "在最新最热的词！\p"
-	.string "无论你从哪儿来，“\n"
-	.string "{STR_VAR_1}”都是最重\l"
+	.string "我是说，嘘\n"
+	.string "“{STR_VAR_1}”……是现在\l"
+	.string "最新最热的词！\p"
+	.string "无论你从哪儿来，\n"
+	.string "“{STR_VAR_1}”都是最重\l"
 	.string "要的事，对吗？$"
 
 DewfordTown_Text_TellMeWhatsNewAndIn:
@@ -736,25 +736,24 @@ DewfordTown_Text_TellMeWhatsNewAndIn:
 DewfordTown_Text_OfCourseIKnowAboutThat:
 	.string "呃？“{STR_VAR_2}”？\p"
 	.string "……\p"
-	.string "……呃……对！没错！我知道！一直\n"
-	.string "都知道！\p"
-	.string "我当然知道！“\n"
-	.string "{STR_VAR_2}”，对吗？\p"
-	.string "对，是它，就是它！“\n"
-	.string "{STR_VAR_2}”不就是最\l"
+	.string "……呃……对！没错！我知道！一直都知\n"
+	.string "道！\p"
+	.string "我当然知道！\n"
+	.string "“{STR_VAR_2}”，对吗？\p"
+	.string "对，是它，就是它！\n"
+	.string "“{STR_VAR_2}”不就是最\l"
 	.string "酷的词吗？\p"
 	.string "不就是在潮流最尖端的词吗？你以为\n"
 	.string "我不知道吗？\p"
-	.string "“{STR_VAR_1}”……那\n"
-	.string "只是，呃，五分钟前的事了，\p"
-	.string "现在，“{STR_VAR_2}”\n"
-	.string "才是最重要最时兴的！$"
+	.string "“{STR_VAR_1}”……那只\n"
+	.string "是，呃，五分钟前的事了，\p"
+	.string "现在，“{STR_VAR_2}”才\n"
+	.string "是最重要最时兴的！$"
 
 DewfordTown_Text_XHuhIThinkYIsCool:
-	.string "唔……“{STR_VAR_2}”\n"
-	.string "？\p"
-	.string "但我觉得，“\n"
-	.string "{STR_VAR_1}”才是最棒\l"
+	.string "唔……“{STR_VAR_2}”？\p"
+	.string "但我觉得，\n"
+	.string "“{STR_VAR_1}”才是最棒\l"
 	.string "的。$"
 
 DewfordTown_Text_HearOfAnyTrendsComeShareWithMe:
@@ -763,5 +762,5 @@ DewfordTown_Text_HearOfAnyTrendsComeShareWithMe:
 
 DewfordTown_Text_YeahDefinitionOfInRightNow:
 	.string "没错，完全正确！\p"
-	.string "现在“{STR_VAR_1}”就\n"
-	.string "是流行！$"
+	.string "现在“{STR_VAR_1}”就是\n"
+	.string "流行！$"

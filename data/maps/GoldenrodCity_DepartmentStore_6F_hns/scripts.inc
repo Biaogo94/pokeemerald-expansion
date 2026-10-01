@@ -97,7 +97,7 @@ GoldenrodDeptStore6_EventScript_Sign::
 GoldenrodDeptStore_Text_6FLass:
     .string "你收听幸运号码频道吗？\p"
     .string "据说要想中奖，就得尽可能多和别人\n"
-    .string "交换宝可梦，来收集不同的ID编号\l"
+    .string "交换宝可梦，来收集不同的ID编号"
     .string "。\p"
     .string "不过，现在通信交换可没以前那么方\n"
     .string "便普及了呢。$"

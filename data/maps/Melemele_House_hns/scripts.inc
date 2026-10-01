@@ -73,8 +73,8 @@ Alola_Melemele_Pokecenter_AceTrainer_Text_0:
 	.string "们全部收服！$"
 
 Alola_Melemele_Pokecenter_BugCatcher_Text_0:
-	.string "我在群岛上发现了一些全新的宝可梦\n"
-	.string "！\p"
+	.string "我在群岛上发现了一些全新的宝可\n"
+	.string "梦！\p"
 	.string "比如我的新朋友--这只小拉达！$"
 
 Alola_Melemele_Pokecenter_Grubbin_Text_0:

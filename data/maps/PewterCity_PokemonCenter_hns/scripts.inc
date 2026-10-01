@@ -18,7 +18,7 @@ PewterCity_PokemonCenter1F_Text_Teacher:
 	.string "...对啊，而且红莲岛的道馆也没\n"
 	.string "了。\p"
 	.string "我当时真是惊呆了。\p"
-	.string "...嗯？我正在打电话呢。走开啦\n"
+	.string "...嗯？我正在打电话呢。走开啦"
 	.string "！$"
 
 PewterCity_PokemonCenter1F_Text_Jigglypuff:
@@ -60,8 +60,8 @@ PewterCity_PokemonCenter_Text_TakeCare:
 	.string "{STR_VAR_1}哦！$"
 
 PewterCity_PokemonCenter_Text_DeclineTrade:
-	.string "不行吗？真遗憾……我觉得\n"
-	.string "你应该会喜欢我的鬼斯通呢。$"
+	.string "不行吗？真遗憾……我觉得你应该会喜\n"
+	.string "欢我的鬼斯通呢。$"
 
 PewterCity_PokemonCenter_Text_NotRequestedMon:
 	.string "唔，这不是{STR_VAR_1}\n"

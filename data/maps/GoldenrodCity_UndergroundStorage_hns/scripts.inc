@@ -49,8 +49,8 @@ GoldenrodCity_UndergroundStorage_EventScript_Item_MaxEther::
 
 RadioTowerBasement_Text_GruntM24Seen:
     .string "你怎么闯到这里来的？\p"
-    .string "看来没办法了。就由我来把你解决掉\n"
-    .string "！$"
+    .string "看来没办法了。就由我来把你解决\n"
+    .string "掉！$"
 
 RadioTowerBasement_Text_GruntM24Beaten:
     .string "被解决掉的反倒是我……$"

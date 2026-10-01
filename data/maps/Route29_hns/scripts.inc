@@ -187,8 +187,8 @@ Route29_Text_OldManDeclined:
 
 Route29_Text_Youngster:
 	.string "哟，你的宝可梦状态如何？\p"
-	.string "要是它们体力不支，还没准备好战斗\n"
-	.string "，就离草丛远一点。$"
+	.string "要是它们体力不支，还没准备好战\n"
+	.string "斗，就离草丛远一点。$"
 
 Route29_Text_Lass:
 	.string "看到那些台阶了吗？跳下去感觉还挺\n"

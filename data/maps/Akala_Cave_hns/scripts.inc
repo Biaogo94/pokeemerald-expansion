@@ -113,8 +113,8 @@ Alola_AkalaCave_TrainerBattleHiker_Text_1:
 
 Alola_AkalaCave_TrainerBattleHiker_Text_2:
 	.string "太热了，我不得不放弃登山。\p"
-	.string "山顶简直就像有人在生着大火一样。\n"
-	.string ".....$"
+	.string "山顶简直就像有人在生着大火一样"
+	.string "。.....$"
 
 Alola_AkalaCave_TrainerBattlePicnicker_Text_0:
 	.string "走了这么久我都累了，来场对战提提\n"
@@ -134,5 +134,5 @@ Alola_AkalaCave_TrainerBattleCamper_Text_1:
 	.string "打得不错，但我还不够强！$"
 
 Alola_AkalaCave_TrainerBattleCamper_Text_2:
-	.string "这里真的很热，还是只有我这么觉得\n"
-	.string "？$"
+	.string "这里真的很热，还是只有我这么觉\n"
+	.string "得？$"

@@ -62,18 +62,17 @@ SlateportCity_NameRatersHouse_EventScript_NewNameDifferent::
 	end
 
 SlateportCity_NameRatersHouse_Text_PleasedToRateMonNickname:
-	.string "看一看瞧一瞧啊！老夫乃姓名鉴定师\n"
-	.string "。也就是看名字算命的。\p"
-	.string "来，让老夫来算算你宝可梦的昵称吧\n"
-	.string "。$"
+	.string "看一看瞧一瞧啊！老夫乃姓名鉴定\n"
+	.string "师。也就是看名字算命的。\p"
+	.string "来，让老夫来算算你宝可梦的昵称\n"
+	.string "吧。$"
 
 SlateportCity_NameRatersHouse_Text_CritiqueWhichMonNickname:
 	.string "你想算哪只宝可梦的昵称啊？$"
 
 SlateportCity_NameRatersHouse_Text_FineNameSuggestBetterOne:
-	.string "唔......叫\n"
-	.string "{STR_VAR_1}是吧？起得\l"
-	.string "相当不错嘛。\p"
+	.string "唔......叫{STR_VAR_1}\n"
+	.string "是吧？起得相当不错嘛。\p"
 	.string "不过！如果让我给它改一个稍微好听\n"
 	.string "一点的名字，你意下如何？$"
 
@@ -97,7 +96,7 @@ SlateportCity_NameRatersHouse_Text_NameNoDifferentYetSuperior:
 	.string "真是太幸运啦！$"
 
 SlateportCity_NameRatersHouse_Text_MagnificentName:
-	.string "唔嗯……{STR_VAR_1}啊\n"
+	.string "唔嗯……{STR_VAR_1}啊"
 	.string "！\p"
 	.string "这昵称好听到无可挑剔！\p"
 	.string "今后你也要好好爱护\n"

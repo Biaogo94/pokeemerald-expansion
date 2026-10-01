@@ -24,22 +24,16 @@ MysteryGiftScript_BattleCardInfo:
 	end
 
 sText_MysteryGiftBattleCountCard:
-	.string "感谢使用\n"
-	.string "神秘礼物系统。\p"
-	.string "您的对战积分卡保留着\n"
-	.string "您和其他拥有相同卡的\l"
-	.string "训练家对战录像。\p"
+	.string "感谢使用神秘礼物系统。\p"
+	.string "您的对战积分卡保留着您和其他拥有\n"
+	.string "相同卡的训练家对战录像。\p"
 	.string "寻找并和拥有与您有相同卡的训练家\n"
 	.string "进行对战吧。\p"
-	.string "您可以检查最终排名\n"
-	.string "通过阅读新闻。\p"
+	.string "您可以检查最终排名通过阅读新闻。\p"
 	.string "请一定要试试看！$"
 
 sText_MysteryGiftBattleCountCard_WonPrize:
-	.string "感谢使用\n"
-	.string "神秘礼物系统。\p"
+	.string "感谢使用神秘礼物系统。\p"
 	.string "恭喜！\p"
-	.string "您获得了赢取\n"
-	.string "3场对战的奖励！\p"
-	.string "希望您再接再厉\n"
-	.string "进行更多对战。$"
+	.string "您获得了赢取3场对战的奖励！\p"
+	.string "希望您再接再厉进行更多对战。$"

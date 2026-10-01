@@ -132,8 +132,8 @@ MahoganyTown_Gym_Text_PryceIntro:
     .string "早在你出生之前，老夫便一直与宝可\n"
     .string "梦相伴至今。\p"
     .string "老夫可不会轻易言败。\p"
-    .string "就由我冬之训练家--柳伯，来向你\n"
-    .string "展示我的实力！$"
+    .string "就由我冬之训练家--柳伯，来向你展\n"
+    .string "示我的实力！$"
 
 MahoganyTown_Gym_Text_PryceImpressed:
     .string "嗯，你的精湛实力让老夫深感佩服。\p"
@@ -146,10 +146,9 @@ MahoganyTown_Gym_Text_ReceivedBadge:
 
 MahoganyTown_Gym_Text_GlacierBadgeSpeech:
     .string "那枚徽章能提高宝可梦的特攻。\p"
-    .string "它还能让你的宝可梦使用“潮旋”，\n"
-    .string "穿过现实中的旋涡。\p"
-    .string "还有这个……这是老夫送你\n"
-    .string "的礼物！$"
+    .string "它还能让你的宝可梦使用“潮旋”，穿\n"
+    .string "过现实中的旋涡。\p"
+    .string "还有这个……这是老夫送你的礼物！$"
 
 MahoganyTown_Gym_Text_HailSpeech:
     .string "那张招式学习器里面是“冰雹”。\p"
@@ -159,8 +158,8 @@ MahoganyTown_Gym_Text_HailSpeech:
 
 MahoganyTown_Gym_Text_CherishPokemon:
     .string "当冰雪消融，春天就会来临。\p"
-    .string "你和你的宝可梦在未来的漫长岁月里\n"
-    .string "，也将一直相伴相随。\p"
+    .string "你和你的宝可梦在未来的漫长岁月\n"
+    .string "里，也将一直相伴相随。\p"
     .string "好好珍惜你们在一起的时光吧！$"
 
 MahoganyTown_Gym_Text_PryceRematch:
@@ -169,8 +168,8 @@ MahoganyTown_Gym_Text_PryceRematch:
     .string "令老夫深感钦佩。\p"
     .string "不过即使到了现在，我们彼此之间也\n"
     .string "仍有许多可以切磋学习的地方。\p"
-    .string "老夫柳伯--这位冬之训练家--可\n"
-    .string "还有几手绝活没亮出来呢。\p"
+    .string "老夫柳伯--这位冬之训练家--可还有\n"
+    .string "几手绝活没亮出来呢。\p"
     .string "要和老夫再战一场吗？$"
 
 MahoganyTown_Gym_Text_PryceRematchDefeat:
@@ -180,8 +179,8 @@ MahoganyTown_Gym_Text_PryceRematchDefeat:
     .string "生中的一切艰难险阻。$"
 
 MahoganyTown_Gym_Text_Guide:
-    .string "柳伯是位培育宝可梦长达50年之久\n"
-    .string "的泰斗级老将。\p"
+    .string "柳伯是位培育宝可梦长达50年之久的\n"
+    .string "泰斗级老将。\p"
     .string "无论你派出怎样的宝可梦，他都有万\n"
     .string "全的阵容来应对。\p"
     .string "虽然火属性是不错的突破口，但千万\n"
@@ -245,6 +244,5 @@ MahoganyTown_Gym_Text_SkierClarissaBeaten:
     .string "哇啊！你害我摔了个大跟头！$"
 
 MahoganyTown_Gym_Text_SkierClarissaAfter:
-    .string "我真不该吹嘘自己的滑雪技术...\n"
-    .string "...$"
+    .string "我真不该吹嘘自己的滑雪技术......$"
 

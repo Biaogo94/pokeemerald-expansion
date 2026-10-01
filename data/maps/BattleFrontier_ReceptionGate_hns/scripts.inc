@@ -310,8 +310,8 @@ BattleFrontier_ReceptionGate_Text_IssueFrontierPass_hns:
 	.string "给您！$"
 
 BattleFrontier_ReceptionGate_Text_ObtainedFrontierPass_hns:
-	.string "{PLAYER}获得了开拓通行证\n"
-	.string "。$"
+	.string "{PLAYER}获得了开拓通行\n"
+	.string "证。$"
 
 BattleFrontier_ReceptionGate_Text_PlacedTrainerCardInFrontierPass_hns:
 	.string "{PLAYER}将训练家卡放入了\n"
@@ -327,8 +327,8 @@ BattleFrontier_ReceptionGate_Text_IfItIsntPlayerYouCame_hns:
 	.string "果然来这里了啊！$"
 
 BattleFrontier_ReceptionGate_Text_OhMrScottGoodDay_hns:
-	.string "向导：啊！亚希达先生！您好，先生\n"
-	.string "！$"
+	.string "向导：啊！亚希达先生！您好，先\n"
+	.string "生！$"
 
 BattleFrontier_ReceptionGate_Text_ScottGreatToSeeYouHere_hns:
 	.string "亚希达：能在这里见到你，真是太棒\n"
@@ -410,8 +410,8 @@ BattleFrontier_ReceptionGate_Text_LevelModeInfo_hns:
 	.string "种模式--50级与公开级别。$"
 
 BattleFrontier_ReceptionGate_Text_Level50Info_hns:
-	.string "50级模式允许不超过50级的宝可\n"
-	.string "梦参加挑战。\p"
+	.string "50级模式允许不超过50级的宝可梦参\n"
+	.string "加挑战。\p"
 	.string "但是请注意，你面对的对手绝对不会\n"
 	.string "派出低于50级的宝可梦。\p"
 	.string "这个模式是对战开拓区的入门级别。\p"
@@ -456,12 +456,12 @@ BattleFrontier_ReceptionGate_Text_SymbolsInfo_hns:
 	.string "获得象征绝非易事。祝您好运！$"
 
 BattleFrontier_ReceptionGate_Text_RecordedBattleInfo_hns:
-	.string "在开拓区通行证上可以记录一场对战\n"
-	.string "。\p"
+	.string "在开拓区通行证上可以记录一场对\n"
+	.string "战。\p"
 	.string "你可以记录一场与朋友进行的对战。\p"
 	.string "或者记录在对战开拓区进行的对战，\n"
-	.string "但对战管道和对战金字塔的比赛除外\l"
-	.string "。\p"
+	.string "但对战管道和对战金字塔的比赛除\l"
+	.string "外。\p"
 	.string "你可以在对战结束后选择保存比赛录\n"
 	.string "像。$"
 

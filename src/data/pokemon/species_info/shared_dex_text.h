@@ -1,7 +1,7 @@
 // fallback
 const u8 gFallbackPokedexText[] = _(
     "这是一只新型宝可梦，目前它仍然被\n"
-    "调查中。暂时还无法提供详细的资料\n"
+    "调查中。暂时还无法提供详细的资料"
     "。");
 
 // Gen 1 families
@@ -11,12 +11,12 @@ const u8 gRaticateAlolaPokedexText[] = _(
     "吃。");
 
 const u8 gPichuPokedexText[] = _(
-    "不擅长存储电力。只要受到什么惊吓\n"
+    "不擅长存储电力。只要受到什么惊吓"
     "，就会立马放电。");
 
 const u8 gPikachuPokedexText[] = _(
     "据说当好几只聚在一起时，那里就会\n"
-    "凝聚强烈的电力，还可能会落下闪电\n"
+    "凝聚强烈的电力，还可能会落下闪电"
     "。");
 
 const u8 gMarowakAlolaPokedexText[] = _(
@@ -50,7 +50,7 @@ const u8 gGenesectPokedexText[] = _(
 // Gen 6 families
 const u8 gGreninjaPokedexText[] = _(
     "像忍者般神出鬼没。以敏捷的动作玩\n"
-    "弄对手，再用水之手里剑将对方劈开\n"
+    "弄对手，再用水之手里剑将对方劈开"
     "。");
 
 const u8 gScatterbugPokedexText[] = _(
@@ -70,7 +70,7 @@ const u8 gXerneasPokedexText[] = _(
     "分享永恒的生命。");
 
 const u8 gZygarde50PokedexText[] = _(
-    "传说，在与威胁到生态系统者战斗时\n"
+    "传说，在与威胁到生态系统者战斗时"
     "，它会变化为更强大的样子。");
 
 const u8 gZygarde10PokedexText[] = _(
@@ -99,7 +99,7 @@ const u8 gRockruffPokedexText[] = _(
 
 const u8 gAraquanidPokedexText[] = _(
     "会发射黏糊糊的水泡。当被它困住的\n"
-    "敌人昏掉后，它就会用大颚将其咬碎\n"
+    "敌人昏掉后，它就会用大颚将其咬碎"
     "。");
 
 const u8 gLurantisPokedexText[] = _(
@@ -109,7 +109,7 @@ const u8 gLurantisPokedexText[] = _(
 
 const u8 gSalazzlePokedexText[] = _(
     "焰后蜥的群体之间一旦碰上彼此，就\n"
-    "会利用费洛蒙气体来展开雄性争夺战\n"
+    "会利用费洛蒙气体来展开雄性争夺战"
     "。");
 
 const u8 gSilvallyNormalPokedexText[] = _(
@@ -151,7 +151,7 @@ const u8 gKommoOPokedexText[] = _(
 // Gen 8 families
 const u8 gAlcremieVanillaCreamPokedexText[] = _(
     "备受照料的霜奶仙产出的鲜奶油可谓\n"
-    "极品，因此训练家都会温柔地培育它\n"
+    "极品，因此训练家都会温柔地培育它"
     "。");
 
 const u8 gAlcremieRubyCreamPokedexText[] = _(
@@ -205,5 +205,5 @@ const u8 gOgerponHearthflameMaskPokedexText[] = _(
 
 const u8 gOgerponCornerstoneMaskPokedexText[] = _(
     "激发出岩石之力量的样子。能以坚固\n"
-    "的岩石身躯抵挡任何攻击，守护自身\n"
+    "的岩石身躯抵挡任何攻击，守护自身"
     "。");

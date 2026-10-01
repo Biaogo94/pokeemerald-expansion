@@ -458,8 +458,8 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_HoldMonsChooseFromSelection:
 	.string "行选择。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LetUsRestoreMons:
-	.string "辛苦了！我来帮您的宝可梦回复体力\n"
-	.string "！$"
+	.string "辛苦了！我来帮您的宝可梦回复体\n"
+	.string "力！$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor2ndOpponent:
 	.string "接下来是第2场比赛！准备好了吗？$"
@@ -486,12 +486,12 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_RetireFromChallenge:
 	.string "要结束交换式对战的挑战吗？$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_InvestigatedUpcomingOpponent:
-	.string "我对您的下一位对手进行了一些调查\n"
-	.string "。$"
+	.string "我对您的下一位对手进行了一些调\n"
+	.string "查。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInNormalType:
-	.string "这个训练家显然很善于操纵一般属性\n"
-	.string "。$"
+	.string "这个训练家显然很善于操纵一般属\n"
+	.string "性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFireType:
 	.string "这个训练家显然很善于操纵火属性。$"
@@ -509,19 +509,19 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInIceType:
 	.string "这个训练家显然很善于操纵冰属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFightingType:
-	.string "这个训练家显然很善于操纵格斗属性\n"
-	.string "。$"
+	.string "这个训练家显然很善于操纵格斗属\n"
+	.string "性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPoisonType:
 	.string "这个训练家显然很善于操纵毒属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGroundType:
-	.string "这个训练家显然很善于操纵地面属性\n"
-	.string "。$"
+	.string "这个训练家显然很善于操纵地面属\n"
+	.string "性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFlyingType:
-	.string "这个训练家显然很善于操纵飞行属性\n"
-	.string "。$"
+	.string "这个训练家显然很善于操纵飞行属\n"
+	.string "性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPsychicType:
 	.string "这个训练家显然很善于操纵超能力属\n"
@@ -531,12 +531,12 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInBugType:
 	.string "这个训练家显然很善于操纵虫属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInRockType:
-	.string "这个训练家显然很善于操纵岩石属性\n"
-	.string "。$"
+	.string "这个训练家显然很善于操纵岩石属\n"
+	.string "性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGhostType:
-	.string "这个训练家显然很善于操纵幽灵属性\n"
-	.string "。$"
+	.string "这个训练家显然很善于操纵幽灵属\n"
+	.string "性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDragonType:
 	.string "这个训练家显然很善于操纵龙属性。$"
@@ -545,15 +545,15 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDarkType:
 	.string "这个训练家显然很善于操纵恶属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFairyType:
-	.string "这个训练家显然很善于操纵妖精属性\n"
-	.string "。$"
+	.string "这个训练家显然很善于操纵妖精属\n"
+	.string "性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInSteelType:
 	.string "这个训练家显然很善于操纵钢属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerHasNoClearFavorite:
-	.string "这个训练家显然没有特别擅长的属性\n"
-	.string "。$"
+	.string "这个训练家显然没有特别擅长的属\n"
+	.string "性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleSlowAndSteady:
 	.string "最喜欢的战斗风格好像是稳扎稳打的\n"
@@ -612,13 +612,13 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_WaitFewMoments:
 	.string "抱歉！请见谅！能稍等一下吗？$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_UnderstoodSirWillDo:
-	.string "……啊？什么？！……哇哦！明白了\n"
-	.string "先生！马上就做！$"
+	.string "……啊？什么？！……哇哦！明白了先\n"
+	.string "生！马上就做！$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_MessageFromHeadComeRightNow:
 	.string "哦，天哪……很抱歉让您久等了！\p"
-	.string "我收到了老板——工厂头目那边发来\n"
-	.string "的消息。\p"
+	.string "我收到了老板——工厂头目那边发来的\n"
+	.string "消息。\p"
 	.string "他说，“我们即将开始！现在马上过\n"
 	.string "来！”$"
 

@@ -176,13 +176,13 @@ SlateportCity_ContestHall_Text_ImLikeMajorlyCheesed:
 	.string "从来没赢过？你知道么？！所以，那\n"
 	.string "个，偶向裁判抱怨，\p"
 	.string "但他们根本不鸟我，真那啥的。\p"
-	.string "所以那个，说你呢！闭嘴行不？那个\n"
-	.string "，偶说，这个拿去！$"
+	.string "所以那个，说你呢！闭嘴行不？那\n"
+	.string "个，偶说，这个拿去！$"
 
 @ Unused
 SlateportCity_ContestHall_Text_ExplainTorment:
-	.string "拿着，TM41，嘿，就是无理取闹\n"
-	.string "，你在听我说吗？\p"
+	.string "拿着，TM41，嘿，就是无理取闹，你\n"
+	.string "在听我说吗？\p"
 	.string "就像是，它不允许同一场中使用2次\n"
 	.string "同样的的招式，了解？\p"
 	.string "嘿，现在，听好，就像是希望我并没\n"
@@ -207,15 +207,15 @@ SlateportCity_ContestHall_Text_JudgeWouldntDoToMissContest:
 
 @ Unused
 SlateportCity_ContestHall_Text_ItsAppealTime:
-	.string "吸引力时间！有什么我可以报导的呢\n"
-	.string "？$"
+	.string "吸引力时间！有什么我可以报导的\n"
+	.string "呢？$"
 
 @ Unused
 SlateportCity_ContestHall_Text_DidntPayAttentionToAppeal:
-	.string "他们没有太注意我的宝可梦的吸引力\n"
-	.string "……\p"
-	.string "哼，那个裁判，他根本就不懂得欣赏\n"
-	.string "。$"
+	.string "他们没有太注意我的宝可梦的吸引\n"
+	.string "力……\p"
+	.string "哼，那个裁判，他根本就不懂得欣\n"
+	.string "赏。$"
 
 @ Unused
 SlateportCity_ContestHall_Text_RewardWithSageAdvice:
@@ -244,8 +244,8 @@ SlateportCity_ContestHall_Text_BattleAndContestAlike:
 
 @ Unused
 SlateportCity_ContestHall_Text_MonLooksOnTopOfGame:
-	.string "那只宝可梦看起来像是比赛中的高手\n"
-	.string "，嗯？\p"
+	.string "那只宝可梦看起来像是比赛中的高\n"
+	.string "手，嗯？\p"
 	.string "宝可梦在评判比赛中做得好的话会比\n"
 	.string "在吸引力比赛中看起来更放松。$"
 

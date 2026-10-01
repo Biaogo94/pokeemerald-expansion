@@ -46,8 +46,8 @@ MtMoon_1F_EventScript_Robby::
 	end
 
 MtMoon_1F_Text_MarcosIntro::
-	.string "哇！吓我一大跳！……不过就是个小\n"
-	.string "孩嘛！$"
+	.string "哇！吓我一大跳！……不过就是个小孩\n"
+	.string "嘛！$"
 
 MtMoon_1F_Text_MarcosDefeat::
 	.string "哇！吓我两大跳！$"
@@ -73,8 +73,8 @@ MtMoon_1F_Text_MiriamDefeat::
 	.string "喔！我输了！$"
 
 MtMoon_1F_Text_MiriamPostBattle::
-	.string "你打算怎么从这儿出去？这里太大了\n"
-	.string "，我都要迷路了。$"
+	.string "你打算怎么从这儿出去？这里太大\n"
+	.string "了，我都要迷路了。$"
 
 MtMoon_1F_Text_JovanIntro::
 	.string "干嘛！别鬼鬼祟祟地靠近我！$"
@@ -93,12 +93,12 @@ MtMoon_1F_Text_IrisDefeat::
 	.string "我输了？$"
 
 MtMoon_1F_Text_IrisPostBattle::
-	.string "听说这里有罕见的化石，我就赶来了\n"
-	.string "。$"
+	.string "听说这里有罕见的化石，我就赶来\n"
+	.string "了。$"
 
 MtMoon_1F_Text_KentIntro::
-	.string "有一些可疑的人在这个山洞里。你呢\n"
-	.string "，你在这里干什么？$"
+	.string "有一些可疑的人在这个山洞里。你\n"
+	.string "呢，你在这里干什么？$"
 
 MtMoon_1F_Text_KentDefeat::
 	.string "被你打败了！$"

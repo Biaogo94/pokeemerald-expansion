@@ -16,8 +16,8 @@ BellchimeTrail_EventScript_Morty::
 	end
 
 BellchimeTrail_Text_Morty:
-	.string "小松：传说的宝可梦没有选择我..\n"
-	.string "....\p"
+	.string "小松：传说的宝可梦没有选择我...\n"
+	.string "...\p"
 	.string "但这并不代表我就此失去了未来。\p"
 	.string "我会继续修行，直到寻找到属于自己\n"
 	.string "的崭新未来。\p"

@@ -197,7 +197,7 @@ TwoIsland_JoyfulGameCorner_Text_PleaseHelpFindLostelle::
 	.string "你有没有在附近见过小迷？我不知道\n"
 	.string "她在哪里。她应该到了这很久的了。\p"
 	.string "小迷她很可爱。和我一样的可爱……\p"
-	.string "如果我的小迷有什么意外的话……？\n"
+	.string "如果我的小迷有什么意外的话……？"
 	.string "！\p"
 	.string "请，请你帮我找她吧！请你去三之岛\n"
 	.string "找她吧！$"
@@ -260,8 +260,8 @@ TwoIsland_JoyfulGameCorner_Text_HandedMeteoriteToLostellesDaddy::
 	.string "的爸爸。$"
 
 TwoIsland_JoyfulGameCorner_Text_OhThisIsFromBill::
-	.string "哦，我明白了。这是正辉让你转交的\n"
-	.string "。你一定要帮我谢谢他！\p"
+	.string "哦，我明白了。这是正辉让你转交\n"
+	.string "的。你一定要帮我谢谢他！\p"
 	.string "你真是太好了！希望你能收下这个。$"
 
 TwoIsland_JoyfulGameCorner_Text_ReceivedMoonStoneFromLostellesDaddy::

@@ -50,10 +50,10 @@ CeladonCity_DepartmentStore_3F_EventScript_Poster::
 	end
 
 CeladonCity_DepartmentStore_3F_Text_OTStandsForOriginalTrainer::
-	.string "收服后的宝可梦会生成“ID号码”\n"
-	.string "和“主人”(OT)。\p"
-	.string "OT是“初始训练家”的简称--指\n"
-	.string "的是最初收服它的训练家。$"
+	.string "收服后的宝可梦会生成“ID号码”和\n"
+	.string "“主人”(OT)。\p"
+	.string "OT是“初始训练家”的简称--指的是最\n"
+	.string "初收服它的训练家。$"
 
 CeladonCity_DepartmentStore_3F_Text_BuddyTradingKangaskhanForHaunter::
 	.string "好极了！\p"
@@ -64,12 +64,12 @@ CeladonCity_DepartmentStore_3F_Text_HaunterEvolvedOnTrade::
 	.string "来吧，鬼斯通！\p"
 	.string "我喜欢鬼斯通！我一直在收集它！\p"
 	.string "啊？\p"
-	.string "鬼斯通在通讯后变成了另一种宝可梦\n"
-	.string "！$"
+	.string "鬼斯通在通讯后变成了另一种宝可\n"
+	.string "梦！$"
 
 CeladonCity_DepartmentStore_3F_Text_CanIdentifyTradeMonsByID::
-	.string "你可以通过ID号码来辨识通讯交换\n"
-	.string "来的宝可梦。$"
+	.string "你可以通过ID号码来辨识通讯交换来\n"
+	.string "的宝可梦。$"
 
 CeladonCity_DepartmentStore_3F_Text_ItsSuperNES::
 	.string "这是一个超级红白机。$"

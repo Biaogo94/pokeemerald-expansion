@@ -89,8 +89,8 @@ PewterCity_Gym_Text_BrockIntro::
 	.string "身体都和岩石一样坚硬，并且都有着\n"
 	.string "坚定的决心！\p"
 	.string "没错，我的宝可梦就是岩石属性的！\p"
-	.string "哼，明明知道会输，还是要来挑战我\n"
-	.string "？\p"
+	.string "哼，明明知道会输，还是要来挑战\n"
+	.string "我？\p"
 	.string "是训练家的荣誉心让你挑战我的吧！\p"
 	.string "好吧，展示一下你最好的能力吧！\n"
 	.string "{PLAY_BGM}\l"
@@ -123,8 +123,8 @@ PewterCity_Gym_Text_ReceivedTM39FromBrock::
 	.string "TM39。$"
 
 PewterCity_Gym_Text_ExplainTM39::
-	.string "TM是技能学习机，里面有宝可梦能\n"
-	.string "学习的技能。\p"
+	.string "TM是技能学习机，里面有宝可梦能学\n"
+	.string "习的技能。\p"
 	.string "使用技能让一只宝可梦学习。\p"
 	.string "一个技能只能用一次。\p"
 	.string "所以，当你使用时，要认真挑选宝可\n"
@@ -146,15 +146,15 @@ PewterCity_Gym_Text_DontHaveRoomForThis::
 
 PewterCity_Gym_Text_LiamIntro::
 	.string "在那站好别动，小孩！\p"
-	.string "要想挑战馆主小刚，你还差了100\n"
-	.string "00光年！$"
+	.string "要想挑战馆主小刚，你还差了10000\n"
+	.string "光年！$"
 
 PewterCity_Gym_Text_LiamDefeat::
 	.string "呃！\p"
 	.string "光年不是时间……而是路程的单位！$"
 
 PewterCity_Gym_Text_LiamPostBattle::
-	.string "你相当热血啊。……但是比不过小刚\n"
+	.string "你相当热血啊。……但是比不过小刚"
 	.string "！$"
 
 PewterCity_Gym_Text_LetMeTakeYouToTheTop::

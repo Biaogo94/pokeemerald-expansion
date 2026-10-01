@@ -16,8 +16,8 @@ ThreeIsland_House1_EventScript_DisplayCase::
 ThreeIsland_House1_Text_YoureAlwaysSoCool::
 	.string "小迷：嗨，{PLAYER}！你一\n"
 	.string "直都是这么帅啊！\p"
-	.string "将来有机会……我也要亲手为你做便\n"
-	.string "当 {PLAYER}。$"
+	.string "将来有机会……我也要亲手为你做便当\n"
+	.string " {PLAYER}。$"
 
 ThreeIsland_House1_Text_RareRocksGemsDisplayed::
 	.string "展览着稀有的岩石和宝石。$"

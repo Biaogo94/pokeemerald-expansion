@@ -127,8 +127,9 @@ Route112_Text_NotEasyToGetBackToLavaridge:
 	.string "么容易了。$"
 
 Route112_Text_MtChimneyCableCarSign:
-	.string "烟突山缆车\n"
-	.string "“步行{UP_ARROW}一小段路即到！”$"
+	.string "烟突山缆车“步行\n"
+	.string "{UP_ARROW}一小段路即\l"
+	.string "到！”$"
 
 Route112_Text_MtChimneySign:
 	.string "烟囱山\p"

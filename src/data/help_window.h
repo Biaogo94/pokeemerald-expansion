@@ -68,7 +68,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     [HELP_ALOLA_WINDOW] =
     {
         .header = COMPOUND_STRING("额外追加内容：群岛"),
-        .desc = COMPOUND_STRING("与该NPC对话可体验额外追加内容\n"
+        .desc = COMPOUND_STRING("与该NPC对话可体验额外追加内容"
                                 "：群岛。此内容非主线通关或全国图\l"
                                 "鉴收集所必需。仅作为额外要素供您\l"
                                 "体验。"
@@ -81,7 +81,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     {
         .header = COMPOUND_STRING("幼年宝可梦的特性"),
         .desc = COMPOUND_STRING("皮丘的特性是静电。皮宝宝的特性是\n"
-                                "迷人之躯。宝宝丁的特性是迷人之躯\l"
+                                "迷人之躯。宝宝丁的特性是迷人之躯"
                                 "。无畏小子的特性是毅力。迷唇娃的\l"
                                 "特性是迟钝。电击怪的特性是静电。\l"
                                 "鸭嘴宝宝的特性是火焰之躯。"
@@ -137,9 +137,9 @@ const struct HelpWindow gHelpWindowInfo[] =
                                 "V)：红色：HP、攻击、速度  \l 蓝色：HP、特攻、速度粉色：攻\l"
                                 "击、特攻、速度  绿色：HP、防\l"
                                 "御、特防黄色：HP、攻击、防御 \l"
-                                "  紫色：攻击、防御、特防靛色：\lHP、特攻、特防   褐色：防御\l"
+                                "  紫色：攻击、防御、特防靛色：\lHP、特攻、特防   褐色：防御"
                                 "、速度、特防浅蓝：特攻、速度、特\l"
-                                "防  橄榄：攻击、防御、速度灰色\l"
+                                "防  橄榄：攻击、防御、速度灰色"
                                 "：HP、攻击、特攻所有宝可方块均\l能吸引隐藏特性。"
 
                             ),

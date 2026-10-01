@@ -297,8 +297,7 @@ BattleFrontier_BattlePikeThreePathRoom_Text_AwaitingReturnSaveBeforeResume:
 	.string "我先写入记录……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_PleaseEnjoyChallenge:
-	.string "请好好享受您的选择式对战挑战吧…\n"
-	.string "…$"
+	.string "请好好享受您的选择式对战挑战吧……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SavingYourData:
 	.string "正在写入记录……请稍等……$"
@@ -314,23 +313,23 @@ BattleFrontier_BattlePikeThreePathRoom_Text_ApologizeForImpertinence:
 	.string "原来如此……抱歉失礼了……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutRightPath:
-	.string "哦，让我看看……有一些关于右边道\n"
-	.string "路的事……$"
+	.string "哦，让我看看……有一些关于右边道路\n"
+	.string "的事……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutCenterPath:
-	.string "哦，让我看看……有一些关于中间道\n"
-	.string "路的事……$"
+	.string "哦，让我看看……有一些关于中间道路\n"
+	.string "的事……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutLeftPath:
-	.string "哦，让我看看……有一些关于左边道\n"
-	.string "路的事……$"
+	.string "哦，让我看看……有一些关于左边道路\n"
+	.string "的事……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_AromaOfPokemon:
 	.string "似乎有宝可梦在里面的感觉……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_PresenceOfPeople:
-	.string "是……训练家吗？感觉到好像有人在\n"
-	.string "里面……$"
+	.string "是……训练家吗？感觉到好像有人在里\n"
+	.string "面……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_HeardWhispering:
 	.string "好像听得到轻声细语般的声音……$"
@@ -340,10 +339,10 @@ BattleFrontier_BattlePikeThreePathRoom_Text_WaveOfNostaliga:
 
 BattleFrontier_BattlePikeThreePathRoom_Text_TerrifyingEvent:
 	.string "我很抱歉地说……\p"
-	.string "一件可怕的事，没错，一件恐怖的事\n"
-	.string "，将要降临到您头上……\p"
+	.string "一件可怕的事，没错，一件恐怖的\n"
+	.string "事，将要降临到您头上……\p"
 	.string "我劝您要万分小心做好最坏的打算。$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_DreadfulPresence:
-	.string "无论哪道门后都有一股很可怕的感觉\n"
-	.string "……$"
+	.string "无论哪道门后都有一股很可怕的感\n"
+	.string "觉……$"

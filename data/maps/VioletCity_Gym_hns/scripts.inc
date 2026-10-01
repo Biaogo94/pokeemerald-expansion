@@ -63,8 +63,8 @@ VioletGym_Text_Falkner_Intro:
 	.string "正的力量！$"
 
 VioletGym_Text_Falkner_WinLoss:
-	.string "……可恶！父亲悉心培育的\n"
-	.string "鸟宝可梦居然……\p"
+	.string "……可恶！父亲悉心培育的鸟宝可梦居\n"
+	.string "然……\p"
 	.string "好吧。拿去吧。\p"
 	.string "这是宝可梦联盟公认的飞翼徽章。$"
 
@@ -82,8 +82,7 @@ VioletGym_Text_Falkner_TMExplain:
 	.string "使用招式学习器，可以让宝可梦立刻\n"
 	.string "学会新的招式。\p"
 	.string "这个学习器里记录的是羽栖。\p"
-	.string "它可以为宝可梦回复最大HP的一\n"
-	.string "半。\p"
+	.string "它可以为宝可梦回复最大HP的一半。\p"
 	.string "换句话说，能够治疗你的宝可梦。$"
 
 VioletGym_Text_Falkner_AfterFight:

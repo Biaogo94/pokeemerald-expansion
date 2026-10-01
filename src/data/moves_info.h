@@ -51,11 +51,11 @@ static const u8 sHealingWishDescription[] = _(
     "同伴。");
 
 static const u8 sWringOutDescription[] = _(
-    "对手的HP越多，造成的伤害就越大\n"
+    "对手的HP越多，造成的伤害就越大"
     "。");
 
 static const u8 sUTurnDescription[] = _(
-    "给予对手伤害后，自身迅速替换下场\n"
+    "给予对手伤害后，自身迅速替换下场"
     "。");
 
 static const u8 sStormThrowDescription[] = _(
@@ -69,11 +69,11 @@ static const u8 sChipAwayDescription[] = _(
     "无视对手的能力变化进行攻击。");
 
 static const u8 sHeavySlamDescription[] = _(
-    "自身比对手越重，造成的伤害就越大\n"
+    "自身比对手越重，造成的伤害就越大"
     "。");
 
 static const u8 sPsyshockDescription[] = _(
-    "放出念力波进行攻击，造成物理伤害\n"
+    "放出念力波进行攻击，造成物理伤害"
     "。");
 
 static const u8 sLavaPlumeDescription[] = _(
@@ -138,7 +138,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("拍击"),
         .description = COMPOUND_STRING(
-            "使用长长的尾巴或手等拍打对手攻击\n"
+            "使用长长的尾巴或手等拍打对手攻击"
             "。"),
         .effect = EFFECT_HIT,
         .power = 40,
@@ -368,7 +368,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("抓"),
         .description = COMPOUND_STRING(
-            "用坚硬且无比锋利的爪子抓对手攻击\n"
+            "用坚硬且无比锋利的爪子抓对手攻击"
             "。"),
         .effect = EFFECT_HIT,
         .power = 40,
@@ -848,7 +848,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("泼沙"),
         .description = COMPOUND_STRING(
-            "向对手脸上泼沙子，从而降低命中率\n"
+            "向对手脸上泼沙子，从而降低命中率"
             "。"),
         .effect = EFFECT_ACCURACY_DOWN,
         .power = 0,
@@ -2121,7 +2121,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("毒粉"),
         .description = COMPOUND_STRING(
-            "撒出毒粉，从而让对手陷入中毒状态\n"
+            "撒出毒粉，从而让对手陷入中毒状态"
             "。"),
         .effect = EFFECT_NON_VOLATILE_STATUS,
         .power = 0,
@@ -3872,7 +3872,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("神鸟猛击"),
         .description = COMPOUND_STRING(
-            "第2回合攻击对手。偶尔使对手畏缩\n"
+            "第2回合攻击对手。偶尔使对手畏缩"
             "。也容易击中要害。"),
         .effect = EFFECT_TWO_TURNS_ATTACK,
         .power = 140,
@@ -4580,7 +4580,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("小偷"),
         .description = COMPOUND_STRING(
-            "攻击时盗取道具。当自己携带道具时\n"
+            "攻击时盗取道具。当自己携带道具时"
             "，不会去盗取。"),
         .effect = EFFECT_STEAL_ITEM,
         .power = B_UPDATED_MOVE_DATA >= GEN_6 ? 60 : 40,
@@ -5396,7 +5396,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("锁定"),
         .description = COMPOUND_STRING(
-            "紧紧瞄准对手，下次攻击必定会打中\n"
+            "紧紧瞄准对手，下次攻击必定会打中"
             "。"),
         .effect = EFFECT_LOCK_ON,
         .power = 0,
@@ -6727,7 +6727,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("碎岩"),
         .description = COMPOUND_STRING(
-            "用拳头攻击。有时会降低对手的防御\n"
+            "用拳头攻击。有时会降低对手的防御"
             "。"),
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_4 ? 40 : 20,
@@ -8103,7 +8103,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("冰球"),
         .description = COMPOUND_STRING(
-            "在5回合内攻击对手。招式每次击中\n"
+            "在5回合内攻击对手。招式每次击中"
             "，威力就会提高。"),
         .effect = EFFECT_ROLLOUT,
         .power = 30,
@@ -8156,7 +8156,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("偷懒"),
         .description = COMPOUND_STRING(
-            "偷懒休息。回复自己最大HP的一半\n"
+            "偷懒休息。回复自己最大HP的一半"
             "。"),
         .effect = EFFECT_RESTORE_HP,
         .power = 0,
@@ -10171,7 +10171,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("仿效"),
         .description = COMPOUND_STRING(
-            "模仿对手使出的招式，使出相同招式\n"
+            "模仿对手使出的招式，使出相同招式"
             "。对手没出招则会失败。"),
         .effect = EFFECT_COPYCAT,
         .power = 0,
@@ -10248,7 +10248,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("惩罚"),
         .description = COMPOUND_STRING(
-            "根据能力变化，对手提高的力量越大\n"
+            "根据能力变化，对手提高的力量越大"
             "，招式的威力越大。"),
         .effect = EFFECT_PUNISHMENT,
         .power = 60,
@@ -10437,7 +10437,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("闪焰冲锋"),
         .description = COMPOUND_STRING(
-            "让火焰覆盖全身猛撞。自己也会受伤\n"
+            "让火焰覆盖全身猛撞。自己也会受伤"
             "。有时让对手灼伤。"),
         .effect = EFFECT_RECOIL,
         .power = 120,
@@ -10755,7 +10755,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("龙之俯冲"),
         .description = COMPOUND_STRING(
-            "释放出骇人杀气，边威慑边撞击对手\n"
+            "释放出骇人杀气，边威慑边撞击对手"
             "。有时会使对手畏缩。"),
         .effect = EFFECT_HIT,
         .power = 100,
@@ -11522,7 +11522,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("强力鞭打"),
         .description = COMPOUND_STRING(
-            "激烈地挥舞青藤或触手摔打对手攻击\n"
+            "激烈地挥舞青藤或触手摔打对手攻击"
             "。"),
         .effect = EFFECT_HIT,
         .power = 120,
@@ -11568,7 +11568,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("十字毒刃"),
         .description = COMPOUND_STRING(
-            "用毒刃劈开对手。有时会让对手中毒\n"
+            "用毒刃劈开对手。有时会让对手中毒"
             "，也容易击中要害。"),
         .effect = EFFECT_HIT,
         .power = 70,
@@ -11691,7 +11691,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("诱惑"),
         .description = COMPOUND_STRING(
-            "诱惑异性，从而大幅降低对手的特攻\n"
+            "诱惑异性，从而大幅降低对手的特攻"
             "。"),
         .effect = EFFECT_CAPTIVATE,
         .power = 0,
@@ -11763,7 +11763,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("喋喋不休"),
         .description = COMPOUND_STRING(
-            "用非常烦人喋喋不休的音波攻击对手\n"
+            "用非常烦人喋喋不休的音波攻击对手"
             "。使对手混乱。"),
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_6 ? 65 : 60,
@@ -12286,7 +12286,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("广域防守"),
         .description = COMPOUND_STRING(
-            "在1回合内防住击打我方全员的攻击\n"
+            "在1回合内防住击打我方全员的攻击"
             "。"),
         .effect = EFFECT_PROTECT,
         .power = 0,
@@ -12835,7 +12835,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("欺诈"),
         .description = COMPOUND_STRING(
-            "利用对手的力量攻击。对手攻击越高\n"
+            "利用对手的力量攻击。对手攻击越高"
             "，伤害越大。"),
         .effect = EFFECT_FOUL_PLAY,
         .power = 95,
@@ -13072,7 +13072,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("交换场地"),
         .description = COMPOUND_STRING(
-            "用神奇力量瞬间移动与同伴交换位置\n"
+            "用神奇力量瞬间移动与同伴交换位置"
             "。连续使出容易失败。"),
         .effect = EFFECT_ALLY_SWITCH,
         .power = 0,
@@ -13147,7 +13147,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("治愈波动"),
         .description = COMPOUND_STRING(
-            "放出治愈波动，从而回复对手最大H\n"
+            "放出治愈波动，从而回复对手最大H"
             "P的一半。"),
         .effect = EFFECT_HEAL_PULSE,
         .power = 0,
@@ -13546,7 +13546,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("虫之抵抗"),
         .description = COMPOUND_STRING(
-            "抵抗并攻击对手。会降低对手的特攻\n"
+            "抵抗并攻击对手。会降低对手的特攻"
             "。"),
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_6 ? 50 : 30,
@@ -13711,7 +13711,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("直冲钻"),
         .description = COMPOUND_STRING(
-            "像钢钻一样，边旋转身体边撞击对手\n"
+            "像钢钻一样，边旋转身体边撞击对手"
             "。容易击中要害。"),
         .effect = EFFECT_HIT,
         .power = 80,
@@ -13757,7 +13757,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("爱心印章"),
         .description = COMPOUND_STRING(
-            "以可爱动作使对手疏忽，并强力一击\n"
+            "以可爱动作使对手疏忽，并强力一击"
             "。有时使对手畏缩。"),
         .effect = EFFECT_HIT,
         .power = 60,
@@ -14839,7 +14839,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("魅惑之声"),
         .description = COMPOUND_STRING(
-            "发出魅惑的叫声，给予对手精神伤害\n"
+            "发出魅惑的叫声，给予对手精神伤害"
             "。攻击必定会命中。"),
         .effect = EFFECT_HIT,
         .power = 40,
@@ -14862,7 +14862,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("抛下狠话"),
         .description = COMPOUND_STRING(
-            "抛下狠话威吓对手，降低攻击特攻后\n"
+            "抛下狠话威吓对手，降低攻击特攻后"
             "，和后备进行替换。"),
         .effect = EFFECT_PARTING_SHOT,
         .power = 0,
@@ -15126,7 +15126,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("爆音波"),
         .description = COMPOUND_STRING(
-            "通过震耳欲聋的爆炸声产生的破坏力\n"
+            "通过震耳欲聋的爆炸声产生的破坏力"
             "，攻击所有宝可梦。"),
         .effect = EFFECT_HIT,
         .power = 140,
@@ -15856,7 +15856,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("千波激荡"),
         .description = COMPOUND_STRING(
-            "从地面掀起波浪攻击。被掀入的对手\n"
+            "从地面掀起波浪攻击。被掀入的对手"
             "，将无法逃走。"),
         .effect = EFFECT_HIT,
         .power = 90,
@@ -15904,7 +15904,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("破灭之光"),
         .description = COMPOUND_STRING(
-            "借用永恒之花的力量，发射强力光线\n"
+            "借用永恒之花的力量，发射强力光线"
             "。自己也会受伤害。"),
         .effect = EFFECT_RECOIL,
         .power = 140,
@@ -15927,7 +15927,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("根源波动"),
         .description = COMPOUND_STRING(
-            "用无数青白色且闪耀的光线攻击对手\n"
+            "用无数青白色且闪耀的光线攻击对手"
             "。"),
         .effect = EFFECT_HIT,
         .power = 110,
@@ -16374,7 +16374,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("磨砺"),
         .description = COMPOUND_STRING(
-            "集中精神，下次攻击必定会击中要害\n"
+            "集中精神，下次攻击必定会击中要害"
             "。"),
         .effect = EFFECT_LASER_FOCUS,
         .power = 0,
@@ -16473,7 +16473,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("掷锚"),
         .description = COMPOUND_STRING(
-            "将锚缠住对手攻击。使对手无法逃走\n"
+            "将锚缠住对手攻击。使对手无法逃走"
             "。"),
         .effect = EFFECT_HIT,
         .power = 80,
@@ -16716,7 +16716,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("核心惩罚者"),
         .description = COMPOUND_STRING(
-            "如果给予过伤害的对手已经结束行动\n"
+            "如果给予过伤害的对手已经结束行动"
             "，其特性会被消除。"),
         .effect = EFFECT_HIT,
         .power = 100,
@@ -16928,7 +16928,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("陷阱甲壳"),
         .description = COMPOUND_STRING(
-            "设下甲壳陷阱。若对手使出物理招式\n"
+            "设下甲壳陷阱。若对手使出物理招式"
             "，陷阱就会爆炸攻击。"),
         .effect = EFFECT_SHELL_TRAP,
         .power = 150,
@@ -17229,7 +17229,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("麻麻刺刺"),
         .description = COMPOUND_STRING(
-            "撞向对手并发出强电，使其麻麻刺刺\n"
+            "撞向对手并发出强电，使其麻麻刺刺"
             "。有时造成畏缩。"),
         .effect = EFFECT_HIT,
         .power = 80,
@@ -17450,7 +17450,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("闪闪雷光"),
         .description = COMPOUND_STRING(
-            "皮卡丘越喜欢训练家，电击威力越强\n"
+            "皮卡丘越喜欢训练家，电击威力越强"
             "。攻击必定会命中。"),
         .effect = EFFECT_RETURN,
         .power = 1,
@@ -17651,7 +17651,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("砰砰击破"),
         .description = COMPOUND_STRING(
-            "伊布越喜欢训练家，冲撞的威力越强\n"
+            "伊布越喜欢训练家，冲撞的威力越强"
             "。攻击必定会命中。"),
         .effect = EFFECT_RETURN,
         .power = 1,
@@ -17701,7 +17701,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("极巨炮"),
         .description = COMPOUND_STRING(
-            "将凝缩在体内的能量从核心放出攻击\n"
+            "将凝缩在体内的能量从核心放出攻击"
             "。"),
         .effect = EFFECT_DYNAMAX_DOUBLE_DMG,
         .power = 100,
@@ -17940,7 +17940,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("电喙"),
         .description = COMPOUND_STRING(
-            "用带电的喙啄刺对手。如果先手攻击\n"
+            "用带电的喙啄刺对手。如果先手攻击"
             "，威力会变成2倍。"),
         .effect = EFFECT_BOLT_BEAK,
         .power = 85,
@@ -17962,7 +17962,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("鳃咬"),
         .description = COMPOUND_STRING(
-            "用坚硬的腮咬住对手。如果先手攻击\n"
+            "用坚硬的腮咬住对手。如果先手攻击"
             "，威力会变成2倍。"),
         .effect = EFFECT_BOLT_BEAK,
         .power = 85,
@@ -18316,7 +18316,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("苹果酸"),
         .description = COMPOUND_STRING(
-            "使用从酸苹果中提取出来的液体攻击\n"
+            "使用从酸苹果中提取出来的液体攻击"
             "。降低对手的特防。"),
         .effect = EFFECT_HIT,
         .power = 80,
@@ -19086,7 +19086,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("水流连打"),
         .description = COMPOUND_STRING(
-            "将水之流派修炼至大成的的3次连击\n"
+            "将水之流派修炼至大成的的3次连击"
             "。必定击中要害。"),
         .effect = EFFECT_HIT,
         .power = 25,
@@ -19216,7 +19216,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("雷鸣蹴击"),
         .description = COMPOUND_STRING(
-            "以雷电般的动作戏耍对手并使出脚踢\n"
+            "以雷电般的动作戏耍对手并使出脚踢"
             "。可降低对手防御。"),
         .effect = EFFECT_HIT,
         .power = 90,
@@ -19312,7 +19312,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("克命爪"),
         .description = COMPOUND_STRING(
-            "以破灭之爪攻击。有时会让对手中毒\n"
+            "以破灭之爪攻击。有时会让对手中毒"
             "、麻痹或睡眠。"),
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_9 ? 80 : 60,
@@ -19334,7 +19334,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("屏障猛攻"),
         .description = COMPOUND_STRING(
-            "让意念的能量覆盖全身撞向对手攻击\n"
+            "让意念的能量覆盖全身撞向对手攻击"
             "。会提高自身防御。"),
         .effect = EFFECT_HIT,
         .power = 70,
@@ -20227,7 +20227,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("仆刀"),
         .description = COMPOUND_STRING(
-            "下跪让对手大意后发起袭击劈向对手\n"
+            "下跪让对手大意后发起袭击劈向对手"
             "。攻击必定会命中。"),
         .effect = EFFECT_HIT,
         .power = 85,
@@ -20382,7 +20382,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("全开猛撞"),
         .description = COMPOUND_STRING(
-            "边变形边凶暴地落下，引发起大爆炸\n"
+            "边变形边凶暴地落下，引发起大爆炸"
             "。克制时威力提升。"),
         .effect = EFFECT_COLLISION_COURSE,
         .power = 100,
@@ -20401,7 +20401,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("闪电猛冲"),
         .description = COMPOUND_STRING(
-            "边变形边高速奔走，以未知电击贯穿\n"
+            "边变形边高速奔走，以未知电击贯穿"
             "。克制时威力提升。"),
         .effect = EFFECT_COLLISION_COURSE,
         .power = 100,
@@ -20521,7 +20521,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("虫扑"),
         .description = COMPOUND_STRING(
-            "飞扑向对手攻击。会降低对手的速度\n"
+            "飞扑向对手攻击。会降低对手的速度"
             "。"),
         .effect = EFFECT_HIT,
         .power = 50,
@@ -20571,7 +20571,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("泼冷水"),
         .description = COMPOUND_STRING(
-            "泼洒冰冷得足以让对手失去活力的水\n"
+            "泼洒冰冷得足以让对手失去活力的水"
             "。会降低对手攻击。"),
         .effect = EFFECT_HIT,
         .power = 50,
@@ -20999,7 +20999,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("刷刷茶炮"),
         .description = COMPOUND_STRING(
-            "发射茶大炮，可以回复伤害一半HP\n"
+            "发射茶大炮，可以回复伤害一半HP"
             "，有时造成灼伤。"),
         .effect = EFFECT_ABSORB,
         .power = 80,
@@ -21797,7 +21797,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("海神庄严交响乐"),
         .description = COMPOUND_STRING(
-            "西狮海壬召唤出大量水全力攻击对手\n"
+            "西狮海壬召唤出大量水全力攻击对手"
             "。"),
         .effect = EFFECT_HIT,
         .power = 195,
@@ -22429,7 +22429,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("超极巨特大金币"),
         .description = COMPOUND_STRING(
-            "超极巨化喵喵的攻击。会让对手混乱\n"
+            "超极巨化喵喵的攻击。会让对手混乱"
             "，并获得金钱。"),    //ANIM TODO
         .effect = EFFECT_MAX_MOVE,
         .power = 10,

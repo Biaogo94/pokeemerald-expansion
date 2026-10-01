@@ -84,26 +84,27 @@ VerdanturfTown_WandasHouse_EventScript_WallysAuntEverGrande::
 
 VerdanturfTown_WandasHouse_Text_StrongerSpeech:
 	.string "满充：虽然我输给了你，\n"
-	.string "{PLAYER}，但我不再消沉了\l"
-	.string "，\p"
-	.string "因为我有了新的目标——和拉鲁拉丝\n"
-	.string "一起挑战宝可梦道馆，成为一名厉害\l"
-	.string "的训练家！\p"
+	.string "{PLAYER}，但我不再消沉\l"
+	.string "了，\p"
+	.string "因为我有了新的目标——和拉鲁拉丝一\n"
+	.string "起挑战宝可梦道馆，成为一名厉害的\l"
+	.string "训练家！\p"
 	.string "请看着我，{PLAYER}。总有\n"
 	.string "一天我会比你更强！\p"
 	.string "到那时，我会再次向你挑战！$"
 
 VerdanturfTown_WandasHouse_Text_StrongerSpeechShort:
-	.string "满充：请看着我，{PLAYER}\n"
-	.string "。总有一天我会比你更强！\p"
+	.string "满充：请看着我，\n"
+	.string "{PLAYER}。总有一天我会比\l"
+	.string "你更强！\p"
 	.string "到那时，我会再次向你挑战！$"
 
 VerdanturfTown_WandasHouse_Text_WallysNextDoor:
 	.string "叔叔：哦，{PLAYER}\n"
 	.string "{KUN}！满充就在隔壁。\p"
 	.string "但是，孩子，有些事我想告诉你，\p"
-	.string "这里的自然环境对满充的身体有好处\n"
-	.string "，\p"
+	.string "这里的自然环境对满充的身体有好\n"
+	.string "处，\p"
 	.string "但让他打起精神来的并不只是环境，\n"
 	.string "是宝可梦给了那孩子希望。$"
 
@@ -113,13 +114,13 @@ VerdanturfTown_WandasHouse_Text_WallySlippedOff:
 VerdanturfTown_WandasHouse_Text_WallyGoneThatFar:
 	.string "叔叔：真的吗？满充自己一个人去了\n"
 	.string "那么远的地方……\p"
-	.string "我想我该称赞他一下——不愧是我弟\n"
-	.string "弟的儿子。$"
+	.string "我想我该称赞他一下——不愧是我弟弟\n"
+	.string "的儿子。$"
 
 VerdanturfTown_WandasHouse_Text_MeetWanda:
 	.string "满盈：你是？哦，我知道了！\p"
-	.string "你就是满充常说的{PLAYER}\n"
-	.string "。\p"
+	.string "你就是满充常说的\n"
+	.string "{PLAYER}。\p"
 	.string "我是满充的堂姐，很高兴认识你！\p"
 	.string "自从满充来这儿以后，他变得活泼开\n"
 	.string "朗多了。$"
@@ -136,10 +137,10 @@ VerdanturfTown_WandasHouse_Text_CanSeeGirlfriendEveryDay:
 VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendDriven:
 	.string "我女儿的男友是个充满热情和决心的\n"
 	.string "人，\p"
-	.string "他为了见我女儿每天都不停地挖隧道\n"
-	.string "。\p"
-	.string "女儿有些担心，所以经常跑到隧道去\n"
-	.string "。$"
+	.string "他为了见我女儿每天都不停地挖隧\n"
+	.string "道。\p"
+	.string "女儿有些担心，所以经常跑到隧道\n"
+	.string "去。$"
 
 VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendWasDigging:
 	.string "太令人吃惊了，女儿的男友徒手挖开\n"

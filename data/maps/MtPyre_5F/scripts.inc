@@ -17,7 +17,6 @@ MtPyre_4F_Text_TashaDefeat:
 	.string "我讨厌失败……$"
 
 MtPyre_4F_Text_TashaPostBattle:
-	.string "我想看看可怕的东西……我不能离开\n"
-	.string "……\p"
+	.string "我想看看可怕的东西……我不能离开……\p"
 	.string "呐……你不想和我一起来吗？$"
 

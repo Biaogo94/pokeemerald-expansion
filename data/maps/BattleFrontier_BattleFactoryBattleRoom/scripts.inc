@@ -243,8 +243,8 @@ BattleFrontier_BattleFactoryBattleRoom_Text_GetAMoveOn:
 	.string "嘿，嘿！快点动起来！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead:
-	.string "嘿，我叫达拉！这里基本上由我负责\n"
-	.string "，这就是为什么我叫工厂头目！\p"
+	.string "嘿，我叫达拉！这里基本上由我负\n"
+	.string "责，这就是为什么我叫工厂头目！\p"
 	.string "我看了一下你交换式对战的数据。\p"
 	.string "你好像有正确的想法，但是你的头脑\n"
 	.string "太过死板！\p"
@@ -276,8 +276,8 @@ BattleFrontier_BattleFactoryBattleRoom_Text_HarderLookThanLastTime:
 	.string "达拉：嘿，嘿！近来如何？你有在继\n"
 	.string "续不断地学习吗？\p"
 	.string "……哦？\p"
-	.string "你看上去比我上次见到你时更坚毅了\n"
-	.string "。\p"
+	.string "你看上去比我上次见到你时更坚毅\n"
+	.string "了。\p"
 	.string "那么，看起来这会很有趣！我开始兴\n"
 	.string "奋起来了，嘿！$"
 
@@ -285,8 +285,8 @@ BattleFrontier_BattleFactoryBattleRoom_Text_AllRightBringItOn:
 	.string "好！放马过来！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass:
-	.string "达拉：什么……你已经和我不在一个\n"
-	.string "层次了！\p"
+	.string "达拉：什么……你已经和我不在一个层\n"
+	.string "次了！\p"
 	.string "唉！拿出你的开拓通行证吧！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_KnowledgeSymbolTookGoldenShine:

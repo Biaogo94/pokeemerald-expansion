@@ -54,8 +54,8 @@ FuchsiaCity_House3_EventScript_CancelForgetMove::
 	end
 
 FuchsiaCity_House3_Text_WouldYouLikeToForgetMove::
-	.string "呃……我想说什么来着？我想起来了\n"
-	.string "，我就是遗忘大师。\p"
+	.string "呃……我想说什么来着？我想起来了，\n"
+	.string "我就是遗忘大师。\p"
 	.string "我能让宝可梦忘记它们学会的技能。\p"
 	.string "你需要我展示一下这门绝活吗？$"
 

@@ -160,11 +160,11 @@ SinjohRuins_Text_StevenGotoStairs2:
     .string "{PLAYER}。我们已经解读出\n"
     .string "其余的古代文字了……\p"
     .string "如果解读没有出错，在那座阶梯顶端\n"
-    .string "的宝可梦，就是全宇宙最强大的存在\l"
-    .string "。\p"
+    .string "的宝可梦，就是全宇宙最强大的存\l"
+    .string "在。\p"
     .string "而作为丰缘联盟的前任冠军，我有责\n"
-    .string "任确认你是否具备足够直面它的实力\l"
-    .string "。\p"
+    .string "任确认你是否具备足够直面它的实\l"
+    .string "力。\p"
     .string "等你准备好了，就到那个平台来找我\n"
     .string "吧。$"
 
@@ -323,8 +323,8 @@ SinjohRuins_Text_HealParty::
     .string "梦回复体力吧。$"
 
 SinjohRuins_Text_StevenAfterPlate:
-    .string "大吾：祝你好运，{PLAYER}\n"
-    .string "。\p"
+    .string "大吾：祝你好运，\n"
+    .string "{PLAYER}。\p"
     .string "去吧，我就在你身后。$"
 
 SinjohRuins_Text_StevenAfterBattle:
@@ -335,8 +335,8 @@ SinjohRuins_Text_StevenAfterBattle:
 
 SinjohRuins_Text_StevenReadytoBattle:
     .string "大吾：{PLAYER}。\p"
-    .string "从我第一次看到你眼中坚定的意志起\n"
-    .string "，我就预感到会有这么一天。\p"
+    .string "从我第一次看到你眼中坚定的意志\n"
+    .string "起，我就预感到会有这么一天。\p"
     .string "就让我来考验你与宝可梦之间的羁绊\n"
     .string "吧。\p"
     .string "准备好了吗？$"
@@ -347,8 +347,7 @@ SinjohRuins_Text_ChallengeSteven:
 	.string "就做好吃苦头的觉悟吧！$"
 
 SinjohRuins_Text_StevenDefeat:
-	.string "你……你已经做好了万全的\n"
-	.string "准备。$"
+	.string "你……你已经做好了万全的准备。$"
 
 SinjohRuins_EventScript_Steven::
     msgbox SinjohRuins_Text_StevenAfterPlate, MSGBOX_NPC

@@ -69,8 +69,8 @@ ViridianForest_Text_FriendsItchingToBattle::
 	.string "他们都渴望用自己的宝可梦去战斗！$"
 
 ViridianForest_Text_RickIntro::
-	.string "嘿！你有宝可梦啊！来吧！我们对战\n"
-	.string "！$"
+	.string "嘿！你有宝可梦啊！来吧！我们对\n"
+	.string "战！$"
 
 ViridianForest_Text_RickDefeat::
 	.string "不！绿毛虫根本打不过它！$"
@@ -123,8 +123,8 @@ ViridianForest_Text_CharliePostBattle::
 	.string "一起乐趣多多！$"
 
 ViridianForest_Text_RanOutOfPokeBalls::
-	.string "为了收服宝可梦我把精灵球都用光了\n"
-	.string "。\p"
+	.string "为了收服宝可梦我把精灵球都用光\n"
+	.string "了。\p"
 	.string "所以你需要常备一些精灵球在身边。$"
 
 ViridianForest_Text_AvoidGrassyAreasWhenWeak::
@@ -150,8 +150,8 @@ ViridianForest_Text_CantCatchOwnedMons::
 
 ViridianForest_Text_WeakenMonsBeforeCapture::
 	.string "训练家贴士\p"
-	.string "在收服宝可梦之前先削弱它们的体力\n"
-	.string "！\p"
+	.string "在收服宝可梦之前先削弱它们的体\n"
+	.string "力！\p"
 	.string "它们精力充沛时可能会逃跑！$"
 
 ViridianForest_Text_LeavingViridianForest::

@@ -23,8 +23,8 @@ Route14_Text_MitchDefeat::
 	.string "看来还是没准备好！$"
 
 Route14_Text_MitchPostBattle::
-	.string "我的鸟系宝可梦需要学习更强的技能\n"
-	.string "。$"
+	.string "我的鸟系宝可梦需要学习更强的技\n"
+	.string "能。$"
 
 Route14_Text_BeckIntro::
 	.string "玉虹百货大楼出售技能学习机。\p"
@@ -40,8 +40,8 @@ Route14_Text_BeckPostBattle::
 	.string "这样技能的强劲会有显著提升。$"
 
 Route14_Text_MarlonIntro::
-	.string "你教过你的鸟系宝可梦如何飞翔了吗\n"
-	.string "？\p"
+	.string "你教过你的鸟系宝可梦如何飞翔了\n"
+	.string "吗？\p"
 	.string "你可以跟它一同在天空中翱翔！$"
 
 Route14_Text_MarlonDefeat::
@@ -70,7 +70,7 @@ Route14_Text_BennyDefeat::
 	.string "我知道它！$"
 
 Route14_Text_BennyPostBattle::
-	.string "输与赢……在宽广的天空下皆是浮云\n"
+	.string "输与赢……在宽广的天空下皆是浮云"
 	.string "。$"
 
 Route14_Text_LukasIntro::
@@ -101,8 +101,8 @@ Route14_Text_GeraldDefeat::
 Route14_Text_GeraldPostBattle::
 	.string "你把你的宝可梦培育得这么厉害，实\n"
 	.string "在太酷了。\p"
-	.string "速度即是力量！看来你已经领悟到了\n"
-	.string "！$"
+	.string "速度即是力量！看来你已经领悟到\n"
+	.string "了！$"
 
 Route14_Text_MalikIntro::
 	.string "宝可梦对战？太激动了！来吧！$"

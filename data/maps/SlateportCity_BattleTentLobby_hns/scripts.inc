@@ -293,9 +293,8 @@ SlateportCity_BattleTentLobby_hns_Text_CouldntFindMonForMe:
 	.string "的，把这个拿去！$"
 
 SlateportCity_BattleTentLobby_hns_Text_ExplainTorment:
-	.string "那就是，呃，招式学习器41，懂\n"
-	.string "吗？喂，就是“无理取闹”，听到了\l"
-	.string "吗？\p"
+	.string "那就是，呃，招式学习器41，懂吗？\n"
+	.string "喂，就是“无理取闹”，听到了吗？\p"
 	.string "就是让对手不能连续使用相同的招\n"
 	.string "式，明白不？\p"
 	.string "喂，你听我说啊，我可没在对你无理\n"

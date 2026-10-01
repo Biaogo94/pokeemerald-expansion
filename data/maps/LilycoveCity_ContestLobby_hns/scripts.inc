@@ -977,8 +977,8 @@ LilycoveCity_ContestLobby_Text_MakePokeblocksDifferentBerries_hns:
 	.string "把做好的{POKEBLOCK}放\n"
 	.string "进盒子里吧。\p"
 	.string "做{POKEBLOCK}的时候，\n"
-	.string "每个人都要放入不同种类的树果才行\l"
-	.string "。$"
+	.string "每个人都要放入不同种类的树果才\l"
+	.string "行。$"
 
 LilycoveCity_ContestLobby_Text_YourPokemonSpurredMeToPaint_hns:
 	.string "恭喜你！\p"
@@ -1000,8 +1000,8 @@ LilycoveCity_ContestLobby_Text_IllTakePaintingToMuseum_hns:
 	.string "咦，真的吗？那我这就把这幅画送去\n"
 	.string "那里。\p"
 	.string "我还会给它起一个相称的名字。\p"
-	.string "希望他们会喜欢，并愿意展出这幅画\n"
-	.string "。\p"
+	.string "希望他们会喜欢，并愿意展出这幅\n"
+	.string "画。\p"
 	.string "请你之后去看看他们有没有收下吧。\n"
 	.string "谢谢你！$"
 
@@ -1021,10 +1021,9 @@ LilycoveCity_ContestLobby_Text_OkaySeeYou_hns:
 	.string "好啦，再见！$"
 
 LilycoveCity_ContestLobby_Text_TakeHomeButIdLikeToTakeToMuseum_hns:
-	.string "啊……那我还是把它带回家\n"
-	.string "去吧……\p"
-	.string "不过说真的，我还是想送去美术馆呢\n"
-	.string "……好不好嘛？$"
+	.string "啊……那我还是把它带回家去吧……\p"
+	.string "不过说真的，我还是想送去美术馆\n"
+	.string "呢……好不好嘛？$"
 
 LilycoveCity_ContestLobby_Text_FineThatsTheWayItIs_hns:
 	.string "哎，好吧，既然如此，我就把它挂在\n"
@@ -1033,16 +1032,15 @@ LilycoveCity_ContestLobby_Text_FineThatsTheWayItIs_hns:
 	.string "啦。$"
 
 LilycoveCity_ContestLobby_Text_MasterRankHereICome_hns:
-	.string "呼……大师级华丽大赛，我\n"
-	.string "来啦！\p"
+	.string "呼……大师级华丽大赛，我来啦！\p"
 	.string "我要让全世界都知道，我最心爱的宝\n"
 	.string "可梦是全天下最可爱的存在。时机已\l"
 	.string "经成熟！唔嘿嘿嘿。$"
 
 LilycoveCity_ContestLobby_Text_WholeVarietyOfPokemonHere_hns:
 	.string "在这里能看到各种各样的宝可梦呢。\p"
-	.string "所以我每天散步都会顺道来这里看看\n"
-	.string "。$"
+	.string "所以我每天散步都会顺道来这里看\n"
+	.string "看。$"
 
 LilycoveCity_ContestLobby_Text_ContestFeastForEyes_hns:
 	.string "哇，来看华丽大赛真是大饱眼福啊！\p"
@@ -1051,9 +1049,8 @@ LilycoveCity_ContestLobby_Text_ContestFeastForEyes_hns:
 
 LilycoveCity_ContestLobby_Text_ToughContestIsExtreme_hns:
 	.string "强壮组华丽大赛真是燃爆了，伙计！\p"
-	.string "那一块块隆起的肌肉展示……\n"
-	.string ".那挥洒如雨的汗水……太\l"
-	.string "迷人了！$"
+	.string "那一块块隆起的肌肉展示…….那挥洒\n"
+	.string "如雨的汗水……太迷人了！$"
 
 LilycoveCity_ContestLobby_Text_LavishedCareOnMon_hns:
 	.string "日复一日，我倾注心血悉心照料这只\n"

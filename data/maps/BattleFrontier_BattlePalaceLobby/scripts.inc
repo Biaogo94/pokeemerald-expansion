@@ -396,10 +396,10 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainSingleBattleChallenge:
 	.string "宝可梦将完全凭借自己的本能战斗，\p"
 	.string "您需要完全信赖您的宝可梦，在一边\n"
 	.string "旁观它们对战。\p"
-	.string "如果您能成功地连续打败7个训练家\n"
-	.string "，我们将向您呈上对战点数。\p"
-	.string "如果要暂停挑战的话需要先写入记录\n"
-	.string "，\p"
+	.string "如果您能成功地连续打败7个训练\n"
+	.string "家，我们将向您呈上对战点数。\p"
+	.string "如果要暂停挑战的话需要先写入记\n"
+	.string "录，\p"
 	.string "请确保在退出前完好地写下了记录。\n"
 	.string "否则我们将视挑战为无效。$"
 
@@ -408,17 +408,17 @@ BattleFrontier_BattlePalaceLobby_Text_ReturnWhenFortified:
 	.string "的时候，再回到这里来吧。$"
 
 BattleFrontier_BattlePalaceLobby_Text_WhichChallenge:
-	.string "对战厅有2种，Lv. 50级和自\n"
-	.string "由等级，您要挑战哪种？$"
+	.string "对战厅有2种，Lv. 50级和自由等\n"
+	.string "级，您要挑战哪种？$"
 
 BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsLv50:
 	.string "唉......\p"
-	.string "你并没有带齐挑战所需的3只宝可梦\n"
-	.string "。\p"
+	.string "你并没有带齐挑战所需的3只宝可\n"
+	.string "梦。\p"
 	.string "若要参赛，你必须准备3种不同种类\n"
 	.string "的宝可梦。\p"
-	.string "且这些宝可梦的等级必须全都在50\n"
-	.string "级或以下。\p"
+	.string "且这些宝可梦的等级必须全都在50级\n"
+	.string "或以下。\p"
 	.string "它们也不得携带相同种类的道具。\p"
 	.string "蛋{STR_VAR_1}。$"
 
@@ -474,8 +474,8 @@ BattleFrontier_BattlePalaceLobby_Text_MustSaveBeforeChallenge:
 
 BattleFrontier_BattlePalaceLobby_Text_FailedToSaveBeforeEndingChallenge:
 	.string "唉……\p"
-	.string "您在上次结束时没有完好地写入记录\n"
-	.string "。\p"
+	.string "您在上次结束时没有完好地写入记\n"
+	.string "录。\p"
 	.string "很不幸，没有写入记录的挑战我们将\n"
 	.string "视其为无效。$"
 
@@ -516,8 +516,8 @@ BattleFrontier_BattlePalaceLobby_Text_MonDocileButTransforms:
 BattleFrontier_BattlePalaceLobby_Text_WhatNatureFavorsChippingAway:
 	.string "不知道一只喜欢削弱，然后慢慢消耗\n"
 	.string "对手的宝可梦该算是什么性格，\p"
-	.string "它要是乐天性格的话，我可真是惊了\n"
-	.string "。\p"
+	.string "它要是乐天性格的话，我可真是惊\n"
+	.string "了。\p"
 	.string "但，呃，应该没可能吧。$"
 
 BattleFrontier_BattlePalaceLobby_Text_WelcomeForDoubleBattle:
@@ -538,8 +538,8 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainDoubleBattleChallenge:
 	.string "宝可梦将完全凭借自己的本能战斗，\p"
 	.string "您需要完全信赖您的宝可梦，在一边\n"
 	.string "旁观它们对战。\p"
-	.string "如果您能成功地连续打败7个训练家\n"
-	.string "，我们将向您呈上对战点数。\p"
+	.string "如果您能成功地连续打败7个训练\n"
+	.string "家，我们将向您呈上对战点数。\p"
 	.string "如果您在挑战途中想要暂停的话，\p"
 	.string "请确保在退出前完好地写下了记录。\n"
 	.string "否则我们将视挑战为无效。$"
@@ -549,8 +549,8 @@ BattleFrontier_BattlePalaceLobby_Text_ToDefeatMavenAnd7Trainers:
 	.string "啊……$"
 
 BattleFrontier_BattlePalaceLobby_Text_PresentYouWithBattlePoints:
-	.string "为了表彰您和宝可梦之间紧密的牵绊\n"
-	.string "，我们将向您呈上对战点数。$"
+	.string "为了表彰您和宝可梦之间紧密的牵\n"
+	.string "绊，我们将向您呈上对战点数。$"
 
 BattleFrontier_BattlePalaceLobby_Text_LikeToRecordMatch:
 	.string "您要在您的开拓通行证上记录下您在\n"
@@ -572,13 +572,13 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainRulesBasics:
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesNature:
 	.string "由于性格的差别，有的宝可梦喜欢不\n"
 	.string "计后果的攻击，\p"
-	.string "有的喜欢尽量保护自己不受任何伤害\n"
-	.string "，\p"
+	.string "有的喜欢尽量保护自己不受任何伤\n"
+	.string "害，\p"
 	.string "还有一些喜欢干扰消耗它的对手。\p"
 	.string "不同性格的宝可梦都会有各自喜欢的\n"
 	.string "并且擅长的招式，\p"
-	.string "当然也会有不喜欢并且不擅长的招式\n"
-	.string "。$"
+	.string "当然也会有不喜欢并且不擅长的招\n"
+	.string "式。$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesMoves:
 	.string "招式分为3类：有直接给予对手伤害\n"
@@ -593,16 +593,16 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainRulesMoves:
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesUnderpowered:
 	.string "没有了训练家的命令，宝可梦有可能\n"
 	.string "无法有效使用某些招式。\p"
-	.string "尤其会不擅长使用自己不喜欢的招式\n"
-	.string "。\p"
+	.string "尤其会不擅长使用自己不喜欢的招\n"
+	.string "式。\p"
 	.string "如果宝可梦只学会了与它的性格不相\n"
 	.string "符的招式，那么就很难凭自己的潜能\l"
 	.string "获得胜利。$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesWhenInDanger:
-	.string "根据性格的不同，宝可梦陷入危机时\n"
-	.string "，它也有可能会使用并不符合它性格\l"
-	.string "的招式。\p"
+	.string "根据性格的不同，宝可梦陷入危机\n"
+	.string "时，它也有可能会使用并不符合它性\l"
+	.string "格的招式。\p"
 	.string "如果危机时宝可梦的表现开始变得异\n"
 	.string "常，请多加注意它的表现。$"
 

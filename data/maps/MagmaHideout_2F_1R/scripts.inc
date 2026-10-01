@@ -28,8 +28,7 @@ MagmaHideout_2F_1R_Text_Grunt14Intro:
 	.string "你很可疑！和我对战吧！$"
 
 MagmaHideout_2F_1R_Text_Grunt14Defeat:
-	.string "呜哇……我作为熔岩队手下的尊严啊\n"
-	.string "……$"
+	.string "呜哇……我作为熔岩队手下的尊严啊……$"
 
 MagmaHideout_2F_1R_Text_Grunt14PostBattle:
 	.string "要是你怕冷的话，不如加入我们熔岩\n"

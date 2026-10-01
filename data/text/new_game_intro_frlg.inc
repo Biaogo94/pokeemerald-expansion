@@ -166,8 +166,8 @@ gPikachuIntro_Text_Page2::
 	.string "通过帮助遇到困难的人、克服难关，\n"
 	.string "以及解开重重谜团，新的道路将为你\l"
 	.string "敞开。有时你会被他人发起挑战，也\l"
-	.string "会遭到野生宝可梦的袭击。拿出勇气\l"
-	.string "，勇往直前吧！$"
+	.string "会遭到野生宝可梦的袭击。拿出勇\l"
+	.string "气，勇往直前吧！$"
 
 gPikachuIntro_Text_Page3::
 	.string "我们希望你在冒险的过程中，能与各\n"
@@ -186,8 +186,8 @@ gOakSpeech_Text_ThisWorld::
 	.string "在这个世界上......$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
-	.string "......到处都栖息着名为“宝\n"
-	.string "可梦”的生物。\p"
+	.string "......到处都栖息着名为“宝可梦”的\n"
+	.string "生物。\p"
 	.string "$"
 
 gOakSpeech_Text_IStudyPokemon::
@@ -214,15 +214,14 @@ gOakSpeech_Text_WhatWasHisName::
 	.string "这是我的孙子。\p"
 	.string "从你们还是婴儿的时候起，他就一直\n"
 	.string "是你的劲敌。\p"
-	.string "......呃，他叫什么名字来着\n"
+	.string "......呃，他叫什么名字来着"
 	.string "？$"
 
 gOakSpeech_Text_YourRivalsNameWhatWasIt::
 	.string "你的劲敌叫什么名字来着？$"
 
 gOakSpeech_Text_ConfirmRivalName::
-	.string "......呃，是叫\n"
-	.string "{RIVAL}吗？$"
+	.string "......呃，是叫{RIVAL}吗？$"
 
 gOakSpeech_Text_RememberRivalsName::
 	.string "对啦！我想起来了！他的名字叫\n"

@@ -70,10 +70,9 @@ CaveOfOrigin_B1F_Text_WallaceStory:
 	.string "老师亚当了。\p"
 	.string "…… …… ……\n"
 	.string "…… …… ……\p"
-	.string "在这里肆虐的2只宝可梦——固拉多\n"
-	.string "和盖欧卡，被称为超古代宝可梦，\p"
-	.string "然而，超古代宝可梦并不止这2只…\n"
-	.string "…\p"
+	.string "在这里肆虐的2只宝可梦——固拉多和\n"
+	.string "盖欧卡，被称为超古代宝可梦，\p"
+	.string "然而，超古代宝可梦并不止这2只……\p"
 	.string "在世界的某处还存在着第3只——\p"
 	.string "没错，那就是被称为烈空坐的超古代\n"
 	.string "宝可梦。\p"
@@ -103,8 +102,8 @@ CaveOfOrigin_B1F_Text_OldLadyDidntMentionThat:
 	.string "你再认真想想吗？$"
 
 CaveOfOrigin_B1F_Text_CantYouRememberSomehow:
-	.string "米可利：哎？不记得了？唔……这就\n"
-	.string "难办了……\p"
+	.string "米可利：哎？不记得了？唔……这就难\n"
+	.string "办了……\p"
 	.string "真的什么也回想不起来了吗？$"
 
 CaveOfOrigin_B1F_Text_WellHeadToSkyPillar:

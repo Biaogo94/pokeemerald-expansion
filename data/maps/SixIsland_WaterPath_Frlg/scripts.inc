@@ -14,7 +14,7 @@ SixIsland_WaterPath_Text_RoseIntro::
 	.string "这儿。$"
 
 SixIsland_WaterPath_Text_RoseDefeat::
-	.string "呵呵……你做决定时的样子真是可爱\n"
+	.string "呵呵……你做决定时的样子真是可爱"
 	.string "。$"
 
 SixIsland_WaterPath_Text_RosePostBattle::
@@ -85,12 +85,11 @@ SixIsland_WaterPath_Text_MiaIntro::
 	.string "间！$"
 
 SixIsland_WaterPath_Text_MiaDefeat::
-	.string "美绪：你太狠了！你是坏人，你赢了\n"
-	.string "！$"
+	.string "美绪：你太狠了！你是坏人，你赢\n"
+	.string "了！$"
 
 SixIsland_WaterPath_Text_MiaPostBattle::
-	.string "美绪：噢……对不起，我的宝可梦…\n"
-	.string "…$"
+	.string "美绪：噢……对不起，我的宝可梦……$"
 
 SixIsland_WaterPath_Text_MiaNotEnoughMons::
 	.string "美绪：你只有一只宝可梦？\p"

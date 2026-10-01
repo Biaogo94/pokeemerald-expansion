@@ -94,8 +94,7 @@ CeladonGameCorner_Text_Teacher:
 	.string "了吧。$"
 
 CeladonGameCorner_Text_FishingGuru:
-	.string "我觉得这台机器能中大奖……\n"
-	.string ".\p"
+	.string "我觉得这台机器能中大奖…….\p"
 	.string "每台机器的中奖概率都不一样呢。$"
 
 CeladonGameCorner_Text_Fisher1:
@@ -121,9 +120,8 @@ CeladonGameCorner_Text_PokefanF:
 	.string "不过中奖的报酬也低很多就是了。$"
 
 CeladonGameCorner_Text_Gramps:
-	.string "嗯……全部押在蓝色上的胜\n"
-	.string "率肯定更高，但是……该怎\l"
-	.string "么办呢？$"
+	.string "嗯……全部押在蓝色上的胜率肯定更\n"
+	.string "高，但是……该怎么办呢？$"
 
 CeladonGameCorner_Text_Woman:
 	.string "赢个不停，根本停不下来！$"

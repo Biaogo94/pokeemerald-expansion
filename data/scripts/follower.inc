@@ -1,6 +1,6 @@
 gText_FollowerLovesYou::
-	.string "{STR_VAR_1}一脸崇拜\n"
-	.string "地看着你！$"
+	.string "{STR_VAR_1}一脸崇拜地\n"
+	.string "看着你！$"
 
 gText_FollowerLostInThought::
 	.string "{STR_VAR_1}似乎在想事\n"
@@ -10,8 +10,8 @@ gText_FollowerDefault::
 	.string "错误：找不到脚本。$"
 
 gText_WantsToFly::
-	.string "{STR_VAR_1}一直在\n"
-	.string "盯着天空。\p"
+	.string "{STR_VAR_1}一直在盯着\n"
+	.string "天空。\p"
 	.string "要使用飞翔吗？$"
 
 EventScript_Follower::

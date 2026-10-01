@@ -16,8 +16,8 @@ MagmaHideout_3F_2R_Text_Grunt10Defeat:
 	.string "果然……确实做得不太对。$"
 
 MagmaHideout_3F_2R_Text_Grunt10PostBattle:
-	.string "说实话，输给你后我反而清醒了许多\n"
-	.string "。\p"
+	.string "说实话，输给你后我反而清醒了许\n"
+	.string "多。\p"
 	.string "下次见到老大的时候，我打算问个明\n"
 	.string "白。$"
 

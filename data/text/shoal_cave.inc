@@ -24,14 +24,13 @@ ShoalCave_LowTideEntranceRoom_Text_MakeShellBellRightAway:
 ShoalCave_LowTideEntranceRoom_Text_ExplainShellBell:
 	.string "把这个让宝可梦携带的话，宝可梦肯\n"
 	.string "定会喜欢上它的。\p"
-	.string "啊，贝壳之铃发出的乐声……那是多\n"
-	.string "么美妙！\p"
+	.string "啊，贝壳之铃发出的乐声……那是多么\n"
+	.string "美妙！\p"
 	.string "原料每天都能采到原，想要的话我还\n"
 	.string "可以做更多。$"
 
 ShoalCave_LowTideEntranceRoom_Text_WantedToMakeShellBell:
-	.string "哎……是吗……真想做一个贝壳之铃\n"
-	.string "啊……$"
+	.string "哎……是吗……真想做一个贝壳之铃啊……$"
 
 ShoalCave_LowTideEntranceRoom_Text_NoSpaceInYourBag:
 	.string "如果我做好了的话你的背包里就没有\n"

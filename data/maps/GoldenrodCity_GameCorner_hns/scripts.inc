@@ -491,33 +491,33 @@ GoldenrodCity_GameCorner_PrizeRoom_EventScript_CancelTMSelect::
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM44:
 	.string "睡觉\n"
-	.string "{CLEAR_TO 0x58}2\l"
-	.string ",000枚$"
+	.string "{CLEAR_TO 0x58}2,\l"
+	.string "000枚$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM90:
 	.string "替身\n"
-	.string "{CLEAR_TO 0x58}2\l"
-	.string ",000枚$"
+	.string "{CLEAR_TO 0x58}2,\l"
+	.string "000枚$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM75:
 	.string "剑舞\n"
-	.string "{CLEAR_TO 0x58}3\l"
-	.string ",000枚$"
+	.string "{CLEAR_TO 0x58}3,\l"
+	.string "000枚$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM13:
 	.string "冰冻光束\n"
-	.string "{CLEAR_TO 0x58}4\l"
-	.string ",000枚$"
+	.string "{CLEAR_TO 0x58}4,\l"
+	.string "000枚$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM24:
 	.string "十万伏特\n"
-	.string "{CLEAR_TO 0x58}4\l"
-	.string ",000枚$"
+	.string "{CLEAR_TO 0x58}4,\l"
+	.string "000枚$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM35:
 	.string "喷射火焰\n"
-	.string "{CLEAR_TO 0x58}4\l"
-	.string ",000枚$"
+	.string "{CLEAR_TO 0x58}4,\l"
+	.string "000枚$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_Cancel:
 	.string "退出$"
@@ -658,13 +658,13 @@ GoldenrodCity_GameCorner_Text_Gentleman:
     .string "值！$"
 
 GoldenrodCity_GameCorner_Text_PokefanM2:
-    .string "老虎机赢不了，轮盘也输得一塌糊涂\n"
-    .string "。\p"
+    .string "老虎机赢不了，轮盘也输得一塌糊\n"
+    .string "涂。\p"
     .string "我气得把代币盒扔到地下通道去了。$"
 
 GoldenrodCity_GameCorner_Text_MoveTutorInside:
-    .string "哇哈哈！代币哗啦哗啦进账停不下来\n"
-    .string "！$"
+    .string "哇哈哈！代币哗啦哗啦进账停不下\n"
+    .string "来！$"
 
 GoldenrodCity_GameCorner_Text_LeftTheirDrink:
     .string "有人把饮料落在这里了。\p"
@@ -842,8 +842,8 @@ GoldenrodCity_GameCorner_Text_VF_PlayLevel:
 
 GoldenrodCity_GameCorner_Text_VF_GameClear:
 	.string "挑战成功！\p"
-	.string "你找出了所有隐藏的“×2”和“×\n"
-	.string "3”卡牌！$"
+	.string "你找出了所有隐藏的“×2”和“×3”卡\n"
+	.string "牌！$"
 
 GoldenrodCity_GameCorner_Text_VF_ReceivedCoins:
 	.string "获得了{STR_VAR_1}枚代\n"
@@ -857,31 +857,31 @@ GoldenrodCity_GameCorner_Text_VF_OhNo:
 	.string "糟了！获得了0枚代币！$"
 
 GoldenrodCity_GameCorner_Text_VF_Dropped:
-	.string "降回了等级{STR_VAR_1}\n"
-	.string "。$"
+	.string "降回了等级\n"
+	.string "{STR_VAR_1}。$"
 
 GoldenrodCity_GameCorner_Text_VF_CoinCap:
-	.string "你已经攒了9999枚代币。不能持\n"
-	.string "有更多了。$"
+	.string "你已经攒了9999枚代币。不能持有更\n"
+	.string "多了。$"
 
 GoldenrodCity_GameCorner_Text_VF_WhichInfo:
 	.string "想看哪方面的内容？$"
 
 GoldenrodCity_GameCorner_Text_VF_HowToPlay:
-	.string "“霹雳电球翻牌”是一个翻开卡牌寻\n"
-	.string "找隐藏数字的游戏。\p"
-	.string "卡牌背面藏有数字1到3，以及霹雳\n"
-	.string "电球。\p"
+	.string "“霹雳电球翻牌”是一个翻开卡牌寻找\n"
+	.string "隐藏数字的游戏。\p"
+	.string "卡牌背面藏有数字1到3，以及霹雳电\n"
+	.string "球。\p"
 	.string "翻出的第一个数字会变成对应数量的\n"
 	.string "代币。\p"
 	.string "之后翻出的数字会与现有总数相乘。\n"
 	.string "翻到2就乘以2，翻到3就乘以3。\p"
 	.string "但要是翻出霹雳电球，游戏就结束\n"
 	.string "了。本轮收集到的代币将全部输光！\p"
-	.string "你随时可以选择“放弃”，保留目前\n"
-	.string "为止获得的代币。\p"
-	.string "找出所有隐藏的“x2”和“x3”\n"
-	.string "卡牌即可通关，并进入下一个等级！$"
+	.string "你随时可以选择“放弃”，保留目前为\n"
+	.string "止获得的代币。\p"
+	.string "找出所有隐藏的“x2”和“x3”卡牌即可\n"
+	.string "通关，并进入下一个等级！$"
 
 GoldenrodCity_GameCorner_Text_VF_HintText:
 	.string "棋盘边缘的数字是对那一行或一列\n"

@@ -616,16 +616,15 @@ RuinsOfAlph_Lab_Text_DeviceForTalkingToPokemon:
 	.string "不过目前还没什么进展……$"
 
 RuinsOfAlph_Lab_Text_DevelopingNewBalls:
-	.string "我正在开发新型的精灵球……\n"
-	.string ".\p"
+	.string "我正在开发新型的精灵球…….\p"
 	.string "不过进展不太顺利……$"
 
 RuinsOfAlph_Lab_Text_WeFinallyMadeNewBalls:
 	.string "我们终于做出了新型的精灵球！\p"
-	.string "“重复球”能更容易捕捉到曾经捉到\n"
-	.string "过的宝可梦。\p"
-	.string "战斗回合数越久，“时间球”就越容\n"
-	.string "易捉到宝可梦。\p"
+	.string "“重复球”能更容易捕捉到曾经捉到过\n"
+	.string "的宝可梦。\p"
+	.string "战斗回合数越久，“时间球”就越容易\n"
+	.string "捉到宝可梦。\p"
 	.string "这两款都是由得文公司引以为傲研发\n"
 	.string "出的产品。\p"
 	.string "请一定要买来试试看哦！$"
@@ -637,10 +636,10 @@ RuinsOfAlph_Lab_Text_IMadePokenav:
 
 RuinsOfAlph_Lab_Text_WowThatsAPokenav:
 	.string "哇啊！那是宝可梦领航员吧！\p"
-	.string "那是我们社长为了了解宝可梦的心情\n"
-	.string "，倾注心血研发出来的成果。\p"
-	.string "需要我为你详细介绍它的各项功能吗\n"
-	.string "？\p"
+	.string "那是我们社长为了了解宝可梦的心\n"
+	.string "情，倾注心血研发出来的成果。\p"
+	.string "需要我为你详细介绍它的各项功能\n"
+	.string "吗？\p"
 	.string "不用不用，我想只要你亲自用一用宝\n"
 	.string "可梦领航员，就全明白了。$"
 
@@ -655,11 +654,11 @@ RuinsOfAlph_Lab_Text_DevelopDeviceToResurrectFossils:
 	.string "而且，它成功运转了！$"
 
 RuinsOfAlph_Lab_Text_WantToBringFossilBackToLife:
-	.string "等等！你手上的那个东西……\n"
-	.string "..难道是宝可梦的化石？！\p"
+	.string "等等！你手上的那个东西……..难道是\n"
+	.string "宝可梦的化石？！\p"
 	.string "你想让那只宝可梦重获新生吗？\p"
-	.string "用我最新研发的“化石复原机”，就\n"
-	.string "能做到哦。$"
+	.string "用我最新研发的“化石复原机”，就能\n"
+	.string "做到哦。$"
 
 RuinsOfAlph_Lab_Text_OhIsThatSo:
 	.string "哦，是这样吗？\p"
@@ -684,12 +683,12 @@ RuinsOfAlph_Lab_Text_HandedFossilToResearcher:
 	.string "研究员。$"
 
 RuinsOfAlph_Lab_Text_FossilRegeneratorTakesTime:
-	.string "我制造的“化石复原机”可是非常了\n"
-	.string "不起的。\p"
-	.string "但它有一个缺点--复原运转需要花\n"
-	.string "相当长的一段时间。\p"
-	.string "所以，呃……不如你在附近\n"
-	.string "散散步，四处逛逛消磨一下时间吧？$"
+	.string "我制造的“化石复原机”可是非常了不\n"
+	.string "起的。\p"
+	.string "但它有一个缺点--复原运转需要花相\n"
+	.string "当长的一段时间。\p"
+	.string "所以，呃……不如你在附近散散步，四\n"
+	.string "处逛逛消磨一下时间吧？$"
 
 RuinsOfAlph_Lab_Text_FossilizedMonBroughtBackToLife:
 	.string "让你久等了！\p"

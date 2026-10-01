@@ -85,8 +85,8 @@ Gate_Route43_Rocket_Text_KickOut:
 	.string "你居然身无分文啊！\p"
 	.string "我都忍不住有点同情你了。\p"
 	.string "行吧，放你过去……\p"
-	.string "可千万别告诉另一个守卫，知道了吗\n"
-	.string "？$"
+	.string "可千万别告诉另一个守卫，知道了\n"
+	.string "吗？$"
 
 Gate_Route43_Rocket_Text_MakingABundle:
     .string "嘿嘿嘿，这次可赚大发了。\p"

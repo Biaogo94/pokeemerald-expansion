@@ -27,6 +27,6 @@ FiveIsland_PokemonCenter_1F_Text_OnMyWayToPrepareMeal::
 
 FiveIsland_PokemonCenter_1F_Text_YoureOnQuestToCatchEveryMon::
 	.string "你正在尝试收服每种宝可梦吗？\p"
-	.string "……真不可思议！如果你收服到强大\n"
-	.string "的宝可梦，务必告诉我哦！$"
+	.string "……真不可思议！如果你收服到强大的\n"
+	.string "宝可梦，务必告诉我哦！$"
 

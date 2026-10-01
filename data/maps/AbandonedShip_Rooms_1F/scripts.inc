@@ -44,8 +44,8 @@ AbandonedShip_Rooms_1F_Text_ThaliaDefeat:
 
 AbandonedShip_Rooms_1F_Text_ThaliaPostBattle:
 	.string "隔壁的那个人……\p"
-	.string "他说他只是来观光，可我觉得不对劲\n"
-	.string "。$"
+	.string "他说他只是来观光，可我觉得不对\n"
+	.string "劲。$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRegister:
 	.string "你真是太强了！我登记下你的信息作\n"

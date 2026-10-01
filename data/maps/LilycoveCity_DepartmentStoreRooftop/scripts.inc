@@ -186,8 +186,8 @@ LilycoveCity_DepartmentStoreRooftop_EventScript_ExitVendingMachine::
 
 LilycoveCity_DepartmentStoreRooftop_Text_SetDatesForClearOutSales:
 	.string "他们从不清仓甩卖什么的吗？\p"
-	.string "我看电视的时候从没看到过商业广告\n"
-	.string "。$"
+	.string "我看电视的时候从没看到过商业广\n"
+	.string "告。$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_BeenWaitingForClearOutSale:
 	.string "呀！这次清仓我已经等了很久了。\p"

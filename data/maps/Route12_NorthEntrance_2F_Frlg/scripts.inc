@@ -45,13 +45,13 @@ Route12_NorthEntrance_2F_EventScript_ExplainTM27::
 @ Male and female text identical, differ (presumably) in JP
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreMale::
 	.string "我宝可梦的骨灰寄存在宝可梦塔。\p"
-	.string "把这个技能拿走吧。我不再需要它了\n"
-	.string "……$"
+	.string "把这个技能拿走吧。我不再需要它\n"
+	.string "了……$"
 
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreFemale::
 	.string "我宝可梦的骨灰寄存在宝可梦塔。\p"
-	.string "把这个技能拿走吧。我不再需要它了\n"
-	.string "……$"
+	.string "把这个技能拿走吧。我不再需要它\n"
+	.string "了……$"
 
 Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirl::
 	.string "{PLAYER}从小女孩那儿得到\n"

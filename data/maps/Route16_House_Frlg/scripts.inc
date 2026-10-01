@@ -35,8 +35,8 @@ Route16_House_EventScript_Fearow::
 	end
 
 Route16_House_Text_FoundMySecretRetreat::
-	.string "哦，天哪。你发现了我的秘密藏身处\n"
-	.string "！\p"
+	.string "哦，天哪。你发现了我的秘密藏身\n"
+	.string "处！\p"
 	.string "请不要告诉任何人我在这里！如果你\n"
 	.string "答应的话这个就给你！$"
 
@@ -45,8 +45,8 @@ Route16_House_Text_ReceivedHM02FromGirl::
 	.string "HM02。$"
 
 Route16_House_Text_ExplainHM02::
-	.string "HM02是技能飞翔。这是一个极为\n"
-	.string "的方便技能。\p"
+	.string "HM02是技能飞翔。这是一个极为的方\n"
+	.string "便技能。\p"
 	.string "请好好利用它吧。$"
 
 Route16_House_Text_DontHaveAnyRoomForThis::

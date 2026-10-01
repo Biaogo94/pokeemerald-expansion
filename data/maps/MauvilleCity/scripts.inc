@@ -461,8 +461,7 @@ MauvilleCity_EventScript_RegisterWallyCall::
 
 MauvilleCity_Text_UncleHesTooPeppy:
 	.string "叔叔：我想是宝可梦让那孩子打起精\n"
-	.string "神来的……但他好像有点兴奋过头了\l"
-	.string "……$"
+	.string "神来的……但他好像有点兴奋过头了……$"
 
 MauvilleCity_Text_WallyWantToChallengeGym:
 	.string "满充：叔叔，拜托你了。\p"
@@ -491,9 +490,9 @@ MauvilleCity_Text_WallyWillYouBattleMe:
 	.string "战吧！$"
 
 MauvilleCity_Text_WallyMyUncleWontKnowImStrong:
-	.string "满充：唔……{PLAYER}，如\n"
-	.string "果你不跟我对战，叔叔就不会知道我\l"
-	.string "真的变强了……$"
+	.string "满充：唔……{PLAYER}，如果\n"
+	.string "你不跟我对战，叔叔就不会知道我真\l"
+	.string "的变强了……$"
 
 MauvilleCity_Text_UncleCanYouBattleWally:
 	.string "叔叔：你是{PLAYER}\n"
@@ -527,42 +526,39 @@ MauvilleCity_Text_UncleNoNeedToBeDown:
 	.string "叔叔：满充，别这么沮丧。\p"
 	.string "想想是什么激励着你要变得越来越强\n"
 	.string "的？\p"
-	.string "好了，我们回家吧，大家都在等你呢\n"
-	.string "。$"
+	.string "好了，我们回家吧，大家都在等你\n"
+	.string "呢。$"
 
 MauvilleCity_Text_UncleVisitUsSometime:
-	.string "叔叔：{PLAYER}{KUN}\n"
-	.string "，我刚刚才想起来，你就是那位看着\l"
-	.string "满充捕捉他的第一只宝可梦的训练家\l"
-	.string "吧？\p"
+	.string "叔叔：{PLAYER}\n"
+	.string "{KUN}，我刚刚才想起来，你就\l"
+	.string "是那位看着满充捕捉他的第一只宝可\l"
+	.string "梦的训练家吧？\p"
 	.string "有空的话，来绿茵镇转转好吗？我想\n"
 	.string "满充也会很开心的。$"
 
 
 MauvilleCity_Text_WallyPokenavCall:
-	.string "…… …… ………… …… ……\n"
-	.string "哔！\p"
+	.string "…… …… ………… …… ……哔！\p"
 	.string "满充：啊，{PLAYER}！\p"
 	.string "我只是想告诉你我叔叔刚给我买了个\n"
 	.string "宝可导航！\p"
 	.string "现在我随时都可以联系你了，\n"
 	.string "{PLAYER}！\p"
-	.string "…… …… ………… …… ……\n"
-	.string "咔哒！$"
+	.string "…… …… ………… …… ……咔哒！$"
 
 MauvilleCity_Text_RegisteredWally:
 	.string "把满充登记到宝可导航里了。$"
 
 MauvilleCity_Text_ScottYouDidntHoldBack:
-	.string "亚希达：嘿嘿……刚才的对战我都看\n"
-	.string "到了！\p"
+	.string "亚希达：嘿嘿……刚才的对战我都看到\n"
+	.string "了！\p"
 	.string "那个叫满充的男孩是你的朋友吧？\p"
 	.string "即便如此你还是全力以赴漂亮地取胜\n"
 	.string "了！\p"
 	.string "没错！这才是真正的宝可梦对战！\p"
 	.string "我所欣赏的就是这样的训练家！\p"
-	.string "…… …… ……我会继续为你加油\n"
-	.string "的！$"
+	.string "…… …… ……我会继续为你加油的！$"
 
 MauvilleCity_Text_WattsonNeedFavorTakeKey:
 	.string "铁旋：嗨，{PLAYER}\n"
@@ -581,8 +577,8 @@ MauvilleCity_Text_WattsonNeedFavorTakeKey:
 MauvilleCity_Text_WattsonWontBeChallenge:
 	.string "铁旋：不用担心，这对你应该是小菜\n"
 	.string "一碟。\p"
-	.string "从110号道路用冲浪一小段就到新\n"
-	.string "紫堇的入口了。\p"
+	.string "从110号道路用冲浪一小段就到新紫\n"
+	.string "堇的入口了。\p"
 	.string "那就这么说定了，我相信你！啊哈哈\n"
 	.string "哈哈！$"
 
@@ -591,8 +587,8 @@ MauvilleCity_Text_WattsonThanksTakeTM:
 	.string "我就知道，{PLAYER}\n"
 	.string "{KUN}！我就知道叫你去肯定没\l"
 	.string "问题！\p"
-	.string "这是我的谢礼——十万伏特的招式学\n"
-	.string "习器！\p"
+	.string "这是我的谢礼——十万伏特的招式学习\n"
+	.string "器！\p"
 	.string "来，收下它吧！$"
 
 MauvilleCity_Text_WattsonYoungTakeCharge:

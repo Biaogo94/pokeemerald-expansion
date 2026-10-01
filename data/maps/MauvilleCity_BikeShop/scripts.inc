@@ -183,8 +183,8 @@ MauvilleCity_BikeShop_Text_RydelGreeting:
 	.string "的店主。$"
 
 MauvilleCity_BikeShop_Text_DidYouComeFromFarAway:
-	.string "风野：你的跑步鞋……看上去已经很\n"
-	.string "脏了。\p"
+	.string "风野：你的跑步鞋……看上去已经很脏\n"
+	.string "了。\p"
 	.string "你是从很远的地方来的吗？$"
 
 MauvilleCity_BikeShop_Text_GuessYouDontNeedBike:
@@ -210,12 +210,12 @@ MauvilleCity_BikeShop_Text_ExplainBikesChooseWhichOne:
 	.string "你想要哪样？$"
 
 MauvilleCity_BikeShop_Text_ChoseMachBike:
-	.string "{PLAYER}选择了音速自行车\n"
-	.string "。$"
+	.string "{PLAYER}选择了音速自行\n"
+	.string "车。$"
 
 MauvilleCity_BikeShop_Text_ChoseAcroBike:
-	.string "{PLAYER}选择了越野自行车\n"
-	.string "。$"
+	.string "{PLAYER}选择了越野自行\n"
+	.string "车。$"
 
 MauvilleCity_BikeShop_Text_ComeBackToSwitchBikes:
 	.string "风野：如果你想换一辆自行车，再回\n"
@@ -225,8 +225,8 @@ MauvilleCity_BikeShop_Text_WantToSwitchBikes:
 	.string "风野：哦？你想换一辆车吗？$"
 
 MauvilleCity_BikeShop_Text_IllSwitchBikes:
-	.string "风野：好，没问题！我给你换一辆车\n"
-	.string "！$"
+	.string "风野：好，没问题！我给你换一辆\n"
+	.string "车！$"
 
 MauvilleCity_BikeShop_Text_ExchangedMachForAcro:
 	.string "{PLAYER}把音速自行车换成\n"
@@ -237,13 +237,13 @@ MauvilleCity_BikeShop_Text_ExchangedAcroForMach:
 	.string "了音速自行车。$"
 
 MauvilleCity_BikeShop_Text_HappyYouLikeIt:
-	.string "风野：好，好！我很高兴你能喜欢它\n"
-	.string "！$"
+	.string "风野：好，好！我很高兴你能喜欢\n"
+	.string "它！$"
 
 MauvilleCity_BikeShop_Text_OhYourBikeIsInPC:
 	.string "哎？我给你的自行车呢？\p"
-	.string "啊，明白了，你把它存到电脑里面了\n"
-	.string "。\p"
+	.string "啊，明白了，你把它存到电脑里面\n"
+	.string "了。\p"
 	.string "把它从电脑里拿出来吧，我很乐意为\n"
 	.string "你换一辆！\p"
 	.string "愿你在旅行中体会到追风的快乐！$"
@@ -277,8 +277,8 @@ MauvilleCity_BikeShop_Text_SandySlopes:
 	.string "丰缘地区中某些地方有小沙坡，\p"
 	.string "普通方法很难爬上这些松散细碎的斜\n"
 	.string "坡，\p"
-	.string "但如果骑着音速自行车就能冲上沙坡\n"
-	.string "。\p"
+	.string "但如果骑着音速自行车就能冲上沙\n"
+	.string "坡。\p"
 	.string "还要翻到其他页吗？$"
 
 MauvilleCity_BikeShop_Text_AcroHandbookWhichPage:

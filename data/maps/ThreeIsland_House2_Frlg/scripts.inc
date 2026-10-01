@@ -15,8 +15,8 @@ ThreeIsland_House2_EventScript_Rocker::
 
 ThreeIsland_House2_Text_CantMakeThisSpoonBend::
 	.string "嗯……………呃……！\p"
-	.string "……不行啊！我不可能用我的意念把\n"
-	.string "这个勺子弄弯啊！\p"
+	.string "……不行啊！我不可能用我的意念把这\n"
+	.string "个勺子弄弯啊！\p"
 	.string "也许我根本没有超能力。$"
 
 ThreeIsland_House2_Text_IAdmireSabrina::

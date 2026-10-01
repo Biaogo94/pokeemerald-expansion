@@ -64,8 +64,7 @@ Route4_Text_PicnickerSharon_Beaten:
 	.string "…$"
 
 Route4_Text_PicnickerSharon_AfterBattle:
-	.string "……我还是再去多修行一下\n"
-	.string "吧……$"
+	.string "……我还是再去多修行一下吧……$"
 
 Route4_Text_MtMoonSquareSign:
 	.string "月见山因塌方开辟新入口\p"

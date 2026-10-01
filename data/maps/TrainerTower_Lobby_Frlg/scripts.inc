@@ -271,8 +271,7 @@ TrainerTower_Roof_Text_ImOwnerBattledPerfectly::
 	.string "天空屹立在塔顶之上……\p"
 	.string "轻风温柔地抚摸着它……\p"
 	.string "一切都是那么完美……\p"
-	.string "你战斗的方式……也是一样的完美…\n"
-	.string "…$"
+	.string "你战斗的方式……也是一样的完美……$"
 
 TrainerTower_Roof_Text_ThisIsForYou::
 	.string "这是给你的……$"

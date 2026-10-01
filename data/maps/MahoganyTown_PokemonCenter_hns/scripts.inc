@@ -20,8 +20,8 @@ MahoganyTown_PokemonCenter_EventScript_Girl::
 
 MahoganyTown_PokemonCenter_Text_PokefanM:
     .string "怎么回事？火箭队卷土重来了？\p"
-    .string "我在愤怒之湖看到了几个黑衣人..\n"
-    .string "....$"
+    .string "我在愤怒之湖看到了几个黑衣人...\n"
+    .string "...$"
 
 MahoganyTown_PokemonCenter_Text_Youngster:
     .string "我不会让我的宝可梦太早进化。\p"

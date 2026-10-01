@@ -227,8 +227,8 @@ TwoIsland_Text_DangerFastCurrent::
 TwoIsland_Text_WelcomeToShopMerchandiseLimited::
 	.string "啊！你好，欢迎来我的小店！\p"
 	.string "小店最近才开张。\p"
-	.string "买的东西还不多，希望能有你需要的\n"
-	.string "。$"
+	.string "买的东西还不多，希望能有你需要\n"
+	.string "的。$"
 
 TwoIsland_Text_AddedMerchandiseForLostelle::
 	.string "我不知道该怎么感谢你才好，你救了\n"
@@ -236,8 +236,8 @@ TwoIsland_Text_AddedMerchandiseForLostelle::
 	.string "多亏了你的壮举，让三之岛的人改变\n"
 	.string "了对关都人的看法。\p"
 	.string "你要知道，我就一个是关都人。\p"
-	.string "三之岛的人们帮我添置了很多新货品\n"
-	.string "。$"
+	.string "三之岛的人们帮我添置了很多新货\n"
+	.string "品。$"
 
 TwoIsland_Text_HopeYouGiveItYourBest::
 	.string "嗨！我拿出了最好的东西在这里卖。\n"
@@ -255,13 +255,13 @@ TwoIsland_Text_FellowMovedFromCeladonCity::
 	.string "那边那个小伙子，他是从玉虹市过来\n"
 	.string "的。\p"
 	.string "他和他弟弟开了个店。\p"
-	.string "你也许会怀疑他到底懂不懂怎么开店\n"
-	.string "。$"
+	.string "你也许会怀疑他到底懂不懂怎么开\n"
+	.string "店。$"
 
 TwoIsland_Text_ShopkeepersBrotherWorksGameCorner::
 	.string "店主的弟弟在游戏厅找了个工作。\p"
-	.string "他想多攒点钱，这样就能进更多货了\n"
-	.string "。$"
+	.string "他想多攒点钱，这样就能进更多货\n"
+	.string "了。$"
 
 TwoIsland_Text_BrunoCameToIslandWhileBack::
 	.string "喂，喂。你知道吗？\p"
@@ -272,8 +272,8 @@ TwoIsland_Text_BrunoCameToIslandWhileBack::
 	.string "望地离开了。$"
 
 TwoIsland_Text_BuyRareItemsHere::
-	.string "有眼光的顾客都会来这里买稀有物品\n"
-	.string "！$"
+	.string "有眼光的顾客都会来这里买稀有物\n"
+	.string "品！$"
 
 TwoIsland_Text_OldWomanLivesOutOnCape::
 	.string "远方的小屋里住着个老太太。\p"

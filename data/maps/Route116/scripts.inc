@@ -383,12 +383,12 @@ Route116_Text_ThankYouTokenOfAppreciation:
 	.string "了！\p"
 	.string "非常非常感谢！\p"
 	.string "在下对您的感谢如同滔滔江水连绵不\n"
-	.string "绝又如黄河泛滥一发不可收拾……大\l"
-	.string "英雄啊！\p"
+	.string "绝又如黄河泛滥一发不可收拾……大英\l"
+	.string "雄啊！\p"
 	.string "我给你这最优秀的训练家带来了个好\n"
 	.string "消息！\p"
-	.string "最近我们公司开发出一种新的精灵球\n"
-	.string "，\p"
+	.string "最近我们公司开发出一种新的精灵\n"
+	.string "球，\p"
 	.string "我们把它送给你，就当作我们对一个\n"
 	.string "杰出的训练家的感谢！$"
 
@@ -412,17 +412,17 @@ Route116_Text_MayISeeThoseGlasses:
 	.string "啊，那副眼镜！可以给我看看吗？$"
 
 Route116_Text_NotWhatImLookingForMaybeTheyArentHere:
-	.string "唔……这是一副黑色眼镜，不是我要\n"
-	.string "找的……\p"
+	.string "唔……这是一副黑色眼镜，不是我要找\n"
+	.string "的……\p"
 	.string "也许我的眼镜不在这附近……$"
 
 Route116_Text_CantFindGlassesNotHere:
-	.string "唔……到处都找不到我的眼镜……也\n"
-	.string "许并不在这附近……$"
+	.string "唔……到处都找不到我的眼镜……也许并\n"
+	.string "不在这附近……$"
 
 Route116_Text_NotWhatImLookingFor:
-	.string "唔……这是一副黑色眼镜，不是我要\n"
-	.string "找的……$"
+	.string "唔……这是一副黑色眼镜，不是我要找\n"
+	.string "的……$"
 
 Route116_Text_RouteSignRustboro:
 	.string "116号道路\n"
@@ -446,7 +446,7 @@ Route116_Text_TrainerTipsBToStopEvolution:
 Route116_Text_TrainerTipsBagHasPockets:
 	.string "有用的公告牌！\p"
 	.string "背包由数个口袋组成，\p"
-	.string "得到的道具会自动放入合适的口袋中\n"
-	.string "。\p"
+	.string "得到的道具会自动放入合适的口袋\n"
+	.string "中。\p"
 	.string "每个训练家都应有一个自己的背包。$"
 

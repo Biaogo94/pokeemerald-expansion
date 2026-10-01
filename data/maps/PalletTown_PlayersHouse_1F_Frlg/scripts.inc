@@ -54,13 +54,13 @@ PalletTown_PlayersHouse_1F_EventScript_TVScreenFemale::
 	return
 
 PalletTown_PlayersHouse_1F_Text_AllBoysLeaveOakLookingForYou::
-	.string "妈妈：……好吧。电视上说过。每一\n"
-	.string "个男孩子都有离开家的那一天。\p"
+	.string "妈妈：……好吧。电视上说过。每一个\n"
+	.string "男孩子都有离开家的那一天。\p"
 	.string "对了，隔壁的大木博士正在找你呢。$"
 
 PalletTown_PlayersHouse_1F_Text_AllGirlsLeaveOakLookingForYou::
-	.string "妈妈 ……好吧。电视上说过，每一\n"
-	.string "个女孩子都梦想着去旅行。\p"
+	.string "妈妈 ……好吧。电视上说过，每一个\n"
+	.string "女孩子都梦想着去旅行。\p"
 	.string "对了，隔壁的大木博士正在找你呢。$"
 
 PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRest::

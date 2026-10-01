@@ -35,8 +35,8 @@ RustboroCity_PokemonCenter_1F_Text_PokemonHavePersonalities:
 
 RustboroCity_PokemonCenter_1F_Text_MaleAndFemalePokemon:
 	.string "就像人类一样，宝可梦也有性别，\p"
-	.string "但似乎没人知道它们的不同点在何处\n"
-	.string "。$"
+	.string "但似乎没人知道它们的不同点在何\n"
+	.string "处。$"
 
 RustboroCity_PokemonCenter_1F_Text_HMCutNextDoor:
 	.string "隔壁的人给了我一个秘传学习器！\p"

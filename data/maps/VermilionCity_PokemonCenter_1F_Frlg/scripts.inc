@@ -53,8 +53,7 @@ VermilionCity_PokemonCenter_1F_Text_PoisonedMonFaintedWhileWalking::
 	.string "它会进入濒死状态！$"
 
 VermilionCity_PokemonCenter_1F_Text_AllMonWeakToSpecificTypes::
-	.string "确实一只等级高的宝可梦会更厉害…\n"
-	.string "…\p"
+	.string "确实一只等级高的宝可梦会更厉害……\p"
 	.string "但是，所有的宝可梦在对上特定的系\n"
 	.string "的时候都会有弱点。\p"
 	.string "所以，没有一只永远强大的宝可梦。$"
@@ -76,8 +75,8 @@ VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematches::
 VermilionCity_PokemonCenter_1F_Text_ExplainVSSeeker::
 	.string "你是怎样使用对战搜寻器的？这没什\n"
 	.string "么困难的。\p"
-	.string "使用时会发出哔-哔-嘟的声音，你\n"
-	.string "再看看周围的训练家。\p"
+	.string "使用时会发出哔-哔-嘟的声音，你再\n"
+	.string "看看周围的训练家。\p"
 	.string "如过任何训练家想再战，它会让你马\n"
 	.string "上知道。\p"
 	.string "当你在室外时，记得先充好电。$"

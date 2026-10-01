@@ -77,8 +77,8 @@ NationalPark_Normal_Text_PokefanF:
 
 NationalPark_Normal_Text_Teacher1:
 	.string "请注意听讲！\p"
-	.string "……哎呀，职业病又犯了，\n"
-	.string "总觉得自己还在当老师呢。\p"
+	.string "……哎呀，职业病又犯了，总觉得自己\n"
+	.string "还在当老师呢。\p"
 	.string "你一定是一位宝可梦训练家吧。\p"
 	.string "看你这么努力，这个就送给你吧。$"
 
@@ -97,8 +97,7 @@ NationalPark_Normal_Text_Youngster2:
 NationalPark_Normal_Text_Teacher2:
 	.string "我常在公园里散步，但从不走进草\n"
 	.string "丛。\p"
-	.string "因为训练家们总想着找人对战..\n"
-	.string "....\p"
+	.string "因为训练家们总想着找人对战......\p"
 	.string "你一路走来经历了不少战斗吧？让我\n"
 	.string "来为你的宝可梦恢复一下吧。$"
 
@@ -253,8 +252,8 @@ NationalPark_Normal_Text_Sign_BattleNotice:
 
 NationalPark_Normal_Text_TrainerTips:
 	.string "训练家心得\p"
-	.string "打开邮件后按START键，就能把\n"
-	.string "内容打印出来。$"
+	.string "打开邮件后按START键，就能把内容\n"
+	.string "打印出来。$"
 
 NationalPark_Normal_Text_BeverlyRegister:
 	.string "话说回来，你的宝可梦也挺可爱的。$"

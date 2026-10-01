@@ -530,41 +530,40 @@ LilycoveCity_PokemonCenter_1F_Text_ImTheFavorLady:
 	.string "我是赖皮姐姐……$"
 
 LilycoveCity_PokemonCenter_1F_Text_ObsessedWithThing:
-	.string "最近我一直\n"
-	.string "想要{STR_VAR_1}的东西……$"
+	.string "最近我一直想要\n"
+	.string "{STR_VAR_1}的东西……$"
 
 LilycoveCity_PokemonCenter_1F_Text_ThankYouForLastTime:
-	.string "啊……\n"
-	.string "之前谢谢你了……$"
+	.string "啊……之前谢谢你了……$"
 
 LilycoveCity_PokemonCenter_1F_Text_PlayerGaveMeBadThing:
-	.string "以前，大概是{STR_VAR_3}……\p"
-	.string "{STR_VAR_3}给了我{STR_VAR_2}，\n"
-	.string "说它{STR_VAR_1}，\p"
-	.string "但那根本不{STR_VAR_1}，\n"
-	.string "完全不。$"
+	.string "以前，大概是\n"
+	.string "{STR_VAR_3}……\p"
+	.string "{STR_VAR_3}给了我\n"
+	.string "{STR_VAR_2}，说它\l"
+	.string "{STR_VAR_1}，\p"
+	.string "但那根本不\n"
+	.string "{STR_VAR_1}，完全不。$"
 
 LilycoveCity_PokemonCenter_1F_Text_PlayerGaveMeGreatThing:
-	.string "以前，{STR_VAR_3}给了我\n"
-	.string "非常{STR_VAR_1}的{STR_VAR_2}，\p"
+	.string "以前，{STR_VAR_3}给了\n"
+	.string "我非常{STR_VAR_1}的\l"
+	.string "{STR_VAR_2}，\p"
 	.string "现在我还在珍藏着。$"
 
 LilycoveCity_PokemonCenter_1F_Text_WillYouShareThing:
 	.string "听着，如果你也有什么\n"
-	.string "{STR_VAR_1}的东西，\l"
-	.string "能送给我吗？$"
+	.string "{STR_VAR_1}的东西，能\l"
+	.string "送给我吗？$"
 
 LilycoveCity_PokemonCenter_1F_Text_WhatWillYouGiveMe:
-	.string "……真的？\n"
-	.string "你要给我什么？$"
+	.string "……真的？你要给我什么？$"
 
 LilycoveCity_PokemonCenter_1F_Text_IsThatSoGoodbye:
-	.string "是吗？\n"
-	.string "那么再见吧……$"
+	.string "是吗？那么再见吧……$"
 
 LilycoveCity_PokemonCenter_1F_Text_NotWillingToShare:
-	.string "哎……\n"
-	.string "你不愿意给啊。$"
+	.string "哎……你不愿意给啊。$"
 
 LilycoveCity_PokemonCenter_1F_Text_IllTryToCherishIt:
 	.string "哦？那个{STR_VAR_2}\n"
@@ -574,12 +573,10 @@ LilycoveCity_PokemonCenter_1F_Text_IllTryToCherishIt:
 
 LilycoveCity_PokemonCenter_1F_Text_IWillCherishThis:
 	.string "啊……\p"
-	.string "真的是非常{STR_VAR_1}的\n"
-	.string "{STR_VAR_2}……\p"
-	.string "真好啊，\n"
-	.string "好像做梦一样……\p"
-	.string "谢谢你……\n"
-	.string "我会珍惜的……$"
+	.string "真的是非常{STR_VAR_1}\n"
+	.string "的{STR_VAR_2}……\p"
+	.string "真好啊，好像做梦一样……\p"
+	.string "谢谢你……我会珍惜的……$"
 
 LilycoveCity_PokemonCenter_1F_Text_IWillTreasureThis:
 	.string "……哦，哦，哦……\p"
@@ -591,29 +588,26 @@ LilycoveCity_PokemonCenter_1F_Text_IWillTreasureThis:
 	.string "我一辈子都会珍藏它！$"
 
 LilycoveCity_PokemonCenter_1F_Text_IllGiveYouThisInReturn:
-	.string "你给了我这么好的礼物，\n"
-	.string "这个就当作我的回礼吧。\p"
+	.string "你给了我这么好的礼物，这个就当作\n"
+	.string "我的回礼吧。\p"
 	.string "希望你也能好好保存……$"
 
 LilycoveCity_PokemonCenter_1F_Text_YouDontHaveSpaceForIt:
-	.string "哎，你的背包没空间\n"
-	.string "装下这个了啊。\p"
-	.string "整理好之后\n"
-	.string "再来找我吧……$"
+	.string "哎，你的背包没空间装下这个了啊。\p"
+	.string "整理好之后再来找我吧……$"
 
 LilycoveCity_PokemonCenter_1F_Text_ImTheQuizLady:
-	.string "我是机智问答姐姐！\n"
-	.string "我喜欢谜题！$"
+	.string "我是机智问答姐姐！我喜欢谜题！$"
 
 LilycoveCity_PokemonCenter_1F_Text_WaitingToTakeYourQuiz:
 	.string "哦？\p"
-	.string "我正在为你出的谜题\n"
-	.string "寻找挑战者。\p"
+	.string "我正在为你出的谜题寻找挑战者。\p"
 	.string "下次再聊吧？$"
 
 LilycoveCity_PokemonCenter_1F_Text_WaitingForChallenger:
 	.string "我正在寻找愿意挑战\n"
-	.string "{STR_VAR_1}的谜题的人！$"
+	.string "{STR_VAR_1}的谜题的\l"
+	.string "人！$"
 
 LilycoveCity_PokemonCenter_1F_Text_TakeQuizChallenge:
 	.string "你能解出来的话，就会得到精美的奖\n"
@@ -625,19 +619,17 @@ LilycoveCity_PokemonCenter_1F_Text_WaitForAnswer:
 	.string "… … … … … …$"
 
 LilycoveCity_PokemonCenter_1F_Text_HowBoringBye:
-	.string "啊，真遗憾！\n"
-	.string "再见！$"
+	.string "啊，真遗憾！再见！$"
 
 LilycoveCity_PokemonCenter_1F_Text_YoureGoingToQuit:
-	.string "啊啊！\n"
-	.string "你要退出吗？$"
+	.string "啊啊！你要退出吗？$"
 
 LilycoveCity_PokemonCenter_1F_Text_TakeTheQuizAnotherTime:
 	.string "以后再来挑战吧！$"
 
 LilycoveCity_PokemonCenter_1F_Text_YouGotItRight:
-	.string "真惊讶！你答对了！\n"
-	.string "真是敏锐的人啊！$"
+	.string "真惊讶！你答对了！真是敏锐的人\n"
+	.string "啊！$"
 
 LilycoveCity_PokemonCenter_1F_Text_YouGotItRightYouveWonPersonsPrize:
 	.string "恭喜！你解开了谜题！\p"
@@ -650,12 +642,12 @@ LilycoveCity_PokemonCenter_1F_Text_XReceivedOneY:
 	.string "{STR_VAR_2}！$"
 
 LilycoveCity_PokemonCenter_1F_Text_YourBagIsFilledUp:
-	.string "哎？你的背包满了！\n"
-	.string "有空间的时候再来吧。$"
+	.string "哎？你的背包满了！有空间的时候再\n"
+	.string "来吧。$"
 
 LilycoveCity_PokemonCenter_1F_Text_WrongTheCorrectAnswerIs:
-	.string "唔……错了。\n"
-	.string "正确答案应该是“{STR_VAR_3}”！$"
+	.string "唔……错了。正确答案应该是\n"
+	.string "“{STR_VAR_3}”！$"
 
 LilycoveCity_PokemonCenter_1F_Text_IGetToKeepPrize:
 	.string "真遗憾。\p"
@@ -663,12 +655,10 @@ LilycoveCity_PokemonCenter_1F_Text_IGetToKeepPrize:
 	.string "保留了！$"
 
 LilycoveCity_PokemonCenter_1F_Text_MakeYourOwnQuiz:
-	.string "那个，那个，\n"
-	.string "你也想出题吗？$"
+	.string "那个，那个，你也想出题吗？$"
 
 LilycoveCity_PokemonCenter_1F_Text_MaybeNextTime:
-	.string "哦，知道了……\n"
-	.string "那，下次好了！$"
+	.string "哦，知道了……那，下次好了！$"
 
 LilycoveCity_PokemonCenter_1F_Text_PickYourPrize:
 	.string "好的，首先你要选择一样奖给回答正\n"
@@ -681,37 +671,34 @@ LilycoveCity_PokemonCenter_1F_Text_QuitChoosingPrize:
 	.string "你要放弃吗？$"
 
 LilycoveCity_PokemonCenter_1F_Text_WriteYourQuiz:
-	.string "啊，真棒！\n"
-	.string "真不错的奖品！\p"
-	.string "下面，你需要写下你的\n"
-	.string "问题和答案。$"
+	.string "啊，真棒！真不错的奖品！\p"
+	.string "下面，你需要写下你的问题和答案。$"
 
 LilycoveCity_PokemonCenter_1F_Text_QuitWritingQuizQuestion:
 	.string "不想出题了吗？$"
 
 @ Unused
 LilycoveCity_PokemonCenter_1F_Text_QuitWritingQuizAnswer:
-	.string "你要退出\n"
-	.string "答案选择吗？$"
+	.string "你要退出答案选择吗？$"
 
 LilycoveCity_PokemonCenter_1F_Text_IllLookForAChallenger:
-	.string "好的！\n"
-	.string "不错的问题。\p"
-	.string "我这就去找\n"
-	.string "愿意回答你的问题的挑战者。$"
+	.string "好的！不错的问题。\p"
+	.string "我这就去找愿意回答你的问题的挑战\n"
+	.string "者。$"
 
 LilycoveCity_PokemonCenter_1F_Text_ImTheContestLady:
-	.string "我是华丽大赛姐姐！\n"
-	.string "我非常喜欢华丽大赛！$"
+	.string "我是华丽大赛姐姐！我非常喜欢华丽\n"
+	.string "大赛！$"
 
 LilycoveCity_PokemonCenter_1F_Text_ThankForPokeblock:
 	.string "谢谢你的{POKEBLOCK}！$"
 
 LilycoveCity_PokemonCenter_1F_Text_MyFriendDisplaysQuality:
-	.string "这是我的伙伴{STR_VAR_1}！\n"
-	.string "它就是{STR_VAR_2}的典型！\p"
-	.string "但我认为它的表现\n"
-	.string "还会更{STR_VAR_2}！$"
+	.string "这是我的伙伴\n"
+	.string "{STR_VAR_1}！它就是\l"
+	.string "{STR_VAR_2}的典型！\p"
+	.string "但我认为它的表现还会更\n"
+	.string "{STR_VAR_2}！$"
 
 LilycoveCity_PokemonCenter_1F_Text_DontHaveAPokeblockCase:
 	.string "能帮我个忙吗？\p"
@@ -744,24 +731,25 @@ LilycoveCity_PokemonCenter_1F_Text_NoChangeThanks:
 	.string "啊，还是谢谢你！$"
 
 LilycoveCity_PokemonCenter_1F_Text_ReallyImprovedThanks:
-	.string "哦，耶！\n"
-	.string "它很高兴啊！\p"
-	.string "它{STR_VAR_1}的{STR_VAR_2}\n"
-	.string "肯定提升了！\p"
+	.string "哦，耶！它很高兴啊！\p"
+	.string "它{STR_VAR_1}的\n"
+	.string "{STR_VAR_2}肯定提升\l"
+	.string "了！\p"
 	.string "非常感谢！$"
 
 LilycoveCity_PokemonCenter_1F_Text_ReadyToEnterContests:
 	.string "唔……\p"
-	.string "看来我们应该可以\n"
-	.string "参加华丽大赛了。\p"
-	.string "如果你在哪儿看到我们的话，\n"
-	.string "请为我们加油吧。$"
+	.string "看来我们应该可以参加华丽大赛了。\p"
+	.string "如果你在哪儿看到我们的话，请为我\n"
+	.string "们加油吧。$"
 
 LilycoveCity_PokemonCenter_1F_Text_Zigzagoon:
-	.string "{STR_VAR_1}：咕～咕呜！$"
+	.string "{STR_VAR_1}：咕～咕\n"
+	.string "呜！$"
 
 LilycoveCity_PokemonCenter_1F_Text_Kecleon:
-	.string "{STR_VAR_1}：唧唧，唧唧！$"
+	.string "{STR_VAR_1}：唧唧，唧\n"
+	.string "唧！$"
 
 LilycoveCity_PokemonCenter_1F_Text_Poochyena:
 	.string "{STR_VAR_1}：汪——呜……$"

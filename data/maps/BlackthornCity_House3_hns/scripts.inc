@@ -67,8 +67,7 @@ BlackthornCity_MoveDeletersHouse_EventScript_LastMonWithSurf::
 	end
 
 BlackthornCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove:
-	.string "呃……噢，对了，我是招式\n"
-	.string "遗忘爷爷。\p"
+	.string "呃……噢，对了，我是招式遗忘爷爷。\p"
 	.string "我能让宝可梦忘记它们学会的招式。\p"
 	.string "需要我帮忙吗？$"
 
@@ -90,8 +89,8 @@ BlackthornCity_MoveDeletersHouse_Text_MonsMoveShouldBeForgotten:
 BlackthornCity_MoveDeletersHouse_Text_MonHasForgottenMove:
 	.string "非常成功！\p"
 	.string "{STR_VAR_1}已经把\n"
-	.string "{STR_VAR_2}彻底忘记了\l"
-	.string "。$"
+	.string "{STR_VAR_2}彻底忘记\l"
+	.string "了。$"
 
 BlackthornCity_MoveDeletersHouse_Text_ComeAgain:
 	.string "如果还有需要遗忘的招式，随时再来\n"
@@ -175,17 +174,17 @@ BlackthornCity_MoveRelearnersHouse_Text_SorryCantHelp:
 
 BlackthornCity_MoveRelearnersHouse_Text_ImTheMoveTutor:
 	.string "我是招式教学狂。\p"
-	.string "宝可梦能学会的招式--每一个--\n"
-	.string "我全都知道，而且我能把这些招式传\l"
-	.string "授给宝可梦。\p"
+	.string "宝可梦能学会的招式--每一个--我全\n"
+	.string "都知道，而且我能把这些招式传授给\l"
+	.string "宝可梦。\p"
 	.string "只要你愿意，我可以教你的宝可梦学\n"
 	.string "会招式。\p"
 	.string "不过你得给我一片心之鳞片。我最近\n"
 	.string "正在收集那个呢。$"
 
 BlackthornCity_MoveRelearnersHouse_Text_ThatsAHeartScaleWantMeToTeachMove:
-	.string "噢！就是这个！货真价实的心之鳞片\n"
-	.string "！\p"
+	.string "噢！就是这个！货真价实的心之鳞\n"
+	.string "片！\p"
 	.string "让我猜猜，你是想让我传授招式，对\n"
 	.string "吧？$"
 

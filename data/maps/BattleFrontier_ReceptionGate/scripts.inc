@@ -309,16 +309,16 @@ BattleFrontier_ReceptionGate_Text_IssueFrontierPass:
 	.string "给，这是您的！$"
 
 BattleFrontier_ReceptionGate_Text_ObtainedFrontierPass:
-	.string "{PLAYER}获得了开拓通行证\n"
-	.string "。$"
+	.string "{PLAYER}获得了开拓通行\n"
+	.string "证。$"
 
 BattleFrontier_ReceptionGate_Text_PlacedTrainerCardInFrontierPass:
 	.string "{PLAYER}把训练家卡收入了\n"
 	.string "开拓通行证中。$"
 
 BattleFrontier_ReceptionGate_Text_EnjoyBattleFrontier:
-	.string "希望您能尽情享受对战开拓区的一切\n"
-	.string "！$"
+	.string "希望您能尽情享受对战开拓区的一\n"
+	.string "切！$"
 
 BattleFrontier_ReceptionGate_Text_IfItIsntPlayerYouCame:
 	.string "？？？：嗨，这不是\n"
@@ -329,8 +329,8 @@ BattleFrontier_ReceptionGate_Text_OhMrScottGoodDay:
 	.string "向导：啊，亚希达先生！您好！$"
 
 BattleFrontier_ReceptionGate_Text_ScottGreatToSeeYouHere:
-	.string "亚希达：能在这里见到你真是太好了\n"
-	.string "，真的！\p"
+	.string "亚希达：能在这里见到你真是太好\n"
+	.string "了，真的！\p"
 	.string "希望你慢慢探索这里的每个角落。\p"
 	.string "当然，也希望你能在这里体验到最纯\n"
 	.string "粹的对战精髓。\p"
@@ -354,8 +354,8 @@ BattleFrontier_ReceptionGate_Text_BattleDomeInfo:
 	.string "对战巨蛋是外形像是巨大的蛋一样的\n"
 	.string "建筑。\p"
 	.string "这里会举办名为对战锦标赛的活动。\p"
-	.string "对战锦标赛有2种模式——单打和双\n"
-	.string "打对战。$"
+	.string "对战锦标赛有2种模式——单打和双打\n"
+	.string "对战。$"
 
 BattleFrontier_ReceptionGate_Text_BattlePalaceInfo:
 	.string "对战宫殿是位于对战开拓区右侧的红\n"
@@ -404,12 +404,12 @@ BattleFrontier_ReceptionGate_Text_LearnAboutWhat:
 
 BattleFrontier_ReceptionGate_Text_LevelModeInfo:
 	.string "对战开拓区的所有挑战设施都提供2\n"
-	.string "种模式可供选择——Lv. 50级\l"
-	.string "和自由等级。$"
+	.string "种模式可供选择——Lv. 50级和自由等\l"
+	.string "级。$"
 
 BattleFrontier_ReceptionGate_Text_Level50Info:
-	.string "Lv. 50级允许等级50级以内\n"
-	.string "的宝可梦参加。\p"
+	.string "Lv. 50级允许等级50级以内的宝可梦\n"
+	.string "参加。\p"
 	.string "但是，您遇到的训练家不会使用等级\n"
 	.string "50以内的宝可梦。\p"
 	.string "这是对战开拓区的入门级对战，\p"
@@ -456,11 +456,11 @@ BattleFrontier_ReceptionGate_Text_SymbolsInfo:
 BattleFrontier_ReceptionGate_Text_RecordedBattleInfo:
 	.string "可以在您的开拓通行证上记录下您的\n"
 	.string "一场对战。\p"
-	.string "您可以记录您与朋友之间进行的对战\n"
-	.string "，\p"
-	.string "或记录下在对战开拓区进行过的对战\n"
-	.string "，但不包括对战管道以及对战金字塔\l"
-	.string "中的对战。\p"
+	.string "您可以记录您与朋友之间进行的对\n"
+	.string "战，\p"
+	.string "或记录下在对战开拓区进行过的对\n"
+	.string "战，但不包括对战管道以及对战金字\l"
+	.string "塔中的对战。\p"
 	.string "对战结束时您可以选择是否要记录对\n"
 	.string "战。$"
 

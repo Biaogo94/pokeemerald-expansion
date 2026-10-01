@@ -137,8 +137,7 @@ Route34_Text_YoungsterIan_Seen:
 	.string "在班上我和宝可梦是最强的！$"
 
 Route34_Text_YoungsterIan_Beaten:
-	.string "怎么会！还有更厉害的训练家...\n"
-	.string "...$"
+	.string "怎么会！还有更厉害的训练家......$"
 
 Route34_Text_YoungsterIan_After:
 	.string "我一直在努力，为了能成为班里的明\n"
@@ -233,8 +232,7 @@ Route34_Text_CooltrainerIrene_After2:
 	.string "这是我们小小的秘密度假胜地！$"
 
 Route34_Text_CooltrainerJenn_Seen:
-	.string "珍恩：搞什么啊……？你到\n"
-	.string "底在干嘛？$"
+	.string "珍恩：搞什么啊……？你到底在干嘛？$"
 
 Route34_Text_CooltrainerJenn_Beaten:
 	.string "珍恩：对不起，艾琳！亲爱的妹妹！$"
@@ -244,8 +242,8 @@ Route34_Text_CooltrainerJenn_After1:
 	.string "很厉害的！$"
 
 Route34_Text_CooltrainerJenn_After2:
-	.string "珍恩：多晒晒太阳能让身体变得更棒\n"
-	.string "。$"
+	.string "珍恩：多晒晒太阳能让身体变得更\n"
+	.string "棒。$"
 
 Route34_Text_CooltrainerKate_Seen:
 	.string "凯特：居然敢欺负我的妹妹们，看我\n"

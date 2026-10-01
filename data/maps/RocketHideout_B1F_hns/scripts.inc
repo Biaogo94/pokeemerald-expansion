@@ -248,8 +248,7 @@ RocketHideout_B1F_Text_CameraGrunt1Seen:
     .string "喂！有入侵者！$"
 
 RocketHideout_B1F_Text_CameraGrunt1Beaten:
-    .string "可恶……我搞砸了……\n"
-    .string "..$"
+    .string "可恶……我搞砸了……..$"
 
 RocketHideout_B1F_Text_CameraGrunt2Seen:
     .string "轮到我了！休想逃跑！$"
@@ -277,8 +276,8 @@ RocketHideout_B1F_Text_ScientistJedAfter:
     .string "秘密给你。\p"
     .string "前方地板上的那个东西其实是传送地\n"
     .string "砖。\p"
-    .string "只要踩上去，就会被立刻传回入口处\n"
-    .string "。$"
+    .string "只要踩上去，就会被立刻传回入口\n"
+    .string "处。$"
 
 RocketHideout_B1F_Text_GruntM16Seen:
     .string "嘿嘿。小鬼，觉得自己运气够好吗？$"
@@ -355,12 +354,11 @@ RocketHideout_B1F_EventScript_TurnOffSwitch::
 	end
 
 RocketHideout_B1F_Text_NothingThere:
-	.string "一块奇怪的地砖……什么也\n"
-	.string "没有。$"
+	.string "一块奇怪的地砖……什么也没有。$"
 
 RocketHideout_B1F_Text_SecretSwitch:
-    .string "发现了一个隐秘开关！按下去看看吧\n"
-    .string "。$"
+    .string "发现了一个隐秘开关！按下去看看\n"
+    .string "吧。$"
 
 RocketHideout_B1F_Text_SwitchOff:
     .string "开关已经关掉了。$"

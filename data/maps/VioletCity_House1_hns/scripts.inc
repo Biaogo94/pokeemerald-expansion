@@ -54,11 +54,11 @@ VioletCity_House1_Text_YouWontTradeMe:
 	.string "不想交换吗？好吧……$"
 
 VioletCity_House1_Text_After:
-	.string "嗨，之前换给你的大岩蛇过得怎么样\n"
-	.string "？$"
+	.string "嗨，之前换给你的大岩蛇过得怎么\n"
+	.string "样？$"
 
 VioletCity_House1_Text_PokefanM:
-	.string "通过交换得到的宝可梦成长得非常快\n"
-	.string "。\p"
+	.string "通过交换得到的宝可梦成长得非常\n"
+	.string "快。\p"
 	.string "但要是没有对应的道馆徽章，它们可\n"
 	.string "能就不会听话哦。$"

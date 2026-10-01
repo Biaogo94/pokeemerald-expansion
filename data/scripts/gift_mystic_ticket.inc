@@ -36,23 +36,19 @@ MysticTicket_Obtained:
 	end
 
 sText_MysticTicketForYou:
-	.string "感谢使用\n"
-	.string "神秘礼物系统。\p"
-	.string "你一定是{PLAYER}。\n"
-	.string "这是给你的票。$"
+	.string "感谢使用神秘礼物系统。\p"
+	.string "你一定是{PLAYER}。这是给\n"
+	.string "你的票。$"
 
 sText_MysticTicketUseAtPort:
-	.string "看起来是在\n"
-	.string "水静市港口使用的。\p"
-	.string "为什么不试一下\n"
-	.string "看看它到底怎么用？$"
+	.string "看起来是在水静市港口使用的。\p"
+	.string "为什么不试一下看看它到底怎么用？$"
 
 sText_MysticTicketThankYou:
-	.string "感谢使用\n"
-	.string "神秘礼物系统。$"
+	.string "感谢使用神秘礼物系统。$"
 
 sText_MysticTicketBagFull:
-	.string "哦，抱歉，{PLAYER}。\n"
-	.string "你的背包里放重要物品的口袋满了。\p"
-	.string "请存一些东西到电脑\n"
-	.string "然后回来拿这个吧。$"
+	.string "哦，抱歉，{PLAYER}。你的\n"
+	.string "背包里放重要物品的口袋满了。\p"
+	.string "请存一些东西到电脑然后回来拿这个\n"
+	.string "吧。$"

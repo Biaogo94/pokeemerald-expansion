@@ -40,8 +40,8 @@ BattleFrontier_PokemonCenter_1F_EventScript_Skitty_hns::
 BattleFrontier_PokemonCenter_1F_Text_NeverSeenPokemon_hns:
 	.string "这里有人用着我从没见过的宝可梦。\p"
 	.string "至少在训练家学校里从没学过。\p"
-	.string "真不知道在哪里能捉到那样的宝可梦\n"
-	.string "。$"
+	.string "真不知道在哪里能捉到那样的宝可\n"
+	.string "梦。$"
 
 BattleFrontier_PokemonCenter_1F_Text_NextStopBattleArena_hns:
 	.string "好！下一站是对战竞技场！我得先去\n"
@@ -49,8 +49,8 @@ BattleFrontier_PokemonCenter_1F_Text_NextStopBattleArena_hns:
 	.string "才行。$"
 
 BattleFrontier_PokemonCenter_1F_Text_GoingThroughEveryChallenge_hns:
-	.string "咯咯……我就带着这孩子去\n"
-	.string "通关所有挑战！$"
+	.string "咯咯……我就带着这孩子去通关所有挑\n"
+	.string "战！$"
 
 BattleFrontier_PokemonCenter_1F_Text_Skitty_hns:
 	.string "向尾喵：喵~呜！$"

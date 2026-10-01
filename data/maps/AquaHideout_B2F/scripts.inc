@@ -123,8 +123,8 @@ AquaHideout_B2F_Text_Grunt4PostBattle:
 AquaHideout_B2F_Text_Grunt6Intro:
 	.string "这里的传送地板可是基地的骄傲！\p"
 	.string "你完全不知道自己身在何处了吧？\p"
-	.string "先扰乱敌人再突袭——这就是我们的\n"
-	.string "作战计划！$"
+	.string "先扰乱敌人再突袭——这就是我们的作\n"
+	.string "战计划！$"
 
 AquaHideout_B2F_Text_Grunt6Defeat:
 	.string "怎么回事？你居然一点都不累！$"

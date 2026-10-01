@@ -37,8 +37,8 @@ ThreeIsland_Mart_EventScript_Youngster::
 
 ThreeIsland_Mart_Text_TrueThatCeldadonDeptStoreBigger::
 	.string "真的假的？\p"
-	.string "玉虹百货大楼比这个商店大好几倍？\n"
-	.string "！$"
+	.string "玉虹百货大楼比这个商店大好几倍"
+	.string "？！$"
 
 ThreeIsland_Mart_Text_PeopleHealWithBerriesFromForest::
 	.string "有时我在这儿买药。\p"

@@ -107,8 +107,8 @@ UnionCave_1F_Text_HikerDanielAfter:
 	.string "现在想想那只可怜的宝可梦真惨。$"
 
 UnionCave_1F_Text_FirebreatherBillSeen:
-	.string "超音蝠的超音波老是让我宝可梦混乱\n"
-	.string "。\p"
+	.string "超音蝠的超音波老是让我宝可梦混\n"
+	.string "乱。\p"
 	.string "真是烦死人了！$"
 
 UnionCave_1F_Text_FirebreatherBillBeaten:

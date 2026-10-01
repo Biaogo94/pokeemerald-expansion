@@ -287,13 +287,13 @@ Route103_EventScript_Isabelle::
 	end
 
 Route103_Text_MayRoute103Pokemon:
-	.string "小遥：我看看……在103号道路发\n"
-	.string "现的宝可梦有……$"
+	.string "小遥：我看看……在103号道路发现的\n"
+	.string "宝可梦有……$"
 
 Route103_Text_MayLetsBattle:
 	.string "啊，你好，{PLAYER}\n"
 	.string "{KUN}！\p"
-	.string "……哦，原来爸爸送你了一只宝可梦\n"
+	.string "……哦，原来爸爸送你了一只宝可梦"
 	.string "。\p"
 	.string "机会难得，我们来一场对战吧！\p"
 	.string "让我教你怎样当一位训练家！$"
@@ -311,8 +311,8 @@ Route103_Text_MayTimeToHeadBack:
 	.string "好了，我们回研究所去吧！$"
 
 Route103_Text_BrendanRoute103Pokemon:
-	.string "小悠：好，原来103号道路上的宝\n"
-	.string "可梦有这个和这个……$"
+	.string "小悠：好，原来103号道路上的宝可\n"
+	.string "梦有这个和这个……$"
 
 Route103_Text_BrendanLetsBattle:
 	.string "嗨，{PLAYER}！\p"
@@ -326,8 +326,8 @@ Route103_Text_BrendanDefeated:
 	.string "的嘛。$"
 
 Route103_Text_BrendanTimeToHeadBack:
-	.string "小悠：我明白了……难怪爸爸会对你\n"
-	.string "青睐有加。\p"
+	.string "小悠：我明白了……难怪爸爸会对你青\n"
+	.string "睐有加。\p"
 	.string "看，你刚拿到的宝可梦就已经这么亲\n"
 	.string "近你了。\p"
 	.string "{PLAYER}，我想你说不定能\n"
@@ -335,13 +335,13 @@ Route103_Text_BrendanTimeToHeadBack:
 	.string "我们先回研究所吧！$"
 
 Route103_Text_ShouldHaveBroughtPotion:
-	.string "我的宝可梦已经很累了……我本该买\n"
-	.string "点伤药的……$"
+	.string "我的宝可梦已经很累了……我本该买点\n"
+	.string "伤药的……$"
 
 Route103_Text_ShortcutToOldale:
 	.string "如果从这儿渡海，就能到达古玫镇。\p"
-	.string "呵呵呵，这条捷径会派上不少用场的\n"
-	.string "。$"
+	.string "呵呵呵，这条捷径会派上不少用场\n"
+	.string "的。$"
 
 Route103_Text_RouteSign:
 	.string "103号道路\n"

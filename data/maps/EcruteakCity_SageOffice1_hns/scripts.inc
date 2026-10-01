@@ -102,10 +102,9 @@ EcruteakTinTowerEntrance_Text_SageWithBadge:
 EcruteakTinTowerEntrance_Text_SageNoClearBell:
 	.string "发生了非常重大的事。\p"
 	.string "恕我冒昧，必须请你离开。\p"
-	.string "……抚慰心灵之物……\n"
-	.string "..\p"
-	.string "缘寿三老说的话总是这么深奥难懂。\n"
-	.string ".....$"
+	.string "……抚慰心灵之物……..\p"
+	.string "缘寿三老说的话总是这么深奥难懂"
+	.string "。.....$"
 
 EcruteakTinTowerEntrance_Text_SageHearsClearBell1:
 	.string "发生了非常重大的事。\p"
@@ -138,7 +137,6 @@ EcruteakTinTowerEntrance_Text_WanderingSageClearBell:
 	.string "梦回到塔顶了！$"
 
 EcruteakTinTowerEntrance_Text_Gramps:
-	.string "两座塔……两只宝可梦..\n"
-	.string "....\p"
+	.string "两座塔……两只宝可梦......\p"
 	.string "但当其中一座被烧毁时，两只宝可梦\n"
 	.string "便都飞离而去，再未归来。$"

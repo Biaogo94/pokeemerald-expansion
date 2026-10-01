@@ -5,7 +5,7 @@ FallarborTown_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "我是裁决淘汰赛的向导！$"
 #else
 FallarborTown_BattleTentLobby_Text_WelcomeToBattleTent:
-	.string "I welcome you to the BATTLE TENT\n"
+	.string "I welcome you to the BATTLE TENT"
 	.string "FALLARBOR SITE!\p"
 	.string "I am your guide to the Set KO Tourney!$"
 #endif
@@ -45,8 +45,8 @@ FallarborTown_BattleTentLobby_Text_SaveBeforeChallenge:
 
 @ Unused
 FallarborTown_BattleTentLobby_Text_WhichLevelMode:
-	.string "我们提供2个级别的比赛，Lv. \n"
-	.string "50级和自由等级您要参加哪个？$"
+	.string "我们提供2个级别的比赛，Lv. 50级\n"
+	.string "和自由等级您要参加哪个？$"
 
 FallarborTown_BattleTentLobby_Text_SelectThreeMons:
 	.string "好的，请选择3只宝可梦。$"
@@ -78,8 +78,8 @@ FallarborTown_BattleTentLobby_Text_DidntSaveBeforeQuitting:
 	.string "您在上次结束时没有写入记录吧？\p"
 	.string "非常遗憾，没有写入记录的挑战我们\n"
 	.string "将视其为无效。\p"
-	.string "当然，您可以随时开始一次新的挑战\n"
-	.string "。$"
+	.string "当然，您可以随时开始一次新的挑\n"
+	.string "战。$"
 
 FallarborTown_BattleTentLobby_Text_BeatThreeTrainers:
 	.string "太棒了！您连续打败了3位训练家！$"
@@ -118,9 +118,9 @@ VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "对宝可梦的信任。$"
 #else
 VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent:
-	.string "I welcome you to the BATTLE TENT\n"
+	.string "I welcome you to the BATTLE TENT"
 	.string "VERDANTURF SITE!\p"
-	.string "Here, the TRAINER's trust toward\n"
+	.string "Here, the TRAINER's trust toward"
 	.string "POKéMON is tested.$"
 #endif
 VerdanturfTown_BattleTentLobby_Text_TakeChallenge:
@@ -158,8 +158,8 @@ VerdanturfTown_BattleTentLobby_Text_ReturnFortified:
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_WhichLevelMode:
-	.string "有2个级别，Lv. 50级和自由\n"
-	.string "等级。您要挑战哪个？$"
+	.string "有2个级别，Lv. 50级和自由等级。\n"
+	.string "您要挑战哪个？$"
 
 VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 	.string "唉……\p"
@@ -185,8 +185,8 @@ VerdanturfTown_BattleTentLobby_Text_SelectThreeMons:
 	.string "好的。现在请您选择3只宝可梦。$"
 
 VerdanturfTown_BattleTentLobby_Text_SaveBeforeChallenge:
-	.string "在进入对战帐篷之前需要先写入记录\n"
-	.string "，可以吗？$"
+	.string "在进入对战帐篷之前需要先写入记\n"
+	.string "录，可以吗？$"
 
 VerdanturfTown_BattleTentLobby_Text_NowFollowMe:
 	.string "很好。那么，请随我来。$"
@@ -215,9 +215,9 @@ SlateportCity_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "锦标赛的向导！$"
 #else
 SlateportCity_BattleTentLobby_Text_WelcomeToBattleTent:
-	.string "Welcome to the BATTLE TENT\n"
+	.string "Welcome to the BATTLE TENT"
 	.string "SLATEPORT SITE!\p"
-	.string "I am your guide to the Battle Swap\n"
+	.string "I am your guide to the Battle Swap"
 	.string "Tournament.$"
 #endif
 
@@ -250,8 +250,7 @@ SlateportCity_BattleTentLobby_Text_LookForwardToNextVisit:
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_WhichLevelMode:
-	.string "您要挑战哪个等级？Lv. 50级\n"
-	.string "还是100级？$"
+	.string "您要挑战哪个等级？Lv. 50级还是100级？$"
 
 SlateportCity_BattleTentLobby_Text_SaveBeforeChallenge:
 	.string "在挑战前需要先写入记录，可以吗？$"
@@ -290,8 +289,8 @@ SlateportCity_BattleTentLobby_Text_NoRoomInBagMakeRoom:
 
 SlateportCity_BattleTentLobby_Text_BeenWaitingForYou:
 	.string "我们已经恭候多时了！\p"
-	.string "在您继续战斗之前，需要先写入记录\n"
-	.string "。$"
+	.string "在您继续战斗之前，需要先写入记\n"
+	.string "录。$"
 
 SlateportCity_BattleTentLobby_Text_DidntSaveBeforeQuitting:
 	.string "非常遗憾，您上次在退出游戏前没有\n"
@@ -378,8 +377,8 @@ VerdanturfTown_BattleTentLobby_Text_ExplainNatureRules:
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainMoveRules:
-	.string "有攻击招式可以对敌人造成直接伤害\n"
-	.string "。\p"
+	.string "有攻击招式可以对敌人造成直接伤\n"
+	.string "害。\p"
 	.string "有防守招式用来防御敌人的攻击或用\n"
 	.string "来恢复HP等等。\p"
 	.string "也有一些有点怪异的招式可以使得敌\n"
@@ -395,8 +394,8 @@ VerdanturfTown_BattleTentLobby_Text_ExplainUnderpoweredRules:
 	.string "宝可梦不擅长使用任何它不喜欢的招\n"
 	.string "式。\p"
 	.string "如果宝可梦仅仅知道些不符合其性格\n"
-	.string "的招式，那么它就不会展示它的潜能\l"
-	.string "。$"
+	.string "的招式，那么它就不会展示它的潜\l"
+	.string "能。$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainWhenInDangerRules:

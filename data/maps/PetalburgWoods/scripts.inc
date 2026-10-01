@@ -348,8 +348,8 @@ PetalburgWoods_Text_YoureKiddingMe:
 	.string "开玩笑吧！这么强？！$"
 
 PetalburgWoods_Text_YouveGotSomeNerve:
-	.string "咕……敢和海洋队作对，你胆子不小\n"
-	.string "！再来对战一次吧！\p"
+	.string "咕……敢和海洋队作对，你胆子不小！\n"
+	.string "再来对战一次吧！\p"
 	.string "虽然想这么说，可我已经没有宝可梦\n"
 	.string "了……\p"
 	.string "而且，哼，我们海洋队还得在卡那兹\n"
@@ -413,25 +413,25 @@ PetalburgWoods_Text_CantBePopularIfLose:
 
 PetalburgWoods_Text_IveBeenTrainingHard:
 	.string "如果拥有强大的宝可梦就会被大家追\n"
-	.string "捧的，对吧？所以我一直在刻苦训练\l"
-	.string "。$"
+	.string "捧的，对吧？所以我一直在刻苦训\l"
+	.string "练。$"
 
 PetalburgWoods_Text_StayOutOfTallGrass:
 	.string "哟，那边的！你的宝可梦没事吧？\p"
-	.string "如果你的宝可梦很虚弱，想避免战斗\n"
-	.string "，那就得避开草堆。$"
+	.string "如果你的宝可梦很虚弱，想避免战\n"
+	.string "斗，那就得避开草堆。$"
 
 PetalburgWoods_Text_HiddenItemsExplanation:
-	.string "有时候，地上会有些你看不见的东西\n"
-	.string "。\p"
+	.string "有时候，地上会有些你看不见的东\n"
+	.string "西。\p"
 	.string "所以我不管走到哪儿都会仔细搜索四\n"
 	.string "周。$"
 
 PetalburgWoods_Text_TryUsingThisItem:
 	.string "哦，真漂亮！那是卡那兹市道馆的徽\n"
 	.string "章！\p"
-	.string "你一定是个训练家，试试这个东西吧\n"
-	.string "。$"
+	.string "你一定是个训练家，试试这个东西\n"
+	.string "吧。$"
 
 PetalburgWoods_Text_MiracleSeedExplanation:
 	.string "这是奇迹种子，让宝可梦携带的话，\n"
@@ -450,9 +450,9 @@ PetalburgWoods_Text_TrainerTipsExperience:
 
 PetalburgWoods_Text_TrainerTipsPP:
 	.string "有用的公告牌！\p"
-	.string "除了被打击点数HP(体力)，宝可\n"
-	.string "梦还拥有用来在战斗中发动招式的招\l"
-	.string "式点数(PP)。\p"
-	.string "如果宝可梦的PP值耗尽，必须把它\n"
-	.string "带到宝可梦中心去。$"
+	.string "除了被打击点数HP(体力)，宝可梦还\n"
+	.string "拥有用来在战斗中发动招式的招式点\l"
+	.string "数(PP)。\p"
+	.string "如果宝可梦的PP值耗尽，必须把它带\n"
+	.string "到宝可梦中心去。$"
 

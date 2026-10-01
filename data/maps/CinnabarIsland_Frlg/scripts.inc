@@ -361,8 +361,8 @@ CinnabarIsland_Text_BlaineLivedHereSinceBeforeLab::
 
 CinnabarIsland_Text_ScientistsExperimentInMansion::
 	.string "科学家们在烧焦的建筑里做实验。\p"
-	.string "就是在那边被称做是宝可梦屋的地方\n"
-	.string "。$"
+	.string "就是在那边被称做是宝可梦屋的地\n"
+	.string "方。$"
 
 CinnabarIsland_Text_IslandSign::
 	.string "红莲镇燃烧着炽热欲望的小镇$"
@@ -375,8 +375,8 @@ CinnabarIsland_Text_GymSign::
 	.string "谜题狂人！$"
 
 CinnabarIsland_Text_HeyIfItIsntPlayer::
-	.string "嗯？嘿，这不是{PLAYER}吗\n"
-	.string "！$"
+	.string "嗯？嘿，这不是{PLAYER}\n"
+	.string "吗！$"
 
 CinnabarIsland_Text_ComeWithMeToOneIsland::
 	.string "看，是我，正辉。真是好久不见了！\p"

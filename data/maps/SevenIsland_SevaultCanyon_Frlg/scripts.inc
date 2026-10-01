@@ -40,8 +40,8 @@ SevenIsland_SevaultCanyon_Text_JacksonDefeat::
 SevenIsland_SevaultCanyon_Text_JacksonPostBattle::
 	.string "在众多星系之中，我们的就如一滴水\n"
 	.string "那么小。\p"
-	.string "但是我们想为了每个人去保护这滴水\n"
-	.string "。$"
+	.string "但是我们想为了每个人去保护这滴\n"
+	.string "水。$"
 
 SevenIsland_SevaultCanyon_Text_KatelynIntro::
 	.string "你穿的那双鞋可真漂亮。$"
@@ -55,8 +55,8 @@ SevenIsland_SevaultCanyon_Text_KatelynPostBattle::
 	.string "她一定很爱你。$"
 
 SevenIsland_SevaultCanyon_Text_LeroyIntro::
-	.string "你看起来很强大。请让我和你战斗吧\n"
-	.string "！$"
+	.string "你看起来很强大。请让我和你战斗\n"
+	.string "吧！$"
 
 SevenIsland_SevaultCanyon_Text_LeroyDefeat::
 	.string "我知道！你和我想像的一样强！$"
@@ -71,8 +71,8 @@ SevenIsland_SevaultCanyon_Text_MichelleIntro::
 	.string "我不想输给任何人！$"
 
 SevenIsland_SevaultCanyon_Text_MichelleDefeat::
-	.string "谢谢你。输给你使我好像解脱了一样\n"
-	.string "。$"
+	.string "谢谢你。输给你使我好像解脱了一\n"
+	.string "样。$"
 
 SevenIsland_SevaultCanyon_Text_MichellePostBattle::
 	.string "有的时候，我会因为一些小事感到愤\n"
@@ -92,8 +92,8 @@ SevenIsland_SevaultCanyon_Text_LexPostBattle::
 	.string "谢谢你。$"
 
 SevenIsland_SevaultCanyon_Text_LexNotEnoughMons::
-	.string "阿力：你能同时和我们两个人战斗吗\n"
-	.string "？$"
+	.string "阿力：你能同时和我们两个人战斗\n"
+	.string "吗？$"
 
 SevenIsland_SevaultCanyon_Text_NyaIntro::
 	.string "阿雪：我要尽我最大的努力，我不会\n"
@@ -105,12 +105,12 @@ SevenIsland_SevaultCanyon_Text_NyaDefeat::
 SevenIsland_SevaultCanyon_Text_NyaPostBattle::
 	.string "阿雪：我想我需要更多来自阿力的调\n"
 	.string "教和指导……\p"
-	.string "……所以，阿力，拜托了，我可以继\n"
-	.string "续和你呆在一起吗？$"
+	.string "……所以，阿力，拜托了，我可以继续\n"
+	.string "和你呆在一起吗？$"
 
 SevenIsland_SevaultCanyon_Text_NyaNotEnoughMons::
-	.string "阿雪：不好意思，我们能来一场2对\n"
-	.string "2的战斗吗？$"
+	.string "阿雪：不好意思，我们能来一场2对2\n"
+	.string "的战斗吗？$"
 
 SevenIsland_SevaultCanyon_Text_RouteSign::
 	.string "七宝溪谷前方是阿斯卡纳遗迹$"
@@ -119,5 +119,5 @@ SevenIsland_SevaultCanyon_Text_BrunoTrainedWithBrawly::
 	.string "一个人单独训练当然很好。\p"
 	.string "但是和一个伙伴一起到达顶峰也并不\n"
 	.string "坏。\p"
-	.string "甚至是希巴……他之前和一个叫做藤\n"
-	.string "树的小伙子一起训练。$"
+	.string "甚至是希巴……他之前和一个叫做藤树\n"
+	.string "的小伙子一起训练。$"

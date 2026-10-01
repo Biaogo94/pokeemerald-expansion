@@ -63,49 +63,46 @@ VerdanturfTown_EventScript_RusturfTunnelSign::
 
 VerdanturfTown_Text_ManTryingToDigTunnel:
 	.string "我爸爸告诉我的。\p"
-	.string "他说这条隧道里全是\n"
-	.string "胆小的宝可梦。\p"
-	.string "它们一听到大的声响\n"
-	.string "就会吓得大吵大闹。\p"
-	.string "所以隧道的大工程\n"
-	.string "只好停了下来。\p"
-	.string "但有一个人，正靠自己的力量\n"
-	.string "挖掘这条隧道！$"
+	.string "他说这条隧道里全是胆小的宝可梦。\p"
+	.string "它们一听到大的声响就会吓得大吵大\n"
+	.string "闹。\p"
+	.string "所以隧道的大工程只好停了下来。\p"
+	.string "但有一个人，正靠自己的力量挖掘这\n"
+	.string "条隧道！$"
 
 VerdanturfTown_Text_ManDugTunnelForLove:
 	.string "听说那人挖隧道是为了心爱的姑娘。\p"
 	.string "虽然不太懂，但真浪漫啊！$"
 
 VerdanturfTown_Text_AirCleanHere:
-	.string "因风向关系，火山灰永远吹不到这里\n"
-	.string "，\p"
+	.string "因风向关系，火山灰永远吹不到这\n"
+	.string "里，\p"
 	.string "所以这里空气非常清新。住在这里，\n"
 	.string "就算是体弱多病的人也可能有奇迹般\l"
 	.string "的好转。$"
 
 VerdanturfTown_Text_MakeBattleTentDebut:
-	.string "我和我的宝可梦一路连胜，\n"
-	.string "势头正旺。\p"
-	.string "所以我决定在这座城镇的\n"
-	.string "对战帐篷初次亮相。$"
+	.string "我和我的宝可梦一路连胜，势头正\n"
+	.string "旺。\p"
+	.string "所以我决定在这座城镇的对战帐篷初\n"
+	.string "次亮相。$"
 
 VerdanturfTown_Text_GuyTryingToBustThroughCave:
 	.string "你看到友好商店旁边的洞窟了吗？\p"
 	.string "里面有个人在努力打碎岩石来打通隧\n"
 	.string "道。\p"
-	.string "要是隧道能打通就太好了……这样我\n"
-	.string "们去卡那兹市就更容易了。$"
+	.string "要是隧道能打通就太好了……这样我们\n"
+	.string "去卡那兹市就更容易了。$"
 
 VerdanturfTown_Text_EasyToGetToRustboroNow:
 	.string "友好商店旁的洞穴已经是连通两地的\n"
 	.string "隧道啦！\p"
-	.string "太棒了——现在去卡那兹市买得文的\n"
-	.string "新产品方便多了。$"
+	.string "太棒了——现在去卡那兹市买得文的新\n"
+	.string "产品方便多了。$"
 
 VerdanturfTown_Text_TownSign:
 	.string "绿荫镇\p"
-	.string "“风吹拂的高地，\n"
-	.string "飘着青草的甜香。”$"
+	.string "“风吹拂的高地，飘着青草的甜香。”$"
 
 VerdanturfTown_Text_WandasHouse:
 	.string "满盈的家$"

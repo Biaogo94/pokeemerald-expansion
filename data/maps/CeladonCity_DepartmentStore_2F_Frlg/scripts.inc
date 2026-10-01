@@ -77,5 +77,5 @@ CeladonCity_DepartmentStore_2F_Text_LanceComesToBuyCapes::
 	.string "我们有个偶尔会来光顾的客人，就是\n"
 	.string "渡。\p"
 	.string "他总是来买披风。\p"
-	.string "我很想知道……他家里是不是有很多\n"
-	.string "一模一样的披风？$"
+	.string "我很想知道……他家里是不是有很多一\n"
+	.string "模一样的披风？$"

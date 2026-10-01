@@ -20,8 +20,8 @@ MagmaHideout_1F_Text_Grunt1Intro:
 	.string "当熔岩队点名布置任务的时候，我们\n"
 	.string "按照排队的顺序各自领到重要性不同\l"
 	.string "的守卫任务。\p"
-	.string "所以我才被安排到这个角落里——因\n"
-	.string "为我点名的时候总是迟到！$"
+	.string "所以我才被安排到这个角落里——因为\n"
+	.string "我点名的时候总是迟到！$"
 
 MagmaHideout_1F_Text_Grunt1Defeat:
 	.string "我训练时也总是迟到！\p"

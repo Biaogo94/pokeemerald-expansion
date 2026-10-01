@@ -83,8 +83,8 @@ FiveIsland_MemorialPillar_EventScript_MemorialLemonadeAlreadyPlaced::
 
 FiveIsland_MemorialPillar_Text_MiloIntro::
 	.string "我是驯鸟师兄弟中年纪最大的。\p"
-	.string "鸟系宝可梦最吸引人的地方……当然\n"
-	.string "是它们的喙。$"
+	.string "鸟系宝可梦最吸引人的地方……当然是\n"
+	.string "它们的喙。$"
 
 FiveIsland_MemorialPillar_Text_MiloDefeat::
 	.string "噢，太突然了！$"
@@ -94,8 +94,8 @@ FiveIsland_MemorialPillar_Text_MiloPostBattle::
 
 FiveIsland_MemorialPillar_Text_ChazIntro::
 	.string "我是驯鸟师兄弟中的老二。\p"
-	.string "鸟系宝可梦吸引人的地方……当然是\n"
-	.string "它们的翅膀。$"
+	.string "鸟系宝可梦吸引人的地方……当然是它\n"
+	.string "们的翅膀。$"
 
 FiveIsland_MemorialPillar_Text_ChazDefeat::
 	.string "啪，砰！$"
@@ -105,12 +105,12 @@ FiveIsland_MemorialPillar_Text_ChazPostBattle::
 
 FiveIsland_MemorialPillar_Text_HaroldIntro::
 	.string "我是驯鸟师兄弟中年龄最小的。\p"
-	.string "鸟系宝可梦最吸引人的地方……当然\n"
-	.string "是它们的羽毛。$"
+	.string "鸟系宝可梦最吸引人的地方……当然是\n"
+	.string "它们的羽毛。$"
 
 FiveIsland_MemorialPillar_Text_HaroldDefeat::
-	.string "羽毛太舒服了……它让我想美美地睡\n"
-	.string "过去……$"
+	.string "羽毛太舒服了……它让我想美美地睡过\n"
+	.string "去……$"
 
 FiveIsland_MemorialPillar_Text_HaroldPostBattle::
 	.string "当鸟系宝可梦缠着我跟它们玩耍时，\n"
@@ -120,12 +120,11 @@ FiveIsland_MemorialPillar_Text_ScrubScrub::
 	.string "刷，刷……$"
 
 FiveIsland_MemorialPillar_Text_YourMonsLookHealthy::
-	.string "你好……你的宝可梦看起来很健康…\n"
-	.string "…$"
+	.string "你好……你的宝可梦看起来很健康……$"
 
 FiveIsland_MemorialPillar_Text_ThisIsWhereIBuriedMyOnix::
-	.string "这是埋葬我的大岩蛇的地方……它叫\n"
-	.string "做阿岩……$"
+	.string "这是埋葬我的大岩蛇的地方……它叫做\n"
+	.string "阿岩……$"
 
 FiveIsland_MemorialPillar_Text_HereLiesTectonixLemonadeOffering::
 	.string "碑上刻着：“阿岩长眠于此”。\p"
@@ -133,8 +132,8 @@ FiveIsland_MemorialPillar_Text_HereLiesTectonixLemonadeOffering::
 	.string "品。$"
 
 FiveIsland_MemorialPillar_Text_LeaveAnotherLemonadeOffering::
-	.string "你也想留下一罐果汁牛奶作为祭品吗\n"
-	.string "？$"
+	.string "你也想留下一罐果汁牛奶作为祭品\n"
+	.string "吗？$"
 
 FiveIsland_MemorialPillar_Text_PlacedCanOfLemonade::
 	.string "{PLAYER}在坟墓前面放了一\n"

@@ -39,6 +39,6 @@ SafariZone_North_Text_ZigzagThroughTallGrass::
 
 SafariZone_North_Text_WinFreeHMFindSecretHouse::
 	.string "训练家贴士\p"
-	.string "找到神秘小屋就能获得免费的秘传机\n"
-	.string "。$"
+	.string "找到神秘小屋就能获得免费的秘传\n"
+	.string "机。$"
 

@@ -92,8 +92,8 @@ FuchsiaCity_Gym_EventScript_GymStatuePostVictory::
 FuchsiaCity_Gym_Text_KogaIntro::
 	.string "阿桔哇哈哈哈哈哈！\p"
 	.string "不过是个小孩子居然妄想挑战我？\p"
-	.string "这个天真的想法真是让我乐得发抖啊\n"
-	.string "！\p"
+	.string "这个天真的想法真是让我乐得发抖\n"
+	.string "啊！\p"
 	.string "很好很好，让我向你展示一下忍者的\n"
 	.string "恐怖之处吧。\p"
 	.string "猛毒会把你慢慢推向毁灭的深渊。催\n"
@@ -208,8 +208,8 @@ FuchsiaCity_Gym_Text_GymGuyAdvice::
 	.string "呦！未来的冠军！\p"
 	.string "浅红道馆是一个忍者屋。这儿有充满\n"
 	.string "谜团的隐形墙壁！\p"
-	.string "阿桔应该就在这附近，但路被挡住了\n"
-	.string "。\p"
+	.string "阿桔应该就在这附近，但路被挡住\n"
+	.string "了。\p"
 	.string "你得通过墙中间的缝隙去找到他。$"
 
 FuchsiaCity_Gym_Text_GymGuyPostVictory::

@@ -34,12 +34,12 @@ SlateportCity_Mart_EventScript_Man::
 
 SlateportCity_Mart_Text_SomeItemsOnlyAtMart:
 	.string "市场里有些很有趣的商品，\p"
-	.string "但有些东西只有在友好商店才能买到\n"
-	.string "。$"
+	.string "但有些东西只有在友好商店才能买\n"
+	.string "到。$"
 
 SlateportCity_Mart_Text_GreatBallIsBetter:
-	.string "用超级球比精灵球更容易捕捉宝可梦\n"
-	.string "。\p"
+	.string "用超级球比精灵球更容易捕捉宝可\n"
+	.string "梦。\p"
 	.string "我可以用它捕捉那些比较难捕捉的宝\n"
 	.string "可梦……$"
 

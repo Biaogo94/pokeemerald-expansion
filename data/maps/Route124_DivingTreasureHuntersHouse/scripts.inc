@@ -285,8 +285,8 @@ Route124_DivingTreasureHuntersHouse_EventScript_ShardTradeBoard::
 
 Route124_DivingTreasureHuntersHouse_Text_Greeting:
 	.string "我是水下宝藏寻宝者！\p"
-	.string "专门潜到深海打捞沉睡在海底的宝物\n"
-	.string "！$"
+	.string "专门潜到深海打捞沉睡在海底的宝\n"
+	.string "物！$"
 
 Route124_DivingTreasureHuntersHouse_Text_HaveYouSeenAnyShards:
 	.string "告诉我，你见过古代工具的碎片吗？$"
@@ -297,8 +297,8 @@ Route124_DivingTreasureHuntersHouse_Text_YouHaventGotAnyShards:
 	.string "类的，就来和我交换吧！$"
 
 Route124_DivingTreasureHuntersHouse_Text_ThatsAShardIllTradeYou:
-	.string "哦，哈！那个……那是碎片！我找的\n"
-	.string "就是它们！\p"
+	.string "哦，哈！那个……那是碎片！我找的就\n"
+	.string "是它们！\p"
 	.string "啊，拜托，跟我交换吧！绝对给你好\n"
 	.string "东西！$"
 

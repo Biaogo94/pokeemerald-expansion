@@ -54,17 +54,16 @@ Route114_FossilManiacsTunnel_EventScript_PlayerRevivedFossil::
 	end
 
 Route114_FossilManiacsTunnel_Text_LookInDesertForFossils:
-	.string "我是化石迷……我是喜欢化石的好人\n"
-	.string "……\p"
+	.string "我是化石迷……我是喜欢化石的好人……\p"
 	.string "你想要化石？\p"
-	.string "但是这里所有的化石全部属于我……\n"
-	.string "不能给你……\p"
+	.string "但是这里所有的化石全部属于我……不\n"
+	.string "能给你……\p"
 	.string "如果你也需要化石去沙漠里找找吧那\n"
 	.string "里到处是沙砾也许会藏着化石……$"
 
 Route114_FossilManiacsTunnel_Text_DevonCorpRevivingFossils:
-	.string "难道说你找到了化石？太好了……不\n"
-	.string "会是做梦吧……\p"
+	.string "难道说你找到了化石？太好了……不会\n"
+	.string "是做梦吧……\p"
 	.string "你想对那个化石做什么？\p"
 	.string "我听说，得文正在做研究把宝可梦从\n"
 	.string "化石中复活……\p"
@@ -72,13 +71,13 @@ Route114_FossilManiacsTunnel_Text_DevonCorpRevivingFossils:
 	.string "做……$"
 
 Route114_FossilManiacsTunnel_Text_FossilsAreWonderful:
-	.string "化石是那么的……迷人……它是那么\n"
-	.string "完美……$"
+	.string "化石是那么的……迷人……它是那么完\n"
+	.string "美……$"
 
 Route114_FossilManiacsTunnel_Text_NotSafeThatWay:
 	.string "哦……那条路不安全……\p"
-	.string "你看到了，当所有墙壁倒塌时……我\n"
-	.string "正要挖洞离开……\p"
+	.string "你看到了，当所有墙壁倒塌时……我正\n"
+	.string "要挖洞离开……\p"
 	.string "我认为现在下面有一个巨大的洞……\p"
 	.string "但是我要走了因为我认为那里没有化\n"
 	.string "石……$"

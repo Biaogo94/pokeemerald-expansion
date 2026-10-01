@@ -127,8 +127,8 @@ RustboroCity_Gym_Text_GymGuidePostVictory:
 	.string "太好了！看看你的训练家卡，\p"
 	.string "你得到的岩石徽章就记录在上面。\p"
 	.string "换句话说……\p"
-	.string "你踏上了通向冠军之路的第一级阶梯\n"
-	.string "！\p"
+	.string "你踏上了通向冠军之路的第一级阶\n"
+	.string "梯！\p"
 	.string "感觉不错！$"
 
 RustboroCity_Gym_Text_JoshIntro:
@@ -139,8 +139,8 @@ RustboroCity_Gym_Text_JoshDefeat:
 	.string "你比我厉害多了……$"
 
 RustboroCity_Gym_Text_JoshPostBattle:
-	.string "你还没有体会过岩石属性的可怕力量\n"
-	.string "！$"
+	.string "你还没有体会过岩石属性的可怕力\n"
+	.string "量！$"
 
 RustboroCity_Gym_Text_TommyIntro:
 	.string "如果你不能打败我，就不可能打败杜\n"
@@ -189,14 +189,14 @@ RustboroCity_Gym_Text_ReceivedStoneBadge:
 	.string "岩石徽章。$"
 
 RustboroCity_Gym_Text_StoneBadgeInfoTakeThis:
-	.string "岩石徽章能提高您的宝可梦的攻击力\n"
-	.string "。\p"
+	.string "岩石徽章能提高您的宝可梦的攻击\n"
+	.string "力。\p"
 	.string "有了它，您的宝可梦也能在对战外使\n"
 	.string "用秘传招式居合劈了。\p"
 	.string "然后……请您也收下这个。$"
 
 RustboroCity_Gym_Text_ExplainRockTomb:
-	.string "那个招式学习器39中装着岩石封锁\n"
+	.string "那个招式学习器39中装着岩石封锁"
 	.string "。\p"
 	.string "用落石攻击对手的同时也能降低对手\n"
 	.string "的速度。\p"
@@ -220,8 +220,7 @@ RustboroCity_Gym_Text_GymStatueCertified:
 	.string "{PLAYER}$"
 
 RustboroCity_Gym_Text_RoxanneRegisterCall:
-	.string "…… …… ………… …… ……\n"
-	.string "哔！\p"
+	.string "…… …… ………… …… ……哔！\p"
 	.string "杜娟：哦，您好，是\n"
 	.string "{PLAYER}吗？我是卡那兹市\l"
 	.string "的杜娟。\p"
@@ -235,8 +234,8 @@ RustboroCity_Gym_Text_RoxanneRegisterCall:
 	.string "…… …… ………… ……咔哒！$"
 
 RustboroCity_Gym_Text_RegisteredRoxanne:
-	.string "把道馆馆主杜娟登记到宝可导航里了\n"
-	.string "。$"
+	.string "把道馆馆主杜娟登记到宝可导航里\n"
+	.string "了。$"
 
 RustboroCity_Gym_Text_RoxannePreRematch:
 	.string "杜娟：我真高兴能再见到您。我是这\n"

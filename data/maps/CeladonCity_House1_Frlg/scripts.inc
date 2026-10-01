@@ -15,13 +15,13 @@ CeladonCity_House1_EventScript_Rocket2::
 
 CeladonCity_House1_Text_SlotsReelInTheDough::
 	.string "呵呵呵！\p"
-	.string "老虎机就是个吸钱机，最棒的吸钱机\n"
-	.string "！$"
+	.string "老虎机就是个吸钱机，最棒的吸钱\n"
+	.string "机！$"
 
 CeladonCity_House1_Text_ShippedMonsAsSlotPrizes::
 	.string "队长！\p"
-	.string "我们今天刚又运来了2000个宝可\n"
-	.string "梦作为老虎机的奖品！$"
+	.string "我们今天刚又运来了2000个宝可梦作\n"
+	.string "为老虎机的奖品！$"
 
 CeladonCity_House1_Text_DontTouchGameCornerPoster::
 	.string "千万别去碰游戏厅的海报！\p"

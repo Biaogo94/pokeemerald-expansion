@@ -43,8 +43,8 @@ IndigoPlateau_Text_ShigyNinja:
 	.string "去吧，全力以赴！$"
 
 IndigoPlateau_Text_Blackbelt:
-	.string "宝可梦联盟目前暂不接受新的挑战者\n"
-	.string "。\p"
+	.string "宝可梦联盟目前暂不接受新的挑战\n"
+	.string "者。\p"
 	.string "请稍后再来。$"
 
 IndigoPlateau_Text_CooltrainerM:
@@ -88,8 +88,8 @@ IndigoPlateau_Text_RivalEntrance1:
     .string "站住。\p"
     .string "你现在就想去挑战宝可梦联盟？\p"
     .string "别做白日梦了。\p"
-    .string "我精心培育的宝可梦会把你彻底打垮\n"
-    .string "。\p"
+    .string "我精心培育的宝可梦会把你彻底打\n"
+    .string "垮。\p"
     .string "{PLAYER}！我要向你发起挑\n"
     .string "战！$"
 
@@ -98,10 +98,9 @@ IndigoPlateau_Text_RivalWin:
     .string "好……我输了……$"
 
 IndigoPlateau_Text_RivalAfter:
-    .string "……可恶……还是\n"
-    .string "赢不了吗……\p"
-    .string "我……我必须更加为我的宝\n"
-    .string "可梦着想才行……\p"
+    .string "……可恶……还是赢不了吗……\p"
+    .string "我……我必须更加为我的宝可梦着想才\n"
+    .string "行……\p"
     .string "哼！可别输得太难看啊！$"
 
 IndigoPlateau_EventScript_Psychic::

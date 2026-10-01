@@ -65,7 +65,7 @@ PokemonTower_6F_Text_EmiliaPostBattle::
 	.string "的幽灵！$"
 
 PokemonTower_6F_Text_JenniferIntro::
-	.string "咳……咳……咳……咳……咳……咳\n"
+	.string "咳……咳……咳……咳……咳……咳"
 	.string "！$"
 
 PokemonTower_6F_Text_JenniferDefeat::

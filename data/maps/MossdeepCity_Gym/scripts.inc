@@ -404,24 +404,21 @@ MossdeepCity_Gym_Text_VirgilDefeat:
 MossdeepCity_Gym_Text_VirgilPostBattle:
 	.string "如果世上真的有天才，那么就是我们\n"
 	.string "的道馆馆主！\p"
-	.string "但你说不定拥有比他们更高的天赋…\n"
-	.string "…$"
+	.string "但你说不定拥有比他们更高的天赋……$"
 
 MossdeepCity_Gym_Text_BlakeIntro:
-	.string "嘿嘿嘿……看我用心灵感应让精灵球\n"
-	.string "浮起来！\p"
-	.string "呜啊啊啊啊啊啊啊！…… …… …\n"
-	.string "… ……\p"
+	.string "嘿嘿嘿……看我用心灵感应让精灵球浮\n"
+	.string "起来！\p"
+	.string "呜啊啊啊啊啊啊啊！…… …… …… ……\p"
 	.string "有时我还是不能同步……$"
 
 MossdeepCity_Gym_Text_BlakeDefeat:
 	.string "我的宝可梦战斗技术也不能同步了！$"
 
 MossdeepCity_Gym_Text_BlakePostBattle:
-	.string "要用精神力举起精灵球还是困难了点\n"
-	.string "，但这么小的灰尘的话……\p"
-	.string "呜啊啊啊啊啊啊啊！…… …… …\n"
-	.string "…\p"
+	.string "要用精神力举起精灵球还是困难了\n"
+	.string "点，但这么小的灰尘的话……\p"
+	.string "呜啊啊啊啊啊啊啊！…… …… ……\p"
 	.string "不不，我没骗人！我没吹牛！真的！$"
 
 MossdeepCity_Gym_Text_HannahIntro:
@@ -434,7 +431,7 @@ MossdeepCity_Gym_Text_HannahDefeat:
 MossdeepCity_Gym_Text_HannahPostBattle:
 	.string "我失败了，但我不会气馁。我只是需\n"
 	.string "要更严格的训练。\p"
-	.string "总是乐观看待事情——这是我的优势\n"
+	.string "总是乐观看待事情——这是我的优势"
 	.string "！$"
 
 MossdeepCity_Gym_Text_SamanthaIntro:
@@ -458,8 +455,8 @@ MossdeepCity_Gym_Text_MauraDefeat:
 
 MossdeepCity_Gym_Text_MauraPostBattle:
 	.string "勤奋的人们拥有光明的前途，\p"
-	.string "而懒惰的人所面对的惟有绝望的终点\n"
-	.string "。\p"
+	.string "而懒惰的人所面对的惟有绝望的终\n"
+	.string "点。\p"
 	.string "种下什么因，就得到什么果……$"
 
 MossdeepCity_Gym_Text_SylviaIntro:
@@ -477,12 +474,12 @@ MossdeepCity_Gym_Text_NateIntro:
 	.string "让我给你看看超能力属性的执着。$"
 
 MossdeepCity_Gym_Text_NateDefeat:
-	.string "啊，天哪，天哪！你的战斗无与伦比\n"
-	.string "！$"
+	.string "啊，天哪，天哪！你的战斗无与伦\n"
+	.string "比！$"
 
 MossdeepCity_Gym_Text_NatePostBattle:
-	.string "我……我不会被任——任何失败吓—\n"
-	.string "—吓倒。$"
+	.string "我……我不会被任——任何失败吓——吓\n"
+	.string "倒。$"
 
 MossdeepCity_Gym_Text_KathleenIntro:
 	.string "体会一下完全绝望的恐怖吧！$"
@@ -504,8 +501,8 @@ MossdeepCity_Gym_Text_CliffordPostBattle:
 	.string "看来我无法胜过你的活力。$"
 
 MossdeepCity_Gym_Text_MaceyIntro:
-	.string "休想走到最后！只要我在就绝无可能\n"
-	.string "！$"
+	.string "休想走到最后！只要我在就绝无可\n"
+	.string "能！$"
 
 MossdeepCity_Gym_Text_MaceyDefeat:
 	.string "怎么可能强得这么离谱？$"
@@ -533,18 +530,18 @@ MossdeepCity_Gym_Text_TateAndLizaIntro:
 	.string "这里有两个道馆馆主？\p"
 	.string "小枫：我们是双胞胎！小南：我们是\n"
 	.string "双胞胎！\p"
-	.string "小枫：我们无需言语，因为……小南\n"
-	.string "：我们可以感知……\p"
-	.string "小枫：彼此心中所想……小南：仅凭\n"
-	.string "意念相通！\p"
-	.string "小枫：这样的组合……小南：你能战\n"
-	.string "胜吗？$"
+	.string "小枫：我们无需言语，因为……小南：\n"
+	.string "我们可以感知……\p"
+	.string "小枫：彼此心中所想……小南：仅凭意\n"
+	.string "念相通！\p"
+	.string "小枫：这样的组合……小南：你能战胜\n"
+	.string "吗？$"
 
 MossdeepCity_Gym_Text_TateAndLizaDefeat:
-	.string "小枫：什么？！我们的组合……小南\n"
-	.string "：被瓦解了！\p"
-	.string "小枫：没办法，是你赢了……小南：\n"
-	.string "作为证明，请收下这个。$"
+	.string "小枫：什么？！我们的组合……小南：\n"
+	.string "被瓦解了！\p"
+	.string "小枫：没办法，是你赢了……小南：作\n"
+	.string "为证明，请收下这个。$"
 
 MossdeepCity_Gym_Text_ReceivedMindBadge:
 	.string "{PLAYER}从小枫与小南那里\n"
@@ -558,12 +555,12 @@ MossdeepCity_Gym_Text_ExplainMindBadgeTakeThis:
 	.string "小枫：也请你收下这个。$"
 
 MossdeepCity_Gym_Text_ExplainCalmMind:
-	.string "小枫：那个招式学习器04里面是…\n"
-	.string "…小南：冥想！\p"
-	.string "小枫：它能提升特攻……小南：还能\n"
-	.string "提升特防！\p"
-	.string "小枫：对于超能力属性宝可梦而言…\n"
-	.string "…小南：这是最完美的招式！\p"
+	.string "小枫：那个招式学习器04里面是……小\n"
+	.string "南：冥想！\p"
+	.string "小枫：它能提升特攻……小南：还能提\n"
+	.string "升特防！\p"
+	.string "小枫：对于超能力属性宝可梦而言……\n"
+	.string "小南：这是最完美的招式！\p"
 	.string "…… …… ……$"
 
 MossdeepCity_Gym_Text_RegisteredTateAndLiza:
@@ -572,16 +569,16 @@ MossdeepCity_Gym_Text_RegisteredTateAndLiza:
 
 MossdeepCity_Gym_Text_TateAndLizaPostBattle:
 	.string "小枫：看起来你和你的宝可梦之间的\n"
-	.string "牵绊比我们双胞胎之间的牵绊还要强\l"
-	.string "。\p"
+	.string "牵绊比我们双胞胎之间的牵绊还要\l"
+	.string "强。\p"
 	.string "小南：你们会变得更强！我们和你对\n"
 	.string "战过，所以我们知道。$"
 
 MossdeepCity_Gym_Text_TateAndLizaNeedTwoMons:
 	.string "小枫：嘿嘿嘿……你惊讶吗？\p"
 	.string "小南：这里有两个道馆馆主？\p"
-	.string "小枫：哎，你只有1只……小南：能\n"
-	.string "对战的宝可梦。\p"
+	.string "小枫：哎，你只有1只……小南：能对\n"
+	.string "战的宝可梦。\p"
 	.string "小枫：我们不能这样对战！\p"
 	.string "小南：要和我们对战，再多带几只宝\n"
 	.string "可梦来吧。$"
@@ -596,17 +593,17 @@ MossdeepCity_Gym_Text_GymStatueCertified:
 
 MossdeepCity_Gym_Text_TateAndLizaPreRematch:
 	.string "小枫：宝可梦……小南：宝可梦……\p"
-	.string "小枫：改变队伍组合的话……小南：\n"
-	.string "战斗风格也会随之改变。\p"
+	.string "小枫：改变队伍组合的话……小南：战\n"
+	.string "斗风格也会随之改变。\p"
 	.string "小枫：但是我……小南：但是我……\p"
 	.string "小枫：会一直跟小南在一起！小南：\n"
 	.string "会一直跟小枫在一起！\p"
-	.string "小枫：我们会向你一次次……小南：\n"
-	.string "展现我们的组合！$"
+	.string "小枫：我们会向你一次次……小南：展\n"
+	.string "现我们的组合！$"
 
 MossdeepCity_Gym_Text_TateAndLizaRematchDefeat:
-	.string "小枫：你和你的宝可梦……小南：简\n"
-	.string "直像亲兄弟姐妹！$"
+	.string "小枫：你和你的宝可梦……小南：简直\n"
+	.string "像亲兄弟姐妹！$"
 
 MossdeepCity_Gym_Text_TateAndLizaPostRematch:
 	.string "小枫：你可以将我们击倒，但我们不\n"
@@ -615,13 +612,11 @@ MossdeepCity_Gym_Text_TateAndLizaPostRematch:
 	.string "持！$"
 
 MossdeepCity_Gym_Text_TateAndLizaRematchNeedTwoMons:
-	.string "小枫：你又回来……小南：你又回来\n"
-	.string "……\p"
+	.string "小枫：你又回来……小南：你又回来……\p"
 	.string "小枫：跟我们再次对战。小南：跟我\n"
 	.string "们再次对战。\p"
-	.string "小枫：但是……小南：向我们挑战…\n"
-	.string "…\p"
+	.string "小枫：但是……小南：向我们挑战……\p"
 	.string "小枫：你却只带来了1只宝可梦！小\n"
 	.string "南：你却只带来了1只宝可梦！\p"
-	.string "小枫：你再来时要带来……小南：至\n"
-	.string "少2只宝可梦。$"
+	.string "小枫：你再来时要带来……小南：至少\n"
+	.string "2只宝可梦。$"

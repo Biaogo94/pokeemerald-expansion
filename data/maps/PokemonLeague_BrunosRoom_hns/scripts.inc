@@ -88,6 +88,6 @@ PokemonLeague_BrunosRoom_Text_Beaten:
     .string "为什么？我们怎么会输？！$"
 
 PokemonLeague_BrunosRoom_Text_Defeat:
-    .string "既然输了，我就没有资格再说什么。\n"
-    .string ".....\p"
+    .string "既然输了，我就没有资格再说什么"
+    .string "。.....\p"
     .string "去迎接你接下来的挑战吧！$"

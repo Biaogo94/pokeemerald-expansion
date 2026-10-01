@@ -30,8 +30,8 @@ Route25_Text_Misty:
     .string "充满向前迈进的勇气，你懂这种感觉\l"
     .string "吗？\p"
     .string "好啦！\p"
-    .string "如果你想来一场真正的浪花飞溅对战\n"
-    .string "，就来格斗道场找我吧！$"
+    .string "如果你想来一场真正的浪花飞溅对\n"
+    .string "战，就来格斗道场找我吧！$"
 
 Route25_EventScript_Dudley::
 	trainerbattle_single TRAINER_DUDLEY_HNS, Route25_Text_SchoolboyDudleySeen, Route25_Text_SchoolboyDudleyBeaten
@@ -191,24 +191,22 @@ Route25_Trigger_SuicuneLeftLeft::
 	goto Route25_Trigger_SuicuneLeft
 
 Route25_Text_Eusine1:
-	.string "米那君：呼，呼……我..\n"
-	.string "……不是你的对手啊。\p"
-	.string "……果然不出我所料。..\n"
-	.string "................\l"
-	.string "................\l"
-	.string "……你去吧。\p"
+	.string "米那君：呼，呼……我..……不是你的对\n"
+	.string "手啊。\p"
+	.string "……果然不出我所料。.............\n"
+	.string ".....................……你去吧。\p"
 	.string "自从在圆朱市的烧焦塔遇见你起，我\n"
 	.string "就隐约预感到，水君一定会选择你。$"
 
 Route25_Text_Eusine2:
 	.string "快看啊！\p"
 	.string "水君正在等着你呢！它一直在期待着\n"
-	.string "能与一位足以托付身心的训练家交手\l"
-	.string "。$"
+	.string "能与一位足以托付身心的训练家交\l"
+	.string "手。$"
 
 Route25_Text_Eusine3:
-	.string "{PLAYER}……你们\n"
-	.string "两个真是太棒了……\p"
+	.string "{PLAYER}……你们两个真是太\n"
+	.string "棒了……\p"
 	.string "我从没见过如此激烈的对战！我已经\n"
 	.string "毫无遗憾了……\p"
 	.string "再见了，水君！再见了……\n"
@@ -382,15 +380,14 @@ Route25_Movement_MistyWalkToPlayerLeft:
 	step_end
 
 Route25_Text_MistyDate:
-	.string "小霞：啊--！你怎么偏偏挑这个时\n"
-	.string "候跑出来打扰别人啊？\p"
+	.string "小霞：啊--！你怎么偏偏挑这个时候\n"
+	.string "跑出来打扰别人啊？\p"
 	.string "你知道大家管你这种人叫什么吗？\p"
 	.string "电灯泡！你没听错，就是讨人嫌的电\n"
 	.string "灯泡！\p"
 	.string "......\p"
-	.string "……咦？你身上的那些徽章\n"
-	.string "……是城都地区的道馆徽章\l"
-	.string "吗？\p"
+	.string "……咦？你身上的那些徽章……是城都地\n"
+	.string "区的道馆徽章吗？\p"
 	.string "既然集齐了8枚，想必还挺有两下子\n"
 	.string "的嘛。\p"
 	.string "好吧。那就来华蓝道馆找我吧。\p"
@@ -409,8 +406,8 @@ Route25_Text_SchoolboyDudleyAfter:
 	.string "我已经尽力了。毫无遗憾。$"
 
 Route25_Text_LassEllenSeen:
-	.string "我是第2位！接下来可要动真格的了\n"
-	.string "！$"
+	.string "我是第2位！接下来可要动真格的\n"
+	.string "了！$"
 
 Route25_Text_LassEllenBeaten:
 	.string "我怎么可能会输？！$"
@@ -466,8 +463,7 @@ Route25_Text_SupernerdPatBeaten:
 	.string "难道你一点都不累吗？！$"
 
 Route25_Text_SupernerdPatAfter:
-	.string "对不起……我再也不耍诈了\n"
-	.string "......$"
+	.string "对不起……我再也不耍诈了......$"
 
 Route25_Text_CooltrainerKevinNugget:
 	.string "虽然多打了一场意料之外的对战，但\n"

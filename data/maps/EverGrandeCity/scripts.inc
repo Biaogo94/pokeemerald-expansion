@@ -31,6 +31,5 @@ EverGrandeCity_Text_EnteringPokemonLeague:
 
 EverGrandeCity_Text_CitySign:
 	.string "彩幽市\p"
-	.string "“花与海与宝可梦的\n"
-	.string "乐园。”$"
+	.string "“花与海与宝可梦的乐园。”$"
 

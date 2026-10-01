@@ -17,9 +17,9 @@ AbandonedShip_Corridors_1F_Text_CharlieDefeat:
 	.string "啊，你赢了！$"
 
 AbandonedShip_Corridors_1F_Text_CharliePostBattle:
-	.string "抓着游泳圈的时候是很难扔精灵球的\n"
-	.string "！$"
+	.string "抓着游泳圈的时候是很难扔精灵球\n"
+	.string "的！$"
 
 AbandonedShip_Corridors_1F_Text_IsntItFunHere:
-	.string "这里挺好玩的吧？我一来这里就兴奋\n"
-	.string "！$"
+	.string "这里挺好玩的吧？我一来这里就兴\n"
+	.string "奋！$"

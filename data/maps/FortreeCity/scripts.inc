@@ -91,15 +91,15 @@ FortreeCity_Text_SawGiganticPokemonInSky:
 	.string "没人肯相信我，但我确实在天空中看\n"
 	.string "到了巨大的宝可梦。\p"
 	.string "它好像在辗转着飞向131号水路。\p"
-	.string "话说……唔唔……你身上，呃……好\n"
-	.string "像有焦味。\p"
+	.string "话说……唔唔……你身上，呃……好像有焦\n"
+	.string "味。\p"
 	.string "你刚从火山或什么地方来吗？$"
 
 FortreeCity_Text_SomethingBlockingGym:
-	.string "我想去宝可梦道馆，但有东西堵了路\n"
-	.string "。\p"
-	.string "在120号道路训练了那么久，现在\n"
-	.string "却……$"
+	.string "我想去宝可梦道馆，但有东西堵了\n"
+	.string "路。\p"
+	.string "在120号道路训练了那么久，现在却\n"
+	.string "……$"
 
 FortreeCity_Text_ThisTimeIllBeatWinona:
 	.string "我带着我漂亮又可爱的宝可梦一起来\n"
@@ -115,17 +115,17 @@ FortreeCity_Text_EveryoneHealthyAndLively:
 	.string "城市中的房子都建在树上。\p"
 	.string "也许正因这种生活方式，大家都很健\n"
 	.string "康，充满活力。\p"
-	.string "哈，我也一样——我感觉好像年轻了\n"
-	.string "30岁。$"
+	.string "哈，我也一样——我感觉好像年轻了30\n"
+	.string "岁。$"
 
 FortreeCity_Text_BugPokemonComeThroughWindow:
 	.string "住在树顶上没什么问题，\p"
-	.string "但有时虫属性宝可梦会从窗户爬进来\n"
-	.string "，经常吓人一跳。$"
+	.string "但有时虫属性宝可梦会从窗户爬进\n"
+	.string "来，经常吓人一跳。$"
 
 FortreeCity_Text_PokemonThatEvolveWhenTraded:
-	.string "我听说，有些宝可梦会在交换中进化\n"
-	.string "！$"
+	.string "我听说，有些宝可梦会在交换中进\n"
+	.string "化！$"
 
 FortreeCity_Text_SomethingUnseeable:
 	.string "有什么看不见的东西挡在路上。$"

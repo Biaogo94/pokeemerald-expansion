@@ -73,8 +73,8 @@ CeruleanCity_Gym_Text_MistyIntro::
 	.string "嗨，你是个新人啊！\p"
 	.string "只有那些懂战术的训练家能在这儿出\n"
 	.string "现。\p"
-	.string "你收服和训练宝可梦时会讲究战术吗\n"
-	.string "？\p"
+	.string "你收服和训练宝可梦时会讲究战术\n"
+	.string "吗？\p"
 	.string "我的战术就是用我的水属性宝可梦全\n"
 	.string "力地猛攻！{PLAY_BGM}\l"
 	.string "{MUS_RG_ENCOUNTER_GYM_LEADER}$"
@@ -84,8 +84,8 @@ CeruleanCity_Gym_Text_ExplainTM03::
 	.string "把它用在一只水属性宝可梦身上吧！$"
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::
-	.string "蓝色徽章能让所有的30级以下的宝\n"
-	.string "可梦听你的话。\p"
+	.string "蓝色徽章能让所有的30级以下的宝可\n"
+	.string "梦听你的话。\p"
 	.string "包括那些从别人那儿交换得到的。\p"
 	.string "而且你可以随时使用居合斩。甚至是\n"
 	.string "没在战斗的时候。\p"
@@ -139,8 +139,8 @@ CeruleanCity_Gym_Text_GymGuyAdvice::
 	.string "们！$"
 
 CeruleanCity_Gym_Text_WeMakePrettyGoodTeam::
-	.string "你战胜了小霞！看吧，我说什么来着\n"
-	.string "？\p"
+	.string "你战胜了小霞！看吧，我说什么来\n"
+	.string "着？\p"
 	.string "你和我，小子，我们组成了一个强大\n"
 	.string "之极的队伍！$"
 

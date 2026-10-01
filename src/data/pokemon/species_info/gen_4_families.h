@@ -394,7 +394,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .height = 12,
         .weight = 550,
         .description = COMPOUND_STRING(
-            "会使用手脚缠绕着火焰的独特格斗技\n"
+            "会使用手脚缠绕着火焰的独特格斗技"
             "，无论什么样的对手都会勇敢对抗。"),
         .pokemonScale = 282,
         .pokemonOffset = 3,
@@ -956,7 +956,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .height = 19,
         .weight = 500,
         .description = COMPOUND_STRING(
-            "拥有顶级的飞行能力。能抓着超过4\n"
+            "拥有顶级的飞行能力。能抓着超过4"
             "00公斤的大钢蛇轻轻松松地飞翔。"),
         .frontPic = gMonFrontPic_StaraptorMega,
         .frontPicSize = MON_COORDS_SIZE(64, 64),
@@ -1440,8 +1440,8 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .height = 9,
         .weight = 305,
         .description = COMPOUND_STRING(
-            "在锐利的爪子尖端有强烈的电流流过\n"
-            "，只要稍稍碰擦到，就能让对手晕厥\n"
+            "在锐利的爪子尖端有强烈的电流流过"
+            "，只要稍稍碰擦到，就能让对手晕厥"
             "。"),
         .pokemonScale = 338,
         .pokemonOffset = 10,
@@ -2614,7 +2614,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .height = 7,
         .weight = 295,
         .description = COMPOUND_STRING(
-            "会像螺旋桨一样旋转2条尾巴来游泳\n"
+            "会像螺旋桨一样旋转2条尾巴来游泳"
             "。潜水的时候浮囊会瘪掉。"),
         .pokemonScale = 365,
         .pokemonOffset = 12,
@@ -2925,7 +2925,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .height = 5,
         .weight = 93,
         .description = COMPOUND_STRING(
-            "一到了晴天就会非常积极地活动起来\n"
+            "一到了晴天就会非常积极地活动起来"
             "，但只要太阳被遮住，就会立刻闭上\n"
             "花瓣停止动作。"),
         .pokemonScale = 432,
@@ -4377,7 +4377,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .height = 19,
         .weight = 950,
         .description = COMPOUND_STRING(
-            "在高速穿梭时，翅膀会生成空气之刃\n"
+            "在高速穿梭时，翅膀会生成空气之刃"
             "，使周围的树木都被切断。"),
         .pokemonScale = 256,
         .pokemonOffset = 1,
@@ -5039,7 +5039,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .height = 8,
         .weight = 120,
         .description = COMPOUND_STRING(
-            "用尾巴上的钩爪夹住猎物并注入毒素\n"
+            "用尾巴上的钩爪夹住猎物并注入毒素"
             "。很执着，毒不发作就绝不松开。"),
         .pokemonScale = 366,
         .pokemonOffset = 12,
@@ -6962,7 +6962,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .height = 28,
         .weight = 5700,
         .description = COMPOUND_STRING(
-            "据说它在火力全开时体温会升高到1\n"
+            "据说它在火力全开时体温会升高到1"
             "00万度，决不允许敌人靠近。"),
         .frontPic = gMonFrontPic_HeatranMega,
         .frontPicSize = MON_COORDS_SIZE(64, 64),
@@ -7103,7 +7103,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 7500,
         .description = COMPOUND_STRING(
             "因为性格粗暴而被驱逐，一直待在毁\n"
-            "坏的世界里，静静地看着原来的世界\n"
+            "坏的世界里，静静地看着原来的世界"
             "。"),
         .pokemonScale = 256,
         .pokemonOffset = 0,
@@ -7175,7 +7175,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 6500,
         .description = COMPOUND_STRING(
             "脚部随着形态变化而消失。据推测，\n"
-            "此宝可梦栖息于没有天地之分的世界\n"
+            "此宝可梦栖息于没有天地之分的世界"
             "，然而没有手段能证明。"),
         .pokemonScale = 256,
         .pokemonOffset = 0,

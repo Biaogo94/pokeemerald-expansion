@@ -34,6 +34,6 @@ PalletTown_PlayersHouse_2F_Text_PlayedWithNES::
 
 PalletTown_PlayersHouse_2F_Text_PressLRForHelp::
 	.string "一份贴士……\p"
-	.string "如果你有问题的话就看帮助！按L或\n"
-	.string "R键！$"
+	.string "如果你有问题的话就看帮助！按L或R\n"
+	.string "键！$"
 

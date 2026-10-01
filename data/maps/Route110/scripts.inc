@@ -749,12 +749,12 @@ Route110_Text_MyFirstJobInAqua:
 	.string "我有点害怕。$"
 
 Route110_Text_AquaActionsBringSmiles:
-	.string "海洋队的行动应会为所有人带来笑容\n"
-	.string "！$"
+	.string "海洋队的行动应会为所有人带来笑\n"
+	.string "容！$"
 
 Route110_Text_MayLetsBattle:
-	.string "小遥：{PLAYER}{KUN}\n"
-	.string "，好久不见了！\p"
+	.string "小遥：{PLAYER}\n"
+	.string "{KUN}，好久不见了！\p"
 	.string "我寻找新宝可梦的同时，自己的宝可\n"
 	.string "梦也变强了！\p"
 	.string "所以……要不要来场对战？$"
@@ -763,8 +763,8 @@ Route110_Text_MayDefeated:
 	.string "哎呀！比想象得更强！$"
 
 Route110_Text_MayTakeThis:
-	.string "小遥：{PLAYER}{KUN}\n"
-	.string "，你也有在努力训练吧？\p"
+	.string "小遥：{PLAYER}\n"
+	.string "{KUN}，你也有在努力训练吧？\p"
 	.string "这个奖励是你应得的，送给你！$"
 
 Route110_Text_MayExplainItemfinder:
@@ -797,18 +797,18 @@ Route110_Text_BrendanExplainItemfinder:
 	.string "我要继续去找新的宝可梦了，回见！$"
 
 Route110_Text_RideBikeAtFullSpeed:
-	.string "在自行车道上风驰电掣的感觉很好吧\n"
-	.string "？$"
+	.string "在自行车道上风驰电掣的感觉很好\n"
+	.string "吧？$"
 
 Route110_Text_HairStreamsBehindMe:
-	.string "我乌亮的头发飘在脑后的样子怎么样\n"
-	.string "？\p"
+	.string "我乌亮的头发飘在脑后的样子怎么\n"
+	.string "样？\p"
 	.string "我就是为此才留长发的。$"
 
 Route110_Text_YouGotBikeFromRydel:
 	.string "嘿，那是风野那儿的自行车！\p"
-	.string "啊，这很明显，就在你车子上写着呢\n"
-	.string "……\p"
+	.string "啊，这很明显，就在你车子上写着\n"
+	.string "呢……\p"
 	.string "风野，风野，风野，风野，风野，风\n"
 	.string "野，风野，风野，风野，风野，\p"
 	.string "风野，风野，风野，风野，风野，风\n"
@@ -817,10 +817,10 @@ Route110_Text_YouGotBikeFromRydel:
 	.string "野，风野，风野，风野，风野，\p"
 	.string "风野，风野，风野，风野，风野，风\n"
 	.string "野，风野，风野，风野，风野，\p"
-	.string "风野，风野，风野，风野，风野……\n"
-	.string "这名字到处都是。\p"
-	.string "你应该骑着它四处走走——广告效果\n"
-	.string "会很可观！$"
+	.string "风野，风野，风野，风野，风野……这\n"
+	.string "名字到处都是。\p"
+	.string "你应该骑着它四处走走——广告效果会\n"
+	.string "很可观！$"
 
 Route110_Text_TwoRoads:
 	.string "两条路，一条在上，一条在下……\p"
@@ -902,31 +902,31 @@ Route110_Text_AquaWasHere:
 
 Route110_Text_Route103Sign:
 	.string "110号道路\n"
-	.string "{LEFT_ARROW}103号\l"
-	.string "道路$"
+	.string "{LEFT_ARROW}103号道\l"
+	.string "路$"
 
 Route110_Text_SeasideParkingSign:
 	.string "海边停车场$"
 
 Route110_Text_MauvilleCitySign:
-	.string "110号道路{UP_ARROW}\n"
-	.string "紫堇市$"
+	.string "110号道路{UP_ARROW}紫\n"
+	.string "堇市$"
 
 Route110_Text_TrainerTipsPrlzSleep:
 	.string "有用的公告牌！\p"
-	.string "敌人被麻痹或催眠后会变得束手无策\n"
-	.string "。\p"
+	.string "敌人被麻痹或催眠后会变得束手无\n"
+	.string "策。\p"
 	.string "这类招式在对战中很重要。$"
 
 Route110_Text_TrainerTipsRegisterItems:
 	.string "有用的公告牌！\p"
-	.string "背包里的道具可以按SELECT键\n"
-	.string "来整理。$"
+	.string "背包里的道具可以按SELECT键来整\n"
+	.string "理。$"
 
 Route110_Text_TrickHouseSign:
-	.string "“{RIGHT_ARROW}3步\n"
-	.string "，{UP_ARROW}2步，进入\l"
-	.string "奇妙的戏法屋。”$"
+	.string "“{RIGHT_ARROW}3步，\n"
+	.string "{UP_ARROW}2步，进入奇\l"
+	.string "妙的戏法屋。”$"
 
 Route110_Text_BestRecord:
 	.string "至今为止最好的纪录……\p"
@@ -939,8 +939,8 @@ Route110_Text_ThereIsNoRecord:
 
 Route110_Text_ImagineSeeingYouHere:
 	.string "小田卷博士：哦，{PLAYER}\n"
-	.string "{KUN}！没想到会在这儿遇见你\l"
-	.string "！\p"
+	.string "{KUN}！没想到会在这儿遇见\l"
+	.string "你！\p"
 	.string "我家{RIVAL}呢？$"
 
 Route110_Text_HeardYouInstallMatchCall:
@@ -959,8 +959,8 @@ Route110_Text_RegisteredBirchInPokenav:
 Route110_Text_KeepAnEyeOutForRival:
 	.string "小田卷博士：{PLAYER}\n"
 	.string "{KUN}……\p"
-	.string "请替我多关照{RIVAL}！……\n"
-	.string " …… ……\p"
+	.string "请替我多关照{RIVAL}！…… \n"
+	.string "…… ……\p"
 	.string "好了，我得先走啦！再见，\n"
 	.string "{PLAYER}{KUN}！$"
 

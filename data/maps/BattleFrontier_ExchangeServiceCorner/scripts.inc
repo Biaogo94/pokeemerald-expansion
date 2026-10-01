@@ -379,20 +379,18 @@ BattleFrontier_ExchangeServiceCorner_Text_HereIsYourPrize:
 	.string "这里是您的奖品！$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DontHaveEnoughPoints:
-	.string "很抱歉……您没有足够的对战点数…\n"
-	.string "…$"
+	.string "很抱歉……您没有足够的对战点数……$"
 
 BattleFrontier_ExchangeServiceCorner_Text_PCIsFull:
 	.string "很抱歉……您的电脑好像满了……$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DontHaveSpaceToHoldIt:
-	.string "很抱歉……您的背包已经放不下了…\n"
-	.string "…$"
+	.string "很抱歉……您的背包已经放不下了……$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ThankYouVisitWithPoints:
 	.string "非常感谢。\p"
-	.string "存够了对战点数的话，欢迎再来光顾\n"
-	.string "。$"
+	.string "存够了对战点数的话，欢迎再来光\n"
+	.string "顾。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WishIHadAllDolls:
 	.string "哦，它们真棒！我想要它们！漂亮的\n"
@@ -411,16 +409,16 @@ BattleFrontier_ExchangeServiceCorner_Text_ItemsWillGetMonTougher:
 
 BattleFrontier_ExchangeServiceCorner_Text_GoGetYourOwnDoll:
 	.string "啊？你在看什么呢？\p"
-	.string "我不喜欢你那样盯着我的漂亮娃娃看\n"
-	.string "。\p"
-	.string "如果你想要，自己去弄一只！对不对\n"
-	.string "，迷唇娃？$"
+	.string "我不喜欢你那样盯着我的漂亮娃娃\n"
+	.string "看。\p"
+	.string "如果你想要，自己去弄一只！对不\n"
+	.string "对，迷唇娃？$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MoreBattlePointsForRecord:
 	.string "你知道吗？\p"
-	.string "如果你能在任何对战设施创造新纪录\n"
-	.string "，他们会开始给你越来越多的对战点\l"
-	.string "数。$"
+	.string "如果你能在任何对战设施创造新纪\n"
+	.string "录，他们会开始给你越来越多的对战\l"
+	.string "点数。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissPosterDesc::
 	.string "一幅有迷唇娃图案的大海报。$"
@@ -484,8 +482,8 @@ BattleFrontier_ExchangeServiceCorner_Text_HPUpDesc::
 	.string "提升宝可梦的体力。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LeftoversDesc::
-	.string "一件能在对战中逐渐回复体力的道具\n"
-	.string "。$"
+	.string "一件能在对战中逐渐回复体力的道\n"
+	.string "具。$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WhiteHerbDesc::
 	.string "一件能回复所有能力的道具。$"

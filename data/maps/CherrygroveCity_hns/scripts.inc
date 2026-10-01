@@ -315,8 +315,7 @@ CherrygroveCity_Text_GuideGentMap:
 	.string "祝你的旅程一路顺风！$"
 
 CherrygroveCity_Text_GuideGentDecline:
-	.string "哎呀……这本来也是我的乐\n"
-	.string "趣嘛……\p"
+	.string "哎呀……这本来也是我的乐趣嘛……\p"
 	.string "好吧，你想来找我随时都可以来。$"
 
 CherrygroveCity_Text_RivalSeen:
@@ -339,8 +338,7 @@ CherrygroveCity_Text_RivalAfter:
 
 CherrygroveCity_Text_RivalID:
 	.string "快还给我！那是我的训练家卡！\p"
-	.string "糟了！你看到我的名字了……\n"
-	.string "..$"
+	.string "糟了！你看到我的名字了……..$"
 
 CherrygroveCity_Text_TeacherHaveMapCard:
 	.string "只要和宝可梦在一起，去哪里都觉得\n"

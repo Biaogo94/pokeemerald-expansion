@@ -20,8 +20,7 @@ DragonsDen_EventScript_ClairRematch::
     end
 
 DragonsDen_Text_Clair:
-    .string "{PLAYER}……原来\n"
-    .string "你在这里。\p"
+    .string "{PLAYER}……原来你在这里。\p"
     .string "觉得自己能跟得上我的话，就来金黄\n"
     .string "市的格斗道场吧。$"
 
@@ -147,8 +146,7 @@ DragonsDen_Cavern_Text_Clair_GiveTM:
     .string "是我的赔礼吧。$"
 
 DragonsDen_Cavern_Text_Clair_ExplainTM:
-    .string "龙之波动就是一种呃……算\n"
-    .string "了！\p"
+    .string "龙之波动就是一种呃……算了！\p"
     .string "总之就是某种强大的能量啦。\p"
     .string "你要是不想要的话，不拿也可以！$"
 
@@ -162,8 +160,8 @@ DragonsDen_Cavern_Text_ClairWhatsTheMatter:
     .string "然后冲浪向东前往宝可梦联盟。\p"
     .string "去那里的路可是非常艰难的。\p"
     .string "你可千万别在宝可梦联盟输掉啊！\p"
-    .string "要是输了，输给你的我岂不是更丢人\n"
-    .string "！\p"
+    .string "要是输了，输给你的我岂不是更丢\n"
+    .string "人！\p"
     .string "给我使出全力上吧！$"
 
 DragonsDen_Cavern_EventScript_Darin::
@@ -208,10 +206,8 @@ DragonsDen_Cavern_Text_DragonShrineSign:
     .string "居住在龙穴的龙属性宝可梦。$"
 
 DragonsDen_Cavern_Text_SilverTraining1:
-    .string "……什么？是\n"
-    .string "{PLAYER}吗？\p"
-    .string "……算了，我现在不想跟你\n"
-    .string "打……\p"
+    .string "……什么？是{PLAYER}吗？\p"
+    .string "……算了，我现在不想跟你打……\p"
     .string "我的宝可梦还没做好战胜你的准备。\p"
     .string "我现在不能把它们逼得太紧。\p"
     .string "想要成为最强的宝可梦训练家，我必\n"

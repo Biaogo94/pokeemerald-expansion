@@ -859,18 +859,17 @@ Text_DreamEaterWhichMon::
 	.string "哪一只宝可梦想要学会食梦呢？$"
 
 Text_DreamEaterTaught::
-	.string "……ZZZ……我……实在是……吃\n"
-	.string "不下了……$"
+	.string "……ZZZ……我……实在是……吃不下了……$"
 
 PewterCity_Text_ClefairyCameFromMoon::
 	.string "有这样一个传说，说皮皮来自月亮。\p"
 	.string "在那之后月之石才出现在了月见山。$"
 
 PewterCity_Text_BrockOnlySeriousTrainerHere::
-	.string "这里没有那种很严肃的宝可梦训练家\n"
-	.string "。\p"
-	.string "他们都打扮得像个捉虫少年，你懂的\n"
-	.string "，就是一种癖好。\p"
+	.string "这里没有那种很严肃的宝可梦训练\n"
+	.string "家。\p"
+	.string "他们都打扮得像个捉虫少年，你懂\n"
+	.string "的，就是一种癖好。\p"
 	.string "可深灰道馆的小刚并不像这样打扮。\n"
 	.string "不像，一点都不像。$"
 

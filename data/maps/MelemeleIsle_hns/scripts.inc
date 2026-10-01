@@ -706,40 +706,40 @@ Alola_Melemele_SamsonOak_Trigger_Beginning_Text_1:
 	.string "欢迎来到阿罗拉群岛！$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_2:
-	.string "我叫成也・大木！是一名宝可梦博士\n"
-	.string "。\p"
+	.string "我叫成也・大木！是一名宝可梦博\n"
+	.string "士。\p"
 	.string "你叫什么名字？$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_3:
 	.string "啊，{PLAYER}。真是个好名\n"
 	.string "字！\p"
-	.string "你可能认识我在关都地区的堂兄--\n"
-	.string "大木博士吧。\p"
+	.string "你可能认识我在关都地区的堂兄--大\n"
+	.string "木博士吧。\p"
 	.string "来，我带你去镇上！$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_4:
 	.string "这里是群岛的主要城镇。\p"
-	.string "它和阿罗拉的好奥乐市惊人地相似。\n"
-	.string ".....{PAUSE 30}这\l"
-	.string "么一想……\p"
-	.string "这整座岛也让我联想到了美乐美乐岛\n"
-	.string "......$"
+	.string "它和阿罗拉的好奥乐市\n"
+	.string "惊人地相似。……{PAUSE 30}这么\l"
+	.string "一想……\p"
+	.string "这整座岛也让我联想到了美乐美乐\n"
+	.string "岛......$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_5:
 	.string "哎呀，不管怎么说！\p"
-	.string "我致力于研究不同地区的宝可梦形态\n"
-	.string "！\p"
+	.string "我致力于研究不同地区的宝可梦形\n"
+	.string "态！\p"
 	.string "在从阿罗拉地区回来的路上，我偶然\n"
 	.string "发现了这些岛屿……\p"
 	.string "令人惊讶的是，我在阿罗拉见过的许\n"
 	.string "多宝可梦这里居然也有，所以我把这\l"
-	.string "里称为……\l"
-	.string "{PAUSE 30}阿罗拉群岛！$"
+	.string "里称为……{PAUSE 30}阿罗\l"
+	.string "拉群岛！$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_6:
-	.string "虽说我还没把群岛彻底调查一遍..\n"
-	.string "....{PAUSE 30}毕竟\l"
-	.string "我也是刚登岛不久。\p"
+	.string "虽说我还没把群岛彻底调查一遍...\n"
+	.string "...{PAUSE 30}毕竟我也\l"
+	.string "是刚登岛不久。\p"
 	.string "我想知道阿罗拉独有的形态是否都在\n"
 	.string "这里。\p"
 	.string "要是你碰巧遇到了，请顺路来岛东侧\n"
@@ -749,9 +749,9 @@ Alola_Melemele_SamsonOak_Trigger_Beginning_Text_6:
 	.string "回头见啦！$"
 
 Alola_Melemele_NeedToTalkToSamsonOak_Text_0:
-	.string "成也博士正在别墅等你呢……\n"
-	.string ".{PAUSE 30}最好别让他\l"
-	.string "等太久！$"
+	.string "成也博士正在别墅等你呢…….\n"
+	.string "{PAUSE 30}最好别让他等\l"
+	.string "太久！$"
 
 Alola_Melemele_TotemBattle_Text_0:
 	.string "哩--！$"
@@ -773,8 +773,7 @@ MelemeleIsle_hns_Movement_FacePlayerUpAfterTotemWarp:
 
 
 Alola_Melemele_Totem_sign_Text_0:
-	.string "图腾正散发出一股强烈的能量...\n"
-	.string "...\p"
+	.string "图腾正散发出一股强烈的能量......\p"
 	.string "要触碰图腾传送至其他岛屿吗？$"
 
 Alola_Melemele_Totem_sign_Text_1:
@@ -803,8 +802,7 @@ Alola_Melemele_TrainerBattleSwimmer_Text_0:
 	.string "群岛这边的海水真暖和啊！$"
 
 Alola_Melemele_TrainerBattleSwimmer_Text_1:
-	.string "也许我该上岸晒干一下身体……\n"
-	.string "..$"
+	.string "也许我该上岸晒干一下身体……..$"
 
 Alola_Melemele_TrainerBattleSwimmer_Text_2:
 	.string "水里有好多很棒的宝可梦，把你所有\n"
@@ -816,8 +814,8 @@ Alola_Melemele_Bugcatcher_Text_0:
 
 Alola_Melemele_camper_Text_0:
 	.string "我大老远从关都赶来，就是为了见识\n"
-	.string "一下我最喜欢的猫猫宝可梦--喵喵\l"
-	.string "的其他形态！$"
+	.string "一下我最喜欢的猫猫宝可梦--喵喵的\l"
+	.string "其他形态！$"
 
 Alola_Melemele_Picnicker_Text_0:
 	.string "这些群岛上到处都是与众不同的宝可\n"

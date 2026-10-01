@@ -122,8 +122,8 @@ Route10_PowerPlantEntrance_Text_Officer1HaveToBeefUpSecurity:
 	.string "看来我们必须加强安保力量了。$"
 
 Route10_PowerPlantEntrance_Text_Engineer1SomeoneStoleAPart:
-	.string "有人偷走了发电机所必需的重要零件\n"
-	.string "。\p"
+	.string "有人偷走了发电机所必需的重要零\n"
+	.string "件。\p"
 	.string "要是没有那个，新发电机就根本无法\n"
 	.string "运转！$"
 
@@ -140,8 +140,8 @@ Route10_PowerPlantEntrance_Text_Engineer2GeneratorIsRunningAgain:
 	.string "发电机又重新运转了！$"
 
 Route10_PowerPlantEntrance_Text_Officer2ManagerHasBeenSadAndFurious:
-	.string "发电厂的厂长在后面的发电机机房里\n"
-	.string "。\p"
+	.string "发电厂的厂长在后面的发电机机房\n"
+	.string "里。\p"
 	.string "不过自从有人破坏了发电机之后，他\n"
 	.string "就又伤心又愤怒……$"
 

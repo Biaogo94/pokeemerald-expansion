@@ -1,22 +1,20 @@
 SecretBase_Text_TreeCanBeClimbed:
-	.string "如果有藤蔓垂下来，\n"
-	.string "就可以爬到树上去了。$"
+	.string "如果有藤蔓垂下来，就可以爬到树上\n"
+	.string "去了。$"
 
 SecretBase_Text_TreeUseSecretPower:
-	.string "如果有藤蔓垂下来，\n"
-	.string "就可以爬到树上去了。\p"
+	.string "如果有藤蔓垂下来，就可以爬到树上\n"
+	.string "去了。\p"
 	.string "要使用秘密之力吗？$"
 
 SecretBase_Text_VineDroppedDown:
 	.string "粗大的藤蔓垂了下来！$"
 
 SecretBase_Text_ClumpOfGrass:
-	.string "如果弄掉这丛草，\n"
-	.string "就可以进去了。$"
+	.string "如果弄掉这丛草，就可以进去了。$"
 
 SecretBase_Text_ClumpUseSecretPower:
-	.string "如果弄掉这丛草，\n"
-	.string "就可以进去了。\p"
+	.string "如果弄掉这丛草，就可以进去了。\p"
 	.string "要使用秘密之力吗？$"
 
 SecretBase_Text_DiscoveredSmallEntrance:
@@ -673,22 +671,21 @@ SecretBase_EventScript_CushionInteract::
 	end
 
 SecretBase_Text_AllDecorationsWillBeReturned:
-	.string "秘密基地里的所有家具\n"
-	.string "及装饰物品都会回到电脑中，\p"
+	.string "秘密基地里的所有家具及装饰物品都\n"
+	.string "会回到电脑中，\p"
 	.string "确定吗？$"
 
 SecretBase_Text_WantToRegisterSecretBase:
-	.string "想要登记\n"
-	.string "{STR_VAR_1}的秘密基地吗？$"
+	.string "想要登记{STR_VAR_1}的\n"
+	.string "秘密基地吗？$"
 
 SecretBase_Text_AlreadyRegisteredDelete:
-	.string "该条目已经登记，\n"
-	.string "要删除吗？$"
+	.string "该条目已经登记，要删除吗？$"
 
 SecretBase_Text_TooManyBasesDeleteSome:
 	.string "最多只能登记10个地点。\p"
-	.string "如果要登记新地点必须\n"
-	.string "先删除已有的登记地点。$"
+	.string "如果要登记新地点必须先删除已有的\n"
+	.string "登记地点。$"
 
 SecretBase_Text_RegistrationCompleted:
 	.string "登记完成。$"
@@ -703,30 +700,28 @@ SecretBase_Text_WhatWouldYouLikeToDo:
 	.string "想要做什么？$"
 
 SecretBase_Text_RegistryInfo:
-	.string "一旦登记成功，除非训练家\n"
-	.string "搬家到其它地点，\l"
-	.string "否则秘密基地不会消失。\p"
-	.string "如果从登记列表中删除，\n"
-	.string "那么另一个秘密基地\l"
-	.string "可能会取代它的位置。\p"
-	.string "秘密基地最多可以\n"
-	.string "登记10个地点。$"
+	.string "一旦登记成功，除非训练家搬家到其\n"
+	.string "它地点，否则秘密基地不会消失。\p"
+	.string "如果从登记列表中删除，那么另一个\n"
+	.string "秘密基地可能会取代它的位置。\p"
+	.string "秘密基地最多可以登记10个地点。$"
 
 SecretBase_Text_BattleTowerShield:
 	.string "一个纪念在对战塔中\n"
-	.string "{STR_VAR_1}连胜的{STR_VAR_2}盾。$"
+	.string "{STR_VAR_1}连胜的\l"
+	.string "{STR_VAR_2}盾。$"
 
 SecretBase_Text_ToyTV:
-	.string "一个仿真玩具电视，\n"
-	.string "很容易被误认为是真品。$"
+	.string "一个仿真玩具电视，很容易被误认为\n"
+	.string "是真品。$"
 
 SecretBase_Text_SeedotTV:
-	.string "一个橡实果形状的玩具电视，\n"
-	.string "看起来随时会自己滚走……$"
+	.string "一个橡实果形状的玩具电视，看起来\n"
+	.string "随时会自己滚走……$"
 
 SecretBase_Text_SkittyTV:
-	.string "一个向尾喵形状的玩具电视，\n"
-	.string "看起来随时会自己溜走……$"
+	.string "一个向尾喵形状的玩具电视，看起来\n"
+	.string "随时会自己溜走……$"
 
 SecretBase_Text_WouldYouLikeToMoveBases:
 	.string "只能拥有一个秘密基地，\p"

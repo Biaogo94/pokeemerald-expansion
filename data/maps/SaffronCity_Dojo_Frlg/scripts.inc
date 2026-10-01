@@ -152,8 +152,8 @@ SaffronCity_Dojo_EventScript_DefeatedMasterKoichi::
 SaffronCity_Dojo_Text_MasterKoichiIntro::
 	.string "哼哼！\p"
 	.string "我就是空手大王！也是这里的馆主！\p"
-	.string "你想要挑战我？我可不会手下留情的\n"
-	.string "！\p"
+	.string "你想要挑战我？我可不会手下留情\n"
+	.string "的！\p"
 	.string "哇哈哈！$"
 
 SaffronCity_Dojo_Text_MasterKoichiDefeat::
@@ -168,8 +168,8 @@ SaffronCity_Dojo_Text_ChoosePrizedFightingMon::
 	.string "选一只你喜欢的吧！$"
 
 SaffronCity_Dojo_Text_StayAndTrainWithUs::
-	.string "哼哼！在那儿站好陪我练练空手道吧\n"
-	.string "！$"
+	.string "哼哼！在那儿站好陪我练练空手道\n"
+	.string "吧！$"
 
 SaffronCity_Dojo_Text_MikeIntro::
 	.string "嚯利哟根！格斗前先脱掉你的鞋！$"

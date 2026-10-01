@@ -36,8 +36,8 @@ VermilionCity_House2_EventScript_AlreadyTraded::
 	end
 
 VermilionCity_House2_Text_DoYouHaveMonWantToTradeForMyMon::
-	.string "嗨！你有{STR_VAR_1}吗\n"
-	.string "？\p"
+	.string "嗨！你有{STR_VAR_1}\n"
+	.string "吗？\p"
 	.string "要和我的{STR_VAR_2}交\n"
 	.string "换吗？$"
 
@@ -45,7 +45,7 @@ VermilionCity_House2_Text_ThatsTooBad::
 	.string "太糟了。$"
 
 VermilionCity_House2_Text_ThisIsNoMon::
-	.string "……这不是{STR_VAR_1}\n"
+	.string "……这不是{STR_VAR_1}"
 	.string "。\p"
 	.string "如果你得到了一只，请和我交换吧！$"
 

@@ -936,12 +936,12 @@ BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsWinner:
 	.string "{PLAYER}获胜！恭喜！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TrainerIsWinner:
-	.string "{STR_VAR_2}获胜！恭喜\n"
-	.string "！$"
+	.string "{STR_VAR_2}获胜！恭\n"
+	.string "喜！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ:
-	.string "{PLAYER}是Lv. 50级\n"
-	.string "对战锦标赛的冠军！\p"
+	.string "{PLAYER}是Lv. 50级对战锦\n"
+	.string "标赛的冠军！\p"
 	.string "恭喜！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp:
@@ -958,13 +958,13 @@ BattleFrontier_BattleDomeBattleRoom_Text_RefereeDecisionPleaseWait:
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTrainer:
 	.string "裁判们做出了判定！\p"
-	.string "胜者是......噢，天哪！胜者\n"
-	.string "是{STR_VAR_1}！恭喜！$"
+	.string "胜者是......噢，天哪！胜者是\n"
+	.string "{STR_VAR_1}！恭喜！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerPlayer:
 	.string "裁判们做出了判定！\p"
-	.string "胜者是......噢，天哪！胜者\n"
-	.string "是{PLAYER}！恭喜！$"
+	.string "胜者是......噢，天哪！胜者是\n"
+	.string "{PLAYER}！恭喜！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_BrightNewHope:
 	.string "新的希望来了！\p"
@@ -988,8 +988,8 @@ BattleFrontier_BattleDomeBattleRoom_Text_CanLossBeAvenged:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_OnFireForChampionship:
-	.string "训练家为了首场冠军赛将会全力以赴\n"
-	.string "！\p"
+	.string "训练家为了首场冠军赛将会全力以\n"
+	.string "赴！\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinHereAdvancesToFinal:
@@ -1038,8 +1038,8 @@ BattleFrontier_BattleDomeBattleRoom_Text_FeelGlowOfTrueMaster:
 	.string "感受真正王者的耀眼光芒吧！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_MakeWayForDomeAceTucker:
-	.string "下面……{PLAYER}将要面对\n"
-	.string "的训练家是……\p"
+	.string "下面……{PLAYER}将要面对的\n"
+	.string "训练家是……\p"
 	.string "当然！就是他！对战巨蛋理事！我们\n"
 	.string "的巨蛋超级巨星！用你们的热情来欢\l"
 	.string "迎石南吧！$"
@@ -1055,9 +1055,9 @@ BattleFrontier_BattleDomeBattleRoom_Text_TuckerSilverIntro:
 	.string "哈哈哈！\p"
 	.string "你现在应该害怕得全身发抖了吧！\p"
 	.string "别紧张，别紧张。\p"
-	.string "我是对战巨蛋的明星，第一明星！我\n"
-	.string "，石南，巨蛋超级巨星，要在我的光\l"
-	.string "芒下与你战斗！$"
+	.string "我是对战巨蛋的明星，第一明星！\n"
+	.string "我，石南，巨蛋超级巨星，要在我的\l"
+	.string "光芒下与你战斗！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LetsSeeYourStrategy:
 	.string "让我来看看你的战术吧！$"
@@ -1067,8 +1067,8 @@ BattleFrontier_BattleDomeBattleRoom_Text_IncredibleVictorIsPlayer:
 	.string "军竟然是{PLAYER}！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinnerIsTucker:
-	.string "冠军是——石南！巨蛋超级巨星还是\n"
-	.string "胜利了！\p"
+	.string "冠军是——石南！巨蛋超级巨星还是胜\n"
+	.string "利了！\p"
 	.string "祝贺他！祝贺石南！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SeeYourFrontierPass:
@@ -1096,13 +1096,12 @@ BattleFrontier_BattleDomeBattleRoom_Text_LegendHasReturnedDomeAceTucker:
 	.string "的巨蛋超级巨星！他就是——石南！$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerGoldIntro:
-	.string "石南：啊……观众们那一浪高过一浪\n"
-	.string "的欢呼声……还有他们那如熔炉般火\l"
-	.string "热的激情……这里真是个美妙的地方\l"
-	.string "……\p"
-	.string "对观众们来说，我就是巨蛋超级巨星\n"
-	.string "……我承载着他们的希望与梦想……\l"
-	.string "我决不能从他们的视野中消失……\p"
+	.string "石南：啊……观众们那一浪高过一浪的\n"
+	.string "欢呼声……还有他们那如熔炉般火热的\l"
+	.string "激情……这里真是个美妙的地方……\p"
+	.string "对观众们来说，我就是巨蛋超级巨\n"
+	.string "星……我承载着他们的希望与梦想……我\l"
+	.string "决不能从他们的视野中消失……\p"
 	.string "我必须燃烧！燃烧得更加明亮、更加\n"
 	.string "耀眼！我必须点亮这里的所有人！$"
 
@@ -1129,8 +1128,8 @@ BattleFrontier_BattleDomeBattleRoom_Text_LookForwardToNextEncounter:
 
 @ Unused
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ2:
-	.string "{PLAYER}是Lv. 50级\n"
-	.string "对战锦标赛的冠军！\p"
+	.string "{PLAYER}是Lv. 50级对战锦\n"
+	.string "标赛的冠军！\p"
 	.string "恭喜！$"
 
 @ Unused
@@ -1147,7 +1146,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTucker:
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTucker:
 	.string "裁判做出了最后的决定！\p"
-	.string "冠军是……天啊！冠军是我们的巨蛋\n"
-	.string "超级巨星——石南！\p"
+	.string "冠军是……天啊！冠军是我们的巨蛋超\n"
+	.string "级巨星——石南！\p"
 	.string "恭喜你！还有，谢谢！我们的巨蛋超\n"
 	.string "级巨星，石南！$"

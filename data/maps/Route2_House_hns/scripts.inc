@@ -22,10 +22,10 @@ Route2_House_EventScript_ManAfter::
 
 Route2_House_Text_Fisher:
 	.string "你好！哇，见到你真高兴。\p"
-	.string "你可是好久以来第一个造访的客人呢\n"
-	.string "。\p"
-	.string "我真是太高兴了！送你一份小礼物吧\n"
-	.string "。$"
+	.string "你可是好久以来第一个造访的客人\n"
+	.string "呢。\p"
+	.string "我真是太高兴了！送你一份小礼物\n"
+	.string "吧。$"
 
 Route2_House_Text_Fisher_GotNugget:
 	.string "那是一颗金珠。\p"

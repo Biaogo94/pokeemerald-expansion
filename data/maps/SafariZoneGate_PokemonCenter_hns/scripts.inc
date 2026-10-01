@@ -36,14 +36,13 @@ SafariZoneGate_PokemonCenter_Text_NPC1:
 	.string "你觉得是不是这样？$"
 
 SafariZoneGate_PokemonCenter_Text_NPC2:
-	.string "在山路上走了好久，累得快要倒下时\n"
-	.string "，终于找到了宝可梦中心……\l"
-	.string ".\p"
+	.string "在山路上走了好久，累得快要倒下\n"
+	.string "时，终于找到了宝可梦中心…….\p"
 	.string "那感觉就像来到了天堂一样！$"
 
 SafariZoneGate_PokemonCenter_Text_SafariSong:
-	.string "狩猎、狩猎，真好玩~~狩猎、狩猎\n"
-	.string "，真有趣呀~~\p"
+	.string "狩猎、狩猎，真好玩~~狩猎、狩猎，\n"
+	.string "真有趣呀~~\p"
 	.string "好多宝可梦都在等着我们！\p"
-	.string "……这是我自己编的歌。来\n"
-	.string "狩猎地带的时候我就会唱呢。$"
+	.string "……这是我自己编的歌。来狩猎地带的\n"
+	.string "时候我就会唱呢。$"

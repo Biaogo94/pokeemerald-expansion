@@ -30,16 +30,14 @@ CeladonDeptStore5_EventScript_Receptionist_Already::
 	end
 
 CeladonDeptStore_Text_5FReceptionistOhYourMon:
-    .string "你好呀。哎呀，你的宝可梦……\n"
-    .string "..$"
+    .string "你好呀。哎呀，你的宝可梦……..$"
 
 CeladonDeptStore_Text_5FReceptionistWait:
     .string "等等，那个招式学习器我不是已经给\n"
     .string "你了吗！$"
 
 CeladonDeptStore_Text_5FReceptionistPutInSomeMoreEffort:
-	.string "嗯……说不上差，但也谈不\n"
-	.string "上好。\p"
+	.string "嗯……说不上差，但也谈不上好。\p"
 	.string "作为训练家，你还需要再多加努力才\n"
 	.string "行。$"
 
@@ -85,14 +83,13 @@ CeladonDeptStore5F_Text_Gentleman:
 	.string "可是手头的钱不够……$"
 
 CeladonDeptStore5F_Text_Sailor:
-	.string "我好想买PP提升剂来增加招式的\n"
-	.string "PP啊。可惜这东西根本没得卖...\l"
-	.string "...$"
+	.string "我好想买PP提升剂来增加招式的PP\n"
+	.string "啊。可惜这东西根本没得卖......$"
 
 CeladonDeptStore5F_Text_Teacher:
 	.string "给宝可梦使用道具会让它们开心。\p"
-	.string "不过，有些道具它们其实很讨厌呢。\n"
-	.string ".....$"
+	.string "不过，有些道具它们其实很讨厌呢"
+	.string "。.....$"
 
 CeladonDeptStore5F_Text_Directory:
 	.string "5F：药剂卖场$"

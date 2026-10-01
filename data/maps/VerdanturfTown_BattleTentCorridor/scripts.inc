@@ -52,16 +52,16 @@ VerdanturfTown_ContestHall_Text_WhichContestYouEntering:
 @ Unused
 VerdanturfTown_ContestHall_Text_RaisedMonToBeCute:
 	.string "我培育宝可梦让它变得可爱。\p"
-	.string "我发现你可以让宝可梦参加可爱部门\n"
-	.string "！\p"
+	.string "我发现你可以让宝可梦参加可爱部\n"
+	.string "门！\p"
 	.string "我很高兴我是用爱心来培育我的宝可\n"
 	.string "梦。$"
 
 @ Unused
 VerdanturfTown_ContestHall_Text_MyMonRules:
 	.string "我的宝可梦法则！\p"
-	.string "它帅气、强壮、漂亮、可爱并且聪明\n"
-	.string "。完美！\p"
+	.string "它帅气、强壮、漂亮、可爱并且聪\n"
+	.string "明。完美！\p"
 	.string "我不妨赢得各项华丽大赛。$"
 
 @ Unused

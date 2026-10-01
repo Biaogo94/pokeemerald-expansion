@@ -362,8 +362,8 @@ Route120_EventScript_Callie::
 Route120_Text_StevenGreeting:
 	.string "大吾：嗯？{PLAYER}\n"
 	.string "{KUN}，好久不见。\p"
-	.string "这里好像有什么看不见的东西，对吧\n"
-	.string "？\p"
+	.string "这里好像有什么看不见的东西，对\n"
+	.string "吧？\p"
 	.string "对着这个看不见的障碍使用这个道具\n"
 	.string "的话……\p"
 	.string "不，与其说明，不如直接使用展示给\n"
@@ -376,13 +376,14 @@ Route120_Text_StevenIllWaitHere:
 	.string "那我在这里等着你，去准备吧。$"
 
 Route120_Text_StevenReadyForBattle:
-	.string "大吾：{PLAYER}{KUN}\n"
-	.string "，你的宝可梦准备好战斗了吗？？$"
+	.string "大吾：{PLAYER}\n"
+	.string "{KUN}，你的宝可梦准备好战斗\l"
+	.string "了吗？？$"
 
 Route120_Text_StevenShowMeYourPower:
-	.string "大吾：{PLAYER}{KUN}\n"
-	.string "，让我见识下你作为训练家的实力吧\l"
-	.string "！$"
+	.string "大吾：{PLAYER}\n"
+	.string "{KUN}，让我见识下你作为训练\l"
+	.string "家的实力吧！$"
 
 Route120_Text_StevenUsedDevonScope:
 	.string "大吾使用了得文侦测镜。\p"
@@ -390,8 +391,8 @@ Route120_Text_StevenUsedDevonScope:
 	.string "受惊的宝可梦攻击过来了！$"
 
 Route120_Text_StevenGiveDevonScope:
-	.string "大吾：原来如此……你的战斗方式很\n"
-	.string "有趣呢。\p"
+	.string "大吾：原来如此……你的战斗方式很有\n"
+	.string "趣呢。\p"
 	.string "比起在我们在武斗镇初见时，你的宝\n"
 	.string "可梦成长了不少。\p"
 	.string "这个得文侦测镜送给你，\p"
@@ -399,8 +400,8 @@ Route120_Text_StevenGiveDevonScope:
 	.string "呢。$"
 
 Route120_Text_StevenGoodbye:
-	.string "大吾：{PLAYER}{KUN}\n"
-	.string "，\p"
+	.string "大吾：{PLAYER}\n"
+	.string "{KUN}，\p"
 	.string "我很喜欢看到训练家和宝可梦共同努\n"
 	.string "力一起成长，\p"
 	.string "你做得很不错。\p"
@@ -414,8 +415,8 @@ Kecleon_Text_WantToUseDevonScope:
 	.string "要使用得文侦测镜吗？$"
 
 Kecleon_Text_UseDevonScopeMonAttacked:
-	.string "{PLAYER}使用了得文侦测镜\n"
-	.string "。\p"
+	.string "{PLAYER}使用了得文侦测\n"
+	.string "镜。\p"
 	.string "看不见的宝可梦完全现形了！\p"
 	.string "受惊的宝可梦攻击过来了！$"
 
@@ -424,6 +425,6 @@ Route120_Text_RouteSignFortree:
 	.string "{LEFT_ARROW}茵郁市$"
 
 Route120_Text_RouteSign121:
-	.string "{RIGHT_ARROW}121\n"
-	.string "号道路{LEFT_ARROW}1\l"
-	.string "20号道路$"
+	.string "{RIGHT_ARROW}121号\n"
+	.string "道路{LEFT_ARROW}120\l"
+	.string "号道路$"

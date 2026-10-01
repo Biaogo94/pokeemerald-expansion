@@ -449,15 +449,15 @@ BattleFrontier_BattleDomeLobby_Text_HopeToSeeYouAgain:
 	.string "期待您的再次光临！$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainSinglesChallenge:
-	.string "单打对战锦标赛正如其名——这是一\n"
-	.string "项进行单打对战的锦标赛。\p"
+	.string "单打对战锦标赛正如其名——这是一项\n"
+	.string "进行单打对战的锦标赛。\p"
 	.string "所有的训练家需要选择3只宝可梦报\n"
 	.string "名。\p"
-	.string "每场对战中，3只宝可梦中的1只需\n"
-	.string "要保留作为后备。\p"
+	.string "每场对战中，3只宝可梦中的1只需要\n"
+	.string "保留作为后备。\p"
 	.string "另外2只宝可梦将进行1对1战斗。\p"
-	.string "查看对手的3只宝可梦后，即可选择\n"
-	.string "2只宝可梦出战。\p"
+	.string "查看对手的3只宝可梦后，即可选择2\n"
+	.string "只宝可梦出战。\p"
 	.string "连续击败4位训练家即可获得胜利。\p"
 	.string "锦标赛冠军将会获得对战点数。\p"
 	.string "如果要暂停锦标赛请写入记录。\p"
@@ -469,9 +469,8 @@ BattleFrontier_BattleDomeLobby_Text_OkayToSaveBeforeChallenge:
 	.string "记录，可以吗？$"
 
 BattleFrontier_BattleDomeLobby_Text_WhichLevelMode:
-	.string "锦标赛提供了2种挑战等级——Lv\n"
-	.string ". 50级和自由等级。您要选择哪\l"
-	.string "个？$"
+	.string "锦标赛提供了2种挑战等级——Lv. 50\n"
+	.string "级和自由等级。您要选择哪个？$"
 
 BattleFrontier_BattleDomeLobby_Text_SelectThreeMons:
 	.string "请挑选参加的3只宝可梦。$"
@@ -489,8 +488,8 @@ BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsEnd:
 BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsLv50:
 	.string "很抱歉！\p"
 	.string "您能够参加对战的宝可梦不满3只。\p"
-	.string "您需要准备3只等级50以内的不同\n"
-	.string "种类的宝可梦，\p"
+	.string "您需要准备3只等级50以内的不同种\n"
+	.string "类的宝可梦，\p"
 	.string "且让它们分别携带不同道具才可参加\n"
 	.string "对战。\p"
 	.string "此外，蛋{STR_VAR_1}！$"
@@ -543,15 +542,15 @@ BattleFrontier_BattleDomeLobby_Text_TakeDoublesChallenge:
 	.string "要挑战双打对战锦标赛吗？$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainDoublesChallenge:
-	.string "双打对战锦标赛正如其名——这是一\n"
-	.string "项进行双打对战的锦标赛。\p"
+	.string "双打对战锦标赛正如其名——这是一项\n"
+	.string "进行双打对战的锦标赛。\p"
 	.string "所有的训练家需要选择3只宝可梦报\n"
 	.string "名。\p"
-	.string "每场对战中，3只宝可梦中的1只需\n"
-	.string "要保留作为后备。\p"
+	.string "每场对战中，3只宝可梦中的1只需要\n"
+	.string "保留作为后备。\p"
 	.string "另外2只宝可梦将进行2对2战斗。\p"
-	.string "查看对手的3只宝可梦后，即可选择\n"
-	.string "2只宝可梦出战。\p"
+	.string "查看对手的3只宝可梦后，即可选择2\n"
+	.string "只宝可梦出战。\p"
 	.string "连续击败4位训练家即可获得胜利。\p"
 	.string "锦标赛冠军将会获得对战点数。\p"
 	.string "如果您在挑战途中想要暂停的话，\p"
@@ -559,12 +558,12 @@ BattleFrontier_BattleDomeLobby_Text_ExplainDoublesChallenge:
 	.string "否则我们将视挑战为无效。$"
 
 BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsSinglesLv50:
-	.string "这是上一次Lv. 50级单打对战\n"
-	.string "锦标赛的结果。$"
+	.string "这是上一次Lv. 50级单打对战锦标赛\n"
+	.string "的结果。$"
 
 BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsDoublesLv50:
-	.string "这是上一次Lv. 50级双打对战\n"
-	.string "锦标赛的结果。$"
+	.string "这是上一次Lv. 50级双打对战锦标赛\n"
+	.string "的结果。$"
 
 BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsSinglesLvOpen:
 	.string "这是上一次自由等级单打对战锦标赛\n"
@@ -582,7 +581,7 @@ BattleFrontier_BattleDomeLobby_Text_LastWinnerWasTough:
 	.string "下比赛结果。$"
 
 BattleFrontier_OutsideWest_Text_LongDreamedAboutBattleFrontier:
-	.string "对战开拓区……我梦寐以求的地方啊\n"
+	.string "对战开拓区……我梦寐以求的地方啊"
 	.string "！$"
 
 @ Functionally unused
@@ -618,8 +617,8 @@ BattleFrontier_BattleDomeLobby_Text_CongratsDefeatedTucker:
 	.string "战锦标赛的胜利。$"
 
 BattleFrontier_BattleDomeLobby_Text_AwardTheseBattlePoints:
-	.string "为了表彰您的战略——简直堪称美妙\n"
-	.string "绝伦——我们将向您呈上对战点数！$"
+	.string "为了表彰您的战略——简直堪称美妙绝\n"
+	.string "伦——我们将向您呈上对战点数！$"
 
 BattleFrontier_BattleDomeLobby_Text_RecordLastMatch:
 	.string "要将您在对战巨蛋的最后一场比赛记\n"
@@ -638,8 +637,8 @@ BattleFrontier_BattleDomeLobby_Text_ExplainMatchupRules:
 	.string "在初期就相互对战。$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainTourneyTree:
-	.string "比赛进程表——也可以称为“树状图\n"
-	.string "”可以在等候室中任意向导处查看。\p"
+	.string "比赛进程表——也可以称为“树状图”可\n"
+	.string "以在等候室中任意向导处查看。\p"
 	.string "树状图上会显示不同类型的数据，\p"
 	.string "包括之前的比赛战绩，所持有的宝可\n"
 	.string "梦，还有训练家的对战方式。$"

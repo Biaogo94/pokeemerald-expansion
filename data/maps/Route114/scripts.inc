@@ -177,14 +177,14 @@ Route114_EventScript_Kai::
 	end
 
 Route114_Text_AllMyMonDoesIsRoarTakeThis:
-	.string "我的宝可梦总是吼叫……没什么敢接\n"
-	.string "近我……\p"
-	.string "唉……喜欢的话，就把这招式学习器\n"
-	.string "拿走吧……$"
+	.string "我的宝可梦总是吼叫……没什么敢接近\n"
+	.string "我……\p"
+	.string "唉……喜欢的话，就把这招式学习器拿\n"
+	.string "走吧……$"
 
 Route114_Text_ExplainRoar:
-	.string "招式学习器05的内容是吼叫。用吼\n"
-	.string "叫可以吓跑宝可梦。$"
+	.string "招式学习器05的内容是吼叫。用吼叫\n"
+	.string "可以吓跑宝可梦。$"
 
 Route114_Text_Poochyena:
 	.string "吼！哦吼吼！$"

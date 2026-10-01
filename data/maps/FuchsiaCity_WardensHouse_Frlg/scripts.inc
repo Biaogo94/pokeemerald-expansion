@@ -86,8 +86,8 @@ FuchsiaCity_WardensHouse_Text_ThanksSonGiveYouSomething::
 FuchsiaCity_WardensHouse_Text_ThanksLassieGiveYouSomething::
 	.string "园长：谢谢你，小姑娘！你真是我的\n"
 	.string "救命恩人！\p"
-	.string "没有任何人听得懂我说的话，我是说\n"
-	.string "，一个也没有！\p"
+	.string "没有任何人听得懂我说的话，我是\n"
+	.string "说，一个也没有！\p"
 	.string "我甚至都没脸去见我的那些员工了。\p"
 	.string "让我给你点东西做为感谢吧。$"
 
@@ -104,8 +104,7 @@ FuchsiaCity_WardensHouse_Text_ExplainStrength::
 
 @ Unused
 FuchsiaCity_WardensHouse_Text_YouHaveTooMuchStuff::
-	.string "なんや　にもつ\n"
-	.string "いっぱいやんけ！$"
+	.string "なんや　にもついっぱいやんけ！$"
 
 FuchsiaCity_WardensHouse_Text_MonPhotosFossilsOnDisplay::
 	.string "宝可梦的照片和化石被陈列着。$"

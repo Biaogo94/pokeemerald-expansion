@@ -101,8 +101,8 @@ SixIsland_WaterPath_House1_Text_ItsXInchesSameAsBefore::
 
 SixIsland_WaterPath_House1_Text_ItsXInchesYInchesWasBiggest::
 	.string "哦，它只有{STR_VAR_2}\n"
-	.string "英寸。原来那只赫拉克罗斯比它更大\l"
-	.string "。\p"
+	.string "英寸。原来那只赫拉克罗斯比它更\l"
+	.string "大。\p"
 	.string "它有{STR_VAR_3}英寸，\n"
 	.string "那是我见过的最大的赫拉克罗斯。$"
 

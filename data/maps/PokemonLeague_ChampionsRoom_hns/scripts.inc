@@ -368,12 +368,11 @@ PokemonLeague_ChampionsRoom_Text_BattleAfter:
 PokemonLeague_ChampionsRoom_Text_MaryOhNoOak:
     .string "胡桃：哎呀，怎么这样！全都结束了\n"
     .string "啦！\p"
-    .string "大木博士，都怪您动作太慢了...\n"
-    .string "...$"
+    .string "大木博士，都怪您动作太慢了......$"
 
 PokemonLeague_ChampionsRoom_Text_OakCongratulations:
-    .string "大木博士：哎呀，{PLAYER}\n"
-    .string "！\p"
+    .string "大木博士：哎呀，\n"
+    .string "{PLAYER}！\p"
     .string "真是好久不见了。\p"
     .string "你看起来确实威风多了啊。\p"
     .string "制霸城都联盟，真是太精彩了！\p"
@@ -385,8 +384,8 @@ PokemonLeague_ChampionsRoom_Text_OakCongratulations:
     .string "恭喜你，{PLAYER}！$"
 
 PokemonLeague_ChampionsRoom_Text_RematchOakCongratulations:
-    .string "大木博士：哎呀，{PLAYER}\n"
-    .string "！\p"
+    .string "大木博士：哎呀，\n"
+    .string "{PLAYER}！\p"
     .string "自空木博士送你踏上旅程以来，我便\n"
     .string "一直在关注着你的成长。\p"
     .string "你确实变得令人刮目相看了啊。\p"
@@ -398,8 +397,8 @@ PokemonLeague_ChampionsRoom_Text_RematchOakCongratulations:
     .string "正是这份信任成就了你今天的胜利。\p"
     .string "不过要记住，训练家的旅程是永远没\n"
     .string "有终点的。\p"
-    .string "恭喜你赢得胜利，{PLAYER}\n"
-    .string "！$"
+    .string "恭喜你赢得胜利，\n"
+    .string "{PLAYER}！$"
 
 PokemonLeague_ChampionsRoom_Text_MaryInterview:
     .string "胡桃：让我们来采访一下新出炉的城\n"
@@ -410,16 +409,16 @@ PokemonLeague_ChampionsRoom_Text_RematchMaryInterview:
     .string "都冠军吧！$"
 
 PokemonLeague_ChampionsRoom_Text_Noisy:
-    .string "阿渡：这里开始变得有点吵闹了..\n"
-    .string "....\p"
-    .string "{PLAYER}，能跟我来一下吗\n"
-    .string "？$"
+    .string "阿渡：这里开始变得有点吵闹了...\n"
+    .string "...\p"
+    .string "{PLAYER}，能跟我来一下\n"
+    .string "吗？$"
 
 PokemonLeague_ChampionsRoom_Text_MaryNoInterview:
-    .string "玛莉：哎，等等！我们还没做采访呢\n"
-    .string "！$"
+    .string "玛莉：哎，等等！我们还没做采访\n"
+    .string "呢！$"
 
 PokemonLeague_ChampionsRoom_Text_RematchMaryNoInterview:
-    .string "玛莉：真是的！你可不能“又”把采\n"
-    .string "访晾在一边啊！$"
+    .string "玛莉：真是的！你可不能“又”把采访\n"
+    .string "晾在一边啊！$"
 

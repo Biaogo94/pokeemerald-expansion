@@ -88,8 +88,8 @@ Route119_WeatherInstitute_1F_Text_Grunt4Defeat:
 	.string "嗯？我输了？！$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4PostBattle:
-	.string "哦，不……输给个小鬼，我又得被唠\n"
-	.string "叨了……\p"
+	.string "哦，不……输给个小鬼，我又得被唠叨\n"
+	.string "了……\p"
 	.string "还是躲床上打盹吧……$"
 
 Route119_WeatherInstitute_1F_Text_EveryoneWentUpstairs:
@@ -103,8 +103,8 @@ Route119_WeatherInstitute_1F_Text_ProfStudyingRain:
 	.string "教授沉迷于降雨研究，这是事实。\p"
 	.string "但如果雨一直不停，就会给人们带来\n"
 	.string "麻烦，这也是事实。\p"
-	.string "因此，教授在研究如何让雨造福于人\n"
-	.string "。$"
+	.string "因此，教授在研究如何让雨造福于\n"
+	.string "人。$"
 
 Route119_WeatherInstitute_1F_Text_NoticingAbnormalWeather:
 	.string "我们在研究所二楼研究丰缘地区的天\n"

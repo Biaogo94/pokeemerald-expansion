@@ -78,29 +78,25 @@ Route19_Text_SwimmermHaroldAfterBattle:
 	.string "人吞噬掉一样。$"
 
 Route19_Text_SwimmermTuckerSeen:
-	.string "哈、哈……还差……\n"
-	.string ".一点……\p"
-	.string "就能到……浅红市了...\n"
-	.string "...$"
+	.string "哈、哈……还差…….一点……\p"
+	.string "就能到……浅红市了......$"
 
 Route19_Text_SwimmermTuckerBeaten:
 	.string "我要淹死啦！$"
 
 Route19_Text_SwimmermTuckerAfterBattle:
-	.string "我……提议跟女朋友一起游\n"
-	.string "到浅红市……呼……\l"
-	.string ".$"
+	.string "我……提议跟女朋友一起游到浅红市……\n"
+	.string "呼…….$"
 
 Route19_Text_SwimmerfDawnSeen:
 	.string "我最讨厌软弱无能的人了！$"
 
 Route19_Text_SwimmerfDawnBeaten:
-	.string "要是比游泳的话我可不会输……\n"
-	.string "..$"
+	.string "要是比游泳的话我可不会输……..$"
 
 Route19_Text_SwimmerfDawnAfterBattle:
-	.string "从浅红市游到双子岛明明很快的..\n"
-	.string "....\p"
+	.string "从浅红市游到双子岛明明很快的...\n"
+	.string "...\p"
 	.string "真是的，我男朋友算什么男子汉啊！\n"
 	.string "真是个窝囊废！$"
 
@@ -112,12 +108,12 @@ Route19_Text_SwimmermJeromeBeaten:
 	.string "我还以为能赢呢。$"
 
 Route19_Text_SwimmermJeromeAfterBattle:
-	.string "虽然我不太会游泳，但我很喜欢大海\n"
-	.string "。$"
+	.string "虽然我不太会游泳，但我很喜欢大\n"
+	.string "海。$"
 
 Route19_Text_Fisher1:
-	.string "不好意思。这条路因为施工而封闭了\n"
-	.string "。\p"
+	.string "不好意思。这条路因为施工而封闭\n"
+	.string "了。\p"
 	.string "如果你想去红莲岛，最好从真新镇往\n"
 	.string "南走。$"
 
@@ -131,8 +127,8 @@ Route19_Text_Fisher2:
 	.string "真倒霉，巨钳蟹把海滩给堵住了。$"
 
 Route19_Text_FisherBefore:
-	.string "在这些巨钳蟹离开之前，没法钓鱼了\n"
-	.string "。$"
+	.string "在这些巨钳蟹离开之前，没法钓鱼\n"
+	.string "了。$"
 
 Route19_Text_Fisher2_RocksCleared:
 	.string "那些巨钳蟹终于走掉了！\p"

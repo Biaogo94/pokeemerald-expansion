@@ -15,12 +15,10 @@ PetalburgCity_House1_Text_TravelingIsWonderful:
 
 PetalburgCity_House1_Text_GoOnAdventure:
 	.string "哎……\p"
-	.string "我要是能和宝可梦一起去探险多好…\n"
-	.string "…\p"
-	.string "爬过潮湿的草丛……攀登崎岖的高山\n"
-	.string "……\p"
-	.string "穿越波涛汹涌的大海……在黑暗的洞\n"
-	.string "窟里散步……\p"
+	.string "我要是能和宝可梦一起去探险多好……\p"
+	.string "爬过潮湿的草丛……攀登崎岖的高山……\p"
+	.string "穿越波涛汹涌的大海……在黑暗的洞窟\n"
+	.string "里散步……\p"
 	.string "然后，偶尔泛出点乡愁……\p"
 	.string "旅行真的太美妙了！$"
 

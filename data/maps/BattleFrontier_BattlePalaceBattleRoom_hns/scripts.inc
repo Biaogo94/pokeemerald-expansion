@@ -441,8 +441,8 @@ BattleFrontier_BattlePalaceBattleRoom_Movement_SpenserEnter_hns:
 	step_end
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetMeRestoreYourMons_hns:
-	.string "太精彩了……让我为您的宝\n"
-	.string "可梦恢复体力吧。$"
+	.string "太精彩了……让我为您的宝可梦恢复体\n"
+	.string "力吧。$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor2ndOpponent_hns:
 	.string "接下来是第2位对手。准备好了吗？$"
@@ -478,12 +478,11 @@ BattleFrontier_BattlePalaceBattleRoom_Text_RecordLastMatch_hns:
 BattleFrontier_BattlePalaceBattleRoom_Text_ChallengingPalaceMaven_hns:
 	.string "接下来……\p"
 	.string "凭借着连胜，你获得了向我们的主人\n"
-	.string "--宫殿守护者挑战的资格……\l"
-	.string "..$"
+	.string "--宫殿守护者挑战的资格……..$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReadyForPalaceMaven_hns:
-	.string "我去请宫殿守护者过来。准备好了吗\n"
-	.string "？$"
+	.string "我去请宫殿守护者过来。准备好了\n"
+	.string "吗？$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_AnnounceArrivalOfSpenser_hns:
 	.string "奏响盛大的乐曲，欢迎宫殿守护者宇\n"
@@ -505,8 +504,8 @@ BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons_hns:
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle_hns:
 	.string "宇康：哇哈哈哈！\p"
 	.string "哈，你居然完全没被我的虚张声势吓\n"
-	.string "到！抱歉啦，刚才只是想试探你一下\l"
-	.string "！\p"
+	.string "到！抱歉啦，刚才只是想试探你一\l"
+	.string "下！\p"
 	.string "喂！快把那个拿过来！$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetsSeeFrontierPass_hns:
@@ -533,15 +532,15 @@ BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack_hns:
 	.string "准备好了吗？做好战败的觉悟吧！$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_Kaaah_hns:
-	.string "……喝啊啊啊\n"
+	.string "……喝啊啊啊"
 	.string "！$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable_hns:
 	.string "宇康：唔，真是精彩的对战！即便使\n"
 	.string "出浑身解数，我的同伴们还是没能压\l"
 	.string "制住你。\p"
-	.string "你们队伍的默契与精神实在令人钦佩\n"
-	.string "！\p"
+	.string "你们队伍的默契与精神实在令人钦\n"
+	.string "佩！\p"
 	.string "喂！把那个拿过来，动作快点！$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_HurryWithFrontierPass_hns:

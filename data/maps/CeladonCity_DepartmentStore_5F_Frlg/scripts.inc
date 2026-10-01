@@ -59,8 +59,8 @@ CeladonCity_DepartmentStore_5F_Vitamins::
 	end
 
 CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
-	.string "只有这里才能买到宝可梦能力增强剂\n"
-	.string "。\p"
+	.string "只有这里才能买到宝可梦能力增强\n"
+	.string "剂。\p"
 	.string "HP提升剂增加宝可梦的基础HP。\p"
 	.string "特攻增强剂提升宝可梦的基础特攻。\p"
 	.string "特防增强剂提升宝可梦的基础特防。\p"

@@ -156,9 +156,9 @@ OlivineCity_Movement_SilverLeave:
 OlivineCity_Text_SilverEncounter:
 	.string "又是你？别那么提心吊胆的。\p"
 	.string "我才没闲工夫理会像你这样的弱者。\p"
-	.string "说到弱者……这座城市的道\n"
-	.string "馆馆主根本不在这里。听说是在灯塔\l"
-	.string "照料生病的宝可梦呢。\p"
+	.string "说到弱者……这座城市的道馆馆主根本\n"
+	.string "不在这里。听说是在灯塔照料生病的\l"
+	.string "宝可梦呢。\p"
 	.string "哼！真是笑话！生病的宝可梦丢掉不\n"
 	.string "就行了！\p"
 	.string "不能战斗的宝可梦根本毫无价值！\p"
@@ -262,8 +262,8 @@ OlivineCity_Text_EonTicketWoman1:
 	.string "主持的广播节目！$"
 
 OlivineCity_Text_EonTicketWoman2:
-	.string "你一定就是{PLAYER}吧！！\n"
-	.string "！\p"
+	.string "你一定就是{PLAYER}吧！"
+	.string "！！\p"
 	.string "天哪！是冠军本人！\p"
 	.string "我在玛丽的广播节目里听到过你的事\n"
 	.string "迹！\p"
@@ -279,8 +279,8 @@ OlivineCity_Text_Sailor1:
 	.string "没有灯塔指引，船就无法航行。$"
 
 OlivineCity_Text_YoungsterPokegear:
-	.string "你拿的那个--是宝可梦齿轮吧？哇\n"
-	.string "，真酷啊。$"
+	.string "你拿的那个--是宝可梦齿轮吧？哇，\n"
+	.string "真酷啊。$"
 
 OlivineCity_Text_YoungsterPokedex:
 	.string "哇，你有宝可梦图鉴！\p"

@@ -65,8 +65,8 @@ FallarborTown_CozmosHouse_EventScript_CozmoIsHappy::
 	end
 
 FallarborTown_CozmosHouse_Text_MeteoriteWillNeverBeMineNow:
-	.string "索蓝斯博士：唉……真后悔被熔岩队\n"
-	.string "骗着说出了陨石的下落……\p"
+	.string "索蓝斯博士：唉……真后悔被熔岩队骗\n"
+	.string "着说出了陨石的下落……\p"
 	.string "流星瀑布的陨石……再也不会属于我\n"
 	.string "了……$"
 
@@ -74,8 +74,8 @@ FallarborTown_CozmosHouse_Text_IsThatMeteoriteMayIHaveIt:
 	.string "啊！咦？\p"
 	.string "那个东西……\p"
 	.string "难道是？\p"
-	.string "那是熔岩队从流星瀑布抢走的陨石吗\n"
-	.string "？\p"
+	.string "那是熔岩队从流星瀑布抢走的陨石\n"
+	.string "吗？\p"
 	.string "拜托给我好吗？\p"
 	.string "我不会白要的，用这个招式学习器跟\n"
 	.string "你换好吗？$"
@@ -90,8 +90,8 @@ FallarborTown_CozmosHouse_Text_ReallyGoingToHelpMyResearch:
 	.string "这对我的研究会有巨大帮助的！$"
 
 FallarborTown_CozmosHouse_Text_CrushedWithDisappointment:
-	.string "索蓝斯博士：哎，可是……太让人绝\n"
-	.string "望了……$"
+	.string "索蓝斯博士：哎，可是……太让人绝望\n"
+	.string "了……$"
 
 FallarborTown_CozmosHouse_Text_MayIHaveMeteorite:
 	.string "索蓝斯博士：拜托了！把那个陨石给\n"
@@ -100,12 +100,12 @@ FallarborTown_CozmosHouse_Text_MayIHaveMeteorite:
 	.string "你换好吗？$"
 
 FallarborTown_CozmosHouse_Text_CozmoWentToMeteorFalls:
-	.string "索蓝斯博士和一些熔岩队的人去了1\n"
-	.string "14号道路上的流星瀑布。$"
+	.string "索蓝斯博士和一些熔岩队的人去了114号\n"
+	.string "道路上的流星瀑布。$"
 
 FallarborTown_CozmosHouse_Text_FeelSorryForCozmo:
-	.string "可怜的索蓝斯博士……他一回来就很\n"
-	.string "沮丧……真为他难过。$"
+	.string "可怜的索蓝斯博士……他一回来就很沮\n"
+	.string "丧……真为他难过。$"
 
 FallarborTown_CozmosHouse_Text_CozmoIsSoHappy:
 	.string "看看索蓝斯博士……他完全高兴起来\n"

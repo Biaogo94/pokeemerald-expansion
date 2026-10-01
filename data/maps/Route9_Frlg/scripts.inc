@@ -63,8 +63,8 @@ Route9_Text_BricePostBattle::
 	.string "哈哈！小孩子应该坚强点！$"
 
 Route9_Text_BrentIntro::
-	.string "我每天都起得很早去训练我的宝可梦\n"
-	.string "！$"
+	.string "我每天都起得很早去训练我的宝可\n"
+	.string "梦！$"
 
 Route9_Text_BrentDefeat::
 	.string "什么\p"

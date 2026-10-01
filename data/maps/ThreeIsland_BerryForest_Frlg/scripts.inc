@@ -60,17 +60,16 @@ ThreeIsland_BerryForest_EventScript_BewareSign::
 	end
 
 ThreeIsland_BerryForest_Text_HelpScaryPokemon::
-	.string "小迷：呜……呜呜……哦！请救救我\n"
-	.string "！\p"
-	.string "就在刚才，一只可怕的宝可梦出现了\n"
-	.string "。\p"
+	.string "小迷：呜……呜呜……哦！请救救我！\p"
+	.string "就在刚才，一只可怕的宝可梦出现\n"
+	.string "了。\p"
 	.string "它一直吓唬人。小迷被它吓坏了了。\p"
-	.string "小迷害怕得动不了了！但是我想回家\n"
-	.string "……$"
+	.string "小迷害怕得动不了了！但是我想回\n"
+	.string "家……$"
 
 ThreeIsland_BerryForest_Text_HereItComesAgain::
-	.string "哦！它又来了！不！走开！太吓人了\n"
-	.string "！\p"
+	.string "哦！它又来了！不！走开！太吓人\n"
+	.string "了！\p"
 	.string "哇！我要爸爸！$"
 
 ThreeIsland_BerryForest_Text_ThankYouHaveThis::
@@ -90,8 +89,8 @@ ThreeIsland_BerryForest_Text_BerryPouchIsFull::
 
 ThreeIsland_BerryForest_Text_WelcomeToBerryForest::
 	.string "欢迎来到树果森林\p"
-	.string "请友好地和其他人与宝可梦分享树果\n"
-	.string "。$"
+	.string "请友好地和其他人与宝可梦分享树\n"
+	.string "果。$"
 
 ThreeIsland_BerryForest_Text_BewareWildBerryLovingMons::
 	.string "当心野生的，喜爱树果的宝可梦！$"

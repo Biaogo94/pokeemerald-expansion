@@ -64,8 +64,8 @@ VictoryRoad_B2F_Text_CarolinePostBattle:
 	.string "累人的，作好准备吧！$"
 
 VictoryRoad_B2F_Text_JulieIntro:
-	.string "有了很多道馆徽章就自大起来可不行\n"
-	.string "，\p"
+	.string "有了很多道馆徽章就自大起来可不\n"
+	.string "行，\p"
 	.string "没听说过山外有山吗！$"
 
 VictoryRoad_B2F_Text_JulieDefeat:

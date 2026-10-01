@@ -59,8 +59,8 @@ Route111_WinstrateFamilysHouse_EventScript_FaceOriginalDirection::
 Route111_WinstrateFamilysHouse_Text_MySonIsStrongerThanYou:
 	.string "你是我所见过的训练家中指挥宝可梦\n"
 	.string "最纯熟的。\p"
-	.string "但是，我要告诉你——我的儿子比你\n"
-	.string "还要厉害。\p"
+	.string "但是，我要告诉你——我的儿子比你还\n"
+	.string "要厉害。\p"
 	.string "他甚至成为了宝可梦联盟挑战者，你\n"
 	.string "知道吗。$"
 

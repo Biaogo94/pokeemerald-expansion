@@ -48,9 +48,9 @@ GoldenrodDeptStore_Text_4FGameboyKid:
     .string "哼……\p"
     .string "真是道听途说。\p"
     .string "我知道传言中的几种宝可梦：豪力、\n"
-    .string "勇基拉、鬼斯通，还有……\l"
-    .string "呃，隆隆石，其实它们只要提升等级\l"
-    .string "就能进化了。$"
+    .string "勇基拉、鬼斯通，还有……呃，隆隆\l"
+    .string "石，其实它们只要提升等级就能进化\l"
+    .string "了。$"
 
 GoldenrodDeptStore4_EventScript_Clerk::
 	lock

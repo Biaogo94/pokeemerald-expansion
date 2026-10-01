@@ -88,15 +88,13 @@ IcePath_Movement_KimonoLeave:
 	step_end
 
 IcePath_1F_Text_Leave:
-	.string "舞妓：.............\n"
-	.string ".....$"
+	.string "舞妓：..................$"
 
 IcePath_1F_Text_Stuck1:
-    .string "哎呀呀……这不是\n"
-    .string "{PLAYER}吗？真巧，竟然能\l"
-    .string "在这里遇见你！\p"
-    .string "说实话……我的木屐被冻在\n"
-    .string "冰面上了，动弹不得呢。\p"
+    .string "哎呀呀……这不是{PLAYER}\n"
+    .string "吗？真巧，竟然能在这里遇见你！\p"
+    .string "说实话……我的木屐被冻在冰面上了，\n"
+    .string "动弹不得呢。\p"
     .string "换句话说，就是我的鞋子被结结实实\n"
     .string "地冻在地上啦。\p"
     .string "呵呵。\p"
@@ -104,11 +102,10 @@ IcePath_1F_Text_Stuck1:
     .string "你能绕到我身后，推我一把吗？$"
 
 IcePath_1F_Text_Stuck2:
-    .string "哎呀呀……这不是\n"
-    .string "{PLAYER}吗？真巧，竟然能\l"
-    .string "在这里遇见你！\p"
-    .string "说实话……我的木屐被冻在\n"
-    .string "冰面上了，动弹不得呢。\p"
+    .string "哎呀呀……这不是{PLAYER}\n"
+    .string "吗？真巧，竟然能在这里遇见你！\p"
+    .string "说实话……我的木屐被冻在冰面上了，\n"
+    .string "动弹不得呢。\p"
     .string "换句话说，就是我的鞋子被结结实实\n"
     .string "地冻在地上啦。\p"
     .string "呵呵。\p"

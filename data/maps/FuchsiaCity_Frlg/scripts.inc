@@ -140,8 +140,8 @@ FuchsiaCity_EventScript_OmanyteSign::
 
 FuchsiaCity_Text_DidYouTrySafariGame::
 	.string "你试过原野区游戏吗？\p"
-	.string "有一些稀有的宝可梦只能在那里抓到\n"
-	.string "。$"
+	.string "有一些稀有的宝可梦只能在那里抓\n"
+	.string "到。$"
 
 FuchsiaCity_Text_SafariZoneZooInFront::
 	.string "野生原野区在入口前面有一个园子。\p"
@@ -168,8 +168,8 @@ FuchsiaCity_Text_WardensHomeSign::
 	.string "野生原野区园长的家$"
 
 FuchsiaCity_Text_SafariZoneOfficeSign::
-	.string "宝可梦的乐园！欢迎来到野生原野区\n"
-	.string "！原野区办公室$"
+	.string "宝可梦的乐园！欢迎来到野生原野\n"
+	.string "区！原野区办公室$"
 
 FuchsiaCity_Text_GymSign::
 	.string "浅红市宝可梦道馆馆主：阿桔剧毒的\n"
@@ -180,8 +180,8 @@ FuchsiaCity_Text_ChanseySign::
 	.string "好。$"
 
 FuchsiaCity_Text_VoltorbSign::
-	.string "名字 霹雳电球外观很像一个精灵球\n"
-	.string "。$"
+	.string "名字 霹雳电球外观很像一个精灵\n"
+	.string "球。$"
 
 FuchsiaCity_Text_KangaskhanSign::
 	.string "名字 袋兽\p"
@@ -189,12 +189,12 @@ FuchsiaCity_Text_KangaskhanSign::
 	.string "养育自己的小孩。$"
 
 FuchsiaCity_Text_SlowpokeSign::
-	.string "名字 呆呆兽很友好，但是行动缓慢\n"
-	.string "。$"
+	.string "名字 呆呆兽很友好，但是行动缓\n"
+	.string "慢。$"
 
 FuchsiaCity_Text_LaprasSign::
-	.string "名字 拉普拉斯又被称为海上的王者\n"
-	.string "。$"
+	.string "名字 拉普拉斯又被称为海上的王\n"
+	.string "者。$"
 
 FuchsiaCity_Text_OmanyteSign::
 	.string "名字 菊石兽从化石中再生的极其稀\n"

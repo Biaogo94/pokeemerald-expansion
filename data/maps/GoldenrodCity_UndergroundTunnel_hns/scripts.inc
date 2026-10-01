@@ -111,8 +111,7 @@ GoldenrodCity_UndergroundTunnel_Movement_Kimono_Leave2:
 
 
 GoldenrodCity_UndergroundTunnel_Text_Kimono1:
-	.string "穿黑衣服的火箭队到处乱窜……\n"
-	.string "..\p"
+	.string "穿黑衣服的火箭队到处乱窜……..\p"
 	.string "我还纳闷发生什么事了呢。原来是你\n"
 	.string "击退了火箭队？真了不起！\p"
 	.string "如果是你的话，说不定能够面对传说\n"
@@ -322,8 +321,8 @@ GoldenrodUnderground_Text_YoungerBrotherOffer:
     .string "欢迎光临宝可梦美容沙龙！\p"
     .string "我是理发兄弟里的弟弟，价格更实惠\n"
     .string "哦。\p"
-    .string "只要¥300，我就能把你的宝可梦\n"
-    .string "打扮得精神抖擞。\p"
+    .string "只要¥300，我就能把你的宝可梦打扮\n"
+    .string "得精神抖擞。\p"
     .string "怎么样？要试试看吗？$"
 
 GoldenrodUnderground_Text_YoungerBrotherAskWhich:
@@ -352,8 +351,8 @@ GoldenrodUnderground_Text_OlderBrotherOffer:
     .string "这里是宝可梦美容沙龙！\p"
     .string "我是理发兄弟里的哥哥，手艺更胜一\n"
     .string "筹哦。\p"
-    .string "只要¥500，我就能让你的宝可梦\n"
-    .string "变得漂漂亮亮。\p"
+    .string "只要¥500，我就能让你的宝可梦变得\n"
+    .string "漂漂亮亮。\p"
     .string "要来试一试吗？$"
 
 GoldenrodUnderground_Text_OlderBrotherAskWhich:
@@ -377,15 +376,13 @@ GoldenrodUnderground_Text_OlderBrotherOnePerDay:
 
 GoldenrodUnderground_Text_SupernerdEricSeen:
     .string "我被游戏城轰出来了。\p"
-    .string "因为我刚才想用宝可梦来作弊...\n"
-    .string "...$"
+    .string "因为我刚才想用宝可梦来作弊......$"
 
 GoldenrodUnderground_Text_SupernerdEricBeaten:
     .string "……咕哝……$"
 
 GoldenrodUnderground_Text_SupernerdEricAfterBattle:
-    .string "看来还是得堂堂正正地玩啊……\n"
-    .string "..$"
+    .string "看来还是得堂堂正正地玩啊……..$"
 
 GoldenrodUnderground_Text_SupernerdTeruSeen:
     .string "对战时你考虑过属性克制吗？\p"
@@ -419,8 +416,7 @@ GoldenrodUnderground_Text_PokemaniacDonaldBeaten:
 
 GoldenrodUnderground_Text_PokemaniacDonaldAfterBattle:
 	.string "昨晚我在脚踏车店附近散步时，总感\n"
-	.string "觉屋顶上有人在悄悄盯着我...\l"
-	.string "...$"
+	.string "觉屋顶上有人在悄悄盯着我......$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldAfterBattleOld:
     .string "你正在收集宝可梦图鉴吗？告诉你个\n"

@@ -106,7 +106,7 @@ PacifidlogTown_House2_Text_AdoringPokemonTakeThis:
 	.string "给它这样一个招式学习器，对吗？$"
 
 PacifidlogTown_House2_Text_PutInSomeMoreEffort:
-	.string "唔……不怎么样，但也差不到哪儿去\n"
+	.string "唔……不怎么样，但也差不到哪儿去"
 	.string "。\p"
 	.string "作为一个训练家，你要更努力啊。$"
 

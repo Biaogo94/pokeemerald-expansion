@@ -34,7 +34,7 @@ SilphCo_10F_EventScript_Grunt::
 	end
 
 SilphCo_10F_Text_GruntIntro::
-	.string "欢迎来到10F！很高兴你能找到我\n"
+	.string "欢迎来到10F！很高兴你能找到我"
 	.string "！$"
 
 SilphCo_10F_Text_GruntDefeat::
@@ -50,8 +50,8 @@ SilphCo_10F_Text_TravisDefeat::
 	.string "不能让你继续下去了！$"
 
 SilphCo_10F_Text_TravisPostBattle::
-	.string "你打败了我，满意了吗？那么回家吧\n"
-	.string "！$"
+	.string "你打败了我，满意了吗？那么回家\n"
+	.string "吧！$"
 
 SilphCo_10F_Text_WaaaImScared::
 	.string "哇啊啊啊啊！我很害怕！$"

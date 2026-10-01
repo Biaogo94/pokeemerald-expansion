@@ -94,7 +94,8 @@ LavenderTown_RadioStation_Text_SuperNerd2:
 	.string "嗨，你好呀！\p"
 	.string "我就是超级音乐总监！\p"
 	.string "咦？你的" @POKéGEAR
-	.string "收音机功能，\n收不到我的音乐节目。太遗憾了！\p"
+	.string "收音机功能，收不到我的音乐节目。\n"
+	.string "太遗憾了！\p"
 	.string "只要弄到扩展卡，就能收听到了。你\n"
 	.string "最好也去弄一张！$"
 
@@ -112,11 +113,11 @@ LavenderTown_RadioStation_Text_Directory:
 	.string "5楼 台长室$"
 
 LavenderTown_RadioStation_Text_PokeFluteSign:
-	.string "频道20用宝可梦之笛的悠扬旋律唤\n"
-	.string "醒宝可梦吧！$"
+	.string "频道20用宝可梦之笛的悠扬旋律唤醒\n"
+	.string "宝可梦吧！$"
 
 LavenderTown_RadioStation_Text_ReferenceLibrary:
-	.string "哇！架子上摆满了宝可梦的CD和录\n"
-	.string "像带。\p"
+	.string "哇！架子上摆满了宝可梦的CD和录像\n"
+	.string "带。\p"
 	.string "这里一定是资料室吧。$"
 

@@ -101,13 +101,12 @@ Route8_WestEntrance_Text_ThirstyOnGuardDuty::
 	.string "喂，站住！那条路禁止通行！$"
 
 Route8_WestEntrance_Text_ThatTeaLooksTasty::
-	.string "诶，那个茶……看起来很好喝的样子\n"
-	.string "……$"
+	.string "诶，那个茶……看起来很好喝的样子……$"
 
 Route8_WestEntrance_Text_ThanksIllShareTeaWithGuards::
-	.string "嗯？我能喝这个吗？呃，谢谢！……\n"
-	.string "咕噜……咕噜…………嗯……如果你\l"
-	.string "想去金黄市的话…………就去吧。\p"
+	.string "嗯？我能喝这个吗？呃，谢谢！……咕\n"
+	.string "噜……咕噜…………嗯……如果你想去金黄市\l"
+	.string "的话…………就去吧。\p"
 	.string "我去和其他的警卫一起分了这杯茶。$"
 
 Route8_WestEntrance_Text_HiHowsItGoing::

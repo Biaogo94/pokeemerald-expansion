@@ -576,5 +576,4 @@ Movement_JumpInPlaceRight:
 	step_end
 
 Text_MoveCanOnlyBeLearnedOnce::
-	.string "这个招式只能学习一次。\n"
-	.string "要学习吗？$"
+	.string "这个招式只能学习一次。要学习吗？$"

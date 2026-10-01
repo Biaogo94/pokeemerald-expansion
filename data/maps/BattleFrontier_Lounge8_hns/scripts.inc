@@ -15,10 +15,8 @@ BattleFrontier_Lounge8_EventScript_NinjaBoy_hns::
 
 BattleFrontier_Lounge8_Text_WhatATrainerNeeds_hns:
 	.string "训练家所需要的……\p"
-	.string "知识……策略……\n"
-	.string "运气……毅力……\l"
-	.string "心灵……勇气……\l"
-	.string "还有才能……\p"
+	.string "知识……策略……运气……毅力……心灵……勇\n"
+	.string "气……还有才能……\p"
 	.string "好，我已经全都具备了！我在每座设\n"
 	.string "施里都会所向披靡！\p"
 	.string "咦？宝可梦？那是啥？$"

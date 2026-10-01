@@ -24,8 +24,8 @@ SaffronCity_PokemonCenter_EventScript_Youngster::
 
 SaffronCity_PokemonCenter1F_Text_Teacher:
 	.string "城都的宝可梦中心是什么样子的？\p"
-	.string "……哦，原来如此。跟关都\n"
-	.string "的也没什么太大区别嘛。\p"
+	.string "……哦，原来如此。跟关都的也没什么\n"
+	.string "太大区别嘛。\p"
 	.string "那我就能放心地去城都啦！$"
 
 SaffronCity_PokemonCenter1F_Text_Fisher:
@@ -40,5 +40,5 @@ SaffronCity_PokemonCenter1F_Text_Fisher_ReturnedPart:
 
 SaffronCity_PokemonCenter1F_Text_Youngster:
 	.string "西尔佛公司的总公司大楼和磁浮列车\n"
-	.string "站--它们可是金黄市最值得一看的\l"
-	.string "地方。$"
+	.string "站--它们可是金黄市最值得一看的地\l"
+	.string "方。$"

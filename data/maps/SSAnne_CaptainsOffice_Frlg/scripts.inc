@@ -47,8 +47,8 @@ SSAnne_CaptainsOffice_EventScript_Book::
 	end
 
 SSAnne_CaptainsOffice_Text_CaptainIFeelSeasick::
-	.string "船长 呕……我很不舒服……呕！好\n"
-	.string "晕啊……$"
+	.string "船长 呕……我很不舒服……呕！好晕啊\n"
+	.string "……$"
 
 SSAnne_CaptainsOffice_Text_RubbedCaptainsBack::
 	.string "{PLAYER}揉了揉船长的背！\p"
@@ -58,8 +58,7 @@ SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
 	.string "船长：唔！谢谢你！我现在好多了。\p"
 	.string "你想看我的秘传技居合斩吗？\p"
 	.string "如果我不是那么虚弱的话倒是可以让\n"
-	.string "你见识下我独步天下的居合斩技术…\l"
-	.string "…\p"
+	.string "你见识下我独步天下的居合斩技术……\p"
 	.string "我想起来了！给你这个！这个秘传学\n"
 	.string "习机！\p"
 	.string "把居合斩教给你的宝可梦，你就能让\n"
@@ -75,8 +74,8 @@ SSAnne_CaptainsOffice_Text_ExplainCut::
 
 SSAnne_CaptainsOffice_Text_SSAnneWillSetSailSoon::
 	.string "船长 ……唔！\p"
-	.string "我现在好了，我想时间也差不多到了\n"
-	.string "。\p"
+	.string "我现在好了，我想时间也差不多到\n"
+	.string "了。\p"
 	.string "圣特安努号马上就要启航了！\p"
 	.string "下次回枯叶市时我们再见！$"
 
@@ -87,6 +86,6 @@ SSAnne_CaptainsOffice_Text_YuckShouldntHaveLooked::
 	.string "真恶心！早知就不应该看！$"
 
 SSAnne_CaptainsOffice_Text_HowToConquerSeasickness::
-	.string "怎么样才能克服晕船……船长正在阅\n"
-	.string "读中！$"
+	.string "怎么样才能克服晕船……船长正在阅读\n"
+	.string "中！$"
 

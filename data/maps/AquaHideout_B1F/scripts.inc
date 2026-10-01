@@ -115,7 +115,7 @@ AquaHideout_B1F_Text_Grunt2Defeat:
 
 AquaHideout_B1F_Text_Grunt2PostBattle:
 	.string "我们基地的秘密？\p"
-	.string "这么说吧……这儿深处有一艘潜水艇\n"
+	.string "这么说吧……这儿深处有一艘潜水艇"
 	.string "！\p"
 	.string "但是，现在……嘿嘿嘿……$"
 
@@ -131,8 +131,8 @@ AquaHideout_B1F_Text_Grunt3PostBattle:
 	.string "我的任务只是拖住你而已！$"
 
 AquaHideout_B1F_Text_Grunt5Intro:
-	.string "哈欠……一直看守基地真是太无聊了\n"
-	.string "，就跟你玩玩吧。$"
+	.string "哈欠……一直看守基地真是太无聊了，\n"
+	.string "就跟你玩玩吧。$"
 
 AquaHideout_B1F_Text_Grunt5Defeat:
 	.string "哈欠……呃，居然输了……$"

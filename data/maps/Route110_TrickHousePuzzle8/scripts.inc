@@ -29,8 +29,7 @@ Route110_TrickHousePuzzle8_EventScript_Leroy::
 
 Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened::
 	.string "{PLAYER}在门上写下密码。\p"
-	.string "“我爱戏法大王”…… …… ……\n"
-	.string " ……\p"
+	.string "“我爱戏法大王”…… …… …… ……\p"
 	.string "锁“咔嗒”一声开了！$"
 
 Route110_TrickHousePuzzle8_Text_VincentIntro:

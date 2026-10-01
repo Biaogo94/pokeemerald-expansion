@@ -21,6 +21,6 @@ SafariZone_East_Text_CaughtChanseyAllWorthwhile::
 	.string "一切努力都是值得的。$"
 
 SafariZone_East_Text_TiredFromAllTheFun::
-	.string "哇哇！我终于也从兴奋中疲倦下来了\n"
-	.string "！$"
+	.string "哇哇！我终于也从兴奋中疲倦下来\n"
+	.string "了！$"
 

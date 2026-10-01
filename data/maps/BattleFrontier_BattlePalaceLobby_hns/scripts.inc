@@ -401,8 +401,8 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainSingleBattleChallenge_hns:
 	.string "守望它们。\p"
 	.string "若你能荣获连胜7名训练家的战绩，\n"
 	.string "我们将会为你奉上对战点数。\p"
-	.string "若中途想要中断挑战，必须保存记录\n"
-	.string "。\p"
+	.string "若中途想要中断挑战，必须保存记\n"
+	.string "录。\p"
 	.string "如果不保存记录就中断，你将被取消\n"
 	.string "挑战资格。$"
 
@@ -416,12 +416,12 @@ BattleFrontier_BattlePalaceLobby_Text_WhichChallenge_hns:
 
 BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsLv50_hns:
 	.string "唉……\p"
-	.string "你并没有带齐挑战所需的3只宝可梦\n"
-	.string "。\p"
+	.string "你并没有带齐挑战所需的3只宝可\n"
+	.string "梦。\p"
 	.string "若要参赛，你必须准备3种不同种类\n"
 	.string "的宝可梦。\p"
-	.string "且这些宝可梦的等级必须全都在50\n"
-	.string "级或以下。\p"
+	.string "且这些宝可梦的等级必须全都在50级\n"
+	.string "或以下。\p"
 	.string "它们也不得携带相同种类的道具。\p"
 	.string "蛋{STR_VAR_1}。$"
 
@@ -430,8 +430,8 @@ BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsEnd_hns:
 
 BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsLvOpen_hns:
 	.string "唉……\p"
-	.string "你并没有带齐挑战所需的3只宝可梦\n"
-	.string "。\p"
+	.string "你并没有带齐挑战所需的3只宝可\n"
+	.string "梦。\p"
 	.string "若要参赛，你必须准备3种不同种类\n"
 	.string "的宝可梦。\p"
 	.string "它们也不得携带相同种类的道具。\p"
@@ -455,8 +455,8 @@ BattleFrontier_BattlePalaceLobby_Text_ResultsWillBeRecorded_hns:
 
 BattleFrontier_BattlePalaceLobby_Text_FirmTrueBondsFor7WinStreak_hns:
 	.string "达成了7连胜……\p"
-	.string "看来你与宝可梦之间心意相通的牵绊\n"
-	.string "，确实无比牢固。$"
+	.string "看来你与宝可梦之间心意相通的牵\n"
+	.string "绊，确实无比牢固。$"
 
 BattleFrontier_BattlePalaceLobby_Text_FeatWillBeRecorded_hns:
 	.string "系统将记录你的辉煌战绩。请稍候片\n"
@@ -468,8 +468,8 @@ BattleFrontier_BattlePalaceLobby_Text_BattlePointsFor7WinStreak_hns:
 	.string "赠予你对战点数。$"
 
 BattleFrontier_BattlePalaceLobby_Text_NoSpaceForPrize_hns:
-	.string "你的背包似乎已经装不下这份奖品了\n"
-	.string "。\p"
+	.string "你的背包似乎已经装不下这份奖品\n"
+	.string "了。\p"
 	.string "请整理好背包之后再来领取吧。$"
 
 BattleFrontier_BattlePalaceLobby_Text_WeHaveBeenWaiting_hns:
@@ -548,10 +548,10 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainDoubleBattleChallenge_hns:
 	.string "战斗。\p"
 	.string "你必须信任你的宝可梦，并守护注视\n"
 	.string "着它们。\p"
-	.string "若能荣获连续击败7名训练家的殊荣\n"
-	.string "，我们就会赠予你对战点数。\p"
-	.string "如果想要中断挑战，请务必保存记录\n"
-	.string "。\p"
+	.string "若能荣获连续击败7名训练家的殊\n"
+	.string "荣，我们就会赠予你对战点数。\p"
+	.string "如果想要中断挑战，请务必保存记\n"
+	.string "录。\p"
 	.string "若未保存就中断挑战，你将被取消挑\n"
 	.string "战资格。$"
 
@@ -593,8 +593,8 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainRulesNature_hns:
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesMoves_hns:
 	.string "招式分为对敌人造成直接伤害的进攻\n"
 	.string "类招式;\p"
-	.string "用于防备敌人攻击或回复HP等的防\n"
-	.string "御类招式;\p"
+	.string "用于防备敌人攻击或回复HP等的防御\n"
+	.string "类招式;\p"
 	.string "以及通过中毒、麻痹等异常状态来削\n"
 	.string "弱敌人的辅助类等特殊招式。\p"
 	.string "宝可梦会从这三种类别的招式中考虑\n"

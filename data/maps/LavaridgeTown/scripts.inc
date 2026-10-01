@@ -274,8 +274,8 @@ LavaridgeTown_EventScript_HerbShopSign::
 	end
 
 LavaridgeTown_Text_MayNiceBadgesTakeThis:
-	.string "小遥：{PLAYER}{KUN}\n"
-	.string "！好久不见！\p"
+	.string "小遥：{PLAYER}\n"
+	.string "{KUN}！好久不见！\p"
 	.string "哦？看来我去温泉的时候你已经拿到\n"
 	.string "釜炎镇道馆徽章了。\p"
 	.string "你一定得到了不少优秀的宝可梦……\n"
@@ -283,8 +283,8 @@ LavaridgeTown_Text_MayNiceBadgesTakeThis:
 	.string "我想我可以把这个给你。$"
 
 LavaridgeTown_Text_MayExplainGoGogglesChallengeDad:
-	.string "小遥：有这个GOGO护目镜的话，\n"
-	.string "就能穿越111号道路上的沙漠了。\p"
+	.string "小遥：有这个GOGO护目镜的话，就能\n"
+	.string "穿越111号道路上的沙漠了。\p"
 	.string "不过，{PLAYER}{KUN}\n"
 	.string "居然在挑战道馆……\p"
 	.string "是不想输给我吧？你为此真的很努力\n"
@@ -300,12 +300,12 @@ LavaridgeTown_Text_BrendanNiceBadgesTakeThis:
 	.string "那好，这个也给你吧。$"
 
 LavaridgeTown_Text_BrendanExplainGoGogglesChallengeDad:
-	.string "小悠：如果要去111号道路上的沙\n"
-	.string "漠就带上它吧。\p"
-	.string "那里应该也有一些沙漠特有的宝可梦\n"
-	.string "，你可以去找找看。\p"
-	.string "至于我……我打算去挑战橙华市的道\n"
-	.string "馆馆主千里。\p"
+	.string "小悠：如果要去111号道路上的沙漠\n"
+	.string "就带上它吧。\p"
+	.string "那里应该也有一些沙漠特有的宝可\n"
+	.string "梦，你可以去找找看。\p"
+	.string "至于我……我打算去挑战橙华市的道馆\n"
+	.string "馆主千里。\p"
 	.string "{PLAYER}，你爸爸和你不一\n"
 	.string "样，他看上去相当厉害！\p"
 	.string "再见啦！$"
@@ -313,13 +313,12 @@ LavaridgeTown_Text_BrendanExplainGoGogglesChallengeDad:
 LavaridgeTown_Text_HaveEggWillYouTakeIt:
 	.string "我这儿有个蛋。\p"
 	.string "我本来指望用温泉边温暖的沙子盖起\n"
-	.string "它来会孵化的，但看来这样还不够…\l"
-	.string "…\p"
+	.string "它来会孵化的，但看来这样还不够……\p"
 	.string "听说最好能让它跟宝可梦在一起。\p"
 	.string "你是个训练家对吗？而且你的宝可梦\n"
 	.string "看上去活力十足。\p"
-	.string "怎么样？你愿意带上这个蛋孵化它吗\n"
-	.string "？$"
+	.string "怎么样？你愿意带上这个蛋孵化它\n"
+	.string "吗？$"
 
 LavaridgeTown_Text_HopeYoullWalkPlentyWithEgg:
 	.string "好！希望你能带上这个蛋一起旅行！$"
@@ -355,13 +354,13 @@ LavaridgeTown_Text_PokemonNippedBackside:
 
 LavaridgeTown_Text_OhYouLikeHotSprings:
 	.string "你喜欢温泉吗？\p"
-	.string "对像你这样的年轻人来说还真是少见\n"
-	.string "。$"
+	.string "对像你这样的年轻人来说还真是少\n"
+	.string "见。$"
 
 LavaridgeTown_Text_BatheInHotSpringsEveryDay:
 	.string "我每天都泡温泉。\p"
-	.string "我想成为像亚莎那样\n"
-	.string "又美丽又强大的道馆馆主。$"
+	.string "我想成为像亚莎那样又美丽又强大的\n"
+	.string "道馆馆主。$"
 
 LavaridgeTown_Text_IfPokemonInHotSprings:
 	.string "如果把宝可梦放进温泉，它就会变得\n"
@@ -376,8 +375,8 @@ LavaridgeTown_Text_HotSpringsClaims:
 
 LavaridgeTown_Text_TownSign:
 	.string "釜炎镇\p"
-	.string "“宝可梦中心温泉\n"
-	.string "放松身心的绝佳去处！”$"
+	.string "“宝可梦中心温泉放松身心的绝佳去\n"
+	.string "处！”$"
 
 LavaridgeTown_Text_GymSign:
 	.string "釜炎镇宝可梦道馆馆主：亚莎“热情\n"

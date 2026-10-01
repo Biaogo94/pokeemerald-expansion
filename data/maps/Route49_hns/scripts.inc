@@ -53,8 +53,8 @@ Route49_Text_SkylarBeforeBattle:
 Route49_Text_SkylarBefore:
 	.string "我在雪道上滑雪的时候，滑雪板被什\n"
 	.string "么东西给绊了一下。\p"
-	.string "结果就发现了这块奇怪的天蓝色石板\n"
-	.string "。\p"
+	.string "结果就发现了这块奇怪的天蓝色石\n"
+	.string "板。\p"
 	.string "我打算留着它当纪念品呢！$"
 
 Route49_EventScript_SkierM::

@@ -279,16 +279,16 @@ SlateportCity_BattleTentLobby_Text_CouldntFindMonForMe:
 	.string "那边那人抱怨一下。\p"
 	.string "但他，呃，根本就不听我的，啊！那\n"
 	.string "个，呃，真讨厌，对吗？\p"
-	.string "啊，呃，你，过来！这个，呃，给你\n"
-	.string "！$"
+	.string "啊，呃，你，过来！这个，呃，给\n"
+	.string "你！$"
 
 SlateportCity_BattleTentLobby_Text_ExplainTorment:
-	.string "那个呀，是招式学习器41啦。\n"
-	.string "喂喂，可是“无理取闹”哟，听到没？\p"
-	.string "就是说呀，它能让对手\n"
-	.string "没法连续使出同一招，明白不？\p"
-	.string "喂，你给我听好啦，我可不是\n"
-	.string "在对你无理取闹哟！$"
+	.string "那个呀，是招式学习器41啦。喂喂，\n"
+	.string "可是“无理取闹”哟，听到没？\p"
+	.string "就是说呀，它能让对手没法连续使出\n"
+	.string "同一招，明白不？\p"
+	.string "喂，你给我听好啦，我可不是在对你\n"
+	.string "无理取闹哟！$"
 
 SlateportCity_BattleTentLobby_Text_IllTryUsingBugMons:
 	.string "我并不很喜欢虫属性宝可梦，但也许\n"
@@ -300,6 +300,6 @@ SlateportCity_BattleTentLobby_Text_BattleEvenWithoutToughMons:
 	.string "这里尽情战斗。$"
 
 SlateportCity_BattleTentLobby_Text_NiceIfMoreSelection:
-	.string "如果他们能给出更多选择不是很好吗\n"
-	.string "？$"
+	.string "如果他们能给出更多选择不是很好\n"
+	.string "吗？$"
 

@@ -426,15 +426,15 @@ RusturfTunnel_Text_Peeko:
 
 RusturfTunnel_Text_GruntIntro:
 	.string "该死，真见鬼！\p"
-	.string "那只当人质的宝可梦根本派不上用场\n"
-	.string "！\p"
-	.string "亏我还拼命逃跑……逃进了一个死胡\n"
-	.string "同隧道！\p"
+	.string "那只当人质的宝可梦根本派不上用\n"
+	.string "场！\p"
+	.string "亏我还拼命逃跑……逃进了一个死胡同\n"
+	.string "隧道！\p"
 	.string "嘿！说你呢！你想和我打一场是吧？$"
 
 RusturfTunnel_Text_GruntDefeat:
-	.string "呃啊啊！我的犯罪生涯看来要到头了\n"
-	.string "！$"
+	.string "呃啊啊！我的犯罪生涯看来要到头\n"
+	.string "了！$"
 
 RusturfTunnel_Text_GruntTakePackage:
 	.string "太离谱了……\p"
@@ -470,8 +470,7 @@ RusturfTunnel_Text_WhyCantTheyKeepDigging:
 
 RusturfTunnel_Text_ToGetToVerdanturf:
 	.string "想要从卡那兹市到绿茵镇，你得先到\n"
-	.string "武斗镇，然后穿过凯那市和紫堇市…\l"
-	.string "…$"
+	.string "武斗镇，然后穿过凯那市和紫堇市……$"
 
 RusturfTunnel_Text_YouShatteredBoulderTakeHM:
 	.string "哇喔！你打碎了挡路的大石头。\p"
@@ -495,8 +494,8 @@ RusturfTunnel_Text_BoyfriendOnOtherSideOfRock:
 	.string "家。$"
 
 RusturfTunnel_Text_MikeIntro:
-	.string "你怎么称呼住在山里的野人？登山男\n"
-	.string "，对不对？\p"
+	.string "你怎么称呼住在山里的野人？登山\n"
+	.string "男，对不对？\p"
 	.string "为什么不把生活在山里的宝可梦叫作\n"
 	.string "登山宝可梦呢？$"
 

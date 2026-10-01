@@ -57,6 +57,6 @@ PokemonTower_1F_Text_GrowlitheWhyDidYouDie::
 
 PokemonTower_1F_Text_SenseSpiritsUpToMischief::
 	.string "我是通灵师。\p"
-	.string "有些灵魂喜欢搞恶作剧。在塔的高层\n"
-	.string "，我能感觉到它们。$"
+	.string "有些灵魂喜欢搞恶作剧。在塔的高\n"
+	.string "层，我能感觉到它们。$"
 

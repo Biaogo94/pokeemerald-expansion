@@ -79,8 +79,8 @@ MeteorFalls_1F_2R_Text_NicolasRegister:
 MeteorFalls_1F_2R_Text_NicolasRematchIntro:
 	.string "自从上次相遇，我们一直为第一的目\n"
 	.string "标而努力训练。\p"
-	.string "帮忙见识一下我们成长得有多强大吧\n"
-	.string "！$"
+	.string "帮忙见识一下我们成长得有多强大\n"
+	.string "吧！$"
 
 MeteorFalls_1F_2R_Text_NicolasRematchDefeat:
 	.string "呃！没想到你那么强！$"
@@ -94,8 +94,8 @@ MeteorFalls_1F_2R_Text_JohnIntro:
 	.string "们对自己充满信心。$"
 
 MeteorFalls_1F_2R_Text_JohnDefeat:
-	.string "源：哦，天。我们输了，亲爱的老婆\n"
-	.string "。$"
+	.string "源：哦，天。我们输了，亲爱的老\n"
+	.string "婆。$"
 
 MeteorFalls_1F_2R_Text_JohnPostBattle:
 	.string "源：我们结婚50年了。\p"
@@ -108,8 +108,8 @@ MeteorFalls_1F_2R_Text_JohnNotEnoughMons:
 	.string "的宝可梦。$"
 
 MeteorFalls_1F_2R_Text_JohnRegister:
-	.string "源：年轻的训练家，如果有机会的话\n"
-	.string "，你还会和我们对战吗？$"
+	.string "源：年轻的训练家，如果有机会的\n"
+	.string "话，你还会和我们对战吗？$"
 
 MeteorFalls_1F_2R_Text_JayIntro:
 	.string "初：我们结婚50年了。\p"
@@ -157,7 +157,7 @@ MeteorFalls_1F_2R_Text_JayRematchDefeat:
 	.string "的老公。$"
 
 MeteorFalls_1F_2R_Text_JayPostRematch:
-	.string "初：结婚50年了……发生过太多事\n"
+	.string "初：结婚50年了……发生过太多事"
 	.string "。\p"
 	.string "我希望我们可以继续一起创造快乐的\n"
 	.string "记忆。$"

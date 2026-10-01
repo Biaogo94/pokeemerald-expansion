@@ -58,8 +58,8 @@ Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnough::
 	.string "就会给你一个奖励。\p"
 	.string "大木博士委托我把\n"
 	.string "{STR_VAR_2}给你。\p"
-	.string "那么{PLAYER}，让我问问你\n"
-	.string "。\p"
+	.string "那么{PLAYER}，让我问问\n"
+	.string "你。\p"
 	.string "你已经收集到了至少\n"
 	.string "{STR_VAR_1}种宝可梦了\l"
 	.string "吗？$"
@@ -81,8 +81,8 @@ Route15_WestEntrance_2F_Text_ExplainExpShare::
 
 Route15_WestEntrance_2F_Text_LargeShiningBird::
 	.string "一架望远镜……我来看看……\p"
-	.string "哦！一只漂亮的大鸟正向着大海飞去\n"
-	.string "。$"
+	.string "哦！一只漂亮的大鸟正向着大海飞\n"
+	.string "去。$"
 
 Route15_WestEntrance_2F_Text_SmallIslandOnHorizon::
 	.string "一架望远镜……我来看看……\p"

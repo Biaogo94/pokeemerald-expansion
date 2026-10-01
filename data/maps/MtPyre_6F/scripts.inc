@@ -28,8 +28,8 @@ MtPyre_6F_EventScript_Cedric::
 	end
 
 MtPyre_6F_Text_ValerieIntro:
-	.string "当我来到这里……就会有一股奇异的\n"
-	.string "力量涌进身体……$"
+	.string "当我来到这里……就会有一股奇异的力\n"
+	.string "量涌进身体……$"
 
 MtPyre_6F_Text_ValerieDefeat:
 	.string "这股力量在消退……$"
@@ -39,10 +39,9 @@ MtPyre_6F_Text_ValeriePostBattle:
 	.string "梦的灵魂……$"
 
 MtPyre_6F_Text_ValerieRegister:
-	.string "呼呼呼……我输掉了比赛，但是……\n"
-	.string "我可以这样……\p"
-	.string "不必用手碰到你的宝可导航……嘿呀\n"
-	.string "！$"
+	.string "呼呼呼……我输掉了比赛，但是……我可\n"
+	.string "以这样……\p"
+	.string "不必用手碰到你的宝可导航……嘿呀！$"
 
 MtPyre_6F_Text_ValerieRematchIntro:
 	.string "你后面……那是什么……$"
@@ -51,8 +50,8 @@ MtPyre_6F_Text_ValerieRematchDefeat:
 	.string "好像有什么东西消失了……$"
 
 MtPyre_6F_Text_ValeriePostRematch:
-	.string "在这里沉眠的宝可梦……有时也会出\n"
-	.string "来玩耍……$"
+	.string "在这里沉眠的宝可梦……有时也会出来\n"
+	.string "玩耍……$"
 
 MtPyre_6F_Text_CedricIntro:
 	.string "你迷失方向了吗？有我在，不用怕！$"
@@ -63,6 +62,6 @@ MtPyre_6F_Text_CedricDefeat:
 MtPyre_6F_Text_CedricPostBattle:
 	.string "我觉得一个迷路的训练家会很惊慌，\n"
 	.string "很容易就能打败。\p"
-	.string "但那样太卑鄙了，我不会再那么做了\n"
-	.string "……$"
+	.string "但那样太卑鄙了，我不会再那么做\n"
+	.string "了……$"
 

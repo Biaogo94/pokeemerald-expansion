@@ -63,8 +63,8 @@ LavenderTown_House2_EventScript_ChoseNewNickname::
 
 LavenderTown_House2_Text_WantMeToRateNicknames::
 	.string "嗨！我是权威的姓名鉴定师！\p"
-	.string "想让我鉴定一下你的宝可梦的昵称吗\n"
-	.string "？$"
+	.string "想让我鉴定一下你的宝可梦的昵称\n"
+	.string "吗？$"
 
 LavenderTown_House2_Text_CritiqueWhichMonsNickname::
 	.string "要我鉴定哪只宝可梦的昵称？$"
@@ -72,8 +72,8 @@ LavenderTown_House2_Text_CritiqueWhichMonsNickname::
 LavenderTown_House2_Text_GiveItANicerName::
 	.string "{STR_VAR_1}，是它吗？\n"
 	.string "这是一个相当好的昵称！\p"
-	.string "但是，想让我给它一个更好的名字吗\n"
-	.string "？\p"
+	.string "但是，想让我给它一个更好的名字\n"
+	.string "吗？\p"
 	.string "怎么样？$"
 
 LavenderTown_House2_Text_WhatShallNewNicknameBe::

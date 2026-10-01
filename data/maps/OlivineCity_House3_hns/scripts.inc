@@ -35,20 +35,20 @@ OlivineCity_Text_OfferGoodRod:
 	.string "的身手吗？$"
 
 OlivineCity_Text_GiveGoodRod:
-	.string "啊哈哈！看来又有一位新钓手诞生了\n"
-	.string "！$"
+	.string "啊哈哈！看来又有一位新钓手诞生\n"
+	.string "了！$"
 
 OlivineCity_Text_GaveGoodRod:
-	.string "鱼儿不仅生活在大海里--只要有水\n"
-	.string "的地方就有它们。\p"
+	.string "鱼儿不仅生活在大海里--只要有水的\n"
+	.string "地方就有它们。\p"
 	.string "顺便一提，你的宝可梦图鉴会显示宝\n"
 	.string "可梦的钓鱼分类群。\p"
 	.string "不同的钓点可能会栖息着相似种类的\n"
 	.string "鱼。$"
 
 OlivineCity_Text_DontWantGoodRod:
-	.string "什--么？你居然不喜欢钓鱼！？真\n"
-	.string "不可理喻！$"
+	.string "什--么？你居然不喜欢钓鱼！？真不\n"
+	.string "可理喻！$"
 
 OlivineCity_Text_HaveGoodRod:
 	.string "战况如何？钓到大鱼了吗？$"

@@ -121,14 +121,14 @@ EcruteakCity_Text_Silver1:
 	.string "咚！！$"
 
 EcruteakCity_Text_Silver2:
-	.string "{RIVAL}：怎么会……\n"
-	.string "这怎么可能？我怎么可能会输给\l"
-	.string "区区的舞姬……？！$"
+	.string "{RIVAL}：怎么会……这怎么可\n"
+	.string "能？我怎么可能会输给区区的舞姬…\l"
+	.string "…？！$"
 
 EcruteakCity_Text_Silver3:
 	.string "{RIVAL}：\n"
-	.string "{PLAYER}……你一\l"
-	.string "直在看着我吧……\p"
+	.string "{PLAYER}……你一直在看着我\l"
+	.string "吧……\p"
 	.string "哼，你说得没错！\p"
 	.string "我真没想到要打败那5个舞妓居然会\n"
 	.string "这么难……\p"
@@ -290,14 +290,11 @@ EcruteakCity_Text_Vulpix:
 EcruteakCity_Text_UnusedMissingDaughter:
 	.string "糟糕，这可怎么办……\p"
 	.string "我的女儿不见了。\p"
-	.string "不会吧……她总不可能跑到\n"
-	.string "烧焦塔去了吧。\p"
-	.string "我跟她说过绝对不能靠近那里的。\n"
-	.string "……\p"
-	.string "听说那里经常有人失踪啊……\n"
-	.string "……\p"
-	.string "唉，我到底该怎么办才好……\n"
-	.string "……？$"
+	.string "不会吧……她总不可能跑到烧焦塔去了\n"
+	.string "吧。\p"
+	.string "我跟她说过绝对不能靠近那里的。……\p"
+	.string "听说那里经常有人失踪啊…………\p"
+	.string "唉，我到底该怎么办才好…………？$"
 
 EcruteakCity_Text_Gramps1:
 	.string "圆朱市过去曾有两座塔，东西各耸立\n"

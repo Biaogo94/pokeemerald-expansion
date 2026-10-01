@@ -111,12 +111,12 @@ LilycoveCity_House3_Text_LearnFromMasterOfPokeblocks:
 
 LilycoveCity_House3_Text_OhAreYouSure:
 	.string "哦？是吗？\p"
-	.string "不要总是试图独自面对一切，亲爱的\n"
-	.string "！$"
+	.string "不要总是试图独自面对一切，亲爱\n"
+	.string "的！$"
 
 LilycoveCity_House3_Text_ExplainPokeblocks:
-	.string "哎呀，太好了！你真机灵！话有点长\n"
-	.string "，可要听仔细咯！\p"
+	.string "哎呀，太好了！你真机灵！话有点\n"
+	.string "长，可要听仔细咯！\p"
 	.string "准备好了吗？\p"
 	.string "查看{POKEBLOCK}时，你\n"
 	.string "应该能看到上面标有光滑度。\p"
@@ -130,9 +130,8 @@ LilycoveCity_House3_Text_ExplainPokeblocks:
 	.string "如果你想做出更细腻的\n"
 	.string "{POKEBLOCK}，就要使用\l"
 	.string "不同种类的树果。\p"
-	.string "可别舍不得--树果的种类会直接影\n"
-	.string "响{POKEBLOCK}的光滑度\l"
-	.string "。\p"
+	.string "可别舍不得--树果的种类会直接影响\n"
+	.string "{POKEBLOCK}的光滑度。\p"
 	.string "还有一件事。\p"
 	.string "一起混合树果的人越多，做出来的\n"
 	.string "{POKEBLOCK}就越细腻。\p"
@@ -142,8 +141,8 @@ LilycoveCity_House3_Text_ExplainPokeblocks:
 	.string "诀窍，差不多就这些啦。\p"
 	.string "如果大家都有心爱的宝可梦、细腻的\n"
 	.string "{POKEBLOCK}和温馨的家\l"
-	.string "庭，这个世界一定会变得更加幸福吧\l"
-	.string "。\p"
+	.string "庭，这个世界一定会变得更加幸福\l"
+	.string "吧。\p"
 	.string "加油哦，孩子！$"
 
 LilycoveCity_House3_Text_HappyToHaveQuadruplets:
@@ -153,8 +152,8 @@ LilycoveCity_House3_Text_HappyToHaveQuadruplets:
 	.string "幸福。$"
 
 LilycoveCity_House3_Text_GoingToWinMultiBattles:
-	.string "我们在进行多人对战，我肯定会赢的\n"
-	.string "。$"
+	.string "我们在进行多人对战，我肯定会赢\n"
+	.string "的。$"
 
 LilycoveCity_House3_Text_LikeMixingAtRecordCorner:
 	.string "我们喜欢在记录角进行混合了，\p"
@@ -165,6 +164,7 @@ LilycoveCity_House3_Text_MakePokeblocksWithBerryBlender:
 	.string "{POKEBLOCK}！$"
 
 LilycoveCity_House3_Text_GoingToEnterContest:
-	.string "我要让大家看看我的宝可梦有多强壮\n"
-	.string "，所以我们打算一起参加华丽大赛。$"
+	.string "我要让大家看看我的宝可梦有多强\n"
+	.string "壮，所以我们打算一起参加华丽大\l"
+	.string "赛。$"
 

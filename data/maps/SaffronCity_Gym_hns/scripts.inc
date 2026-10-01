@@ -61,8 +61,8 @@ SaffronCity_Gym_EventScript_Sabrina_Defeated::
 
 SaffronCity_Gym_Text_SabrinaIntro:
 	.string "娜姿：我知道你会来……\p"
-	.string "早在三年前，我就预见到了你的到来\n"
-	.string "。\p"
+	.string "早在三年前，我就预见到了你的到\n"
+	.string "来。\p"
 	.string "你是为了得到我的徽章吧。\p"
 	.string "我并不喜欢对战，但作为馆主，把徽\n"
 	.string "章授予证明了自身实力的挑战者是我\l"
@@ -73,8 +73,8 @@ SaffronCity_Gym_Text_SabrinaIntro:
 SaffronCity_Gym_Text_SabrinaWinLoss:
 	.string "娜姿：你的力量……\p"
 	.string "远远超出了我的预见……\p"
-	.string "也许，要彻底看透未来是不可能的吧\n"
-	.string "......\p"
+	.string "也许，要彻底看透未来是不可能的\n"
+	.string "吧......\p"
 	.string "好吧，你赢了。这是你应得的金黄徽\n"
 	.string "章。$"
 
@@ -86,8 +86,8 @@ SaffronCity_Gym_Text_MarshBadgeInfo:
 	.string "力……\p"
 	.string "虽然我没能准确预见出你的力量，但\n"
 	.string "唯有这一点我深信不疑。\p"
-	.string "你定会成为一位受人爱戴的顶尖冠军\n"
-	.string "！$"
+	.string "你定会成为一位受人爱戴的顶尖冠\n"
+	.string "军！$"
 
 SaffronCity_Gym_Text_Sabrina_GiveTM:
 	.string "来，把这个也收下吧。$"
@@ -101,8 +101,8 @@ SaffronCity_Gym_Text_Sabrina_ExplainTM:
 SaffronCity_Gym_Text_SabrinaPostBattle:
 	.string "娜姿：你对宝可梦的爱，压倒了我的\n"
 	.string "超能力……\p"
-	.string "我想，爱的力量也是一种超能力吧。\n"
-	.string ".....$"
+	.string "我想，爱的力量也是一种超能力吧"
+	.string "。.....$"
 
 SaffronCity_Gym_Text_SabrinaRematch:
 	.string "娜姿：啊，关都的冠军。\p"
@@ -120,8 +120,7 @@ SaffronCity_Gym_Text_MediumRebeccaSeen:
 	.string "我这里了！$"
 
 SaffronCity_Gym_Text_MediumRebeccaBeaten:
-	.string "好强……实在太强了...\n"
-	.string "...$"
+	.string "好强……实在太强了......$"
 
 SaffronCity_Gym_Text_MediumRebeccaAfter:
 	.string "你力量的源泉究竟是什么？$"
@@ -137,13 +136,13 @@ SaffronCity_Gym_Text_PsychicFranklinAfter:
 	.string "魂。$"
 
 SaffronCity_Gym_Text_MediumDorisSeen:
-	.string "呵呵呵呵……我看得很清楚\n"
+	.string "呵呵呵呵……我看得很清楚"
 	.string "。\p"
 	.string "我能看透你的灵魂！$"
 
 SaffronCity_Gym_Text_MediumDorisBeaten:
-	.string "虽然读懂了你的心思，我还是输了。\n"
-	.string ".....$"
+	.string "虽然读懂了你的心思，我还是输了"
+	.string "。.....$"
 
 SaffronCity_Gym_Text_MediumDorisAfter:
 	.string "哎呀！我都忘了我之前预知到自己会\n"

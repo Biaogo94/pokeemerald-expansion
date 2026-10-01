@@ -80,8 +80,8 @@ Route10_Text_HikerJimBeaten:
 	.string "哈哈哈哈--阿嚏！$"
 
 Route10_Text_HikerJimAfter:
-	.string "花粉症让我喷嚏打个不停！啊哈哈-\n"
-	.string "-阿嚏！$"
+	.string "花粉症让我喷嚏打个不停！啊哈哈--\n"
+	.string "阿嚏！$"
 
 Route10_Text_PokefanmRobertSeen:
 	.string "你很喜欢宝可梦，对吧？\p"
@@ -91,8 +91,8 @@ Route10_Text_PokefanmRobertBeaten:
 	.string "不得不承认是我输了。$"
 
 Route10_Text_PokefanmRobertAfter:
-	.string "看你把我的宝可梦伤成什么样了..\n"
-	.string "....\p"
+	.string "看你把我的宝可梦伤成什么样了...\n"
+	.string "...\p"
 	.string "我可不会忘记这笔账的……$"
 
 Route10_Text_PowerPlant:

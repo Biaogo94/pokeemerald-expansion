@@ -166,10 +166,10 @@ RocketHideout_B2F_Movement_MurkrowGate2:
 	step_end
 
 RocketHideout_B2F_Text_MurkrowUnlock:
-    .string "黑暗鸦模仿拉姆达的声音喊出了密码\n"
-    .string "。\p"
-    .string "................\n"
-    .string "..声纹识别系统解锁了大门！$"
+    .string "黑暗鸦模仿拉姆达的声音喊出了密\n"
+    .string "码。\p"
+    .string "..................声纹识别系统解\n"
+    .string "锁了大门！$"
 
 @============================================================================================================================================
 
@@ -254,12 +254,12 @@ RocketHideout_B2F_Text_ArianaChallenge:
     .string "一直胡作非为下去。\p"
     .string "这样下去，火箭队的威信迟早会被一\n"
     .string "点点消磨殆尽的，你明白吗？\p"
-    .string "……所以，是时候做个了结\n"
-    .string "了。不管你有多强，\p"
+    .string "……所以，是时候做个了结了。不管你\n"
+    .string "有多强，\p"
     .string "要是我们两个一起上的话，你可就没\n"
     .string "有半分胜算了哦。对吧？\p"
-    .string "嘿嘿嘿！抱歉啦，\n"
-    .string "小宝贝。乖乖准备挨揍吧。$"
+    .string "嘿嘿嘿！抱歉啦，小宝贝。乖乖准备\n"
+    .string "挨揍吧。$"
 
 RocketHideout_B2F_Text_LanceInterrupt:
     .string "渡：住手！二对一的战斗？\p"
@@ -596,8 +596,7 @@ RocketHideout_Text_ArianaRetreat:
     .string "我们有更加宏大的计划。火箭队真正\n"
     .string "的可怕之处，你们很快就会切身体会\l"
     .string "到了。\p"
-    .string "趁现在好好得意一阵吧……\n"
-    .string "嘻嘻嘻……$"
+    .string "趁现在好好得意一阵吧……嘻嘻嘻……$"
 
 RocketHideout_Text_LanceStepBack:
     .string "抱歉啊，{PLAYER}。我看你\n"
@@ -632,8 +631,8 @@ RocketHideout_B2F_Text_LanceElectrodeDone:
     .string "捡到的，我留着也没什么用。$"
 
 RocketHideout_B2F_Text_LanceWhirlpool:
-    .string "那是“潮旋”。让宝可梦学会的话，\n"
-    .string "就能穿过汹涌的漩涡了。\p"
+    .string "那是“潮旋”。让宝可梦学会的话，就\n"
+    .string "能穿过汹涌的漩涡了。\p"
     .string "不过请记住这一点。\p"
     .string "只有拥有卡吉道馆的徽章，才能在对\n"
     .string "战之外使用它。$"

@@ -30,12 +30,12 @@ GiddyText_DontYouAgree::
 	.string "你同意吗？$"
 
 GiddyText_ISoWantToGoOnAVacation::
-	.string "我很想去旅行。你知道什么好去处吗\n"
-	.string "？$"
+	.string "我很想去旅行。你知道什么好去处\n"
+	.string "吗？$"
 
 GiddyText_IBoughtCrayonsWith120Colors::
-	.string "我买了一套120色的蜡笔！你不觉\n"
-	.string "得很棒吗？$"
+	.string "我买了一套120色的蜡笔！你不觉得\n"
+	.string "很棒吗？$"
 
 GiddyText_WouldntItBeNiceIfWeCouldFloat::
 	.string "你不觉得，漂浮在一片泡泡云上很舒\n"

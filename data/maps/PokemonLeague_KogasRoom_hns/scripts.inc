@@ -67,8 +67,8 @@ PokemonLeague_KogasRoom_Text_RematchBefore:
     .string "勇敢的挑战者，你又回来了啊。\p"
     .string "吾之忍者秘术已磨砺得愈发凌厉。\p"
     .string "阴险的新陷阱正在等待着你。\p"
-    .string "剧毒、睡眠，还有更多……\n"
-    .string "准备接招吧！\p"
+    .string "剧毒、睡眠，还有更多……准备接招\n"
+    .string "吧！\p"
     .string "哈哈哈哈！\p"
     .string "让吾看看你成长了多少！$"
 
@@ -81,15 +81,15 @@ PokemonLeague_KogasRoom_Text_Before:
     .string "混乱、睡眠、剧毒……\p"
     .string "准备成为吾阴险秘术的牺牲品吧！\p"
     .string "哈哈哈哈！\p"
-    .string "宝可梦对战可不仅仅是蛮力比拼--\n"
-    .string "你马上就会领教到的！$"
+    .string "宝可梦对战可不仅仅是蛮力比拼--你\n"
+    .string "马上就会领教到的！$"
 
 PokemonLeague_KogasRoom_Text_Beaten:
     .string "啊！你证明了自己的能耐！$"
 
 PokemonLeague_KogasRoom_Text_Defeat:
     .string "吾已竭尽所能倾囊相授。\p"
-    .string "然而依然落败。吾必须继续磨砺身手\n"
-    .string "。\p"
-    .string "前往下一个房间吧，去考验你的实力\n"
-    .string "！$"
+    .string "然而依然落败。吾必须继续磨砺身\n"
+    .string "手。\p"
+    .string "前往下一个房间吧，去考验你的实\n"
+    .string "力！$"

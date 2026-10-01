@@ -125,8 +125,8 @@ VictoryRoad_1F_Text_WallyNotGoingToLoseAnymore:
 	.string "{PLAYER}，那次输给你让我\n"
 	.string "变得更强了……\p"
 	.string "但这次我不会再输了！\p"
-	.string "为了给了我勇气和力量的宝可梦们—\n"
-	.string "—我一定要赢！\p"
+	.string "为了给了我勇气和力量的宝可梦们——\n"
+	.string "我一定要赢！\p"
 	.string "那么……开始吧！$"
 
 VictoryRoad_1F_Text_WallyEntranceDefeat:
@@ -135,13 +135,13 @@ VictoryRoad_1F_Text_WallyEntranceDefeat:
 
 VictoryRoad_1F_Text_WallyPostEntranceBattle:
 	.string "满充：{PLAYER}，虽然今天\n"
-	.string "还是没能赢你……但总有一天我一定\l"
-	.string "会追上你的！$"
+	.string "还是没能赢你……但总有一天我一定会\l"
+	.string "追上你的！$"
 
 VictoryRoad_1F_Text_WallyIntro:
 	.string "满充：嗨！{PLAYER}！\p"
-	.string "我比上一次变得更强了！想让你看看\n"
-	.string "，{PLAYER}！\p"
+	.string "我比上一次变得更强了！想让你看\n"
+	.string "看，{PLAYER}！\p"
 	.string "那么……开始吧！$"
 
 VictoryRoad_1F_Text_WallyDefeat:
@@ -149,9 +149,9 @@ VictoryRoad_1F_Text_WallyDefeat:
 	.string "更强啊！$"
 
 VictoryRoad_1F_Text_WallyPostBattle:
-	.string "满充：这次我还是赢不了你……但总\n"
-	.string "有一天，{PLAYER}，我会追\l"
-	.string "上你……\p"
+	.string "满充：这次我还是赢不了你……但总有\n"
+	.string "一天，{PLAYER}，我会追上\l"
+	.string "你……\p"
 	.string "然后挑战宝可梦联盟！$"
 
 VictoryRoad_1F_Text_EdgarIntro:
@@ -167,8 +167,8 @@ VictoryRoad_1F_Text_EdgarPostBattle:
 	.string "那就是你！$"
 
 VictoryRoad_1F_Text_AlbertIntro:
-	.string "我千里迢迢来这里可不是为了失败的\n"
-	.string "。那是绝对不可能的事情！$"
+	.string "我千里迢迢来这里可不是为了失败\n"
+	.string "的。那是绝对不可能的事情！$"
 
 VictoryRoad_1F_Text_AlbertDefeat:
 	.string "不可能……我输了？$"
@@ -195,9 +195,8 @@ VictoryRoad_1F_Text_QuincyDefeat:
 	.string "嘿！干得漂亮！$"
 
 VictoryRoad_1F_Text_QuincyPostBattle:
-	.string "顺利地通过这里——这是对所有想成\n"
-	.string "为宝可梦冠军的训练家们的最终考验\l"
-	.string "。\p"
+	.string "顺利地通过这里——这是对所有想成为\n"
+	.string "宝可梦冠军的训练家们的最终考验。\p"
 	.string "这也是它被称作冠军之路的原因。$"
 
 VictoryRoad_1F_Text_KatelynnIntro:

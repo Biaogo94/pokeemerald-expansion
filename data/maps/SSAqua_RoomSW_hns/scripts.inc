@@ -29,10 +29,10 @@ SSAqua_RoomSW_Text_GuitaristClydeBeaten:
     .string "哇哦！彻底跑调了！$"
 
 SSAqua_RoomSW_Text_GuitaristClydeAfterBattleMobile:
-    .string "我原本还打算在对战塔上出道呢..\n"
-    .string "....\p"
-    .string "看来我得先回枯叶市重新修行一番了\n"
-    .string "......$"
+    .string "我原本还打算在对战塔上出道呢...\n"
+    .string "...\p"
+    .string "看来我得先回枯叶市重新修行一番\n"
+    .string "了......$"
 
 SSAqua_RoomSW_Text_GuitaristClydeAfterBattle:
     .string "说到广播电台，这周的幸运号码是多\n"

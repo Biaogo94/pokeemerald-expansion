@@ -40,8 +40,8 @@ SootopolisCity_House6_Text_TakeGoodCareOfIt:
 	.string "要保存好它！$"
 
 SootopolisCity_House6_Text_IllHoldItForYou:
-	.string "嗯？你想要，但现在还不能拿？那好\n"
-	.string "，我先替你保管。$"
+	.string "嗯？你想要，但现在还不能拿？那\n"
+	.string "好，我先替你保管。$"
 
 SootopolisCity_House6_Text_DontWantThisDoll:
 	.string "你肯定吗？不想要这个玩偶？$"

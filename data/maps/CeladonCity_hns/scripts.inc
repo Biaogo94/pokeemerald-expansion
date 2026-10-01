@@ -108,8 +108,7 @@ CeladonCity_Text_Teacher2:
 	.string "丰富了。\p"
 	.string "如果那里都买不到，别的地方就更买\n"
 	.string "不到了。\p"
-	.string "哎呀……我听起来真像个店\n"
-	.string "员。$"
+	.string "哎呀……我听起来真像个店员。$"
 
 CeladonCity_Text_Lass:
 	.string "边走边看着地面，感觉头好晕。$"
@@ -157,7 +156,7 @@ CeladonCity_Text_GameCornerSign:
 
 CeladonCity_Text_TrainerTips:
 	.string "训练家贴士\p"
-	.string "“效果防护”能保护宝可梦免受如\n"
-	.string "“喷射火焰”与“冲浪”等特殊招式\l"
-	.string "的影响。\p"
+	.string "“效果防护”能保护宝可梦免受如“喷\n"
+	.string "射火焰”与“冲浪”等特殊招式的影\l"
+	.string "响。\p"
 	.string "快来玉虹百货大楼选购吧！$"

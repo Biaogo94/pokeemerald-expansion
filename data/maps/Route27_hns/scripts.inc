@@ -243,15 +243,15 @@ Route27_Text_PsychicGilbertSeen:
     .string "什么都别说！\p"
     .string "让我来猜猜你在想什么。\p"
     .string "嗯----......\p"
-    .string "我知道了！你正在挑战宝可梦联盟吧\n"
-    .string "！$"
+    .string "我知道了！你正在挑战宝可梦联盟\n"
+    .string "吧！$"
 
 Route27_Text_PsychicGilbertBeaten:
     .string "你也太强了吧！$"
 
 Route27_Text_PsychicGilbertAfter:
-    .string "凭你的实力，在联盟一定能大放异彩\n"
-    .string "。\p"
+    .string "凭你的实力，在联盟一定能大放异\n"
+    .string "彩。\p"
     .string "我的预知就是这么说的。$"
 
 Route27_Text_BirdKeeperJoseSeen:
@@ -284,7 +284,7 @@ Route27_Text_JoseHasItem:
     .string "喏，送给你吧！$"
 
 Route27_Text_JoseGaveItem:
-    .string "我在27号道路上总能捡到各种东西\n"
+    .string "我在27号道路上总能捡到各种东西"
     .string "。\p"
     .string "要是再发现什么好东西，我会通知你\n"
     .string "的！$"
@@ -299,8 +299,8 @@ TohjoFalls_Text_Sign:
 
 Route27_Text_FisherScottSeen:
     .string "我今天状态绝佳！\p"
-    .string "感觉就算是联盟冠军我也能一脚踹翻\n"
-    .string "！$"
+    .string "感觉就算是联盟冠军我也能一脚踹\n"
+    .string "翻！$"
 
 Route27_Text_FisherScottBeaten:
     .string "怎么会！居然输在这场对战！$"

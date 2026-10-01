@@ -140,8 +140,7 @@ Route39_Text_ChooseLegend::
 
 Route39_Text_BaobaIntro::
 	.string "真是不可思议……\p"
-	.string "……哦哦！你拿着的那个\n"
-	.string "……难道就是……\l"
+	.string "……哦哦！你拿着的那个……难道就是……\n"
 	.string "宝可梦图鉴吗！\p"
 	.string "我真是好久都没见过了。\p"
 	.string "我叫巴奥巴！我以前在浅红市经营狩\n"
@@ -214,8 +213,8 @@ Route39_EventScript_Woman::
 	end
 
 Route39_Text_Woman:
-	.string "刚才那个影子……难道是只\n"
-	.string "巨大的波波？$"
+	.string "刚才那个影子……难道是只巨大的波\n"
+	.string "波？$"
 
 Route39_EventScript_Miltank::
 	lock
@@ -284,8 +283,7 @@ Route39_Text_PokefanMDerekSeen:
 	.string "正好是夸耀我的皮卡丘的好时机！$"
 
 Route39_Text_PokefanMDerekBeaten:
-	.string "我连展示皮卡丘的机会都没有...\n"
-	.string "...$"
+	.string "我连展示皮卡丘的机会都没有......$"
 
 Route39_Text_PokefanMDerekAfter:
 	.string "我才不听你的吹嘘呢！\p"
@@ -339,8 +337,8 @@ Route39_Text_PokefanFJaimeBeaten:
 	.string "哎，真让人失望……$"
 
 Route39_Text_PokefanFJaimeAfter:
-	.string "我就是在夜里的这条39号道路上遇\n"
-	.string "见月亮伊布的。\p"
+	.string "我就是在夜里的这条39号道路上遇见\n"
+	.string "月亮伊布的。\p"
 	.string "虽然不知道为什么，但它似乎很喜欢\n"
 	.string "我在这里特训呢。\p"
 	.string "比起在其他地方，在这里特训好像能\n"

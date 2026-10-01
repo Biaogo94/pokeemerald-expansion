@@ -154,8 +154,8 @@ MtEmber_Exterior_Text_PunchedThroughAtLast::
 MtEmber_Exterior_Text_WhatsPasswordAgain::
 	.string "我们发现的任何宝藏，都要拖回仓库\n"
 	.string "的，明白吗？\p"
-	.string "……哦，顺便密码是什么？我是说火\n"
-	.string "箭队仓库的密码。$"
+	.string "……哦，顺便密码是什么？我是说火箭\n"
+	.string "队仓库的密码。$"
 
 MtEmber_Exterior_Text_FirstPasswordGoldeen::
 	.string "什么，你把密码忘了？实际上密码有\n"
@@ -176,8 +176,8 @@ MtEmber_Exterior_Text_Grunt1PostBattle::
 	.string "为什么你一定要赢？$"
 
 MtEmber_Exterior_Text_Grunt2Intro::
-	.string "想要着偷走我们的宝藏？趁早放弃吧\n"
-	.string "！$"
+	.string "想要着偷走我们的宝藏？趁早放弃\n"
+	.string "吧！$"
 
 MtEmber_Exterior_Text_Grunt2Defeat::
 	.string "等等！可是现在该怎么办？$"
@@ -200,13 +200,12 @@ MtEmber_Exterior_Text_LoganDefeat::
 	.string "呜……太热了！汗山爆发啊！$"
 
 MtEmber_Exterior_Text_LoganPostBattle::
-	.string "有人说世界上有超过1500个活火\n"
-	.string "山。\p"
+	.string "有人说世界上有超过1500个活火山。\p"
 	.string "只是想想就让我感到全身发热！$"
 
 MtEmber_Exterior_Text_BethIntro::
-	.string "你知道火山中的洞穴是如何形成的吗\n"
-	.string "？$"
+	.string "你知道火山中的洞穴是如何形成的\n"
+	.string "吗？$"
 
 MtEmber_Exterior_Text_BethDefeat::
 	.string "啊！你真是令人震惊的强大！$"

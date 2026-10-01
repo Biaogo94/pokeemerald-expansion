@@ -11,9 +11,8 @@ CeladonCity_GameCorner_Text_ChoosePrintType::
 	.string "请选择打印类型。$"
 
 CeladonCity_GameCorner_Text_BigSmileForPhoto::
-	.string "拍照时请露出灿烂的笑容！三..\n"
-	.string "....二......一...\l"
-	.string "...\p"
+	.string "拍照时请露出灿烂的笑容！三......\n"
+	.string "二......一......\p"
 	.string "咔嚓！$"
 
 CeladonCity_GameCorner_Text_PrintIsReadyCheckTrainerCard::
@@ -21,8 +20,8 @@ CeladonCity_GameCorner_Text_PrintIsReadyCheckTrainerCard::
 	.string "下你的训练家卡片吧。$"
 
 FourIsland_House2_Text_WishICouldShowOffStickers::
-	.string "嘻嘻......我收集了好多贴纸\n"
-	.string "呢。真想好好炫耀一下......$"
+	.string "嘻嘻......我收集了好多贴纸呢。真\n"
+	.string "想好好炫耀一下......$"
 
 FourIsland_House2_Text_GiveYouStickerIfYouBrag::
 	.string "哇，太棒了！你可找对人啦！\p"

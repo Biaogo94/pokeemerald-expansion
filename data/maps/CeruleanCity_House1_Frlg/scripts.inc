@@ -88,47 +88,47 @@ CeruleanCity_House1_Text_ComeVisitAnytime::
 
 CeruleanCity_House1_Text_AttackStatFlash::
 	.string "稍微提高你的宝可梦的攻击。\p"
-	.string "也可以让你在不战斗的时候使用闪光\n"
-	.string "。$"
+	.string "也可以让你在不战斗的时候使用闪\n"
+	.string "光。$"
 
 CeruleanCity_House1_Text_ObeyLv30Cut::
 	.string "30级以内的宝可梦都会听你的话。\p"
 	.string "包括你交换得来的宝可梦。\p"
-	.string "但是较高级别的宝可梦仍然很难控制\n"
-	.string "。\p"
+	.string "但是较高级别的宝可梦仍然很难控\n"
+	.string "制。\p"
 	.string "也可以让你在不战斗的时候使用居合\n"
 	.string "斩。$"
 
 CeruleanCity_House1_Text_SpeedStatFly::
 	.string "稍微提高你的宝可梦的速度。\p"
-	.string "也可以让你在不战斗的时候使用飞翔\n"
-	.string "。$"
+	.string "也可以让你在不战斗的时候使用飞\n"
+	.string "翔。$"
 
 CeruleanCity_House1_Text_ObeyLv50Strength::
 	.string "50级以内的宝可梦都会听你的话。\p"
 	.string "包括你交换得来的宝可梦。\p"
-	.string "但是较高级别的宝可梦仍然很难控制\n"
-	.string "。\p"
-	.string "也可以让你在不战斗的时候使用怪力\n"
-	.string "。$"
+	.string "但是较高级别的宝可梦仍然很难控\n"
+	.string "制。\p"
+	.string "也可以让你在不战斗的时候使用怪\n"
+	.string "力。$"
 
 CeruleanCity_House1_Text_DefenseStatSurf::
 	.string "稍微提高你的宝可梦的防御。\p"
-	.string "也可以让你在不战斗的时候使用冲浪\n"
-	.string "。$"
+	.string "也可以让你在不战斗的时候使用冲\n"
+	.string "浪。$"
 
 CeruleanCity_House1_Text_ObeyLv70RockSmash::
 	.string "70级以内的宝可梦都会听你的话。\p"
 	.string "包括你交换得来的宝可梦。\p"
-	.string "但是较高级别的宝可梦仍然很难控制\n"
-	.string "。\p"
-	.string "也可以让你在不战斗的时候使用碎岩\n"
-	.string "。$"
+	.string "但是较高级别的宝可梦仍然很难控\n"
+	.string "制。\p"
+	.string "也可以让你在不战斗的时候使用碎\n"
+	.string "岩。$"
 
 CeruleanCity_House1_Text_SpStatsWaterfall::
 	.string "稍微提高你的宝可梦的特攻和特防。\p"
-	.string "也可以让你在不战斗的时候使用攀瀑\n"
-	.string "。$"
+	.string "也可以让你在不战斗的时候使用攀\n"
+	.string "瀑。$"
 
 CeruleanCity_House1_Text_AllMonsWillObeyYou::
 	.string "所有的宝可梦都会听你的话了！$"

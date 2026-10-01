@@ -79,7 +79,7 @@ EverGrandeCity_SidneysRoom_Text_Defeat:
 
 EverGrandeCity_SidneysRoom_Text_PostBattleSpeech:
 	.string "好，听听我这个失败者的话。\p"
-	.string "你已经具备了前进所需的一切。现在\n"
-	.string "，继续去下一个房间享受你的下一场\l"
-	.string "战斗吧！$"
+	.string "你已经具备了前进所需的一切。现\n"
+	.string "在，继续去下一个房间享受你的下一\l"
+	.string "场战斗吧！$"
 

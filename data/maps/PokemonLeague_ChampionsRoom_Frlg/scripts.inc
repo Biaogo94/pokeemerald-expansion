@@ -296,16 +296,16 @@ PokemonLeague_ChampionsRoom_Text_OakCongratulations::
 	.string "{PLAYER}，你的时代来临了$"
 
 PokemonLeague_ChampionsRoom_Text_OakImDisappointedRival::
-	.string "大木：{RIVAL}……我对你很\n"
-	.string "失望。\p"
+	.string "大木：{RIVAL}……我对你很失\n"
+	.string "望。\p"
 	.string "听说你打败了四天王的消息我飞奔到\n"
 	.string "这里来。\p"
-	.string "但是，当我到达的时候 你已经输了\n"
-	.string "！\p"
+	.string "但是，当我到达的时候 你已经输\n"
+	.string "了！\p"
 	.string "{RIVAL}，你明白你为什么会\n"
 	.string "失败吗？\p"
-	.string "因为你没有给予你的宝可梦信任和爱\n"
-	.string "！\p"
+	.string "因为你没有给予你的宝可梦信任和\n"
+	.string "爱！\p"
 	.string "没了它们，你再怎么努力也不会再站\n"
 	.string "在冠军的顶峰的！$"
 

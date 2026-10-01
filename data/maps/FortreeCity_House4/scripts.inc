@@ -65,8 +65,8 @@ FortreeCity_House4_EventScript_Wingull::
 FortreeCity_House4_Text_BringsWorldCloserTogether:
 	.string "和宝可梦在一起，人们可以交上更多\n"
 	.string "朋友，\p"
-	.string "这让我们的世界变得更小。这多美妙\n"
-	.string "！$"
+	.string "这让我们的世界变得更小。这多美\n"
+	.string "妙！$"
 
 FortreeCity_House4_Text_GoBirdPokemon:
 	.string "好了！去吧，我的鸟宝可梦！$"
@@ -77,8 +77,8 @@ FortreeCity_House4_Text_AskedWingullToRunErrand:
 FortreeCity_House4_Text_WelcomeWingullTakeMentalHerb:
 	.string "太好了！欢迎回来，长翅鸥！\p"
 	.string "嗯？这是什么？它抓着的是什么？\p"
-	.string "心灵香草？一定是在哪儿偶然抓到的\n"
-	.string "。\p"
+	.string "心灵香草？一定是在哪儿偶然抓到\n"
+	.string "的。\p"
 	.string "但我不是训练家，这个还是给你吧。$"
 
 FortreeCity_House4_Text_FriendsFarAwayThanksToWingull:

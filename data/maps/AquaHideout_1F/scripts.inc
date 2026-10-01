@@ -74,8 +74,8 @@ AquaHideout_1F_Text_BossWentToJackASubmarine:
 
 AquaHideout_1F_Text_BossIsOnRoute122:
 	.string "什么？什么？你找海洋队做什么？\p"
-	.string "我们的老大不在这里！他到122号\n"
-	.string "水路上的送神山去了！\p"
+	.string "我们的老大不在这里！他到122号水\n"
+	.string "路上的送神山去了！\p"
 	.string "……他去干什么？\p"
 	.string "哇哈哈！你以为我会告诉你这么重要\n"
 	.string "的事吗？$"

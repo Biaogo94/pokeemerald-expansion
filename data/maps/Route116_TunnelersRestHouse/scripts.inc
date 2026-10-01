@@ -34,8 +34,8 @@ Route116_TunnelersRestHouse_Text_WeHadToStopBoring:
 	.string "了。\p"
 	.string "因为发现这样会严重影响到野生宝可\n"
 	.string "梦的栖息环境。\p"
-	.string "所以现在我们只能无所事事地闲逛了\n"
-	.string "。$"
+	.string "所以现在我们只能无所事事地闲逛\n"
+	.string "了。$"
 
 Route116_TunnelersRestHouse_Text_ManDiggingHisWayToVerdanturf:
 	.string "有个男人正独自向绿茵镇方向挖掘。\n"

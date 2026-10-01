@@ -196,8 +196,8 @@ GoldenrodDeptStore_Text_B1FBlackBelt2:
 
 GoldenrodDeptStore_Text_B1FBlackBelt3:
     .string "嘿咻！嘿咻！\p"
-    .string "小鬼，你有什么事吗？我正在干活呢\n"
-    .string "！$"
+    .string "小鬼，你有什么事吗？我正在干活\n"
+    .string "呢！$"
 
 GoldenrodDeptStore_Text_B1FBlackBelt3After:
     .string "嘿咻！嘿咻！\p"

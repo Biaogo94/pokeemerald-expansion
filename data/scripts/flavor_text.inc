@@ -118,8 +118,8 @@ Text_Bookshelf::
 	.string "书架上塞满了宝可梦的书。$"
 
 Text_NothingButPokemonBooks::
-	.string "ほんだなに　ならんでいるのは\n"
-	.string "ポケモンの　ほん　ばかりだ$"
+	.string "ほんだなに　ならんでいるのはポケ\n"
+	.string "モンの　ほん　ばかりだ$"
 
 Text_ATownMap::
 	.string "是一张城镇地图。$"

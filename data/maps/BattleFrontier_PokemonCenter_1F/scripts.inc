@@ -38,19 +38,19 @@ BattleFrontier_PokemonCenter_1F_EventScript_Skitty::
 	end
 
 BattleFrontier_PokemonCenter_1F_Text_NeverSeenPokemon:
-	.string "有人使用过我从来没有见过的宝可梦\n"
-	.string "。\p"
+	.string "有人使用过我从来没有见过的宝可\n"
+	.string "梦。\p"
 	.string "至少我在训练家学校还从没听说过。\p"
 	.string "不知道那种宝可梦在哪儿能捕捉呢？$"
 
 BattleFrontier_PokemonCenter_1F_Text_NextStopBattleArena:
 	.string "好了！下一站是对战竞技场！最好先\n"
-	.string "去电脑寄放系统换出合适的宝可梦来\l"
-	.string "。$"
+	.string "去电脑寄放系统换出合适的宝可梦\l"
+	.string "来。$"
 
 BattleFrontier_PokemonCenter_1F_Text_GoingThroughEveryChallenge:
-	.string "咯咯……我可要和这个孩子一同赢得\n"
-	.string "所有的比赛！$"
+	.string "咯咯……我可要和这个孩子一同赢得所\n"
+	.string "有的比赛！$"
 
 BattleFrontier_PokemonCenter_1F_Text_Skitty:
 	.string "向尾喵：喵 喵！$"

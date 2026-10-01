@@ -276,8 +276,8 @@ KurtsHouse_Text_KurtMakingBallsMustWait:
 	.string "可现在他们竟然在井里，割下呆呆兽\n"
 	.string "之尾拿去卖！\p"
 	.string "所以我要去给他们一点苦头尝尝！\p"
-	.string "撑住啊，呆呆兽！钢铁老头马上就来\n"
-	.string "！$"
+	.string "撑住啊，呆呆兽！钢铁老头马上就\n"
+	.string "来！$"
 
 KurtsHouse_Text_KurtHonoredToMakeBalls:
 	.string "钢铁：嗨，{PLAYER}！\p"
@@ -285,8 +285,8 @@ KurtsHouse_Text_KurtHonoredToMakeBalls:
 	.string "我很欣赏你的作风！\p"
 	.string "能为你这样的训练家做球，是我的荣\n"
 	.string "幸。\p"
-	.string "虽然我现在只有这个，但也请收下吧\n"
-	.string "。$"
+	.string "虽然我现在只有这个，但也请收下\n"
+	.string "吧。$"
 
 KurtsHouse_Text_KurtBallsFromApricorns:
 	.string "钢铁：我能用树果来制作球。\p"
@@ -335,8 +335,7 @@ KurtsHouse_Text_KurtImCheckingItNow:
 	.string "我现在正在调查呢。$"
 
 KurtsHouse_Text_KurtAhHaISee:
-	.string "啊哈！原来如此！这么说……\n"
-	.string ".$"
+	.string "啊哈！原来如此！这么说…….$"
 
 KurtsHouse_Text_KurtThisBallStartedToShake:
 	.string "{PLAYER}！\p"
@@ -349,12 +348,11 @@ KurtsHouse_Text_Kurt_Whatwasthat:
 	.string "我们去外面看看吧！$"
 
 KurtsHouse_Text_GranddaughterSlowpokeGone:
-	.string "呆呆兽们都不见了……是被\n"
-	.string "坏人抓走了吗？$"
+	.string "呆呆兽们都不见了……是被坏人抓走了\n"
+	.string "吗？$"
 
 KurtsHouse_Text_GranddaughterLonely:
-	.string "爷爷不在家……好寂寞啊。\n"
-	.string ".....$"
+	.string "爷爷不在家……好寂寞啊。.....$"
 
 KurtsHouse_Text_GranddaughterSlowpokeBack:
 	.string "爸爸送我的呆呆兽回来啦！\p"
@@ -373,8 +371,8 @@ KurtsHouse_Text_GranddaughterFun:
 	.string "做球真好玩！$"
 
 KurtsHouse_Text_GranddaughterSound:
-	.string "刚才的声音是从栎树林传来的吗？？\n"
-	.string "？？$"
+	.string "刚才的声音是从栎树林传来的吗？"
+	.string "？？？$"
 
 KurtsHouse_Text_Forest:
 	.string "你去栎树林看过了吗？听起来那边很\n"

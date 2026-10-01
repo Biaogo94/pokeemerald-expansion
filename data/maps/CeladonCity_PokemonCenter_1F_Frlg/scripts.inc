@@ -38,6 +38,6 @@ CeladonCity_PokemonCenter_1F_Text_RodeHereFromFuchsia::
 	.string "了。$"
 
 CeladonCity_PokemonCenter_1F_Text_GoToCyclingRoadIfIHadBike::
-	.string "要是我有辆自行车，我就能去单车路\n"
-	.string "！$"
+	.string "要是我有辆自行车，我就能去单车\n"
+	.string "路！$"
 

@@ -128,23 +128,21 @@ LilycoveCity_CoveLilyMotel_2F_Text_SeaBreezeTicklesHeart:
 LilycoveCity_CoveLilyMotel_2F_Text_NeverLeaveWithoutGameBoy:
 	.string "你永远不知道什么时候会碰上挑战的\n"
 	.string "人，\p"
-	.string "所以我出门的时候从来都带着GBA\n"
+	.string "所以我出门的时候从来都带着GBA"
 	.string "。$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_SnoozingPreferBattles:
-	.string "亚希达： …… …… ………… \n"
-	.string "…… ……Zzz……\p"
-	.string "…… …… ……嗯？！哦，抱歉抱\n"
-	.string "歉！我在打盹了！\p"
+	.string "亚希达： …… …… ………… …… ……Zzz……\p"
+	.string "…… …… ……嗯？！哦，抱歉抱歉！我在\n"
+	.string "打盹了！\p"
 	.string "我是来看看宝可梦华丽大赛的。\p"
-	.string "虽说看上去也确实挺有趣的，但是…\n"
-	.string "…\p"
-	.string "像我这样的纯粹主义者——更钟爱对\n"
-	.string "战与强大的训练家。\p"
+	.string "虽说看上去也确实挺有趣的，但是……\p"
+	.string "像我这样的纯粹主义者——更钟爱对战\n"
+	.string "与强大的训练家。\p"
 	.string "但这只是就我而言。\p"
 	.string "{PLAYER}{KUN}，希望\n"
-	.string "你能享受一切，包括道馆，华丽大赛\l"
-	.string "，对战帐篷，所有的一切！$"
+	.string "你能享受一切，包括道馆，华丽大\l"
+	.string "赛，对战帐篷，所有的一切！$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_ContestsDoTakeStrategy:
 	.string "亚希达：我想赢得华丽大赛也需要策\n"

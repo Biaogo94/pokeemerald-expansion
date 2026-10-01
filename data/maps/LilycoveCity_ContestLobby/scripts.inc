@@ -989,8 +989,8 @@ LilycoveCity_ContestLobby_Text_MakePokeblocksDifferentBerries:
 	.string "把做好的{POKEBLOCK}放\n"
 	.string "进盒子里吧。\p"
 	.string "做{POKEBLOCK}的时候，\n"
-	.string "每个人都要放入不同种类的树果才行\l"
-	.string "。$"
+	.string "每个人都要放入不同种类的树果才\l"
+	.string "行。$"
 
 LilycoveCity_ContestLobby_Text_YourPokemonSpurredMeToPaint:
 	.string "祝贺你！\p"
@@ -1031,8 +1031,7 @@ LilycoveCity_ContestLobby_Text_OkaySeeYou:
 	.string "好了，再会！$"
 
 LilycoveCity_ContestLobby_Text_TakeHomeButIdLikeToTakeToMuseum:
-	.string "噢……那么我想我只有把这带回家了\n"
-	.string "……\p"
+	.string "噢……那么我想我只有把这带回家了……\p"
 	.string "但你知道，我真的想把这送到美术馆\n"
 	.string "去……好吗？$"
 
@@ -1052,20 +1051,20 @@ LilycoveCity_ContestLobby_Text_WholeVarietyOfPokemonHere:
 	.string "因此我每天闲逛都会到这儿来。$"
 
 LilycoveCity_ContestLobby_Text_ContestFeastForEyes:
-	.string "哇，观看华丽大赛简直是场视觉盛宴\n"
-	.string "！\p"
+	.string "哇，观看华丽大赛简直是场视觉盛\n"
+	.string "宴！\p"
 	.string "你看过那些画里的宝可梦吗？$"
 
 LilycoveCity_ContestLobby_Text_ToughContestIsExtreme:
 	.string "强壮华丽大赛的表演非常非常精彩！\p"
-	.string "那摄人心魂的魅力……瀑布般的汗水\n"
-	.string "……我要晕倒了！$"
+	.string "那摄人心魂的魅力……瀑布般的汗水……\n"
+	.string "我要晕倒了！$"
 
 LilycoveCity_ContestLobby_Text_LavishedCareOnMon:
 	.string "我花费了大量精力日日夜夜照顾这只\n"
 	.string "宝可梦，\p"
-	.string "现在它的状态已经达到了巅峰。今天\n"
-	.string "，胜利是属于我的！$"
+	.string "现在它的状态已经达到了巅峰。今\n"
+	.string "天，胜利是属于我的！$"
 
 LilycoveCity_ContestLobby_Text_MadePokeblocksWithFamily:
 	.string "我和爸爸、妈妈还有姐姐一起做了\n"

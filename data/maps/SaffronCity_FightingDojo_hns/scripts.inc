@@ -290,8 +290,8 @@ SaffronCity_FightingDojo_Ability_Finish_Text:
 
 SaffronCity_FightingDojo_Ability_Text1:
 	.string "欢迎！我是特性专家！\p"
-	.string "只要25000元，我就能眨眼间帮\n"
-	.string "宝可梦切换特性！\p"
+	.string "只要25000元，我就能眨眼间帮宝可\n"
+	.string "梦切换特性！\p"
 	.string "你想让我给哪只宝可梦切换特性吗？$"
 
 SaffronCity_FightingDojo_Ability_Text_No:

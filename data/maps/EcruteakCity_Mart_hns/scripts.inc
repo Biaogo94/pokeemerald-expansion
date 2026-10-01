@@ -19,8 +19,8 @@ EcruteakCity_Mart_EventScript_Granny::
 
 EcruteakMart_Text_SuperNerd:
 	.string "我的伊布进化成了太阳伊布。\p"
-	.string "但我朋友的伊布却进化成了月亮伊布\n"
-	.string "。\p"
+	.string "但我朋友的伊布却进化成了月亮伊\n"
+	.string "布。\p"
 	.string "这是为什么呢？我们培育伊布的方法\n"
 	.string "明明是一样的呀……$"
 

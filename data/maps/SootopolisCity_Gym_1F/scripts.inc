@@ -193,20 +193,19 @@ SootopolisCity_Gym_1F_Text_GymGuidePostVictory:
 	.string "联盟出发吧！$"
 
 SootopolisCity_Gym_1F_Text_JuanIntro:
-	.string "让我问你。你知道吗？\l"
-	.string "唉，我不该这么拐弯抹角。\p"
-	.string "教会米可利一切宝可梦知识的人，\n"
-	.string "正是我。\p"
-	.string "我曾一度卸下\n"
-	.string "道馆馆主的职位。\p"
+	.string "让我问你。你知道吗？唉，我不该这\n"
+	.string "么拐弯抹角。\p"
+	.string "教会米可利一切宝可梦知识的人，正\n"
+	.string "是我。\p"
+	.string "我曾一度卸下道馆馆主的职位。\p"
 	.string "把道馆托付给了米可利。\p"
-	.string "然而，一个迫使我\n"
-	.string "复出的理由出现了。\p"
-	.string "啊，闲话到此为止。\n"
-	.string "让我们开始对战吧。\p"
+	.string "然而，一个迫使我复出的理由出现\n"
+	.string "了。\p"
+	.string "啊，闲话到此为止。让我们开始对战\n"
+	.string "吧。\p"
 	.string "请务必见证我们的技艺。\p"
-	.string "由宝可梦与我共同演绎的\n"
-	.string "水之大幻境！$"
+	.string "由宝可梦与我共同演绎的水之大幻\n"
+	.string "境！$"
 
 @ NOTE: This defeat text actually causes a buffer overflow. It's about 50 bytes too long for
 @ the gDisplayedStringBattle buffer that it's put into, and it stomps all over the gBattleTextBuffs
@@ -232,8 +231,8 @@ SootopolisCity_Gym_1F_Text_ReceivedRainBadge:
 SootopolisCity_Gym_1F_Text_ExplainRainBadgeTakeThis:
 	.string "有了雨滴徽章，你所有的宝可梦都会\n"
 	.string "完全服从你的每个指示。\p"
-	.string "你也能使用秘传招式攀瀑攀登瀑布了\n"
-	.string "。\p"
+	.string "你也能使用秘传招式攀瀑攀登瀑布\n"
+	.string "了。\p"
 	.string "然后，为了不让你忘记这场对战，收\n"
 	.string "下这个……$"
 
@@ -245,8 +244,8 @@ SootopolisCity_Gym_1F_Text_ExplainWaterPulse:
 	.string "…… …… ……$"
 
 SootopolisCity_Gym_1F_Text_RegisteredJuan:
-	.string "把道馆馆主亚当登记到宝可导航里了\n"
-	.string "。$"
+	.string "把道馆馆主亚当登记到宝可导航里\n"
+	.string "了。$"
 
 SootopolisCity_Gym_1F_Text_JuanPostBattle:
 	.string "收集了丰缘地区所有的道馆徽章的训\n"
@@ -275,8 +274,8 @@ SootopolisCity_Gym_1F_Text_JuanPreRematch:
 	.string "但我们年轻的台风又再度袭来考验我\n"
 	.string "们了！\p"
 	.string "好的，我的朋友，当然！\p"
-	.string "只要你想，我随时愿意与你共舞一曲\n"
-	.string "！$"
+	.string "只要你想，我随时愿意与你共舞一\n"
+	.string "曲！$"
 
 SootopolisCity_Gym_1F_Text_JuanRematchDefeat:
 	.string "啊哈哈哈，你是赢家！你又一次打败\n"
@@ -288,18 +287,16 @@ SootopolisCity_Gym_1F_Text_JuanPostRematch:
 	.string "我想要把我的外衣作礼物送给你，\p"
 	.string "但如果我没想错的话，你肯定也会拒\n"
 	.string "绝。\p"
-	.string "我的朋友，这正是你的高贵的表现啊\n"
-	.string "！$"
+	.string "我的朋友，这正是你的高贵的表现\n"
+	.string "啊！$"
 
 SootopolisCity_Gym_1F_Text_JuanRematchNeedTwoMons:
-	.string "阿丹：啊，道馆好不容易恢复了\n"
-	.string "往日的宁静……\p"
-	.string "可我们的小旋风又回来\n"
-	.string "考验我们了！\p"
-	.string "好吧，我的朋友，当然可以！\n"
-	.string "我很乐意与你共舞……\p"
-	.string "啊，不不不。\n"
-	.string "你只带了一只宝可梦。\p"
-	.string "希望你带上两只，或者更多的\n"
-	.string "宝可梦再来吧。$"
+	.string "阿丹：啊，道馆好不容易恢复了往日\n"
+	.string "的宁静……\p"
+	.string "可我们的小旋风又回来考验我们了！\p"
+	.string "好吧，我的朋友，当然可以！我很乐\n"
+	.string "意与你共舞……\p"
+	.string "啊，不不不。你只带了一只宝可梦。\p"
+	.string "希望你带上两只，或者更多的宝可梦\n"
+	.string "再来吧。$"
 

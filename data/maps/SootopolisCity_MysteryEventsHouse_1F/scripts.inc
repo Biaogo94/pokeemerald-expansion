@@ -175,8 +175,8 @@ SootopolisCity_MysteryEventsHouse_1F_Text_DoorAppearsToBeLocked:
 SootopolisCity_MysteryEventsHouse_1F_Text_ChallengeVisitingTrainer:
 	.string "一个叫{STR_VAR_1}的训\n"
 	.string "练家到我家来了，\p"
-	.string "你想挑战{STR_VAR_1}吗\n"
-	.string "？$"
+	.string "你想挑战{STR_VAR_1}\n"
+	.string "吗？$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_YouWontBattle:
 	.string "你不想对战？好失望，我真的很想看\n"

@@ -135,8 +135,8 @@ MtMoon_B2F_EventScript_Grunt4::
 
 MtMoon_B2F_Text_MiguelIntro::
 	.string "嘿，站住！\p"
-	.string "这些化石是我发现的！它们都是我的\n"
-	.string "！$"
+	.string "这些化石是我发现的！它们都是我\n"
+	.string "的！$"
 
 MtMoon_B2F_Text_MiguelDefeat::
 	.string "算了！我们平分吧！$"
@@ -166,8 +166,8 @@ MtMoon_B2F_Text_Grunt1PostBattle::
 	.string "单！$"
 
 MtMoon_B2F_Text_Grunt2Intro::
-	.string "我们火箭队是专门掠夺宝可梦的组织\n"
-	.string "！我们的力量强大到令人颤抖！$"
+	.string "我们火箭队是专门掠夺宝可梦的组\n"
+	.string "织！我们的力量强大到令人颤抖！$"
 
 MtMoon_B2F_Text_Grunt2Defeat::
 	.string "被我搞砸了！$"

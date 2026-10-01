@@ -49,8 +49,8 @@ FallarborTown_ContestHall_Text_DoAllRightInPreliminary:
 
 @ Unused
 FallarborTown_ContestHall_Text_MonAllTheseRibbons:
-	.string "看吧！我的宝可梦赢得了所有的奖章\n"
-	.string "！\p"
+	.string "看吧！我的宝可梦赢得了所有的奖\n"
+	.string "章！\p"
 	.string "你的宝可梦赢到过奖章吗？你可以在\n"
 	.string "你的宝可导航中查看。$"
 

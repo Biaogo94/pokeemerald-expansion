@@ -209,7 +209,7 @@ FuchsiaCity_SafariZone_Entrance_Text_WelcomeToSafariZone::
 	.string "欢迎来到野生原野区！$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlaySafariGameFor500::
-	.string "只要500，你就能参加原野区游戏\n"
+	.string "只要500，你就能参加原野区游戏"
 	.string "。\p"
 	.string "你可以在开阔的原野区里任意收服你\n"
 	.string "想要的宝可梦。\p"
@@ -225,8 +225,8 @@ FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls::
 	.string "了30个原野球。$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CallYouOnPAWhenYouRunOut::
-	.string "如果时间到了或者你的原野球用完了\n"
-	.string "，我们会通过广播告诉你。\p"
+	.string "如果时间到了或者你的原野球用完\n"
+	.string "了，我们会通过广播告诉你。\p"
 	.string "好了，祝你好运啦！$"
 
 FuchsiaCity_SafariZone_Entrance_Text_OkayPleaseComeAgain::
@@ -245,8 +245,8 @@ FuchsiaCity_SafariZone_Entrance_Text_GoodLuck::
 	.string "祝您好运！$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CatchFairShareComeAgain::
-	.string "您收服的够回本了吗？欢迎下次再来\n"
-	.string "！$"
+	.string "您收服的够回本了吗？欢迎下次再\n"
+	.string "来！$"
 
 FuchsiaCity_SafariZone_Entrance_Text_FirstTimeAtSafariZone::
 	.string "嗨！这是你第一次来野生原野区吗？$"

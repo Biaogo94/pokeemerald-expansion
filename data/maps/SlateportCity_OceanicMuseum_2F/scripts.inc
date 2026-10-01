@@ -291,8 +291,7 @@ SlateportCity_OceanicMuseum_2F_Text_Grunt1Defeat:
 	.string "啊啊！竟然被小孩打败了！$"
 
 SlateportCity_OceanicMuseum_2F_Text_BossGoingToBeFurious:
-	.string "完了，惨了……老大会大发雷霆的…\n"
-	.string "…$"
+	.string "完了，惨了……老大会大发雷霆的……$"
 
 SlateportCity_OceanicMuseum_2F_Text_LetMeTakeCareOfThis:
 	.string "哼，没用的家伙！放着我来！$"
@@ -308,8 +307,8 @@ SlateportCity_OceanicMuseum_2F_Text_MeddlingKid:
 
 SlateportCity_OceanicMuseum_2F_Text_CameToSeeWhatsTakingSoLong:
 	.string "我来看看你们抢个部件怎么能磨蹭那\n"
-	.string "么久——结果你们几个废物被个小鬼\l"
-	.string "头给拦住了？$"
+	.string "么久——结果你们几个废物被个小鬼头\l"
+	.string "给拦住了？$"
 
 SlateportCity_OceanicMuseum_2F_Text_ArchieWarning:
 	.string "我们是热爱大海的海洋队！\p"
@@ -319,13 +318,13 @@ SlateportCity_OceanicMuseum_2F_Text_ArchieWarning:
 	.string "等等，不对，你穿得和他们不一样。\p"
 	.string "…… …… ……\n"
 	.string "…… …… ……\p"
-	.string "宝可梦、人类……所有的生命都源自\n"
-	.string "海洋，\p"
+	.string "宝可梦、人类……所有的生命都源自海\n"
+	.string "洋，\p"
 	.string "因此我们海洋队致力于扩张海洋。\p"
 	.string "你不觉得吗？我们在进行着一项崇高\n"
 	.string "的事业。\p"
-	.string "算了……以你这个年纪还没法理解我\n"
-	.string "们的伟大理想。\p"
+	.string "算了……以你这个年纪还没法理解我们\n"
+	.string "的伟大理想。\p"
 	.string "但我警告你，如果敢再妨碍我们的计\n"
 	.string "划，\p"
 	.string "我决不会轻易放过你！\p"

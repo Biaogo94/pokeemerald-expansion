@@ -8,7 +8,7 @@ extern const u8 gText_AppealComboWentOverExcellently[];
 
 static const u8 *const sAppealResultTexts[] =
 {
-    [CONTEST_STRING_MORE_CONSCIOUS]            = COMPOUND_STRING("它变得比平时更加担心其他宝可梦了\n！{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
+    [CONTEST_STRING_MORE_CONSCIOUS]            = COMPOUND_STRING("它变得比平时更加担心其他宝可梦了！{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
     [CONTEST_STRING_NO_APPEAL]                 = COMPOUND_STRING("{STR_VAR_1}此后都无法\n再次进行表演了！\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
     [CONTEST_STRING_SETTLE_DOWN]               = COMPOUND_STRING("它稍微有些冷静下来了！\n{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
     [CONTEST_STRING_OBLIVIOUS_TO_OTHERS]       = COMPOUND_STRING("它变得完全不关注其他宝可梦了！\n{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
@@ -16,10 +16,10 @@ static const u8 *const sAppealResultTexts[] =
     [CONTEST_STRING_STOPPED_CARING]            = COMPOUND_STRING("它不再那么留意其他宝可梦了！\n{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
     [CONTEST_STRING_STARTLE_ATTEMPT]           = COMPOUND_STRING("它试图惊吓其他宝可梦！\n{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
     [CONTEST_STRING_DAZZLE_ATTEMPT]            = COMPOUND_STRING("它试图让其他宝可梦眼花缭乱！\n{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
-    [CONTEST_STRING_JUDGE_LOOK_AWAY2]          = COMPOUND_STRING("评委的目光从\n{STR_VAR_1}身上移开了\l！{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
+    [CONTEST_STRING_JUDGE_LOOK_AWAY2]          = COMPOUND_STRING("评委的目光从\n{STR_VAR_1}身上移开了！{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
     [CONTEST_STRING_UNNERVE_ATTEMPT]           = COMPOUND_STRING("它试图让下一只表演的宝可梦紧张！\n{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
-    [CONTEST_STRING_NERVOUS]                   = COMPOUND_STRING("{STR_VAR_1}紧张了起来\n！{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
-    [CONTEST_STRING_UNNERVE_WAITING]           = COMPOUND_STRING("它试图让所有之后表演的宝可梦紧张\n！{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
+    [CONTEST_STRING_NERVOUS]                   = COMPOUND_STRING("{STR_VAR_1}紧张了起来！{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
+    [CONTEST_STRING_UNNERVE_WAITING]           = COMPOUND_STRING("它试图让所有之后表演的宝可梦紧张！{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
     [CONTEST_STRING_TAUNT_WELL]                = COMPOUND_STRING("它嘲笑了气势良好的宝可梦！\n{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
     [CONTEST_STRING_REGAINED_FORM]             = COMPOUND_STRING("{STR_VAR_1}的气势回到\n了本来的样子！\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
     [CONTEST_STRING_JAM_WELL]                  = COMPOUND_STRING("它试图干扰那些表演引人注目的宝可\n梦！{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
@@ -47,7 +47,7 @@ static const u8 *const sAppealResultTexts[] =
     [CONTEST_STRING_HOT_STATUS]                = COMPOUND_STRING("{STR_VAR_1}气势不错，\n表演变得棒极了！\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
     [CONTEST_STRING_MOVE_UP_LINE]              = COMPOUND_STRING("它想要在下回合的表演里更早出场而\n走到了前面！{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
     [CONTEST_STRING_MOVE_BACK_LINE]            = COMPOUND_STRING("它想要在下回合的表演里更晚出场而\n后退了一步！{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
-    [CONTEST_STRING_SCRAMBLE_ORDER]            = COMPOUND_STRING("下个回合的表演顺序变得奇怪了起来\n！{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
+    [CONTEST_STRING_SCRAMBLE_ORDER]            = COMPOUND_STRING("下个回合的表演顺序变得奇怪了起来！{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}\l{PAUSE 15}"),
     [CONTEST_STRING_JUDGE_EXPECTANTLY2]        = gText_JudgeLookedAtMonExpectantly,
     [CONTEST_STRING_WENT_OVER_WELL]            = gText_AppealComboWentOverWell,
     [CONTEST_STRING_WENT_OVER_VERY_WELL]       = gText_AppealComboWentOverVeryWell,

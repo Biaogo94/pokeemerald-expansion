@@ -87,9 +87,8 @@ FiveIsland_WaterLabyrinth_Text_DontHaveSpaceInYourParty::
 
 @ Unused
 FiveIsland_WaterLabyrinth_Text_YouveComeBackForTheEgg::
-	.string "やあ\n"
-	.string "タマゴを　もらいに\l"
-	.string "きて　くれたんだね$"
+	.string "やあタマゴを　もらいにきて　くれ\n"
+	.string "たんだね$"
 
 FiveIsland_WaterLabyrinth_Text_GladIMetSomeoneLikeYou::
 	.string "我旅行的时候得到了那个蛋。\p"
@@ -100,10 +99,10 @@ FiveIsland_WaterLabyrinth_Text_CuteMonRemindsMeOfDaisy::
 	.string "{STR_VAR_2}。\p"
 	.string "看见它我就想起了我在旅行中遇到的\n"
 	.string "一个可爱的女孩。\p"
-	.string "她很温柔地照料着宝可梦……她真是\n"
-	.string "一个小天使。\p"
-	.string "那个小姑娘的名字好像是……她好像\n"
-	.string "叫奈奈美。$"
+	.string "她很温柔地照料着宝可梦……她真是一\n"
+	.string "个小天使。\p"
+	.string "那个小姑娘的名字好像是……她好像叫\n"
+	.string "奈奈美。$"
 
 FiveIsland_WaterLabyrinth_Text_AlizeIntro::
 	.string "这真是一个培育宝可梦的绝佳环境。$"
@@ -112,5 +111,5 @@ FiveIsland_WaterLabyrinth_Text_AlizeDefeat::
 	.string "你的宝可梦成长得很出色！$"
 
 FiveIsland_WaterLabyrinth_Text_AlizePostBattle::
-	.string "我想你有天赋成为一个很棒的饲育家\n"
-	.string "。$"
+	.string "我想你有天赋成为一个很棒的饲育\n"
+	.string "家。$"

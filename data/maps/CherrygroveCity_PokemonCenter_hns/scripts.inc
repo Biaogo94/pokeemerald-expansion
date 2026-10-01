@@ -49,9 +49,9 @@ CherryGrove_Pokecenter_Text_Gentleman:
 	.string "用。$"
 
 CherryGrove_Pokecenter_Text_Lass:
-	.string "俗话说“心急水不开”。但在宝可梦\n"
-	.string "中心盯着时钟看，时间不知不觉就飞\l"
-	.string "逝了！$"
+	.string "俗话说“心急水不开”。但在宝可梦中\n"
+	.string "心盯着时钟看，时间不知不觉就飞逝\l"
+	.string "了！$"
 
 CherryGrove_Pokecenter_Text_Chansey:
 	.string "吉利蛋：吉--利！$"

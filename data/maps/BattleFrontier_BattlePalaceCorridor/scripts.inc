@@ -120,15 +120,15 @@ BattleFrontier_BattlePalaceCorridor_Movement_AttendantEnterBattleRoom:
 	step_end
 
 BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame:
-	.string "人也好宝可梦也好，其实都是一样的\n"
-	.string "……\p"
+	.string "人也好宝可梦也好，其实都是一样\n"
+	.string "的……\p"
 	.string "每个个体的性格决定了他们擅长哪些\n"
 	.string "事情，不擅长哪些事情。$"
 
 BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes:
-	.string "与其勉强宝可梦做自己不喜欢的事情\n"
-	.string "，不如让它们去做喜欢并且擅长的事\l"
-	.string "。\p"
+	.string "与其勉强宝可梦做自己不喜欢的事\n"
+	.string "情，不如让它们去做喜欢并且擅长的\l"
+	.string "事。\p"
 	.string "站在你的宝可梦的角度思考一下它究\n"
 	.string "竟会喜欢什么样的招式。$"
 
@@ -142,6 +142,6 @@ BattleFrontier_BattlePalaceCorridor_Text_BeginningToUnderstandNature:
 	.string "动之间的关系了吗？$"
 
 BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYouAndMons:
-	.string "啊……你和你的宝可梦之间的牵绊是\n"
-	.string "多么强大啊……$"
+	.string "啊……你和你的宝可梦之间的牵绊是多\n"
+	.string "么强大啊……$"
 

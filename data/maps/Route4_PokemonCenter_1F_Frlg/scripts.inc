@@ -149,8 +149,7 @@ Route4_PokemonCenter_1F_EventScript_Newspaper::
 	end
 
 Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYou::
-	.string "好，在我的腰带上放置六个精灵球…\n"
-	.string "…\p"
+	.string "好，在我的腰带上放置六个精灵球……\p"
 	.string "没错，就是这样。你最多只能带六只\n"
 	.string "宝可梦随行。$"
 
@@ -173,8 +172,8 @@ Route4_PokemonCenter_1F_Text_SweetieBuyMagikarpForJust500::
 	.string "你肯定会买下它，对吧？$"
 
 Route4_PokemonCenter_1F_Text_PaidOutrageouslyForMagikarp::
-	.string "{PLAYER}付了500元，得\n"
-	.string "到了鲤鱼王……$"
+	.string "{PLAYER}付了500元，得到\n"
+	.string "了鲤鱼王……$"
 
 Route4_PokemonCenter_1F_Text_OnlyDoingThisAsFavorToYou::
 	.string "不？你说不？我已经给了你最大的优\n"

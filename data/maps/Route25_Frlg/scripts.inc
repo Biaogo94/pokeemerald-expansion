@@ -50,8 +50,8 @@ Route25_Text_KelseyPostBattle::
 	.string "我希望我的男朋友和你一样厉害。$"
 
 Route25_Text_ChadIntro::
-	.string "我有一种感觉……我感到我必须和你\n"
-	.string "战斗！$"
+	.string "我有一种感觉……我感到我必须和你战\n"
+	.string "斗！$"
 
 Route25_Text_ChadDefeat::
 	.string "我知道我也是会输的！$"
@@ -95,8 +95,8 @@ Route25_Text_NobPostBattle::
 	.string "梦。$"
 
 Route25_Text_WayneIntro::
-	.string "你打算去看正辉？首先，我们战斗吧\n"
-	.string "！$"
+	.string "你打算去看正辉？首先，我们战斗\n"
+	.string "吧！$"
 
 Route25_Text_WayneDefeat::
 	.string "你有两下子。$"
@@ -113,6 +113,6 @@ Route25_Text_MistyHighHopesAboutThisPlace::
 
 Route25_Text_AreYouHereAlone::
 	.string "嗨，你一个人来这儿吗？\p"
-	.string "如果你想去华蓝的海角……你最好找\n"
-	.string "个伴和你一起去。$"
+	.string "如果你想去华蓝的海角……你最好找个\n"
+	.string "伴和你一起去。$"
 

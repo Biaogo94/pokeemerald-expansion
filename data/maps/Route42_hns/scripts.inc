@@ -132,8 +132,7 @@ Route42_Movement_Eusine2:
 	step_end
 
 Route42_Text_EusineAdmireSuicune:
-	.string "米那君：水君……它是多么\n"
-	.string "英武！\p"
+	.string "米那君：水君……它是多么英武！\p"
 	.string "它是多么清澈！它是多么美丽！\p"
 	.string "而且它的身姿是何等迅捷！$"
 
@@ -142,17 +141,14 @@ Route42_Text_EusineJealous:
 	.string "只要是水君出现的地方，似乎总能看\n"
 	.string "到你的身影呢。\p"
 	.string "不过，这也无所谓。我对追求水君的\n"
-	.string "那份执着，可是远远超越你的..\l"
-	.string "....\p"
-	.string "我爷爷曾经……对神话传说\n"
-	.string "非常痴迷。\p"
+	.string "那份执着，可是远远超越你的......\p"
+	.string "我爷爷曾经……对神话传说非常痴迷。\p"
 	.string "我从小就从他那里听过许多关于水君\n"
 	.string "的故事。$"
 
 Route42_Text_EusineWontGiveUp:
-	.string "水君……在查明你的真正目\n"
-	.string "的之前，我是绝对不会放弃追踪你的\l"
-	.string "......\p"
+	.string "水君……在查明你的真正目的之前，我\n"
+	.string "是绝对不会放弃追踪你的......\p"
 	.string "你听到了吗！$"
 
 
@@ -236,8 +232,8 @@ Route42_Text_FisherTullyAfter:
 	.string "这才是钓鱼最棒的地方！$"
 
 Route42_Text_HikerBenjaminSeen:
-	.string "啊，在户外真是舒服！感觉好自由啊\n"
-	.string "！$"
+	.string "啊，在户外真是舒服！感觉好自由\n"
+	.string "啊！$"
 
 Route42_Text_HikerBenjaminBeaten:
 	.string "嘎哈哈！打得真痛快！$"

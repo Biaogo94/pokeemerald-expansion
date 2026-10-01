@@ -57,23 +57,23 @@ Route12_EventScript_FishingSign::
 	end
 
 Route12_Text_MonSprawledOutInSlumber::
-	.string "这只宝可梦伸展着四肢舒舒服服地着\n"
-	.string "。$"
+	.string "这只宝可梦伸展着四肢舒舒服服地\n"
+	.string "着。$"
 
 Text_SnorlaxWokeUp::
 	.string "卡比兽醒来了！\p"
 	.string "它发动着狂暴的攻击扑了过来！$"
 
 Text_SnorlaxReturnedToMountains::
-	.string "卡比兽平静了下来。它打了个大哈欠\n"
-	.string "…回山上去了。$"
+	.string "卡比兽平静了下来。它打了个大哈\n"
+	.string "欠…回山上去了。$"
 
 Text_WantToUsePokeFlute::
 	.string "要使用宝可梦笛子吗？$"
 
 Text_PlayedPokeFlute::
-	.string "{PLAYER}吹起了宝可梦笛子\n"
-	.string "。$"
+	.string "{PLAYER}吹起了宝可梦笛\n"
+	.string "子。$"
 
 Route12_Text_NedIntro::
 	.string "好！咬钩了！$"
@@ -112,8 +112,8 @@ Route12_Text_LucaDefeat::
 	.string "忘接插座了！$"
 
 Route12_Text_LucaPostBattle::
-	.string "水导电，所以电能打败海里的宝可梦\n"
-	.string "。$"
+	.string "水导电，所以电能打败海里的宝可\n"
+	.string "梦。$"
 
 Route12_Text_HankIntro::
 	.string "钓鱼白痴VS宝可梦小孩！$"
@@ -128,8 +128,8 @@ Route12_Text_HankPostBattle::
 
 Route12_Text_ElliotIntro::
 	.string "我热爱钓鱼，你可别冤枉了我。\p"
-	.string "但是我如果有更多的活可干就更好了\n"
-	.string "。$"
+	.string "但是我如果有更多的活可干就更好\n"
+	.string "了。$"
 
 Route12_Text_ElliotDefeat::
 	.string "事情没那么简单……$"
@@ -164,7 +164,7 @@ Route12_Text_JesDefeat::
 	.string "啊？$"
 
 Route12_Text_JesPostBattle::
-	.string "阿重 噢， 阿谀，原谅我，亲爱的\n"
+	.string "阿重 噢， 阿谀，原谅我，亲爱的"
 	.string "！$"
 
 Route12_Text_JesNotEnoughMons::

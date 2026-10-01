@@ -63,8 +63,8 @@ SafariZoneGate_EventScript_SlowpokeLady::
 
 
 SafariZone_Text_ForeignFeeling:
-	.string "狩猎地带……让我感觉就像\n"
-	.string "来到了异国他乡一样。\p"
+	.string "狩猎地带……让我感觉就像来到了异国\n"
+	.string "他乡一样。\p"
 	.string "真是一种奇妙的感觉呢。$"
 
 SafariZone_Text_SilentNPC:
@@ -72,8 +72,7 @@ SafariZone_Text_SilentNPC:
 	.string "(我不太爱说话。)$"
 
 SafariZone_Text_Kangaskhan:
-	.string "袋兽：.............\n"
-	.string ".....$"
+	.string "袋兽：..................$"
 
 SafariZone_Text_JigglypuffTrainer:
 	.string "这里的狩猎地带太棒了！我只顾着追\n"

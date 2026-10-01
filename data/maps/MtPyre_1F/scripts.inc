@@ -26,8 +26,7 @@ MtPyre_1F_EventScript_Man::
 	end
 
 MtPyre_1F_Text_TakeThisForYourOwnGood:
-	.string "送神山的山坡上有许多生灵在徘徊…\n"
-	.string "…\p"
+	.string "送神山的山坡上有许多生灵在徘徊……\p"
 	.string "无人得知将会发生何事。带上这个，\n"
 	.string "对你有好处。$"
 
@@ -36,8 +35,8 @@ MtPyre_1F_Text_ExplainCleanseTag:
 	.string "就能够避开一些野生宝可梦。$"
 
 MtPyre_1F_Text_ComeToPayRespects:
-	.string "你是来祭奠逝去的宝可梦的灵魂的吗\n"
-	.string "？\p"
+	.string "你是来祭奠逝去的宝可梦的灵魂的\n"
+	.string "吗？\p"
 	.string "你一定很怀念你的宝可梦。$"
 
 MtPyre_1F_Text_RestingPlaceOfZigzagoon:

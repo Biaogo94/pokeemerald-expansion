@@ -12,12 +12,11 @@ gBirchDexRatingText_SoYouveSeenAndCaught::
 	.string "唔唔……\p"
 	.string "见过了{STR_VAR_1}只宝\n"
 	.string "可梦，捕捉了\l"
-	.string "{STR_VAR_2}只宝可梦…\l"
-	.string "…$"
+	.string "{STR_VAR_2}只宝可梦……$"
 
 gBirchDexRatingText_LessThan10::
-	.string "多去草丛里转转，仔细寻找宝可梦吧\n"
-	.string "。$"
+	.string "多去草丛里转转，仔细寻找宝可梦\n"
+	.string "吧。$"
 
 gBirchDexRatingText_LessThan20::
 	.string "看来你已经掌握诀窍了，但是从现在\n"
@@ -35,8 +34,8 @@ gBirchDexRatingText_LessThan50::
 	.string "看起来挺好的，继续加油吧。$"
 
 gBirchDexRatingText_LessThan60::
-	.string "你用过钓竿吗？海里有很多宝可梦的\n"
-	.string "。$"
+	.string "你用过钓竿吗？海里有很多宝可梦\n"
+	.string "的。$"
 
 gBirchDexRatingText_LessThan70::
 	.string "除了捕捉宝可梦，让它们进化也是个\n"
@@ -47,8 +46,8 @@ gBirchDexRatingText_LessThan80::
 	.string "梦图鉴！$"
 
 gBirchDexRatingText_LessThan90::
-	.string "已经收集这么多了……你一定有这方\n"
-	.string "面的天赋！$"
+	.string "已经收集这么多了……你一定有这方面\n"
+	.string "的天赋！$"
 
 gBirchDexRatingText_LessThan100::
 	.string "你去过狩猎地带了吗？\p"
@@ -71,8 +70,8 @@ gBirchDexRatingText_LessThan140::
 	.string "训练家，它们就会进化。$"
 
 gBirchDexRatingText_LessThan150::
-	.string "没想到丰缘地区会有这么宝可梦种类\n"
-	.string "。$"
+	.string "没想到丰缘地区会有这么宝可梦种\n"
+	.string "类。$"
 
 gBirchDexRatingText_LessThan160::
 	.string "有时候，某些宝可梦会成群地大量出\n"
@@ -96,15 +95,14 @@ gBirchDexRatingText_LessThan200::
 	.string "很快就能完成了！$"
 
 gBirchDexRatingText_DexCompleted::
-	.string "恭喜你！你做成了完美的宝可梦图鉴\n"
-	.string "！$"
+	.string "恭喜你！你做成了完美的宝可梦图\n"
+	.string "鉴！$"
 
 gBirchDexRatingText_OnANationwideBasis::
 	.string "唔唔……从全国来看……\p"
 	.string "见过了{STR_VAR_1}只宝\n"
 	.string "可梦，捕捉了\l"
-	.string "{STR_VAR_2}只宝可梦…\l"
-	.string "…$"
+	.string "{STR_VAR_2}只宝可梦……$"
 
 @ FRLG
 
@@ -117,8 +115,8 @@ PokedexRating_Text_SeenXOwnedY::
 	.string "目前图鉴的收集进度如下：\p"
 	.string "遇见的宝可梦：\n"
 	.string "{STR_VAR_1}只，收服的\l"
-	.string "宝可梦：{STR_VAR_2}只\l"
-	.string "。\p"
+	.string "宝可梦：{STR_VAR_2}\l"
+	.string "只。\p"
 	.string "{FONT_NORMAL}大木博\n"
 	.string "士的评价：$"
 
@@ -128,28 +126,28 @@ PokedexRating_Text_LessThan10::
 
 PokedexRating_Text_LessThan20::
 	.string "看起来你已经步入正轨了！\p"
-	.string "我已经把秘传学习器“闪光”交给助\n"
-	.string "手了。一定要记得去拿哦！$"
+	.string "我已经把秘传学习器“闪光”交给助手\n"
+	.string "了。一定要记得去拿哦！$"
 
 PokedexRating_Text_LessThan30::
 	.string "你的宝可梦图鉴还需要再充实一些！\p"
-	.string "试着去收服更多不同种类的宝可梦吧\n"
-	.string "！$"
+	.string "试着去收服更多不同种类的宝可梦\n"
+	.string "吧！$"
 
 PokedexRating_Text_LessThan40::
 	.string "很好，看得出你非常努力！\p"
-	.string "我已经把“探宝器”交给了助手。一\n"
-	.string "定要记得去领哦！$"
+	.string "我已经把“探宝器”交给了助手。一定\n"
+	.string "要记得去领哦！$"
 
 PokedexRating_Text_LessThan50::
 	.string "你的图鉴收集得相当顺利嘛！\p"
-	.string "我已经把“护符金币”交给了助手。\n"
-	.string "一定要记得去拿！$"
+	.string "我已经把“护符金币”交给了助手。一\n"
+	.string "定要记得去拿！$"
 
 PokedexRating_Text_LessThan60::
 	.string "啊，你终于突破50种了！\p"
-	.string "我已经把“学习装置”交给了助手。\n"
-	.string "一定要记得去领哦！$"
+	.string "我已经把“学习装置”交给了助手。一\n"
+	.string "定要记得去领哦！$"
 
 PokedexRating_Text_LessThan70::
 	.string "嗬嗬！这本图鉴变得越来越有模有样\n"
@@ -161,15 +159,15 @@ PokedexRating_Text_LessThan80::
 	.string "到更多宝可梦的！$"
 
 PokedexRating_Text_LessThan90::
-	.string "太棒了！让我猜猜……你平\n"
-	.string "时就很喜欢收集东西，对吧？$"
+	.string "太棒了！让我猜猜……你平时就很喜欢\n"
+	.string "收集东西，对吧？$"
 
 PokedexRating_Text_LessThan100::
 	.string "真令人佩服！这一定相当不容易吧！$"
 
 PokedexRating_Text_LessThan110::
-	.string "终于突破100种了！没想到你居然\n"
-	.string "这么厉害！$"
+	.string "终于突破100种了！没想到你居然这\n"
+	.string "么厉害！$"
 
 PokedexRating_Text_LessThan120::
 	.string "连宝可梦的进化形都收集到了！太棒\n"
@@ -188,15 +186,15 @@ PokedexRating_Text_LessThan150::
 	.string "是宝可梦博士了！$"
 
 PokedexRating_Text_Complete::
-	.string "你的宝可梦图鉴彻底完成了！恭喜你\n"
-	.string "！！$"
+	.string "你的宝可梦图鉴彻底完成了！恭喜\n"
+	.string "你！！$"
 
 PokedexRating_Text_NationalDexSeenXOwnedY::
 	.string "而你的全国图鉴则是：\p"
 	.string "看见的宝可梦有\n"
 	.string "{STR_VAR_1}只，捉到的\l"
-	.string "宝可梦有{STR_VAR_2}只\l"
-	.string "。$"
+	.string "宝可梦有{STR_VAR_2}\l"
+	.string "只。$"
 
 PokedexRating_Text_LookForwardToFilledNationalDex::
 	.string "我很期待看到你填满全国图鉴的那一\n"
@@ -205,16 +203,16 @@ PokedexRating_Text_LookForwardToFilledNationalDex::
 PokedexRating_Text_YouveCompletedDex::
 	.string "终于……\p"
 	.string "你终于彻底完成了宝可梦图鉴！\p"
-	.string "太壮观了！这真是一项了不起的壮举\n"
-	.string "！$"
+	.string "太壮观了！这真是一项了不起的壮\n"
+	.string "举！$"
 
 PokedexRating_Text_Wroooaaarrr::
 	.string "吼噢噢噢噢噢噢噢--！$"
 
 PokedexRating_Text_ThankYouMadeDreamReality::
 	.string "谢谢你，{PLAYER}！衷心地\n"
-	.string "感谢你！是你让我的梦想成为了现实\l"
-	.string "！$"
+	.string "感谢你！是你让我的梦想成为了现\l"
+	.string "实！$"
 
 PokedexRating_Text_LoveSeeingYourPokedex::
 	.string "大木：啊，欢迎！\p"
@@ -228,9 +226,10 @@ PokedexRating_Text_LoveSeeingYourPokedex::
 @ HnS (mostly directly copied from HGSS)
 
 gElmDexRatingText_GoFindMrPokemon::
-	.string "空木博士：啊，{PLAYER}{KUN}！\p"
-	.string "找到宝可梦爷爷的家了吗？\n"
-	.string "就在30号道路上，\p"
+	.string "空木博士：啊，{PLAYER}\n"
+	.string "{KUN}！\p"
+	.string "找到宝可梦爷爷的家了吗？就在30号\n"
+	.string "道路上，\p"
 	.string "你一定能找到的！$"
 
 gElmDexRatingText_Robbery::
@@ -247,8 +246,8 @@ gElmDexRatingText_AreYouCurious::
 gElmDexRatingText_AreYouCuriousNational::
 	.string "空木博士：啊，{PLAYER}\n"
 	.string "{KUN}！\p"
-	.string "想知道你的全国图鉴完成得如何了吗\n"
-	.string "？$"
+	.string "想知道你的全国图鉴完成得如何了\n"
+	.string "吗？$"
 
 gJohtoDexRatingText_LessThan10::
 	.string "试着去草丛里找找宝可梦吧！$"
@@ -265,8 +264,8 @@ gJohtoDexRatingText_LessThan50::
 	.string "嗯，你捕捉宝可梦的节奏相当不错！$"
 
 gJohtoDexRatingText_LessThan65::
-	.string "看得到你的努力--你的图鉴已经逐\n"
-	.string "渐成形了。$"
+	.string "看得到你的努力--你的图鉴已经逐渐\n"
+	.string "成形了。$"
 
 gJohtoDexRatingText_LessThan80::
 	.string "你培育得很好。不过你也知道吧，有\n"
@@ -307,8 +306,8 @@ gJohtoDexRatingText_LessThan200::
 	.string "人的力量可是很难完成的哦！$"
 
 gJohtoDexRatingText_LessThan215::
-	.string "哇！已经达到200只了！你的图鉴\n"
-	.string "真了不起！$"
+	.string "哇！已经达到200只了！你的图鉴真\n"
+	.string "了不起！$"
 
 @ Taken from Platinum
 gJohtoDexRatingText_LessThan230::
@@ -340,12 +339,12 @@ gJohtoDexRatingText_Complete::
 	.string "哇！城都图鉴已经全部完成了！\p"
 	.string "多亏了你，{PLAYER}，城都\n"
 	.string "图鉴彻底完成了！\p"
-	.string "太震撼了……你交出了一份\n"
-	.string "不可思议的答卷！$"
+	.string "太震撼了……你交出了一份不可思议的\n"
+	.string "答卷！$"
 
 gNationalDexRatingText_LessThan100::
-	.string "距离目标虽然还很远，但千万别放弃\n"
-	.string "！继续加油！$"
+	.string "距离目标虽然还很远，但千万别放\n"
+	.string "弃！继续加油！$"
 
 gNationalDexRatingText_LessThan150::
 	.string "别忘了，有些宝可梦只会在特定的时\n"
@@ -378,8 +377,8 @@ gNationalDexRatingText_LessThan400::
 	.string "试着把它们全都找出来吧！$"
 
 gNationalDexRatingText_LessThan435::
-	.string "哇，你竟然收集了这么多……\n"
-	.string "老实说，连我都有些惊讶了！$"
+	.string "哇，你竟然收集了这么多……老实说，\n"
+	.string "连我都有些惊讶了！$"
 
 gNationalDexRatingText_LessThan465::
 	.string "现在正是紧要关头！可千万不要灰心\n"
@@ -396,8 +395,7 @@ gNationalDexRatingText_LessThanMaxDex::
 gNationalDexRatingText_Complete::
 	.string "太完美了！这份全国图鉴实在太不可\n"
 	.string "思议了！\p"
-	.string "哇……\n"
-	.string "{PAUSE 10}\p"
+	.string "哇……{PAUSE 10}\p"
 	.string "你出色地回应了我的期待！\p"
 	.string "不，你甚至超越了我的想象，\n"
 	.string "{PLAYER}。你已经是一位了\l"

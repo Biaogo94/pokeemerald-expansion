@@ -487,8 +487,8 @@ Route109_Text_BrineySailToDewfordQuestion:
 
 Route109_Text_BrineyDewfordItIs:
 	.string "哈奇：武斗镇是吗？\p"
-	.string "起锚咯！小皮，亲爱的，我们出海了\n"
-	.string "！$"
+	.string "起锚咯！小皮，亲爱的，我们出海\n"
+	.string "了！$"
 
 Route109_Text_BrineyDeliverDevonGoods:
 	.string "哈奇：那么你去送得文的物品吧，我\n"
@@ -549,7 +549,7 @@ Route109_Text_SeashoreHouseSign:
 
 Route109_Text_TrainerTipsSign:
 	.string "有用的公告牌！\p"
-	.string "同样等级的宝可梦实力并不完全相同\n"
-	.string "。\p"
+	.string "同样等级的宝可梦实力并不完全相\n"
+	.string "同。\p"
 	.string "据说训练家训练出的宝可梦比野生宝\n"
 	.string "可梦更强。$"

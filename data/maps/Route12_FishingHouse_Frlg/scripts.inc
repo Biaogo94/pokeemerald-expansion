@@ -100,8 +100,8 @@ Route12_FishingHouse_EventScript_MagikarpRecordSignRecordSet::
 
 Route12_FishingHouse_Text_DoYouLikeToFish::
 	.string "我是钓鱼大师的年轻弟弟。\p"
-	.string "我真的很爱钓鱼！没有它我活不下去\n"
-	.string "。\p"
+	.string "我真的很爱钓鱼！没有它我活不下\n"
+	.string "去。\p"
 	.string "告诉我吧，你喜欢钓鱼吗？$"
 
 Route12_FishingHouse_Text_TakeThisAndFish::
@@ -121,19 +121,19 @@ Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMe::
 	.string "现在，我还有一个请求。\p"
 	.string "如果你用破钓竿钓到了大鲤鱼王。就\n"
 	.string "给我看看吧，\p"
-	.string "我不但喜欢钓鱼还喜欢看大的鲤鱼王\n"
-	.string "。$"
+	.string "我不但喜欢钓鱼还喜欢看大的鲤鱼\n"
+	.string "王。$"
 
 Route12_FishingHouse_Text_OhThatsDisappointing::
 	.string "哦……太令人失望了……$"
 
 Route12_FishingHouse_Text_TryFishingBringMeMagikarp::
-	.string "嗨 {PLAYER}你钓过鱼了吗\n"
-	.string "？\p"
-	.string "尝试用超级钓竿在不同的地方钓鱼吧\n"
-	.string "。\p"
-	.string "在不同的地方你会钓到不同的宝可梦\n"
-	.string "。\p"
+	.string "嗨 {PLAYER}你钓过鱼了\n"
+	.string "吗？\p"
+	.string "尝试用超级钓竿在不同的地方钓鱼\n"
+	.string "吧。\p"
+	.string "在不同的地方你会钓到不同的宝可\n"
+	.string "梦。\p"
 	.string "还有，不要忘了带大的鲤鱼王给我看\n"
 	.string "喔。$"
 

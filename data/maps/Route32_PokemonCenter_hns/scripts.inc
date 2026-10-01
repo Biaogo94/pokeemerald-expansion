@@ -63,6 +63,5 @@ Route32_Pokecenter_Text_FishingGuruAfter:
 
 Route32_Pokecenter_Text_CooltrainerF:
 	.string "该让我的宝可梦携带什么好呢？\p"
-	.string "也许是能提升攻击威力的道具...\n"
-	.string "...$"
+	.string "也许是能提升攻击威力的道具......$"
 

@@ -41,18 +41,17 @@ FuchsiaCity_PokemonCenter_EventScript_JanineClone::
 	end
 
 FuchsiaCity_PokemonCenter1F_Text_CooltrainerM:
-	.string "哎呀！你拿着最新型的宝可梦图鉴呢\n"
-	.string "。\p"
+	.string "哎呀！你拿着最新型的宝可梦图鉴\n"
+	.string "呢。\p"
 	.string "是大木博士给你的吗？$"
 
 FuchsiaCity_PokemonCenter1F_Text_CooltrainerF:
 	.string "我在道馆里被吓了一大跳。\p"
-	.string "里面有好多个长得一模一样的女孩子\n"
-	.string "。$"
+	.string "里面有好多个长得一模一样的女孩\n"
+	.string "子。$"
 
 FuchsiaCity_PokemonCenter1F_Text_JanineImpersonator1:
-	.string "我是阿杏！忍法变身之术……\n"
-	.string ".嘭！$"
+	.string "我是阿杏！忍法变身之术…….嘭！$"
 
 FuchsiaCity_PokemonCenter1F_Text_JanineImpersonator2:
 	.string "你看？我现在看起来简直跟她一模一\n"

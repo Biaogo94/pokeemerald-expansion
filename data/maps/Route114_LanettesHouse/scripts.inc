@@ -48,10 +48,10 @@ Route114_LanettesHouse_EventScript_PC::
 Route114_LanettesHouse_Text_EverythingClutteredKeepThis:
 	.string "真由美：哦！{PLAYER}\n"
 	.string "{KUN}！\p"
-	.string "对不起这里太乱了……当我全神贯注\n"
-	.string "于研究时东西就会这样了……\p"
-	.string "这很难为情……请帮我保守秘密作为\n"
-	.string "交换给你这个。$"
+	.string "对不起这里太乱了……当我全神贯注于\n"
+	.string "研究时东西就会这样了……\p"
+	.string "这很难为情……请帮我保守秘密作为交\n"
+	.string "换给你这个。$"
 
 Route114_LanettesHouse_Text_OrganizeYourBoxes:
 	.string "关于宝可梦寄放系统给你一些建议吧\p"
@@ -59,11 +59,11 @@ Route114_LanettesHouse_Text_OrganizeYourBoxes:
 	.string "可梦存在哪。$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage1:
-	.string "真由美的研究注释。关于盒子的信息\n"
-	.string "。\p"
+	.string "真由美的研究注释。关于盒子的信\n"
+	.string "息。\p"
 	.string "每个盒子可以保管30只宝可梦。\p"
-	.string "每个训练家可以在电脑系统里保管4\n"
-	.string "20只宝可梦。\p"
+	.string "每个训练家可以在电脑系统里保管420只\n"
+	.string "宝可梦。\p"
 	.string "继续阅读吗？$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage2:
@@ -94,6 +94,6 @@ Route114_LanettesHouse_Text_EmailFromBill:
 	.string "很骄傲。\p"
 	.string "“希望你会继续做出寄放系统方面的\n"
 	.string "研究。\p"
-	.string "“来自正辉…… …… …… ……\n"
+	.string "“来自正辉…… …… …… ……"
 	.string "”$"
 

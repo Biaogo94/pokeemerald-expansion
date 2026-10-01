@@ -50,8 +50,8 @@ SevenIsland_Mart_Text_PreparationsCompleteForRuins::
 
 SevenIsland_Mart_Text_NeedToFishOnSevenIsland::
 	.string "我会去七之岛钓鱼。\p"
-	.string "这样的话我的七岛钓鱼之旅就结束了\n"
-	.string "。\p"
+	.string "这样的话我的七岛钓鱼之旅就结束\n"
+	.string "了。\p"
 	.string "不过，我要先买一些精灵球以备不时\n"
 	.string "之需。$"
 

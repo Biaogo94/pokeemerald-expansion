@@ -44,8 +44,7 @@ Route110_TrickHousePuzzle6_EventScript_Sebastian::
 
 Route110_TrickHousePuzzle6_Text_WroteSecretCodeLockOpened:
 	.string "{PLAYER}在门上写下密码。\p"
-	.string "“戏法大王是我的生命”…… ……\n"
-	.string " …… ……\p"
+	.string "“戏法大王是我的生命”…… …… …… ……\p"
 	.string "锁“咔嗒”一声开了！$"
 
 Route110_TrickHousePuzzle6_Text_SophiaIntro:
@@ -74,8 +73,8 @@ Route110_TrickHousePuzzle6_Text_SebastianIntro:
 	.string "我快要被这些旋转门弄晕了……$"
 
 Route110_TrickHousePuzzle6_Text_SebastianDefeat:
-	.string "周围的一切都在转啊转啊……我再也\n"
-	.string "受不了了……$"
+	.string "周围的一切都在转啊转啊……我再也受\n"
+	.string "不了了……$"
 
 Route110_TrickHousePuzzle6_Text_SebastianPostBattle:
 	.string "你好像没受影响啊，还是说你只是摆\n"

@@ -86,8 +86,8 @@ RocketHideout_B3F_Text_LanceGetPassword:
     .string "个密码。\p"
     .string "只有极少数的火箭队成员才知道这些\n"
     .string "密码。\p"
-    .string "那边那个火箭队队员非常“客气”地\n"
-    .string "告诉了我。\p"
+    .string "那边那个火箭队队员非常“客气”地告\n"
+    .string "诉了我。\p"
     .string "{PLAYER}，我们去找密码\n"
     .string "吧。$"
 
@@ -99,8 +99,7 @@ RocketHideout_B3F_EventScript_RocketKO::
 	end
 
 RocketHideout_B3F_Text_B3FRocket:
-    .string "呜呃……那个穿披风的家伙\n"
-    .string "强得离谱……$"
+    .string "呜呃……那个穿披风的家伙强得离谱……$"
 
 
 RocketHideout_B3F_Trigger_MurkrowStairs::
@@ -281,11 +280,10 @@ RocketHideout_B3F_Text_Rival:
     .string "......\p"
     .string "我不是告诉过你，我要彻底摧毁火箭\n"
     .string "队吗？\p"
-    .string "……告诉我，那个带着龙宝\n"
-    .string "可梦、披着披风的家伙到底是谁？\p"
+    .string "……告诉我，那个带着龙宝可梦、披着\n"
+    .string "披风的家伙到底是谁？\p"
     .string "我的宝可梦完全不是他的对手。\p"
-    .string "可最让我介意的是他说的话...\n"
-    .string "...\p"
+    .string "可最让我介意的是他说的话......\p"
     .string "他说我对自己的宝可梦缺乏足够的爱\n"
     .string "与信任。\p"
     .string "这帮没用的家伙自己不中用，凭什么\n"
@@ -293,8 +291,8 @@ RocketHideout_B3F_Text_Rival:
     .string "输给那种滥好人，真让人火大。\p"
     .string "但我忍不住怀疑自己。\p"
     .string "难道真是我做错了什么吗？\p"
-    .string "难道真的是所谓的“爱”，让他的队\n"
-    .string "伍变得如此强大吗？$"
+    .string "难道真的是所谓的“爱”，让他的队伍\n"
+    .string "变得如此强大吗？$"
 
 @=======[PETREL]==============================================================================================================================
 
@@ -567,8 +565,7 @@ RocketHideout_B3F_Text_PetrelIntro:
     .string "哈！$"
 
 RocketHideout_B3F_Text_PetrelDisbelief:
-    .string "……咦？声音一点都不像坂\n"
-    .string "木老大？\p"
+    .string "……咦？声音一点都不像坂木老大？\p"
     .string "连长相都完全不像？怎么会？！我明\n"
     .string "明那么努力去模仿他了！$"
 
@@ -578,23 +575,22 @@ RocketHideout_B3F_Text_PetrelReveal:
     .string "吧。\p"
     .string "哼，别做梦了。那个房间受特殊密码\n"
     .string "保护。\p"
-    .string "密码就是“坂木老大万岁”。没想到\n"
-    .string "我会直接告诉你吧？\p"
+    .string "密码就是“坂木老大万岁”。没想到我\n"
+    .string "会直接告诉你吧？\p"
     .string "不过就算知道了密码也无济于事。\p"
     .string "那扇门只有在我亲口念出密码时才会\n"
     .string "打开。它只认我的声音！$"
 
 RocketHideout_B3F_Text_PetrelBeaten:
-    .string "我……我竟然毫无还手之力\n"
-    .string "......\p"
+    .string "我……我竟然毫无还手之力......\p"
     .string "坂木老大，请原谅我……$"
 
 RocketHideout_B3F_Text_PetrelAfterBattle:
-    .string "拉姆达：自从三年前解散火箭队之后\n"
-    .string "，我们的坂木老大就一直下落不明。\p"
+    .string "拉姆达：自从三年前解散火箭队之\n"
+    .string "后，我们的坂木老大就一直下落不\l"
+    .string "明。\p"
     .string "但我们坚信，他一定是在等待让我们\n"
-    .string "东山再起的最佳时机……哇\l"
-    .string "哈哈哈！\p"
+    .string "东山再起的最佳时机……哇哈哈哈！\p"
     .string "虽然输给了你，但这改变不了你根本\n"
     .string "进不去发射机室的事实！\p"
     .string "想开门就必须得有我的声音！$"
@@ -648,8 +644,7 @@ RocketHideout_B3F_Text_GruntM28Beaten:
 RocketHideout_B3F_Text_GruntM28After:
     .string "哎嘿嘿嘿！\p"
     .string "老大房间的密码嘛……\p"
-    .string "呃……我想想，好像是拉达\n"
-    .string "之尾。$"
+    .string "呃……我想想，好像是拉达之尾。$"
 
 RocketHideout_B3F_Text_ScientistRossSeen:
     .string "我以前在西尔佛公司工作，但现在负\n"
@@ -658,12 +653,10 @@ RocketHideout_B3F_Text_ScientistRossSeen:
     .string "教训一下。$"
 
 RocketHideout_B3F_Text_ScientistRossBeaten:
-    .string "只是战术上的失误才让我输了...\n"
-    .string "...$"
+    .string "只是战术上的失误才让我输了......$"
 
 RocketHideout_B3F_Text_ScientistRossAfter:
-    .string "能让宝可梦陷入狂躁的电波……\n"
-    .string "..\p"
+    .string "能让宝可梦陷入狂躁的电波……..\p"
     .string "我的实验取得了彻底的成功。\p"
     .string "我的升职已成定局。输掉这一场根本\n"
     .string "就无关紧要。$"

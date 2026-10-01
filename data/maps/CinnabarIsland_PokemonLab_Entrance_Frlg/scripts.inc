@@ -35,14 +35,14 @@ CinnabarIsland_Gym_Text_PhotoOfBlaineAndFuji::
 	.string "他们咧着嘴笑着肩并肩的站在一起。$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_StudyMonsExtensively::
-	.string "我们每天都要学习大量宝可梦的知识\n"
-	.string "。\p"
+	.string "我们每天都要学习大量宝可梦的知\n"
+	.string "识。\p"
 	.string "人们经常带着稀有的宝可梦来作为对\n"
 	.string "我们的考验。$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_PhotoOfLabFounderDrFuji::
-	.string "一张研究所的创始人的照片……富士\n"
-	.string "博士？！$"
+	.string "一张研究所的创始人的照片……富士博\n"
+	.string "士？！$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_MeetingRoomSign::
 	.string "宝可梦实验室会客室$"

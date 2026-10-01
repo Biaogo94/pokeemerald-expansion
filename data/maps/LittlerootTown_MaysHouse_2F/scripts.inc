@@ -313,30 +313,30 @@ RivalsHouse_2F_Text_MayWhoAreYou:
 	.string "...... ...... ...... ......\n"
 	.string "...... ...... ...... ......\p"
 	.string "啊，你是{PLAYER}\n"
-	.string "{KUN}呀。原来搬家就是今天啊\l"
-	.string "。\p"
-	.string "那个......我是小遥。很高兴\n"
-	.string "认识你！\p"
-	.string "我......我的梦想是和全世界\n"
-	.string "的宝可梦都成为好朋友。\p"
+	.string "{KUN}呀。原来搬家就是今天\l"
+	.string "啊。\p"
+	.string "那个......我是小遥。很高兴认识\n"
+	.string "你！\p"
+	.string "我......我的梦想是和全世界的宝可\n"
+	.string "梦都成为好朋友。\p"
 	.string "我听爸爸小田卷博士提起过你呢，\n"
 	.string "{PLAYER}{KUN}。\p"
 	.string "我一直希望{PLAYER}\n"
 	.string "{KUN}是个好相处的人，我们可\l"
 	.string "以成为朋友呢。\p"
-	.string "啊，我是不是有点傻呀？我....\n"
-	.string "..我们才刚认识呢，\l"
-	.string "{PLAYER}{KUN}。\p"
+	.string "啊，我是不是有点傻呀？我......我\n"
+	.string "们才刚认识呢，{PLAYER}\l"
+	.string "{KUN}。\p"
 	.string "诶嘿嘿......\p"
 	.string "糟糕！我都给忘了！\p"
-	.string "我本来得去帮爸爸捕捉野生宝可梦的\n"
-	.string "！\p"
+	.string "我本来得去帮爸爸捕捉野生宝可梦\n"
+	.string "的！\p"
 	.string "{PLAYER}{KUN}，那我\n"
 	.string "们回头见咯！$"
 
 RivalsHouse_2F_Text_MayGettingReady:
-	.string "宝可梦的体力完全回复了……道具也\n"
-	.string "都准备好了，还有……$"
+	.string "宝可梦的体力完全回复了……道具也都\n"
+	.string "准备好了，还有……$"
 
 RivalsHouse_2F_Text_BrendanWhoAreYou:
 	.string "喂！你......\p"
@@ -356,16 +356,16 @@ RivalsHouse_2F_Text_BrendanWhoAreYou:
 	.string "下次再说吧，好吗？$"
 
 RivalsHouse_2F_Text_BrendanGettingReady:
-	.string "宝可梦的体力完全回复了……道具也\n"
-	.string "都打包好了，还有……$"
+	.string "宝可梦的体力完全回复了……道具也都\n"
+	.string "打包好了，还有……$"
 
 RivalsHouse_2F_Text_ItsRivalsPokeBall:
 	.string "是{RIVAL}的精灵球！\p"
 	.string "最好不要乱动。$"
 
 RivalsHouse_2F_Text_MayJustCheckingMyPokedex:
-	.string "小遥：{PLAYER}{KUN}\n"
-	.string "！\p"
+	.string "小遥：{PLAYER}\n"
+	.string "{KUN}！\p"
 	.string "我在看我的宝可梦图鉴呢。\p"
 	.string "有很多我看见却没捕捉的宝可梦，\p"
 	.string "还有些我想可能会进化。\p"
@@ -374,8 +374,8 @@ RivalsHouse_2F_Text_MayJustCheckingMyPokedex:
 RivalsHouse_2F_Text_MayWhereShouldIGoNext:
 	.string "小遥：不知道下面该去哪儿捕捉宝可\n"
 	.string "梦呢？\p"
-	.string "如果我们能偶然遇上，那会很有趣吧\n"
-	.string "，{PLAYER}{KUN}？$"
+	.string "如果我们能偶然遇上，那会很有趣\n"
+	.string "吧，{PLAYER}{KUN}？$"
 
 RivalsHouse_2F_Text_BrendanJustCheckingMyPokedex:
 	.string "小悠：嗨，{PLAYER}，\p"

@@ -161,8 +161,8 @@ BattlePyramid_Text_ExitHintLeft2::
 
 BattlePyramid_Text_ExitHintRight2::
 	.string "出口位于这层的\n"
-	.string "{RIGHT_ARROW} 方向\l"
-	.string "。$"
+	.string "{RIGHT_ARROW} 方\l"
+	.string "向。$"
 
 BattlePyramid_Text_ExitHintDown2::
 	.string "出口位于这层的\n"
@@ -174,8 +174,8 @@ BattlePyramid_Text_ExitHintUp3::
 
 BattlePyramid_Text_ExitHintLeft3::
 	.string "出口在通过\n"
-	.string "{LEFT_ARROW} 的路上\l"
-	.string "。$"
+	.string "{LEFT_ARROW} 的路\l"
+	.string "上。$"
 
 BattlePyramid_Text_ExitHintRight3::
 	.string "出口在通过\n"
@@ -184,8 +184,8 @@ BattlePyramid_Text_ExitHintRight3::
 
 BattlePyramid_Text_ExitHintDown3::
 	.string "出口在通过\n"
-	.string "{DOWN_ARROW} 的路上\l"
-	.string "。$"
+	.string "{DOWN_ARROW} 的路\l"
+	.string "上。$"
 
 BattlePyramid_Text_ExitHintUp4::
 	.string "在这层，出口位于\n"
@@ -233,8 +233,8 @@ BattlePyramid_Text_ExitHintLeft6::
 
 BattlePyramid_Text_ExitHintRight6::
 	.string "出口出现在\n"
-	.string "{RIGHT_ARROW} 方向\l"
-	.string "。$"
+	.string "{RIGHT_ARROW} 方\l"
+	.string "向。$"
 
 BattlePyramid_Text_ExitHintDown6::
 	.string "出口出现在\n"
@@ -428,8 +428,8 @@ BattlePyramid_Text_OneItemRemaining5::
 	.string "……$"
 
 BattlePyramid_Text_ZeroItemsRemaining5::
-	.string "在这层金字塔中，我听说这儿没道具\n"
-	.string "……$"
+	.string "在这层金字塔中，我听说这儿没道\n"
+	.string "具……$"
 
 BattlePyramid_Text_EightItemsRemaining6::
 	.string "你有没有搜集道具呢？\p"
@@ -469,38 +469,38 @@ BattlePyramid_Text_ZeroItemsRemaining6::
 
 BattlePyramid_Text_SevenTrainersRemaining1::
 	.string "你是很强！\p"
-	.string "可还有7个比我更强的训练家等着你\n"
-	.string "！$"
+	.string "可还有7个比我更强的训练家等着\n"
+	.string "你！$"
 
 BattlePyramid_Text_SixTrainersRemaining1::
 	.string "你是很强！\p"
-	.string "可还有6个比我更强的训练家等着你\n"
-	.string "！$"
+	.string "可还有6个比我更强的训练家等着\n"
+	.string "你！$"
 
 BattlePyramid_Text_FiveTrainersRemaining1::
 	.string "你是很强！\p"
-	.string "可还有5个比我更强的训练家等着你\n"
-	.string "！$"
+	.string "可还有5个比我更强的训练家等着\n"
+	.string "你！$"
 
 BattlePyramid_Text_FourTrainersRemaining1::
 	.string "你是很强！\p"
-	.string "可还有4个比我更强的训练家等着你\n"
-	.string "！$"
+	.string "可还有4个比我更强的训练家等着\n"
+	.string "你！$"
 
 BattlePyramid_Text_ThreeTrainersRemaining1::
 	.string "你是很强！\p"
-	.string "可还有3个比我更强的训练家等着你\n"
-	.string "！$"
+	.string "可还有3个比我更强的训练家等着\n"
+	.string "你！$"
 
 BattlePyramid_Text_TwoTrainersRemaining1::
 	.string "你是很强！\p"
-	.string "可还有2个比我更强的训练家等着你\n"
-	.string "！$"
+	.string "可还有2个比我更强的训练家等着\n"
+	.string "你！$"
 
 BattlePyramid_Text_OneTrainersRemaining1::
 	.string "你是很强！\p"
-	.string "可还有1个比我更强的训练家等着你\n"
-	.string "！$"
+	.string "可还有1个比我更强的训练家等着\n"
+	.string "你！$"
 
 BattlePyramid_Text_ZeroTrainersRemaining1::
 	.string "你真强！\p"
@@ -538,8 +538,8 @@ BattlePyramid_Text_TwoTrainersRemaining2::
 
 BattlePyramid_Text_OneTrainersRemaining2::
 	.string "真不幸！\p"
-	.string "后面还有1位训练家！他或许比你弱\n"
-	.string "！$"
+	.string "后面还有1位训练家！他或许比你\n"
+	.string "弱！$"
 
 BattlePyramid_Text_ZeroTrainersRemaining2::
 	.string "真不幸！\p"
@@ -568,8 +568,8 @@ BattlePyramid_Text_FourTrainersRemaining3::
 
 BattlePyramid_Text_ThreeTrainersRemaining3::
 	.string "真是场精彩的对战！\p"
-	.string "这层还有3位训练家你能打败他们吧\n"
-	.string "？$"
+	.string "这层还有3位训练家你能打败他们\n"
+	.string "吧？$"
 
 BattlePyramid_Text_TwoTrainersRemaining3::
 	.string "真是场精彩的对战！\p"
@@ -578,8 +578,8 @@ BattlePyramid_Text_TwoTrainersRemaining3::
 
 BattlePyramid_Text_OneTrainersRemaining3::
 	.string "真是场精彩的对战！\p"
-	.string "这层还有1位训练家，你能打败他吧\n"
-	.string "？$"
+	.string "这层还有1位训练家，你能打败他\n"
+	.string "吧？$"
 
 BattlePyramid_Text_ZeroTrainersRemaining3::
 	.string "真是场精彩的对战！\p"

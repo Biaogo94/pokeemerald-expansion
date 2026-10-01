@@ -30,8 +30,8 @@ FuchsiaCity_Text_Baoba:
 	.string "这严重影响了我的生意！\p"
 	.string "{PLAYER}，你一定要去那个\n"
 	.string "新的狩猎地带，抓一只宝可梦来给我\l"
-	.string "看看。我必须弄清那些“异国”宝可\l"
-	.string "梦的底细。\p"
+	.string "看看。我必须弄清那些“异国”宝可梦\l"
+	.string "的底细。\p"
 	.string "拜托了{PLAYER}，我的生意\n"
 	.string "全靠你了！$"
 

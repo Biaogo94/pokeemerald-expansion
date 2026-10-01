@@ -91,8 +91,7 @@ CeruleanCity_House4_EventScript_NoRoomForBerries::
 	end
 
 CeruleanCity_House4_Text_NothingEntertaining::
-	.string "唉……太多的时间，太少能做的事…\n"
-	.string "…\p"
+	.string "唉……太多的时间，太少能做的事……\p"
 	.string "就没有什么有趣的事情发生吗？$"
 
 CeruleanCity_House4_Text_NewNewsInformativeHaveThis::
@@ -116,8 +115,8 @@ CeruleanCity_House4_Text_IncredibleNewsHaveBerries::
 CeruleanCity_House4_Text_WishCouldShareNewsWithOthers::
 	.string "不跟其他人分享这条消息好像很不厚\n"
 	.string "道……\p"
-	.string "我希望我能告诉大家……让大家知道\n"
-	.string "这个消息……$"
+	.string "我希望我能告诉大家……让大家知道这\n"
+	.string "个消息……$"
 
 CeruleanCity_House4_Text_ThanksForSpreadingNewsTakeThis::
 	.string "啊，你把这条消息告诉了我？\p"
@@ -131,8 +130,8 @@ CeruleanCity_House4_Text_MagnificentNewsSpreadHaveBerries::
 	.string "那条新闻肯定很高兴被这样广泛的传\n"
 	.string "播。\p"
 	.string "是的，真的！\p"
-	.string "从我和这条消息的角度想想这个价值\n"
-	.string "。\p"
+	.string "从我和这条消息的角度想想这个价\n"
+	.string "值。\p"
 	.string "我要给你比平常多的树果。$"
 
 CeruleanCity_House4_Text_EnjoyingMyselfWithAllSortsOfNews::

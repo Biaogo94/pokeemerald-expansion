@@ -14,6 +14,6 @@ SSAnne_2F_Room5_Text_HaveYouGoneToSafariZone::
 	.string "那里有很多种稀有宝可梦。$"
 
 SSAnne_2F_Room5_Text_WeThinkSafariZoneIsAwesome::
-	.string "我和我爸爸觉得野生原野区是最棒的\n"
-	.string "！我希望我们能再去一次。$"
+	.string "我和我爸爸觉得野生原野区是最棒\n"
+	.string "的！我希望我们能再去一次。$"
 

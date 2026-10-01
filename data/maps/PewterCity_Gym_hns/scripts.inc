@@ -49,8 +49,7 @@ PewterCity_Gym_Text_Brock_Intro:
 
 PewterCity_Gym_Text_Brock_WinLoss:
 	.string "小刚：你的宝可梦用强力的攻击突破\n"
-	.string "了我如岩石般坚固的防御……\l"
-	.string "..\p"
+	.string "了我如岩石般坚固的防御……..\p"
 	.string "你比我想象的还要强……\p"
 	.string "收下吧--这是你的徽章。$"
 
@@ -86,8 +85,7 @@ PewterCity_Gym_Text_CamperJerry_Seen:
 	.string "了吗？$"
 
 PewterCity_Gym_Text_CamperJerry_Beaten:
-	.string "我一定要赢下这些对战才行……\n"
-	.string "..$"
+	.string "我一定要赢下这些对战才行……..$"
 
 PewterCity_Gym_Text_CamperJerry_AfterBattle:
 	.string "喂，你！城都来的训练家！小刚馆主\n"

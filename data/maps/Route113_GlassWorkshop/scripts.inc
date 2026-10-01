@@ -310,11 +310,10 @@ Route113_GlassWorkshop_Text_LetsSeeCollectedAshes:
 	.string "看，呼呼。$"
 
 Route113_GlassWorkshop_Text_NotEnoughAshNeedX:
-	.string "唔……不是很多啊，呼呼。这一点不\n"
-	.string "够制造玻璃哨的，呼呼。\p"
-	.string "嗯……再走{STR_VAR_1}\n"
-	.string "步我就可以制造蓝色玻璃哨了，呼呼\l"
-	.string "。$"
+	.string "唔……不是很多啊，呼呼。这一点不够\n"
+	.string "制造玻璃哨的，呼呼。\p"
+	.string "嗯……再走{STR_VAR_1}步\n"
+	.string "我就可以制造蓝色玻璃哨了，呼呼。$"
 
 Route113_GlassWorkshop_Text_WhichGlassItemWoudYouLike:
 	.string "哦！你收集了不少火山灰了，呼呼！\p"
@@ -322,27 +321,27 @@ Route113_GlassWorkshop_Text_WhichGlassItemWoudYouLike:
 	.string "什么样的，呼呼？$"
 
 Route113_GlassWorkshop_Text_IsThatTheItemForYou:
-	.string "{STR_VAR_1}是吗？呼呼\n"
-	.string "。你确定吗？呼呼。$"
+	.string "{STR_VAR_1}是吗？呼\n"
+	.string "呼。你确定吗？呼呼。$"
 
 Route113_GlassWorkshop_Text_WhichWouldYouLike:
 	.string "你想要什么样的，呼呼？$"
 
 Route113_GlassWorkshop_Text_IllMakeItemForYou:
-	.string "那么，是{STR_VAR_1}了\n"
-	.string "，呼呼！\p"
+	.string "那么，是{STR_VAR_1}\n"
+	.string "了，呼呼！\p"
 	.string "好，我这就开始，呼呼。稍等一下就\n"
 	.string "好了，呼呼。$"
 
 Route113_GlassWorkshop_Text_NotEnoughAshToMakeItem:
-	.string "是{STR_VAR_1}吗？呼呼\n"
-	.string "。\p"
+	.string "是{STR_VAR_1}吗？呼\n"
+	.string "呼。\p"
 	.string "做它的话，火山灰不够啊，呼呼。\p"
 	.string "我看看……要做这个还要再走\n"
 	.string "{STR_VAR_2}步才能收集\l"
 	.string "到足够的火山灰，呼呼。\p"
-	.string "那么，你还希望我为你做什么？呼呼\n"
-	.string "。$"
+	.string "那么，你还希望我为你做什么？呼\n"
+	.string "呼。$"
 
 Route113_GlassWorkshop_Text_AllThatAshButDontWantAnything:
 	.string "收集了那么多火山灰，但你没有想要\n"
@@ -353,21 +352,21 @@ Route113_GlassWorkshop_Text_IveFinishedGlassItem:
 	.string "好了。拿去吧，呼呼。$"
 
 Route113_GlassWorkshop_Text_NoRoomInBag:
-	.string "哦？你的背包里面没有地方了，呼呼\n"
-	.string "。\p"
-	.string "我先替你保管着，以后再来吧，呼呼\n"
-	.string "。$"
+	.string "哦？你的背包里面没有地方了，呼\n"
+	.string "呼。\p"
+	.string "我先替你保管着，以后再来吧，呼\n"
+	.string "呼。$"
 
 Route113_GlassWorkshop_Text_NoRoomInPC:
-	.string "哦？你的电脑里面没有地方了，呼呼\n"
-	.string "。\p"
-	.string "我先替你保管着，以后再来吧，呼呼\n"
-	.string "。$"
+	.string "哦？你的电脑里面没有地方了，呼\n"
+	.string "呼。\p"
+	.string "我先替你保管着，以后再来吧，呼\n"
+	.string "呼。$"
 
 Route113_GlassWorkshop_Text_HaventGotYourSootSack:
 	.string "哎？你没带你的集灰袋啊，呼呼。\p"
-	.string "要收集火山灰就一定要带上它，呼呼\n"
-	.string "。$"
+	.string "要收集火山灰就一定要带上它，呼\n"
+	.string "呼。$"
 
 Route113_GlassWorkshop_Text_FunToBlowGlassFlute:
 	.string "在老板说话的时候吹玻璃真好玩，\p"

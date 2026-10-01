@@ -232,8 +232,7 @@ PewterCity_Museum_1F_Text_ShouldBeGratefulForLongLife::
 PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
 	.string "嘘！听着，我要告诉你一个重要的秘\n"
 	.string "密。\p"
-	.string "我认为这块琥珀里面有宝可梦的DN\n"
-	.string "A！\p"
+	.string "我认为这块琥珀里面有宝可梦的DNA！\p"
 	.string "如果宝可梦能从里面复活，这将是整\n"
 	.string "个科学界一个重大的突破。\p"
 	.string "但是，我的同事们都把我说的不当回\n"
@@ -257,8 +256,8 @@ PewterCity_Museum_1F_Text_WeHaveTwoFossilsOnExhibit::
 	.string "的化石。$"
 
 PewterCity_Museum_1F_Text_BeautifulPieceOfAmber::
-	.string "这是一块漂亮的琥珀，闪烁着金黄色\n"
-	.string "。$"
+	.string "这是一块漂亮的琥珀，闪烁着金黄\n"
+	.string "色。$"
 
 PewterCity_Museum_1F_Text_AerodactylFossil::
 	.string "化石翼龙的化石一种原始且珍贵的宝\n"

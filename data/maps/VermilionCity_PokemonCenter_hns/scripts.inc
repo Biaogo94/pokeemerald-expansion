@@ -38,7 +38,7 @@ VermilionCity_PokemonCenter1F_Text_Sailor:
 	.string "好地方。$"
 
 VermilionCity_PokemonCenter1F_Text_BugCatcher:
-	.string "哦？你戴着一些我从没见过的徽章呢\n"
-	.string "。\p"
+	.string "哦？你戴着一些我从没见过的徽章\n"
+	.string "呢。\p"
 	.string "啊，我知道了。是在城都地区拿到的\n"
 	.string "吧。$"

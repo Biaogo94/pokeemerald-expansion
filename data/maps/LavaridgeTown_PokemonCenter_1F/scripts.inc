@@ -34,8 +34,8 @@ LavaridgeTown_PokemonCenter_1F_Text_TrainersPokemonSpendTimeTogether:
 	.string "而且越久越好。我是这么想的。$"
 
 LavaridgeTown_PokemonCenter_1F_Text_HotSpringCanInvigorate:
-	.string "在温泉中坐一会儿就会再次充满活力\n"
-	.string "，好像魔术一样。\p"
+	.string "在温泉中坐一会儿就会再次充满活\n"
+	.string "力，好像魔术一样。\p"
 	.string "如果能让宝可梦也泡泡多好。$"
 
 LavaridgeTown_PokemonCenter_1F_Text_TrainersShouldRestToo:

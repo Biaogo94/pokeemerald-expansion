@@ -94,8 +94,8 @@ CeruleanCity_BikeShop_Text_ThankYouComeAgain::
 CeruleanCity_BikeShop_Text_HowDoYouLikeNewBicycle::
 	.string "你喜欢你的新自行车吗？你喜欢这样\n"
 	.string "骑着它吗？\p"
-	.string "你可以在单车路甚至在洞穴里骑着它\n"
-	.string "！$"
+	.string "你可以在单车路甚至在洞穴里骑着\n"
+	.string "它！$"
 
 CeruleanCity_BikeShop_Text_MakeRoomForBicycle::
 	.string "你最好留出空间来装你的自行车！$"
@@ -107,8 +107,8 @@ CeruleanCity_BikeShop_Text_CityBikeGoodEnoughForMe::
 	.string "山地车上。$"
 
 CeruleanCity_BikeShop_Text_BikesCoolButExpensive::
-	.string "这些自行车太酷了，但是它们都很贵\n"
-	.string "！$"
+	.string "这些自行车太酷了，但是它们都很\n"
+	.string "贵！$"
 
 CeruleanCity_BikeShop_Text_WowYourBikeIsCool::
 	.string "哇。你的自行车真的很帅！$"
@@ -116,8 +116,8 @@ CeruleanCity_BikeShop_Text_WowYourBikeIsCool::
 @ Unused
 CeruleanCity_BikeShop_Text_GermanFoldableBicyleFinallyOnMarket::
 	.string "ついに　はつばい！\p"
-	.string "ドイツ　せい　さいこうきゅう\n"
-	.string "おりたたみ　じてんしゃ！$"
+	.string "ドイツ　せい　さいこうきゅうおり\n"
+	.string "たたみ　じてんしゃ！$"
 
 CeruleanCity_BikeShop_Text_ShinyNewBicycle::
 	.string "一辆闪亮的新自行车！$"

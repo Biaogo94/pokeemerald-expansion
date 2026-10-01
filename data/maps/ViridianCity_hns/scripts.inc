@@ -108,8 +108,7 @@ ViridianCity_Text_GrampsNearGym_BlueReturned:
 	.string "祝你好运，你肯定会需要运气的。$"
 
 ViridianCity_Text_DreamEaterFisherNew:
-	.string "……呼--噜--....\n"
-	.string "..\p"
+	.string "……呼--噜--......\p"
 	.string "哈欠--！\p"
 	.string "不知不觉在太阳底下睡着了。\p"
 	.string "怎么？我让你想起谁了吗？\p"
@@ -117,25 +116,21 @@ ViridianCity_Text_DreamEaterFisherNew:
 
 
 ViridianCity_Text_DreamEaterFisher_GotTM::
-	.string "……呼--噜--....\n"
-	.string "..$"
+	.string "……呼--噜--......$"
 
 ViridianCity_Text_DreamEaterFisher:
 	.string "哈欠--！\p"
 	.string "不知不觉在太阳底下睡着了。\p"
-	.string "……我刚才做了个梦，梦见\n"
-	.string "一只催眠貘吃掉了我的梦。很奇怪吧\l"
-	.string "？\p"
+	.string "……我刚才做了个梦，梦见一只催眠貘\n"
+	.string "吃掉了我的梦。很奇怪吧？\p"
 	.string "咦？这是什么？\p"
 	.string "这张招式学习器是从哪来的？\p"
 	.string "真邪门！喏，这招式学习器就送给你\n"
 	.string "吧。$"
 
 ViridianCity_Text_DreamEaterFisher_GotDreamEater:
-	.string "招式学习器42里面是“食梦”.\n"
-	.string ".....\p"
-	.string "……呼--噜--...\n"
-	.string "...$"
+	.string "招式学习器42里面是“食梦”......\p"
+	.string "……呼--噜--......$"
 
 ViridianCity_Text_Youngster:
 	.string "听说常青森林的地上掉落着不少道具\n"
@@ -146,10 +141,9 @@ ViridianCity_Text_Sign:
 	.string "绿意常在的常青乐土$"
 
 ViridianCity_Text_GymSign:
-	.string "常青市宝可梦道馆馆主：.....\n"
-	.string ".\p"
-	.string "后面的文字模糊不清，看不清了..\n"
-	.string "....$"
+	.string "常青市宝可梦道馆馆主：......\p"
+	.string "后面的文字模糊不清，看不清了...\n"
+	.string "...$"
 
 ViridianCity_Text_WelcomeSign:
 	.string "常青市欢迎你，\p"

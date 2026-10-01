@@ -43,7 +43,7 @@ CeruleanCity_Mart_Text_RepelWorksOnWeakMons::
 	.string "雾的作用就会更明显。$"
 
 CeruleanCity_Mart_Text_DoYouKnowAboutRareCandy::
-	.string "你知道神奇糖果吗？在商店没有卖的\n"
-	.string "。\p"
+	.string "你知道神奇糖果吗？在商店没有卖\n"
+	.string "的。\p"
 	.string "它能迅速的提高宝可梦的实力。$"
 

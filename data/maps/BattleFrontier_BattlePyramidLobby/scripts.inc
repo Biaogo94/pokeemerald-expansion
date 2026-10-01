@@ -557,8 +557,8 @@ BattleFrontier_BattlePyramidLobby_Text_ExplainBattlePyramid:
 	.string "否则我们将视挑战为无效。$"
 
 BattleFrontier_BattlePyramidLobby_Text_WhichLevelMode:
-	.string "金字塔挑战有2种等级，Lv. 5\n"
-	.string "0级和自由等级，要参加哪一种？$"
+	.string "金字塔挑战有2种等级，Lv. 50级和\n"
+	.string "自由等级，要参加哪一种？$"
 
 BattleFrontier_BattlePyramidLobby_Text_SelectThreeMons:
 	.string "好的，请选择要参加挑战的3只宝可\n"
@@ -575,8 +575,8 @@ BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLvOpen:
 BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLv50:
 	.string "探险家啊，有点小问题！\p"
 	.string "您能够参加对战的宝可梦不满3只。\p"
-	.string "您需要准备3只等级50以内的不同\n"
-	.string "种类的宝可梦，\p"
+	.string "您需要准备3只等级50以内的不同种\n"
+	.string "类的宝可梦，\p"
 	.string "并且记得要取下它们携带的道具才可\n"
 	.string "参加对战。\p"
 	.string "此外，蛋{STR_VAR_1}！$"
@@ -589,8 +589,8 @@ BattleFrontier_BattlePyramidLobby_Text_OkayToSaveBeforeChallenge:
 	.string "可以吗？$"
 
 BattleFrontier_BattlePyramidLobby_Text_ShowYouIntoPyramid:
-	.string "好的，现在我将带您进入对战金字塔\n"
-	.string "。$"
+	.string "好的，现在我将带您进入对战金字\n"
+	.string "塔。$"
 
 BattleFrontier_BattlePyramidLobby_Text_WeWillHoldBagForSafekeeping:
 	.string "{PLAYER}，在探索期间，我\n"
@@ -635,8 +635,8 @@ BattleFrontier_BattlePyramidLobby_Text_HeldItemsMovedToBag:
 	.string "到战斗背包中，{PLAYER}。$"
 
 BattleFrontier_BattlePyramidLobby_Text_BagCannotHoldPickItemsToKeep:
-	.string "很抱歉，战斗背包装不下所有的道具\n"
-	.string "，\p"
+	.string "很抱歉，战斗背包装不下所有的道\n"
+	.string "具，\p"
 	.string "请选择您需要保留在战斗背包中的道\n"
 	.string "具。$"
 
@@ -701,13 +701,11 @@ BattleFrontier_BattlePyramidLobby_Text_Aah:
 
 BattleFrontier_BattlePyramidLobby_Text_HintParalysis:
 	.string "我看到了大片的电火花……\p"
-	.string "……你被麻痹的宝可梦正在其中挣扎\n"
-	.string "……$"
+	.string "……你被麻痹的宝可梦正在其中挣扎……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPoison:
 	.string "我看到了毒……\p"
-	.string "……你的宝可梦正忍受着中毒的苦…\n"
-	.string "…$"
+	.string "……你的宝可梦正忍受着中毒的苦……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintBurn:
 	.string "我看到了闪亮的火焰……\p"
@@ -717,99 +715,97 @@ BattleFrontier_BattlePyramidLobby_Text_HintPPWaste:
 	.string "我感受到了无尽的怒火产生出的庞大\n"
 	.string "的压力……\p"
 	.string "是诅咒……\p"
-	.string "……你的宝可梦没有了招式点数，只\n"
-	.string "有无助地挣扎……$"
+	.string "……你的宝可梦没有了招式点数，只有\n"
+	.string "无助地挣扎……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintLevitate:
 	.string "我看到了天空中翱翔的宝可梦……\p"
-	.string "……你擅长地面属性招式的宝可梦被\n"
-	.string "完全挫败……$"
+	.string "……你擅长地面属性招式的宝可梦被完\n"
+	.string "全挫败……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintTrapAbility:
 	.string "我感觉到地底升起恐怖的力量……\p"
-	.string "……你的宝可梦根本无法摆脱这力量\n"
-	.string "的威胁……$"
+	.string "……你的宝可梦根本无法摆脱这力量的\n"
+	.string "威胁……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintIce:
 	.string "我看到了冰属性的宝可梦……\p"
-	.string "……你的宝可梦正在坚冰中与寒冷对\n"
-	.string "抗着……$"
+	.string "……你的宝可梦正在坚冰中与寒冷对抗\n"
+	.string "着……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintExplosion:
-	.string "我看到了很多会使自己受伤的招式…\n"
-	.string "…\p"
+	.string "我看到了很多会使自己受伤的招式……\p"
 	.string "……你的宝可梦正败在此处……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPsychic:
 	.string "我看到了超能力属性的宝可梦……\p"
-	.string "……你的宝可梦正在被超能力招式折\n"
-	.string "磨着……$"
+	.string "……你的宝可梦正在被超能力招式折磨\n"
+	.string "着……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintRock:
 	.string "我看到了岩石属性的宝可梦……\p"
-	.string "……你的宝可梦正在遭受岩石招式的\n"
-	.string "打击……$"
+	.string "……你的宝可梦正在遭受岩石招式的打\n"
+	.string "击……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintFighting:
 	.string "我看到了格斗属性的宝可梦……\p"
-	.string "……你的宝可梦正在被格斗招式不断\n"
-	.string "攻击……$"
+	.string "……你的宝可梦正在被格斗招式不断攻\n"
+	.string "击……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintWeather:
-	.string "求雨……大晴天……沙暴……冰雹…\n"
-	.string "…\p"
+	.string "求雨……大晴天……沙暴……冰雹……\p"
 	.string "我看到了在这些天气下变得更强的宝\n"
 	.string "可梦……\p"
-	.string "……你的宝可梦正在各种各样的招式\n"
-	.string "影响下不知所措……$"
+	.string "……你的宝可梦正在各种各样的招式影\n"
+	.string "响下不知所措……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintBug:
 	.string "我看到了虫属性的宝可梦……\p"
-	.string "……你的宝可梦正在忍受各种各样的\n"
-	.string "攻击……$"
+	.string "……你的宝可梦正在忍受各种各样的攻\n"
+	.string "击……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintDark:
 	.string "我看到了恶属性的宝可梦……\p"
-	.string "……你的宝可梦正在被恶属性招式攻\n"
-	.string "击着……$"
+	.string "……你的宝可梦正在被恶属性招式攻击\n"
+	.string "着……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintWater:
 	.string "我看到了水属性的宝可梦……\p"
-	.string "……你的宝可梦正在被水属性招式攻\n"
-	.string "击着……$"
+	.string "……你的宝可梦正在被水属性招式攻击\n"
+	.string "着……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintGhost:
 	.string "我看到了幽灵属性的宝可梦……\p"
-	.string "……你的宝可梦正在被幽灵属性招式\n"
-	.string "攻击着……$"
+	.string "……你的宝可梦正在被幽灵属性招式攻\n"
+	.string "击着……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintSteel:
 	.string "我看到了钢属性的宝可梦……\p"
-	.string "……你的宝可梦正在苦苦抵挡着强力\n"
-	.string "的攻击……$"
+	.string "……你的宝可梦正在苦苦抵挡着强力的\n"
+	.string "攻击……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintFlyingDragon:
 	.string "我看到了飞在天上的宝可梦……\p"
-	.string "……你的宝可梦正在被强力的招式攻\n"
-	.string "击着……$"
+	.string "……你的宝可梦正在被强力的招式攻击\n"
+	.string "着……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintStoneEvolve:
 	.string "我看到了得到石头的力量而得以进化\n"
 	.string "的宝可梦们……\p"
 	.string "我感受到了火、水还有电……\p"
-	.string "……你的宝可梦正在忍受这3种力量\n"
-	.string "的攻击……$"
+	.string "……你的宝可梦正在忍受这3种力量的\n"
+	.string "攻击……$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintNormal:
 	.string "我看到了一般属性的宝可梦……\p"
-	.string "……你的宝可梦正在苦苦抵挡着强力\n"
-	.string "的攻击……$"
+	.string "……你的宝可梦正在苦苦抵挡着强力的\n"
+	.string "攻击……$"
 
 BattleFrontier_BattlePyramidLobby_Text_BelieveMyFortunesOrNot:
 	.string "无论是否相信我的预言，选择权依然\n"
 	.string "在你的手中……\p"
-	.string "未来随时都可能被改变……愿你能平\n"
-	.string "安通过这里……$"
+	.string "未来随时都可能被改变……愿你能平安\n"
+	.string "通过这里……$"
 
 BattleFrontier_BattlePyramidLobby_Text_TrainersNoticeRunning:
 	.string "知道吗？\p"
@@ -825,14 +821,14 @@ BattleFrontier_BattlePyramidLobby_Text_LostLotOfItems:
 	.string "哇啊啊啊啊啊啊！$"
 
 BattleFrontier_BattlePyramidLobby_Text_YouveDefeatedPyramidKing:
-	.string "欢迎回来！您完成了不可思议的壮举\n"
-	.string "！\p"
+	.string "欢迎回来！您完成了不可思议的壮\n"
+	.string "举！\p"
 	.string "您打败了金字塔法老，并征服了对战\n"
 	.string "金字塔！$"
 
 BattleFrontier_BattlePyramidLobby_Text_GiveYouTheseBattlePoints:
-	.string "年轻的探险家啊！为了表彰您的勇气\n"
-	.string "，我们将向您呈上对战点数！$"
+	.string "年轻的探险家啊！为了表彰您的勇\n"
+	.string "气，我们将向您呈上对战点数！$"
 
 BattleFrontier_BattlePyramidLobby_Text_RulesAreListed:
 	.string "上面列出了探索式对战的规则。$"
@@ -847,15 +843,15 @@ BattleFrontier_BattlePyramidLobby_Text_ExplainMonRules:
 	.string "可能遇到什么样的宝可梦。$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainTrainerRules:
-	.string "在金字塔内会有训练家等着向您挑战\n"
-	.string "。\p"
+	.string "在金字塔内会有训练家等着向您挑\n"
+	.string "战。\p"
 	.string "每层最多会有8个训练家。\p"
-	.string "您每打败1个训练家，就会得到1条\n"
-	.string "对探索有用的提示。$"
+	.string "您每打败1个训练家，就会得到1条对\n"
+	.string "探索有用的提示。$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainMazeRules:
-	.string "每次进入金字塔后迷宫都会重新组合\n"
-	.string "，\p"
+	.string "每次进入金字塔后迷宫都会重新组\n"
+	.string "合，\p"
 	.string "迷宫里很暗，必须小心探索。\p"
 	.string "每打败1个训练家或是1只野生宝可\n"
 	.string "梦，里面都会稍微变亮一些。$"
@@ -863,11 +859,10 @@ BattleFrontier_BattlePyramidLobby_Text_ExplainMazeRules:
 BattleFrontier_BattlePyramidLobby_Text_ExplainBagRules:
 	.string "在金字塔中，您可以像使用您的背包\n"
 	.string "一样使用战斗背包。\p"
-	.string "有2种不同的战斗背包——分别是为\n"
-	.string "Lv. 50级和自由等级的冒险而\l"
-	.string "准备的。\p"
-	.string "2种背包都可以携带10种道具，每\n"
-	.string "种道具99个。\p"
+	.string "有2种不同的战斗背包——分别是为Lv.\n"
+	.string " 50级和自由等级的冒险而准备的。\p"
+	.string "2种背包都可以携带10种道具，每种\n"
+	.string "道具99个。\p"
 	.string "如果在探索中失败的话，战斗背包里\n"
 	.string "的东西都会丢失。$"
 

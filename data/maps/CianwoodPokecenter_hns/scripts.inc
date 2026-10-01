@@ -70,8 +70,8 @@ CianwoodGym_EventScript_GymGuideAfter::
 	end
 
 CianwoodCity_Text_GymGuide:
-	.string "这里的道馆训练家全是一群肌肉壮汉\n"
-	.string "。\p"
+	.string "这里的道馆训练家全是一群肌肉壮\n"
+	.string "汉。\p"
 	.string "我如果一直待在这儿，说不定会被他\n"
 	.string "们盯上。\p"
 	.string "给你提个建议吧：道馆馆主使用的是\n"

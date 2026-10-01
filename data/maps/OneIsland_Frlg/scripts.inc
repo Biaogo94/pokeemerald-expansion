@@ -111,8 +111,8 @@ OneIsland_Text_BillLetsGoSeeCelio::
 	.string "其中之一。\p"
 	.string "我的朋友锦辉派船来接我。\p"
 	.string "他独自管理着岛上的电脑网络联结。\p"
-	.string "……为什么我现在要告诉你这些？我\n"
-	.string "们先去见锦辉吧！$"
+	.string "……为什么我现在要告诉你这些？我们\n"
+	.string "先去见锦辉吧！$"
 
 Text_WhereDoYouWantToSail::
 	.string "嘿，这里这里！你打算坐船去哪儿？$"

@@ -74,8 +74,8 @@ Text_DoubleEdgeWhichMon::
 	.string "我要教哪个宝可梦舍身冲撞$"
 
 Text_DoubleEdgeTaught::
-	.string "保持那股动力，去参加宝可梦联盟吧\n"
-	.string "！\p"
+	.string "保持那股动力，去参加宝可梦联盟\n"
+	.string "吧！\p"
 	.string "去会会他们并将他们通通击败吧！$"
 
 VictoryRoad_3F_Text_GeorgeIntro::
@@ -85,12 +85,12 @@ VictoryRoad_3F_Text_GeorgeDefeat::
 	.string "传闻是真的！$"
 
 VictoryRoad_3F_Text_GeorgePostBattle::
-	.string "莫非，就是你击败了火箭队的坂木吗\n"
-	.string "？$"
+	.string "莫非，就是你击败了火箭队的坂木\n"
+	.string "吗？$"
 
 VictoryRoad_3F_Text_AlexaIntro::
-	.string "训练家的人生就是去寻找更强的对手\n"
-	.string "。$"
+	.string "训练家的人生就是去寻找更强的对\n"
+	.string "手。$"
 
 VictoryRoad_3F_Text_AlexaDefeat::
 	.string "啊！这么强！$"
@@ -99,8 +99,8 @@ VictoryRoad_3F_Text_AlexaPostBattle::
 	.string "在艰难的战斗中，你会变得更强。$"
 
 VictoryRoad_3F_Text_CarolineIntro::
-	.string "我会让你看看你到底有多强……还是\n"
-	.string "多弱！$"
+	.string "我会让你看看你到底有多强……还是多\n"
+	.string "弱！$"
 
 VictoryRoad_3F_Text_CarolineDefeat::
 	.string "我很气愤！$"

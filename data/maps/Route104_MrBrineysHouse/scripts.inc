@@ -99,21 +99,21 @@ Route104_MrBrineysHouse_Text_WaitUpPeeko:
 
 Route104_MrBrineysHouse_Text_ItsYouLetsSailToDewford:
 	.string "嗯？你是{PLAYER}\n"
-	.string "{KUN}！是你救了我心爱的小皮\l"
-	.string "！我们欠你的人情！\p"
+	.string "{KUN}！是你救了我心爱的小\l"
+	.string "皮！我们欠你的人情！\p"
 	.string "什么？你想要坐我的船？\p"
 	.string "嗯……\p"
 	.string "你要去武斗镇送信，还要去凯那市送\n"
 	.string "包裹？\p"
 	.string "你的生活还真是忙碌啊！\p"
 	.string "不过这点小事包在我身上！\p"
-	.string "你找对人了！我们这就启航去武斗镇\n"
-	.string "。$"
+	.string "你找对人了！我们这就启航去武斗\n"
+	.string "镇。$"
 
 Route104_MrBrineysHouse_Text_SetSailForDewford:
 	.string "哈奇：目标武斗镇！\p"
-	.string "起锚咯！小皮，亲爱的，我们出海了\n"
-	.string "！$"
+	.string "起锚咯！小皮，亲爱的，我们出海\n"
+	.string "了！$"
 
 Route104_MrBrineysHouse_Text_DeclineDeliverySail:
 	.string "哈奇：这样吗？你的包裹不急吗？\p"
@@ -124,15 +124,15 @@ Route104_MrBrineysHouse_Text_NeedToMakeDeliveriesSailToDewford:
 	.string "你想要去武斗镇送信，还要去凯那市\n"
 	.string "送包裹。\p"
 	.string "这点小事包在我身上！\p"
-	.string "你找对人了！我们这就启航去武斗镇\n"
-	.string "。$"
+	.string "你找对人了！我们这就启航去武斗\n"
+	.string "镇。$"
 
 Route104_MrBrineysHouse_Text_NeedToDeliverPackageSailToDewford:
 	.string "哈奇：喂！我明白你的意思！\p"
 	.string "你要送包裹给凯那市的楠木。\p"
 	.string "这点小事包在我身上！\p"
-	.string "你找对人了！我们这就启航去武斗镇\n"
-	.string "。$"
+	.string "你找对人了！我们这就启航去武斗\n"
+	.string "镇。$"
 
 Route104_MrBrineysHouse_Text_WhereAreWeBound:
 	.string "哈奇：喂！为了你我随时都能出海！\p"

@@ -67,8 +67,8 @@ SSTidalRooms_Text_TakeRestOnBed:
 
 SSTidalRooms_Text_ColtonIntro:
 	.string "我经常坐船去水静市。\p"
-	.string "那是因为我喜欢参加那里的华丽大赛\n"
-	.string "。$"
+	.string "那是因为我喜欢参加那里的华丽大\n"
+	.string "赛。$"
 
 SSTidalRooms_Text_ColtonDefeat:
 	.string "真是一场痛快的对战！$"
@@ -99,8 +99,8 @@ SSTidalRooms_Text_ThomasPostBattle:
 	.string "行为准则。$"
 
 SSTidalRooms_Text_JedIntro:
-	.string "阿新：说起来真有些不好意思……我\n"
-	.string "们会展示给你爱情的力量！$"
+	.string "阿新：说起来真有些不好意思……我们\n"
+	.string "会展示给你爱情的力量！$"
 
 SSTidalRooms_Text_JedDefeat:
 	.string "阿新：唉……$"
@@ -114,8 +114,8 @@ SSTidalRooms_Text_JedNotEnoughMons:
 	.string "也太孤单了？$"
 
 SSTidalRooms_Text_LeaIntro:
-	.string "佳穗：说起来真有些傻……我们会展\n"
-	.string "示给你爱情的力量！$"
+	.string "佳穗：说起来真有些傻……我们会展示\n"
+	.string "给你爱情的力量！$"
 
 SSTidalRooms_Text_LeaDefeat:
 	.string "佳穗：哦，完了！$"
@@ -126,8 +126,8 @@ SSTidalRooms_Text_LeaPostBattle:
 	.string "家！$"
 
 SSTidalRooms_Text_LeaNotEnoughMons:
-	.string "佳穗：我也想对战……但你连2只宝\n"
-	.string "可梦都没有……$"
+	.string "佳穗：我也想对战……但你连2只宝可\n"
+	.string "梦都没有……$"
 
 SSTidalRooms_Text_GarretIntro:
 	.string "啊，你来的正好。\p"
@@ -148,17 +148,17 @@ SSTidalRooms_Text_NaomiDefeat:
 	.string "我明白了，你是活跃型的。$"
 
 SSTidalRooms_Text_NaomiPostBattle:
-	.string "坐着豪华客轮周游世界确实很吸引人\n"
-	.string "……\p"
+	.string "坐着豪华客轮周游世界确实很吸引\n"
+	.string "人……\p"
 	.string "但必须承认，坐着渡轮周游丰缘也别\n"
 	.string "有一番风味。$"
 
 SSTidalRooms_Text_NotSuspiciousTakeThis:
-	.string "嗯……你好！我……我不是什么可疑\n"
-	.string "的人！嗯……这个给你！免费的！\p"
-	.string "这……真的，这不是我抢夺来的！我\n"
-	.string "绝不会干这种事！这不是赃物！你放\l"
-	.string "心用吧！$"
+	.string "嗯……你好！我……我不是什么可疑的\n"
+	.string "人！嗯……这个给你！免费的！\p"
+	.string "这……真的，这不是我抢夺来的！我绝\n"
+	.string "不会干这种事！这不是赃物！你放心\l"
+	.string "用吧！$"
 
 SSTidalRooms_Text_ExplainSnatch:
 	.string "化为己用可以把对手或我方即将使用\n"

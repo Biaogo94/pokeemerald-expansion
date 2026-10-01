@@ -21,10 +21,10 @@
 
 static const u8 sFullHealDesc[]       = _("能治愈1只宝可梦的所有异常状态。");
 
-static const u8 sPokeDollDesc[]       = _("必定能从与野生宝可梦的战斗中逃走\n"
+static const u8 sPokeDollDesc[]       = _("必定能从与野生宝可梦的战斗中逃走"
                                           "。");
 
-static const u8 sMaxReviveDesc[]      = _("能让1只濒死的宝可梦完全恢复HP\n"
+static const u8 sMaxReviveDesc[]      = _("能让1只濒死的宝可梦完全恢复HP"
                                           "。");
 
 static const u8 sHealthFeatherDesc[]  = _("能提高宝可梦HP基础点数的道具。");
@@ -83,7 +83,7 @@ static const u8 sRockIncenseDesc[]    = _("携带后，岩石属性招式的威�
 static const u8 sFullIncenseDesc[]    = _("携带后，会让宝可梦的行动变迟缓的\n"
                                           "道具。");
 
-static const u8 sRoseIncenseDesc[]    = _("携带后，草属性招式的威力就会提高\n"
+static const u8 sRoseIncenseDesc[]    = _("携带后，草属性招式的威力就会提高"
                                           "。");
 
 static const u8 sLuckIncenseDesc[]    = _("只要携带它的宝可梦在战斗中出场，\n"
@@ -145,7 +145,7 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("精灵球"),
         .price = 100,
         .description = COMPOUND_STRING(
-            "用于投向野生宝可梦并将其捕捉的球\n"
+            "用于投向野生宝可梦并将其捕捉的球"
             "。"),
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
@@ -593,7 +593,7 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_PRICE >= GEN_7) ? 200 : 300,
         .holdEffectParam = 20,
         .description = COMPOUND_STRING(
-            "喷雾式伤药。能让宝可梦回复20H\n"
+            "喷雾式伤药。能让宝可梦回复20H"
             "P。"),
         .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_HEALTH_RECOVERY,
@@ -660,7 +660,7 @@ const struct ItemInfo gItemsInfo[] =
         .price = 2500,
         .holdEffectParam = 255,
         .description = COMPOUND_STRING(
-            "喷雾式伤药。能让宝可梦回复所有H\n"
+            "喷雾式伤药。能让宝可梦回复所有H"
             "P。"),
         .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_HEALTH_RECOVERY,
@@ -1067,7 +1067,7 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_PRICE >= GEN_2) ? 3000 : 1,
         .holdEffectParam = 10,
         .description = COMPOUND_STRING(
-            "能让宝可梦学会的4个招式各回复1\n"
+            "能让宝可梦学会的4个招式各回复1"
             "0PP。"),
         .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_PP_RECOVERY,
@@ -3903,7 +3903,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("奇迹信纸"),
         .price = 50,
         .description = COMPOUND_STRING(
-            "一张华丽的信纸，可以让宝可梦携带\n"
+            "一张华丽的信纸，可以让宝可梦携带"
             "。"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_MAIL,
@@ -9134,7 +9134,7 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_ABSORB_BULB,
         .holdEffectParam = 0,
         .description = COMPOUND_STRING(
-            "一次性球根。携带宝可梦受到水招式\n"
+            "一次性球根。携带宝可梦受到水招式"
             "，特攻就会提高。"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
@@ -9159,7 +9159,7 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_CELL_BATTERY,
         .holdEffectParam = 0,
         .description = COMPOUND_STRING(
-            "一次性电池。携带宝可梦受到电招式\n"
+            "一次性电池。携带宝可梦受到电招式"
             "，攻击就会提高。"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
@@ -9184,7 +9184,7 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_LUMINOUS_MOSS,
         .holdEffectParam = 0,
         .description = COMPOUND_STRING(
-            "一次性光苔。携带宝可梦受到水招式\n"
+            "一次性光苔。携带宝可梦受到水招式"
             "，特防就会提高。"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
@@ -9208,7 +9208,7 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_SNOWBALL,
         .holdEffectParam = 0,
         .description = COMPOUND_STRING(
-            "一次性雪球。携带宝可梦受到冰属性\n"
+            "一次性雪球。携带宝可梦受到冰属性"
             "，攻击就会提高。"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
@@ -9749,7 +9749,7 @@ const struct ItemInfo gItemsInfo[] =
     #endif
         .holdEffect = HOLD_EFFECT_FOCUS_SASH,
         .description = COMPOUND_STRING(
-            "满HP时即使受致命伤，也能以1H\n"
+            "满HP时即使受致命伤，也能以1H"
             "P撑过去1次。"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
@@ -10353,7 +10353,7 @@ const struct ItemInfo gItemsInfo[] =
         .price = (I_PRICE >= GEN_9) ? 20000 : 4000,
         .holdEffect = HOLD_EFFECT_THROAT_SPRAY,
         .description = COMPOUND_STRING(
-            "使用声音相关的招式时，特攻会提高\n"
+            "使用声音相关的招式时，特攻会提高"
             "。"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
@@ -10780,8 +10780,8 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("西梨果"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "制作{POKEBLOCK}的原料\n"
-            "。种在肥沃的土壤里就会长出岳竹果\l"
+            "制作{POKEBLOCK}的原料"
+            "。种在肥沃的土壤里就会长出岳竹果"
             "。"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
@@ -10797,8 +10797,8 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("菠梨果"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "制作{POKEBLOCK}的原料\n"
-            "。种在肥沃的土壤里就会长出菠梨果\l"
+            "制作{POKEBLOCK}的原料"
+            "。种在肥沃的土壤里就会长出菠梨果"
             "。"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
@@ -10916,8 +10916,8 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("玉芝果"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "制作{POKEBLOCK}的原料\n"
-            "。种在肥沃的土壤里就会长出玉芝果\l"
+            "制作{POKEBLOCK}的原料"
+            "。种在肥沃的土壤里就会长出玉芝果"
             "。"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
@@ -10933,7 +10933,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("檬果"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "制作{POKEBLOCK}的原料\n"
+            "制作{POKEBLOCK}的原料"
             "。种在肥沃的土壤里就会长出檬果。"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
@@ -10949,8 +10949,8 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("茸丹果"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "制作{POKEBLOCK}的原料\n"
-            "。种在肥沃的土壤里就会长出茸丹果\l"
+            "制作{POKEBLOCK}的原料"
+            "。种在肥沃的土壤里就会长出茸丹果"
             "。"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
@@ -10966,8 +10966,8 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("檬柠果"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "制作{POKEBLOCK}的原料\n"
-            "。种在肥沃的土壤里就会长出檬柠果\l"
+            "制作{POKEBLOCK}的原料"
+            "。种在肥沃的土壤里就会长出檬柠果"
             "。"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
@@ -10983,8 +10983,8 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("刺角果"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "制作{POKEBLOCK}的原料\n"
-            "。种在肥沃的土壤里就会长出刺角果\l"
+            "制作{POKEBLOCK}的原料"
+            "。种在肥沃的土壤里就会长出刺角果"
             "。"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
@@ -11000,8 +11000,8 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("椰木果"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "制作{POKEBLOCK}的原料\n"
-            "。种在肥沃的土壤里就会长出椰木果\l"
+            "制作{POKEBLOCK}的原料"
+            "。种在肥沃的土壤里就会长出椰木果"
             "。"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
@@ -11017,8 +11017,8 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("瓜西果"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "制作{POKEBLOCK}的原料\n"
-            "。种在肥沃的土壤里就会长出瓜西果\l"
+            "制作{POKEBLOCK}的原料"
+            "。种在肥沃的土壤里就会长出瓜西果"
             "。"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
@@ -11034,8 +11034,8 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("须木果"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "制作{POKEBLOCK}的原料\n"
-            "。种在肥沃的土壤里就会长出须木果\l"
+            "制作{POKEBLOCK}的原料"
+            "。种在肥沃的土壤里就会长出须木果"
             "。"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
@@ -11554,7 +11554,7 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_CUSTAP_BERRY,
         .holdEffectParam = 4,
         .description = COMPOUND_STRING(
-            "携带后，危机时，行动仅会变快1次\n"
+            "携带后，危机时，行动仅会变快1次"
             "。"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,
@@ -11638,7 +11638,7 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("谜芝果"),
         .price = (I_BERRY_PRICE >= GEN_8) ? 80 : 20,
         .description = COMPOUND_STRING(
-            "制作{POKEBLOCK}的原料\n"
+            "制作{POKEBLOCK}的原料"
             "。种在松软的泥土里，不知会长出什\l"
             "么来。"),
         .pocket = POCKET_BERRIES,
@@ -12261,7 +12261,7 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("招式学习器46"),
         .price = 3000,
         .description = COMPOUND_STRING(
-            "攻击时盗取道具。当自己携带道具时\n"
+            "攻击时盗取道具。当自己携带道具时"
             "，不会去盗取。"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
@@ -12401,7 +12401,7 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("招式学习器57"),
         .price = 3000,
         .description = COMPOUND_STRING(
-            "发射电击光束攻击。有时会提高特攻\n"
+            "发射电击光束攻击。有时会提高特攻"
             "。"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
@@ -12489,7 +12489,7 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("招式学习器64"),
         .price = 3000,
         .description = COMPOUND_STRING(
-            "引发剧烈的大爆炸，给予极大的伤害\n"
+            "引发剧烈的大爆炸，给予极大的伤害"
             "，但自己也会陷入濒死。"),
         .importance = I_REUSABLE_TMS,
         .pocket = POCKET_TM_HM,
@@ -12992,7 +12992,7 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("秘传学习器03"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "利用大浪攻击自己周围所有的宝可梦\n"
+            "利用大浪攻击自己周围所有的宝可梦"
             "。"),
         .importance = 1,
         .pocket = POCKET_TM_HM,
@@ -13030,7 +13030,7 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("秘传学习器06"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "用拳头攻击。有时会降低对手的防御\n"
+            "用拳头攻击。有时会降低对手的防御"
             "。"),
         .importance = 1,
         .pocket = POCKET_TM_HM,
@@ -13333,7 +13333,7 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("自行车"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "能比跑步鞋跑得还快的折叠式自行车\n"
+            "能比跑步鞋跑得还快的折叠式自行车"
             "。"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
@@ -13459,7 +13459,7 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("对战搜寻器"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "会告诉你想对战的训练家在哪的机器\n"
+            "会告诉你想对战的训练家在哪的机器"
             "。走路就能充电。"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
@@ -13524,7 +13524,7 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("代币盒"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "可以存放代币的盒子。最多能放入5\n"
+            "可以存放代币的盒子。最多能放入5"
             "0000枚。"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
@@ -13599,7 +13599,7 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("集灰袋"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "将堆积起来的火山灰收集起来的袋子\n"
+            "将堆积起来的火山灰收集起来的袋子"
             "。"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
@@ -14755,7 +14755,7 @@ const struct ItemInfo gItemsInfo[] =
         .price = 20,
         .holdEffect = HOLD_EFFECT_BERSERK_GENE,
         .description = COMPOUND_STRING(
-            "攻击的威力就会提高，但会造成混乱\n"
+            "攻击的威力就会提高，但会造成混乱"
             "。"),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_HELD_ITEM,
@@ -15342,7 +15342,7 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("无限除虫喷雾"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "能够永久驱避弱小野生宝可梦的道具\n"
+            "能够永久驱避弱小野生宝可梦的道具"
             "。"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
@@ -15400,7 +15400,7 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("机械零件"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "修理发电厂的发电机时所必需的零件\n"
+            "修理发电厂的发电机时所必需的零件"
             "。"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
@@ -15604,7 +15604,7 @@ const struct ItemInfo gItemsInfo[] =
         .holdEffect = HOLD_EFFECT_RESTORE_HP,
         .holdEffectParam = 30,
         .description = COMPOUND_STRING(
-            "宝可梦的携带物品。能回复携带者3\n"
+            "宝可梦的携带物品。能回复携带者3"
             "0点HP。"),
         .pocket = POCKET_BERRIES,
         .type = ITEM_USE_BAG_MENU,

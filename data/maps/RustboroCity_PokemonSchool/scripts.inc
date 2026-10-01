@@ -265,8 +265,8 @@ RustboroCity_PokemonSchool_Text_ConfusedPokemonAttacksItself:
 	.string "宝可梦混乱吗？\p"
 	.string "混乱的宝可梦有时会不知为何攻击自\n"
 	.string "己。\p"
-	.string "但一旦它退出战斗，它就会恢复正常\n"
-	.string "。$"
+	.string "但一旦它退出战斗，它就会恢复正\n"
+	.string "常。$"
 
 RustboroCity_PokemonSchool_Text_PokemonHealItselfWithBerry:
 	.string "带着树果的宝可梦能够自我治疗……\p"
@@ -278,8 +278,8 @@ RustboroCity_PokemonSchool_Text_StudentsNotes:
 	.string "用精灵球可以捕捉宝可梦。\p"
 	.string "一个训练家最多可以同时携带6只宝\n"
 	.string "可梦。\p"
-	.string "训练家就是捕捉宝可梦，并培育它们\n"
-	.string "，与它们共同战斗的人。\p"
+	.string "训练家就是捕捉宝可梦，并培育它\n"
+	.string "们，与它们共同战斗的人。\p"
 	.string "训练家的任务是打败在宝可梦道馆中\n"
 	.string "等待着的强大训练家。$"
 
@@ -289,8 +289,8 @@ RustboroCity_PokemonSchool_Text_ScottMetAlreadyCut:
 	.string "我来自我介绍一下。我叫亚希达，\p"
 	.string "正为了寻找出类拔萃的训练家而四处\n"
 	.string "旅行，\p"
-	.string "具体地说，就是寻找宝可梦对战专家\n"
-	.string "。\p"
+	.string "具体地说，就是寻找宝可梦对战专\n"
+	.string "家。\p"
 	.string "你为什么会来这所学校呢？你也是训\n"
 	.string "练家吗？\p"
 	.string "那你首先要做的就是拥有一只会居合\n"

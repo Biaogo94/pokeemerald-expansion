@@ -35,8 +35,8 @@ LavaridgeTown_Mart_EventScript_OldWoman::
 LavaridgeTown_Mart_Text_XSpeedFirstStrike:
 	.string "用速度强化给对战中的宝可梦提升速\n"
 	.string "度，\p"
-	.string "那样它就有可能抢先攻击——明显会\n"
-	.string "成为优势！$"
+	.string "那样它就有可能抢先攻击——明显会成\n"
+	.string "为优势！$"
 
 LavaridgeTown_Mart_Text_LocalSpecialtyOnMtChimney:
 	.string "只有在烟囱山山顶才能买到当地的特\n"

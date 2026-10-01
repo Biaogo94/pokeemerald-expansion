@@ -115,8 +115,8 @@ PokemonLeague_AgathasRoom_Text_RematchIntro::
 	.string "{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_AgathasRoom_Text_Defeat::
-	.string "啊，真是了不得啊！你确实有些特别\n"
-	.string "，孩子！$"
+	.string "啊，真是了不得啊！你确实有些特\n"
+	.string "别，孩子！$"
 
 PokemonLeague_AgathasRoom_Text_PostBattle::
 	.string "是你赢了我！\p"

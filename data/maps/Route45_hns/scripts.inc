@@ -126,8 +126,8 @@ Route45_Text_HikerMichaelBeaten:
     .string "我的宝可梦干劲还不够足啊！$"
 
 Route45_Text_HikerMichaelAfter:
-    .string "哎呀，我真是太喜欢HP增强剂了！\n"
-    .string "嗯~美味！\p"
+    .string "哎呀，我真是太喜欢HP增强剂了！嗯\n"
+    .string "~美味！\p"
     .string "我总忍不住喝掉宝可梦的那份！\p"
     .string "根本停不下来啊！$"
 
@@ -162,7 +162,7 @@ Route45_Text_HikerTimothySeen:
     .string "因为它们就在那里！$"
 
 Route45_Text_HikerTimothyBeaten:
-    .string "失败……也是无法避免的啊\n"
+    .string "失败……也是无法避免的啊"
     .string "！$"
 
 Route45_Text_HikerTimothyAfter:
@@ -172,8 +172,8 @@ Route45_Text_HikerTimothyAfter:
 Route45_Text_HikerParryGivesIron:
     .string "我就是找不到获胜的方法！\p"
     .string "继续加油吧！\p"
-    .string "哦对了，收下这个吧--这是上次见\n"
-    .string "面时你包满没能拿走的礼物。$"
+    .string "哦对了，收下这个吧--这是上次见面\n"
+    .string "时你包满没能拿走的礼物。$"
 
 Route45_Text_BlackbeltKenjiSeen:
     .string "我一直独自在此修行。\p"
@@ -251,13 +251,12 @@ Route45_Text_CamperQuentinSeen:
     .string "我可是超级超级强的！$"
 
 Route45_Text_CamperQuentinBeaten:
-    .string "我在训练家之丘的时候明明很强的。\n"
-    .string ".....$"
+    .string "我在训练家之丘的时候明明很强的"
+    .string "。.....$"
 
 Route45_Text_CamperQuentinAfter:
     .string "你去过训练家之丘吗？\p"
-    .string "我在那里可从来没输过，但是...\n"
-    .string "...$"
+    .string "我在那里可从来没输过，但是......$"
 
 Route45_Text_Sign:
     .string "45号道路前方山路$"

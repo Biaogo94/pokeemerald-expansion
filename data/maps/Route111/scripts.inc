@@ -585,8 +585,8 @@ Route111_Text_VictorPostBattle:
 
 Route111_Text_VictoriaIntro:
 	.string "哦，天啊，这么年轻！\p"
-	.string "你就是那个打败了我丈夫的训练家吧\n"
-	.string "，\p"
+	.string "你就是那个打败了我丈夫的训练家\n"
+	.string "吧，\p"
 	.string "轮到我跟你对战了！$"
 
 Route111_Text_VictoriaDefeat:
@@ -608,12 +608,11 @@ Route111_Text_ViviPostBattle:
 
 Route111_Text_VickyIntro:
 	.string "是你把我孙女惹哭了的吗？\p"
-	.string "那么，我要打倒你！做好输的准备吧\n"
-	.string "！$"
+	.string "那么，我要打倒你！做好输的准备\n"
+	.string "吧！$"
 
 Route111_Text_VickyDefeat:
-	.string "咕哇！你太厉害了……我孙女是对的\n"
-	.string "……$"
+	.string "咕哇！你太厉害了……我孙女是对的……$"
 
 Route111_Text_VickyPostBattle:
 	.string "如果你不是很忙，就进来坐会儿吧。$"
@@ -638,13 +637,13 @@ Route111_Text_WinstrateHouseSign:
 
 Route111_Text_RouteSign112:
 	.string "111号道路\n"
-	.string "{LEFT_ARROW}112号\l"
-	.string "道路$"
+	.string "{LEFT_ARROW}112号道\l"
+	.string "路$"
 
 Route111_Text_RouteSign113:
 	.string "111号道路\n"
-	.string "{LEFT_ARROW}113号\l"
-	.string "道路$"
+	.string "{LEFT_ARROW}113号道\l"
+	.string "路$"
 
 Route111_Text_OldLadysRestStopSign:
 	.string "简康奶奶的家“欢迎进来歇脚。”$"
@@ -665,10 +664,9 @@ Route111_Text_MirageTowerClearlyVisible:
 	.string "我看到了！沙形成的塔！\p"
 	.string "那座以幻影冠名的沙塔清清楚楚地现\n"
 	.string "身了！\p"
-	.string "但它看上去好像一推就倒……也许随\n"
-	.string "时会倒下……\p"
-	.string "我想进里面去，但我总提不起勇气…\n"
-	.string "…$"
+	.string "但它看上去好像一推就倒……也许随时\n"
+	.string "会倒下……\p"
+	.string "我想进里面去，但我总提不起勇气……$"
 
 Route111_Text_ThatWasShockingSandRainedDown:
 	.string "哇……太惊人了，\p"
@@ -688,8 +686,8 @@ Route111_Text_RootFossilDisappeared:
 
 Route111_Text_MauvilleUncleToldMeToTakeRockSmash:
 	.string "呀，糟糕！\p"
-	.string "叔叔在紫堇市嘱咐过我去111号道\n"
-	.string "路要带上碎岩！\p"
+	.string "叔叔在紫堇市嘱咐过我去111号道路\n"
+	.string "要带上碎岩！\p"
 	.string "我叔叔在哪？他就住在紫堇市的车店\n"
 	.string "对面。$"
 

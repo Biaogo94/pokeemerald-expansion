@@ -151,14 +151,13 @@ ViridianCity_School_Text_ExplainSleep::
 	.string "用解眠药可以叫醒它。$"
 
 ViridianCity_School_Text_ExplainBurn::
-	.string "烧伤会减少攻击力。而且会引起HP\n"
-	.string "的损失。\p"
+	.string "烧伤会减少攻击力。而且会引起HP的\n"
+	.string "损失。\p"
 	.string "在战斗结束后烧伤会一直持续。用灼\n"
 	.string "伤药可以治烧伤。$"
 
 ViridianCity_School_Text_ExplainPoison::
-	.string "宝可梦中毒以后，每回合都会损失H\n"
-	.string "P。\p"
+	.string "宝可梦中毒以后，每回合都会损失HP。\p"
 	.string "而且战斗结束也不会消失。可以用解\n"
 	.string "毒药治疗中毒！$"
 

@@ -15,8 +15,7 @@ SSAqua_RoomSSW_Text_FirebreatherLyleSeen:
     .string "我要去关都表演喷火特技！$"
 
 SSAqua_RoomSSW_Text_FirebreatherLyleBeaten:
-    .string "扑哧……火苗太小了...\n"
-    .string "...$"
+    .string "扑哧……火苗太小了......$"
 
 SSAqua_RoomSSW_Text_FirebreatherLyleAfterBattle:
     .string "看来在海上火势会变弱啊。跟这没关\n"

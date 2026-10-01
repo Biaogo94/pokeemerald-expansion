@@ -187,8 +187,8 @@ FiveIsland_RocketWarehouse_Text_Grunt2Defeat::
 	.string "你清楚自己在做什么吗？！$"
 
 FiveIsland_RocketWarehouse_Text_Grunt2PostBattle::
-	.string "你说火箭队解散了？你来自哪个星球\n"
-	.string "？$"
+	.string "你说火箭队解散了？你来自哪个星\n"
+	.string "球？$"
 
 FiveIsland_RocketWarehouse_Text_Grunt1Intro::
 	.string "哦，你的宝可梦现在看起来很强。愿\n"
@@ -266,7 +266,7 @@ FiveIsland_RocketWarehouse_Text_GideonIntro::
 	.string "我差一点就能把蓝宝石卖了赚到大笔\n"
 	.string "大笔的钱……\p"
 	.string "你却过来毁了整个交易！\p"
-	.string "呋呋……呋呋呋呋……绝不能饶恕你\n"
+	.string "呋呋……呋呋呋呋……绝不能饶恕你"
 	.string "！$"
 
 FiveIsland_RocketWarehouse_Text_GideonDefeat::
@@ -282,10 +282,10 @@ FiveIsland_RocketWarehouse_Text_GetLostLeaveMeBe::
 
 FiveIsland_RocketWarehouse_Text_GiovannisKidHasRedHair::
 	.string "什么，又是你？\p"
-	.string "你……你莫非是坂木的孩子？我没认\n"
-	.string "错吧？\p"
-	.string "不，我认错了。坂木的孩子是红头发\n"
-	.string "。\p"
-	.string "那你别来烦我了。让我单独呆一会儿\n"
-	.string "！$"
+	.string "你……你莫非是坂木的孩子？我没认错\n"
+	.string "吧？\p"
+	.string "不，我认错了。坂木的孩子是红头\n"
+	.string "发。\p"
+	.string "那你别来烦我了。让我单独呆一会\n"
+	.string "儿！$"
 

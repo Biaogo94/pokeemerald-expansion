@@ -45,8 +45,8 @@ PokemonMansion_1F_Text_JohnsonIntro::
 	.string "是鬼呢。$"
 
 PokemonMansion_1F_Text_JohnsonDefeat::
-	.string "啊啊！我没有得到过哪怕是一场胜利\n"
-	.string "。$"
+	.string "啊啊！我没有得到过哪怕是一场胜\n"
+	.string "利。$"
 
 PokemonMansion_1F_Text_JohnsonPostBattle::
 	.string "我一个人到这里来探索，但我觉得很\n"

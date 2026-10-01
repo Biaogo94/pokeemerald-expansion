@@ -48,16 +48,15 @@ SSAqua_RoomNW_Text_SailorStanlyBeaten:
 	.string "对不起！都是我的错！$"
 
 SSAqua_RoomNW_Text_SailorStanlyAfterBattle:
-	.string "当水手净是些体力活，真是累死人了\n"
-	.string "！$"
+	.string "当水手净是些体力活，真是累死人\n"
+	.string "了！$"
 
 SSAqua_RoomNW_Text_GentlemanEdwardSeen:
 	.string "哎呀糟了，我把非常重要的东西给弄\n"
 	.string "丢了。$"
 
 SSAqua_RoomNW_Text_GentlemanEdwardBeaten:
-	.string "找……找不到啊……\n"
-	.string ".$"
+	.string "找……找不到啊…….$"
 
 SSAqua_RoomNW_Text_GentlemanEdwardAfterBattle:
 	.string "我放弃了。你也不用找了。\p"
@@ -71,5 +70,4 @@ SSAqua_RoomNW_Text_BurglarCoreyBeaten:
 
 SSAqua_RoomNW_Text_BurglarCoreyAfterBattle:
 	.string "我在这里捡到了一枚漂亮的硬币。\p"
-	.string "一定是有人不小心弄丢的……\n"
-	.string ".$"
+	.string "一定是有人不小心弄丢的…….$"

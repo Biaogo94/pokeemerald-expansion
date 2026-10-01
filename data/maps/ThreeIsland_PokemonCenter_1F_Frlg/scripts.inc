@@ -39,8 +39,8 @@ ThreeIsland_PokemonCenter_1F_Text_ImpossibleToSurfBetweenIslands::
 	.string "个方向流……$"
 
 ThreeIsland_PokemonCenter_1F_Text_AlwaysBerriesInBerryForest::
-	.string "让我们碾碎树果吧！……你说那会浪\n"
-	.string "费树果？\p"
+	.string "让我们碾碎树果吧！……你说那会浪费\n"
+	.string "树果？\p"
 	.string "在树果森林的路面上你经常会找到树\n"
 	.string "果！$"
 

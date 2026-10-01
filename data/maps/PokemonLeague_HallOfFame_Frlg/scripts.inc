@@ -62,8 +62,8 @@ PokemonLeague_HallOfFame_Text_OakCongratulations::
 	.string "他们的宝可梦也会被记录在荣誉殿堂\n"
 	.string "里。\p"
 	.string "{PLAYER}！\p"
-	.string "你努力战斗到此成为了新的联盟冠军\n"
-	.string "。\p"
+	.string "你努力战斗到此成为了新的联盟冠\n"
+	.string "军。\p"
 	.string "祝贺你，{PLAYER}，你和你\n"
 	.string "的宝可梦是荣誉殿堂的成员了！$"
 

@@ -19,13 +19,13 @@ Route111_Text_ExplainSecretPower:
 	.string "我要继续去找别的地方了。再见！$"
 
 Route111_Text_DontWantThis:
-	.string "啊？你不想要吗？\n"
-	.string "改变主意了随时找我呀！$"
+	.string "啊？你不想要吗？改变主意了随时找\n"
+	.string "我呀！$"
 
 Route111_Text_DontHaveAnyRoom:
 	.string "啊，你的背包好像满了！\p"
-	.string "我先帮你拿着，等下次背包\n"
-	.string "空出来了，再过来拿吧！$"
+	.string "我先帮你拿着，等下次背包空出来\n"
+	.string "了，再过来拿吧！$"
 
 Route111_EventScript_SecretPowerMan::
 	lock

@@ -105,8 +105,8 @@ PokemonTower_2F_Text_RivalIntro::
 	.string "{PLAYER}！什么风把你吹来\l"
 	.string "的？你的宝可梦死了吗？\p"
 	.string "嘿！还活着嘛！\p"
-	.string "我至少还可以把它们打到晕！开战吧\n"
-	.string "！$"
+	.string "我至少还可以把它们打到晕！开战\n"
+	.string "吧！$"
 
 PokemonTower_2F_Text_RivalDefeat::
 	.string "什么？你这个讨厌鬼！\p"
@@ -124,6 +124,6 @@ PokemonTower_2F_Text_RivalPostBattle::
 
 PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts::
 	.string "我们无法确认幽灵的真面目！\p"
-	.string "用西尔佛观测镜的话也许就能看清了\n"
-	.string "！$"
+	.string "用西尔佛观测镜的话也许就能看清\n"
+	.string "了！$"
 

@@ -101,13 +101,12 @@ Text_WelcomeWantToHealPkmn_Frlg::
 	.string "要为你的宝可梦恢复健康吗？$"
 
 Text_TakeYourPkmnForFewSeconds_Frlg::
-	.string "好的，我先带你的宝可梦\n"
-	.string "去治疗一下。$"
+	.string "好的，我先带你的宝可梦去治疗一\n"
+	.string "下。$"
 
 Text_WeHopeToSeeYouAgain_Frlg::
 	.string "欢迎下次再来！$"
 
 Text_RestoredPkmnToFullHealth_Frlg::
-	.string "谢谢等待。\n"
-	.string "你的宝可梦已经恢复到\l"
-	.string "最佳状态。$"
+	.string "谢谢等待。你的宝可梦已经恢复到最\n"
+	.string "佳状态。$"

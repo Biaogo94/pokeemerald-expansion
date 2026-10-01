@@ -87,9 +87,8 @@ MtMoon_Cave_Movement_SilverLeave:
 MtMoon_Cave_Text_Rival_Before:
 	.string "..........................................\p"
 	.string "好久不见了，{PLAYER}。\p"
-	.string "……自从败给你之后，我就\n"
-	.string "一直在思考我和我的宝可梦到底缺少\l"
-	.string "了什么……\p"
+	.string "……自从败给你之后，我就一直在思考\n"
+	.string "我和我的宝可梦到底缺少了什么……\p"
 	.string "现在，我们已经找到了答案。\p"
 	.string "{PLAYER}，就让你见识一下\n"
 	.string "我们的成果！$"
@@ -98,8 +97,7 @@ MtMoon_Cave_Text_Rival_Win:
 	.string "..........................................\p"
 	.string "我本以为自己已经把宝可梦培育到了\n"
 	.string "最强……\p"
-	.string "……可结果还是不够吗..\n"
-	.string "....$"
+	.string "……可结果还是不够吗......$"
 
 MtMoon_Cave_Text_Rival_After:
 	.string "………………\p"

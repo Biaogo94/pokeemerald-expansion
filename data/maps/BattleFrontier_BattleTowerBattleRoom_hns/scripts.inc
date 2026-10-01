@@ -497,22 +497,18 @@ BattleFrontier_BattleTowerBattleRoom_Text_GreetingsImAnabel_hns:
 	.string "你好……我叫莉拉。\p"
 	.string "我是对战大君，负责管理这座对战\n"
 	.string "塔……\p"
-	.string "我听到了关于你的不少传闻...\n"
-	.string "...\p"
+	.string "我听到了关于你的不少传闻......\p"
 	.string "说实话，听起来好像并没有什么特别\n"
 	.string "吸引人的地方……\p"
-	.string "我来这里见你……嗯，理由\n"
-	.string "只有一个……$"
+	.string "我来这里见你……嗯，理由只有一个……$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_LetMeSeeYourTalent_hns:
-	.string "让我见识见识你全部的才能吧..\n"
-	.string "....$"
+	.string "让我见识见识你全部的才能吧......$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognized_hns:
-	.string "莉拉：呵呵呵，干得漂亮……\n"
-	.string "..\p"
-	.string "请出示你的开拓通行证……\n"
-	.string "你的才能值得受到认可。$"
+	.string "莉拉：呵呵呵，干得漂亮……..\p"
+	.string "请出示你的开拓通行证……你的才能值\n"
+	.string "得受到认可。$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReceivedAbilitySymbol_hns:
 	.string "开拓通行证上刻印了能力象征！$"
@@ -526,12 +522,10 @@ BattleFrontier_BattleTowerBattleRoom_Text_UntilNextTime_hns:
 	.string "遇……$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelYouCameBack_hns:
-	.string "莉拉：你真的又回来见我了呢..\n"
-	.string "....\p"
+	.string "莉拉：你真的又回来见我了呢......\p"
 	.string "..................\p"
-	.string "一路连胜来见我……面对\n"
-	.string "你，我也用不着手下留情了...\l"
-	.string "...\p"
+	.string "一路连胜来见我……面对你，我也用不\n"
+	.string "着手下留情了......\p"
 	.string "真是太久了……\p"
 	.string "已经很久没有这样什么都不用想、全\n"
 	.string "心全意地去对战了……$"
@@ -540,8 +534,8 @@ BattleFrontier_BattleTowerBattleRoom_Text_LetsBeginShallWe_hns:
 	.string "那么，开始吧？$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelCongratsYourPassPlease_hns:
-	.string "莉拉：呵呵，恭喜你……请\n"
-	.string "出示一下开拓区通关卡……$"
+	.string "莉拉：呵呵，恭喜你……请出示一下开\n"
+	.string "拓区通关卡……$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AbilitySymbolTookGoldenShine_hns:
 	.string "能力象征散发出了金色的光芒！$"
@@ -550,6 +544,5 @@ BattleFrontier_BattleTowerBattleRoom_Text_WishICouldBattleYouAgain_hns:
 	.string "真的很开心……\p"
 	.string "我从来没有经历过这么令人愉快的宝\n"
 	.string "可梦对战……\p"
-	.string "要是还能和你对战就好了……\n"
-	.string ".$"
+	.string "要是还能和你对战就好了…….$"
 

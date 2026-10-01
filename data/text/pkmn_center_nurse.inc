@@ -20,8 +20,8 @@ gText_WelcomeCutShort::
 	.string "要让您的宝可梦……$"
 
 gText_NoticesGoldCard::
-	.string "那、那是……难道是...\n"
-	.string "...金色卡片？！\p"
+	.string "那、那是……难道是......金色卡片"
+	.string "？！\p"
 	.string "哇，金色的光芒好耀眼！上面的4颗\n"
 	.string "星就像在闪闪发亮！\p"
 	.string "我以前见过几位拥有银色卡片的训练\n"

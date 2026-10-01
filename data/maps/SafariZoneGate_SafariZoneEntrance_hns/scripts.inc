@@ -238,8 +238,8 @@ SafariZoneGate_SafariZoneEntrance_Text_BaobaLastMon:
 SafariZoneGate_SafariZoneEntrance_Text_BaobaDone:
 	.string "啊，{PLAYER}！\p"
 	.string "多亏了你，狩猎地带现在蒸蒸日上！\p"
-	.string "也许我该任命你为狩猎地带的园长。\n"
-	.string ".....\p"
+	.string "也许我该任命你为狩猎地带的园长"
+	.string "。.....\p"
 	.string "不，那也太荒唐了。哈哈哈哈！$"
 
 SafariZoneGate_SafariZoneEntrance_EventScript_EntranceCounterTrigger::
@@ -372,8 +372,8 @@ SafariZoneGate_SafariZoneEntrance_Movement_ReturnToTable:
 SafariZoneGate_SafariZoneEntrance_Text_BaobaWelcome:
 	.string "嗨，{PLAYER}！我等你很久\n"
 	.string "了。你觉得这里怎么样？\p"
-	.string "顺便说一句，这是个全新的狩猎地带\n"
-	.string "......\p"
+	.string "顺便说一句，这是个全新的狩猎地\n"
+	.string "带......\p"
 	.string "而且还在扩建中呢！\p"
 	.string "目前我们已经开放了两个区域，还有\n"
 	.string "另外4个区域正在筹备中！\p"
@@ -382,9 +382,9 @@ SafariZoneGate_SafariZoneEntrance_Text_BaobaWelcome:
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaPokeblocks:
 	.string "哎呀！我差点忘了。\p"
-	.string "宝可方块是我这狩猎地带的一大特色\n"
-	.string "，也是不可或缺的，所以你最好带上\l"
-	.string "这个！$"
+	.string "宝可方块是我这狩猎地带的一大特\n"
+	.string "色，也是不可或缺的，所以你最好带\l"
+	.string "上这个！$"
 
 SafariZoneGate_SafariZoneEntrance_Text_Baoba:
 	.string "嗨，{PLAYER}！\p"
@@ -396,13 +396,14 @@ SafariZoneGate_SafariZoneEntrance_Text_Boy:
 	.string "引出拥有隐藏特性的宝可梦哦！\p"
 	.string "宝可方块的种类还会影响宝可梦的性\n"
 	.string "格。\p"
-	.string "更棒的是，根据使用的宝可方块种类\n"
-	.string "，还能吸引到满个体值的宝可梦呢！\p"
+	.string "更棒的是，根据使用的宝可方块种\n"
+	.string "类，还能吸引到满个体值的宝可梦\l"
+	.string "呢！\p"
 	.string "墙上的图表写满了详细信息。$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BoyGiveCase:
 	.string "来，这个你好像用得上。$"
 
 SafariZoneGate_SafariZoneEntrance_Text_Engineer:
-	.string "训练家，抱歉啦！这里还在施工中呢\n"
-	.string "。过一阵子再来看看吧！$"
+	.string "训练家，抱歉啦！这里还在施工中\n"
+	.string "呢。过一阵子再来看看吧！$"

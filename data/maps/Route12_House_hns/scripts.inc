@@ -34,14 +34,14 @@ Route12_House_Text_OfferSuperRod:
 
 Route12_House_Text_GiveSuperRod:
 	.string "对嘛对嘛！果然不出我所料！\p"
-	.string "来，钓鱼迷！收下这个--这是厉害\n"
-	.string "钓竿。$"
+	.string "来，钓鱼迷！收下这个--这是厉害钓\n"
+	.string "竿。$"
 
 Route12_House_Text_GaveSuperRod:
 	.string "只要是有水的地方，就去挥竿试试看\n"
 	.string "吧。\p"
-	.string "记住了--使用不同的钓竿，钓到的\n"
-	.string "宝可梦也是不一样的哦。$"
+	.string "记住了--使用不同的钓竿，钓到的宝\n"
+	.string "可梦也是不一样的哦。$"
 
 Route12_House_Text_DontWantSuperRod:
 	.string "咦？难道是我看走眼了？$"

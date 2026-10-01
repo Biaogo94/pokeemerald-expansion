@@ -48,14 +48,14 @@ RadioTower1F_EventScript_Whitney::
 RadioTower1F_Text_Whitney1::
 	.string "小茜：嗨！\p"
 	.string "我叫小茜！\p"
-	.string "我听说这里有答题赢取广播卡的活动\n"
-	.string "，就赶过来参加了……\p"
+	.string "我听说这里有答题赢取广播卡的活\n"
+	.string "动，就赶过来参加了……\p"
 	.string "但这问答也太难了吧！$"
 
 RadioTower1F_Text_Whitney2::
 	.string "小茜：哇，你居然答对了！\p"
-	.string "我还以为第三题的答案肯定是圆柑呢\n"
-	.string "！哎呀！\p"
+	.string "我还以为第三题的答案肯定是圆柑\n"
+	.string "呢！哎呀！\p"
 	.string "我也差不多该回道馆去啦！$"
 
 RadioTower1F_EventScript_Reception::
@@ -356,8 +356,8 @@ GoldenrodCity_RadioTower_1F_EventScript_GivePrizeFromEarlier::
 GoldenrodCity_RadioTower_1F_Text_LotteryCornerDrawTicket:
 	.string "这里是宝可梦彩票角。\p"
 	.string "要是抽出的彩票号码和你拥有的宝可\n"
-	.string "梦ID编号一致的话，就能获得豪华\l"
-	.string "的奖品哦。\p"
+	.string "梦ID编号一致的话，就能获得豪华的\l"
+	.string "奖品哦。\p"
 	.string "要抽取今天的宝可梦彩票吗？$"
 
 GoldenrodCity_RadioTower_1F_Text_ComeBackTomorrow:
@@ -371,12 +371,12 @@ GoldenrodCity_RadioTower_1F_Text_PleasePickTicket:
 	.string "{PAUSE 0x0F}\l"
 	.string "{PAUSE 0x0F}\l"
 	.string "{PAUSE 0x0F}\l"
-	.string "{PAUSE 0x0F}....\l"
-	.string "..{PAUSE 0x0F}\l"
+	.string "{PAUSE 0x0F}......\l"
 	.string "{PAUSE 0x0F}\l"
 	.string "{PAUSE 0x0F}\l"
-	.string "{PAUSE 0x0F}....\l"
-	.string "..{PAUSE 0x0F}\l"
+	.string "{PAUSE 0x0F}\l"
+	.string "{PAUSE 0x0F}......\l"
+	.string "{PAUSE 0x0F}\l"
 	.string "{PAUSE 0x0F}\l"
 	.string "{PAUSE 0x0F}\l"
 	.string "{PAUSE 0x0F}$"
@@ -385,7 +385,7 @@ GoldenrodCity_RadioTower_1F_Text_TicketNumberIsXPleaseWait:
 	.string "抽到的彩票号码是\n"
 	.string "{STR_VAR_1}。\p"
 	.string "现在为您核对同行或盒子里是否有符\n"
-	.string "合该ID编号的宝可梦。请稍候片刻\l"
+	.string "合该ID编号的宝可梦。请稍候片刻"
 	.string "。$"
 
 GoldenrodCity_RadioTower_1F_Text_TicketMatchesPartyMon:
@@ -396,8 +396,8 @@ GoldenrodCity_RadioTower_1F_Text_TicketMatchesPartyMon:
 GoldenrodCity_RadioTower_1F_Text_TicketMatchesPCMon:
 	.string "恭喜你！\p"
 	.string "你电脑盒子里的\n"
-	.string "{STR_VAR_1}的ID编号\l"
-	.string "与彩票号码一致！$"
+	.string "{STR_VAR_1}的ID编号与\l"
+	.string "彩票号码一致！$"
 
 GoldenrodCity_RadioTower_1F_Text_NoNumbersMatched:
 	.string "很遗憾，没有相符的号码。$"

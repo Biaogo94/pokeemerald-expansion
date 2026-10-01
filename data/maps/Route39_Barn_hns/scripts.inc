@@ -147,12 +147,11 @@ Route39_Text_BarnTwinFeedingMoomoo:
 	.string "哞哞已经完全康复了！太感谢你了！$"
 
 Route39_Text_MoomooWeakMoo:
-	.string "大奶罐：……哞……\n"
-	.string ".$"
+	.string "大奶罐：……哞…….$"
 
 Route39_Text_BarnCryIsWeak:
-	.string "叫声听起来很虚弱……要给\n"
-	.string "大奶罐一颗橙橙果吗？$"
+	.string "叫声听起来很虚弱……要给大奶罐一颗\n"
+	.string "橙橙果吗？$"
 
 Route39_Text_MoomooHappyMoo:
 	.string "大奶罐：哞--！$"
@@ -171,8 +170,7 @@ Route39_Text_BarnTotallyHealthy:
 	.string "大奶罐彻底恢复健康了！$"
 
 Route39_Text_BarnNoBerries:
-	.string "{PLAYER}没有橙橙果...\n"
-	.string "...$"
+	.string "{PLAYER}没有橙橙果......$"
 
 Route39_Text_BarnRefusedBerry:
 	.string "{PLAYER}没有给它橙橙果。\p"

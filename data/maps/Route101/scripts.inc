@@ -265,7 +265,7 @@ Route101_Text_PleaseHelp:
 	.string "在那边的包里面里面有精灵球！$"
 
 Route101_Text_DontLeaveMe:
-	.string "你、你要去哪儿？！别丢下我啊——\n"
+	.string "你、你要去哪儿？！别丢下我啊——"
 	.string "！$"
 
 Route101_Text_YouSavedMe:
@@ -291,6 +291,6 @@ Route101_Text_WildPokemonInTallGrass:
 	.string "里寻找。$"
 
 Route101_Text_RouteSign:
-	.string "101号道路{UP_ARROW}\n"
-	.string "古玫镇$"
+	.string "101号道路{UP_ARROW}古\n"
+	.string "玫镇$"
 

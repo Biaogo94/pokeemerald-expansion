@@ -341,16 +341,15 @@ VerdanturfTown_BattleTentLobby_Text_GentleMonsScaryIfAngry:
 	.string "也会很可怕！$"
 
 VerdanturfTown_BattleTentLobby_Text_AttractionRunsDeep:
-	.string "我对宝可梦感到……它那么地迷人…\n"
-	.string "…\p"
+	.string "我对宝可梦感到……它那么地迷人……\p"
 	.string "啊，你好，你没看见吧？啊，算了，\n"
 	.string "没关系，\p"
 	.string "你想给你的宝可梦用这个招式学习器\n"
 	.string "吗？$"
 
 VerdanturfTown_BattleTentLobby_Text_AttractionMutual:
-	.string "我对宝可梦感到……我想这吸引力一\n"
-	.string "定是相互的！\p"
+	.string "我对宝可梦感到……我想这吸引力一定\n"
+	.string "是相互的！\p"
 	.string "它们对战时完全按照我想的那样做！$"
 
 VerdanturfTown_BattleTentLobby_Text_TaughtWhatKindsOfMoves:
@@ -362,8 +361,8 @@ VerdanturfTown_BattleTentLobby_Text_ScottCanMeetToughTrainers:
 	.string "亚希达：嗨，{PLAYER}\n"
 	.string "{KUN}！我就知道能在这儿遇到\l"
 	.string "你，\p"
-	.string "因为，无论规则如何，无论战斗怎样\n"
-	.string "，\p"
+	.string "因为，无论规则如何，无论战斗怎\n"
+	.string "样，\p"
 	.string "你总能在对战帐篷中碰见强大的训练\n"
 	.string "家。\p"
 	.string "{PLAYER}{KUN}，我希\n"

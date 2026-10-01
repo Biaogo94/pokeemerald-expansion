@@ -37,13 +37,13 @@ MossdeepCity_House3_Text_SuperRodIsSuper:
 	.string "常妙！$"
 
 MossdeepCity_House3_Text_TryDroppingRodInWater:
-	.string "只要有水，就甩出你的钓竿来钓鱼吧\n"
-	.string "！$"
+	.string "只要有水，就甩出你的钓竿来钓鱼\n"
+	.string "吧！$"
 
 MossdeepCity_House3_Text_DontYouLikeToFish:
 	.string "哎？你不喜欢钓鱼吗？$"
 
 MossdeepCity_House3_Text_GoAfterSeafloorPokemon:
-	.string "用你的厉害钓竿寻找海底的宝可梦吧\n"
-	.string "。$"
+	.string "用你的厉害钓竿寻找海底的宝可梦\n"
+	.string "吧。$"
 

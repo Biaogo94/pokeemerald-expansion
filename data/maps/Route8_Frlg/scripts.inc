@@ -32,12 +32,12 @@ Route8_Text_GlennDefeat::
 	.string "这不可能！$"
 
 Route8_Text_GlennPostBattle::
-	.string "首先跟着臭泥走……接着…………接\n"
-	.string "下来……然后……$"
+	.string "首先跟着臭泥走……接着…………接下来……\n"
+	.string "然后……$"
 
 Route8_Text_PaigeIntro::
-	.string "我喜欢尼多家族，所以我在收集它们\n"
-	.string "！$"
+	.string "我喜欢尼多家族，所以我在收集它\n"
+	.string "们！$"
 
 Route8_Text_PaigeDefeat::
 	.string "为什么？为什么？？$"
@@ -100,8 +100,8 @@ Route8_Text_JuliaDefeat::
 
 Route8_Text_JuliaPostBattle::
 	.string "我在宝可梦特刊上读到，\p"
-	.string "皮皮是靠月之石进化的。这是真的吗\n"
-	.string "？$"
+	.string "皮皮是靠月之石进化的。这是真的\n"
+	.string "吗？$"
 
 Route8_Text_UndergroundPathSign::
 	.string "地下通道玉虹市-紫苑镇$"
@@ -111,8 +111,7 @@ Route8_Text_EliIntro::
 	.string "知道吗？$"
 
 Route8_Text_EliDefeat::
-	.string "莉娜但是……这种力量已经用过了…\n"
-	.string "…$"
+	.string "莉娜但是……这种力量已经用过了……$"
 
 Route8_Text_EliPostBattle::
 	.string "莉娜 我和卡娜一起抓住了我的宝可\n"

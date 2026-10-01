@@ -22,11 +22,11 @@ GoldenrodUnderground_EventScript_Teacher::
 
 GoldenrodUnderground1_Text_SuperNerd:
 	.string "我在下面被人发起挑战了。\p"
-	.string "地下通道里挺乱的，你最好小心一点\n"
-	.string "。$"
+	.string "地下通道里挺乱的，你最好小心一\n"
+	.string "点。$"
 
 
 GoldenrodUnderground1_Text_Teacher:
-	.string "虽然楼下有些店铺……但也\n"
-	.string "有不少训练家。\p"
+	.string "虽然楼下有些店铺……但也有不少训练\n"
+	.string "家。\p"
 	.string "我可不敢下去。$"

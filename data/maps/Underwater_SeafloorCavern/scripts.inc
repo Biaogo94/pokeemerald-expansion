@@ -41,7 +41,7 @@ Underwater_SeafloorCavern_EventScript_CheckStolenSub::
 	end
 
 Underwater_SeafloorCavern_Text_SubExplorer1:
-	.string "船体上涂着“海渊1号潜艇”的字样\n"
+	.string "船体上涂着“海渊1号潜艇”的字样"
 	.string "。\p"
 	.string "这就是那艘海洋队从凯那市偷走的潜\n"
 	.string "水艇！\p"

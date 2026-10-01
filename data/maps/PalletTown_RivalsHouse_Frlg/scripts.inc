@@ -172,8 +172,8 @@ PalletTown_RivalsHouse_Text_HiBrothersAtLab::
 
 PalletTown_RivalsHouse_Text_HeardYouBattledRival::
 	.string "奈奈美：{PLAYER}，我听说\n"
-	.string "你和{RIVAL}进行了一场战斗\l"
-	.string "。\p"
+	.string "你和{RIVAL}进行了一场战\l"
+	.string "斗。\p"
 	.string "我真想看啊！$"
 
 PalletTown_RivalsHouse_Text_ErrandForGrandpaThisWillHelp::
@@ -209,8 +209,8 @@ PalletTown_RivalsHouse_Text_LikeMeToGroomMon::
 	.string "奈奈美：嗨，{PLAYER}！来\n"
 	.string "得正好。\p"
 	.string "我正打算喝点茶。要不要来点儿？\p"
-	.string "噢，你看看。你的宝可梦有一点脏了\n"
-	.string "。\p"
+	.string "噢，你看看。你的宝可梦有一点脏\n"
+	.string "了。\p"
 	.string "你想让我帮它们梳理一下毛发吗？$"
 
 PalletTown_RivalsHouse_Text_DontNeedAnyGrooming::
@@ -221,8 +221,8 @@ PalletTown_RivalsHouse_Text_GroomWhichOne::
 	.string "需要我梳理哪一只的毛发？$"
 
 PalletTown_RivalsHouse_Text_LookingNiceInNoTime::
-	.string "奈奈美：好的，我马上让它变得漂亮\n"
-	.string "。$"
+	.string "奈奈美：好的，我马上让它变得漂\n"
+	.string "亮。$"
 
 PalletTown_RivalsHouse_Text_ThereYouGoAllDone::
 #ifdef BUGFIX @ The localizers missed what should be a textcolor change in the localizations.
@@ -237,8 +237,8 @@ PalletTown_RivalsHouse_Text_ThereYouGoAllDone::
 	.string "真是只可爱的宝可梦。$"
 
 PalletTown_RivalsHouse_Text_CantGroomAnEgg::
-	.string "噢，对不起。我真的不能梳理一个蛋\n"
-	.string "。$"
+	.string "噢，对不起。我真的不能梳理一个\n"
+	.string "蛋。$"
 
 PalletTown_RivalsHouse_Text_MayISeeFirstMon::
 	.string "奈奈美：如果你用爱培育你的的宝可\n"

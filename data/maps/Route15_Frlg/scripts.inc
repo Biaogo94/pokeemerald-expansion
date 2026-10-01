@@ -15,8 +15,8 @@ Route15_Text_KindraDefeat::
 Route15_Text_KindraPostBattle::
 	.string "在交换中取得的宝可梦是无法改变其\n"
 	.string "昵称的。\p"
-	.string "只有最初得到它的训练家能改变昵称\n"
-	.string "。$"
+	.string "只有最初得到它的训练家能改变昵\n"
+	.string "称。$"
 
 Route15_Text_BeckyIntro::
 	.string "你看着软绵绵的，所以我应该能打败\n"
@@ -69,8 +69,8 @@ Route15_Text_OliviaIntro::
 	.string "我是一人军团。$"
 
 Route15_Text_OliviaDefeat::
-	.string "宝可梦对我的意义并不是简单的输赢\n"
-	.string "。$"
+	.string "宝可梦对我的意义并不是简单的输\n"
+	.string "赢。$"
 
 Route15_Text_OliviaPostBattle::
 	.string "我喜欢当我回到家时宝可梦上前迎接\n"
@@ -96,12 +96,12 @@ Route15_Text_AlexDefeat::
 	.string "不会吧！$"
 
 Route15_Text_AlexPostBattle::
-	.string "我刚刚是开玩笑的。不要动我的钱呀\n"
-	.string "。$"
+	.string "我刚刚是开玩笑的。不要动我的钱\n"
+	.string "呀。$"
 
 Route15_Text_CeliaIntro::
-	.string "什么事又酷又刺激？当然交换宝可梦\n"
-	.string "！$"
+	.string "什么事又酷又刺激？当然交换宝可\n"
+	.string "梦！$"
 
 Route15_Text_CeliaDefeat::
 	.string "我是说交换！$"
@@ -144,8 +144,8 @@ Route15_Text_RonDefeat::
 	.string "阿铁：呃，不，不……对不起姐姐！$"
 
 Route15_Text_RonPostBattle::
-	.string "阿铁：呃……我希望我有一个温柔的\n"
-	.string "姐姐……$"
+	.string "阿铁：呃……我希望我有一个温柔的姐\n"
+	.string "姐……$"
 
 Route15_Text_RonNotEnoughMons::
 	.string "阿铁：你想和我们姐弟战斗吗？\p"

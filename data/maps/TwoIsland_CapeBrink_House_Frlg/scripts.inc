@@ -23,8 +23,8 @@ Text_AllowMeToTeachMonUltimateMove::
 	.string "我的{STR_VAR_2}吗？$"
 
 Text_YouRejectIt::
-	.string "哈？你不同意？！好吧……我做不了\n"
-	.string "你的主……$"
+	.string "哈？你不同意？！好吧……我做不了你\n"
+	.string "的主……$"
 
 Text_LetMeConferUltimateMove::
 	.string "你答应了？\p"
@@ -35,8 +35,7 @@ Text_LetMeConferUltimateMove::
 
 Text_TaughtMove::
 	.string "哈……哈……\p"
-	.string "看来这些技能注定是派不上用场了…\n"
-	.string "…$"
+	.string "看来这些技能注定是派不上用场了……$"
 
 Text_MakeBestUseOfMove::
 	.string "我希望你能把这个技能的威力发挥到\n"
@@ -47,11 +46,11 @@ Text_PassedOnEverythingIKnow::
 	.string "我现在没有遗憾了。我已经把我所知\n"
 	.string "道的都告诉它了。\p"
 	.string "现在，我已经完成了我的使命，现在\n"
-	.string "就算离开这个世界，我也没有遗憾了\l"
-	.string "……$"
+	.string "就算离开这个世界，我也没有遗憾\l"
+	.string "了……$"
 
 Text_FeelRejuvenated::
 	.string "把我的知识传授给你后，我感觉我轻\n"
 	.string "松了很多。\p"
-	.string "事实上，我感觉我再一次充满了活力\n"
-	.string "，就像是又年轻了一次！$"
+	.string "事实上，我感觉我再一次充满了活\n"
+	.string "力，就像是又年轻了一次！$"

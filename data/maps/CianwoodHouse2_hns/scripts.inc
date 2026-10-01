@@ -29,8 +29,8 @@ CianwoodCity_Text_LugiaHouseTeacher:
 	.string "你是从浅黄市过来的吗？\p"
 	.string "一路上看到的那四座岛屿，你还记得\n"
 	.string "吗？\p"
-	.string "听说有只神秘的海中生物就藏在里面\n"
-	.string "。$"
+	.string "听说有只神秘的海中生物就藏在里\n"
+	.string "面。$"
 
 CianwoodCity_Text_LugiaHouseLass:
 	.string "听说只有持有银色之羽的人才能见到\n"

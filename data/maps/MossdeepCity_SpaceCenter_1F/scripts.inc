@@ -280,8 +280,8 @@ MossdeepCity_SpaceCenter_1F_Text_RocketLaunchImminent:
 
 MossdeepCity_SpaceCenter_1F_Text_SuccessfulLaunchNumber:
 	.string "火箭发射成功！这是第\n"
-	.string "{STR_VAR_1}次成功发射\l"
-	.string "！$"
+	.string "{STR_VAR_1}次成功发\l"
+	.string "射！$"
 
 MossdeepCity_SpaceCenter_1F_Text_HaywireButRocketLaunchImminent:
 	.string "我知道现在一切有些混乱，但是……\p"
@@ -290,21 +290,21 @@ MossdeepCity_SpaceCenter_1F_Text_HaywireButRocketLaunchImminent:
 MossdeepCity_SpaceCenter_1F_Text_HaywireButSuccessfulLaunchNumber:
 	.string "我知道现在一切有些混乱，但是……\p"
 	.string "火箭仍然成功发射了！这是第\n"
-	.string "{STR_VAR_1}次成功发射\l"
-	.string "！$"
+	.string "{STR_VAR_1}次成功发\l"
+	.string "射！$"
 
 MossdeepCity_SpaceCenter_1F_Text_RocketLaunchDemandsPerfection:
-	.string "火箭的发射必须十全十美，即使是1\n"
-	.string "%的差错也不容许存在。\p"
-	.string "就算99%的程序都没错，一切也会\n"
-	.string "毁在那1%上。\p"
+	.string "火箭的发射必须十全十美，即使是1%\n"
+	.string "的差错也不容许存在。\p"
+	.string "就算99%的程序都没错，一切也会毁\n"
+	.string "在那1%上。\p"
 	.string "但即使这样，我们也不会停止尝试。\n"
 	.string "为什么？因为这是个无尽的梦。$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaHaveSightsOnSpaceCenter:
 	.string "那些熔岩队的恶棍盯上了宇宙中心，\p"
-	.string "但我们不能让任何事阻止火箭的发射\n"
-	.string "！$"
+	.string "但我们不能让任何事阻止火箭的发\n"
+	.string "射！$"
 
 MossdeepCity_SpaceCenter_1F_Text_FoundThisYouCanHaveIt:
 	.string "我在海滩上散步的时候发现了这个，\p"
@@ -343,8 +343,8 @@ MossdeepCity_SpaceCenter_1F_Text_MagmaWantsToSpoilMyDream:
 	.string "我不能让他们肆意妄为！$"
 
 MossdeepCity_SpaceCenter_1F_Text_StevenMagmaCantBeAllowedToTakeFuel:
-	.string "大吾：{PLAYER}{KUN}\n"
-	.string "，看到那封预告信了吗？\p"
+	.string "大吾：{PLAYER}\n"
+	.string "{KUN}，看到那封预告信了吗？\p"
 	.string "熔岩队正在打这座岛上的火箭燃料的\n"
 	.string "主意！\p"
 	.string "虽然不知道他们的目的何在，但绝不\n"
@@ -373,8 +373,8 @@ MossdeepCity_SpaceCenter_1F_Text_Grunt1PostBattle:
 	.string "会再发通知了。$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4Intro:
-	.string "宇宙中心储存的火箭燃料——那正是\n"
-	.string "我们要找的。\p"
+	.string "宇宙中心储存的火箭燃料——那正是我\n"
+	.string "们要找的。\p"
 	.string "我们要拿得一点不剩！$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4Defeat:
@@ -386,8 +386,8 @@ MossdeepCity_SpaceCenter_1F_Text_Grunt4PostBattle:
 	.string "我怎么知道？去楼上问老大吧！$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2Intro:
-	.string "老大有令：任何人——都绝对不准通\n"
-	.string "过这里！$"
+	.string "老大有令：任何人——都绝对不准通过\n"
+	.string "这里！$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2Defeat:
 	.string "呃！呃啊！啊啊啊！$"
@@ -400,9 +400,9 @@ MossdeepCity_SpaceCenter_1F_Text_MagmaIntentToStealNotice:
 	.string "这是……盗窃预告？\p"
 	.string "“致宇宙中心的成员们：大家好吗？\n"
 	.string "我们很好。\p"
-	.string "我们很快会来你们这里拿走火箭燃料\n"
-	.string "。\p"
+	.string "我们很快会来你们这里拿走火箭燃\n"
+	.string "料。\p"
 	.string "请不要妄图阻止我们，我们必定会带\n"
 	.string "走燃料。\p"
-	.string "愿大地更加广阔！        \n"
-	.string "        熔岩队”$"
+	.string "愿大地更加广阔！                \n"
+	.string "熔岩队”$"

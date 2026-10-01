@@ -6,6 +6,6 @@ UndergroundPath_SouthEntrance_EventScript_Woman::
 	end
 
 UndergroundPath_SouthEntrance_Text_PeopleLoseThingsInTheDarkness::
-	.string "人们经常在黑暗的地下通道里丢东西\n"
-	.string "。$"
+	.string "人们经常在黑暗的地下通道里丢东\n"
+	.string "西。$"
 

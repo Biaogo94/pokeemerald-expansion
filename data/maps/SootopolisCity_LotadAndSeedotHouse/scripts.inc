@@ -109,12 +109,12 @@ SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigSeedot:
 	.string "我喜欢大型橡实果，越大越好。\p"
 	.string "但我弟弟说莲叶童子更大一些。\p"
 	.string "真是傻瓜。橡实果比那大多了！\p"
-	.string "嗯？你有橡实果吗？拜——拜—拜托\n"
-	.string "，给我看看！$"
+	.string "嗯？你有橡实果吗？拜——拜—拜托，\n"
+	.string "给我看看！$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_GoshMightBeBiggerThanLotad:
-	.string "{STR_VAR_2}厘米！啊呀\n"
-	.string "，真大！\p"
+	.string "{STR_VAR_2}厘米！啊\n"
+	.string "呀，真大！\p"
 	.string "它肯定比弟弟见过的大莲叶童子还要\n"
 	.string "大！\p"
 	.string "谢谢你给我看，这是我的谢礼！$"
@@ -136,8 +136,8 @@ SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotSeedot:
 
 SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigSeedot:
 	.string "你没有大的橡实果？真糟糕……\p"
-	.string "如果你有大橡实果，就拿给我看看吧\n"
-	.string "。$"
+	.string "如果你有大橡实果，就拿给我看看\n"
+	.string "吧。$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BiggestSeedotInHistory:
 	.string "史上最大的橡实果！\n"
@@ -154,14 +154,14 @@ SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigLotad:
 	.string "哥哥说橡实果更大，\p"
 	.string "但那肯定不对！所有人都知道莲叶童\n"
 	.string "子更大。\p"
-	.string "嗯？你有莲叶童子吗？拜——拜—拜\n"
-	.string "托给我看看！$"
+	.string "嗯？你有莲叶童子吗？拜——拜—拜托\n"
+	.string "给我看看！$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_WowMightBeBiggerThanSeedot:
 	.string "{STR_VAR_2}厘米！哇，\n"
 	.string "这么大！\p"
-	.string "它肯定比哥哥看过的巨型橡实果更大\n"
-	.string "。\p"
+	.string "它肯定比哥哥看过的巨型橡实果更\n"
+	.string "大。\p"
 	.string "谢谢你给我看！收下我的谢意吧！$"
 
 @ Unused
@@ -173,7 +173,7 @@ SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull2:
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerLotad:
 	.string "{STR_VAR_2}厘米？\p"
-	.string "唔……我还见过比它更大的莲叶童子\n"
+	.string "唔……我还见过比它更大的莲叶童子"
 	.string "。$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotLotad:

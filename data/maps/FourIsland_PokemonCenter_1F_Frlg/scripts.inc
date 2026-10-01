@@ -31,8 +31,8 @@ Text_BodySlamTeach::
 	.string "准备好了吗？啪啪啪！\p"
 	.string "我们在举行泰山压顶比赛。我倒要看\n"
 	.string "看是谁先倒下。\p"
-	.string "即使你让加入我们，你也是一个新手\n"
-	.string "。\p"
+	.string "即使你让加入我们，你也是一个新\n"
+	.string "手。\p"
 	.string "不如让我把泰山压顶教给你的一只宝\n"
 	.string "可梦怎么样？$"
 
@@ -56,8 +56,8 @@ FourIsland_PokemonCenter_1F_Text_RareIceMonsInCave::
 
 FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore::
 	.string "什么？宝可梦的蛋？……我不知道。\p"
-	.string "……哦，我想起来了！培育屋的人在\n"
-	.string "城镇里说过什么。\p"
+	.string "……哦，我想起来了！培育屋的人在城\n"
+	.string "镇里说过什么。\p"
 	.string "他们过去在他们的房屋里找到了蛋。$"
 
 FourIsland_PokemonCenter_1F_Text_NewPokemonJournalHasntArrived::

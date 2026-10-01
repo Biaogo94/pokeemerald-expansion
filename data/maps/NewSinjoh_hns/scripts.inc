@@ -90,8 +90,8 @@ NewSinjoh_MilkMan_NotEnough::
 NewSinjoh_MilkMan_text_BuyMilk:
 	.string "我是牛奶工。\p"
 	.string "我的牛奶很美味。\p"
-	.string "今天如果想来一瓶的话，只要500\n"
-	.string "日元。$"
+	.string "今天如果想来一瓶的话，只要500日\n"
+	.string "元。$"
 
 NewSinjoh_MilkMan_GotMilk:
 	.string "拿好！里面添加了这个世界所渴求的\n"
@@ -230,8 +230,8 @@ NewSinjoh_EventScript_OldLady3After::
 NewSinjoh_Text_OldLady3:
 	.string "那个女人怎么能对客人这么无礼呢？\p"
 	.string "她真该去温泉里泡泡降降火。\p"
-	.string "这池子这么大，完全容得下所有人呀\n"
-	.string "。$"
+	.string "这池子这么大，完全容得下所有人\n"
+	.string "呀。$"
 NewSinjoh_Text_OldLady3After:
 	.string "看来这里的大家都已经开始接纳彼此\n"
 	.string "了。\p"
@@ -324,8 +324,8 @@ NewSinjoh_Text_Hiker:
 	.string "涨起来了。$"
 NewSinjoh_Text_HikerAfter:
 	.string "生意可红火了！\p"
-	.string "而且那位银发先生给的小费特别丰厚\n"
-	.string "，物价总算降下来啦！$"
+	.string "而且那位银发先生给的小费特别丰\n"
+	.string "厚，物价总算降下来啦！$"
 
 NewSinjoh_EventScript_OldLady4::
 	goto_if_ge VAR_SINJOH_STORYLINE, 13, NewSinjoh_EventScript_OldLady4After

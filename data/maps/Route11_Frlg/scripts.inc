@@ -46,12 +46,12 @@ Route11_Text_DillonIntro::
 	.string "一战我坚信我能赢。$"
 
 Route11_Text_DillonDefeat::
-	.string "我的宝可梦还战胜不了你……它们还\n"
-	.string "没成长到那个水平吗？$"
+	.string "我的宝可梦还战胜不了你……它们还没\n"
+	.string "成长到那个水平吗？$"
 
 Route11_Text_DillonPostBattle::
-	.string "刚才发生了什么？让我一个人静一静\n"
-	.string "！$"
+	.string "刚才发生了什么？让我一个人静一\n"
+	.string "静！$"
 
 Route11_Text_DirkIntro::
 	.string "哇哈哈哈！我从来还没输过呢！$"

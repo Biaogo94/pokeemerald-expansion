@@ -20,8 +20,8 @@ CeruleanCity_House2_EventScript_Diglett::
 	end
 
 CeruleanPolice_Text_FishingGuru:
-	.string "听说有个鬼鬼祟祟的家伙在到处乱晃\n"
-	.string "。\p"
+	.string "听说有个鬼鬼祟祟的家伙在到处乱\n"
+	.string "晃。\p"
 	.string "要是被我发现他是小偷，我可绝对饶\n"
 	.string "不了他！$"
 

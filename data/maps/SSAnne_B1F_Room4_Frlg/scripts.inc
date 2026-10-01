@@ -12,15 +12,15 @@ SSAnne_B1F_Room4_EventScript_Duncan::
 	end
 
 SSAnne_B1F_Room4_Text_LeonardIntro::
-	.string "你知道他们是怎样评价水手的战斗的\n"
-	.string "！$"
+	.string "你知道他们是怎样评价水手的战斗\n"
+	.string "的！$"
 
 SSAnne_B1F_Room4_Text_LeonardDefeat::
 	.string "很好！精彩的战斗，伙计！$"
 
 SSAnne_B1F_Room4_Text_LeonardPostBattle::
-	.string "哈哈哈！你想成为一名水手吗，伙计\n"
-	.string "？$"
+	.string "哈哈哈！你想成为一名水手吗，伙\n"
+	.string "计？$"
 
 SSAnne_B1F_Room4_Text_DuncanIntro::
 	.string "那就来吧！赌上我身为水手的尊严！$"

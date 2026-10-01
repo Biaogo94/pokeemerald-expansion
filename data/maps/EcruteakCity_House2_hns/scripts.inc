@@ -3,15 +3,15 @@ EcruteakCity_House2_hns_MapScripts::
 
 Ecruteak_Text_ItemfinderAdventure:
 	.string "啊，你正带着宝可梦到处冒险吗？\p"
-	.string "话说回来，冒险怎么能少得了寻宝呢\n"
-	.string "？\p"
+	.string "话说回来，冒险怎么能少得了寻宝\n"
+	.string "呢？\p"
 	.string "你说对不对，嗯？$"
 
 Ecruteak_Text_ItemfinderTrueSpirit:
-	.string "太好了！你很懂得冒险的真正意义嘛\n"
-	.string "。\p"
-	.string "我喜欢你这样的孩子！把这个带上吧\n"
-	.string "。$"
+	.string "太好了！你很懂得冒险的真正意义\n"
+	.string "嘛。\p"
+	.string "我喜欢你这样的孩子！把这个带上\n"
+	.string "吧。$"
 
 Ecruteak_Text_ItemfinderExplanation:
 	.string "四处散落着很多看不见的道具。\p"
@@ -19,12 +19,11 @@ Ecruteak_Text_ItemfinderExplanation:
 	.string "是否有道具。\p"
 	.string "不过它不会显示准确的位置，所以得\n"
 	.string "靠你自己去找找看。\p"
-	.string "对了--我听说圆朱市的烧焦塔里也\n"
-	.string "有道具哦。$"
+	.string "对了--我听说圆朱市的烧焦塔里也有\n"
+	.string "道具哦。$"
 
 Ecruteak_Text_ItemfinderToEachHisOwn:
-	.string "哎……真是人各有志呢..\n"
-	.string "....$"
+	.string "哎……真是人各有志呢......$"
 
 EcruteakCity_House2_EventScript_ItemFinderMan::
 	lock
@@ -91,7 +90,7 @@ Ecruteak_Text_ThreeMon:
 	.string "驰奔跑。\p"
 	.string "据说它们分别诞生于水、雷电与烈火\n"
 	.string "之中。\p"
-	.string "但它们无法抑制体内过于庞大的力量\n"
-	.string "。\p"
+	.string "但它们无法抑制体内过于庞大的力\n"
+	.string "量。\p"
 	.string "因此据说这三只宝可梦如同疾风一般\n"
 	.string "奔向了草原深处。$"

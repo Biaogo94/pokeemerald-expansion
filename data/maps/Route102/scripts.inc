@@ -74,25 +74,25 @@ Route102_EventScript_Allen::
 	end
 
 Route102_Text_WatchMeCatchPokemon:
-	.string "满充：{PLAYER}……草丛里\n"
-	.string "会藏着宝可梦，对吧？\p"
-	.string "请你看看我捕捉宝可梦的方法对不对\n"
-	.string "。\p"
+	.string "满充：{PLAYER}……草丛里会\n"
+	.string "藏着宝可梦，对吧？\p"
+	.string "请你看看我捕捉宝可梦的方法对不\n"
+	.string "对。\p"
 	.string "……哇！$"
 
 Route102_Text_WallyIDidIt:
-	.string "满充：成功了……这是我的……我的\n"
-	.string "宝可梦！$"
+	.string "满充：成功了……这是我的……我的宝可\n"
+	.string "梦！$"
 
 Route102_Text_LetsGoBack:
 	.string "{PLAYER}，谢谢你！我们回\n"
 	.string "道馆吧！$"
 
 Route102_Text_ImNotVeryTall:
-	.string "我……不是很高，所以在草丛里走的\n"
-	.string "时候我就被草遮起来了。\p"
-	.string "草总是戳到我的鼻子里，然后就……\n"
-	.string "阿——阿—阿——阿……\p"
+	.string "我……不是很高，所以在草丛里走的时\n"
+	.string "候我就被草遮起来了。\p"
+	.string "草总是戳到我的鼻子里，然后就……阿\n"
+	.string "——阿—阿——阿……\p"
 	.string "阿嚏！$"
 
 Route102_Text_CatchWholeBunchOfPokemon:

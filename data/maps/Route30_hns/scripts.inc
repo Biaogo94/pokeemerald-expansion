@@ -218,8 +218,7 @@ Route30_Text_JoeyPostRematch:
 	.string "吧！$"
 
 Route30_Text_YoungsterJoeyGiveHPUp:
-	.string "我又输了……天哪，你也太\n"
-	.string "强了吧！\p"
+	.string "我又输了……天哪，你也太强了吧！\p"
 	.string "对了，我差点忘了要把这个交给你。\p"
 	.string "用它让自己变得更强吧，好吗？\p"
 	.string "我也一定会变得更强的！$"
@@ -231,8 +230,7 @@ Route30_Text_Elm_Disaster:
 	.string "空木博士：喂……喂？是\n"
 	.string "{PLAYER}吗？大事不好了！\p"
 	.string "呃、呜……简直太糟糕了！\p"
-	.string "怎么办才好？它……天哪\n"
-	.string "......\p"
+	.string "怎么办才好？它……天哪......\p"
 	.string "请快点赶回研究所来！$"
 
 

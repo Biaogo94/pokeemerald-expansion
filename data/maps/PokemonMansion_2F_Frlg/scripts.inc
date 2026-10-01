@@ -55,6 +55,6 @@ PokemonMansion_1F_Text_NewMonDiscoveredInGuyanaJungle::
 	.string "在丛林深处发现了一只新的宝可梦。$"
 
 PokemonMansion_1F_Text_ChristenedDiscoveredMonMew::
-	.string "日记：7月10日我们把新发现的宝\n"
-	.string "可梦称为梦幻。$"
+	.string "日记：7月10日我们把新发现的宝可\n"
+	.string "梦称为梦幻。$"
 

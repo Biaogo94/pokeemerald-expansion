@@ -63,16 +63,14 @@ GoldenrodDeptStore5_EventScript_Receptionist_Already::
 	end
 
 GoldenrodDeptStore_Text_5FReceptionistOhYourMon:
-    .string "你好呀。哎呀，你的宝可梦……\n"
-    .string "..$"
+    .string "你好呀。哎呀，你的宝可梦……..$"
 
 GoldenrodDeptStore_Text_5FReceptionistWait:
     .string "等等，那个招式学习器我不是已经给\n"
     .string "你了吗！$"
 
 GoldenrodDeptStore_Text_5FReceptionistPutInSomeMoreEffort:
-	.string "嗯……说不上差，但也谈不\n"
-	.string "上好。\p"
+	.string "嗯……说不上差，但也谈不上好。\p"
 	.string "作为训练家，你还需要再多加努力才\n"
 	.string "行。$"
 
@@ -92,8 +90,8 @@ GoldenrodDeptStore_Text_5FPokefanM:
     .string "感情。$"
 
 GoldenrodDeptStore_Text_Girl:
-	.string "那位女士送了我“报恩”！我的宝可\n"
-	.string "梦一定超级喜欢我！$"
+	.string "那位女士送了我“报恩”！我的宝可梦\n"
+	.string "一定超级喜欢我！$"
 
 GoldenrodDeptStore5_EventScript_Clerk::
 	lock

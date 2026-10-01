@@ -67,8 +67,8 @@ Alola_AkalaForest_TrainerBattleBugCatcher1_Text_1:
 
 Alola_AkalaForest_TrainerBattleBugCatcher1_Text_2:
 	.string "这些岛屿远离其他陆地，所以这里的\n"
-	.string "虫属性宝可梦一定适应了独特的情境\l"
-	.string "。$"
+	.string "虫属性宝可梦一定适应了独特的情\l"
+	.string "境。$"
 
 Alola_AkalaForest_TrainerBattleBugCatcher2_Text_0:
 	.string "看看我抓到了什么！$"
@@ -77,8 +77,7 @@ Alola_AkalaForest_TrainerBattleBugCatcher2_Text_1:
 	.string "哎呀，真倒霉！$"
 
 Alola_AkalaForest_TrainerBattleBugCatcher2_Text_2:
-	.string "阿罗拉群岛的气候有点不一样...\n"
-	.string "...\p"
+	.string "阿罗拉群岛的气候有点不一样......\p"
 	.string "难怪这里会有一些独特的虫属性宝可\n"
 	.string "梦。$"
 

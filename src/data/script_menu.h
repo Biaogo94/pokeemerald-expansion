@@ -275,8 +275,8 @@ static const struct MenuAction MultichoiceList_GameCornerDolls2[] =
 
 static const struct MenuAction MultichoiceList_PrizeMons[] = 
 {
-    {COMPOUND_STRING("凯西\n{CLEAR_TO 0x61}1\l20枚")},
-    {COMPOUND_STRING("皮皮\n{CLEAR_TO 0x61}5\l00枚")},
+    {COMPOUND_STRING("凯西\n{CLEAR_TO 0x61}120枚")},
+    {COMPOUND_STRING("皮皮\n{CLEAR_TO 0x61}500枚")},
     {COMPOUND_STRING("小卡比兽\n{CLEAR_TO 0x58}2\l,800枚")},
     {COMPOUND_STRING("迷你龙\n{CLEAR_TO 0x58}5\l,500枚")},
     {COMPOUND_STRING("多边兽\n{CLEAR_TO 0x58}6\l,500枚")},
@@ -810,7 +810,7 @@ static const struct MenuAction MultichoiceList_BerryPlot[] =
 };
 
 static const struct MenuAction sMultichoiceList_BikeShop[] = {
-    { COMPOUND_STRING("自行车\n{CLEAR_TO 0x49}\l{FONT_SMALL}¥1,0\l00,000") },
+    { COMPOUND_STRING("自行车\n{CLEAR_TO 0x49}\l{FONT_SMALL}¥1,000,000") },
     { COMPOUND_STRING("不买了") }
 };
 
@@ -907,34 +907,34 @@ static const struct MenuAction sMultichoiceList_GameCornerPokemonPrizes[] = {
 #if defined(FIRERED)
     { COMPOUND_STRING("凯西{CLEAR_TO 0x55}{FONT_SMALL} 180 COINS") },
     { COMPOUND_STRING("皮皮\n{CLEAR_TO 0x55}\l{FONT_SMALL} 500\l枚代币") },
-    { COMPOUND_STRING("迷你龙\n{CLEAR_TO 0x4B}\l{FONT_SMALL} 2,8\l00枚代币") },
-    { COMPOUND_STRING("飞天螳螂\n{CLEAR_TO 0x4B}\l{FONT_SMALL} 5,5\l00枚代币") },
+    { COMPOUND_STRING("迷你龙\n{CLEAR_TO 0x4B}\l{FONT_SMALL} 2,800枚代币") },
+    { COMPOUND_STRING("飞天螳螂\n{CLEAR_TO 0x4B}\l{FONT_SMALL} 5,500枚代币") },
     { COMPOUND_STRING("多边兽{CLEAR_TO 0x4B}{FONT_SMALL} 9,999 COINS") },
 #else
     { COMPOUND_STRING("凯西{CLEAR_TO 0x55}{FONT_SMALL} 120") },
     { COMPOUND_STRING("皮皮\n{CLEAR_TO 0x55}\l{FONT_SMALL} 750") },
-    { COMPOUND_STRING("凯罗斯\n{CLEAR_TO 0x4B}\l{FONT_SMALL} 2,5\l00") },
-    { COMPOUND_STRING("迷你龙\n{CLEAR_TO 0x4B}\l{FONT_SMALL} 4,6\l00") },
+    { COMPOUND_STRING("凯罗斯\n{CLEAR_TO 0x4B}\l{FONT_SMALL} 2,500") },
+    { COMPOUND_STRING("迷你龙\n{CLEAR_TO 0x4B}\l{FONT_SMALL} 4,600") },
     { COMPOUND_STRING("多边兽{CLEAR_TO 0x4B}{FONT_SMALL} 6,500") },
 #endif
     { sText_NoThanks }
 };
 
 static const struct MenuAction sMultichoiceList_GameCornerTMPrizes[] = {
-    { COMPOUND_STRING("招式学习器13\n{CLEAR_TO 0x48}\l{FONT_SMALL}4,00\l0代币") },
-    { COMPOUND_STRING("招式学习器23\n{CLEAR_TO 0x48}\l{FONT_SMALL}3,50\l0代币") },
-    { COMPOUND_STRING("招式学习器24\n{CLEAR_TO 0x48}\l{FONT_SMALL}4,00\l0代币") },
-    { COMPOUND_STRING("招式学习器30\n{CLEAR_TO 0x48}\l{FONT_SMALL}4,50\l0代币") },
-    { COMPOUND_STRING("招式学习器35\n{CLEAR_TO 0x48}\l{FONT_SMALL}4,00\l0代币") },
+    { COMPOUND_STRING("招式学习器13\n{CLEAR_TO 0x48}\l{FONT_SMALL}4,000代币") },
+    { COMPOUND_STRING("招式学习器23\n{CLEAR_TO 0x48}\l{FONT_SMALL}3,500代币") },
+    { COMPOUND_STRING("招式学习器24\n{CLEAR_TO 0x48}\l{FONT_SMALL}4,000代币") },
+    { COMPOUND_STRING("招式学习器30\n{CLEAR_TO 0x48}\l{FONT_SMALL}4,500代币") },
+    { COMPOUND_STRING("招式学习器35\n{CLEAR_TO 0x48}\l{FONT_SMALL}4,000代币") },
     { sText_NoThanks }
 };
 
 static const struct MenuAction sMultichoiceList_GameCornerBattleItemPrizes[] = {
     { COMPOUND_STRING("烟幕球\n{CLEAR_TO 0x5A}\l{FONT_SMALL}800代\l币") },
-    { COMPOUND_STRING("奇迹种子\n{CLEAR_TO 0x50}\l{FONT_SMALL}1,00\l0代币") },
-    { COMPOUND_STRING("木炭\n{CLEAR_TO 0x50}\l{FONT_SMALL}1,00\l0代币") },
-    { COMPOUND_STRING("神秘水滴\n{CLEAR_TO 0x50}\l{FONT_SMALL}1,00\l0代币") },
-    { COMPOUND_STRING("黄色玻璃哨\n{CLEAR_TO 0x50}\l{FONT_SMALL}1,60\l0代币") },
+    { COMPOUND_STRING("奇迹种子\n{CLEAR_TO 0x50}\l{FONT_SMALL}1,000代币") },
+    { COMPOUND_STRING("木炭\n{CLEAR_TO 0x50}\l{FONT_SMALL}1,000代币") },
+    { COMPOUND_STRING("神秘水滴\n{CLEAR_TO 0x50}\l{FONT_SMALL}1,000代币") },
+    { COMPOUND_STRING("黄色玻璃哨\n{CLEAR_TO 0x50}\l{FONT_SMALL}1,600代币") },
     { sText_NoThanks }
 };
 

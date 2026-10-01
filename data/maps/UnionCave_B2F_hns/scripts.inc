@@ -85,5 +85,4 @@ UnionCave_B2F_Text_CooltrainerfEmmaBeaten:
 UnionCave_B2F_Text_CooltrainerfEmmaAfter:
 	.string "每周只有一次，会有一只宝可梦来到\n"
 	.string "水边。\p"
-	.string "我好想亲眼见见那只宝可梦啊..\n"
-	.string "....$"
+	.string "我好想亲眼见见那只宝可梦啊......$"

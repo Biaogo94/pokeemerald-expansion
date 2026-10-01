@@ -43,8 +43,8 @@ MtPyre_2F_EventScript_Zander::
 	end
 
 MtPyre_2F_Text_MemoriesOfSkitty:
-	.string "一想到我亲爱的向尾喵……眼睛里总\n"
-	.string "会不知不觉地蓄满泪水。$"
+	.string "一想到我亲爱的向尾喵……眼睛里总会\n"
+	.string "不知不觉地蓄满泪水。$"
 
 MtPyre_2F_Text_TumbledFromFloorAbove:
 	.string "啊哦……地上到处都是洞。\p"
@@ -85,8 +85,8 @@ MtPyre_2F_Text_DezIntro:
 	.string "真子：我与男友一起来这儿试胆子。\p"
 	.string "虽然确实很害怕，但只要有他在我身\n"
 	.string "边就都没什么。\p"
-	.string "没错！我要打败你，让他看起来更帅\n"
-	.string "！$"
+	.string "没错！我要打败你，让他看起来更\n"
+	.string "帅！$"
 
 MtPyre_2F_Text_DezDefeat:
 	.string "真子：哇啊啊啊！好可怕！$"

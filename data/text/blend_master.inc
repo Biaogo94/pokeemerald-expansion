@@ -22,9 +22,8 @@ BerryBlender_Text_BlendMasterNoBerries:
 
 BerryBlender_Text_BlendMasterKnowHowToMakePokeblocks:
 	.string "当然！当然啦！\p"
-	.string "顺便问一句……你知道怎么\n"
-	.string "用树果制作{POKEBLOCK}\l"
-	.string "吧？$"
+	.string "顺便问一句……你知道怎么用树果制作\n"
+	.string "{POKEBLOCK}吧？$"
 
 BerryBlender_Text_BlendMasterExplainBerryBlending:
 	.string "嗯！\p"

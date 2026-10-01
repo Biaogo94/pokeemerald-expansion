@@ -36,8 +36,8 @@ MauvilleCity_Mart_EventScript_Man::
 	end
 
 MauvilleCity_Mart_Text_ItemsToTemporarilyElevateStats:
-	.string "有些道具可以暂时提升宝可梦的能力\n"
-	.string "，\p"
+	.string "有些道具可以暂时提升宝可梦的能\n"
+	.string "力，\p"
 	.string "我所知道的可以在对战中使用的有攻\n"
 	.string "击强化和防御强化……\p"
 	.string "我肯定还有其它这样的道具。$"

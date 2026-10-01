@@ -650,13 +650,11 @@ IlexForest_Movement_Kurt2:
 	step_end
 
 IlexForest_Text_ApprenticeIntro:
-	.string "哎呀……师父肯定要发飙了\n"
-	.string "......\p"
-	.string "负责砍树做木炭的大葱鸭自己跑掉了\n"
-	.string "。\p"
+	.string "哎呀……师父肯定要发飙了......\p"
+	.string "负责砍树做木炭的大葱鸭自己跑掉\n"
+	.string "了。\p"
 	.string "我可不敢进栎树林里面去找它。\p"
-	.string "这里面又大又黑，吓死人了……\n"
-	.string "..$"
+	.string "这里面又大又黑，吓死人了……..$"
 
 IlexForest_Text_ApprenticeAfter:
 	.string "哇！真是太感谢你了！\p"
@@ -679,8 +677,8 @@ IlexForest_Text_CharcoalMasterIntro:
 	.string "有了！来，拿着这个。$"
 
 IlexForest_Text_CharcoalMasterOutro:
-	.string "那是秘传学习器“居合斩”。教给宝\n"
-	.string "可梦之后，就能砍倒细小的树木了。\p"
+	.string "那是秘传学习器“居合斩”。教给宝可\n"
+	.string "梦之后，就能砍倒细小的树木了。\p"
 	.string "当然，你必须要有桧皮道馆的徽章才\n"
 	.string "可以在平时使用。$"
 
@@ -695,25 +693,23 @@ IlexForest_Text_Lass:
 IlexForest_Text_Signpost:
 	.string "栎树林里的树木太茂密了，连天空都\n"
 	.string "看不见。\p"
-	.string "走在路上可要小心脚下掉落的道具哦\n"
-	.string "。$"
+	.string "走在路上可要小心脚下掉落的道具\n"
+	.string "哦。$"
 
 IlexForest_Text_Shrine:
 	.string "栎树林的神龛……\p"
-	.string "这里供奉着森林的守护神……\n"
-	.string ".$"
+	.string "这里供奉着森林的守护神…….$"
 
 IlexForest_Text_ShrineCelebiEvent:
 	.string "栎树林的神龛……\p"
-	.string "这里供奉着森林的守护神……\n"
-	.string ".\p"
+	.string "这里供奉着森林的守护神…….\p"
 	.string "咦？这是什么？\p"
-	.string "这里有个凹槽。看起来刚好可以把\n"
-	.string "GS球放进去。\p"
+	.string "这里有个凹槽。看起来刚好可以把GS\n"
+	.string "球放进去。\p"
 	.string "要把GS球放进去吗？$"
 
 IlexForest_Text_InsertGSBall:
-	.string "{PLAYER}把GS球放了进去\n"
+	.string "{PLAYER}把GS球放了进去"
 	.string "。$"
 
 IlexForest_Text_KurtCaughtCelebi:
@@ -730,8 +726,7 @@ IlexForest_Text_BugCatcherWayneSeen:
 	.string "你把宝可梦都吓跑了！$"
 
 IlexForest_Text_BugCatcherWayneBeaten:
-	.string "那只宝可梦我以前可没见过……\n"
-	.string "..$"
+	.string "那只宝可梦我以前可没见过……..$"
 
 IlexForest_Text_BugCatcherWayneAfter:
 	.string "我用头锤撞树的时候，掉下来一只我\n"
@@ -741,17 +736,17 @@ IlexForest_Text_BugCatcherWayneAfter:
 
 IlexForest_Text_Kimono_Girl1:
 	.string "舞姬小姐，舞姬小姐，孤身一人迷了\n"
-	.string "路。可怜的女孩迷失在阴暗的栎树林\l"
-	.string "。$"
+	.string "路。可怜的女孩迷失在阴暗的栎树\l"
+	.string "林。$"
 
 IlexForest_Text_Kimono_Girl2:
 	.string "你在桔梗市见过我？那一定是你看错\n"
 	.string "啦。\p"
-	.string "话说回来，你能带我离开这片森林吗\n"
-	.string "？$"
+	.string "话说回来，你能带我离开这片森林\n"
+	.string "吗？$"
 
 IlexForest_Text_Kimono_Girl3:
-	.string "哎呀呀……你自己也迷路了\n"
+	.string "哎呀呀……你自己也迷路了"
 	.string "，对吧？$"
 
 IlexForest_Text_Kimono_Girl4:

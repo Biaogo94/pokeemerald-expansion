@@ -59,14 +59,11 @@ SurfPichu_Slot5:
 	return
 
 sText_MysteryGiftEgg:
-	.string "感谢使用\n"
-	.string "神秘礼物系统。\p"
-	.string "从宝可梦中心我们\n"
-	.string "得到一个礼物——宝可梦蛋！\p"
-	.string "请用爱心和关怀\n"
-	.string "来培育它。$"
+	.string "感谢使用神秘礼物系统。\p"
+	.string "从宝可梦中心我们得到一个礼物——宝\n"
+	.string "可梦蛋！\p"
+	.string "请用爱心和关怀来培育它。$"
 
 sText_FullParty:
 	.string "您的队伍看起来满了。\p"
-	.string "请寄放一只宝可梦\n"
-	.string "到电脑中再来吧。$"
+	.string "请寄放一只宝可梦到电脑中再来吧。$"

@@ -412,8 +412,8 @@ RuinsOfAlph_PuzzleAndRewardChambers_Text_Aerodactyl:
 	.string "的宝可梦。$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Omanyte:
-	.string "扭动着10只触手，在海中游曳的宝\n"
-	.string "可梦。$"
+	.string "扭动着10只触手，在海中游曳的宝可\n"
+	.string "梦。$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Hooh:
 	.string "展开七彩翅膀，优雅翱翔于天空的宝\n"

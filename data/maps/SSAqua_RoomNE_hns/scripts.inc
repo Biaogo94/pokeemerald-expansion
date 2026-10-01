@@ -18,8 +18,8 @@ SSAqua_RoomNE_Text_HikerNolandBeaten:
     .string "根本招架不住啊！$"
 
 SSAqua_RoomNE_Text_HikerNolandAfterBattle:
-    .string "不知道关都有没有值得一爬的名山呢\n"
-    .string "？$"
+    .string "不知道关都有没有值得一爬的名山\n"
+    .string "呢？$"
 
 SSAqua_RoomNE_Text_PokemaniacEthanSeen:
     .string "你知道莉莉吗？她是关都当红的DJ\n"

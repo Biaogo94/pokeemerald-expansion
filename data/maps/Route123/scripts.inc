@@ -185,9 +185,9 @@ Route123_Text_CheckTreesWithMyGrassMon:
 	.string "树的医生。$"
 
 Route123_Text_RouteSign:
-	.string "{RIGHT_ARROW}123\n"
-	.string "号道路{LEFT_ARROW}1\l"
-	.string "18号道路$"
+	.string "{RIGHT_ARROW}123号\n"
+	.string "道路{LEFT_ARROW}118\l"
+	.string "号道路$"
 
 Route123_Text_RouteSignMtPyre:
 	.string "{UP_ARROW}送神山“胆小\n"

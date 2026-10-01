@@ -355,8 +355,7 @@ UlaUla_Forest_hns_Movement_FacePlayerUpAfterTotemWarp:
 
 
 Alola_Ulaula_Totem_sign_Text_0:
-	.string "图腾正散发出一股强烈的能量...\n"
-	.string "...\p"
+	.string "图腾正散发出一股强烈的能量......\p"
 	.string "要触碰图腾传送至其他岛屿吗？$"
 
 Alola_Ulaula_Totem_sign_Text_1:

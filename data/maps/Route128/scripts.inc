@@ -259,8 +259,8 @@ Route128_Text_MaxieResposibilityFallsToArchieAndMe:
 	.string "赤焰松：{PLAYER}，不用说\n"
 	.string "了……\p"
 	.string "我知道自己没资格批评水梧桐……\p"
-	.string "但事已至此，以我们人类的力量而言\n"
-	.string "，恐怕已经无力回天了。\p"
+	.string "但事已至此，以我们人类的力量而\n"
+	.string "言，恐怕已经无力回天了。\p"
 	.string "但我们也不能只是束手无策地旁观。\p"
 	.string "我和水梧桐必须承担起责任来终结我\n"
 	.string "们造成的这一切……$"
@@ -272,24 +272,22 @@ Route128_Text_MaxieThisDefiesBelief:
 	.string "了自然的平衡……$"
 
 Route128_Text_StevenWhatIsHappening:
-	.string "大吾：{PLAYER}{KUN}\n"
-	.string "！这究竟……？$"
+	.string "大吾：{PLAYER}\n"
+	.string "{KUN}！这究竟……？$"
 
 Route128_Text_StevenWholeWorldWillDrown:
 	.string "太糟糕了……\p"
 	.string "足以烤干大地的热浪之后，又是淹没\n"
 	.string "一切的洪水。\p"
-	.string "这样下去的话，整个丰缘地区……不\n"
-	.string "，是整个世界都会毁灭的。\p"
-	.string "巨大的雨云不断从琉璃市上空飘来…\n"
-	.string "…\p"
+	.string "这样下去的话，整个丰缘地区……不，\n"
+	.string "是整个世界都会毁灭的。\p"
+	.string "巨大的雨云不断从琉璃市上空飘来……\p"
 	.string "那里究竟发生了什么？\p"
-	.string "没时间思考了……答案应该就在琉璃\n"
-	.string "市那里……$"
+	.string "没时间思考了……答案应该就在琉璃市\n"
+	.string "那里……$"
 
 Route128_Text_StevenImGoingToSootopolis:
-	.string "{PLAYER}{KUN}……我\n"
-	.string "不知道你怎么打算，但千万不要勉强\l"
-	.string "。\p"
+	.string "{PLAYER}{KUN}……我不\n"
+	.string "知道你怎么打算，但千万不要勉强。\p"
 	.string "好了，我先去琉璃市了。$"
 

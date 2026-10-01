@@ -81,8 +81,8 @@ SixIsland_PatternBush_Text_BethanyIntro::
 	.string "我很好奇，你是如何养育宝可梦的？$"
 
 SixIsland_PatternBush_Text_BethanyDefeat::
-	.string "你用了全身心的爱来养育你的宝可梦\n"
-	.string "！$"
+	.string "你用了全身心的爱来养育你的宝可\n"
+	.string "梦！$"
 
 SixIsland_PatternBush_Text_BethanyPostBattle::
 	.string "要像你妈妈充满着爱养育你那样，养\n"
@@ -120,8 +120,8 @@ SixIsland_PatternBush_Text_JonahDefeat::
 	.string "之一。$"
 
 SixIsland_PatternBush_Text_JonahPostBattle::
-	.string "顺便说一下，“吸引力”像是一个奇\n"
-	.string "怪的单词。\p"
+	.string "顺便说一下，“吸引力”像是一个奇怪\n"
+	.string "的单词。\p"
 	.string "就像是，它像一个橘子皮？或者像一\n"
 	.string "个电铃？$"
 
@@ -196,12 +196,12 @@ SixIsland_PatternBush_Text_MarcyIntro::
 	.string "啊，讨厌！我感觉有个虫子蜇了我！$"
 
 SixIsland_PatternBush_Text_MarcyDefeat::
-	.string "那不是虫子。是我的小腿被草割伤了\n"
-	.string "。$"
+	.string "那不是虫子。是我的小腿被草割伤\n"
+	.string "了。$"
 
 SixIsland_PatternBush_Text_MarcyPostBattle::
-	.string "这样的小伤口……我弄一点唾沫就能\n"
-	.string "治好它！$"
+	.string "这样的小伤口……我弄一点唾沫就能治\n"
+	.string "好它！$"
 
 SixIsland_PatternBush_Text_LaytonIntro::
 	.string "这周围有些奇怪，你注意到了吗？$"

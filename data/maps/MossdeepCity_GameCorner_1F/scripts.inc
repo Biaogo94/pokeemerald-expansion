@@ -51,8 +51,8 @@ RS_MysteryEventsHouse_Text_DoorIsLocked:
 RS_MysteryEventsHouse_Text_ChallengeVisitingTrainer:
 	.string "名叫{STR_VAR_1}的训练\n"
 	.string "家来我家拜访了。\p"
-	.string "你想挑战{STR_VAR_1}吗\n"
-	.string "？$"
+	.string "你想挑战{STR_VAR_1}\n"
+	.string "吗？$"
 
 RS_MysteryEventsHouse_Text_YouWontBattle:
 	.string "你不想对战？看不到你的对战我好失\n"

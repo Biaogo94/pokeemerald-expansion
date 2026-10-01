@@ -144,8 +144,8 @@ GoldenrodCity_RadioTower_2F_EventScript_Jigglypuff::
 	end
 
 RadioTower2FBuenaPasswordIsHelpText:
-	.string "葵：咦？今天的暗号？当然是“救\n"
-	.string "命”啦！$"
+	.string "葵：咦？今天的暗号？当然是“救命”\n"
+	.string "啦！$"
 
 GoldenrodCity_RadioTower_2F_Text_SuperNerd:
 	.string "不管在哪里都能收听广播哦。快调台\n"
@@ -171,8 +171,8 @@ GoldenrodCity_RadioTower_2F_Text_BlackBelt1:
 
 GoldenrodCity_RadioTower_2F_Text_BlackBelt2:
 	.string "请随意四处参观吧。\p"
-	.string "台长又恢复成以往那副和蔼的样子了\n"
-	.string "。$"
+	.string "台长又恢复成以往那副和蔼的样子\n"
+	.string "了。$"
 
 GoldenrodCity_RadioTower_2F_Text_GruntM4Seen:
 	.string "3年前，火箭队被迫解散。\p"
@@ -238,16 +238,16 @@ GoldenrodCity_RadioTower_2F_Text_BuenaWrong:
 	.string "明天再来试试吧！$"
 
 GoldenrodCity_RadioTower_2F_Text_BuenaComeBack:
-	.string "葵：猜不出来吗？想好了再来找我吧\n"
-	.string "！$"
+	.string "葵：猜不出来吗？想好了再来找我\n"
+	.string "吧！$"
 
 GoldenrodCity_RadioTower_2F_Text_BuenaAlreadyPlayed:
 	.string "葵：你今天已经答过暗号了！\p"
 	.string "明天再来收听吧！$"
 
 GoldenrodCity_RadioTower_2F_Text_BuenaBagFull:
-	.string "葵：答对啦，可是你的背包已经满了\n"
-	.string "！\p"
+	.string "葵：答对啦，可是你的背包已经满\n"
+	.string "了！\p"
 	.string "整理一下空间再来和我说话吧！$"
 
 GoldenrodCity_RadioTower_2F_Text_SalesSign:

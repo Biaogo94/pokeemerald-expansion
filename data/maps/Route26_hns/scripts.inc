@@ -132,12 +132,12 @@ Route26_Text_CooltrainerfBethBeaten:
     .string "宝可梦可不是争斗的工具。$"
 
 Route26_Text_CooltrainerfBethAfter:
-    .string "宝可梦是无比珍贵、相伴一生的伙伴\n"
-    .string "。$"
+    .string "宝可梦是无比珍贵、相伴一生的伙\n"
+    .string "伴。$"
 
 Route26_Text_BethRegister:
-    .string "宝可梦是无比珍贵、相伴一生的伙伴\n"
-    .string "。$"
+    .string "宝可梦是无比珍贵、相伴一生的伙\n"
+    .string "伴。$"
 
 Route26_Text_BethRematchIntro:
     .string "我输给了一个叫{RIVAL}的训\n"
@@ -148,14 +148,14 @@ Route26_Text_BethRematchDefeat:
     .string "宝可梦可不是争斗的工具。$"
 
 Route26_Text_BethPostRematch:
-    .string "宝可梦是无比珍贵、相伴一生的伙伴\n"
-    .string "。$"
+    .string "宝可梦是无比珍贵、相伴一生的伙\n"
+    .string "伴。$"
 
 Route26_Text_PsychicRichardSeen:
     .string "哇，瞧瞧你身上这一排徽章！真让人\n"
     .string "佩服。\p"
-    .string "不过你不会光收集到徽章就满足了吧\n"
-    .string "？$"
+    .string "不过你不会光收集到徽章就满足了\n"
+    .string "吧？$"
 
 Route26_Text_PsychicRichardBeaten:
     .string "精彩的对战！$"

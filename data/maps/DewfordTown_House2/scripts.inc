@@ -40,8 +40,8 @@ DewfordTown_House2_Text_NoRoom:
 	.string "得到它！$"
 
 DewfordTown_House2_Text_ExplainSilkScarf:
-	.string "丝绸围巾能提升一般属性招式的威力\n"
-	.string "，\p"
+	.string "丝绸围巾能提升一般属性招式的威\n"
+	.string "力，\p"
 	.string "是对几乎所有宝可梦都有极大用处的\n"
 	.string "头巾！$"
 

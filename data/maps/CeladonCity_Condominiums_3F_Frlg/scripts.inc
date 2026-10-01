@@ -66,13 +66,13 @@ CeladonCity_Condominiums_3F_Text_IWroteTheStory::
 CeladonCity_Condominiums_3F_Text_ImGameDesignerShowMeFinishedPokedex::
 	.string "程序运行正常吗？\p"
 	.string "我是游戏设计师！\p"
-	.string "集齐宝可梦图鉴非常困难，但别放弃\n"
-	.string "！\p"
+	.string "集齐宝可梦图鉴非常困难，但别放\n"
+	.string "弃！\p"
 	.string "如果你完成了图鉴，就来找我吧！$"
 
 CeladonCity_Condominiums_3F_Text_CompletedPokedexCongratulations::
-	.string "哇噢！棒极了！你完成了宝可梦图鉴\n"
-	.string "！祝贺你！……$"
+	.string "哇噢！棒极了！你完成了宝可梦图\n"
+	.string "鉴！祝贺你！……$"
 
 CeladonCity_Condominiums_3F_Text_ItsTheGameProgram::
 	.string "这是游戏程序！弄乱了的话游戏会出\n"

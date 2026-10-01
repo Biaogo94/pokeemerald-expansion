@@ -39,8 +39,7 @@ SproutTower_Text_SageNico_AfterBattle:
 	.string "即使面对地震也安然无恙。$"
 
 SproutTower_Text_SageEdmond_Seen:
-	.string "……如风中落叶般摇曳..\n"
-	.string "....$"
+	.string "……如风中落叶般摇曳......$"
 
 SproutTower_Text_SageEdmond_Beaten:
 	.string "哎呀，是我太弱了！$"

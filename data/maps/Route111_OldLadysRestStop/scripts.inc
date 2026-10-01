@@ -29,8 +29,8 @@ Route111_OldLadysRestStop_EventScript_DeclineRest::
 	end
 
 Route111_OldLadysRestStop_Text_RestUpHere:
-	.string "喔，亲爱的。你的宝可梦太疲劳了吗\n"
-	.string "？\p"
+	.string "喔，亲爱的。你的宝可梦太疲劳了\n"
+	.string "吗？\p"
 	.string "如果你需要，过来休息下吧。这是个\n"
 	.string "好主意！你应该那么做。$"
 

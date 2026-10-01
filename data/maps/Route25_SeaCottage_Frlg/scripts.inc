@@ -296,8 +296,8 @@ Route25_SeaCottage_Movement_BillExitTeleporter::
 	step_end
 
 Route25_SeaCottage_Text_ImBillHelpMeOutPal::
-	.string "哈！我是一只宝可梦……不对，我才\n"
-	.string "不是！\p"
+	.string "哈！我是一只宝可梦……不对，我才不\n"
+	.string "是！\p"
 	.string "我是正辉！我是一个货真价实的怪兽\n"
 	.string "狂！\p"
 	.string "嘿！为什么要摆出一副怀疑的表情？\p"
@@ -307,8 +307,8 @@ Route25_SeaCottage_Text_ImBillHelpMeOutPal::
 	.string "那么，怎么样？帮我恢复原状吧！$"
 
 Route25_SeaCottage_Text_ImBillHelpMeOutLady::
-	.string "哈！我是一只宝可梦……不对，我才\n"
-	.string "不是！\p"
+	.string "哈！我是一只宝可梦……不对，我才不\n"
+	.string "是！\p"
 	.string "我是正辉！我是一个货真价实的怪兽\n"
 	.string "狂！\p"
 	.string "嘿！为什么要摆出一副怀疑的表情？\p"
@@ -340,16 +340,16 @@ Route25_SeaCottage_Text_ThanksBudTakeThis::
 	.string "你一次！\p"
 	.string "嗯，你看过我的宝可梦收藏了吗？\p"
 	.string "还没有？太可惜了。\p"
-	.string "我该怎样表达我的谢意……啊，这个\n"
-	.string "，这个应该不错的。$"
+	.string "我该怎样表达我的谢意……啊，这个，\n"
+	.string "这个应该不错的。$"
 
 Route25_SeaCottage_Text_ThanksLadyTakeThis::
 	.string "正辉：啊呀呀呀！谢了，小姐！我欠\n"
 	.string "你一次！\p"
 	.string "嗯，你看过我的宝可梦收藏了吗？\p"
 	.string "还没有？太可惜了。\p"
-	.string "我该怎样表达我的谢意……啊，这个\n"
-	.string "，这应该不错的。$"
+	.string "我该怎样表达我的谢意……啊，这个，\n"
+	.string "这应该不错的。$"
 
 Route25_SeaCottage_Text_ReceivedSSTicketFromBill::
 	.string "{PLAYER}从正辉手上接过船\n"
@@ -364,8 +364,8 @@ Route25_SeaCottage_Text_SSAnnePartyYouGoInstead::
 	.string "我听说有很多训练家都会上船。\p"
 	.string "他们邀请过我，不过我不习惯这种大\n"
 	.string "场面。\p"
-	.string "所以你能代替我去吗？去好好享受吧\n"
-	.string "。$"
+	.string "所以你能代替我去吗？去好好享受\n"
+	.string "吧。$"
 
 Route25_SeaCottage_Text_CheckOutRareMonsOnPC::
 	.string "正辉：想要在我的电脑上看我珍贵的\n"

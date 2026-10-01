@@ -87,15 +87,15 @@ const u8 DecorDesc_BLUE_BRICK[] = _(
     "蓝色的砖块。上面可以放置装饰品。");
 
 const u8 DecorDesc_RED_BALLOON[] = _(
-    "装满水的红色气球。踩上去就会破裂\n"
+    "装满水的红色气球。踩上去就会破裂"
         "。");
 
 const u8 DecorDesc_BLUE_BALLOON[] = _(
-    "装满水的蓝色气球。踩上去就会破裂\n"
+    "装满水的蓝色气球。踩上去就会破裂"
         "。");
 
 const u8 DecorDesc_YELLOW_BALLOON[] = _(
-    "装满水的黄色气球。踩上去就会破裂\n"
+    "装满水的黄色气球。踩上去就会破裂"
         "。");
 
 const u8 DecorDesc_RED_TENT[] = _(
@@ -133,7 +133,7 @@ const u8 DecorDesc_SAND_ORNAMENT[] = _(
     "用沙子做成的摆饰。一碰就会崩塌。");
 
 const u8 DecorDesc_SILVER_SHIELD[] = _(
-    "在对战塔达成50连胜时获赠的奖杯\n"
+    "在对战塔达成50连胜时获赠的奖杯"
         "。");
 
 const u8 DecorDesc_GOLD_SHIELD[] = _(
@@ -261,19 +261,19 @@ const u8 DecorDesc_MARILL_DOLL[] = _(
         "子上。");
 
 const u8 DecorDesc_TOGEPI_DOLL[] = _(
-    "波克比玩偶。可以放在地毯或桌子上\n"
+    "波克比玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_CYNDAQUIL_DOLL[] = _(
-    "火球鼠玩偶。可以放在地毯或桌子上\n"
+    "火球鼠玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_CHIKORITA_DOLL[] = _(
-    "菊草叶玩偶。可以放在地毯或桌子上\n"
+    "菊草叶玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_TOTODILE_DOLL[] = _(
-    "小锯鳄玩偶。可以放在地毯或桌子上\n"
+    "小锯鳄玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_JIGGLYPUFF_DOLL[] = _(
@@ -286,55 +286,55 @@ const u8 DecorDesc_CLEFAIRY_DOLL[] = _(
     "皮皮玩偶。可以放在地毯或桌子上。");
 
 const u8 DecorDesc_DITTO_DOLL[] = _(
-    "百变怪玩偶。可以放在地毯或桌子上\n"
+    "百变怪玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_SMOOCHUM_DOLL[] = _(
-    "迷唇娃玩偶。可以放在地毯或桌子上\n"
+    "迷唇娃玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_TREECKO_DOLL[] = _(
-    "木守宫玩偶。可以放在地毯或桌子上\n"
+    "木守宫玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_TORCHIC_DOLL[] = _(
-    "火稚鸡玩偶。可以放在地毯或桌子上\n"
+    "火稚鸡玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_MUDKIP_DOLL[] = _(
-    "水跃鱼玩偶。可以放在地毯或桌子上\n"
+    "水跃鱼玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_DUSKULL_DOLL[] = _(
-    "夜巡灵玩偶。可以放在地毯或桌子上\n"
+    "夜巡灵玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_WYNAUT_DOLL[] = _(
-    "小果然玩偶。可以放在地毯或桌子上\n"
+    "小果然玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_BALTOY_DOLL[] = _(
-    "天秤偶玩偶。可以放在地毯或桌子上\n"
+    "天秤偶玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_KECLEON_DOLL[] = _(
-    "变隐龙玩偶。可以放在地毯或桌子上\n"
+    "变隐龙玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_AZURILL_DOLL[] = _(
-    "露力丽玩偶。可以放在地毯或桌子上\n"
+    "露力丽玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_SKITTY_DOLL[] = _(
-    "向尾喵玩偶。可以放在地毯或桌子上\n"
+    "向尾喵玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_SWABLU_DOLL[] = _(
-    "青绵鸟玩偶。可以放在地毯或桌子上\n"
+    "青绵鸟玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_GULPIN_DOLL[] = _(
-    "溶食兽玩偶。可以放在地毯或桌子上\n"
+    "溶食兽玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_LOTAD_DOLL[] = _(
@@ -342,85 +342,85 @@ const u8 DecorDesc_LOTAD_DOLL[] = _(
         "上。");
 
 const u8 DecorDesc_SEEDOT_DOLL[] = _(
-    "橡实果玩偶。可以放在地毯或桌子上\n"
+    "橡实果玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_PIKA_CUSHION[] = _(
-    "皮卡丘靠垫。可以放在地毯或桌子上\n"
+    "皮卡丘靠垫。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_ROUND_CUSHION[] = _(
-    "玛力露靠垫。可以放在地毯或桌子上\n"
+    "玛力露靠垫。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_KISS_CUSHION[] = _(
-    "迷唇娃靠垫。可以放在地毯或桌子上\n"
+    "迷唇娃靠垫。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_ZIGZAG_CUSHION[] = _(
-    "蛇纹熊靠垫。可以放在地毯或桌子上\n"
+    "蛇纹熊靠垫。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_SPIN_CUSHION[] = _(
-    "晃晃斑靠垫。可以放在地毯或桌子上\n"
+    "晃晃斑靠垫。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_DIAMOND_CUSHION[] = _(
-    "勾魂眼靠垫。可以放在地毯或桌子上\n"
+    "勾魂眼靠垫。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_BALL_CUSHION[] = _(
-    "精灵球靠垫。可以放在地毯或桌子上\n"
+    "精灵球靠垫。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_GRASS_CUSHION[] = _(
-    "草之印靠垫。可以放在地毯或桌子上\n"
+    "草之印靠垫。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_FIRE_CUSHION[] = _(
-    "火之印靠垫。可以放在地毯或桌子上\n"
+    "火之印靠垫。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_WATER_CUSHION[] = _(
-    "水之印靠垫。可以放在地毯或桌子上\n"
+    "水之印靠垫。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_SNORLAX_DOLL[] = _(
-    "巨大的玩偶。可以放在地毯或桌子上\n"
+    "巨大的玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_RHYDON_DOLL[] = _(
-    "巨大的玩偶。可以放在地毯或桌子上\n"
+    "巨大的玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_LAPRAS_DOLL[] = _(
-    "巨大的玩偶。可以放在地毯或桌子上\n"
+    "巨大的玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_VENUSAUR_DOLL[] = _(
-    "巨大的玩偶。可以放在地毯或桌子上\n"
+    "巨大的玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_CHARIZARD_DOLL[] = _(
-    "巨大的玩偶。可以放在地毯或桌子上\n"
+    "巨大的玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_BLASTOISE_DOLL[] = _(
-    "巨大的玩偶。可以放在地毯或桌子上\n"
+    "巨大的玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_WAILMER_DOLL[] = _(
-    "巨大的玩偶。可以放在地毯或桌子上\n"
+    "巨大的玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_REGIROCK_DOLL[] = _(
-    "巨大的玩偶。可以放在地毯或桌子上\n"
+    "巨大的玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_REGICE_DOLL[] = _(
-    "巨大的玩偶。可以放在地毯或桌子上\n"
+    "巨大的玩偶。可以放在地毯或桌子上"
         "。");
 
 const u8 DecorDesc_REGISTEEL_DOLL[] = _(
-    "巨大的玩偶。可以放在地毯或桌子上\n"
+    "巨大的玩偶。可以放在地毯或桌子上"
         "。");

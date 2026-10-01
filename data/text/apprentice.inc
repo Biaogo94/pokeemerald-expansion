@@ -14,9 +14,9 @@ gText_ApprenticeChallenge2::
 	.string "受我的挑战吧！$"
 
 gText_ApprenticeChallenge3::
-	.string "嗯……我是{STR_VAR_1}\n"
-	.string "的第{STR_VAR_2}号徒弟\l"
-	.string "……你觉得像我这样的人能赢吗？$"
+	.string "嗯……我是{STR_VAR_1}的\n"
+	.string "第{STR_VAR_2}号徒弟……\l"
+	.string "你觉得像我这样的人能赢吗？$"
 
 gText_ApprenticeChallenge4::
 	.string "我是{STR_VAR_1}的第\n"
@@ -45,19 +45,19 @@ gText_ApprenticeChallenge8::
 
 gText_ApprenticeChallenge9::
 	.string "哟吼！我是{STR_VAR_1}\n"
-	.string "的第{STR_VAR_2}号徒弟\l"
-	.string "！放马过来吧！$"
+	.string "的第{STR_VAR_2}号徒\l"
+	.string "弟！放马过来吧！$"
 
 gText_ApprenticeChallenge10::
-	.string "我是{STR_VAR_1}的第1\n"
-	.string "000个徒弟！其实是第\l"
+	.string "我是{STR_VAR_1}的第1000个徒弟！\p"
+	.string "其实是第\l"
 	.string "{STR_VAR_2}号啦！我上\l"
 	.string "了！$"
 
 gText_ApprenticeChallenge11::
 	.string "没错，我是{STR_VAR_1}\n"
-	.string "的第{STR_VAR_2}号徒弟\l"
-	.string "！让我们摇滚起来吧！$"
+	.string "的第{STR_VAR_2}号徒\l"
+	.string "弟！让我们摇滚起来吧！$"
 
 gText_ApprenticeChallenge12::
 	.string "哟吼哟吼！我就是人们所说的\n"
@@ -80,44 +80,41 @@ gText_ApprenticeChallenge15::
 	.string "可不是骗人的。$"
 
 gText_ApprenticePleaseTeach0::
-	.string "你是……{PLAYER}吗？哦！\n"
-	.string "抽泣……呜咽……\p"
-	.string "哦！对——对不起……我太紧张了，\n"
-	.string "忍不住哭了……\p"
+	.string "你是……{PLAYER}吗？哦！抽\n"
+	.string "泣……呜咽……\p"
+	.string "哦！对——对不起……我太紧张了，忍不\n"
+	.string "住哭了……\p"
 	.string "我是{STR_VAR_1}，我真\n"
 	.string "的非常崇拜你，{PLAYER}。\p"
-	.string "我……我一直梦想着有一天能见到你\n"
-	.string "并向你请教关于宝可梦的事。\p"
+	.string "我……我一直梦想着有一天能见到你并\n"
+	.string "向你请教关于宝可梦的事。\p"
 	.string "求求你，求求你了，\n"
 	.string "{PLAYER}！请务必教我关于\l"
 	.string "宝可梦的知识！$"
 
 gText_ApprenticeRejectTeaching0::
-	.string "哦……可——可是……抽泣……哇啊\n"
-	.string "啊啊！\p"
+	.string "哦……可——可是……抽泣……哇啊啊啊！\p"
 	.string "求你了！我求求你了，拜托！$"
 
 gText_ApprenticeWhichLevelMode0::
 	.string "哦，真的吗？你答应了？太棒了！太\n"
 	.string "厉害了！嗷呜！\p"
-	.string "哦……对不起……我太高兴了，又哭\n"
-	.string "了……\p"
-	.string "嗯……那么请告诉我！是关于对战塔\n"
-	.string "的事。\p"
-	.string "对我来说，Lv. 50级还是自由\n"
-	.string "等级哪个更好？$"
+	.string "哦……对不起……我太高兴了，又哭了……\p"
+	.string "嗯……那么请告诉我！是关于对战塔的\n"
+	.string "事。\p"
+	.string "对我来说，Lv. 50级还是自由等级哪\n"
+	.string "个更好？$"
 
 gText_ApprenticeLevelModeThanks0::
-	.string "{STR_VAR_1}？哇啊啊啊\n"
-	.string "！\p"
+	.string "{STR_VAR_1}？哇啊啊\n"
+	.string "啊！\p"
 	.string "哦！真对不起！你替我选择了级别让\n"
 	.string "我很高兴，这又让我哭了……\p"
-	.string "抽泣……太感谢你了！请再和我聊聊\n"
-	.string "！$"
+	.string "抽泣……太感谢你了！请再和我聊聊！$"
 
 gText_ApprenticePleaseTeach1::
-	.string "哇哦！你是{PLAYER}，对吧\n"
-	.string "？你超强的，对吧？\p"
+	.string "哇哦！你是{PLAYER}，对\n"
+	.string "吧？你超强的，对吧？\p"
 	.string "我是{STR_VAR_1}！我刚\n"
 	.string "成为训练家！\p"
 	.string "求你了，{PLAYER}！你能当\n"
@@ -125,15 +122,15 @@ gText_ApprenticePleaseTeach1::
 	.string "家的事吗？$"
 
 gText_ApprenticeRejectTeaching1::
-	.string "啊，为什么啊？哦，拜托？求求你了\n"
-	.string "？请当我的老师吧，拜托！$"
+	.string "啊，为什么啊？哦，拜托？求求你\n"
+	.string "了？请当我的老师吧，拜托！$"
 
 gText_ApprenticeWhichLevelMode1::
 	.string "耶！太好了！\p"
-	.string "我想问你的第一件事是关于对战塔的\n"
-	.string "！\p"
-	.string "Lv. 50级和自由等级的房间…\n"
-	.string "…哪个最适合我？$"
+	.string "我想问你的第一件事是关于对战塔\n"
+	.string "的！\p"
+	.string "Lv. 50级和自由等级的房间……哪个最\n"
+	.string "适合我？$"
 
 gText_ApprenticeLevelModeThanks1::
 	.string "{STR_VAR_1}，是吧？没\n"
@@ -142,8 +139,8 @@ gText_ApprenticeLevelModeThanks1::
 	.string "的，老师！$"
 
 gText_ApprenticePleaseTeach2::
-	.string "嗯……你是{PLAYER}吗？我\n"
-	.string "的名字是{STR_VAR_1}。\p"
+	.string "嗯……你是{PLAYER}吗？我的\n"
+	.string "名字是{STR_VAR_1}。\p"
 	.string "我想成为一名宝可梦训练家，但我不\n"
 	.string "知道该怎么办……\p"
 	.string "所以我想也许可以请教你，因为你很\n"
@@ -153,14 +150,14 @@ gText_ApprenticePleaseTeach2::
 
 gText_ApprenticeRejectTeaching2::
 	.string "哦，但是……\p"
-	.string "我是真心想成为一名宝可梦训练家的\n"
-	.string "！\p"
+	.string "我是真心想成为一名宝可梦训练家\n"
+	.string "的！\p"
 	.string "拜托，你能回答我的问题吗？$"
 
 gText_ApprenticeWhichLevelMode2::
 	.string "谢谢！我马上问第一个问题！\p"
-	.string "对战塔有2个级别，Lv. 50级\n"
-	.string "和自由等级，对吧？\p"
+	.string "对战塔有2个级别，Lv. 50级和自由\n"
+	.string "等级，对吧？\p"
 	.string "你觉得哪个级别更适合我？$"
 
 gText_ApprenticeLevelModeThanks2::
@@ -174,8 +171,8 @@ gText_ApprenticePleaseTeach3::
 	.string "的。\p"
 	.string "像我这样的人不可能遇到\n"
 	.string "{PLAYER}。\p"
-	.string "……你真的是{PLAYER}？真\n"
-	.string "不敢相信我正在和你说话！\p"
+	.string "……你真的是{PLAYER}？真不\n"
+	.string "敢相信我正在和你说话！\p"
 	.string "当这么好的事情发生时，我知道现在\n"
 	.string "只会发生可怕的事情在我身上……\p"
 	.string "……对不起……我是……\n"
@@ -191,10 +188,10 @@ gText_ApprenticePleaseTeach3::
 
 gText_ApprenticeRejectTeaching3::
 	.string "我就知道会这样……\p"
-	.string "这一定是因为我真是个无聊的小人物\n"
-	.string "……\p"
-	.string "但我以为也许还有机会……你不会重\n"
-	.string "新考虑一下，对吧？\p"
+	.string "这一定是因为我真是个无聊的小人\n"
+	.string "物……\p"
+	.string "但我以为也许还有机会……你不会重新\n"
+	.string "考虑一下，对吧？\p"
 	.string "但我不能就这样放弃。趁着我运气还\n"
 	.string "在，我要问你！\p"
 	.string "拜托，你能好心地给我建议吗？$"
@@ -204,18 +201,18 @@ gText_ApprenticeWhichLevelMode3::
 	.string "会给我建议！我……我太高兴了……\p"
 	.string "我想问你的其实很琐碎，但我无法决\n"
 	.string "定……\p"
-	.string "在对战塔，他们让你选择Lv. 5\n"
-	.string "0级或自由等级。\p"
+	.string "在对战塔，他们让你选择Lv. 50级或\n"
+	.string "自由等级。\p"
 	.string "你觉得哪个级别哪怕像我这样的人也\n"
 	.string "可能有机会？$"
 
 gText_ApprenticeLevelModeThanks3::
 	.string "{STR_VAR_1}？好的！但\n"
-	.string "你真的觉得像我这样的人会有机会吗\l"
-	.string "？\p"
+	.string "你真的觉得像我这样的人会有机会\l"
+	.string "吗？\p"
 	.string "我会尽力的，尽管我不认为会成功。\p"
-	.string "非常感谢你花时间陪伴像我这样的人\n"
-	.string "。$"
+	.string "非常感谢你花时间陪伴像我这样的\n"
+	.string "人。$"
 
 gText_ApprenticePleaseTeach4::
 	.string "哦！你是{PLAYER}\n"
@@ -236,8 +233,8 @@ gText_ApprenticeRejectTeaching4::
 gText_ApprenticeWhichLevelMode4::
 	.string "好的，所以有件事。我想让你替我决\n"
 	.string "定。\p"
-	.string "你知道对战塔有Lv. 50级和自\n"
-	.string "由等级的房间吧？\p"
+	.string "你知道对战塔有Lv. 50级和自由等级\n"
+	.string "的房间吧？\p"
 	.string "你觉得哪个会适合我，\n"
 	.string "{PLAYER}{KUN}？$"
 
@@ -247,8 +244,8 @@ gText_ApprenticeLevelModeThanks4::
 	.string "知道是你做的决定，\n"
 	.string "{PLAYER}{KUN}，就算\l"
 	.string "我输了也不会那么难过。\p"
-	.string "好的，我会再来向你寻求建议。再见\n"
-	.string "！$"
+	.string "好的，我会再来向你寻求建议。再\n"
+	.string "见！$"
 
 gText_ApprenticePleaseTeach5::
 	.string "哦，嗨，你好！{PLAYER}\n"
@@ -257,8 +254,8 @@ gText_ApprenticePleaseTeach5::
 	.string "很高兴见到你！\p"
 	.string "我是个铁人三项选手，所以我即使在\n"
 	.string "培育宝可梦时也保持健康。\p"
-	.string "我还参与其他事情，比如工作、打盹\n"
-	.string "、交谊舞……\p"
+	.string "我还参与其他事情，比如工作、打\n"
+	.string "盹、交谊舞……\p"
 	.string "这么忙，对我来说要成为一个像样的\n"
 	.string "训练家可不容易。\p"
 	.string "所以，我有个提议！\p"
@@ -284,12 +281,12 @@ gText_ApprenticeLevelModeThanks5::
 	.string "{STR_VAR_1}，是吧？好\n"
 	.string "的，明白了。我会想办法找时间试试\l"
 	.string "看的！\p"
-	.string "……哎呀，我得去上班了！谢谢！回\n"
-	.string "头见！$"
+	.string "……哎呀，我得去上班了！谢谢！回头\n"
+	.string "见！$"
 
 gText_ApprenticePleaseTeach6::
-	.string "不可能！呃——呃！你该不会是真正\n"
-	.string "的{PLAYER}吧？\p"
+	.string "不可能！呃——呃！你该不会是真正的\n"
+	.string "{PLAYER}吧？\p"
 	.string "啊哈！太棒了！我是\n"
 	.string "{STR_VAR_1}，很高兴见\l"
 	.string "到你！\p"
@@ -303,8 +300,8 @@ gText_ApprenticePleaseTeach6::
 
 gText_ApprenticeRejectTeaching6::
 	.string "啊哈哈哈，你可以假装很凶，但你骗\n"
-	.string "不了我！你其实是答应的意思，对吧\l"
-	.string "？$"
+	.string "不了我！你其实是答应的意思，对\l"
+	.string "吧？$"
 
 gText_ApprenticeWhichLevelMode6::
 	.string "耶！我就知道你心胸宽广，\n"
@@ -312,10 +309,10 @@ gText_ApprenticeWhichLevelMode6::
 	.string "我该先问你什么呢？……哦，我想到\n"
 	.string "了！\p"
 	.string "请鼓掌！我的问题是……\p"
-	.string "如果我要挑战对战塔，我该走哪条路\n"
-	.string "？\p"
-	.string "Lv. 50级还是自由等级？哪个\n"
-	.string "更适合我？$"
+	.string "如果我要挑战对战塔，我该走哪条\n"
+	.string "路？\p"
+	.string "Lv. 50级还是自由等级？哪个更适合\n"
+	.string "我？$"
 
 gText_ApprenticeLevelModeThanks6::
 	.string "哦——哦——哦！\n"
@@ -350,8 +347,8 @@ gText_ApprenticeWhichLevelMode7::
 	.string "事上给我建议。\p"
 	.string "我计划不久后参加对战塔挑战。\p"
 	.string "但是，有2个级别……\p"
-	.string "哪个最适合我？Lv. 50级还是\n"
-	.string "自由等级？$"
+	.string "哪个最适合我？Lv. 50级还是自由等\n"
+	.string "级？$"
 
 gText_ApprenticeLevelModeThanks7::
 	.string "你选择的是{STR_VAR_1}\n"
@@ -361,8 +358,7 @@ gText_ApprenticeLevelModeThanks7::
 
 gText_ApprenticePleaseTeach8::
 	.string "呀！呀！{PLAYER}！你居然\n"
-	.string "主动跟我说话了！我……我\l"
-	.string "太高兴了！\p"
+	.string "主动跟我说话了！我……我太高兴了！\p"
 	.string "我！我的名字叫\n"
 	.string "{STR_VAR_1}！是刚刚成\l"
 	.string "为训练家的新人！\p"
@@ -374,8 +370,8 @@ gText_ApprenticePleaseTeach8::
 	.string "请收我为徒吧！我想向你学习！$"
 
 gText_ApprenticeRejectTeaching8::
-	.string "哇啊啊！{PLAYER}拒绝了我\n"
-	.string "……这……这是宝贵的经验！\p"
+	.string "哇啊啊！{PLAYER}拒绝了\n"
+	.string "我……这……这是宝贵的经验！\p"
 	.string "{PLAYER}，拜托！这次我想\n"
 	.string "听到肯定的回答！\p"
 	.string "我恳求你的指导！$"
@@ -383,16 +379,15 @@ gText_ApprenticeRejectTeaching8::
 gText_ApprenticeWhichLevelMode8::
 	.string "咿耶！{PLAYER}说好！\n"
 	.string "{PLAYER}说好！\p"
-	.string "我今晚会睡不着觉了……太感谢你了\n"
-	.string "！\p"
+	.string "我今晚会睡不着觉了……太感谢你了！\p"
 	.string "那么，这是我的问题！\p"
-	.string "在对战塔，什么适合我，Lv. 5\n"
-	.string "0级还是自由等级？$"
+	.string "在对战塔，什么适合我，Lv. 50级还\n"
+	.string "是自由等级？$"
 
 gText_ApprenticeLevelModeThanks8::
 	.string "{STR_VAR_1}！完全明白\n"
-	.string "了！我完全明白！我高兴得要发狂了\l"
-	.string "！\p"
+	.string "了！我完全明白！我高兴得要发狂\l"
+	.string "了！\p"
 	.string "希望下次你愿意再教我一些东西。$"
 
 gText_ApprenticePleaseTeach9::
@@ -400,8 +395,8 @@ gText_ApprenticePleaseTeach9::
 	.string "{PLAYER}{KUN}？！那\l"
 	.string "个强大又著名的训练家？你好，我简\l"
 	.string "直太幸运了！\p"
-	.string "你好，我叫{STR_VAR_1}\n"
-	.string "！\p"
+	.string "你好，我叫\n"
+	.string "{STR_VAR_1}！\p"
 	.string "我一直在寻找一位宝可梦老师。\p"
 	.string "而你来得正是时候，\n"
 	.string "{PLAYER}{KUN}！\p"
@@ -416,25 +411,24 @@ gText_ApprenticeWhichLevelMode9::
 	.string "哦，耶！这是坚定的回答！太棒了，\n"
 	.string "我得说！\p"
 	.string "那么，对战塔的第一个建议怎么样？\p"
-	.string "如果我要去，哪个更好？Lv. 5\n"
-	.string "0级还是自由等级？$"
+	.string "如果我要去，哪个更好？Lv. 50级还\n"
+	.string "是自由等级？$"
 
 gText_ApprenticeLevelModeThanks9::
-	.string "嗯哼，{STR_VAR_1}是吧\n"
-	.string "！好，A——OK！我会去展示我的\l"
-	.string "实力，就像，酷炫！\p"
-	.string "好的，我会把你当作我的导师！再见\n"
-	.string "！$"
+	.string "嗯哼，{STR_VAR_1}是\n"
+	.string "吧！好，A——OK！我会去展示我的实\l"
+	.string "力，就像，酷炫！\p"
+	.string "好的，我会把你当作我的导师！再\n"
+	.string "见！$"
 
 gText_ApprenticePleaseTeach10::
 	.string "哎呀，这不是{PLAYER}\n"
 	.string "{KUN}吗？警察刚刚在到处找你\l"
 	.string "呢！\p"
-	.string "……骗你的啦\n"
-	.string "！\p"
+	.string "……骗你的啦！\p"
 	.string "我叫{STR_VAR_1}。别看\n"
-	.string "我长这样，我可是宝可梦冠军！..\l"
-	.string "……这也是骗你的！\p"
+	.string "我长这样，我可是宝可梦冠军！..……\l"
+	.string "这也是骗你的！\p"
 	.string "不过接下来这句可不是谎话。其实我\n"
 	.string "不太擅长宝可梦对战。\p"
 	.string "所以，你能收我为徒，教教我关于宝\n"
@@ -445,15 +439,15 @@ gText_ApprenticeRejectTeaching10::
 	.string "看看我会做什么！\p"
 	.string "哇！哇！哇！嗝！\p"
 	.string "哈哈哈，那是我装的眼泪！\p"
-	.string "来吧，拜托你当我的宝可梦师父好吗\n"
-	.string "？$"
+	.string "来吧，拜托你当我的宝可梦师父好\n"
+	.string "吗？$"
 
 gText_ApprenticeWhichLevelMode10::
 	.string "耶比！我会给你买艘船！\p"
-	.string "当然我又在撒谎！但是……谢谢你，\n"
-	.string "师父！\p"
-	.string "你知道对战塔有Lv. 50级和自\n"
-	.string "由等级吧？\p"
+	.string "当然我又在撒谎！但是……谢谢你，师\n"
+	.string "父！\p"
+	.string "你知道对战塔有Lv. 50级和自由等级\n"
+	.string "吧？\p"
 	.string "我正纠结该挑战哪个级别……\p"
 	.string "师父你能替我决定吗？$"
 
@@ -466,8 +460,8 @@ gText_ApprenticeLevelModeThanks10::
 	.string "多谢师父！以后也请您多多指教啦！$"
 
 gText_ApprenticePleaseTeach11::
-	.string "喂--嗬！“喂嗬”就是“嗨”，水\n"
-	.string "手向你打招呼！\p"
+	.string "喂--嗬！“喂嗬”就是“嗨”，水手向你\n"
+	.string "打招呼！\p"
 	.string "我是{STR_VAR_1}，唱着\n"
 	.string "说唱的水手就是我本人！\p"
 	.string "现在轮到你了，快来做个自我介绍\n"
@@ -491,26 +485,27 @@ gText_ApprenticeWhichLevelMode11::
 	.string "个精神！\p"
 	.string "所以这是我的第一个问题，需要你的\n"
 	.string "建议！\p"
-	.string "是关于对战塔的，这取决于我的实力\n"
-	.string "！\p"
-	.string "那里有Lv. 50级和自由等级，\n"
-	.string "哪个才是我该选的级别？$"
+	.string "是关于对战塔的，这取决于我的实\n"
+	.string "力！\p"
+	.string "那里有Lv. 50级和自由等级，哪个才\n"
+	.string "是我该选的级别？$"
 
 gText_ApprenticeLevelModeThanks11::
 	.string "好的，{STR_VAR_1}，你\n"
 	.string "说！我会去的，就在路上！\p"
-	.string "如果我需要建议，{PLAYER}\n"
-	.string "，你的话我永远听从！$"
+	.string "如果我需要建议，\n"
+	.string "{PLAYER}，你的话我永远听\l"
+	.string "从！$"
 
 gText_ApprenticePleaseTeach12::
 	.string "喂喂喂，你不就是{PLAYER}\n"
 	.string "吗？我该怎么做？跟你搭话？有什么\l"
 	.string "不行，反正我已经在跟你说了！\p"
-	.string "{PLAYER}，你觉得很惊讶吗\n"
-	.string "？还是先让你知道我何许人也吧！\p"
-	.string "你可以叫我{STR_VAR_1}\n"
-	.string "。吉他界最耀眼的一颗新星，那就是\l"
-	.string "我！\p"
+	.string "{PLAYER}，你觉得很惊讶\n"
+	.string "吗？还是先让你知道我何许人也吧！\p"
+	.string "你可以叫我\n"
+	.string "{STR_VAR_1}。吉他界最\l"
+	.string "耀眼的一颗新星，那就是我！\p"
 	.string "你能听懂我的电波吗？你一定接收到\n"
 	.string "了对吧！\p"
 	.string "我今天手气正顺，不如就向你提个请\n"
@@ -525,8 +520,8 @@ gText_ApprenticeRejectTeaching12::
 	.string "吧！我想要你把一切都教给我！$"
 
 gText_ApprenticeWhichLevelMode12::
-	.string "幸运，耶，呜呼！我该问你个问题吗\n"
-	.string "？\p"
+	.string "幸运，耶，呜呼！我该问你个问题\n"
+	.string "吗？\p"
 	.string "既然我们在对战塔附近，不如问个关\n"
 	.string "于它实力的问题？\p"
 	.string "在你能看到的选择中，哪个才是我该\n"
@@ -542,9 +537,8 @@ gText_ApprenticeLevelModeThanks12::
 gText_ApprenticePleaseTeach13::
 	.string "啊，你好！那边那位！能帮我捏捏肩\n"
 	.string "膀吗？\p"
-	.string "……对，就是那里！就是那\n"
-	.string "样！哎哟，痛痛痛！呼……\l"
-	.string "真舒服啊！\p"
+	.string "……对，就是那里！就是那样！哎哟，\n"
+	.string "痛痛痛！呼……真舒服啊！\p"
 	.string "我叫{STR_VAR_1}。我本\n"
 	.string "来在练空手道，但我的身体底子实在\l"
 	.string "经不起那种折腾……\p"
@@ -560,39 +554,37 @@ gText_ApprenticeRejectTeaching13::
 	.string "了，好不好嘛？$"
 
 gText_ApprenticeWhichLevelMode13::
-	.string "谢谢你。你真是太好了！……咳！咳\n"
+	.string "谢谢你。你真是太好了！……咳！咳"
 	.string "！\p"
 	.string "呃，我得快点变强……\p"
 	.string "我马上就去对战塔，但对我来说哪个\n"
-	.string "更好？Lv. 50级还是自由等级\l"
+	.string "更好？Lv. 50级还是自由等级"
 	.string "？$"
 
 gText_ApprenticeLevelModeThanks13::
 	.string "嗯，好的。那就是\n"
 	.string "{STR_VAR_1}了。我这就\l"
 	.string "去那里。\p"
-	.string "希望以后还能向你请教--毕竟你可\n"
-	.string "是我的师父啊！$"
+	.string "希望以后还能向你请教--毕竟你可是\n"
+	.string "我的师父啊！$"
 
 gText_ApprenticePleaseTeach14::
-	.string "那个……请问……\n"
-	.string "是{PLAYER}{KUN}..\l"
-	.string "……吗？\p"
+	.string "那个……请问……是{PLAYER}\n"
+	.string "{KUN}..……吗？\p"
 	.string "请、请不要那样看着我。搞得我特别\n"
 	.string "不自在……\p"
-	.string "我……我是\n"
-	.string "{STR_VAR_1}。\p"
+	.string "我……我是{STR_VAR_1}。\p"
 	.string "说出来挺不好意思的，我平时在到处\n"
 	.string "调查古代遗迹……\p"
 	.string "更不好意思的是，其实我对对战开拓\n"
 	.string "区也很感兴趣。\p"
 	.string "{PLAYER}{KUN}，大家\n"
-	.string "都说你是一位非常厉害的训练家..\l"
-	.string "....\p"
+	.string "都说你是一位非常厉害的训练家...\l"
+	.string "...\p"
 	.string "虽然有些难以启齿，但我有个不情之\n"
 	.string "请。\p"
-	.string "你能成为我的师父，给我一些指导吗\n"
-	.string "？$"
+	.string "你能成为我的师父，给我一些指导\n"
+	.string "吗？$"
 
 gText_ApprenticeRejectTeaching14::
 	.string "求求你别这么不理我！被拒绝的羞耻\n"
@@ -605,12 +597,11 @@ gText_ApprenticeWhichLevelMode14::
 	.string "但请不要那样直勾勾地看着我。我会\n"
 	.string "慌乱得手足无措的。\p"
 	.string "请不要看着我的眼睛回答我。\p"
-	.string "在对战巨塔里……我应该挑\n"
-	.string "战哪种级别呢？$"
+	.string "在对战巨塔里……我应该挑战哪种级别\n"
+	.string "呢？$"
 
 gText_ApprenticeLevelModeThanks14::
-	.string "啊……好的！那我就去挑战\n"
-	.string "看看。\p"
+	.string "啊……好的！那我就去挑战看看。\p"
 	.string "希望我能鼓起勇气英勇应战，不会慌\n"
 	.string "乱成一团……\p"
 	.string "谢谢你，{PLAYER}\n"
@@ -619,33 +610,31 @@ gText_ApprenticeLevelModeThanks14::
 
 gText_ApprenticePleaseTeach15::
 	.string "嗯？你看上去像是{PLAYER}\n"
-	.string "{KUN}……但你真的是\l"
-	.string "本人吗？\p"
+	.string "{KUN}……但你真的是本人吗？\p"
 	.string "你可以称呼我为\n"
 	.string "{STR_VAR_1}。\p"
 	.string "我最近一直在考虑，拜一位强大的训\n"
 	.string "练家为师。\p"
-	.string "所以能遇上你，可真算得上是幸运！\n"
-	.string "……你确实是\l"
-	.string "{PLAYER}{KUN}没错吧\l"
-	.string "？\p"
-	.string "不，不，如果你是本人的话就好办了\n"
-	.string "。我只是希望你能收我做徒弟。$"
+	.string "所以能遇上你，可真算得上是幸运！\p"
+	.string "……你确实是{PLAYER}\l"
+	.string "{KUN}没错吧？\p"
+	.string "不，不，如果你是本人的话就好办\n"
+	.string "了。我只是希望你能收我做徒弟。$"
 
 gText_ApprenticeRejectTeaching15::
 	.string "哦？究竟是什么理由促使你拒绝我？\p"
 	.string "怀疑你的身份，确实是我的失礼。\p"
-	.string "请接受我的歉意，并正式收我为徒吧\n"
-	.string "。$"
+	.string "请接受我的歉意，并正式收我为徒\n"
+	.string "吧。$"
 
 gText_ApprenticeWhichLevelMode15::
 	.string "你真的愿意收我为徒吗？我可不想高\n"
 	.string "兴得太早。\p"
-	.string "如果是真的，那我向刚才的失礼道歉\n"
-	.string "。不过现在，我需要你的建议。\p"
+	.string "如果是真的，那我向刚才的失礼道\n"
+	.string "歉。不过现在，我需要你的建议。\p"
 	.string "如果我要挑战对战巨塔，哪种级别才\n"
-	.string "配得上我的水准？是50级，还是公\l"
-	.string "开级？$"
+	.string "配得上我的水准？是50级，还是公开\l"
+	.string "级？$"
 
 gText_ApprenticeLevelModeThanks15::
 	.string "{STR_VAR_1}吗？你确定\n"
@@ -657,7 +646,7 @@ gText_ApprenticeLevelModeThanks15::
 	.string "那么，我们后会有期！$"
 
 gText_ApprenticeWhatHeldItem0::
-	.string "唉……呜呜……啊\n"
+	.string "唉……呜呜……啊"
 	.string "，{PLAYER}！\p"
 	.string "我陷入了一个两难的困境，实在拿不\n"
 	.string "定主意。\p"
@@ -717,8 +706,8 @@ gText_ApprenticeThanksHeldItem1::
 
 gText_ApprenticeItemAlreadyRecommended1::
 	.string "啊，呃，不，我不是那个意思。我想\n"
-	.string "知道一些我还没见过的新道具的情报\l"
-	.string "。\p"
+	.string "知道一些我还没见过的新道具的情\l"
+	.string "报。\p"
 	.string "还是说，你的意思是这次我的宝可梦\n"
 	.string "什么道具都不用带？$"
 
@@ -749,27 +738,27 @@ gText_ApprenticeItemAlreadyRecommended2::
 	.string "不需要携带任何东西？$"
 
 gText_ApprenticeWhatHeldItem3::
-	.string "你好，{PLAYER}……很抱歉\n"
-	.string "打扰你，但我还有件事想问。\p"
-	.string "我觉得自己不够强，无法独自赢比赛\n"
-	.string "，所以想让我的\l"
+	.string "你好，{PLAYER}……很抱歉打\n"
+	.string "扰你，但我还有件事想问。\p"
+	.string "我觉得自己不够强，无法独自赢比\n"
+	.string "赛，所以想让我的\l"
 	.string "{STR_VAR_1}携带道具。\p"
 	.string "但不知道什么才好。\p"
 	.string "{PLAYER}，拜托，你能替我\n"
 	.string "决定吗？$"
 
 gText_ApprenticeHoldNothing3::
-	.string "像我这样的人的宝可梦不带道具更好\n"
-	.string "？$"
+	.string "像我这样的人的宝可梦不带道具更\n"
+	.string "好？$"
 
 gText_ApprenticeThanksNoHeldItem3::
-	.string "我明白了……你是说我不该依赖道具\n"
-	.string "。我会尽力不依赖的！\p"
+	.string "我明白了……你是说我不该依赖道具。\n"
+	.string "我会尽力不依赖的！\p"
 	.string "非常感谢你！$"
 
 gText_ApprenticeThanksHeldItem3::
-	.string "道具{STR_VAR_1}，好的\n"
-	.string "。我不确定能不能弄到一个……不！\l"
+	.string "道具{STR_VAR_1}，好\n"
+	.string "的。我不确定能不能弄到一个……不！\l"
 	.string "我会尽力搞到的。\p"
 	.string "非常感谢你！$"
 
@@ -805,8 +794,8 @@ gText_ApprenticeThanksNoHeldItem4::
 	.string "好的，我会再来向你请教。再见！$"
 
 gText_ApprenticeThanksHeldItem4::
-	.string "道具{STR_VAR_1}，是吧\n"
-	.string "？不错。我会用的！\p"
+	.string "道具{STR_VAR_1}，是\n"
+	.string "吧？不错。我会用的！\p"
 	.string "知道是你做的决定，\n"
 	.string "{PLAYER}{KUN}，就算\l"
 	.string "我输了也不会太难过。\p"
@@ -839,16 +828,16 @@ gText_ApprenticeHoldNothing5::
 	.string "何东西？$"
 
 gText_ApprenticeThanksNoHeldItem5::
-	.string "好的，知道了。我不需要为此花时间\n"
-	.string "。\p"
+	.string "好的，知道了。我不需要为此花时\n"
+	.string "间。\p"
 	.string "今天谢谢了！回头见！$"
 
 gText_ApprenticeThanksHeldItem5::
 	.string "好的，知道了。我会想办法找时间找\n"
-	.string "到你推荐的{STR_VAR_1}\l"
-	.string "。\p"
-	.string "我很高兴遇到你这样的好导师。谢谢\n"
-	.string "！回头见！$"
+	.string "到你推荐的\l"
+	.string "{STR_VAR_1}。\p"
+	.string "我很高兴遇到你这样的好导师。谢\n"
+	.string "谢！回头见！$"
 
 gText_ApprenticeItemAlreadyRecommended5::
 	.string "嗯？我已经知道那个\n"
@@ -862,8 +851,8 @@ gText_ApprenticeWhatHeldItem6::
 	.string "嗨，{PLAYER}！是我啦！今\n"
 	.string "天又得借用一下你的聪明才智了。拜\l"
 	.string "托，给我点建议吧！\p"
-	.string "请奏擂鼓，当当当！我的问题就是。\n"
-	.string ".....\p"
+	.string "请奏擂鼓，当当当！我的问题就是"
+	.string "。.....\p"
 	.string "如果我想让我的\n"
 	.string "{STR_VAR_1}携带道具的\l"
 	.string "话，带什么最好？$"
@@ -905,8 +894,8 @@ gText_ApprenticeWhatHeldItem7::
 	.string "太好了……$"
 
 gText_ApprenticeHoldNothing7::
-	.string "换句话说……我的宝可梦不需要携带\n"
-	.string "道具？$"
+	.string "换句话说……我的宝可梦不需要携带道\n"
+	.string "具？$"
 
 gText_ApprenticeThanksNoHeldItem7::
 	.string "这下我彻底明白了！我会按照这个方\n"
@@ -921,16 +910,16 @@ gText_ApprenticeThanksHeldItem7::
 	.string "次还能向你请教。请多保重！$"
 
 gText_ApprenticeItemAlreadyRecommended7::
-	.string "你已经告诉过我了，而且我已经有了\n"
-	.string "。\p"
-	.string "或者你是说……我的宝可梦不需要携\n"
-	.string "带道具？$"
+	.string "你已经告诉过我了，而且我已经有\n"
+	.string "了。\p"
+	.string "或者你是说……我的宝可梦不需要携带\n"
+	.string "道具？$"
 
 gText_ApprenticeWhatHeldItem8::
-	.string "呀！{PLAYER}！我……又见\n"
-	.string "到你我太高兴了！\p"
-	.string "哦——哦——哦！有件事我一定要问\n"
-	.string "你，{PLAYER}！\p"
+	.string "呀！{PLAYER}！我……又见到\n"
+	.string "你我太高兴了！\p"
+	.string "哦——哦——哦！有件事我一定要问你，\n"
+	.string "{PLAYER}！\p"
 	.string "请决定我的{STR_VAR_1}\n"
 	.string "该携带什么！$"
 
@@ -946,9 +935,8 @@ gText_ApprenticeThanksNoHeldItem8::
 gText_ApprenticeThanksHeldItem8::
 	.string "{STR_VAR_1}！就用这个\n"
 	.string "了！\p"
-	.string "那个……难道说，\n"
-	.string "{PLAYER}你也给自己的宝可\l"
-	.string "梦带这个道具吗？\p"
+	.string "那个……难道说，{PLAYER}你\n"
+	.string "也给自己的宝可梦带这个道具吗？\p"
 	.string "我一定会把它弄到手的！希望下次你\n"
 	.string "还能多指教指教我。$"
 
@@ -998,8 +986,8 @@ gText_ApprenticeWhatHeldItem10::
 	.string "然抱着10个金珠！\p"
 	.string "骗你的啦！哇哈哈哈哈！\p"
 	.string "不过接下来这句可不是骗你的。我实\n"
-	.string "在不擅长琢磨宝可梦该携带什么道具\l"
-	.string "。\p"
+	.string "在不擅长琢磨宝可梦该携带什么道\l"
+	.string "具。\p"
 	.string "所以师父，就由您来替我决定让\n"
 	.string "{STR_VAR_1}携带什么道\l"
 	.string "具好吗？$"
@@ -1030,8 +1018,8 @@ gText_ApprenticeItemAlreadyRecommended10::
 	.string "西？$"
 
 gText_ApprenticeWhatHeldItem11::
-	.string "A——H——O——Y！拼出来就是\n"
-	.string "Ahoy，嗨！\p"
+	.string "A——H——O——Y！\n"
+	.string "拼出来就是Ahoy，嗨！\p"
 	.string "说唱水手就是我！向你提个超酷的问\n"
 	.string "题！\p"
 	.string "这是个道具问题需要你的建议！\p"
@@ -1045,14 +1033,16 @@ gText_ApprenticeHoldNothing11::
 gText_ApprenticeThanksNoHeldItem11::
 	.string "好的，我听到了，当然！我的宝可梦\n"
 	.string "也会空手上阵！\p"
-	.string "如果我需要建议，{PLAYER}\n"
-	.string "，你的话我永远听从！$"
+	.string "如果我需要建议，\n"
+	.string "{PLAYER}，你的话我永远听\l"
+	.string "从！$"
 
 gText_ApprenticeThanksHeldItem11::
 	.string "好的，{STR_VAR_1}，那\n"
 	.string "就是我要用的。让你选是对的！\p"
-	.string "如果我需要建议，{PLAYER}\n"
-	.string "，你的话我永远听从！$"
+	.string "如果我需要建议，\n"
+	.string "{PLAYER}，你的话我永远听\l"
+	.string "从！$"
 
 gText_ApprenticeItemAlreadyRecommended11::
 	.string "好的，{STR_VAR_1}，你\n"
@@ -1102,12 +1092,12 @@ gText_ApprenticeItemAlreadyRecommended12::
 
 gText_ApprenticeWhatHeldItem13::
 	.string "嘎！哎哟！{PLAYER}\n"
-	.string "{KUN}，我的手臂断了！别碰它\l"
-	.string "，拜托！\p"
+	.string "{KUN}，我的手臂断了！别碰\l"
+	.string "它，拜托！\p"
 	.string "一定是我在尝试不同道具和我的宝可\n"
 	.string "梦伙伴们时弄断的。\p"
-	.string "所以，事已至此，我需要你替我决定\n"
-	.string "。\p"
+	.string "所以，事已至此，我需要你替我决\n"
+	.string "定。\p"
 	.string "{PLAYER}{KUN}，你觉\n"
 	.string "得我的{STR_VAR_1}携带\l"
 	.string "什么好？$"
@@ -1131,21 +1121,20 @@ gText_ApprenticeThanksHeldItem13::
 
 gText_ApprenticeItemAlreadyRecommended13::
 	.string "不对不对，你上次就提过\n"
-	.string "{STR_VAR_1}了，忘了吗\l"
-	.string "？\p"
+	.string "{STR_VAR_1}了，忘了\l"
+	.string "吗？\p"
 	.string "能不能告诉我点更厉害的招数？\p"
 	.string "呃，等等。你的意思是，我的\n"
 	.string "{STR_VAR_2}什么都不用\l"
 	.string "带吗？$"
 
 gText_ApprenticeWhatHeldItem14::
-	.string "那个……呜……\n"
-	.string "{PLAYER}{KUN}...\l"
-	.string "...\p"
+	.string "那个……呜……{PLAYER}\n"
+	.string "{KUN}......\p"
 	.string "求求你，别用那种眼神看我。我的宝\n"
 	.string "可梦身上什么都没带。\p"
-	.string "我……虽然觉得很不好意思\n"
-	.string "，但我真的很需要你的建议。\p"
+	.string "我……虽然觉得很不好意思，但我真的\n"
+	.string "很需要你的建议。\p"
 	.string "我决定不了带什么物品才能让我的\n"
 	.string "{STR_VAR_1}变得更强。\p"
 	.string "{PLAYER}{KUN}，你觉\n"
@@ -1157,10 +1146,9 @@ gText_ApprenticeHoldNothing14::
 	.string "好？$"
 
 gText_ApprenticeThanksNoHeldItem14::
-	.string "啊……好的！那就什么物品\n"
-	.string "都不带。\p"
-	.string "虽然很让人紧张……但这样\n"
-	.string "会不会太酷了呢？\p"
+	.string "啊……好的！那就什么物品都不带。\p"
+	.string "虽然很让人紧张……但这样会不会太酷\n"
+	.string "了呢？\p"
 	.string "谢谢你，{PLAYER}\n"
 	.string "{KUN}。如果我们再见面的话，\l"
 	.string "希望你还能像这样帮帮我。$"
@@ -1168,26 +1156,24 @@ gText_ApprenticeThanksNoHeldItem14::
 gText_ApprenticeThanksHeldItem14::
 	.string "啊……好的！那就带上那个\n"
 	.string "{STR_VAR_1}。\p"
-	.string "虽然很让人紧张……但这样\n"
-	.string "会不会太酷了呢？\p"
+	.string "虽然很让人紧张……但这样会不会太酷\n"
+	.string "了呢？\p"
 	.string "谢谢你，{PLAYER}\n"
 	.string "{KUN}。如果我们再见面的话，\l"
 	.string "希望你还能像这样帮帮我。$"
 
 gText_ApprenticeItemAlreadyRecommended14::
-	.string "可、可是那个你已经说过了……\n"
-	.string "..\p"
+	.string "可、可是那个你已经说过了……..\p"
 	.string "请别这么敷衍我嘛！这也太让人难堪\n"
 	.string "了……\p"
-	.string "啊……是我自作聪明了吗？\n"
-	.string "你是觉得我的\l"
-	.string "{STR_VAR_2}什么物品都\l"
-	.string "不带比较好吗？$"
+	.string "啊……是我自作聪明了吗？你是觉得我\n"
+	.string "的{STR_VAR_2}什么物品\l"
+	.string "都不带比较好吗？$"
 
 gText_ApprenticeWhatHeldItem15::
 	.string "嗯？您看起来像是{PLAYER}\n"
-	.string "{KUN}……但真的是本\l"
-	.string "人吗？莫非是双胞胎？\p"
+	.string "{KUN}……但真的是本人吗？莫非\l"
+	.string "是双胞胎？\p"
 	.string "噢，不不不，请别介意！如果您确实\n"
 	.string "是{PLAYER}，请原谅我的失\l"
 	.string "礼。\p"
@@ -1246,8 +1232,8 @@ gText_ApprenticeWhichMonFirst1::
 	.string "该先出场？$"
 
 gText_ApprenticeMonFirstThanks1::
-	.string "我的{STR_VAR_1}？没错\n"
-	.string "。好的，我会这么做的！\p"
+	.string "我的{STR_VAR_1}？没\n"
+	.string "错。好的，我会这么做的！\p"
 	.string "谢谢你教我！$"
 
 gText_ApprenticeWhichMonFirst2::
@@ -1263,8 +1249,8 @@ gText_ApprenticeMonFirstThanks2::
 	.string "下次见！$"
 
 gText_ApprenticeWhichMonFirst3::
-	.string "你好，{PLAYER}……很抱歉\n"
-	.string "又打扰你问另一个问题。\p"
+	.string "你好，{PLAYER}……很抱歉又\n"
+	.string "打扰你问另一个问题。\p"
 	.string "我太没自信了，没有你\n"
 	.string "{PLAYER}我都不知道该怎么\l"
 	.string "办。\p"
@@ -1278,8 +1264,8 @@ gText_ApprenticeMonFirstThanks3::
 	.string "了！\p"
 	.string "真不敢相信你会经常费心回答我的问\n"
 	.string "题！\p"
-	.string "我很感激你甚至愿意和我说话……谢\n"
-	.string "谢你！$"
+	.string "我很感激你甚至愿意和我说话……谢谢\n"
+	.string "你！$"
 
 gText_ApprenticeWhichMonFirst4::
 	.string "哦，{PLAYER}{KUN}！\n"
@@ -1308,9 +1294,9 @@ gText_ApprenticeWhichMonFirst5::
 	.string "先出场？$"
 
 gText_ApprenticeMonFirstThanks5::
-	.string "好嘞，明白啦。这点时间我还是有的\n"
-	.string "，这就把{STR_VAR_1}排\l"
-	.string "在第一位！\p"
+	.string "好嘞，明白啦。这点时间我还是有\n"
+	.string "的，这就把{STR_VAR_1}\l"
+	.string "排在第一位！\p"
 	.string "哎呀，我女朋友还在等我呢！谢啦！\n"
 	.string "回头见！$"
 
@@ -1334,8 +1320,8 @@ gText_ApprenticeWhichMonFirst7::
 	.string "{PLAYER}。\p"
 	.string "我知道我在利用你的善良，但能请教\n"
 	.string "一下吗？\p"
-	.string "我想让你决定我的宝可梦队伍的顺序\n"
-	.string "。\p"
+	.string "我想让你决定我的宝可梦队伍的顺\n"
+	.string "序。\p"
 	.string "如果你能决定哪只宝可梦应该先出场\n"
 	.string "就太好了。$"
 
@@ -1346,15 +1332,15 @@ gText_ApprenticeMonFirstThanks7::
 	.string "拜托你啦。请多保重！$"
 
 gText_ApprenticeWhichMonFirst8::
-	.string "呀！我发现了{PLAYER}！我\n"
-	.string "……又见到你我太高兴了！\p"
+	.string "呀！我发现了{PLAYER}！\n"
+	.string "我……又见到你我太高兴了！\p"
 	.string "我的宝可梦变得强多了！\p"
 	.string "但我并不总是赢。似乎取决于哪只宝\n"
 	.string "可梦先出场。\p"
 	.string "{PLAYER}，拜托，我需要你\n"
 	.string "的帮助！\p"
-	.string "请决定我的宝可梦中哪只应该先出场\n"
-	.string "！$"
+	.string "请决定我的宝可梦中哪只应该先出\n"
+	.string "场！$"
 
 gText_ApprenticeMonFirstThanks8::
 	.string "呼……我幸福得要晕过去了……\p"
@@ -1378,8 +1364,8 @@ gText_ApprenticeWhichMonFirst9::
 
 gText_ApprenticeMonFirstThanks9::
 	.string "嗯哼，我的{STR_VAR_1}\n"
-	.string "打头阵！OK，A——OK！我会重\l"
-	.string "新排序队伍，就像，砰！\p"
+	.string "打头阵！OK，A——OK！我会重新排序\l"
+	.string "队伍，就像，砰！\p"
 	.string "好了，一如既往地感谢！再见！$"
 
 gText_ApprenticeWhichMonFirst10::
@@ -1387,8 +1373,8 @@ gText_ApprenticeWhichMonFirst10::
 	.string "我说！大事不妙啦！\p"
 	.string "我的宝可梦，三只全都要一起冲进对\n"
 	.string "战场！\p"
-	.string "当然啦，那怎么可能嘛！哇哈哈哈哈\n"
-	.string "！\p"
+	.string "当然啦，那怎么可能嘛！哇哈哈哈\n"
+	.string "哈！\p"
 	.string "不过说真的，我实在不擅长琢磨该怎\n"
 	.string "么安排宝可梦的出场顺序。\p"
 	.string "所以，师父，帮我决定一下哪只宝可\n"
@@ -1403,8 +1389,8 @@ gText_ApprenticeMonFirstThanks10::
 	.string "多谢师父！以后也要继续指导我哦！$"
 
 gText_ApprenticeWhichMonFirst11::
-	.string "A——H——O——Y！拼出来就是\n"
-	.string "Ahoy，嗨！\p"
+	.string "A——H——O——Y！\n"
+	.string "拼出来就是Ahoy，嗨！\p"
 	.string "说唱水手就是我！向你提个超酷的问\n"
 	.string "题！\p"
 	.string "这是个队伍排序问题需要你的建议！\p"
@@ -1413,8 +1399,9 @@ gText_ApprenticeWhichMonFirst11::
 gText_ApprenticeMonFirstThanks11::
 	.string "好的，我听到了，当然！我会调整它\n"
 	.string "们的位置，就这么办！\p"
-	.string "如果我需要建议，{PLAYER}\n"
-	.string "，你的话我永远听从！$"
+	.string "如果我需要建议，\n"
+	.string "{PLAYER}，你的话我永远听\l"
+	.string "从！$"
 
 gText_ApprenticeWhichMonFirst12::
 	.string "哟嚯，{PLAYER}！你好吗？\p"
@@ -1425,21 +1412,20 @@ gText_ApprenticeWhichMonFirst12::
 	.string "1个上场的！我是说进入战斗！$"
 
 gText_ApprenticeMonFirstThanks12::
-	.string "我的{STR_VAR_1}？是的\n"
-	.string "！这样就行，没有烦恼！\p"
+	.string "我的{STR_VAR_1}？是\n"
+	.string "的！这样就行，没有烦恼！\p"
 	.string "嗯，{PLAYER}，我必须自由\n"
 	.string "漂泊，但别忘了我。\p"
 	.string "再见，我聪明的朋友！$"
 
 gText_ApprenticeWhichMonFirst13::
-	.string "……呼……哎哟……\n"
-	.string "{PLAYER}{KUN}……我\l"
-	.string "的肚子突然好痛……\p"
+	.string "……呼……哎哟……{PLAYER}\n"
+	.string "{KUN}……我的肚子突然好痛……\p"
 	.string "……现在好些了……\p"
 	.string "一定是我绞尽脑汁思考如何排列我的\n"
 	.string "宝可梦伙伴时把自己愁坏了。\p"
-	.string "所以，事已至此，我需要你替我决定\n"
-	.string "。\p"
+	.string "所以，事已至此，我需要你替我决\n"
+	.string "定。\p"
 	.string "{PLAYER}{KUN}，我的\n"
 	.string "宝可梦中哪只应该先上场？我是说，\l"
 	.string "才更可能赢。$"
@@ -1451,12 +1437,11 @@ gText_ApprenticeMonFirstThanks13::
 	.string "我希望我能继续这样向你求助。$"
 
 gText_ApprenticeWhichMonFirst14::
-	.string "那个……呜……\n"
-	.string "{PLAYER}{KUN}？\p"
+	.string "那个……呜……{PLAYER}\n"
+	.string "{KUN}？\p"
 	.string "求求你，别用那种眼神看我。你这样\n"
 	.string "让我好慌乱呀。\p"
-	.string "那个……我真的很需要你的\n"
-	.string "建议。\p"
+	.string "那个……我真的很需要你的建议。\p"
 	.string "虽然说出来有点害羞，但我已经挑好\n"
 	.string "了三只宝可梦的队伍。只是决定不了\l"
 	.string "出场顺序。\p"
@@ -1466,16 +1451,16 @@ gText_ApprenticeWhichMonFirst14::
 gText_ApprenticeMonFirstThanks14::
 	.string "啊……好的！那就让我的\n"
 	.string "{STR_VAR_1}首发。\p"
-	.string "希望能顺顺利利，不要手忙脚乱才好\n"
-	.string "。\p"
+	.string "希望能顺顺利利，不要手忙脚乱才\n"
+	.string "好。\p"
 	.string "谢谢你，{PLAYER}\n"
 	.string "{KUN}。如果我们再见面的话，\l"
 	.string "希望你还能像这样帮帮我。$"
 
 gText_ApprenticeWhichMonFirst15::
 	.string "嗯？您看起来像是{PLAYER}\n"
-	.string "{KUN}……但真的是本\l"
-	.string "人吗？莫非是惟妙惟肖的替身？\p"
+	.string "{KUN}……但真的是本人吗？莫非\l"
+	.string "是惟妙惟肖的替身？\p"
 	.string "噢，不不不，请别介意！如果您确实\n"
 	.string "是{PLAYER}，请原谅我的失\l"
 	.string "礼。\p"
@@ -1485,8 +1470,8 @@ gText_ApprenticeWhichMonFirst15::
 	.string "战。$"
 
 gText_ApprenticeMonFirstThanks15::
-	.string "我的{STR_VAR_1}...\n"
-	.string "...您不是在拿在下寻开心吧？\p"
+	.string "我的{STR_VAR_1}......\n"
+	.string "您不是在拿在下寻开心吧？\p"
 	.string "原来如此。既然如此，那就这样吧。\n"
 	.string "非常感谢您抽空指点。\p"
 	.string "在下虽不成器，但也必当竭尽全力。\p"
@@ -1511,8 +1496,8 @@ gText_ApprenticeMonThanks0::
 	.string "太感谢你了！$"
 
 gText_ApprenticeWhichMon1::
-	.string "耶！是{PLAYER}！来得正好\n"
-	.string "！我又需要你的建议了！\p"
+	.string "耶！是{PLAYER}！来得正\n"
+	.string "好！我又需要你的建议了！\p"
 	.string "嗯，我完全搞混了——该用我的\n"
 	.string "{STR_VAR_1}还是\l"
 	.string "{STR_VAR_2}……\p"
@@ -1521,8 +1506,8 @@ gText_ApprenticeWhichMon1::
 
 gText_ApprenticeMonThanks1::
 	.string "哦，所以我的\n"
-	.string "{STR_VAR_1}更好！好的\l"
-	.string "，就这么办！\p"
+	.string "{STR_VAR_1}更好！好\l"
+	.string "的，就这么办！\p"
 	.string "谢谢你的教导！$"
 
 gText_ApprenticeWhichMon2::
@@ -1542,17 +1527,15 @@ gText_ApprenticeMonThanks2::
 
 gText_ApprenticeWhichMon3::
 	.string "你好，{PLAYER}……\p"
-	.string "嗯，你可能已经忘记我这样的人了…\n"
-	.string "…\p"
-	.string "……但如果你能给我建议那也没关系\n"
-	.string "……\p"
+	.string "嗯，你可能已经忘记我这样的人了……\p"
+	.string "……但如果你能给我建议那也没关系……\p"
 	.string "我无法决定该培育哪种宝可梦……\p"
 	.string "范围缩小到了\n"
 	.string "{STR_VAR_1}和\l"
 	.string "{STR_VAR_2}，但就在这\l"
 	.string "卡住了……\p"
-	.string "{PLAYER}，你可能不想费心\n"
-	.string "，但请替我决定吧。$"
+	.string "{PLAYER}，你可能不想费\n"
+	.string "心，但请替我决定吧。$"
 
 gText_ApprenticeMonThanks3::
 	.string "但野生的{STR_VAR_1}会\n"
@@ -1578,8 +1561,8 @@ gText_ApprenticeMonThanks4::
 
 gText_ApprenticeWhichMon5::
 	.string "这不是{PLAYER}{KUN}\n"
-	.string "吗！最近怎样？我还是老样子忙得很\l"
-	.string "！\p"
+	.string "吗！最近怎样？我还是老样子忙得\l"
+	.string "很！\p"
 	.string "我也想用好宝可梦，但一直没决定该\n"
 	.string "用哪只。\p"
 	.string "你看{STR_VAR_1}好像很\n"
@@ -1605,8 +1588,9 @@ gText_ApprenticeWhichMon6::
 	.string "{STR_VAR_2}？$"
 
 gText_ApprenticeMonThanks6::
-	.string "啊啊！你说{STR_VAR_1}\n"
-	.string "！感谢这超酷的答案！\p"
+	.string "啊啊！你说\n"
+	.string "{STR_VAR_1}！感谢这超\l"
+	.string "酷的答案！\p"
 	.string "今天想问的就这些了。\p"
 	.string "我们下次在这里再见，好吗？谢谢！$"
 
@@ -1619,8 +1603,8 @@ gText_ApprenticeWhichMon7::
 	.string "{PLAYER}，能麻烦你帮我选\n"
 	.string "该培育哪只宝可梦吗？\p"
 	.string "选项是{STR_VAR_1}或\n"
-	.string "{STR_VAR_2}……哪只适\l"
-	.string "合我？$"
+	.string "{STR_VAR_2}……哪只适合\l"
+	.string "我？$"
 
 gText_ApprenticeMonThanks7::
 	.string "那就是一个{STR_VAR_1}\n"
@@ -1629,8 +1613,8 @@ gText_ApprenticeMonThanks7::
 	.string "拜托你啦。请多保重！$"
 
 gText_ApprenticeWhichMon8::
-	.string "呀！{PLAYER}！又见到你了\n"
-	.string "！我……我太高兴了！\p"
+	.string "呀！{PLAYER}！又见到你\n"
+	.string "了！我……我太高兴了！\p"
 	.string "啊、啊、啊，我知道了！我绝不能放\n"
 	.string "过这个好机会！\p"
 	.string "{PLAYER}，能拜托你一件大\n"
@@ -1655,14 +1639,15 @@ gText_ApprenticeWhichMon9::
 	.string "别害羞，直接说出来吧！$"
 
 gText_ApprenticeMonThanks9::
-	.string "嗯哼，就选{STR_VAR_1}\n"
-	.string "！OK，没问题！我会用精灵球抓一\l"
-	.string "只，就像塞进去！\p"
+	.string "嗯哼，就选\n"
+	.string "{STR_VAR_1}！OK，没问\l"
+	.string "题！我会用精灵球抓一只，就像塞进\l"
+	.string "去！\p"
 	.string "好的，一如既往地感谢！再见！$"
 
 gText_ApprenticeWhichMon10::
-	.string "{PLAYER}{KUN}，听着\n"
-	.string "！大新闻！我抓到了幻影宝可梦！\p"
+	.string "{PLAYER}{KUN}，听\n"
+	.string "着！大新闻！我抓到了幻影宝可梦！\p"
 	.string "当然是骗你的！哇哈哈哈！\p"
 	.string "不过这不是骗人的。我不太擅长抓宝\n"
 	.string "可梦。\p"
@@ -1679,8 +1664,7 @@ gText_ApprenticeMonThanks10::
 	.string "谢谢师父！以后也请多多指教啦！$"
 
 gText_ApprenticeWhichMon11::
-	.string "A——H——O——Y！就是\n"
-	.string "Ahoy的拼法！\p"
+	.string "A——H——O——Y！就是Ahoy的拼法！\p"
 	.string "我就是那个说唱水手！你肯定记得我\n"
 	.string "是谁吧？\p"
 	.string "今天有个宝可梦问题需要你的建议！\p"
@@ -1726,47 +1710,46 @@ gText_ApprenticeWhichMon13::
 	.string "该选哪只？$"
 
 gText_ApprenticeMonThanks13::
-	.string "嗯，就选{STR_VAR_1}吧\n"
-	.string "。等我好些了就去找一只。\p"
+	.string "嗯，就选{STR_VAR_1}\n"
+	.string "吧。等我好些了就去找一只。\p"
 	.string "希望能继续这样向你求助。$"
 
 gText_ApprenticeWhichMon14::
 	.string "呃……嗯…{PLAYER}\n"
 	.string "{KUN}……？\p"
-	.string "拜托别那样看我。我都慌乱了……我\n"
-	.string "……我需要你的建议。\p"
-	.string "我……我真的很不好意思，但无法决\n"
-	.string "定该用哪只宝可梦。\p"
+	.string "拜托别那样看我。我都慌乱了……我……\n"
+	.string "我需要你的建议。\p"
+	.string "我……我真的很不好意思，但无法决定\n"
+	.string "该用哪只宝可梦。\p"
 	.string "如果选项是{STR_VAR_1}\n"
 	.string "或{STR_VAR_2}，哪只更\l"
 	.string "好？$"
 
 gText_ApprenticeMonThanks14::
 	.string "啊……好的！我会和\n"
-	.string "{STR_VAR_1}一起加油的\l"
-	.string "。\p"
-	.string "希望自己能沉着应对，不会手忙脚乱\n"
-	.string "。\p"
+	.string "{STR_VAR_1}一起加油\l"
+	.string "的。\p"
+	.string "希望自己能沉着应对，不会手忙脚\n"
+	.string "乱。\p"
 	.string "谢谢你，{PLAYER}\n"
 	.string "{KUN}。如果下次还能相遇，还\l"
 	.string "请多多指教哦。$"
 
 gText_ApprenticeWhichMon15::
 	.string "嗯？你看上去像是{PLAYER}\n"
-	.string "{KUN}……但你真的是\l"
-	.string "本人吗？\p"
+	.string "{KUN}……但你真的是本人吗？\p"
 	.string "不不，是本人的话那就太好了。顺带\n"
-	.string "一提，我有件事想征求一下你的意见\l"
-	.string "。\p"
+	.string "一提，我有件事想征求一下你的意\l"
+	.string "见。\p"
 	.string "是关于我要使用的宝可梦。\p"
 	.string "如果要在宝可梦\n"
 	.string "{STR_VAR_1}与\l"
-	.string "{STR_VAR_2}之间做选择\l"
-	.string "，哪一只更配得上我呢？$"
+	.string "{STR_VAR_2}之间做选\l"
+	.string "择，哪一只更配得上我呢？$"
 
 gText_ApprenticeMonThanks15::
-	.string "{STR_VAR_1}？你确定吗\n"
-	.string "？\p"
+	.string "{STR_VAR_1}？你确定\n"
+	.string "吗？\p"
 	.string "我明白了。既然如此，那就它吧。感\n"
 	.string "谢你抽空指点。\p"
 	.string "希望这是一只连我也能从容驾驭的宝\n"
@@ -1779,16 +1762,17 @@ gText_ApprenticeWhichMove0::
 	.string "我好纠结啊！我决定不了该让我的\n"
 	.string "{STR_VAR_1}学什么招式\l"
 	.string "了……\p"
-	.string "求求你，求求你，{PLAYER}\n"
-	.string "。能帮我决定一下吗？\p"
-	.string "对我的{STR_VAR_1}来说\n"
-	.string "，{STR_VAR_2}和\l"
+	.string "求求你，求求你，\n"
+	.string "{PLAYER}。能帮我决定一下\l"
+	.string "吗？\p"
+	.string "对我的{STR_VAR_1}来\n"
+	.string "说，{STR_VAR_2}和\l"
 	.string "{STR_VAR_3}，哪个招式\l"
 	.string "更好呢？$"
 
 gText_ApprenticeMoveThanks0::
-	.string "{STR_VAR_1}？哇啊啊啊\n"
-	.string "！\p"
+	.string "{STR_VAR_1}？哇啊啊\n"
+	.string "啊！\p"
 	.string "啊！对不起，{PLAYER}！你\n"
 	.string "帮我选好了招式，我太高兴了，眼泪\l"
 	.string "停不下来……\p"
@@ -1819,22 +1803,20 @@ gText_ApprenticeWhichMove2::
 	.string "{STR_VAR_1}呢？$"
 
 gText_ApprenticeMoveThanks2::
-	.string "{STR_VAR_1}是你的选择\n"
-	.string "？好的，明白了！\p"
+	.string "{STR_VAR_1}是你的选\n"
+	.string "择？好的，明白了！\p"
 	.string "我马上去教我的宝可梦\n"
 	.string "{STR_VAR_1}！\p"
 	.string "下次见！$"
 
 gText_ApprenticeWhichMove3::
-	.string "呜呜，{PLAYER}.....\n"
-	.string ".我真是太没用了，真的！\p"
+	.string "呜呜，{PLAYER}......我真\n"
+	.string "是太没用了，真的！\p"
 	.string "我下定决心要培育宝可梦，可现在连\n"
-	.string "该让它学什么招式都决定不了...\l"
-	.string "...\p"
+	.string "该让它学什么招式都决定不了......\p"
 	.string "我知道这对你来说根本不算什么，\n"
 	.string "{PLAYER}。\p"
-	.string "但这对我来说真的很重要……\n"
-	.string ".\p"
+	.string "但这对我来说真的很重要…….\p"
 	.string "拜托了，{PLAYER}，能帮我\n"
 	.string "的{STR_VAR_1}选一个招\l"
 	.string "式吗？\p"
@@ -1845,8 +1827,8 @@ gText_ApprenticeWhichMove3::
 gText_ApprenticeMoveThanks3::
 	.string "我明白了！\p"
 	.string "但它会愿意为我学\n"
-	.string "{STR_VAR_1}吗……不！\l"
-	.string "我会尽力的！\p"
+	.string "{STR_VAR_1}吗……不！我\l"
+	.string "会尽力的！\p"
 	.string "谢谢你！$"
 
 gText_ApprenticeWhichMove4::
@@ -1856,10 +1838,9 @@ gText_ApprenticeWhichMove4::
 	.string "{STR_VAR_1}。\p"
 	.string "我实在拿不定主意，你能帮我做决定\n"
 	.string "吗？\p"
-	.string "比如……招式\n"
-	.string "{STR_VAR_2}和\l"
-	.string "{STR_VAR_3}怎么样？哪\l"
-	.string "一个会更好呢？$"
+	.string "比如……招式{STR_VAR_2}\n"
+	.string "和{STR_VAR_3}怎么样？\l"
+	.string "哪一个会更好呢？$"
 
 gText_ApprenticeMoveThanks4::
 	.string "{STR_VAR_1}？太棒了！\p"
@@ -1893,16 +1874,15 @@ gText_ApprenticeWhichMove6::
 	.string "哇！太幸运了！又遇到你了，\n"
 	.string "{PLAYER}！今天也要借你的\l"
 	.string "智慧用用啦。\p"
-	.string "请奏擂鼓！我今天要问的是……\n"
-	.string "..\p"
+	.string "请奏擂鼓！我今天要问的是……..\p"
 	.string "对于我的{STR_VAR_1}，\n"
 	.string "最适合它的招式是\l"
 	.string "{STR_VAR_2}还是\l"
 	.string "{STR_VAR_3}呢？$"
 
 gText_ApprenticeMoveThanks6::
-	.string "啊！{STR_VAR_1}，你说\n"
-	.string "！感谢这个超酷的回答！\p"
+	.string "啊！{STR_VAR_1}，你\n"
+	.string "说！感谢这个超酷的回答！\p"
 	.string "我想今天要问的就这些了。\p"
 	.string "让我们在这里再见，好吗？谢谢！$"
 
@@ -1923,8 +1903,8 @@ gText_ApprenticeMoveThanks7::
 	.string "请多多关照。请多保重！$"
 
 gText_ApprenticeWhichMove8::
-	.string "呀！{PLAYER}！又见到你了\n"
-	.string "！我……我太高兴了！\p"
+	.string "呀！{PLAYER}！又见到你\n"
+	.string "了！我……我太高兴了！\p"
 	.string "每当我遇到困难时，你总是陪在我身\n"
 	.string "边，{PLAYER}！\p"
 	.string "今天我想请你给我推荐一个招式！\p"
@@ -1942,8 +1922,8 @@ gText_ApprenticeMoveThanks8::
 
 gText_ApprenticeWhichMove9::
 	.string "Hola，{PLAYER}\n"
-	.string "{KUN}，bueno！今天也想\l"
-	.string "听听你的高见呢！\p"
+	.string "{KUN}，bueno！今天也想听听\l"
+	.string "你的高见呢！\p"
 	.string "什么招式最适合我的\n"
 	.string "{STR_VAR_1}？\p"
 	.string "最好是能让我一下子就能赢下来的招\n"
@@ -1966,9 +1946,8 @@ gText_ApprenticeWhichMove10::
 	.string "所以，帮我决定一下该教哪种招式怎\n"
 	.string "么样？\p"
 	.string "{STR_VAR_2}还是\n"
-	.string "{STR_VAR_3}--哪一个\l"
-	.string "和我的{STR_VAR_1}最搭\l"
-	.string "？$"
+	.string "{STR_VAR_3}--哪一个和\l"
+	.string "我的{STR_VAR_1}最搭？$"
 
 gText_ApprenticeMoveThanks10::
 	.string "好，你选的是\n"
@@ -1978,10 +1957,9 @@ gText_ApprenticeMoveThanks10::
 	.string "谢谢师父！以后也请多多指教啦！$"
 
 gText_ApprenticeWhichMove11::
-	.string "A-H-O-Y！拼出来就是喂--\n"
-	.string "！\p"
-	.string "我是个会说唱的水手！时刻紧跟潮流\n"
-	.string "，无需理由。\p"
+	.string "A-H-O-Y！拼出来就是喂--！\p"
+	.string "我是个会说唱的水手！时刻紧跟潮\n"
+	.string "流，无需理由。\p"
 	.string "今天我有个招式疑问，急需你的指点\n"
 	.string "指引！\p"
 	.string "{STR_VAR_2}和\n"
@@ -1990,24 +1968,24 @@ gText_ApprenticeWhichMove11::
 	.string "狠狠拿稳？$"
 
 gText_ApprenticeMoveThanks11::
-	.string "{STR_VAR_1}，你说，嘿\n"
-	.string "，嘿！我马上去教那招！\p"
-	.string "如果我需要建议，{PLAYER}\n"
-	.string "，你的话我永远听从！$"
+	.string "{STR_VAR_1}，你说，\n"
+	.string "嘿，嘿！我马上去教那招！\p"
+	.string "如果我需要建议，\n"
+	.string "{PLAYER}，你的话我永远听\l"
+	.string "从！$"
 
 gText_ApprenticeWhichMove12::
 	.string "哦，耶--这不是{PLAYER}\n"
 	.string "吗！\p"
 	.string "我该怎么做？听听你的建议？既然都\n"
 	.string "在聊了，有何不可！\p"
-	.string "{PLAYER}，看到我你惊讶吗\n"
-	.string "？想听你的高见，你懂的吧？\p"
+	.string "{PLAYER}，看到我你惊讶\n"
+	.string "吗？想听你的高见，你懂的吧？\p"
 	.string "收到我的信号了吗？你肯定收到了！\p"
-	.string "我的{STR_VAR_1}--该\n"
-	.string "用什么招式？\l"
-	.string "{STR_VAR_2}还是\l"
-	.string "{STR_VAR_3}，你怎么选\l"
-	.string "？$"
+	.string "我的{STR_VAR_1}--该用\n"
+	.string "什么招式？{STR_VAR_2}\l"
+	.string "还是{STR_VAR_3}，你怎\l"
+	.string "么选？$"
 
 gText_ApprenticeMoveThanks12::
 	.string "如果{STR_VAR_1}是最好\n"
@@ -2018,8 +1996,8 @@ gText_ApprenticeMoveThanks12::
 
 gText_ApprenticeWhichMove13::
 	.string "咳咳！咳！呜，{PLAYER}\n"
-	.string "{KUN}……我得了可恶\l"
-	.string "的感冒，咳……\p"
+	.string "{KUN}……我得了可恶的感冒，\l"
+	.string "咳……\p"
 	.string "我想给宝可梦挑选招式，可实在没力\n"
 	.string "气……\p"
 	.string "所以，事情就是这样，我想请你帮我\n"
@@ -2031,21 +2009,19 @@ gText_ApprenticeWhichMove13::
 	.string "应该选哪个呢？$"
 
 gText_ApprenticeMoveThanks13::
-	.string "嗯，{STR_VAR_1}，好的\n"
-	.string "。咳！等我好起来就去教它。\p"
-	.string "希望下次遇到困难也能继续向你求助\n"
-	.string "。$"
+	.string "嗯，{STR_VAR_1}，好\n"
+	.string "的。咳！等我好起来就去教它。\p"
+	.string "希望下次遇到困难也能继续向你求\n"
+	.string "助。$"
 
 gText_ApprenticeWhichMove14::
-	.string "那个……嗯……\n"
-	.string "{PLAYER}{KUN}..\l"
-	.string "....？\p"
+	.string "那个……嗯……{PLAYER}\n"
+	.string "{KUN}......？\p"
 	.string "求求你，别那样看着我啦。我整个人\n"
-	.string "都慌乱起来了……我..\l"
-	.string "……我想听听你的建议。\p"
-	.string "我……虽然很不好意思，但\n"
-	.string "我拿不定主意到底该给我的宝可梦学\l"
-	.string "什么招式。\p"
+	.string "都慌乱起来了……我..……我想听听你的\l"
+	.string "建议。\p"
+	.string "我……虽然很不好意思，但我拿不定主\n"
+	.string "意到底该给我的宝可梦学什么招式。\p"
 	.string "是我的{STR_VAR_1}要学\n"
 	.string "的。如果在{STR_VAR_2}\l"
 	.string "和{STR_VAR_3}之间二选\l"
@@ -2054,16 +2030,15 @@ gText_ApprenticeWhichMove14::
 gText_ApprenticeMoveThanks14::
 	.string "啊……好的！那我试试\n"
 	.string "{STR_VAR_1}吧。\p"
-	.string "希望能学会那个招式……真\n"
-	.string "是太让人紧张了……\p"
+	.string "希望能学会那个招式……真是太让人紧\n"
+	.string "张了……\p"
 	.string "谢谢你，{PLAYER}\n"
 	.string "{KUN}。下次见面时，也希望你\l"
 	.string "能再帮帮我。$"
 
 gText_ApprenticeWhichMove15::
 	.string "嗯？你看起来是{PLAYER}\n"
-	.string "{KUN}……但你真的是\l"
-	.string "本人吗？\p"
+	.string "{KUN}……但你真的是本人吗？\p"
 	.string "该不会是最近很流行的模仿艺人假扮\n"
 	.string "的吧？\p"
 	.string "哎呀别生气，要是真人的话就没事。\n"
@@ -2087,12 +2062,11 @@ gText_ApprenticeMoveThanks15::
 
 gText_ApprenticePickWinSpeech0::
 	.string "哦… {PLAYER}？是\n"
-	.string "{PLAYER}啊！哦！抽泣……\l"
-	.string "呜咽… 请听我说！\p"
-	.string "我… 在对战时，我会紧张得不得了\n"
-	.string "，就算赢了也忍不住哭出来……\p"
-	.string "我真希望赢的时候能说点帅气的话…\n"
-	.string "…\p"
+	.string "{PLAYER}啊！哦！抽泣……呜\l"
+	.string "咽… 请听我说！\p"
+	.string "我… 在对战时，我会紧张得不得了，\n"
+	.string "就算赢了也忍不住哭出来……\p"
+	.string "我真希望赢的时候能说点帅气的话……\p"
 	.string "求求你，{PLAYER}！能不能\n"
 	.string "教我一句赢了之后说的酷酷的话，这\l"
 	.string "样我就不会哭了？$"
@@ -2101,14 +2075,13 @@ gText_ApprenticeWinSpeechThanks0::
 	.string "{STR_VAR_1}\p"
 	.string "太棒了！帅呆了！呜哦哦！这真的很\n"
 	.string "酷！\p"
-	.string "哦……对不起……我太高兴了，又哭\n"
-	.string "了……\p"
-	.string "抽鼻子… {PLAYER}！真的\n"
-	.string "非常感谢你为我做的一切！\p"
+	.string "哦……对不起……我太高兴了，又哭了……\p"
+	.string "抽鼻子… {PLAYER}！真的非\n"
+	.string "常感谢你为我做的一切！\p"
 	.string "为了你，{PLAYER}，我会尽\n"
 	.string "我所能去战斗的！\p"
-	.string "{PLAYER}……下次… 我们\n"
-	.string "来对战吧！$"
+	.string "{PLAYER}……下次… 我们来对\n"
+	.string "战吧！$"
 
 gText_ApprenticePickWinSpeech1::
 	.string "太棒了！是{PLAYER}！你好\n"
@@ -2143,10 +2116,10 @@ gText_ApprenticeWinSpeechThanks2::
 	.string "下次，我们在对战之地再见吧！$"
 
 gText_ApprenticePickWinSpeech3::
-	.string "你好，{PLAYER}……抱歉打\n"
-	.string "扰你，但我真是没救了……\p"
-	.string "即使是……即使我赢了，我也说不出\n"
-	.string "什么特别的话来……\p"
+	.string "你好，{PLAYER}……抱歉打扰\n"
+	.string "你，但我真是没救了……\p"
+	.string "即使是……即使我赢了，我也说不出什\n"
+	.string "么特别的话来……\p"
 	.string "我知道这对你来说可能不算什么，\n"
 	.string "{PLAYER}。\p"
 	.string "但对我来说意义重大……\p"
@@ -2163,8 +2136,8 @@ gText_ApprenticeWinSpeechThanks3::
 	.string "一直这么包容我……\p"
 	.string "我保证从现在开始会尽最大努力。\p"
 	.string "我知道你大概很快就会忘掉我这样的\n"
-	.string "人，但我们一定要在某个地方再见面\l"
-	.string "！$"
+	.string "人，但我们一定要在某个地方再见\l"
+	.string "面！$"
 
 gText_ApprenticePickWinSpeech4::
 	.string "哦，{PLAYER}{KUN}。\n"
@@ -2224,16 +2197,16 @@ gText_ApprenticePickWinSpeech6::
 
 gText_ApprenticeWinSpeechThanks6::
 	.string "{STR_VAR_1}\p"
-	.string "这句……这句太棒了！既体面又帅气\n"
-	.string "！我宣布这句归我了！\p"
+	.string "这句……这句太棒了！既体面又帅气！\n"
+	.string "我宣布这句归我了！\p"
 	.string "……听着，我觉得我现在还挺像样的\n"
 	.string "了，对吧？\p"
 	.string "所以，我打算从现在开始挑战其他训\n"
 	.string "练家了。\p"
 	.string "{PLAYER}，你的建议真的帮\n"
 	.string "了我大忙。\p"
-	.string "也许有一天，就是我们交手的时候了\n"
-	.string "！\p"
+	.string "也许有一天，就是我们交手的时候\n"
+	.string "了！\p"
 	.string "感谢你所做的一切！$"
 
 gText_ApprenticePickWinSpeech7::
@@ -2245,8 +2218,8 @@ gText_ApprenticePickWinSpeech7::
 	.string "你知道训练家赢了比赛后会说些什么\n"
 	.string "吗？\p"
 	.string "毫无疑问，我也希望能那样做！\p"
-	.string "求你了，赢了比赛后我该说什么好呢\n"
-	.string "？$"
+	.string "求你了，赢了比赛后我该说什么好\n"
+	.string "呢？$"
 
 gText_ApprenticeWinSpeechThanks7::
 	.string "{STR_VAR_1}\p"
@@ -2260,10 +2233,9 @@ gText_ApprenticeWinSpeechThanks7::
 	.string "也许有一天……再会了！$"
 
 gText_ApprenticePickWinSpeech8::
-	.string "呀！我看到{PLAYER}了！我\n"
-	.string "……我见到你太高兴了！\p"
-	.string "哦——哦——哦！有件事我非问你不\n"
-	.string "可！\p"
+	.string "呀！我看到{PLAYER}了！\n"
+	.string "我……我见到你太高兴了！\p"
+	.string "哦——哦——哦！有件事我非问你不可！\p"
 	.string "不久前，我赢了一场对战。那部分让\n"
 	.string "我飘飘然！\p"
 	.string "但它让我太高兴了，我激动得说不出\n"
@@ -2274,10 +2246,10 @@ gText_ApprenticePickWinSpeech8::
 
 gText_ApprenticeWinSpeechThanks8::
 	.string "{STR_VAR_1}\p"
-	.string "哇啊啊啊！我要说这句？！我……我\n"
-	.string "高兴得快疯了！\p"
-	.string "谢——谢——谢谢你！我现在没有遗\n"
-	.string "憾了！\p"
+	.string "哇啊啊啊！我要说这句？！我……我高\n"
+	.string "兴得快疯了！\p"
+	.string "谢——谢——谢谢你！我现在没有遗憾\n"
+	.string "了！\p"
 	.string "我现在要去旅行了，要和各种各样的\n"
 	.string "人对战。\p"
 	.string "这一切，都归功于你，\n"
@@ -2298,20 +2270,20 @@ gText_ApprenticePickWinSpeech9::
 
 gText_ApprenticeWinSpeechThanks9::
 	.string "{STR_VAR_1}\p"
-	.string "嗯哼，这话真棒！Si，\n"
-	.string "bueno！我会照着这么说：砰！\l\p"
-	.string "那么，是时候说再见了！谢谢你，\n"
-	.string "为我做的一切！\p"
+	.string "嗯哼，这话真棒！Si，bueno！我会\n"
+	.string "照着这么说：砰！\p"
+	.string "那么，是时候说再见了！谢谢你，为\n"
+	.string "我做的一切！\p"
 	.string "改天和我对战一场，好吗？再见！$"
 
 gText_ApprenticePickWinSpeech10::
 	.string "{PLAYER}{KUN}，出大\n"
 	.string "麻烦了！\p"
-	.string "我赢了比赛后，至少要吹嘘一个小时\n"
-	.string "！\p"
+	.string "我赢了比赛后，至少要吹嘘一个小\n"
+	.string "时！\p"
 	.string "当然我是骗你的！哇哈哈哈！\p"
-	.string "不过这不是骗人的。我不太擅长聊天\n"
-	.string "。\p"
+	.string "不过这不是骗人的。我不太擅长聊\n"
+	.string "天。\p"
 	.string "所以，不如你替我决定一下赢了比赛\n"
 	.string "后该说什么吧，师父？$"
 
@@ -2330,8 +2302,8 @@ gText_ApprenticeWinSpeechThanks10::
 	.string "就这样吧！再见了，我的师父！$"
 
 gText_ApprenticePickWinSpeech11::
-	.string "A——H——O——Y！就是\n"
-	.string "Ahoy，嗨的拼法！\p"
+	.string "A——H——O——Y！\n"
+	.string "就是Ahoy，嗨的拼法！\p"
 	.string "我就是那个说唱水手！这将是我最后\n"
 	.string "的问题，你可别哭！\p"
 	.string "这是个寻求你建议的台词问题！\p"
@@ -2346,19 +2318,17 @@ gText_ApprenticeWinSpeechThanks11::
 	.string "了！\p"
 	.string "谢谢你教会我的一切。我要出发去大\n"
 	.string "干一场了！\p"
-	.string "B——O——N——V——O——Y\n"
-	.string "——A——G——E！就是Bon \l"
-	.string "voyage的拼法，以此向你致敬\l"
-	.string "！$"
+	.string "B——O——N——V——O——Y——A——G——E！\n"
+	.string "就是Bon voyage的拼法，以此向你致敬！$"
 
 gText_ApprenticePickWinSpeech12::
 	.string "哦，耶，{PLAYER}！今天又\n"
 	.string "找到你了！\p"
 	.string "我该怎么办？再问你一次？为什么不\n"
 	.string "呢？反正我都在问了！\p"
-	.string "总之，{PLAYER}……你收到\n"
-	.string "我的信号了吗？你收到了！我需要再\l"
-	.string "要点建议！\p"
+	.string "总之，{PLAYER}……你收到我\n"
+	.string "的信号了吗？你收到了！我需要再要\l"
+	.string "点建议！\p"
 	.string "是关于我该喊什么的。战斗顺利结束\n"
 	.string "时该喊点什么酷酷的话。\p"
 	.string "来吧，我想听你说出来！$"
@@ -2384,15 +2354,14 @@ gText_ApprenticePickWinSpeech13::
 	.string "它太让我激动了，我哭了，现在我的\n"
 	.string "鼻涕就停不下来……\p"
 	.string "所以，情况就是这样，我需要你帮我\n"
-	.string "决定，{PLAYER}{KUN}\l"
-	.string "。\p"
+	.string "决定，{PLAYER}\l"
+	.string "{KUN}。\p"
 	.string "我赢了比赛后，该说什么呢？$"
 
 gText_ApprenticeWinSpeechThanks13::
 	.string "{STR_VAR_1}\p"
-	.string "……太棒了。\n"
-	.string "不，这简直令人肃然起敬！感动得我\l"
-	.string "眼泪都掉下来了！\p"
+	.string "……太棒了。不，这简直令人肃然起\n"
+	.string "敬！感动得我眼泪都掉下来了！\p"
 	.string "虽然眼泪鼻涕直流，但我一定要用这\n"
 	.string "句台词！\p"
 	.string "我已经没有什么可请教你的了，\n"
@@ -2403,17 +2372,17 @@ gText_ApprenticeWinSpeechThanks13::
 gText_ApprenticePickWinSpeech14::
 	.string "呃……嗯…{PLAYER}\n"
 	.string "{KUN}……\p"
-	.string "拜托，别那样看着我。你让我好紧张\n"
-	.string "。\p"
-	.string "我……我又需要你的建议了。不过这\n"
-	.string "是最后一次了……\p"
+	.string "拜托，别那样看着我。你让我好紧\n"
+	.string "张。\p"
+	.string "我……我又需要你的建议了。不过这是\n"
+	.string "最后一次了……\p"
 	.string "问这个真的很不好意思，但如果我赢\n"
 	.string "了比赛呢？我该说什么？$"
 
 gText_ApprenticeWinSpeechThanks14::
 	.string "{STR_VAR_1}\p"
-	.string "哦……好的！我会试着说这句的！我\n"
-	.string "可能会紧张得说不出来……\p"
+	.string "哦……好的！我会试着说这句的！我可\n"
+	.string "能会紧张得说不出来……\p"
 	.string "谢谢你，{PLAYER}\n"
 	.string "{KUN}。我现在得说再见了。\p"
 	.string "我会遵从你教给我的一切，\n"
@@ -2422,10 +2391,10 @@ gText_ApprenticeWinSpeechThanks14::
 
 gText_ApprenticePickWinSpeech15::
 	.string "嗯？你好像是{PLAYER}\n"
-	.string "{KUN}……但你真的是吗？或许\l"
-	.string "是个聪明的{PLAYER}人偶？\p"
-	.string "哦，不不不，别担心！如果你是真的\n"
-	.string "，请忘了我的无礼吧。\p"
+	.string "{KUN}……但你真的是吗？或许是\l"
+	.string "个聪明的{PLAYER}人偶？\p"
+	.string "哦，不不不，别担心！如果你是真\n"
+	.string "的，请忘了我的无礼吧。\p"
 	.string "没必要这么生气。我所希望的只是更\n"
 	.string "多你宝贵的建议。\p"
 	.string "是关于一句台词的。\p"
@@ -2434,15 +2403,14 @@ gText_ApprenticePickWinSpeech15::
 
 gText_ApprenticeWinSpeechThanks15::
 	.string "{STR_VAR_1}\p"
-	.string "…… …… …… …… …… …\n"
-	.string "当我赢了比赛时……\p"
+	.string "…… …… …… …… …… …当我赢了比赛时……\p"
 	.string "{STR_VAR_1}\p"
 	.string "……你是认真的吗？\p"
-	.string "我明白了。如果你是认真的，那好吧\n"
-	.string "。感谢你抽空帮我。\p"
+	.string "我明白了。如果你是认真的，那好\n"
+	.string "吧。感谢你抽空帮我。\p"
 	.string "我希望连我也能好好利用这句台词。\p"
-	.string "我似乎已经想不出还需要什么建议了\n"
-	.string "。\p"
+	.string "我似乎已经想不出还需要什么建议\n"
+	.string "了。\p"
 	.string "我想是时候向你告别，独自出发了。\p"
 	.string "谢谢你，我的导师！我为我的怀疑向\n"
 	.string "你道歉！$"

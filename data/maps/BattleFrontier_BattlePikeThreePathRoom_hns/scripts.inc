@@ -297,49 +297,46 @@ BattleFrontier_BattlePikeThreePathRoom_Text_AwaitingReturnSaveBeforeResume_hns:
 	.string "记录……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_PleaseEnjoyChallenge_hns:
-	.string "请尽情享受对战水管的挑战吧...\n"
-	.string "...$"
+	.string "请尽情享受对战水管的挑战吧......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SavingYourData_hns:
-	.string "正在保存数据……请稍候片\n"
-	.string "刻……$"
+	.string "正在保存数据……请稍候片刻……$"
 
 BattleFrontier_BattlePike_Text_PathBlockedNoTurningBack_hns:
-	.string "道路被封住了！而且无法原路返回。\n"
-	.string ".....$"
+	.string "道路被封住了！而且无法原路返回"
+	.string "。.....$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_FindingItDifficultToChoose_hns:
 	.string "恕我冒昧，不过……\p"
-	.string "您是否在为该选择哪条道路而烦恼呢\n"
-	.string "？$"
+	.string "您是否在为该选择哪条道路而烦恼\n"
+	.string "呢？$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_ApologizeForImpertinence_hns:
-	.string "这样啊……请原谅我的冒失\n"
-	.string "......$"
+	.string "这样啊……请原谅我的冒失......$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutRightPath_hns:
-	.string "啊，让我想想……右边的那\n"
-	.string "条路好像有些不同寻常……$"
+	.string "啊，让我想想……右边的那条路好像有\n"
+	.string "些不同寻常……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutCenterPath_hns:
-	.string "啊，让我想想……中间的那\n"
-	.string "条路好像有些不同寻常……$"
+	.string "啊，让我想想……中间的那条路好像有\n"
+	.string "些不同寻常……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutLeftPath_hns:
-	.string "啊，让我想想……左边的那\n"
-	.string "条路好像有些不同寻常……$"
+	.string "啊，让我想想……左边的那条路好像有\n"
+	.string "些不同寻常……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_AromaOfPokemon_hns:
-	.string "那里似乎飘散着宝可梦特有的气味。\n"
-	.string ".....$"
+	.string "那里似乎飘散着宝可梦特有的气味"
+	.string "。.....$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_PresenceOfPeople_hns:
-	.string "难道是……训练家？我感觉\n"
-	.string "到了人的气息……$"
+	.string "难道是……训练家？我感觉到了人的气\n"
+	.string "息……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_HeardWhispering_hns:
-	.string "我好像听到了什么声音……\n"
-	.string "也许是窃窃私语声……$"
+	.string "我好像听到了什么声音……也许是窃窃\n"
+	.string "私语声……$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_WaveOfNostaliga_hns:
 	.string "不知为何，我从中感受到了一种令人\n"

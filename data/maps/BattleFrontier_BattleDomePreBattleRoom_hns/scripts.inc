@@ -283,8 +283,8 @@ BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForSemifinals_hns:
 	.string "吗？$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForFinals_hns:
-	.string "接下来是你的决赛对战。准备好了吗\n"
-	.string "？$"
+	.string "接下来是你的决赛对战。准备好了\n"
+	.string "吗？$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ChooseTwoMons_hns:
 	.string "请选择出场对战的2只宝可梦。$"
@@ -322,8 +322,8 @@ BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForSemifinals_hns:
 @ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForFinals_hns:
 	.string "恭喜晋级决赛。\p"
-	.string "距离冠军只差最后1胜。准备好了吗\n"
-	.string "？$"
+	.string "距离冠军只差最后1胜。准备好了\n"
+	.string "吗？$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_PlayersNextOpponentIsTrainer_hns:
 	.string "{PLAYER}选手的下一位对手\n"

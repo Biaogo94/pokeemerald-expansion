@@ -74,8 +74,8 @@ EverGrandeCity_PokemonCenter_1F_Movement_ScottExit:
 	step_end
 
 EverGrandeCity_PokemonCenter_1F_Text_LeagueAfterVictoryRoad:
-	.string "穿过冠军之路，宝可梦联盟就在眼前\n"
-	.string "。\p"
+	.string "穿过冠军之路，宝可梦联盟就在眼\n"
+	.string "前。\p"
 	.string "已经走了这么远，到底是什么让你坚\n"
 	.string "持到现在？$"
 
@@ -94,6 +94,6 @@ EverGrandeCity_PokemonCenter_1F_Text_ScottHappyForYou:
 	.string "{PLAYER}{KUN}，要是\n"
 	.string "你成为了联盟冠军……\p"
 	.string "那到时我会联系你的。\p"
-	.string "好了，{PLAYER}{KUN}\n"
-	.string "。去攀登巅峰吧！$"
+	.string "好了，{PLAYER}\n"
+	.string "{KUN}。去攀登巅峰吧！$"
 

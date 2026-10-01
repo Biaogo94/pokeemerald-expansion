@@ -38,8 +38,8 @@ CeruleanCity_PokemonCenter_1F_Text_BillDoesWhateverForRareMons::
 	.string "那个正辉！\p"
 	.string "我听说他会不择手段地去取得珍贵的\n"
 	.string "宝可梦。\p"
-	.string "除此之外，他不做任何与之无关的事\n"
-	.string "。$"
+	.string "除此之外，他不做任何与之无关的\n"
+	.string "事。$"
 
 CeruleanCity_PokemonCenter_1F_Text_EveryoneCallsBillPokemaniac::
 	.string "你听说过正辉吗？\p"
@@ -55,6 +55,6 @@ CeruleanCity_PokemonCenter_1F_Text_TryTradingUpstairs::
 	.string "你问什么不上楼去试着和你的朋友交\n"
 	.string "换宝可梦？\p"
 	.string "通过交换你会获得更多的种类。\p"
-	.string "通过交换得来的宝可梦也成长得很快\n"
-	.string "。$"
+	.string "通过交换得来的宝可梦也成长得很\n"
+	.string "快。$"
 

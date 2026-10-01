@@ -81,8 +81,8 @@ SixIsland_RuinValley_Text_FosterDefeat::
 
 SixIsland_RuinValley_Text_FosterPostBattle::
 	.string "在七岛有几个遗址\p"
-	.string "大部分都可以追溯至很久很久以前了\n"
-	.string "。$"
+	.string "大部分都可以追溯至很久很久以前\n"
+	.string "了。$"
 
 SixIsland_RuinValley_Text_LarryIntro::
 	.string "据说在这座岛上有一些神秘的石头。\p"
@@ -113,6 +113,6 @@ SixIsland_RuinValley_Text_HectorDefeat::
 	.string "你。$"
 
 SixIsland_RuinValley_Text_HectorPostBattle::
-	.string "通往遗址的门……在外面有一些奇怪\n"
-	.string "的花纹刻在上面。\p"
+	.string "通往遗址的门……在外面有一些奇怪的\n"
+	.string "花纹刻在上面。\p"
 	.string "不过，我不知道它们代表什么。$"

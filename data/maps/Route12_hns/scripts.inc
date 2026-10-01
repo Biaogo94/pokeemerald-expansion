@@ -97,8 +97,7 @@ Route12_Text_FisherMartinBeaten:
 	.string "哇啊--！$"
 
 Route12_Text_FisherMartinAfterBattle:
-	.string "我太性急了，果然不适合钓鱼...\n"
-	.string "...$"
+	.string "我太性急了，果然不适合钓鱼......$"
 
 Route12_Text_FisherStephenSeen:
 	.string "一边用收音机听着音乐，一边悠闲地\n"

@@ -142,8 +142,8 @@ CeruleanCity_Text_GymSign:
 
 CeruleanCity_Text_BikeShopSign:
 	.string "这里贴着一张告示……\p"
-	.string "自行车店已搬迁至城都地区的满金市\n"
-	.string "......$"
+	.string "自行车店已搬迁至城都地区的满金\n"
+	.string "市......$"
 
 CeruleanCity_Text_PoliceSign:
 	.string "这里贴着一张告示……\p"

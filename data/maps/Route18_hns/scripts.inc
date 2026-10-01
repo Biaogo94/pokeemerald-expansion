@@ -41,8 +41,8 @@ Route18_Text_BirdKeeperBorisBeaten:
 	.string "哎呀--！$"
 
 Route18_Text_BirdKeeperBorisAfterBattle:
-	.string "你这么强，对战起来一定很有意思吧\n"
-	.string "。$"
+	.string "你这么强，对战起来一定很有意思\n"
+	.string "吧。$"
 
 Route18_Text_BirdKeeperBobSeen:
 	.string "走自行车道是去玉虹市的捷径。$"

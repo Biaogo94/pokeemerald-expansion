@@ -67,8 +67,8 @@ Route46_Text_CamperTedBeaten:
 	.string "怎么会……？$"
 
 Route46_Text_CamperTedAfterBattle:
-	.string "我已经拼尽全力了，但还是棋差一招\n"
-	.string "。\p"
+	.string "我已经拼尽全力了，但还是棋差一\n"
+	.string "招。\p"
 	.string "不找借口--我承认是我输了。$"
 
 Route46_Text_PicnickerErinSeen:
@@ -101,10 +101,9 @@ Route46_Text_ErinPostRematch:
 	.string "因为那里到处都开满了漂亮的花！$"
 
 Route46_Text_PicnickerErin2Beaten:
-	.string "呜……我怎么总是一直输啊\n"
-	.string "！\p"
-	.string "看来我必须更加努力才行！不管怎样\n"
-	.string "，谢谢你一次又一次陪我对战。\p"
+	.string "呜……我怎么总是一直输啊！\p"
+	.string "看来我必须更加努力才行！不管怎\n"
+	.string "样，谢谢你一次又一次陪我对战。\p"
 	.string "这是上次说好要送你的礼物。$"
 
 Route46_Text_Sign:

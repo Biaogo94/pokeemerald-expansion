@@ -458,8 +458,8 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_HoldMonsChooseFromSelection_hns:
 	.string "你要租借的宝可梦。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LetUsRestoreMons_hns:
-	.string "辛苦了！这就为你的宝可梦进行回复\n"
-	.string "！$"
+	.string "辛苦了！这就为你的宝可梦进行回\n"
+	.string "复！$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor2ndOpponent_hns:
 	.string "接下来是第2场对战！准备好了吗？$"
@@ -491,8 +491,8 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_InvestigatedUpcomingOpponent_hns:
 	.string "息。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInNormalType_hns:
-	.string "这位训练家似乎很擅长驱使一般属性\n"
-	.string "。$"
+	.string "这位训练家似乎很擅长驱使一般属\n"
+	.string "性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFireType_hns:
 	.string "这位训练家似乎很擅长驱使火属性。$"
@@ -510,19 +510,19 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInIceType_hns:
 	.string "这位训练家似乎很擅长驱使冰属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFightingType_hns:
-	.string "这位训练家似乎很擅长驱使格斗属性\n"
-	.string "。$"
+	.string "这位训练家似乎很擅长驱使格斗属\n"
+	.string "性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPoisonType_hns:
 	.string "这位训练家似乎很擅长驱使毒属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGroundType_hns:
-	.string "这位训练家似乎很擅长驱使地面属性\n"
-	.string "。$"
+	.string "这位训练家似乎很擅长驱使地面属\n"
+	.string "性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFlyingType_hns:
-	.string "这位训练家似乎很擅长驱使飞行属性\n"
-	.string "。$"
+	.string "这位训练家似乎很擅长驱使飞行属\n"
+	.string "性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPsychicType_hns:
 	.string "这位训练家似乎很擅长驱使超能力属\n"
@@ -532,12 +532,12 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInBugType_hns:
 	.string "这位训练家似乎很擅长驱使虫属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInRockType_hns:
-	.string "这位训练家似乎很擅长驱使岩石属性\n"
-	.string "。$"
+	.string "这位训练家似乎很擅长驱使岩石属\n"
+	.string "性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGhostType_hns:
-	.string "这位训练家似乎很擅长驱使幽灵属性\n"
-	.string "。$"
+	.string "这位训练家似乎很擅长驱使幽灵属\n"
+	.string "性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDragonType_hns:
 	.string "这位训练家似乎很擅长驱使龙属性。$"
@@ -546,8 +546,8 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDarkType_hns:
 	.string "这位训练家似乎很擅长驱使恶属性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFairyType_hns:
-	.string "这位训练家似乎很擅长驱使妖精属性\n"
-	.string "。$"
+	.string "这位训练家似乎很擅长驱使妖精属\n"
+	.string "性。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInSteelType_hns:
 	.string "这位训练家似乎很擅长驱使钢属性。$"
@@ -563,16 +563,16 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleEndurance_hns:
 	.string "喜欢的对战风格似乎是持久战。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleHighRisk_hns:
-	.string "喜欢的对战风格似乎是高风险高回报\n"
-	.string "。$"
+	.string "喜欢的对战风格似乎是高风险高回\n"
+	.string "报。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleDependsOnFlow_hns:
 	.string "喜欢的对战风格似乎是顺应战局的走\n"
 	.string "向。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleTotalPreparation_hns:
-	.string "喜欢的对战风格似乎是做好万全准备\n"
-	.string "。$"
+	.string "喜欢的对战风格似乎是做好万全准\n"
+	.string "备。$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleWeakenFoe_hns:
 	.string "喜欢的对战风格似乎是先从削弱对手\n"
@@ -609,13 +609,13 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_WaitFewMoments_hns:
 	.string "刻吗？$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_UnderstoodSirWillDo_hns:
-	.string "……嗯？什么？！....\n"
-	.string "..哇！明白了！这就照办！$"
+	.string "……嗯？什么？！......哇！明白了！\n"
+	.string "这就照办！$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_MessageFromHeadComeRightNow_hns:
 	.string "哎呀……让您久等了！\p"
-	.string "这个设施的首领--工厂头目传来了\n"
-	.string "口信。\p"
+	.string "这个设施的首领--工厂头目传来了口\n"
+	.string "信。\p"
 	.string "他说：“我们要开打了！现在就过来\n"
 	.string "吧！”$"
 

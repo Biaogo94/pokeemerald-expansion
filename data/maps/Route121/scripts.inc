@@ -178,8 +178,8 @@ Route121_Text_AheadLoomsMtPyre:
 
 Route121_Text_MtPyrePierSign:
 	.string "送神山码头\p"
-	.string "……牌子老旧得快要坏掉了，上面的\n"
-	.string "字迹几乎看不清楚……$"
+	.string "……牌子老旧得快要坏掉了，上面的字\n"
+	.string "迹几乎看不清楚……$"
 
 Route121_Text_SafariZoneSign:
 	.string "“稀有宝可梦的家园！”狩猎地带$"

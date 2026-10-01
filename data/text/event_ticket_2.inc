@@ -2,8 +2,8 @@ EventTicket_Text_OldSeaMapTooFar:
 	.string "你说什么，年轻人？\p"
 	.string "什么，就是你拥有破烂的古老地图？\p"
 	.string "让我看看。…… …… ……\p"
-	.string "好家伙……这简直是遥不可及。我恐\n"
-	.string "怕帮不了你……$"
+	.string "好家伙……这简直是遥不可及。我恐怕\n"
+	.string "帮不了你……$"
 
 EventTicket_Text_BrineyHoldOnASecond:
 	.string "哈奇：喂！\p"
@@ -23,8 +23,8 @@ EventTicket_Text_OddTicketGetOnBoard:
 	.string "你带着船票了吗？\p"
 	.string "你要去的小岛在很远很远的地方。\p"
 	.string "没人知道那里会有什么等着我们……\p"
-	.string "光是想想就让我这个老水手热血沸腾\n"
-	.string "！\p"
+	.string "光是想想就让我这个老水手热血沸\n"
+	.string "腾！\p"
 	.string "上船吧，年轻人！$"
 
 FarawayIsland_Entrance_Text_SailorReturn:
@@ -47,12 +47,12 @@ BirthIsland_Harbor_Text_SailorReturn:
 EventTicket_Text_OddTicketsWhereTo:
 	.string "你带着船票了吗？\p"
 	.string "…… ……唔。\p"
-	.string "这些船票能带你去往很远很远的小岛\n"
-	.string "。\p"
+	.string "这些船票能带你去往很远很远的小\n"
+	.string "岛。\p"
 	.string "没人知道那里会有什么等着我们，抑\n"
 	.string "或是可能会发生什么。\p"
-	.string "光是想想就让我这个老水手热血沸腾\n"
-	.string "！\p"
+	.string "光是想想就让我这个老水手热血沸\n"
+	.string "腾！\p"
 	.string "上船吧，年轻人！我们先去哪？$"
 
 NavelRock_Harbor_Text_SailorReturn:
@@ -64,10 +64,10 @@ NavelRock_Harbor_Text_SailorReturn:
 FarawayIsland_Entrance_Text_Sign:
 	.string "字迹已经模糊不清仿佛已经写了很久\n"
 	.string "很久了……\p"
-	.string "“……月6日在踏进这里的……类面\n"
-	.string "前再次……身的话希望他心地……良\l"
-	.string "在……里写下这样的愿望后我离开了\l"
-	.string "这个…………士”$"
+	.string "“……月6日在踏进这里的……类面前再\n"
+	.string "次……身的话希望他心地……良在……里写\l"
+	.string "下这样的愿望后我离开了这个…………\l"
+	.string "士”$"
 
 FarawayIsland_Interior_Text_Mew:
 	.string "咪呦……$"

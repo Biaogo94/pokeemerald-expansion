@@ -299,8 +299,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Intro_hns::
 	.string "我{STR_VAR_3}就好！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Mon1_hns::
-	.string "根据{STR_VAR_1}的建议\n"
-	.string "，我带来了1只学会了\l"
+	.string "根据{STR_VAR_1}的建\n"
+	.string "议，我带来了1只学会了\l"
 	.string "{STR_VAR_2}的\l"
 	.string "{STR_VAR_3}，以及$"
 
@@ -340,8 +340,9 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Reject_hns::
 	.string "你成为搭档的……$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Intro_hns::
-	.string "那个，我叫{STR_VAR_3}\n"
-	.string "，是{STR_VAR_1}的第\l"
+	.string "那个，我叫\n"
+	.string "{STR_VAR_3}，是\l"
+	.string "{STR_VAR_1}的第\l"
 	.string "{STR_VAR_2}号徒弟。\p"
 	.string "呜呜……\p"
 	.string "对不起！我太紧张了，忍不住哭了出\n"
@@ -356,24 +357,22 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Mon1_hns::
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Mon2Ask_hns::
 	.string "1只学会了{STR_VAR_1}\n"
 	.string "的{STR_VAR_2}。\p"
-	.string "呜呜……求求你，请一定要\n"
-	.string "和我组队！$"
+	.string "呜呜……求求你，请一定要和我组队！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Accept_hns::
 	.string "啊，真的吗？你答应了？太棒了！太\n"
 	.string "赞了！嗷呜--！\p"
-	.string "啊……对不起……\n"
-	.string "我太高兴了，眼泪都流出来了...\l"
-	.string "...\p"
+	.string "啊……对不起……我太高兴了，眼泪都流\n"
+	.string "出来了......\p"
 	.string "我这就去登记。请千万别走开哦！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Reject_hns::
-	.string "啊，可、可是……呜呜..\n"
-	.string "……哇啊啊啊！$"
+	.string "啊，可、可是……呜呜..……哇啊啊啊！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Intro_hns::
-	.string "你好！我是{STR_VAR_3}\n"
-	.string "！我是{STR_VAR_1}的第\l"
+	.string "你好！我是\n"
+	.string "{STR_VAR_3}！我是\l"
+	.string "{STR_VAR_1}的第\l"
 	.string "{STR_VAR_2}号徒弟！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Mon1_hns::
@@ -389,8 +388,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Mon2Ask_hns::
 	.string "来吧！我们组成搭档吧！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Accept_hns::
-	.string "太好了！太棒了！好，我这就去登记\n"
-	.string "，等我哦！$"
+	.string "太好了！太棒了！好，我这就去登\n"
+	.string "记，等我哦！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Reject_hns::
 	.string "啊，为什么啊？{PLAYER}，\n"
@@ -423,16 +422,16 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Reject_hns::
 	.string "你组成搭档的……$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Intro_hns::
-	.string "那个……你能抽空和我说话\n"
-	.string "，我由衷地感到高兴。\p"
+	.string "那个……你能抽空和我说话，我由衷地\n"
+	.string "感到高兴。\p"
 	.string "我是{STR_VAR_3}。是\n"
 	.string "{STR_VAR_1}的第\l"
-	.string "{STR_VAR_2}号徒弟..\l"
-	.string "....$"
+	.string "{STR_VAR_2}号徒弟...\l"
+	.string "...$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Mon1_hns::
-	.string "{STR_VAR_3}给了我建议\n"
-	.string "。我非常感激。\p"
+	.string "{STR_VAR_3}给了我建\n"
+	.string "议。我非常感激。\p"
 	.string "我的队伍是一只带着\n"
 	.string "{STR_VAR_1}的\l"
 	.string "{STR_VAR_2}，以及$"
@@ -446,14 +445,13 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Mon2Ask_hns::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Accept_hns::
 	.string "真的吗？真不敢相信！真不敢相信你\n"
-	.string "愿意和我组队！我……我一\l"
-	.string "定不会让你失望的！\p"
-	.string "那个……如果真的可以，我\n"
-	.string "这就立刻去登记！$"
+	.string "愿意和我组队！我……我一定不会让你\l"
+	.string "失望的！\p"
+	.string "那个……如果真的可以，我这就立刻去\n"
+	.string "登记！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Reject_hns::
-	.string "这样啊……我也觉得自己还\n"
-	.string "不够优秀……$"
+	.string "这样啊……我也觉得自己还不够优秀……$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice5Intro_hns::
 	.string "嗨，我是{STR_VAR_3}。\n"
@@ -534,8 +532,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Accept_hns::
 	.string "啦！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Reject_hns::
-	.string "哎呀，真冷淡！我可是有人推荐的呢\n"
-	.string "。$"
+	.string "哎呀，真冷淡！我可是有人推荐的\n"
+	.string "呢。$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Intro_hns::
 	.string "请容我自我介绍一下。我叫\n"
@@ -556,25 +554,25 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Mon2Ask_hns::
 	.string "请务必与我组成双打搭档！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Accept_hns::
-	.string "哦……太高兴了！我一定会\n"
-	.string "竭尽全力的！\p"
-	.string "报名的事情就交给我吧！请稍等片刻\n"
-	.string "！$"
+	.string "哦……太高兴了！我一定会竭尽全力\n"
+	.string "的！\p"
+	.string "报名的事情就交给我吧！请稍等片\n"
+	.string "刻！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Reject_hns::
 	.string "我一直希望能和你组队呢，\n"
 	.string "{PLAYER}......$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Intro_hns::
-	.string "呀！你跟我说话了！我……\n"
-	.string "我太高兴了！\p"
+	.string "呀！你跟我说话了！我……我太高兴\n"
+	.string "了！\p"
 	.string "我是{STR_VAR_3}！是\n"
 	.string "{STR_VAR_1}的第\l"
 	.string "{STR_VAR_2}号弟子！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Mon1_hns::
-	.string "听了{STR_VAR_3}的建议\n"
-	.string "，我培育了一只掌握了\l"
+	.string "听了{STR_VAR_3}的建\n"
+	.string "议，我培育了一只掌握了\l"
 	.string "{STR_VAR_1}的\l"
 	.string "{STR_VAR_2}，$"
 
@@ -586,8 +584,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Mon2Ask_hns::
 	.string "为你的双打搭档！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Accept_hns::
-	.string "呀！我……我头都晕乎乎的\n"
-	.string "了！太感谢你了！我这就去报名！$"
+	.string "呀！我……我头都晕乎乎的了！太感谢\n"
+	.string "你了！我这就去报名！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Reject_hns::
 	.string "哇啊！你就一点都不同情我吗？不过\n"
@@ -595,8 +593,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Reject_hns::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Intro_hns::
 	.string "唷呼！我是{STR_VAR_1}\n"
-	.string "的第{STR_VAR_2}号弟子\l"
-	.string "！\p"
+	.string "的第{STR_VAR_2}号弟\l"
+	.string "子！\p"
 	.string "我叫{STR_VAR_3}，你好\n"
 	.string "你好！$"
 
@@ -612,8 +610,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Mon2Ask_hns::
 	.string "很厉害吧？你要和我组队，对吧？$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Accept_hns::
-	.string "好咧，太棒了！我马上就去搞定报名\n"
-	.string "！$"
+	.string "好咧，太棒了！我马上就去搞定报\n"
+	.string "名！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Reject_hns::
 	.string "哇啊！{PLAYER}，你还挺精\n"
@@ -622,13 +620,13 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Reject_hns::
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Intro_hns::
 	.string "喂！出大事了！今天是对战塔开放的\n"
 	.string "最后一天！\p"
-	.string "...... ...... ..\n"
-	.string ".... ...... ....\l"
-	.string ".. ……开玩笑的啦！\p"
-	.string "大家都叫我{STR_VAR_3}\n"
-	.string "，我也这么叫自己！我是\l"
-	.string "{STR_VAR_1}的第100\l"
-	.string "0号弟子！其实是第\l"
+	.string "...... ...... ...... ...... ...\n"
+	.string "... ……开玩笑的啦！\p"
+	.string "大家都叫我\n"
+	.string "{STR_VAR_3}，我也这么\l"
+	.string "叫自己！我是\l"
+	.string "{STR_VAR_1}的第1000号\l"
+	.string "弟子！其实是第\l"
 	.string "{STR_VAR_2}号啦！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Mon1_hns::
@@ -641,14 +639,14 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Mon2Ask_hns::
 	.string "学会了{STR_VAR_1}的\n"
 	.string "{STR_VAR_2}。这两种我\l"
 	.string "各有十只！其实各自只有一只啦！\p"
-	.string "怎么样？要和我一起挑战双打对战吗\n"
-	.string "？$"
+	.string "怎么样？要和我一起挑战双打对战\n"
+	.string "吗？$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Accept_hns::
 	.string "太棒啦！为了表示感谢，送你一只宝\n"
 	.string "可梦吧！\p"
-	.string "开玩笑的啦！但我这就去办登记手续\n"
-	.string "，等我哦！$"
+	.string "开玩笑的啦！但我这就去办登记手\n"
+	.string "续，等我哦！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Reject_hns::
 	.string "呜，太无情了！看我不把对战塔给掀\n"
@@ -687,8 +685,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Reject_hns::
 	.string "无情啦！恕我冒昧这么说！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Intro_hns::
-	.string "咿哈--！哎，别跑呀！我只是逗你\n"
-	.string "玩的！\p"
+	.string "咿哈--！哎，别跑呀！我只是逗你玩\n"
+	.string "的！\p"
 	.string "你好呀！我是\n"
 	.string "{STR_VAR_3}！是\l"
 	.string "{STR_VAR_1}门下的第\l"
@@ -735,13 +733,13 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Mon1_hns::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Mon2Ask_hns::
 	.string "会用{STR_VAR_1}的\n"
-	.string "{STR_VAR_2}组成的队伍\l"
-	.string "。\p"
-	.string "我每天都和它们一起训练，风雨无阻\n"
-	.string "。\p"
+	.string "{STR_VAR_2}组成的队\l"
+	.string "伍。\p"
+	.string "我每天都和它们一起训练，风雨无\n"
+	.string "阻。\p"
 	.string "我觉得这可能就是我感冒的原因吧。\p"
-	.string "情况就是这样。你愿意和我做搭档吗\n"
-	.string "？$"
+	.string "情况就是这样。你愿意和我做搭档\n"
+	.string "吗？$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Accept_hns::
 	.string "太感谢了！咳，咳！请稍等，我这就\n"
@@ -863,8 +861,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerMon1_hns::
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerMon2Ask_hns::
 	.string "我会用{STR_VAR_1}的\n"
 	.string "{STR_VAR_2}！\p"
-	.string "听起来很棒吧？要不要和我组成搭档\n"
-	.string "？$"
+	.string "听起来很棒吧？要不要和我组成搭\n"
+	.string "档？$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerAccept_hns::
 	.string "呀呵！那我去办理登记手续啦。$"
@@ -946,16 +944,16 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFIntro_hns::
 	.string "{STR_VAR_1}！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFMon1_hns::
-	.string "我的宝可梦是……一只学会\n"
-	.string "了{STR_VAR_1}的\l"
+	.string "我的宝可梦是……一只学会了\n"
+	.string "{STR_VAR_1}的\l"
 	.string "{STR_VAR_2}，以及$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFMon2Ask_hns::
 	.string "一只学会了{STR_VAR_1}\n"
 	.string "的{STR_VAR_2}！这就是\l"
 	.string "我的搭档组合！\p"
-	.string "拜托啦！你愿意和我组成双打搭档吗\n"
-	.string "？$"
+	.string "拜托啦！你愿意和我组成双打搭档\n"
+	.string "吗？$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFAccept_hns::
 	.string "太棒了，谢啦！我去柜台那边登记。$"
@@ -1013,8 +1011,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMReject_hns::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RichBoyIntro_hns::
 	.string "哟！让我来做个自我介绍！本少爷可\n"
-	.string "是富家少爷{STR_VAR_1}\l"
-	.string "！$"
+	.string "是富家少爷\l"
+	.string "{STR_VAR_1}！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RichBoyMon1_hns::
 	.string "猜猜我带了什么！一只学会了\n"
@@ -1054,8 +1052,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_BlackBeltAccept_hns::
 	.string "喝啊！我这就前去登记！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BlackBeltReject_hns::
-	.string "这样啊……希望下次见面时\n"
-	.string "能有机会合作……$"
+	.string "这样啊……希望下次见面时能有机会合\n"
+	.string "作……$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFIntro_hns::
 	.string "嗨，你好！我是玩水生\n"
@@ -1080,8 +1078,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFReject_hns::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacIntro_hns::
 	.string "向你问候……我是灵异狂\n"
-	.string "{STR_VAR_1}.....\l"
-	.string ".$"
+	.string "{STR_VAR_1}......$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacMon1_hns::
 	.string "我携带着1只会用\n"
@@ -1090,18 +1087,14 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacMon1_hns::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacMon2Ask_hns::
 	.string "会用{STR_VAR_1}的\n"
-	.string "{STR_VAR_2}.....\l"
-	.string ".\p"
-	.string "我请求你……和我组成多打\n"
-	.string "搭档吧……$"
+	.string "{STR_VAR_2}......\p"
+	.string "我请求你……和我组成多打搭档吧……$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacAccept_hns::
-	.string "谢谢你……我去进行登记。\n"
-	.string ".....$"
+	.string "谢谢你……我去进行登记。.....$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacReject_hns::
-	.string "我曾那么渴望能与你组队……\n"
-	.string ".$"
+	.string "我曾那么渴望能与你组队…….$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMIntro_hns::
 	.string "你好啊！我是\n"
@@ -1124,8 +1117,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMAccept_hns::
 	.string "稍等一下哦！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMReject_hns::
-	.string "我本来很期待能成为你的搭档呢..\n"
-	.string "....$"
+	.string "我本来很期待能成为你的搭档呢...\n"
+	.string "...$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteFIntro_hns::
 	.string "嗨，你好！我是铁人三项运动员\n"
@@ -1155,19 +1148,19 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMIntro_hns::
 	.string "人三项运动员！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMMon1_hns::
-	.string "我和我耐力超群的队伍一起奔跑--\n"
-	.string "一只学会了{STR_VAR_1}\l"
-	.string "的{STR_VAR_2}，还有$"
+	.string "我和我耐力超群的队伍一起奔跑--一\n"
+	.string "只学会了{STR_VAR_1}的\l"
+	.string "{STR_VAR_2}，还有$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMMon2Ask_hns::
 	.string "一只学会了{STR_VAR_1}\n"
 	.string "的{STR_VAR_2}！\p"
-	.string "很不错吧？我们一起组成双打搭档吧\n"
-	.string "！$"
+	.string "很不错吧？我们一起组成双打搭档\n"
+	.string "吧！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMAccept_hns::
-	.string "太好了！我这就去登记，一眨眼就好\n"
-	.string "！$"
+	.string "太好了！我这就去登记，一眨眼就\n"
+	.string "好！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMReject_hns::
 	.string "我真的很想作为你的搭档并肩作战的\n"
@@ -1236,12 +1229,12 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMMon2Ask_hns::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMAccept_hns::
 	.string "好耶！\p"
-	.string "我去登记啦！让我们一起大显身手吧\n"
-	.string "！$"
+	.string "我去登记啦！让我们一起大显身手\n"
+	.string "吧！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMReject_hns::
-	.string "我的宝可梦肯定很强的……\n"
-	.string "你不想组队真是太遗憾了。$"
+	.string "我的宝可梦肯定很强的……你不想组队\n"
+	.string "真是太遗憾了。$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_GuitaristIntro_hns::
 	.string "耶~嘿！叫我吉他手\n"
@@ -1285,12 +1278,12 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanAccept_hns::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanReject_hns::
 	.string "那可真是太遗憾了……\p"
-	.string "期待下一次与你合作的机会……\n"
-	.string "..$"
+	.string "期待下一次与你合作的机会……..$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanMIntro_hns::
-	.string "你好，我是{STR_VAR_1}\n"
-	.string "，是一名宝可梦发烧友。$"
+	.string "你好，我是\n"
+	.string "{STR_VAR_1}，是一名宝\l"
+	.string "可梦发烧友。$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanMMon1_hns::
 	.string "我现在带着学会了招式\n"
@@ -1307,8 +1300,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanMAccept_hns::
 	.string "谢谢你！登记的事就包在我身上了！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanMReject_hns::
-	.string "我的宝可梦可是一流的……\n"
-	.string "你没能领会到真是太可惜了。$"
+	.string "我的宝可梦可是一流的……你没能领会\n"
+	.string "到真是太可惜了。$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMIntro_hns::
 	.string "哼！老夫是达人\n"
@@ -1329,8 +1322,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMAccept_hns::
 	.string "赴吧！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMReject_hns::
-	.string "但愿你的选择真的是正确的……\n"
-	.string "..$"
+	.string "但愿你的选择真的是正确的……..$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFIntro_hns::
 	.string "你好呀。我是达人\n"
@@ -1343,8 +1335,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFMon1_hns::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFMon2Ask_hns::
 	.string "掌握着{STR_VAR_1}的\n"
-	.string "{STR_VAR_2}--这就是\l"
-	.string "我的队伍。\p"
+	.string "{STR_VAR_2}--这就是我\l"
+	.string "的队伍。\p"
 	.string "要不要和我组队试试看？$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFAccept_hns::
@@ -1354,8 +1346,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFReject_hns::
 	.string "也许下次见面时我们可以组队呢。$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerIntro_hns::
-	.string "我是龙使者{STR_VAR_1}\n"
-	.string "！$"
+	.string "我是龙使者\n"
+	.string "{STR_VAR_1}！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerMon1_hns::
 	.string "我精心锻炼出的搭档是掌握着\n"
@@ -1375,8 +1367,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerReject_hns::
 	.string "像我这么厉害的搭档可不多见哦！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BirdKeeperIntro_hns::
-	.string "我是养鸟人{STR_VAR_1}\n"
-	.string "！$"
+	.string "我是养鸟人\n"
+	.string "{STR_VAR_1}！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BirdKeeperMon1_hns::
 	.string "我带了什么宝可梦？一只带着\n"
@@ -1452,8 +1444,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacMon1_hns::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacMon2Ask_hns::
 	.string "一只带着{STR_VAR_1}的\n"
-	.string "{STR_VAR_2}--这就是\l"
-	.string "我找到的同伴。\p"
+	.string "{STR_VAR_2}--这就是我\l"
+	.string "找到的同伴。\p"
 	.string "你有兴趣和我组队吗？$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacAccept_hns::
@@ -1487,8 +1479,9 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorReject_hns::
 	.string "我们本来能横扫对手的！真可惜！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CollectorIntro_hns::
-	.string "你好，我是{STR_VAR_1}\n"
-	.string "。我是一名收藏家。$"
+	.string "你好，我是\n"
+	.string "{STR_VAR_1}。我是一名\l"
+	.string "收藏家。$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CollectorMon1_hns::
 	.string "我收藏中的珍宝是学会了\n"
@@ -1532,8 +1525,9 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMReject_hns::
 	.string "下次一定要选我的宝可梦哦，好吗？$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFIntro_hns::
-	.string "我的名字叫{STR_VAR_1}\n"
-	.string "。我是一名宝可梦巡护员！$"
+	.string "我的名字叫\n"
+	.string "{STR_VAR_1}。我是一名\l"
+	.string "宝可梦巡护员！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFMon1_hns::
 	.string "让我来介绍一下我的队伍。我有一只\n"
@@ -1574,8 +1568,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_AromaLadyAccept_hns::
 	.string "登记手续。$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_AromaLadyReject_hns::
-	.string "如果下次相遇时能与你组成双打搭档\n"
-	.string "，那就太好了。$"
+	.string "如果下次相遇时能与你组成双打搭\n"
+	.string "档，那就太好了。$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacIntro_hns::
 	.string "想知道我是谁吗？我就是遗迹狂迷\n"
@@ -1596,8 +1590,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacAccept_hns::
 	.string "手续。$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacReject_hns::
-	.string "唔……我觉得我的宝可梦挺\n"
-	.string "强的啊……$"
+	.string "唔……我觉得我的宝可梦挺强的啊……$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMIntro_hns::
 	.string "我是精英训练家\n"
@@ -1610,8 +1603,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMMon1_hns::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMMon2Ask_hns::
 	.string "一只学会了{STR_VAR_1}\n"
-	.string "的{STR_VAR_2}。很帅吧\l"
-	.string "？\p"
+	.string "的{STR_VAR_2}。很帅\l"
+	.string "吧？\p"
 	.string "你不觉得要是我们组成双打搭档，会\n"
 	.string "非常帅气吗？$"
 
@@ -1660,8 +1653,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacMon2Ask_hns::
 	.string "来吧！我们组成搭档去大闹一场！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacAccept_hns::
-	.string "好主意！我这就去把我们俩都登记上\n"
-	.string "！$"
+	.string "好主意！我这就去把我们俩都登记\n"
+	.string "上！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacReject_hns::
 	.string "我的宝可梦可是很凶猛的！就算你之\n"
@@ -1710,8 +1703,9 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperReject_hns::
 	.string "下次一定要哦！我想和你组成一队。$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerIntro_hns::
-	.string "你好！我是{STR_VAR_1}\n"
-	.string "，是个野餐女孩！$"
+	.string "你好！我是\n"
+	.string "{STR_VAR_1}，是个野餐\l"
+	.string "女孩！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerMon1_hns::
 	.string "我带的宝可梦是掌握\n"
@@ -1761,8 +1755,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicFMon1_hns::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicFMon2Ask_hns::
 	.string "掌握{STR_VAR_1}的\n"
-	.string "{STR_VAR_2}--它们是\l"
-	.string "我的弟子。\p"
+	.string "{STR_VAR_2}--它们是我\l"
+	.string "的弟子。\p"
 	.string "和我组成双打搭档的想法，难道不让\n"
 	.string "你心动吗？$"
 
@@ -1815,8 +1809,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFReject_hns::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanFIntro_hns::
 	.string "我是{STR_VAR_1}，我可\n"
-	.string "以自豪地说，我是一名宝可梦狂热家\l"
-	.string "。$"
+	.string "以自豪地说，我是一名宝可梦狂热\l"
+	.string "家。$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanFMon1_hns::
 	.string "我培育的心爱宝可梦是一只学会了\n"
@@ -1854,8 +1848,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFAccept_hns::
 	.string "太棒了！我这就去登记我们两个。$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFReject_hns::
-	.string "下次再见面的话，你可得跟我组队哦\n"
-	.string "！$"
+	.string "下次再见面的话，你可得跟我组队\n"
+	.string "哦！$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMIntro_hns::
 	.string "嗨，你好！我是\n"
@@ -1874,8 +1868,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMMon2Ask_hns::
 	.string "么样？$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMAccept_hns::
-	.string "太好了！你先等我去登记一下，好吗\n"
-	.string "？$"
+	.string "太好了！你先等我去登记一下，好\n"
+	.string "吗？$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMReject_hns::
 	.string "下次可要让我加入你哦，怎么样？$"

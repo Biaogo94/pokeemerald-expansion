@@ -70,8 +70,7 @@ ViridianCity_Gym_Text_LeaderBlue_Win:
 	.string "青绿：什么？！\p"
 	.string "我到底怎么会输给你啊？！\p"
 	.string "......\p"
-	.string "切，好吧……拿去吧--这\n"
-	.string "是绿色徽章。$"
+	.string "切，好吧……拿去吧--这是绿色徽章。$"
 
 ViridianCity_Gym_Text_ReceivedEarthBadge:
 	.string "{PLAYER}获得了绿色徽章。$"
@@ -95,8 +94,8 @@ ViridianCity_Gym_Text_LeaderBlue_ExplainTM:
 
 ViridianCity_Gym_Text_LeaderBlue_Epilogue:
 	.string "青绿：听好了，\p"
-	.string "在我打赢你之前，你可不准输给别人\n"
-	.string "。听明白了没？$"
+	.string "在我打赢你之前，你可不准输给别\n"
+	.string "人。听明白了没？$"
 
 
 ViridianCity_Gym_EventScript_GymGuy::

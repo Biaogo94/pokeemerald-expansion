@@ -33,8 +33,8 @@ SaffronCity_MrPsychicsHouse_Text_ReceivedTM29FromMrPsychic::
 	.string "到TM29。$"
 
 SaffronCity_MrPsychicsHouse_Text_ExplainTM29::
-	.string "你已经知道了，不是吗？TM29是\n"
-	.string "精神强念。\p"
+	.string "你已经知道了，不是吗？TM29是精神\n"
+	.string "强念。\p"
 	.string "这是一种可以降低目标特殊能力值的\n"
 	.string "攻击。$"
 

@@ -193,8 +193,8 @@ Route13_Text_KennyRegister:
 	.string "天再来对战吧！$"
 
 Route13_Text_KennyRematchIntro:
-	.string "我从地质学中领悟到了新战术！上吧\n"
-	.string "！$"
+	.string "我从地质学中领悟到了新战术！上\n"
+	.string "吧！$"
 
 Route13_Text_KennyRematchDefeat:
 	.string "还是差了点吗……$"
@@ -435,14 +435,13 @@ Route13_TravelToAlola_Text_2:
 	.string "嗨！想启航的时候随时再来。$"
 
 Route13_TravelToAlola_Text_3:
-	.string "啊，又是你呀！你想去阿罗拉群岛吗\n"
-	.string "？$"
+	.string "啊，又是你呀！你想去阿罗拉群岛\n"
+	.string "吗？$"
 
 Route13_TravelToAlola_Text_4:
 	.string "嗨！这个港口只限当地居民使用。\p"
 	.string "这片群岛的所有居民都会随身带着一\n"
-	.string "些……\l"
-	.string "{PAUSE 30}奇特的纪念品\l"
-	.string "。\p"
+	.string "些……{PAUSE 30}奇特的纪\l"
+	.string "念品。\p"
 	.string "只要看那个就能一眼认出来，我连船\n"
 	.string "票都用不着查呢！$"

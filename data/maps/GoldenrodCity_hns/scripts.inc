@@ -298,12 +298,12 @@ GoldenrodCity_Text_Woman:
 	.string "她动不动就哭，搞得我头都大了。$"
 
 GoldenrodCity_Text_HikerDay:
-	.string "我进游戏城的时候还是晚上...\n"
-	.string "...我到底在里面待了多久啊？！$"
+	.string "我进游戏城的时候还是晚上......我\n"
+	.string "到底在里面待了多久啊？！$"
 
 GoldenrodCity_Text_HikerNight:
-	.string "我进游戏城的时候还是白天...\n"
-	.string "...我到底在里面待了多久啊？！$"
+	.string "我进游戏城的时候还是白天......我\n"
+	.string "到底在里面待了多久啊？！$"
 
 GoldenrodCity_Text_Snubbull:
 	.string "布鲁：布呜噜--！$"
@@ -379,14 +379,13 @@ GoldenrodCity_Text_Rocket3:
 	.string "具罢了！$"
 
 GoldenrodCity_Text_Rocket4:
-	.string "我们的梦想马上就要实现了……\n"
-	.string "..\p"
+	.string "我们的梦想马上就要实现了……..\p"
 	.string "这一路可真是一段漫长而艰辛的奋斗\n"
 	.string "啊……$"
 
 GoldenrodCity_Text_Rocket5:
-	.string "喂，小鬼！这里可不是你该来的地方\n"
-	.string "！赶紧滚一边去！$"
+	.string "喂，小鬼！这里可不是你该来的地\n"
+	.string "方！赶紧滚一边去！$"
 
 GoldenrodCity_Text_Rocket6:
 	.string "来体会火箭队带来的恐怖吧！$"
@@ -436,12 +435,11 @@ GoldenrodCity_Text_MoveTutorAsk:
 	.string "要让我教一个吗？$"
 
 GoldenrodCity_Text_MoveTutorCost:
-	.string "这需要花费1000枚代币。可以吗\n"
+	.string "这需要花费1000枚代币。可以吗"
 	.string "？$"
 
 GoldenrodCity_Text_MoveTutorDecline:
-	.string "啊……可这些招式真的很棒\n"
-	.string "呢！$"
+	.string "啊……可这些招式真的很棒呢！$"
 
 GoldenrodCity_Text_MoveTutorWhich:
 	.string "哇哈哈！你绝不会后悔的！\p"
@@ -462,5 +460,4 @@ GoldenrodCity_Text_MoveTutorBut:
 	.string "但、但是……$"
 
 GoldenrodCity_Text_MoveTutorNotEnoughCoins:
-	.string "……你的代币不够哦...\n"
-	.string "...$"
+	.string "……你的代币不够哦......$"

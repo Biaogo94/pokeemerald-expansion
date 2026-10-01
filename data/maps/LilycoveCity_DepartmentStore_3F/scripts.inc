@@ -55,8 +55,8 @@ LilycoveCity_DepartmentStore_3F_EventScript_Woman::
 	end
 
 LilycoveCity_DepartmentStore_3F_Text_ItemsBestForTougheningPokemon:
-	.string "要让宝可梦快速成长，最好使用道具\n"
-	.string "。\p"
+	.string "要让宝可梦快速成长，最好使用道\n"
+	.string "具。\p"
 	.string "攻击增强剂能增加攻击，特攻增强剂\n"
 	.string "则提升特攻。$"
 

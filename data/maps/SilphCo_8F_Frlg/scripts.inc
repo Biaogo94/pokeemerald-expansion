@@ -80,5 +80,5 @@ SilphCo_8F_Text_ToRocketBossMonsAreTools::
 	.string "火箭队的老大是一个特别残忍的人！\p"
 	.string "对他而言，宝可梦只是可以被利用的\n"
 	.string "工具。\p"
-	.string "如果这家伙接管了我们的公司就完了\n"
-	.string "……$"
+	.string "如果这家伙接管了我们的公司就完\n"
+	.string "了……$"

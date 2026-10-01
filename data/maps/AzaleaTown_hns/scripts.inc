@@ -368,7 +368,7 @@ AzaleaTown_Text_RivalAfter:
 	.string "手碍脚。$"
 
 AzaleaTown_Text_RivalLoss:
-	.string "……哼！我就知道你在说谎\n"
+	.string "……哼！我就知道你在说谎"
 	.string "。$"
 
 AzaleaTown_Text_Rocket1:
@@ -409,7 +409,7 @@ AzaleaTown_Text_Kurt1:
 	.string "到底发生什么事了？$"
 
 AzaleaTown_Text_Kurt2:
-	.string "{PLAYER}，把GS球还给你\n"
+	.string "{PLAYER}，把GS球还给你"
 	.string "！$"
 
 AzaleaTown_Text_Kurt3:
@@ -432,8 +432,8 @@ AzaleaTown_Text_SlowpokeWellSign:
 	.string "别名：祈雨之井。\p"
 	.string "当地的人们相信呆呆兽打哈欠就会降\n"
 	.string "雨。\p"
-	.string "据记载，在400年前，呆呆兽的哈\n"
-	.string "欠终结了一场大旱。$"
+	.string "据记载，在400年前，呆呆兽的哈欠\n"
+	.string "终结了一场大旱。$"
 
 AzaleaTown_Text_CharcoalKilnSign:
 	.string "炭窑$"

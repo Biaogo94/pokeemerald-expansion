@@ -50,8 +50,7 @@ Route8_Text_BikerHarrisBeaten:
 	.string "饶、饶了我吧！$"
 
 Route8_Text_BikerHarrisAfter:
-	.string "居然被城都来的小鬼给干翻了...\n"
-	.string "...$"
+	.string "居然被城都来的小鬼给干翻了......$"
 
 Route8_Text_BikerZekeSeen:
 	.string "我们是关都宝可梦联合！冲啊！$"
@@ -60,8 +59,7 @@ Route8_Text_BikerZekeBeaten:
 	.string "哇啊！对不起！$"
 
 Route8_Text_BikerZekeAfter:
-	.string "我们以后尽量不去打扰别人了...\n"
-	.string "...$"
+	.string "我们以后尽量不去打扰别人了......$"
 
 Route8_Text_SupernerdSamSeen:
 	.string "磁浮列车到底是怎么运行的呢？$"
@@ -73,11 +71,10 @@ Route8_Text_SupernerdSamAfter:
 	.string "磁铁的力量太神奇了！$"
 
 Route8_Text_SupernerdTomSeen:
-	.string "嗯……你收集了不少道馆徽\n"
-	.string "章嘛。$"
+	.string "嗯……你收集了不少道馆徽章嘛。$"
 
 Route8_Text_SupernerdTomBeaten:
-	.string "果然不出我所料……你很强\n"
+	.string "果然不出我所料……你很强"
 	.string "！$"
 
 Route8_Text_SupernerdTomAfter:

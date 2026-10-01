@@ -31,7 +31,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .weight = 15,
         .description = COMPOUND_STRING(
             "在狭窄黑暗的地方会很平静。有时候\n"
-            "也会用训练家的怀抱或背包代替巢穴\n"
+            "也会用训练家的怀抱或背包代替巢穴"
             "。"),
         .pokemonScale = 530,
         .pokemonOffset = 13,
@@ -314,7 +314,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .height = 4,
         .weight = 43,
         .description = COMPOUND_STRING(
-            "通过理毛然后将积在腹中的落毛燃烧\n"
+            "通过理毛然后将积在腹中的落毛燃烧"
             "，喷出火焰。根据吐毛的方式不同，\n"
             "火焰也会变化。"),
         .pokemonScale = 491,
@@ -1818,7 +1818,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .weight = 2,
         .description = COMPOUND_STRING(
             "会用长长的嘴吸取花粉和蜜。吃不完\n"
-            "的花粉则会被它储蓄在体毛的缝隙间\n"
+            "的花粉则会被它储蓄在体毛的缝隙间"
             "。"),
         .pokemonScale = 682,
         .pokemonOffset = 24,
@@ -2691,7 +2691,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .height = 25,
         .weight = 9200,
         .description = COMPOUND_STRING(
-            "泥巴使它的蹄子变得比岩石还要坚硬\n"
+            "泥巴使它的蹄子变得比岩石还要坚硬"
             "，只要一记踢击就能让大型卡车变成\n"
             "废铁。"),
         .pokemonScale = 257,
@@ -3545,7 +3545,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .weight = 1350,
         .description = COMPOUND_STRING(
             "会用令格斗家都无地自容的技术把逮\n"
-            "住的猎物夹在腋下，带回自己的住处\n"
+            "住的猎物夹在腋下，带回自己的住处"
             "。"),
         .pokemonScale = 256,
         .pokemonOffset = 0,
@@ -3614,7 +3614,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .weight = 32,
         .description = COMPOUND_STRING(
             "被它甜甜的香气吸引而来的藏饱栗鼠\n"
-            "会用尾巴将它和树果一起裹起来带走\n"
+            "会用尾巴将它和树果一起裹起来带走"
             "。"),
         .pokemonScale = 530,
         .pokemonOffset = 13,
@@ -3744,7 +3744,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .height = 12,
         .weight = 214,
         .description = COMPOUND_STRING(
-            "用苗条的双腿施展优雅而猛烈的踢技\n"
+            "用苗条的双腿施展优雅而猛烈的踢技"
             "。敌视狂欢浪舞鸭。"),
         .pokemonScale = 282,
         .pokemonOffset = 4,
@@ -3875,7 +3875,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .weight = 760,
         .description = COMPOUND_STRING(
             "在森林深处过着安静的生活。如同斗\n"
-            "篷般的紫色体毛会随着年龄越来越长\n"
+            "篷般的紫色体毛会随着年龄越来越长"
             "。"),
         .pokemonScale = 268,
         .pokemonOffset = 2,
@@ -4207,7 +4207,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .height = 5,
         .weight = 700,
         .description = COMPOUND_STRING(
-            "会用沙子攻击猎物的眼睛后趁机接近\n"
+            "会用沙子攻击猎物的眼睛后趁机接近"
             "，但却总是因为行动缓慢而让猎物逃\n"
             "走。"),
         .pokemonScale = 432,
@@ -5184,7 +5184,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .weight = 190,
         .description = COMPOUND_STRING(
             "磨牙时会泛起波纹。当阳光反射在上\n"
-            "面，周围的水会闪起令人目眩的亮光\n"
+            "面，周围的水会闪起令人目眩的亮光"
             "。"),
         .pokemonScale = 338,
         .pokemonOffset = 8,
@@ -5511,7 +5511,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .height = 12,
         .weight = 470,
         .description = COMPOUND_STRING(
-            "会大力敲打鳞片并跳起舞来鼓舞自己\n"
+            "会大力敲打鳞片并跳起舞来鼓舞自己"
             "。战吼是战斗的信号。"),
         .pokemonScale = 282,
         .pokemonOffset = 4,
@@ -6405,7 +6405,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .weight = 250,
         .description = COMPOUND_STRING(
             "栖息在其他世界的生命体。身体纤细\n"
-            "柔软，但是看起来蕴藏着强大的力量\n"
+            "柔软，但是看起来蕴藏着强大的力量"
             "。"),
         .pokemonScale = 267,
         .pokemonOffset = 2,
@@ -6538,7 +6538,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .weight = 9999,
         .description = COMPOUND_STRING(
             "是危险的究极异兽中的一种。从它巨\n"
-            "大的双臂中检测出来很高的能量反应\n"
+            "大的双臂中检测出来很高的能量反应"
             "。"),
         .pokemonScale = 256,
         .pokemonOffset = 0,
@@ -7283,7 +7283,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .weight = 222,
         .description = COMPOUND_STRING(
             "拥有潜入一切影子里的能力，所以在\n"
-            "很长一段时间里都没有任何人发现它\n"
+            "很长一段时间里都没有任何人发现它"
             "。"),
         .pokemonScale = 365,
         .pokemonOffset = 12,
@@ -7354,7 +7354,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .weight = 18,
         .description = COMPOUND_STRING(
             "栖息在异世界的究极异兽。会从头部\n"
-            "的毒针朝对手喷出毒液，咯咯咯大笑\n"
+            "的毒针朝对手喷出毒液，咯咯咯大笑"
             "。"),
         .pokemonScale = 422,
         .pokemonOffset = 12,

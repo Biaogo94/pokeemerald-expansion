@@ -120,8 +120,8 @@ VioletCity_PokeCenter_Text_ElmsAideNoRoom:
 	.string "空木博士让我来找你。\p"
 	.string "他还有一件事想拜托你。\p"
 	.string "你能收下这颗宝可梦的蛋吗？\p"
-	.string "啊，等等……你得先给同行\n"
-	.string "的队伍腾出空位才行。$"
+	.string "啊，等等……你得先给同行的队伍腾出\n"
+	.string "空位才行。$"
 
 VioletCity_PokeCenter_Text_ElmsAideGiveEgg:
 	.string "我们发现，宝可梦在蛋里成长成熟之\n"
@@ -144,12 +144,11 @@ VioletCity_PokeCenter_Text_ElmsAideFullParty:
 VioletCity_PokeCenter_Text_ElmsAideEggToPC:
 	.string "哎呀，你的同行宝可梦已经带不下了\n"
 	.string "呢。\p"
-	.string "别担心--我已经帮你把宝可梦蛋送\n"
-	.string "到正辉的电脑里去了。$"
+	.string "别担心--我已经帮你把宝可梦蛋送到\n"
+	.string "正辉的电脑里去了。$"
 
 VioletCity_PokeCenter_Text_ElmsAideRefuse:
-	.string "可、可是……空木博士有事\n"
-	.string "找你……$"
+	.string "可、可是……空木博士有事找你……$"
 
 VioletCity_PokeCenter_Text_BooksAreGreat:
 	.string "在宝可梦恢复体力的时候，我最喜欢\n"
@@ -168,8 +167,8 @@ VioletCity_PokeCenter_Text_GameboyKid:
 VioletCity_PokeCenter_Text_Gentleman:
 	.string "那大概是三年前的事了。\p"
 	.string "火箭队利用宝可梦到处作恶。\p"
-	.string "但正义最终战胜了邪恶--一个年轻\n"
-	.string "的少年把他们彻底瓦解了。$"
+	.string "但正义最终战胜了邪恶--一个年轻的\n"
+	.string "少年把他们彻底瓦解了。$"
 
 VioletCity_PokeCenter_Text_Youngster:
 	.string "宝可梦可是很聪明的。它们不会听从\n"

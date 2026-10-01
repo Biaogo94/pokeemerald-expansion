@@ -924,8 +924,7 @@ SlateportCity_Text_EnergyGuruSellWhatYouNeed:
 	.string "西！$"
 
 SlateportCity_Text_OhYourPokemon:
-	.string "哦？你的{STR_VAR_1}…\n"
-	.string "…$"
+	.string "哦？你的{STR_VAR_1}……$"
 
 SlateportCity_Text_PleaseGiveItThisEffortRibbon:
 	.string "很努力嘛！\p"
@@ -949,22 +948,22 @@ SlateportCity_Text_EffortRibbonLooksGoodOnIt:
 
 SlateportCity_Text_WonderIfLighthouseStartlesPokemon:
 	.string "灯塔的光能照到数百里外的地方。\p"
-	.string "不知道这样会不会吓到海里的宝可梦\n"
-	.string "。$"
+	.string "不知道这样会不会吓到海里的宝可\n"
+	.string "梦。$"
 
 SlateportCity_Text_SeaweedFullOfLife:
 	.string "嗨，看这里！\p"
 	.string "这周围的海草都那么新鲜灵动。\p"
-	.string "呀，它看上去好像会跳出来攻击我们\n"
-	.string "！$"
+	.string "呀，它看上去好像会跳出来攻击我\n"
+	.string "们！$"
 
 SlateportCity_Text_HowTownIsBornAndGrows:
 	.string "有洁净水源的地方就会长出富足的果\n"
 	.string "园。\p"
-	.string "然后人们聚集在这里，就出现了集市\n"
-	.string "。\p"
-	.string "一个镇子就是这样诞生和发展下去的\n"
-	.string "。$"
+	.string "然后人们聚集在这里，就出现了集\n"
+	.string "市。\p"
+	.string "一个镇子就是这样诞生和发展下去\n"
+	.string "的。$"
 
 SlateportCity_Text_SlateportWonderfulPlace:
 	.string "在可以闻到海风的地方购物……\p"
@@ -1009,8 +1008,8 @@ SlateportCity_Text_AquaHasPolicy:
 
 SlateportCity_Text_BossIsBrilliant:
 	.string "我们老大很聪明。\p"
-	.string "但我还没明白他为什么要占领博物馆\n"
-	.string "。$"
+	.string "但我还没明白他为什么要占领博物\n"
+	.string "馆。$"
 
 SlateportCity_Text_WhatsNewSchemeIWonder:
 	.string "不知道下面的计划是什么？\p"
@@ -1041,14 +1040,14 @@ SlateportCity_Text_IllReadSignForYou:
 
 SlateportCity_Text_SaysSomethingLikeSeaIsEndless:
 	.string "我看看……\p"
-	.string "呃……上面写的大概是“大海中的生\n"
-	.string "命是无穷的”。\p"
+	.string "呃……上面写的大概是“大海中的生命\n"
+	.string "是无穷的”。\p"
 	.string "嗯，我肯定上面就是这么写的。$"
 
 SlateportCity_Text_ShouldveBroughtMyGameBoy:
 	.string "唔嗯……\p"
-	.string "我真该把我的GBA带来的，那样就\n"
-	.string "不用在这儿等得这么无聊了……\p"
+	.string "我真该把我的GBA带来的，那样就不\n"
+	.string "用在这儿等得这么无聊了……\p"
 	.string "唔嗯……$"
 
 SlateportCity_Text_HotSpringsAfterOperation:
@@ -1071,21 +1070,21 @@ SlateportCity_Text_BuyTooMuch:
 	.string "大堆东西回去。$"
 
 SlateportCity_Text_GetNameRaterToHelpYou:
-	.string "如果想要为你的宝可梦更改昵称的话\n"
-	.string "，就去找姓名鉴定师帮忙吧。$"
+	.string "如果想要为你的宝可梦更改昵称的\n"
+	.string "话，就去找姓名鉴定师帮忙吧。$"
 
 SlateportCity_Text_CantChangeTradeMonName:
-	.string "你不能更改交换得来的宝可梦的名字\n"
-	.string "，\p"
+	.string "你不能更改交换得来的宝可梦的名\n"
+	.string "字，\p"
 	.string "因为那名字中包含着原先的训练家对\n"
 	.string "它的情感。$"
 
 SlateportCity_Text_BattleTentBuiltRecently:
 	.string "最近凯那市出现了一个对战帐篷。\p"
-	.string "虽然道馆也很有趣，但对战帐篷更棒\n"
-	.string "。\p"
-	.string "在对战帐篷中能见到很厉害的宝可梦\n"
-	.string "！$"
+	.string "虽然道馆也很有趣，但对战帐篷更\n"
+	.string "棒。\p"
+	.string "在对战帐篷中能见到很厉害的宝可\n"
+	.string "梦！$"
 
 SlateportCity_Text_CaptSternBeingInterviewed:
 	.string "我本来希望记者们会去采访个明星，\n"
@@ -1095,8 +1094,7 @@ SlateportCity_Text_CaptSternBeingInterviewed:
 
 SlateportCity_Text_InterviewerSoCool:
 	.string "那位女记者又酷又漂亮。\p"
-	.string "等我长大了，\n"
-	.string "也要当一名国际记者！$"
+	.string "等我长大了，也要当一名国际记者！$"
 
 SlateportCity_Text_SternSaysDiscoveredSomething:
 	.string "楠木馆长说他们在海底找到了什么东\n"
@@ -1108,15 +1106,15 @@ SlateportCity_Text_CaptainComeBackWithBigFish:
 	.string "馆长带着从海底找到的大鱼回来了？$"
 
 SlateportCity_Text_AmIOnTV:
-	.string "喂！你看了吗？我在电视上亮相了吗\n"
-	.string "？$"
+	.string "喂！你看了吗？我在电视上亮相了\n"
+	.string "吗？$"
 
 SlateportCity_Text_CaptainsACelebrity:
 	.string "电视采访！哇！馆长是名人了！$"
 
 SlateportCity_Text_BigSmileForCamera:
-	.string "达伊：好，楠木馆长，对镜头笑一下\n"
-	.string "！$"
+	.string "达伊：好，楠木馆长，对镜头笑一\n"
+	.string "下！$"
 
 SlateportCity_Text_MostInvaluableExperience:
 	.string "玛莉：我们知道您在此次勘探中获得\n"
@@ -1134,8 +1132,8 @@ SlateportCity_Text_GabbyWonderfulThanksForInterview:
 
 SlateportCity_Text_SternWhewFirstInterview:
 	.string "楠木馆长：呼……\p"
-	.string "这是我第一次上电视。真是太紧张了\n"
-	.string "。$"
+	.string "这是我第一次上电视。真是太紧张\n"
+	.string "了。$"
 
 SlateportCity_Text_OhPlayerWeMadeDiscovery:
 	.string "噢！{PLAYER}{KUN}！\n"
@@ -1149,13 +1147,12 @@ SlateportCity_Text_AquaWillAssumeControlOfSubmarine:
 	.string "哼哼哼……想必是楠木馆长吧？\p"
 	.string "你的这艘潜水艇我们海洋队征用了！\p"
 	.string "抗议无效！给我们好好老实配合！\p"
-	.string "哼哼哼……你就好好见识一下我们海\n"
-	.string "洋队的宏图大业吧！$"
+	.string "哼哼哼……你就好好见识一下我们海洋\n"
+	.string "队的宏图大业吧！$"
 
 SlateportCity_Text_SternWhatWasAllThat:
 	.string "楠木馆长：怎么回事？\p"
-	.string "听起来好像是有人在用扩音器说话…\n"
-	.string "…\p"
+	.string "听起来好像是有人在用扩音器说话……\p"
 	.string "声音是从哪儿来的？$"
 
 SlateportCity_Text_FromHarborTryingToTakeSub:
@@ -1182,22 +1179,21 @@ SlateportCity_Text_SternsShipyardNearsCompletion:
 
 SlateportCity_Text_SternsShipyardFerryComplete:
 	.string "楠木造船厂\p"
-	.string "“凯那市—水静市的破浪号渡轮的下\n"
-	.string "水仪式将在港口举行。”$"
+	.string "“凯那市—水静市的破浪号渡轮的下水\n"
+	.string "仪式将在港口举行。”$"
 
 SlateportCity_Text_PokemonFanClubSign:
 	.string "宝可梦发烧友俱乐部“聚集着所有喜\n"
 	.string "爱宝可梦的人！”$"
 
 SlateportCity_Text_OceanicMuseumSign:
-	.string "“无垠的大海哺育了世间一切的生命\n"
-	.string "。”\p"
+	.string "“无垠的大海哺育了世间一切的生\n"
+	.string "命。”\p"
 	.string "海洋科学博物馆$"
 
 SlateportCity_Text_CitySign:
 	.string "凯那市\p"
-	.string "“人与宝可梦\n"
-	.string "交汇的港口。”$"
+	.string "“人与宝可梦交汇的港口。”$"
 
 SlateportCity_Text_MarketSign:
 	.string "凯那市市场“我们有其他地方买不到\n"
@@ -1214,14 +1210,14 @@ SlateportCity_Text_HarborSign:
 	.string "行体验。”$"
 
 SlateportCity_Text_NameRatersHouseSign:
-	.string "姓名鉴定师“鉴定宝可梦名字的好坏\n"
-	.string "。”$"
+	.string "姓名鉴定师“鉴定宝可梦名字的好\n"
+	.string "坏。”$"
 
 SlateportCity_Text_ExplainBerries:
 	.string "你知道吗？当野生宝可梦受伤时，\p"
 	.string "它会寻找树果吃，为自己疗伤。\p"
-	.string "有人受到启发，从而想到用树果制药\n"
-	.string "。\p"
+	.string "有人受到启发，从而想到用树果制\n"
+	.string "药。\p"
 	.string "知道吗？\p"
 	.string "要用树果制药，就得先把树果磨成粉\n"
 	.string "末。\p"
@@ -1234,8 +1230,8 @@ SlateportCity_Text_ExplainBerryPowder:
 	.string "果的设备，\p"
 	.string "树果混合器就放在楼上的角落里。\p"
 	.string "你知道吗？\p"
-	.string "你能帮我用那机器制做些树果粉末吗\n"
-	.string "？\p"
+	.string "你能帮我用那机器制做些树果粉末\n"
+	.string "吗？\p"
 	.string "如果你能给我带来很多的树果粉末，\n"
 	.string "我就能做出各种各样的药来。$"
 
@@ -1271,13 +1267,13 @@ SlateportCity_Text_YouDroveTeamAquaAway:
 	.string "亚希达：嗯？我想我以前见过你。\p"
 	.string "我有没有向你做过自我介绍？我叫亚\n"
 	.string "希达，\p"
-	.string "刚才看到海洋队好像很慌张地逃跑了\n"
-	.string "，\p"
+	.string "刚才看到海洋队好像很慌张地逃跑\n"
+	.string "了，\p"
 	.string "我想——是你赶走他们的吧？$"
 
 SlateportCity_Text_MaybeThisTrainer:
-	.string "亚希达：唔……也许，说不定，这个\n"
-	.string "训练家……$"
+	.string "亚希达：唔……也许，说不定，这个训\n"
+	.string "练家……$"
 
 SlateportCity_Text_LetsRegisterEachOther:
 	.string "亚希达：好！我觉得我们能成为好朋\n"

@@ -151,8 +151,8 @@ BattleFrontier_Lounge1_EventScript_Boy2_hns::
 	end
 
 BattleFrontier_Lounge1_Text_PokemonBreederIntro_hns:
-	.string "我培育宝可梦已有70年！我就是人\n"
-	.string "们尊称为传说的顶级宝可梦培育家的\l"
+	.string "我培育宝可梦已有70年！我就是人们\n"
+	.string "尊称为传说的顶级宝可梦培育家的\l"
 	.string "人！\p"
 	.string "只要到了我这个资历，一眼就能看穿\n"
 	.string "宝可梦的能力。\p"
@@ -172,8 +172,8 @@ BattleFrontier_Lounge1_Text_BetterThanAverageAbility_hns:
 
 BattleFrontier_Lounge1_Text_ImpressiveAbility_hns:
 	.string "……唔……\p"
-	.string "这只总体来看，拥有相当出色的能力\n"
-	.string "！$"
+	.string "这只总体来看，拥有相当出色的能\n"
+	.string "力！$"
 
 BattleFrontier_Lounge1_Text_OutstandingAbility_hns:
 	.string "……唔……\p"
@@ -205,21 +205,20 @@ BattleFrontier_Lounge1_Text_BestAspectSpeed_hns:
 	.string "该是速度……$"
 
 BattleFrontier_Lounge1_Text_StatRelativelyGood_hns:
-	.string "这项能力挺不错的。……嗯\n"
-	.string "……我是这么认为的。$"
+	.string "这项能力挺不错的。……嗯……我是这么\n"
+	.string "认为的。$"
 
 BattleFrontier_Lounge1_Text_StatImpressive_hns:
-	.string "这项能力相当出色。……嗯\n"
-	.string "……我是这么认为的。$"
+	.string "这项能力相当出色。……嗯……我是这么\n"
+	.string "认为的。$"
 
 BattleFrontier_Lounge1_Text_StatOutstanding_hns:
-	.string "这项能力极其优秀！……嗯\n"
-	.string "……我是这么认为的。$"
+	.string "这项能力极其优秀！……嗯……我是这么\n"
+	.string "认为的。$"
 
 BattleFrontier_Lounge1_Text_StatFlawless_hns:
-	.string "简直无可挑剔！完美无瑕！....\n"
-	.string "..嗯……我是这么认为的\l"
-	.string "。$"
+	.string "简直无可挑剔！完美无瑕！......\n"
+	.string "嗯……我是这么认为的。$"
 
 BattleFrontier_Lounge1_Text_NoTimeForMyAdvice_hns:
 	.string "什么？你没时间听我的建议？\p"
@@ -249,6 +248,5 @@ BattleFrontier_Lounge1_Text_SaidMyMonIsOutstanding_hns:
 
 BattleFrontier_Lounge1_Text_DidntDoAnythingSpecialRaisingIt_hns:
 	.string "他说我的宝可梦非常优秀！但我其实\n"
-	.string "并没有特意做过什么培育啊……\l"
-	.string "..$"
+	.string "并没有特意做过什么培育啊……..$"
 

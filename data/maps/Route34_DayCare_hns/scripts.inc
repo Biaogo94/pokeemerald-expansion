@@ -154,10 +154,10 @@ Route34_DayCare_EventScript_ClerkAfter::
 Route34_DayCare_Text_ClerkBefore:
 	.string "我是培育屋夫妇的儿子。\p"
 	.string "在一位训练家的宝可梦身边发现了一\n"
-	.string "颗不可思议的蛋，但他们并不想要。\l"
-	.string ".....\p"
-	.string "我很想把它交给你……但我\n"
-	.string "怎么能确定你会好好照顾它呢？$"
+	.string "颗不可思议的蛋，但他们并不想要"
+	.string "。.....\p"
+	.string "我很想把它交给你……但我怎么能确定\n"
+	.string "你会好好照顾它呢？$"
 
 Route34_DayCare_Text_ClerkNoRoom:
 	.string "看来你身上已经带不下更多的宝可梦\n"
@@ -331,8 +331,8 @@ Route34_DayCare_EventScript_ClosedForChallenge::
 
 Route34_DayCare_Text_ClosedForChallenge:
 	.string "抱歉，在同行宝可梦数量受限的挑战\n"
-	.string "期间，我们不能代为照顾你的宝可梦\l"
-	.string "！$"
+	.string "期间，我们不能代为照顾你的宝可\l"
+	.string "梦！$"
 
 Route34_DayCare_EventScript_OnlyOneMon::
 	msgbox Route34_DayCare_Text_YouHaveJustOneMon, MSGBOX_DEFAULT
@@ -485,16 +485,16 @@ Route34_Text_DoYouWantEgg:
 
 Route34_Text_YourMonIsDoingFine:
 	.string "哎呀，是你啊！见到你真高兴。你的\n"
-	.string "{STR_VAR_1}精神得很呢\l"
-	.string "。$"
+	.string "{STR_VAR_1}精神得很\l"
+	.string "呢。$"
 
 Route34_Text_IllKeepIt:
 	.string "这样啊，那我就自己留着了。谢谢你\n"
 	.string "啦！$"
 
 Route34_Text_YouHaveNoRoomForIt:
-	.string "你的同行宝可梦已经满了……\n"
-	.string ".腾出空位后再来吧。$"
+	.string "你的同行宝可梦已经满了…….腾出空\n"
+	.string "位后再来吧。$"
 
 Route34_Text_ReceivedEgg:
 	.string "{PLAYER}从培育屋爷爷那里\n"
@@ -588,8 +588,8 @@ Route34_DayCare_Text_TookBackMon:
 	.string "领回了{STR_VAR_1}。$"
 
 Route34_DayCare_Text_YouHaveJustOneMon:
-	.string "哎呀？可是你身上只有一只宝可梦呀\n"
-	.string "。\p"
+	.string "哎呀？可是你身上只有一只宝可梦\n"
+	.string "呀。\p"
 	.string "下次再来吧。$"
 
 Route34_DayCare_Text_TakeYourMonBack:

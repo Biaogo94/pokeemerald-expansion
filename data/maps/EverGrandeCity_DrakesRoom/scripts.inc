@@ -81,8 +81,8 @@ EverGrandeCity_DrakesRoom_Text_Defeat:
 EverGrandeCity_DrakesRoom_Text_PostBattleSpeech:
 	.string "身为宝可梦训练家，你的确具备能走\n"
 	.string "到这一步的能力。\p"
-	.string "看起来你知道获胜所需的条件是什么\n"
-	.string "。\p"
+	.string "看起来你知道获胜所需的条件是什\n"
+	.string "么。\p"
 	.string "没错。训练家需要的正是一颗善良的\n"
 	.string "心。\p"
 	.string "宝可梦感受到训练家的善心才会学着\n"

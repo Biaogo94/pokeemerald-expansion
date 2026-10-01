@@ -498,8 +498,8 @@ Alola_Akala_Sign_Text_0:
 
 Alola_Akala_House_Sign_Text_0:
 	.string "阿卡拉度假别庄\p"
-	.string "专供造访阿卡拉岛的游客住宿的地方\n"
-	.string "。$"
+	.string "专供造访阿卡拉岛的游客住宿的地\n"
+	.string "方。$"
 
 Alola_Akala_Natu_Text_0:
 	.string "天然雀：嘟--！$"
@@ -524,8 +524,7 @@ Alola_Akala_TotemBattle_Text_3:
 	.string "往哪里去了……$"
 
 Alola_Akala_Totem_sign_Text_0:
-	.string "图腾正散发出一股强烈的能量...\n"
-	.string "...\p"
+	.string "图腾正散发出一股强烈的能量......\p"
 	.string "要触碰图腾传送至其他岛屿吗？$"
 
 Alola_Akala_Totem_sign_Text_1:
@@ -594,8 +593,7 @@ Alola_Akala_TrainerBattleSwimmerWater_Text_0:
 	.string "借过借过！我正在折返游呢！$"
 
 Alola_Akala_TrainerBattleSwimmerWater_Text_1:
-	.string "我想要的休息可不是这种啊……\n"
-	.string "..$"
+	.string "我想要的休息可不是这种啊……..$"
 
 Alola_Akala_TrainerBattleSwimmerWater_Text_2:
 	.string "乌拉乌拉岛的海滩才是最棒的！别听\n"

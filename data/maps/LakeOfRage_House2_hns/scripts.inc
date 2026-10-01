@@ -127,14 +127,12 @@ LakeOfRage_House2_Text_WorldsLargest:
     .string "鲤鱼王们都回来了。\p"
     .string "我终于有机会实现拥有世界第一大鲤\n"
     .string "鱼王的梦想了。\p"
-    .string "这样吧……你给我的每一条\n"
-    .string "鲤鱼王，我都付你¥2000，如果\l"
-    .string "是特大号鲤鱼王，我就给¥100,\l"
-    .string "000！$"
+    .string "这样吧……你给我的每一条鲤鱼王，我\n"
+    .string "都付你¥2000，如果是特大号鲤鱼\l"
+    .string "王，我就给¥100,000！$"
 
 LakeOfRage_House2_Text_ForMe:
-	.string "那么……你有带鲤鱼王来给\n"
-	.string "我吗？$"
+	.string "那么……你有带鲤鱼王来给我吗？$"
 
 LakeOfRage_House2_Text_HaveMagikarp:
     .string "啊，你有鲤鱼王！来看看这个小家伙\n"
@@ -151,13 +149,13 @@ LakeOfRage_House2_Text_Bonus:
 
 LakeOfRage_House2_Text_TooShort:
     .string "哇！这条真是太出色了！\p"
-    .string "……虽然很想这么说，但我\n"
-    .string "以前见过更大的。\p"
+    .string "……虽然很想这么说，但我以前见过更\n"
+    .string "大的。\p"
     .string "不过也是值得奖励的。$"
 
 LakeOfRage_House2_Text_NotMagikarp:
     .string "什么？这不是鲤鱼王啊！$"
 
 LakeOfRage_House2_Text_Refused:
-    .string "哎……没钓到能拿得出手的\n"
-    .string "吗？那下次再说吧。$"
+    .string "哎……没钓到能拿得出手的吗？那下次\n"
+    .string "再说吧。$"

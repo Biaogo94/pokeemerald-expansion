@@ -10,7 +10,7 @@ ThreeIsland_BondBridge_EventScript_BondBridgeSign::
 	end
 
 ThreeIsland_BondBridge_Text_NikkiIntro::
-	.string "大海的咸湿气息……冲击着我的心灵\n"
+	.string "大海的咸湿气息……冲击着我的心灵"
 	.string "。$"
 
 ThreeIsland_BondBridge_Text_NikkiDefeat::

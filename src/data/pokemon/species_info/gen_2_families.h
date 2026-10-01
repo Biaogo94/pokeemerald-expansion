@@ -1403,7 +1403,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .height = 11,
         .weight = 335,
         .description = COMPOUND_STRING(
-            "会将丝缠在猎物身上，然后故意放走\n"
+            "会将丝缠在猎物身上，然后故意放走"
             "。只要沿着丝就能把猎物和它的伙伴\n"
             "一网打尽。"),
         .pokemonScale = 316,
@@ -3704,7 +3704,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .weight = 21,
         .description = COMPOUND_STRING(
             "人们相信晚上看到它就会发生不吉利\n"
-            "的事。因此，它是受人忌讳的宝可梦\n"
+            "的事。因此，它是受人忌讳的宝可梦"
             "。"),
         .pokemonScale = 401,
         .pokemonOffset = -8,
@@ -4355,7 +4355,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .weight = 1600,
         .description = COMPOUND_STRING(
             "以坚硬的尾巴头保护着本体的头，并\n"
-            "甩动长长的脖子让对手吃它一记头槌\n"
+            "甩动长长的脖子让对手吃它一记头槌"
             "。"),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -4567,7 +4567,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .weight = 140,
         .description = COMPOUND_STRING(
             "一旦被谁看见了它的身影，就会用尾\n"
-            "巴挖洞逃走。能用翅膀稍微浮在空中\n"
+            "巴挖洞逃走。能用翅膀稍微浮在空中"
             "。"),
         .pokemonScale = 316,
         .pokemonOffset = 17,
@@ -5538,7 +5538,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .weight = 280,
         .description = COMPOUND_STRING(
             "手指中藏有锋利的爪子。会突然伸出\n"
-            "那利爪，让袭击过来的对手心生怯意\n"
+            "那利爪，让袭击过来的对手心生怯意"
             "。"),
         .pokemonScale = 413,
         .pokemonOffset = -3,
@@ -5877,7 +5877,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .weight = 88,
         .description = COMPOUND_STRING(
             "会把甜甜的蜜渗入手掌里，然后舔个\n"
-            "不停。每只熊宝宝的蜜味道都不一样\n"
+            "不停。每只熊宝宝的蜜味道都不一样"
             "。"),
         .pokemonScale = 455,
         .pokemonOffset = 19,
@@ -8114,7 +8114,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .height = 20,
         .weight = 1870,
         .description = COMPOUND_STRING(
-            "在全世界四处奔跑，让污水重回清澈\n"
+            "在全世界四处奔跑，让污水重回清澈"
             "。会随北风奔跑着离去。"),
         .pokemonScale = 269,
         .pokemonOffset = 0,

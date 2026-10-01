@@ -30,8 +30,7 @@ MagmaHideout_2F_2R_Text_Grunt15Defeat:
 MagmaHideout_2F_2R_Text_Grunt15PostBattle:
 	.string "我们挖掘到了难以置信的东西！还拿\n"
 	.string "到了靛蓝色宝珠！\p"
-	.string "现在只等老大……哼哼哼……哈哈哈\n"
-	.string "哈！$"
+	.string "现在只等老大……哼哼哼……哈哈哈哈！$"
 
 MagmaHideout_2F_2R_Text_Grunt6Intro:
 	.string "实在受不了这热气。或许我当初该加\n"
@@ -64,6 +63,5 @@ MagmaHideout_2F_2R_Text_Grunt8Defeat:
 	.string "真是难以置信……$"
 
 MagmaHideout_2F_2R_Text_Grunt8PostBattle:
-	.string "我总感觉我们的计划会以失败告终…\n"
-	.string "…$"
+	.string "我总感觉我们的计划会以失败告终……$"
 

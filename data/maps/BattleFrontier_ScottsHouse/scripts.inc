@@ -210,19 +210,19 @@ BattleFrontier_ScottsHouse_EventScript_ScottFaceAwayWest::
 	return
 
 BattleFrontier_ScottsHouse_Text_WelcomeToBattleFrontier:
-	.string "亚希达：欢迎欢迎！嘿嘿……抱歉空\n"
-	.string "间有点狭窄。\p"
-	.string "总之，{PLAYER}{KUN}\n"
-	.string "，请让我正式欢迎你来到对战开拓区\l"
-	.string "。\p"
+	.string "亚希达：欢迎欢迎！嘿嘿……抱歉空间\n"
+	.string "有点狭窄。\p"
+	.string "总之，{PLAYER}\n"
+	.string "{KUN}，请让我正式欢迎你来到\l"
+	.string "对战开拓区。\p"
 	.string "这是我毕生梦想的实现，经过漫长的\n"
 	.string "岁月终于得以成型。$"
 
 BattleFrontier_ScottsHouse_Text_HowMuchEffortItTookToMakeReal:
 	.string "回想起来，这一路还真是走了很久很\n"
 	.string "久……\p"
-	.string "独自离家踏上寻找强大训练家的旅程\n"
-	.string "……\p"
+	.string "独自离家踏上寻找强大训练家的旅\n"
+	.string "程……\p"
 	.string "其中所付出的时间与努力真是难以想\n"
 	.string "象。$"
 
@@ -235,8 +235,8 @@ BattleFrontier_ScottsHouse_Text_HaveThisAsMementoOfOurPathsCrossing:
 
 BattleFrontier_ScottsHouse_Text_ObtainedXBattlePoints:
 	.string "{PLAYER}获得了\n"
-	.string "{STR_VAR_1}BP的对战\l"
-	.string "点数。$"
+	.string "{STR_VAR_1}BP的对战点\l"
+	.string "数。$"
 
 BattleFrontier_ScottsHouse_Text_ExplainBattlePoints:
 	.string "亚希达：你可以在开拓通行证上查看\n"
@@ -271,8 +271,8 @@ BattleFrontier_ScottsHouse_Text_HaveYouMetFrontierBrain:
 BattleFrontier_ScottsHouse_Text_MayFindWildMonsInFrontier:
 	.string "亚希达：你的目标不只是对战吧？对\n"
 	.string "吗？\p"
-	.string "我好像还记得你也在收集宝可梦图鉴\n"
-	.string "。\p"
+	.string "我好像还记得你也在收集宝可梦图\n"
+	.string "鉴。\p"
 	.string "猜猜怎么着？\p"
 	.string "在对战开拓区的某些地方你也能遇到\n"
 	.string "野生宝可梦……呼呼呼！$"
@@ -297,8 +297,8 @@ BattleFrontier_ScottsHouse_Text_YouveCollectedAllGoldSymbols:
 	.string "简直神乎其技！如我所料，你真的无\n"
 	.string "与伦比！\p"
 	.string "…… …… ……\p"
-	.string "{PLAYER}，请务必收下这个\n"
-	.string "！\p"
+	.string "{PLAYER}，请务必收下这\n"
+	.string "个！\p"
 	.string "相信你一定能理解这份礼物的价值！$"
 
 BattleFrontier_ScottsHouse_Text_SoGladIBroughtYouHere:
@@ -315,8 +315,8 @@ BattleFrontier_ScottsHouse_Text_Beat50TrainersInARow:
 	.string "太精彩了！把这个拿去吧！$"
 
 BattleFrontier_ScottsHouse_Text_Beat100TrainersInARow:
-	.string "亚希达：啊天哪，我听说你的战绩了\n"
-	.string "！横扫对战塔，取得100连胜？\p"
+	.string "亚希达：啊天哪，我听说你的战绩\n"
+	.string "了！横扫对战塔，取得100连胜？\p"
 	.string "简直精彩绝伦！这是属于你的！$"
 
 BattleFrontier_ScottsHouse_Text_ExpectingToHearEvenGreaterThings:

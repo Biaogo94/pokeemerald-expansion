@@ -152,13 +152,11 @@ SkyPillar_Outside_Text_EarthquakeNotMomentToWaste:
 	.string "不能再耽搁了！我们必须抓紧时间！$"
 
 SkyPillar_Outside_Text_SituationGettingWorse:
-	.string "米可利：嗯……情况越来越糟糕了…\n"
-	.string "…$"
+	.string "米可利：嗯……情况越来越糟糕了……$"
 
 SkyPillar_Outside_Text_GotToGoBackForSootopolis:
 	.string "米可利：不妙……\p"
-	.string "天气异常居然已经蔓延到这一带了…\n"
-	.string "…\p"
+	.string "天气异常居然已经蔓延到这一带了……\p"
 	.string "{PLAYER}{KUN}。\p"
 	.string "烈空坐应该还在上面的更高处。\p"
 	.string "我担心琉璃市的安危，得先赶回去。\p"

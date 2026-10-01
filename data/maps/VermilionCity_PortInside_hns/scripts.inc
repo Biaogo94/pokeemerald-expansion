@@ -13,8 +13,8 @@ VermilionPortPassage_Text_Teacher:
 
 VermilionPort_Text_SuperNerd:
 	.string "你是从城都地区来的吗？\p"
-	.string "听说那边生活着很多稀有的宝可梦呢\n"
-	.string "。$"
+	.string "听说那边生活着很多稀有的宝可梦\n"
+	.string "呢。$"
 
 VermilionPort_EventScript_Sailor::
 	lock
@@ -172,8 +172,7 @@ VermilionPort_Text_SailorCantSail:
 
 VermilionPort_Text_NoPass:
     .string "{PLAYER}想要出示\n"
-    .string "{STR_VAR_1}.....\l"
-    .string ".\p"
+    .string "{STR_VAR_1}......\p"
     .string "……但是没有找到\n"
     .string "{STR_VAR_1}！\p"
     .string "非常抱歉！必须持有\n"
@@ -203,8 +202,8 @@ VermilionPort_Text_FlashTicket:
     .string "确认无误。非常感谢！$"
 
 VermilionPort_Text_NoTicket:
-    .string "{PLAYER}正准备出示船票。\n"
-    .string ".....\p"
+    .string "{PLAYER}正准备出示船票"
+    .string "。.....\p"
     .string "……但是没有船票！\p"
     .string "很抱歉！只有持有船票的乘客才可以\n"
     .string "登船。$"

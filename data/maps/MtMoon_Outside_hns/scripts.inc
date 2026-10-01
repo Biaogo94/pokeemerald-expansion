@@ -106,20 +106,15 @@ MtMoon_Outside_Text_WhiteRockTouchIt:
 
 MtMoon_Outside_Text_WhiteRockTouchDay:
 	.string "{PLAYER}摸了摸这块奇特的\n"
-	.string "岩石。.............\l"
-	.string "................\l"
-	.string "................\l"
-	.string "................\l"
-	.string "……但是什么也\l"
-	.string "没发生。$"
+	.string "岩石。.........................\l"
+	.string "...............................\l"
+	.string ".....……但是什么也没发生。$"
 
 MtMoon_Outside_Text_WhiteRockTouchNight:
 	.string "{PLAYER}摸了摸这块奇特的\n"
-	.string "岩石。.............\l"
-	.string "................\l"
-	.string "................\l"
-	.string "................\l"
-	.string "...........$"
+	.string "岩石。.........................\l"
+	.string "...............................\l"
+	.string "................$"
 
 MtMoon_Outside_EventScript_Jirachi::
 	lock

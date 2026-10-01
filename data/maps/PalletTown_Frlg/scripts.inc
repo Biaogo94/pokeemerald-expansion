@@ -496,9 +496,8 @@ PalletTown_Text_CaughtXPuttingInHonestEffort::
 	.string "我看看吧。$"
 
 PalletTown_Text_CaughtXImpressiveFollowMe::
-	.string "你抓到了……\n"
-	.string "{STR_VAR_2}种！？真是\l"
-	.string "难以置信！\p"
+	.string "你抓到了……{STR_VAR_2}\n"
+	.string "种！？真是难以置信！\p"
 	.string "我有个请求，{PLAYER}。\p"
 	.string "跟我来。$"
 
@@ -511,8 +510,7 @@ PalletTown_Text_OakYouEnjoyingTraveling::
 
 @ For the NPC in Pallet Town that talks about the Trainer Tips sign
 PalletTown_Text_HmmIsThatRight::
-	.string "唔......是这样吗.....\n"
-	.string ".$"
+	.string "唔......是这样吗......$"
 
 PalletTown_Text_OhLookLook::
 	.string "哇！看呀看呀！$"

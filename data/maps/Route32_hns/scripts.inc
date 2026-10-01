@@ -395,13 +395,12 @@ Route32_Text_CooltrainerM_Experiences:
 Route32_Text_SlowpokeTailOffer:
 	.string "要不要来一根美味又有营养的呆呆兽\n"
 	.string "之尾？\p"
-	.string "现在算你的话，只要¥1,000,\n"
-	.string "000！\p"
+	.string "现在算你的话，只要¥1,000,000！\p"
 	.string "你肯定很想买吧！$"
 
 Route32_Text_ThoughtKidsLoaded:
-	.string "切！我还以为现在的小鬼都很有钱呢\n"
-	.string "......$"
+	.string "切！我还以为现在的小鬼都很有钱\n"
+	.string "呢......$"
 
 Route32_Text_RefusedSlowpokeTail:
 	.string "不买？那就闪一边去。走走走！$"
@@ -414,8 +413,8 @@ Route32_Text_FisherJustin_Beaten:
 	.string "噗通！$"
 
 Route32_Text_FisherJustin_After:
-	.string "沉着、冷静……钓鱼和宝可\n"
-	.string "梦对战的精髓是相通的。$"
+	.string "沉着、冷静……钓鱼和宝可梦对战的精\n"
+	.string "髓是相通的。$"
 
 Route32_Text_FisherRalph1_Seen:
 	.string "不管是钓鱼还是宝可梦对战，我都非\n"
@@ -479,8 +478,7 @@ Route32_Text_YoungsterGordon_After:
 	.string "草丛里粘了好多甩不掉的草刺。$"
 
 Route32_Text_CamperRoland_Seen:
-	.string "刚才那个眼神……真让人在\n"
-	.string "意啊。$"
+	.string "刚才那个眼神……真让人在意啊。$"
 
 Route32_Text_CamperRoland_Beaten:
 	.string "唔……真让人扫兴。$"
@@ -490,8 +488,7 @@ Route32_Text_CamperRoland_After:
 	.string "就好啦。$"
 
 Route32_Text_PicnickerLiz1_Seen:
-	.string "嗯嗯。对啊，而且你知道吗...\n"
-	.string "...\p"
+	.string "嗯嗯。对啊，而且你知道吗......\p"
 	.string "你说什么？对战？我正打电话呢。\n"
 	.string "哎，好吧。速战速决哦。$"
 
@@ -505,8 +502,7 @@ Route32_Text_LizRegister:
 	.string "我刚才明明聊得很开心呢。$"
 
 Route32_Text_LizRematchIntro:
-	.string "嗯嗯。对啊，而且你知道吗...\n"
-	.string "...\p"
+	.string "嗯嗯。对啊，而且你知道吗......\p"
 	.string "你说什么？对战？我正打电话呢。\n"
 	.string "哎，好吧。速战速决哦。$"
 

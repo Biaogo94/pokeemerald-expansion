@@ -403,8 +403,7 @@ PoniIsle_hns_Movement_FacePlayerUpAfterTotemWarp:
 
 
 Alola_Poni_Totem_sign_Text_0:
-	.string "图腾正散发出一股强烈的能量...\n"
-	.string "...\p"
+	.string "图腾正散发出一股强烈的能量......\p"
 	.string "要触碰图腾传送至其他岛屿吗？$"
 
 Alola_Poni_Totem_sign_Text_1:
@@ -440,8 +439,7 @@ Alola_Poni_TrainerBattleSwimmer2_Text_0:
 	.string "喂，别挡着我的水流路线！$"
 
 Alola_Poni_TrainerBattleSwimmer2_Text_1:
-	.string "呃，好吧，就让我好好游泳吧...\n"
-	.string "...$"
+	.string "呃，好吧，就让我好好游泳吧......$"
 
 Alola_Poni_TrainerBattleSwimmer2_Text_2:
 	.string "这里的激流太适合玩轮胎漂流了。我\n"

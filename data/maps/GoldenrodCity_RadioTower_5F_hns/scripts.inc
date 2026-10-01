@@ -324,8 +324,8 @@ GoldenrodCity_RadioTower_5F_Text_ExecutiveF1Seen:
 
 GoldenrodCity_RadioTower_5F_Text_ExecutiveF1Beaten:
 	.string "怎么会这样！\p"
-	.string "明明拼尽了全力，居然还是输了..\n"
-	.string "....\p"
+	.string "明明拼尽了全力，居然还是输了...\n"
+	.string "...\p"
 	.string "坂木老大，对不起……$"
 
 GoldenrodCity_RadioTower_5F_Text_ExecutiveF1After:
@@ -342,8 +342,8 @@ GoldenrodCity_RadioTower_5F_Text_RocketBossSeen:
 	.string "这样一来，独自修行的坂木老大就一\n"
 	.string "定会回到我们身边。\p"
 	.string "我们将重拾往昔的荣耀……\p"
-	.string "我绝不会允许你妨碍我们周密的计划\n"
-	.string "！$"
+	.string "我绝不会允许你妨碍我们周密的计\n"
+	.string "划！$"
 
 GoldenrodCity_RadioTower_5F_Text_RocketBossBeaten:
 	.string "不！坂木老大，请原谅我！$"
@@ -367,8 +367,8 @@ GoldenrodCity_RadioTower_5F_Text_DirectorClearWingExplanation:
 	.string "以前在满金市的这里，曾经立着一座\n"
 	.string "塔。\p"
 	.string "不过由于年久失修，摇摇欲坠，\p"
-	.string "我们便把它拆除，建成了这座广播塔\n"
-	.string "。\p"
+	.string "我们便把它拆除，建成了这座广播\n"
+	.string "塔。\p"
 	.string "这片羽毛是在施工时挖出来的。\p"
 	.string "听说在很久以前，满金市生活着各种\n"
 	.string "各样的宝可梦。\p"
@@ -381,8 +381,8 @@ GoldenrodCity_RadioTower_5F_Text_DirectorTidalWingExplanation:
 	.string "以前在满金市的这里，曾经立着一座\n"
 	.string "塔。\p"
 	.string "不过由于年久失修，摇摇欲坠，\p"
-	.string "我们便把它拆除，建成了这座广播塔\n"
-	.string "。\p"
+	.string "我们便把它拆除，建成了这座广播\n"
+	.string "塔。\p"
 	.string "这片羽毛是在施工时挖出来的。\p"
 	.string "听说在很久以前，满金市生活着各种\n"
 	.string "各样的宝可梦。\p"
@@ -394,12 +394,12 @@ GoldenrodCity_RadioTower_5F_Text_DirectorTidalWingExplanation:
 GoldenrodCity_RadioTower_5F_Text_DirectorLegendary:
 	.string "啊！\p"
 	.string "想起来了……\p"
-	.string "我给你的那片羽毛……似乎\n"
-	.string "和传说的宝可梦有关。\p"
+	.string "我给你的那片羽毛……似乎和传说的宝\n"
+	.string "可梦有关。\p"
 	.string "但是！光凭那片羽毛，传说的宝可梦\n"
 	.string "是不会现身的……\p"
-	.string "好像还需要别的什么东西……\n"
-	.string ".大概是这样吧。\p"
+	.string "好像还需要别的什么东西…….大概是\n"
+	.string "这样吧。\p"
 	.string "到底是什么来着呢……\p"
 	.string "我想不起来了。$"
 
@@ -413,8 +413,8 @@ GoldenrodCity_RadioTower_5F_Text_DirectorIntro:
 	.string "不瞒你说，我非常喜爱宝可梦。\p"
 	.string "建起这座广播塔，就是为了能表达我\n"
 	.string "对宝可梦的爱。\p"
-	.string "要是大家都能喜欢我们的节目就好了\n"
-	.string "。$"
+	.string "要是大家都能喜欢我们的节目就好\n"
+	.string "了。$"
 
 GoldenrodCity_RadioTower_5F_Text_Ben:
 	.string "本：你听过我们的音乐节目吗？$"

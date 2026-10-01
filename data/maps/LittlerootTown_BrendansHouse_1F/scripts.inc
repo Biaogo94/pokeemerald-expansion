@@ -291,8 +291,8 @@ PlayersHouse_1F_Text_MoversPokemonGoSetClock:
 	.string "搬家公司的宝可梦帮我们把东西都搬\n"
 	.string "进来，并且整理打扫好了。真是太方\l"
 	.string "便了！\p"
-	.string "{PLAYER}，你的房间在楼上\n"
-	.string "，去看看吧，宝贝！\p"
+	.string "{PLAYER}，你的房间在楼\n"
+	.string "上，去看看吧，宝贝！\p"
 	.string "爸爸特意买了新的时钟来庆祝我们搬\n"
 	.string "家。记得调好时间哦！$"
 
@@ -329,16 +329,17 @@ PlayersHouse_1F_Text_DidYouMeetProfBirch:
 	.string "妈妈：拜访过小田卷博士了吗？$"
 
 PlayersHouse_1F_Text_YouShouldRestABit:
-	.string "妈妈：怎么样了，{PLAYER}\n"
-	.string "？你好像有点累了，\p"
+	.string "妈妈：怎么样了，\n"
+	.string "{PLAYER}？你好像有点累\l"
+	.string "了，\p"
 	.string "在家休息一下吧。$"
 
 PlayersHouse_1F_Text_TakeCareHoney:
 	.string "妈妈：路上小心，宝贝！$"
 
 PlayersHouse_1F_Text_GotDadsBadgeHeresSomethingFromMom:
-	.string "妈妈：哎呀，那是爸爸给你的徽章吗\n"
-	.string "？\p"
+	.string "妈妈：哎呀，那是爸爸给你的徽章\n"
+	.string "吗？\p"
 	.string "那么妈妈也要给你礼物！$"
 
 PlayersHouse_1F_Text_DontPushYourselfTooHard:
@@ -362,8 +363,8 @@ PlayersHouse_1F_Text_Vigoroth2:
 	.string "呼咕，呜咕呜咕……$"
 
 PlayersHouse_1F_Text_ReportFromPetalburgGym:
-	.string "记者：……以上就是我们在橙华市道\n"
-	.string "馆为您带来的现场报道。$"
+	.string "记者：……以上就是我们在橙华市道馆\n"
+	.string "为您带来的现场报道。$"
 
 PlayersHouse_1F_Text_TheresAMovieOnTV:
 	.string "电视正在播放电影。\p"
@@ -378,8 +379,8 @@ PlayersHouse_1F_Text_RunningShoesManual:
 PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
 	.string "爸爸：嗯？\p"
 	.string "哟，{PLAYER}！\p"
-	.string "有段时间没见了，不过你看起来……\n"
-	.string "变强了呢。\p"
+	.string "有段时间没见了，不过你看起来……变\n"
+	.string "强了呢。\p"
 	.string "至少我是这么觉得的，不过爸爸可还\n"
 	.string "没认输呢！\p"
 	.string "啊，对了，有东西要给你，这是一个\n"
@@ -387,8 +388,8 @@ PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
 
 PlayersHouse_1F_Text_PortsInSlateportLilycove:
 	.string "爸爸：唔，乘坐渡轮的船票？\p"
-	.string "我记得凯那市和水静市都有渡轮码头\n"
-	.string "。$"
+	.string "我记得凯那市和水静市都有渡轮码\n"
+	.string "头。$"
 
 PlayersHouse_1F_Text_BetterGetBackToGym:
 	.string "我该回橙华市道馆去了。\p"
@@ -414,8 +415,8 @@ PlayersHouse_1F_Text_LatiEmergencyNewsFlash:
 PlayersHouse_1F_Text_WhatColorDidTheySay:
 	.string "妈妈：{PLAYER}，你听到了\n"
 	.string "吗？\p"
-	.string "刚才新闻里说的宝可梦是什么颜色的\n"
-	.string "？$"
+	.string "刚才新闻里说的宝可梦是什么颜色\n"
+	.string "的？$"
 
 PlayersHouse_1F_Text_StillUnknownPokemon:
 	.string "妈妈：哎呀，这可真稀奇！居然还有\n"

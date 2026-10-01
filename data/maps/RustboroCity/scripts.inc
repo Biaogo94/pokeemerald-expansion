@@ -1035,15 +1035,15 @@ RustboroCity_Text_HeyThatsRustborosGymBadge:
 	.string "卡那兹市的是最漂亮的。$"
 
 RustboroCity_Text_YoureNewAroundHere:
-	.string "哦？你是谁？好像在附近没看到过你\n"
-	.string "。\p"
+	.string "哦？你是谁？好像在附近没看到过\n"
+	.string "你。\p"
 	.string "你是新转来宝可梦训练家学校的吗？$"
 
 RustboroCity_Text_GymLeaderIsntEasyWithFire:
 	.string "我挑战过道馆馆主，但是……\p"
 	.string "我的火属性宝可梦很难打赢他们……\p"
-	.string "火属性宝可梦被岩石属性宝可梦克制\n"
-	.string "……$"
+	.string "火属性宝可梦被岩石属性宝可梦克\n"
+	.string "制……$"
 
 RustboroCity_Text_MrBrineyWalksInTheTunnel:
 	.string "老水手哈奇住在海边的小屋里，\p"
@@ -1057,8 +1057,8 @@ RustboroCity_Text_MrBrineyLovesPeeko:
 
 RustboroCity_Text_WowYouHavePokemon:
 	.string "哇，你也带着宝可梦！\p"
-	.string "我长大以后也要带宝可梦一起去旅行\n"
-	.string "。$"
+	.string "我长大以后也要带宝可梦一起去旅\n"
+	.string "行。$"
 
 RustboroCity_Text_CatchRarePokemonIfIGoToSchool:
 	.string "宝可梦训练家学校！\p"
@@ -1087,8 +1087,8 @@ RustboroCity_Text_WaitDontTakeMyGoods:
 
 RustboroCity_Text_HelpMeIWasRobbed:
 	.string "啊，是你！\p"
-	.string "你是橙华森林里帮过我的那个训练家\n"
-	.string "！\p"
+	.string "你是橙华森林里帮过我的那个训练\n"
+	.string "家！\p"
 	.string "请再帮我一次吧！海洋队抢了我的东\n"
 	.string "西！我得把得文的物品拿回来！\p"
 	.string "否则……我会有大麻烦的。$"
@@ -1167,12 +1167,12 @@ RustboroCity_Text_RegisteredBrendan:
 
 RustboroCity_Text_BrendanPassedBrineyWantToBattle:
 	.string "祐树：对了，{PLAYER}，我\n"
-	.string "刚才在橙华森林路过哈奇老人的身旁\l"
-	.string "。\p"
+	.string "刚才在橙华森林路过哈奇老人的身\l"
+	.string "旁。\p"
 	.string "我猜他正准备回海边的小屋吧。\p"
 	.string "{PLAYER}，你的宝可梦图鉴\n"
-	.string "收集得怎么样了？已经登记了不少吗\l"
-	.string "？\p"
+	.string "收集得怎么样了？已经登记了不少\l"
+	.string "吗？\p"
 	.string "我的可是相当厉害哦。\p"
 	.string "要不要来一场对战，检验一下你成长\n"
 	.string "了多少？$"
@@ -1200,12 +1200,12 @@ RustboroCity_Text_BrendanMrBrineyHint:
 
 RustboroCity_Text_TunnelNearingCompletion:
 	.string "“便利隧道即将完工！”\p"
-	.string "……牌子上这么写着，但上面还有个\n"
-	.string "用红漆画了的大大的“X”……$"
+	.string "……牌子上这么写着，但上面还有个用\n"
+	.string "红漆画了的大大的“X”……$"
 
 RustboroCity_Text_DevonCorpSign:
 	.string "得文公司\p"
-	.string "“我们会为您提供一切日常必需品。\n"
+	.string "“我们会为您提供一切日常必需品。"
 	.string "”$"
 
 RustboroCity_Text_GymSign:
@@ -1218,8 +1218,7 @@ RustboroCity_Text_DevonCorpBranchOfficeSign:
 
 RustboroCity_Text_CitySign:
 	.string "卡那兹市\p"
-	.string "“探寻自然与科学\n"
-	.string "融合之道之城。”$"
+	.string "“探寻自然与科学融合之道之城。”$"
 
 RustboroCity_Text_TrainersSchoolSign:
 	.string "宝可梦训练家学校\p"
@@ -1229,8 +1228,8 @@ RustboroCity_Text_CuttersHouse:
 	.string "居合劈大叔的家$"
 
 RustboroCity_Text_DevelopedNewPokenavFeature:
-	.string "我最近一直在为宝可导航开发新功能\n"
-	.string "……\p"
+	.string "我最近一直在为宝可导航开发新功\n"
+	.string "能……\p"
 	.string "结果非常成功！\p"
 	.string "{PLAYER}，能让我看看社长\n"
 	.string "给你的宝可导航吗？$"
@@ -1256,7 +1255,7 @@ RustboroCity_Text_YouCanHave2On2Battle:
 	.string "知道吗？\p"
 	.string "即使你并未和其他训练家同行，也可\n"
 	.string "以进行2对2战斗。\p"
-	.string "如果你拥有2只以上宝可梦时被2个\n"
-	.string "训练家看到，他们会同时向你挑战。\p"
+	.string "如果你拥有2只以上宝可梦时被2个训\n"
+	.string "练家看到，他们会同时向你挑战。\p"
 	.string "你不觉得能独自打败2个训练家很厉\n"
 	.string "害吗？$"

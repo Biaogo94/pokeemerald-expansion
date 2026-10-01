@@ -1395,8 +1395,8 @@ PalletTown_ProfessorOaksLab_Text_OakChoosingCharmander::
 	.string "获得火属性宝可梦小火龙吗？$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingSquirtle::
-	.string "嗯！你选择了杰尼龟。它很值得培养\n"
-	.string "。\p"
+	.string "嗯！你选择了杰尼龟。它很值得培\n"
+	.string "养。\p"
 	.string "好的，{PLAYER} 你确定要\n"
 	.string "选择水属性宝可梦杰尼龟吗？$"
 
@@ -1432,8 +1432,8 @@ PalletTown_ProfessorOaksLab_Text_OakHaveSomethingForMe::
 	.string "你说什么？你有东西要给我？$"
 
 PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcel::
-	.string "{PLAYER}交出了大木的包裹\n"
-	.string "。$"
+	.string "{PLAYER}交出了大木的包\n"
+	.string "裹。$"
 
 PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrdered::
 	.string "啊！这是我订制的精灵球！\p"
@@ -1444,8 +1444,8 @@ PalletTown_ProfessorOaksLab_Text_OakHaveRequestForYouTwo::
 	.string "请求。$"
 
 PalletTown_ProfessorOaksLab_Text_OakPokedexOnDesk::
-	.string "那桌子上的是我的发明，宝可梦图鉴\n"
-	.string "！\p"
+	.string "那桌子上的是我的发明，宝可梦图\n"
+	.string "鉴！\p"
 	.string "它能自动记录你见过或收服的宝可梦\n"
 	.string "的资料。\p"
 	.string "它是一部高科技的百科全书！$"
@@ -1466,12 +1466,12 @@ PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
 	.string "具吧。$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedFivePokeBalls::
-	.string "{PLAYER}得到了5个精灵球\n"
-	.string "。$"
+	.string "{PLAYER}得到了5个精灵\n"
+	.string "球。$"
 
 PalletTown_ProfessorOaksLab_Text_OakExplainCatching::
-	.string "当野生宝可梦出现时，战斗就开始了\n"
-	.string "。\p"
+	.string "当野生宝可梦出现时，战斗就开始\n"
+	.string "了。\p"
 	.string "向它扔出一个精灵球就能试去着收服\n"
 	.string "它！\p"
 	.string "但是，这不一定会成功。\p"
@@ -1499,8 +1499,8 @@ PalletTown_ProfessorOaksLab_Text_OakAddedNothingToPokedex::
 	.string "梦，而且添加了一些资料。\p"
 	.string "那么，{PLAYER}，我来看看\n"
 	.string "你的宝可梦图鉴。\p"
-	.string "……怎么回事？你还没有添加任何新\n"
-	.string "的数据。\p"
+	.string "……怎么回事？你还没有添加任何新的\n"
+	.string "数据。\p"
 	.string "这个给你好了，希望你更努力些。$"
 
 PalletTown_ProfessorOaksLab_Text_OakComeSeeMeSometime::
@@ -1536,8 +1536,7 @@ PalletTown_ProfessorOaksLab_Text_EmailMessage::
 	.string "带上你最强的宝可梦，来测试你作为\n"
 	.string "训练家的真正实力吧！\p"
 	.string "宝可梦联盟本部石英高原\p"
-	.string "大木博士，请务必光临！.....\n"
-	.string ".$"
+	.string "大木博士，请务必光临！......$"
 
 PalletTown_ProfessorOaksLab_Text_StudyAsOaksAide::
 	.string "我作为大木博士的助手，也在研究宝\n"
@@ -1551,8 +1550,8 @@ PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMons::
 	.string "会告诉你宝可梦喜欢你的程度，\p"
 	.string "有时候，她甚至会帮你的宝可梦梳理\n"
 	.string "毛发。\p"
-	.string "这是一个秘密喔，请不要告诉任何人\n"
-	.string "。$"
+	.string "这是一个秘密喔，请不要告诉任何\n"
+	.string "人。$"
 
 PalletTown_ProfessorOaksLab_Text_OakIsGoingToHaveRadioShow::
 	.string "大木博士要有他自己的广播节目了。\p"
@@ -1571,8 +1570,8 @@ PalletTown_ProfessorOaksLab_Text_OakFavorToAskYouPlayer::
 	.string "你可要认真听好了。$"
 
 PalletTown_ProfessorOaksLab_Text_OakSightingsOfRareMons::
-	.string "最近，出现了很多珍贵的宝可梦品种\n"
-	.string "。\p"
+	.string "最近，出现了很多珍贵的宝可梦品\n"
+	.string "种。\p"
 	.string "我是在说我们在关都从来没见过的宝\n"
 	.string "可梦。\p"
 	.string "我想要自己去亲眼见识它们，但是我\n"
@@ -1592,8 +1591,8 @@ PalletTown_ProfessorOaksLab_Text_RivalJustLetMeHandleEverything::
 PalletTown_ProfessorOaksLab_Text_OakNeedYourHelpTooNeedToSeePokedexes::
 	.string "大木：我知道，我知道。我当然也需\n"
 	.string "要你的帮助。\p"
-	.string "现在，我要看看你们俩的宝可梦图鉴\n"
-	.string "。$"
+	.string "现在，我要看看你们俩的宝可梦图\n"
+	.string "鉴。$"
 
 PalletTown_ProfessorOaksLab_Text_OakTookBothPokedexUnits::
 	.string "大木博士拿了二人的宝可梦图鉴。$"
@@ -1622,8 +1621,8 @@ PalletTown_ProfessorOaksLab_Text_OakMustReallyWorkToFillPokedex::
 PalletTown_ProfessorOaksLab_Text_RivalIllCompleteThePokedex::
 	.string "{RIVAL}：冷静点，爷爷！可\n"
 	.string "别太激动了。\p"
-	.string "我会完成宝可梦图鉴的，你不用担心\n"
-	.string "。\p"
+	.string "我会完成宝可梦图鉴的，你不用担\n"
+	.string "心。\p"
 	.string "我想我首先要调查一之岛……\p"
 	.string "不管怎么说，我出发了！$"
 

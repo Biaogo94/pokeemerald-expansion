@@ -235,8 +235,8 @@ SilphCo_7F_EventScript_Grunt3::
 SilphCo_7F_Text_HaveMonForSavingUs::
 	.string "啊！你！你不是火箭队的吧！你是来\n"
 	.string "救我们吗？呃，谢谢！\p"
-	.string "我想把这个宝可梦送给你来表达感谢\n"
-	.string "。$"
+	.string "我想把这个宝可梦送给你来表达感\n"
+	.string "谢。$"
 
 SilphCo_7F_Text_ObtainedLaprasFromEmployee::
 	.string "{PLAYER}从西尔佛的员工处\n"
@@ -280,15 +280,15 @@ SilphCo_7F_Text_ThankYouSoMuch::
 	.string "太感谢你了！$"
 
 SilphCo_7F_Text_Grunt3Intro::
-	.string "嗯，哦！我闻到了一只小老鼠的味道\n"
-	.string "！$"
+	.string "嗯，哦！我闻到了一只小老鼠的味\n"
+	.string "道！$"
 
 SilphCo_7F_Text_Grunt3Defeat::
 	.string "看不见了！$"
 
 SilphCo_7F_Text_Grunt3PostBattle::
-	.string "你到处乱窜是不会找到我们的老大的\n"
-	.string "！$"
+	.string "你到处乱窜是不会找到我们的老大\n"
+	.string "的！$"
 
 SilphCo_7F_Text_JoshuaIntro::
 	.string "呵呵呵！\p"
@@ -308,8 +308,8 @@ SilphCo_7F_Text_Grunt1Defeat::
 	.string "哎咳！哥哥，我输了！$"
 
 SilphCo_7F_Text_Grunt1PostBattle::
-	.string "没关系。我的哥哥们会好好回报你的\n"
-	.string "！$"
+	.string "没关系。我的哥哥们会好好回报你\n"
+	.string "的！$"
 
 SilphCo_7F_Text_Grunt2Intro::
 	.string "一个少年入侵者？那一定就是你！$"
@@ -318,8 +318,8 @@ SilphCo_7F_Text_Grunt2Defeat::
 	.string "好吧！我输了！$"
 
 SilphCo_7F_Text_Grunt2PostBattle::
-	.string "在把我们的老大惹火之前赶快回家吧\n"
-	.string "！$"
+	.string "在把我们的老大惹火之前赶快回家\n"
+	.string "吧！$"
 
 SilphCo_7F_Text_RivalWhatKeptYou::
 	.string "{RIVAL}：你来的可真慢，\n"
@@ -344,8 +344,8 @@ SilphCo_7F_Text_RivalPostBattle::
 	.string "个宝可梦比较强以及它们是怎么进化\l"
 	.string "的！\p"
 	.string "哈哈我真是个天才啊\p"
-	.string "我准备去宝可梦联盟把四天王消灭掉\n"
-	.string "。\p"
+	.string "我准备去宝可梦联盟把四天王消灭\n"
+	.string "掉。\p"
 	.string "我将会成为世界上最强大的训练家！\p"
 	.string "{PLAYER}，嗯，祝你好运！\n"
 	.string "别翻白眼哦！哈哈！$"

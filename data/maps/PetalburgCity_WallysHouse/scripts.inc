@@ -82,8 +82,8 @@ PetalburgCity_WallysHouse_Text_WonderHowWallyIsDoing:
 PetalburgCity_WallysHouse_Text_PleaseExcuseUs:
 	.string "{PLAYER}{KUN}！原谅\n"
 	.string "我们这样拉你过来，\p"
-	.string "但是，自从我家满充去了绿茵镇之后\n"
-	.string "，他的身体好多了。\p"
+	.string "但是，自从我家满充去了绿茵镇之\n"
+	.string "后，他的身体好多了。\p"
 	.string "我们都欠你的情！\p"
 	.string "满充离开镇子前，是你陪他捕捉了一\n"
 	.string "只宝可梦对吗？\p"

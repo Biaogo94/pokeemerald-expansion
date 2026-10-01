@@ -404,8 +404,8 @@ ThreeIsland_Text_BossIsOnHisWay::
 	.string "终身难忘的机车秀！$"
 
 ThreeIsland_Text_GetOffIslandNow::
-	.string "什，什么！？想都别想！给我马上滚\n"
-	.string "！$"
+	.string "什，什么！？想都别想！给我马上\n"
+	.string "滚！$"
 
 ThreeIsland_Text_WhosGonnaMakeMe::
 	.string "谁想让我滚？$"
@@ -434,8 +434,8 @@ ThreeIsland_Text_OughtToBeThankingUs::
 	.string "试试赶我们走。$"
 
 ThreeIsland_Text_YouCowardsToughInPack::
-	.string "呃……你们这些废物……他们组队还\n"
-	.string "真厉害……$"
+	.string "呃……你们这些废物……他们组队还真厉\n"
+	.string "害……$"
 
 ThreeIsland_Text_WannaMakeSomethingOfYourStaring::
 	.string "你，干嘛盯着我看？你不知道这不礼\n"
@@ -446,8 +446,8 @@ ThreeIsland_Text_ThatsSmart::
 	.string "聪明。别多管闲事。$"
 
 ThreeIsland_Text_Biker1Intro::
-	.string "嘿，我欣赏你的胆量。明知会败给我\n"
-	.string "，还……$"
+	.string "嘿，我欣赏你的胆量。明知会败给\n"
+	.string "我，还……$"
 
 ThreeIsland_Text_Biker1Defeat::
 	.string "哇……这孩子是什么来头？！$"
@@ -481,8 +481,8 @@ ThreeIsland_Text_PaxtonIntro::
 	.string "我观察你很久了，你有些过分了哦。\p"
 	.string "你和他们是什么关系？朋友还是别的\n"
 	.string "什么？\p"
-	.string "我猜你是准备好为了他们跟我宣战了\n"
-	.string "。$"
+	.string "我猜你是准备好为了他们跟我宣战\n"
+	.string "了。$"
 
 ThreeIsland_Text_PaxtonDefeat::
 	.string "好吧！如你们所愿，我们会走的！\p"
@@ -494,12 +494,12 @@ ThreeIsland_Text_PaxtonPostBattle::
 
 ThreeIsland_Text_ThankYouOhYourMonGotHurt::
 	.string "谢谢！那些暴徒真是麻烦。\p"
-	.string "噢，看啊，你的宝可梦因为我受伤了\n"
-	.string "。$"
+	.string "噢，看啊，你的宝可梦因为我受伤\n"
+	.string "了。$"
 
 ThreeIsland_Text_GivenFullRestore::
-	.string "{PLAYER}获得了一个全复药\n"
-	.string "。$"
+	.string "{PLAYER}获得了一个全复\n"
+	.string "药。$"
 
 ThreeIsland_Text_OhYourBagIsFull::
 	.string "喔？你的背包满了。$"

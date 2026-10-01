@@ -123,8 +123,7 @@ Route35_Text_CamperElliotSeen:
 	.string "我要让我女朋友看看，我有多帅气！$"
 
 Route35_Text_CamperElliotBeaten:
-	.string "真希望你能故意输给我啊……\n"
-	.string ".$"
+	.string "真希望你能故意输给我啊…….$"
 
 Route35_Text_CamperElliotAfter:
 	.string "在女朋友面前丢大人了……$"

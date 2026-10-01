@@ -273,31 +273,28 @@ SlateportCity_PokemonFanClub_Text_LikeToSeeEnteredContestPokemon:
 	.string "的宝可梦……真想亲眼看看啊。$"
 
 SlateportCity_PokemonFanClub_Text_AllowMeToExamineYourPokemon:
-	.string "咳咳！看来你参加过宝可梦华丽大赛\n"
-	.string "！\p"
+	.string "咳咳！看来你参加过宝可梦华丽大\n"
+	.string "赛！\p"
 	.string "请务必让我看看你的培育成果！\p"
 	.string "看到其他训练家培育的宝可梦总让我\n"
 	.string "欣喜若狂！\p"
-	.string "被悉心照顾的宝可梦那幸福的表情…\n"
-	.string "…\p"
-	.string "培育宝可梦的训练家那温柔的眼神…\n"
-	.string "…\p"
+	.string "被悉心照顾的宝可梦那幸福的表情……\p"
+	.string "培育宝可梦的训练家那温柔的眼神……\p"
 	.string "光是想象就让我心潮澎湃！\p"
 	.string "啊！抱歉！请原谅我的喋喋不休！\p"
 	.string "请让我看看你的培育成果吧！$"
 
 SlateportCity_PokemonFanClub_Text_HowIsYourPokemonGrowing:
-	.string "你的宝可梦培育得如何？让我看看吧\n"
-	.string "。$"
+	.string "你的宝可梦培育得如何？让我看看\n"
+	.string "吧。$"
 
 SlateportCity_PokemonFanClub_Text_HmHmISee:
 	.string "唔，嗯……看来……$"
 
 SlateportCity_PokemonFanClub_Text_GiveMonMorePokeblocks:
-	.string "嗯……说不上差，\n"
-	.string "但也说不上好……\p"
-	.string "培育这只宝可梦，你得多花些心思\n"
-	.string "才行！\p"
+	.string "嗯……说不上差，但也说不上好……\p"
+	.string "培育这只宝可梦，你得多花些心思才\n"
+	.string "行！\p"
 	.string "比如说，多给它吃点\n"
 	.string "{POKEBLOCK}如何？$"
 
@@ -340,8 +337,8 @@ SlateportCity_PokemonFanClub_Text_NothingElseToGiveYou:
 	.string "培育出非常优秀的宝可梦的天赋！$"
 
 SlateportCity_PokemonFanClub_Text_ShowMePokemonThatLoveYou:
-	.string "我喜欢看到爱它们的训练家的宝可梦\n"
-	.string "。\p"
+	.string "我喜欢看到爱它们的训练家的宝可\n"
+	.string "梦。\p"
 	.string "宝可梦对训练家的感情非常敏感，\p"
 	.string "如果你用爱与细心照料你的宝可梦，\n"
 	.string "它们也会回报你的爱。\p"
@@ -365,8 +362,8 @@ SlateportCity_PokemonFanClub_Text_PokemonDontLikeFainting:
 	.string "换句话说，它们当然不会很喜欢你。$"
 
 SlateportCity_PokemonFanClub_Text_MonEnjoyedProtein:
-	.string "宝可梦喜欢训练家对它们使用道具吗\n"
-	.string "？\p"
+	.string "宝可梦喜欢训练家对它们使用道具\n"
+	.string "吗？\p"
 	.string "我把攻击增强剂给我的宝可梦时，它\n"
 	.string "显得相当开心。$"
 

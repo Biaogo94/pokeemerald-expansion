@@ -40,6 +40,6 @@ CliffEdgeGate_EventScript_CaveSign::
 
 CliffEdgeGate_Text_SignOpen:
 	.string "处处皆刺激！探险寻找野生宝可梦！\n"
-	.string "巴奥巴园长的狩猎地带现已盛大开业\l"
-	.string "！$"
+	.string "巴奥巴园长的狩猎地带现已盛大开\l"
+	.string "业！$"
 

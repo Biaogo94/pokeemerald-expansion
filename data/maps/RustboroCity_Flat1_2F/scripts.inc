@@ -89,13 +89,13 @@ RustboroCity_Flat1_2F_Text_HelloDoYouKnowFunnyPhrase:
 	.string "的都得从头学。\p"
 	.string "我现在有点麻烦，女儿文乃总是不爱\n"
 	.string "笑。\p"
-	.string "我想如果给她讲笑话她就会笑起来的\n"
-	.string "。\p"
+	.string "我想如果给她讲笑话她就会笑起来\n"
+	.string "的。\p"
 	.string "你知道什么有趣的故事或短语吗？$"
 
 RustboroCity_Flat1_2F_Text_BeenSayingXDoYouKnowBetterPhrase:
-	.string "我最近试过说“\n"
-	.string "{STR_VAR_1}”逗她笑，\p"
+	.string "我最近试过说\n"
+	.string "“{STR_VAR_1}”逗她笑，\p"
 	.string "你还知道什么更好点的短语吗？$"
 
 RustboroCity_Flat1_2F_Text_WonderfulLetsHearSuggestion:
@@ -104,8 +104,8 @@ RustboroCity_Flat1_2F_Text_WonderfulLetsHearSuggestion:
 
 RustboroCity_Flat1_2F_Text_OhIsThatRight:
 	.string "唉，是吗？\p"
-	.string "如果你想到什么好主意，我洗耳恭听\n"
-	.string "。$"
+	.string "如果你想到什么好主意，我洗耳恭\n"
+	.string "听。$"
 
 RustboroCity_Flat1_2F_Text_LetsGiveItATry2:
 	.string "啊，知道了。来试试吧？$"
@@ -122,20 +122,20 @@ RustboroCity_Flat1_2F_Text_LetsGiveItATry:
 RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll:
 	.string "{STR_VAR_1}\n"
 	.string "{STR_VAR_1}\p"
-	.string "唔……她根本不笑。也许文乃生来就\n"
-	.string "很严肃……$"
+	.string "唔……她根本不笑。也许文乃生来就很\n"
+	.string "严肃……$"
 
 RustboroCity_Flat1_2F_Text_ThinkOfMyOwnPhrase:
 	.string "唉，你也不知道什么好短语啊。那我\n"
 	.string "只能自己想一个了。\p"
-	.string "嗯……“{STR_VAR_1}”\n"
-	.string "怎么样？我们试试看。$"
+	.string "嗯……“{STR_VAR_1}”怎么\n"
+	.string "样？我们试试看。$"
 
 RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll2:
 	.string "{STR_VAR_1}\n"
 	.string "{STR_VAR_1}\p"
-	.string "唔……她根本不笑。也许文乃生来就\n"
-	.string "很严肃……$"
+	.string "唔……她根本不笑。也许文乃生来就很\n"
+	.string "严肃……$"
 
 RustboroCity_Flat1_2F_Text_OhYouDontKnowAny:
 	.string "唉，你也不知道什么好短语啊。看来\n"
@@ -151,7 +151,7 @@ RustboroCity_Flat1_2F_Text_ThankYouIllGiveYouWallpaper:
 	.string "我该做点什么报答你？\p"
 	.string "对了，我给你的电脑宝可梦寄放系统\n"
 	.string "里的盒子加些新的背景图片吧。\p"
-	.string "在选择背景图案的菜单中选择“朋友\n"
+	.string "在选择背景图案的菜单中选择“朋友"
 	.string "”，\p"
 	.string "就能连接到新的背景图片。$"
 

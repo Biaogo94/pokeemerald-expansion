@@ -15,13 +15,12 @@ OlivineCity_Cafe_EventScript_Jasmine::
 	end
 
 OlivineCity_Cafe_Text_Jasmine:
-	.string "哎呀……你好啊，\n"
-	.string "{PLAYER}。\p"
+	.string "哎呀……你好啊，{PLAYER}。\p"
 	.string "我面前的这些空盘子，其实不全是我\n"
 	.string "吃剩下的啦……\p"
 	.string "呃……\p"
-	.string "其实是之前坐在这里的人吃得太多了\n"
-	.string "......\p"
+	.string "其实是之前坐在这里的人吃得太多\n"
+	.string "了......\p"
 	.string "如果你还想再和我对战的话，请来金\n"
 	.string "黄市的格斗道场找我吧。$"
 

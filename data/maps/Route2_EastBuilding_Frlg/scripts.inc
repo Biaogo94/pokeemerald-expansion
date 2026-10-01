@@ -41,12 +41,12 @@ Route2_EastBuilding_EventScript_Rocker::
 Route2_EastBuilding_Text_GiveHM05IfSeen10Mons::
 	.string "嗨！还记得我吗？我是一个大木博士\n"
 	.string "的助手。\p"
-	.string "如果你的宝可梦图鉴收集了十个数据\n"
-	.string "，我会给你一个小奖品。\p"
+	.string "如果你的宝可梦图鉴收集了十个数\n"
+	.string "据，我会给你一个小奖品。\p"
 	.string "大木博士委托我带HM05给你。\p"
 	.string "{PLAYER}，我问问你。\p"
-	.string "你收集了十个不同的宝可梦数据了吗\n"
-	.string "？$"
+	.string "你收集了十个不同的宝可梦数据了\n"
+	.string "吗？$"
 
 Route2_EastBuilding_Text_GreatHereYouGo::
 	.string "太好了！你已经拥有了\n"

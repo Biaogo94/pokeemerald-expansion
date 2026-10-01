@@ -244,8 +244,8 @@ BlackthornGym_Text_ClairIntroText:
 
 BlackthornGym_Text_ClairWinText:
     .string "我输了？\p"
-    .string "难以置信。一定是有什么地方搞错了\n"
-    .string "......$"
+    .string "难以置信。一定是有什么地方搞错\n"
+    .string "了......$"
 
 BlackthornGym_Text_ClairText_GoToDragonsDen:
     .string "我才不承认呢。\p"
@@ -298,8 +298,8 @@ BlackthornGym_Text_ClairRematchText:
 BlackthornGym_Text_ClairRematchDefeatText:
     .string "我输了？\p"
     .string "又输了？\p"
-    .string "真不敢相信。一定是哪里搞错了..\n"
-    .string "....$"
+    .string "真不敢相信。一定是哪里搞错了...\n"
+    .string "...$"
 
 BlackthornGym_Text_CooltrainermCodySeenText:
     .string "我才刚被允许使用龙属性宝可梦呢！$"
@@ -312,18 +312,16 @@ BlackthornGym_Text_CooltrainermCodyAfterBattleText:
     .string "父的许可后才能使用龙宝可梦。$"
 
 BlackthornGym_Text_CooltrainerfFranSeenText:
-    .string "我可不能让无名训练家从我这里过去\n"
-    .string "！\p"
+    .string "我可不能让无名训练家从我这里过\n"
+    .string "去！\p"
     .string "要是放你过去，小椿大人会暴跳如雷\n"
     .string "的！$"
 
 BlackthornGym_Text_CooltrainerfFranBeatenText:
-    .string "呜呜……我输了……\n"
-    .string ".$"
+    .string "呜呜……我输了…….$"
 
 BlackthornGym_Text_CooltrainerfFranAfterBattleText:
-    .string "哎呀……小椿大人要生气了\n"
-    .string "......$"
+    .string "哎呀……小椿大人要生气了......$"
 
 BlackthornGym_Text_CooltrainermPaulSeenText:
     .string "第一次跟龙交手吗？\p"
@@ -392,16 +390,15 @@ BlackthornGym_Text_GuideText:
 
 BlackthornGym_Text_GuideGotoDragonsDen:
 	.string "能打赢小椿，你真是太棒了！\p"
-	.string "不过，她输了以后脾气有点倔...\n"
-	.string "...\p"
+	.string "不过，她输了以后脾气有点倔......\p"
 	.string "看来要想拿到道馆徽章，你得去一趟\n"
 	.string "龙穴才行了！$"
 
 BlackthornGym_Text_GuideWinText:
     .string "你能打败小椿真是太厉害了！\p"
     .string "接下来就只剩下挑战宝可梦联盟了。\p"
-    .string "你离成为宝可梦冠军只差一步之遥了\n"
-    .string "！$"
+    .string "你离成为宝可梦冠军只差一步之遥\n"
+    .string "了！$"
 
 
 BlackthornGym_EventScript_Statue::

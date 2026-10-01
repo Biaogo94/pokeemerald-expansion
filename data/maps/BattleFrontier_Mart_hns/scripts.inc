@@ -52,9 +52,8 @@ BattleFrontier_Mart_Text_ChaperonGrandson_hns:
 BattleFrontier_Mart_Text_ProteinMakeNiceGift_hns:
 	.string "老头子，你觉得这个怎么样？拿来当\n"
 	.string "礼物不是很棒吗？\p"
-	.string "这是……蛋……白\n"
-	.string "……质？听起来很好吃对吧\l"
-	.string "？$"
+	.string "这是……蛋……白……质？听起来很好吃对\n"
+	.string "吧？$"
 
 BattleFrontier_Mart_Text_FacilitiesDontAllowItems_hns:
 	.string "对战开拓区的许多设施在对战中都是\n"

@@ -42,8 +42,8 @@ LavenderTown_Mart_Text_SearchingForStatRaiseItems::
 	.string "我正在寻找能提升宝可梦战斗力的物\n"
 	.string "品。\p"
 	.string "那些物品能在一场战斗中有效。\p"
-	.string "力量强化 防御提升 速度强化 和\n"
-	.string "特攻提升都是我在寻找的。\p"
+	.string "力量强化 防御提升 速度强化 和特\n"
+	.string "攻提升都是我在寻找的。\p"
 	.string "你知道在哪儿能得到它们吗？$"
 
 LavenderTown_Mart_Text_DidYouBuyRevives::
@@ -57,7 +57,7 @@ LavenderTown_Mart_Text_TrainerDuosCanChallengeYou::
 	.string "梦来战斗。$"
 
 LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000::
-	.string "この　あいだ　やまおくで\n"
-	.string "きんのたまを　ひろい　ましてね！\p"
-	.string "つかえない　しなもの　ですが\n"
-	.string "うったら　なんと　5000¥でした$"
+	.string "この　あいだ　やまおくできんのた\n"
+	.string "まを　ひろい　ましてね！\p"
+	.string "つかえない　しなもの　ですがうっ\n"
+	.string "たら　なんと　5000¥でした$"

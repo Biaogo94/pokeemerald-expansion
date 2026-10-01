@@ -41,11 +41,11 @@ MauvilleCity_PokemonCenter_1F_Text_ManOverThereSaysWeirdThings:
 MauvilleCity_PokemonCenter_1F_Text_MyDataUpdatedFromRecordCorner:
 	.string "我去联机俱乐部的记录角时，武斗镇\n"
 	.string "的流行词的资料就更新了。\p"
-	.string "现在这部分资料和我朋友的一模一样\n"
-	.string "！$"
+	.string "现在这部分资料和我朋友的一模一\n"
+	.string "样！$"
 
 MauvilleCity_PokemonCenter_1F_Text_RecordCornerSoundsFun:
 	.string "宝可梦中心楼上开了个联机俱乐部，\p"
-	.string "不知道是干什么的，但听起来挺好玩\n"
-	.string "。我要去看看！$"
+	.string "不知道是干什么的，但听起来挺好\n"
+	.string "玩。我要去看看！$"
 

@@ -62,16 +62,16 @@ FallarborTown_Text_RegionKnownForMeteors:
 	.string "掉下来砸成的。$"
 
 FallarborTown_Text_MyPreciousAzurill:
-	.string "来啊！来看看！这是我珍贵的露力丽\n"
-	.string "！\p"
+	.string "来啊！来看看！这是我珍贵的露力\n"
+	.string "丽！\p"
 	.string "滑滑软软的，多漂亮！$"
 
 FallarborTown_Text_Azurill:
 	.string "露力丽：露力露。$"
 
 FallarborTown_Text_HaveYouChallengedFlannery:
-	.string "你挑战过釜炎镇道馆的馆主亚莎了吗\n"
-	.string "？\p"
+	.string "你挑战过釜炎镇道馆的馆主亚莎了\n"
+	.string "吗？\p"
 	.string "那女孩的爷爷非常出名，他曾是宝可\n"
 	.string "梦联盟的四天王之一，\p"
 	.string "如今亚莎也成长为一个出色的训练家\n"

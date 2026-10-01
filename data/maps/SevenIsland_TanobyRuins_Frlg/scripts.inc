@@ -8,14 +8,14 @@ SevenIsland_TanobyRuins_Text_BrandonDefeat::
 	.string "那是多余的。你不用这么粗鲁。$"
 
 SevenIsland_TanobyRuins_Text_BrandonPostBattle::
-	.string "阿斯卡纳遗迹可以追溯到1500年\n"
-	.string "以前。\p"
+	.string "阿斯卡纳遗迹可以追溯到1500年以\n"
+	.string "前。\p"
 	.string "但是它为什么会被建造出来仍然是一\n"
 	.string "个谜。$"
 
 SevenIsland_TanobyRuins_Text_BenjaminIntro::
-	.string "据说有一只神秘的宝可梦在里面沉睡\n"
-	.string "。$"
+	.string "据说有一只神秘的宝可梦在里面沉\n"
+	.string "睡。$"
 
 SevenIsland_TanobyRuins_Text_BenjaminDefeat::
 	.string "我不是很擅长战斗。$"

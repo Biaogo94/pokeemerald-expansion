@@ -202,8 +202,8 @@ BlackthornGrampsRefusesEntryText:
 	.string "请回吧。$"
 
 BlackthornGrampsGrantsEntryText:
-	.string "既然小椿允许了，她的祖父--也就\n"
-	.string "是我们的长老想必也是。\p"
+	.string "既然小椿允许了，她的祖父--也就是\n"
+	.string "我们的长老想必也是。\p"
 	.string "你可以进去了。$"
 
 BlackBeltText_VoicesInMyHead:
@@ -211,8 +211,8 @@ BlackBeltText_VoicesInMyHead:
 	.string "咦？原来是我在听收音机啊！$"
 
 BlackthornCooltrainerF1Text:
-	.string "你是打算让你的宝可梦回忆起招式吗\n"
-	.string "？$"
+	.string "你是打算让你的宝可梦回忆起招式\n"
+	.string "吗？$"
 
 BlackthornYoungsterText:
 	.string "所有的龙属性大师，都是出自烟墨市\n"
@@ -229,8 +229,7 @@ BlackthornCity_SantosGivesGiftText:
 BlackthornCity_SantosGaveGiftText:
 	.string "土夫：......\p"
 	.string "诅咒之符……\p"
-	.string "能提升幽灵属性招式的威力……\n"
-	.string "..\p"
+	.string "能提升幽灵属性招式的威力……..\p"
 	.string "可别被吓到了……$"
 
 BlackthornCity_SantosSaturdayText:

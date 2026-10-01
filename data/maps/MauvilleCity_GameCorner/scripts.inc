@@ -952,39 +952,35 @@ MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins:
 
 MauvilleCity_GameCorner_Text_WereYouLookingForCoins:
 	.string "您要买代币吗？\p"
-	.string "¥1000可以买50枚。您要买一\n"
-	.string "些吗？$"
+	.string "¥1000可以买50枚。您要买一些吗？$"
 
 MauvilleCity_GameCorner_Text_ThankYouHereAreYourCoins:
 	.string "谢谢惠顾！这是您的代币！$"
 
 MauvilleCity_GameCorner_Text_DontHaveEnoughMoneyFor50:
-	.string "呃……你的钱好像\n"
-	.string "不够买金币……\p"
-	.string "请至少带上1000日元\n"
-	.string "再来吧！$"
+	.string "呃……你的钱好像不够买金币……\p"
+	.string "请至少带上1000日元再来吧！$"
 
 MauvilleCity_GameCorner_Text_DontHaveEnoughMoney:
 	.string "呃……您的现金似乎不够……$"
 
 MauvilleCity_GameCorner_Text_NoRoomFor50Coins:
-	.string "哎呀！你的金币袋已经满了，\n"
-	.string "买不了更多金币了！\p"
-	.string "去满金游戏城玩玩，或者先把金币\n"
-	.string "兑换成奖品，\l"
-	.string "再回来吧！$"
+	.string "哎呀！你的金币袋已经满了，买不了\n"
+	.string "更多金币了！\p"
+	.string "去满金游戏城玩玩，或者先把金币兑\n"
+	.string "换成奖品，再回来吧！$"
 
 MauvilleCity_GameCorner_Text_NoRoomForCoins:
-	.string "咦？你的代币盒装不下那么多代币呢\n"
-	.string "......$"
+	.string "咦？你的代币盒装不下那么多代币\n"
+	.string "呢......$"
 
 MauvilleCity_GameCorner_Text_DontNeedCoinsThen:
-	.string "哦……您现在不需要代币吗？那么，\n"
-	.string "祝您旅途愉快！$"
+	.string "哦……您现在不需要代币吗？那么，祝\n"
+	.string "您旅途愉快！$"
 
 MauvilleCity_GameCorner_Text_ThanksBuyCoins:
-	.string "感谢购买代币！祝你的冒险一切顺利\n"
-	.string "！$"
+	.string "感谢购买代币！祝你的冒险一切顺\n"
+	.string "利！$"
 
 MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
 	.string "欢迎！\p"
@@ -1037,8 +1033,8 @@ MauvilleCity_GameCorner_Text_DontBeNegative:
 	.string "哎，别急着拒绝！你可以拿啊！$"
 
 MauvilleCity_GameCorner_Text_CantWinJackpot:
-	.string "有个奖品我很想要，但我总不能连胜\n"
-	.string "。$"
+	.string "有个奖品我很想要，但我总不能连\n"
+	.string "胜。$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseGoNextDoor:
 	.string "喂，孩子，你要想在这儿玩就得有个\n"
@@ -1074,10 +1070,9 @@ MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed:
 	.string "玩老虎机最多可以用3枚代币。$"
 
 MauvilleCity_GameCorner_Text_DifficultToStopOn7:
-	.string "要让它正好停在“7”上实在太难了\n"
-	.string "。\p"
-	.string "如果转盘时正好停在“7”上，就能\n"
-	.string "得到额外的代币奖励。$"
+	.string "要让它正好停在“7”上实在太难了。\p"
+	.string "如果转盘时正好停在“7”上，就能得\n"
+	.string "到额外的代币奖励。$"
 
 MauvilleCity_GameCorner_Text_HeresSomeSlotsInfo:
 	.string "给你些关于老虎机的建议吧。\p"
@@ -1085,7 +1080,7 @@ MauvilleCity_GameCorner_Text_HeresSomeSlotsInfo:
 	.string "越多\p"
 	.string "1回最多可以有5次转盘的机会……\p"
 	.string "有可能得到4次小奖和1次大奖，\p"
-	.string "这样总共660枚代币，但那太难了\n"
+	.string "这样总共660枚代币，但那太难了"
 	.string "。$"
 
 MauvilleCity_GameCorner_Text_CantPlayWithNoCoinCase:

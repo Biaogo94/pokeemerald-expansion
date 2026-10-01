@@ -285,6 +285,6 @@ Route118_Text_RouteSignMauville:
 	.string "{LEFT_ARROW}紫堇市$"
 
 Route118_Text_RouteSign119:
-	.string "118号道路{UP_ARROW}\n"
-	.string "119号道路$"
+	.string "118号道路{UP_ARROW}119\n"
+	.string "号道路$"
 

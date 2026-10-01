@@ -62,8 +62,8 @@ Route21_North_Text_LilPostBattle::
 	.string "千沙：我累了。现在还不能回家吗？$"
 
 Route21_North_Text_LilNotEnoughMons::
-	.string "千沙：呃？战斗？我不能一个人战斗\n"
-	.string "。带来两只宝可梦吧？$"
+	.string "千沙：呃？战斗？我不能一个人战\n"
+	.string "斗。带来两只宝可梦吧？$"
 
 Route21_North_Text_IanIntro::
 	.string "阿胜：我姐姐练习的太少了，所以我\n"
@@ -77,5 +77,5 @@ Route21_North_Text_IanPostBattle::
 	.string "你这样是不会减肥的！$"
 
 Route21_North_Text_IanNotEnoughMons::
-	.string "阿胜：我们希望来一场2对2的战斗\n"
-	.string "。所以你能带两只宝可梦来吗？$"
+	.string "阿胜：我们希望来一场2对2的战斗。\n"
+	.string "所以你能带两只宝可梦来吗？$"

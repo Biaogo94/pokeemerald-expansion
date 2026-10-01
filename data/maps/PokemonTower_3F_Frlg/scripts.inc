@@ -23,8 +23,8 @@ PokemonTower_3F_Text_HopeDefeat::
 	.string "哗！得救了！$"
 
 PokemonTower_3F_Text_HopePostBattle::
-	.string "用西尔佛观测镜可以看清鬼的真面目\n"
-	.string "！$"
+	.string "用西尔佛观测镜可以看清鬼的真面\n"
+	.string "目！$"
 
 PokemonTower_3F_Text_CarlyIntro::
 	.string "呵呵呵……咔哇哇哇哇哈！$"
@@ -42,6 +42,6 @@ PokemonTower_3F_Text_PatriciaDefeat::
 	.string "呃！幽灵终于消失了！！$"
 
 PokemonTower_3F_Text_PatriciaPostBattle::
-	.string "上面的人……他们一定被鬼迷心窍了\n"
+	.string "上面的人……他们一定被鬼迷心窍了"
 	.string "。$"
 

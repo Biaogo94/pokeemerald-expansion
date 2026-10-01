@@ -96,8 +96,8 @@ LavenderTown_VolunteerPokemonHouse_Text_MrFujiWasPrayingForCubonesMother::
 LavenderTown_VolunteerPokemonHouse_Text_MrFujiLooksAfterOrphanedMons::
 	.string "这是富士老人的家。\p"
 	.string "他真的非常和蔼。\p"
-	.string "他照顾那些被遗弃的和孤独的宝可梦\n"
-	.string "。$"
+	.string "他照顾那些被遗弃的和孤独的宝可\n"
+	.string "梦。$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MonsNiceToHug::
 	.string "太温馨了！宝可梦靠在一起真美好！$"

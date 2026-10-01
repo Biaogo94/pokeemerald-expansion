@@ -99,18 +99,18 @@ SaffronCity_Gym_Text_SabrinaIntro::
 	.string "我能预感到你的到来。\p"
 	.string "当我还是个小女孩的时候，我拥有了\n"
 	.string "超能力。\p"
-	.string "那个早上我拿起汤勺使它弯曲了过来\n"
-	.string "。\p"
-	.string "虽然我厌恶暴力，但如果你是认真的\n"
-	.string "，我是不会手下留情的！\l"
+	.string "那个早上我拿起汤勺使它弯曲了过\n"
+	.string "来。\p"
+	.string "虽然我厌恶暴力，但如果你是认真\n"
+	.string "的，我是不会手下留情的！\l"
 	.string "{PLAY_BGM}\l"
 	.string "{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 SaffronCity_Gym_Text_SabrinaDefeat::
 	.string "真是惊讶，我竟然输了！不过，输了\n"
 	.string "就是输了。\p"
-	.string "我承认，我没有用尽全力来取得胜利\n"
-	.string "。\p"
+	.string "我承认，我没有用尽全力来取得胜\n"
+	.string "利。\p"
 	.string "为了嘉奖你的胜利，给予你这枚金黄\n"
 	.string "徽章。$"
 
@@ -120,8 +120,8 @@ SaffronCity_Gym_Text_SabrinaPostBattle::
 	.string "意识到这一点罢了。$"
 
 SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis::
-	.string "金黄徽章能让70级以下的宝可梦听\n"
-	.string "从你的命令。\p"
+	.string "金黄徽章能让70级以下的宝可梦听从\n"
+	.string "你的命令。\p"
 	.string "强大的宝可梦会更具有野性，会在战\n"
 	.string "斗中无视你的命令。\p"
 	.string "为了避免这个问题，就不要把你的宝\n"
@@ -141,8 +141,8 @@ SaffronCity_Gym_Text_BagFullOfOtherItems::
 	.string "你的背包装满了其它道具。$"
 
 SaffronCity_Gym_Text_AmandaIntro::
-	.string "娜姿比我更年轻。但是我依然尊敬她\n"
-	.string "。$"
+	.string "娜姿比我更年轻。但是我依然尊敬\n"
+	.string "她。$"
 
 SaffronCity_Gym_Text_AmandaDefeat::
 	.string "做得还不够好！$"
@@ -188,8 +188,8 @@ SaffronCity_Gym_Text_TyronPostBattle::
 	.string "娜姿轻松地打败了隔壁的空手大王。$"
 
 SaffronCity_Gym_Text_TashaIntro::
-	.string "你和我，我们的宝可梦必须战上一场\n"
-	.string "！$"
+	.string "你和我，我们的宝可梦必须战上一\n"
+	.string "场！$"
 
 SaffronCity_Gym_Text_TashaDefeat::
 	.string "最终还是我败了！$"
@@ -212,10 +212,10 @@ SaffronCity_Gym_Text_CameronPostBattle::
 	.string "就把它们简单地合并了。$"
 
 SaffronCity_Gym_Text_PrestonIntro::
-	.string "金黄宝可梦道馆以超能力训练而闻名\n"
-	.string "。\p"
-	.string "你想见娜姿，对吗？我已经预感到了\n"
-	.string "！$"
+	.string "金黄宝可梦道馆以超能力训练而闻\n"
+	.string "名。\p"
+	.string "你想见娜姿，对吗？我已经预感到\n"
+	.string "了！$"
 
 SaffronCity_Gym_Text_PrestonDefeat::
 	.string "哇啊！$"

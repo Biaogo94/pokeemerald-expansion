@@ -32,8 +32,8 @@ Route20_EventScript_SeafoamIslandsSign::
 	end
 
 Route20_Text_BarryIntro::
-	.string "这儿的水很浅。有很多人在这儿游泳\n"
-	.string "。$"
+	.string "这儿的水很浅。有很多人在这儿游\n"
+	.string "泳。$"
 
 Route20_Text_BarryDefeat::
 	.string "扑通！$"
@@ -53,8 +53,8 @@ Route20_Text_ShirleyPostBattle::
 	.string "这座岛下有个巨大的洞穴。$"
 
 Route20_Text_TiffanyIntro::
-	.string "我喜欢和鱼儿们一起飘游在波浪之中\n"
-	.string "。$"
+	.string "我喜欢和鱼儿们一起飘游在波浪之\n"
+	.string "中。$"
 
 Route20_Text_TiffanyDefeat::
 	.string "哟！$"
@@ -83,8 +83,8 @@ Route20_Text_DeanPostBattle::
 	.string "是我的！$"
 
 Route20_Text_DarrinIntro::
-	.string "你为什么骑着宝可梦？你不会游泳吗\n"
-	.string "？$"
+	.string "你为什么骑着宝可梦？你不会游泳\n"
+	.string "吗？$"
 
 Route20_Text_DarrinDefeat::
 	.string "哎哟！完了！$"
@@ -124,8 +124,8 @@ Route20_Text_MissyPostBattle::
 	.string "那儿现在叫做宝可梦屋。$"
 
 Route20_Text_MelissaIntro::
-	.string "在红莲西方，有一个宝可梦的研究所\n"
-	.string "。\p"
+	.string "在红莲西方，有一个宝可梦的研究\n"
+	.string "所。\p"
 	.string "我的爸爸在那儿工作。$"
 
 Route20_Text_MelissaDefeat::

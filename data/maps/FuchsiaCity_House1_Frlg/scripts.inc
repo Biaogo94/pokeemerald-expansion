@@ -25,8 +25,8 @@ FuchsiaCity_House1_Text_WardenIsOldHasFalseTeeth::
 FuchsiaCity_House1_Text_BillIsMyGrandson::
 	.string "嗯？你见过正辉了？\p"
 	.string "他是我的孙子！\p"
-	.string "他总是喜欢收藏东西，像个孩子一样\n"
-	.string "！$"
+	.string "他总是喜欢收藏东西，像个孩子一\n"
+	.string "样！$"
 
 FuchsiaCity_House1_Text_BillFilesHisOwnMonData::
 	.string "正辉将他的宝可梦的资料登陆在了电\n"

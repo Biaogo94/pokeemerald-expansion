@@ -274,8 +274,8 @@ CeruleanGym_Text_SwimmerfBrianaSeen:
 	.string "可别被我优雅的泳姿扰乱了心神哦。$"
 
 CeruleanGym_Text_SwimmerfBrianaBeaten:
-	.string "呜，你居然这么从容地就解决了我。\n"
-	.string ".....$"
+	.string "呜，你居然这么从容地就解决了我"
+	.string "。.....$"
 
 CeruleanGym_Text_SwimmerfBrianaAfter:
 	.string "打赢了我可别太得意忘形。\p"

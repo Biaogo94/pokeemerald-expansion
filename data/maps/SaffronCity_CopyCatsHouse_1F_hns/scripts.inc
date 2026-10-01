@@ -30,8 +30,7 @@ CopycatsHouse1F_Text_PokefanM:
 	.string "“模仿少女”呢。$"
 
 CopycatsHouse1F_Text_PokefanF:
-	.string "我女儿太以自我为中心了……\n"
-	.string ".\p"
+	.string "我女儿太以自我为中心了…….\p"
 	.string "所以她朋友少得可怜。$"
 
 CopycatsHouse1F_Text_PokefanF_ReturnedPart:

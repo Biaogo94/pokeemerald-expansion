@@ -307,9 +307,9 @@ Alola_Ulaula_BattlePalossand_Text_0:
 	.string "壶壶！$"
 
 Alola_Ulaula_MtLanikalaSign_Text_0:
-	.string "当地人亲切地称这座山为拉纳基拉山\n"
-	.string "，因为它是阿罗拉群岛中最高的山峰\l"
-	.string "。\p"
+	.string "当地人亲切地称这座山为拉纳基拉\n"
+	.string "山，因为它是阿罗拉群岛中最高的山\l"
+	.string "峰。\p"
 	.string "至于这座山真正的名字，早已随着岁\n"
 	.string "月流逝被人们遗忘了。$"
 
@@ -343,12 +343,12 @@ Alola_Ulaula_TrainerBattleYoungster_Text_0:
 	.string "拉山的人！$"
 
 Alola_Ulaula_TrainerBattleYoungster_Text_1:
-	.string "这里甚至都不是真正的拉纳基拉山。\n"
-	.string ".....$"
+	.string "这里甚至都不是真正的拉纳基拉山"
+	.string "。.....$"
 
 Alola_Ulaula_TrainerBattleYoungster_Text_2:
-	.string "老爸从没告诉过我这座山真正的名字\n"
-	.string "。\p"
+	.string "老爸从没告诉过我这座山真正的名\n"
+	.string "字。\p"
 	.string "我们一直都管它叫拉纳基拉山。$"
 
 Alola_Ulaula_TrainerBattleHiker_Text_0:
@@ -356,12 +356,11 @@ Alola_Ulaula_TrainerBattleHiker_Text_0:
 	.string "很有两下子吧！$"
 
 Alola_Ulaula_TrainerBattleHiker_Text_1:
-	.string "呜呃……我真该更刻苦训练\n"
-	.string "的……$"
+	.string "呜呃……我真该更刻苦训练的……$"
 
 Alola_Ulaula_TrainerBattleHiker_Text_2:
-	.string "乌拉乌拉岛可是徒步旅行的绝佳去处\n"
-	.string "！\p"
+	.string "乌拉乌拉岛可是徒步旅行的绝佳去\n"
+	.string "处！\p"
 	.string "当地人称这座山为拉纳基拉山，因为\n"
 	.string "它是阿罗拉群岛中最高的山峰！$"
 
@@ -370,8 +369,7 @@ Alola_Ulaula_TrainerBattleCooltrainer_Text_0:
 	.string "一场，转移一下注意力吧！$"
 
 Alola_Ulaula_TrainerBattleCooltrainer_Text_1:
-	.string "真该带个空气清新剂来的……\n"
-	.string ".$"
+	.string "真该带个空气清新剂来的…….$"
 
 Alola_Ulaula_TrainerBattleCooltrainer_Text_2:
 	.string "如果你打算进那个洞窟，最好先把鼻\n"
@@ -596,8 +594,8 @@ Alola_Ulaula_Text_MoveTutorIntro:
 	.string "是其他人让你来这儿的吗？他们告诉\n"
 	.string "你我是精通宝可梦招式的大师了吗？\p"
 	.string "..................\p"
-	.string "我可以按群岛的方式传授你的宝可梦\n"
-	.string "，不过嘛，得先收一点点费用。\p"
+	.string "我可以按群岛的方式传授你的宝可\n"
+	.string "梦，不过嘛，得先收一点点费用。\p"
 	.string "价格是5个心之鳞片。\p"
 	.string "你带来了吗？$"
 
@@ -614,8 +612,8 @@ Alola_Ulaula_Text_MoveTutorChoose:
 	.string "你想学哪个招式？$"
 
 Alola_Ulaula_Text_MoveTutorConfirm:
-	.string "想要学习{STR_VAR_1}吗\n"
-	.string "？$"
+	.string "想要学习{STR_VAR_1}\n"
+	.string "吗？$"
 
 Alola_Ulaula_Text_MoveTutorWhichMon:
 	.string "要让哪只宝可梦学习？$"

@@ -410,8 +410,8 @@ VermilionCity_Gym_Text_SwitchUnderTrashFirstLockOpened::
     .string "第1道电子锁打开了！$"
 
 VermilionCity_Gym_Text_SecondLockOpened::
-    .string "第2道电子锁打开了！电动门开启了\n"
-    .string "！$"
+    .string "第2道电子锁打开了！电动门开启\n"
+    .string "了！$"
 
 VermilionCity_Gym_Text_OnlyTrashLocksWereReset::
     .string "不对！这里只有垃圾。\p"

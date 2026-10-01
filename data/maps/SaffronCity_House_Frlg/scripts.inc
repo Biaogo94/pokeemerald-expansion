@@ -24,8 +24,8 @@ SaffronCity_House_EventScript_Letter::
 	end
 
 SaffronCity_House_Text_DontLookAtMyLetter::
-	.string "……感谢你的来信。希望能很快再次\n"
-	.string "见面！\p"
+	.string "……感谢你的来信。希望能很快再次见\n"
+	.string "面！\p"
 	.string "……嘿！别看我的信！$"
 
 SaffronCity_House_Text_Pidgey::
@@ -39,6 +39,6 @@ SaffronCity_House_Text_ExplainPPUp::
 	.string "我得到了作为礼物的PP提升剂。\p"
 	.string "它是用来增加宝可梦技能的PP上限\n"
 	.string "的。\p"
-	.string "应该把它用在PP很少但威力很大的\n"
-	.string "技能上。$"
+	.string "应该把它用在PP很少但威力很大的技\n"
+	.string "能上。$"
 

@@ -18,7 +18,7 @@ FuchsiaCity_SafariZone_Office_EventScript_Worker4::
 	end
 
 FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke::
-	.string "我们给园长起了个外号叫“呆呆兽”\n"
+	.string "我们给园长起了个外号叫“呆呆兽”"
 	.string "。\p"
 	.string "你想象一下，他发起呆来的样子，像\n"
 	.string "极了一只呆呆兽。$"

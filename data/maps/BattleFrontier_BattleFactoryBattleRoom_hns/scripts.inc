@@ -243,17 +243,16 @@ BattleFrontier_BattleFactoryBattleRoom_Text_GetAMoveOn_hns:
 	.string "喂、喂！动作快点！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead_hns:
-	.string "嘿，我叫达拉！基本上这里由我管辖\n"
-	.string "，所以我是这里的工厂头目！\p"
+	.string "嘿，我叫达拉！基本上这里由我管\n"
+	.string "辖，所以我是这里的工厂头目！\p"
 	.string "我看过你的交换对战记录了。\p"
 	.string "虽然能看出你的思路，但你的脑子还\n"
 	.string "是太死板了！\p"
 	.string "听好了，懂吗？知识可不光是看书或\n"
 	.string "是死做案头工作。\p"
-	.string "光做那些事情……根本就毫\n"
-	.string "无用处！\p"
-	.string "你得用心和身体去亲身体会，明白吗\n"
-	.string "？\p"
+	.string "光做那些事情……根本就毫无用处！\p"
+	.string "你得用心和身体去亲身体会，明白\n"
+	.string "吗？\p"
 	.string "我和你一样，在相同的条件下跟你对\n"
 	.string "决。\p"
 	.string "我也会使用租借的宝可梦！$"
@@ -270,8 +269,7 @@ BattleFrontier_BattleFactoryBattleRoom_Text_ReceivedKnowledgeSymbol_hns:
 	.string "知识象征被刻在了开拓区通行证上！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NextTimeNoHoldsBarred_hns:
-	.string "嘿……你这小子还挺机灵的\n"
-	.string "嘛……\p"
+	.string "嘿……你这小子还挺机灵的嘛……\p"
 	.string "下次我可要动真格的了。绝不留情，\n"
 	.string "懂吗？\p"
 	.string "你可要好好保持钻研啊！$"
@@ -289,10 +287,10 @@ BattleFrontier_BattleFactoryBattleRoom_Text_AllRightBringItOn_hns:
 	.string "好嘞！放马过来吧！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass_hns:
-	.string "达拉：搞什么……你已经远\n"
-	.string "远超出我的水平了啊！\p"
-	.string "真是的！把开拓通行证拿来让我看看\n"
-	.string "！$"
+	.string "达拉：搞什么……你已经远远超出我的\n"
+	.string "水平了啊！\p"
+	.string "真是的！把开拓通行证拿来让我看\n"
+	.string "看！$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_KnowledgeSymbolTookGoldenShine_hns:
 	.string "知识象征闪耀起金色的光芒！$"

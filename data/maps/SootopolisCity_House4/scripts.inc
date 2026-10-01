@@ -27,8 +27,8 @@ SootopolisCity_House4_Text_AncientTreasuresWaitingInSea:
 SootopolisCity_House4_Text_StrollUnderwaterWithPokemon:
 	.string "古代的宝藏……\p"
 	.string "如果真的有当然好，但就算没有，和\n"
-	.string "宝可梦一起进行一次海底旅行也不错\l"
-	.string "。$"
+	.string "宝可梦一起进行一次海底旅行也不\l"
+	.string "错。$"
 
 SootopolisCity_House4_Text_Azumarill:
 	.string "玛力露丽：马鹿马鹿。$"

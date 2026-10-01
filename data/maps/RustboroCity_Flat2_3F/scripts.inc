@@ -13,6 +13,6 @@ RustboroCity_Flat2_3F_Text_PresidentCollectsRareStones:
 	.string "得文的社长喜欢收集稀有的石头。$"
 
 RustboroCity_Flat2_3F_Text_PresidentsSonAlsoCollectsRareStones:
-	.string "我想社长的儿子也喜欢收集稀有石头\n"
-	.string "。$"
+	.string "我想社长的儿子也喜欢收集稀有石\n"
+	.string "头。$"
 

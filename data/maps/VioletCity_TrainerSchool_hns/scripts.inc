@@ -61,8 +61,8 @@ VioletCity_TrainerSchool_EventScript_BlackBoard::
 	end
 
 VioletCity_TrainerSchool_Text_Twin:
-	.string "我虽然不是玩GBA长大的那一辈，\n"
-	.string "但我超级喜欢玩宝可梦游戏！\p"
+	.string "我虽然不是玩GBA长大的那一辈，但\n"
+	.string "我超级喜欢玩宝可梦游戏！\p"
 	.string "在过去的老游戏里，你得跟大量的野\n"
 	.string "生宝可梦对战才能攒够经验值。\p"
 	.string "而在较新的游戏里，学习装置又会让\n"
@@ -71,10 +71,9 @@ VioletCity_TrainerSchool_Text_Twin:
 	.string "调整，能让你的宝可梦刚好保持在合\l"
 	.string "适的等级，或者稍微高一点，取决于\l"
 	.string "你打了多少场对战。\p"
-	.string "如果你想要传统的第1至4世代体\n"
-	.string "验，可以关掉学习装置。如果你想要\l"
-	.string "现代的游玩体验，那就开启学习装\l"
-	.string "置。\p"
+	.string "如果你想要传统的第1至4世代体验，\n"
+	.string "可以关掉学习装置。如果你想要现代\l"
+	.string "的游玩体验，那就开启学习装置。\p"
 	.string "怎么玩完全由你来决定！$"
 
 VioletCity_TrainerSchool_Text_EarlIntro:
@@ -125,8 +124,8 @@ VioletCity_TrainerSchool_Text_Youngster1:
 	.string "以前以为必须通信交换才能进化的宝\n"
 	.string "可梦，\p"
 	.string "现在升级也能进化了。豪力和隆隆石\p"
-	.string "在38级进化，勇基拉和鬼斯通则在\n"
-	.string "42级进化。\p"
+	.string "在38级进化，勇基拉和鬼斯通则在42\n"
+	.string "级进化。\p"
 	.string "有些宝可梦还能携带金属膜等道具，\p"
 	.string "通过升级来进化。$"
 

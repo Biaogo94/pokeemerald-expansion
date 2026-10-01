@@ -104,8 +104,8 @@ SilphCo_6F_Text_WeGotEngaged::
 	.string "我们订婚了。呵呵！$"
 
 SilphCo_6F_Text_ThatManIsSuchACoward::
-	.string "我旁边的那个男人……他居然是这样\n"
-	.string "的一个懦夫！$"
+	.string "我旁边的那个男人……他居然是这样的\n"
+	.string "一个懦夫！$"
 
 SilphCo_6F_Text_NeedsMeToLookAfterHim::
 	.string "他很绝望，他需要像我这样的人来照\n"

@@ -227,18 +227,17 @@ Route14_Text_Eusine:
 	.string "一步！下次我一定会先赶到的！\p"
 	.string "一路追踪到这里，我开始明白水君在\n"
 	.string "追求什么了。\p"
-	.string "说实话，这个情报我原本是想藏私的\n"
-	.string "。\p"
+	.string "说实话，这个情报我原本是想藏私\n"
+	.string "的。\p"
 	.string "但在水君面前，我想做个光明磊落的\n"
 	.string "训练家！\p"
 	.string "所以，我就把线索也分享给你吧。\p"
-	.string "据说……水君喜欢高地..\n"
-	.string "……靠近水边……而且\l"
-	.string "在北方某个地方……\p"
+	.string "据说……水君喜欢高地..……靠近水边……\n"
+	.string "而且在北方某个地方……\p"
 	.string "具体在哪里我现在还不知道。只有我\n"
 	.string "和你！\p"
-	.string "看谁能先找到它！我要向你发起挑战\n"
-	.string "！$"
+	.string "看谁能先找到它！我要向你发起挑\n"
+	.string "战！$"
 
 Route14_Text_PokefanmTrevorSeen:
 	.string "你好。你知道吗……？\p"
@@ -246,16 +245,16 @@ Route14_Text_PokefanmTrevorSeen:
 	.string "育，它们会变得更加亲密哦。$"
 
 Route14_Text_PokefanmTrevorBeaten:
-	.string "我是在哪里遇到这只巨钳螳螂的来着\n"
-	.string "？$"
+	.string "我是在哪里遇到这只巨钳螳螂的来\n"
+	.string "着？$"
 
 Route14_Text_PokefanmTrevorAfterBattle:
 	.string "要是有个能轻松查出宝可梦是在哪儿\n"
 	.string "捕获的方法就好了……$"
 
 Route14_Text_TrevorRegister:
-	.string "你真有意思！能把电话号码告诉我吗\n"
-	.string "？$"
+	.string "你真有意思！能把电话号码告诉我\n"
+	.string "吗？$"
 
 Route14_Text_TrevorRematchIntro:
 	.string "我一直在宝可梦熟悉的地方和它们一\n"
@@ -276,8 +275,7 @@ Route14_Text_PokefanmCarterBeaten:
 	.string "哇啊啊啊！$"
 
 Route14_Text_PokefanmCarterAfterBattle:
-	.string "小锯鳄、火球鼠、菊草叶……\n"
-	.string ".\p"
+	.string "小锯鳄、火球鼠、菊草叶…….\p"
 	.string "我觉得这是个搭配很均衡的组合。$"
 
 Route14_Text_CarterRegister:
@@ -300,12 +298,12 @@ Route14_Text_BirdKeeperRoySeen:
 	.string "在天空中翱翔。$"
 
 Route14_Text_BirdKeeperRoyBeaten:
-	.string "做梦归做梦，可我根本飞不起来啊。\n"
-	.string ".....$"
+	.string "做梦归做梦，可我根本飞不起来啊"
+	.string "。.....$"
 
 Route14_Text_BirdKeeperRoyAfterBattle:
-	.string "你有学会秘传学习器招式“飞翔”的\n"
-	.string "宝可梦对吧？真羡慕你啊。$"
+	.string "你有学会秘传学习器招式“飞翔”的宝\n"
+	.string "可梦对吧？真羡慕你啊。$"
 
 Route14_EventScript_Pidgeotto::
 	lockall

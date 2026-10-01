@@ -88,8 +88,8 @@ ViridianCity_Mart_Text_YouCameFromPallet::
 
 ViridianCity_Mart_Text_TakeThisToProfOak::
 	.string "你认识大木博士，对吗？\p"
-	.string "他订的包裹到了。你能帮我捎给他吗\n"
-	.string "？$"
+	.string "他订的包裹到了。你能帮我捎给他\n"
+	.string "吗？$"
 
 ViridianCity_Mart_Text_ReceivedOaksParcelFromClerk::
 	.string "{PLAYER}从宝可梦商店的店\n"

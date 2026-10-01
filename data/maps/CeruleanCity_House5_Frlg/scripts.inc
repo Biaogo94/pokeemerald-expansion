@@ -185,8 +185,8 @@ CeruleanCity_House1_Text_HaveJustTheThing::
 CeruleanCity_House1_Text_GoCrushBerriesAtDirectCorner::
 	.string "在宝可梦中心的二楼直连房间处有一\n"
 	.string "些新的东西。\p"
-	.string "他们安装了一个可以捣碎树果的机器\n"
-	.string "。\p"
+	.string "他们安装了一个可以捣碎树果的机\n"
+	.string "器。\p"
 	.string "这就是你要去的地方。\p"
 	.string "我有一个请求，我只能委托你了。\p"
 	.string "你可以用那台机器给我做一些树果粉\n"

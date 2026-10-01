@@ -30,8 +30,8 @@ Route6_Text_KeigoDefeat::
 	.string "不！你在开玩笑吧！$"
 
 Route6_Text_KeigoPostBattle::
-	.string "我喜欢虫子，所以我要回到常青森林\n"
-	.string "。$"
+	.string "我喜欢虫子，所以我要回到常青森\n"
+	.string "林。$"
 
 Route6_Text_JeffIntro::
 	.string "呃？你想跟我谈谈？$"

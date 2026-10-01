@@ -67,21 +67,23 @@ ApricornTree_Text_Empty:
 	.string "树上没有球果……$"
 
 ApricornTree_Text_WantToPick:
-	.string "……是{STR_VAR_2}{STR_VAR_1}！\n"
-	.string "要摘下这颗\l"
-	.string "{STR_VAR_1}吗？$"
+	.string "……是{STR_VAR_2}\n"
+	.string "{STR_VAR_1}！要摘下这\l"
+	.string "颗{STR_VAR_1}吗？$"
 
 ApricornTree_Text_PickedTheApricorn:
 	.string "{PLAYER}获得了\n"
-	.string "{STR_VAR_2}{STR_VAR_1}。$"
+	.string "{STR_VAR_2}\l"
+	.string "{STR_VAR_1}。$"
 
 ApricornTree_Text_PutAwayApricorn:
-	.string "{PLAYER}将{STR_VAR_1}\n"
-	.string "放入了背包的\l"
-	.string "{STR_VAR_3}口袋。$"
+	.string "{PLAYER}将\n"
+	.string "{STR_VAR_1}放入了背包\l"
+	.string "的{STR_VAR_3}口袋。$"
 
 ApricornTree_Text_PocketFull:
-	.string "背包的{STR_VAR_3}口袋已经满了。\p"
+	.string "背包的{STR_VAR_3}口袋\n"
+	.string "已经满了。\p"
 	.string "{PLAYER}只好放弃了\n"
 	.string "{STR_VAR_1}……$"
 

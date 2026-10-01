@@ -20,8 +20,8 @@ Route13_Text_SebastianDefeat::
 	.string "我的波波比比鸟组合居然输了？$"
 
 Route13_Text_SebastianPostBattle::
-	.string "虽然输了但我的宝可梦看起来很高兴\n"
-	.string "。$"
+	.string "虽然输了但我的宝可梦看起来很高\n"
+	.string "兴。$"
 
 Route13_Text_SusieIntro::
 	.string "我想说我肯定比一个孩子要厉害。$"
@@ -92,8 +92,8 @@ Route13_Text_SheilaDefeat::
 Route13_Text_SheilaPostBattle::
 	.string "实际上我不知道任何关于宝可梦的知\n"
 	.string "识。\p"
-	.string "至于我用的这些……我抓住它们只是\n"
-	.string "因为它们好看！$"
+	.string "至于我用的这些……我抓住它们只是因\n"
+	.string "为它们好看！$"
 
 Route13_Text_JaredIntro::
 	.string "你在看什么呢？$"
@@ -112,8 +112,8 @@ Route13_Text_RobertDefeat::
 	.string "用力！$"
 
 Route13_Text_RobertPostBattle::
-	.string "我希望我能像波波和比比鸟一样飞翔\n"
-	.string "……$"
+	.string "我希望我能像波波和比比鸟一样飞\n"
+	.string "翔……$"
 
 Route13_Text_LookToLeftOfThatPost::
 	.string "训练家贴士\p"

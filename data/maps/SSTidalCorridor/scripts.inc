@@ -257,8 +257,8 @@ SSTidalCorridor_Text_ScottBattleFrontierInvite:
 	.string "虽然我有事要临时下船，但能见到你\n"
 	.string "真是太高兴了！\p"
 	.string "祝贺你成为联盟冠军！\p"
-	.string "有个地方我想邀请像你这样的人前往\n"
-	.string "，\p"
+	.string "有个地方我想邀请像你这样的人前\n"
+	.string "往，\p"
 	.string "那就是……对战开拓区！\p"
 	.string "那是什么地方？去了就知道啦！\p"
 	.string "我已经和船长打过招呼了，\p"
@@ -273,16 +273,16 @@ SSTidal_Text_FastCurrentsHopeYouEnjoyVoyage:
 	.string "自由参观本船。$"
 
 SSTidal_Text_HopeYouEnjoyVoyage:
-	.string "希望您能在本渡轮上度过美好的旅程\n"
-	.string "。$"
+	.string "希望您能在本渡轮上度过美好的旅\n"
+	.string "程。$"
 
 SSTidal_Text_MadeLandInSlateport:
-	.string "我们已经到达凯那市。感谢您的乘坐\n"
-	.string "。$"
+	.string "我们已经到达凯那市。感谢您的乘\n"
+	.string "坐。$"
 
 SSTidal_Text_MadeLandInLilycove:
-	.string "我们已经到达水静市。感谢您的乘坐\n"
-	.string "。$"
+	.string "我们已经到达水静市。感谢您的乘\n"
+	.string "坐。$"
 
 SSTidalCorridor_Text_CanRestInCabin2:
 	.string "船要过一会儿才能到达目的地，\p"

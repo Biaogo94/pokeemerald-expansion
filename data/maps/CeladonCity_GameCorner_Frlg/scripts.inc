@@ -498,7 +498,7 @@ CeladonCity_GameCorner_Text_DoYouWantToPlay::
 	.string "孩子，你想来一把吗？$"
 
 CeladonCity_GameCorner_Text_Received10CoinsFromMan::
-	.string "{PLAYER}获得了10个代币\n"
+	.string "{PLAYER}获得了10个代币"
 	.string "。$"
 
 CeladonCity_GameCorner_Text_DontNeedMyCoins::
@@ -516,8 +516,7 @@ CeladonCity_GameCorner_Text_GymGuyAdvice::
 	.string "玉虹道馆的馆主是莉佳。\p"
 	.string "她是个与大自然融为一体的草属性宝\n"
 	.string "可梦使用者。\p"
-	.string "她精于花道，虽然她看上去很娇小…\n"
-	.string "…\p"
+	.string "她精于花道，虽然她看上去很娇小……\p"
 	.string "但她绝不是个可以小看的对手！$"
 
 CeladonCity_GameCorner_Text_RareMonsForCoins::
@@ -530,11 +529,11 @@ CeladonCity_GameCorner_Text_SoEasyToGetHooked::
 	.string "瘾了！$"
 
 CeladonCity_GameCorner_Text_WantSomeCoins::
-	.string "有什么事吗？你的意思是想要些代币\n"
-	.string "？$"
+	.string "有什么事吗？你的意思是想要些代\n"
+	.string "币？$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromNiceGuy::
-	.string "{PLAYER}获得了20个代币\n"
+	.string "{PLAYER}获得了20个代币"
 	.string "。$"
 
 CeladonCity_GameCorner_Text_YouHaveLotsOfCoins::
@@ -549,7 +548,7 @@ CeladonCity_GameCorner_Text_HereAreSomeCoinsShoo::
 	.string "就走吧！$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromMan::
-	.string "{PLAYER}获得了20个代币\n"
+	.string "{PLAYER}获得了20个代币"
 	.string "。$"
 
 CeladonCity_GameCorner_Text_YouveGotPlentyCoins::
@@ -583,12 +582,12 @@ CeladonCity_GameCorner_Text_SlotMachineWantToPlay::
 	.string "一台老虎机！想玩玩吗？$"
 
 CeladonCity_GameCorner_Text_OutOfOrder::
-	.string "上面显示“程序故障”看来这台机器\n"
-	.string "坏了。$"
+	.string "上面显示“程序故障”看来这台机器坏\n"
+	.string "了。$"
 
 CeladonCity_GameCorner_Text_OutToLunch::
-	.string "上面显示“外出用餐”看来这台机器\n"
-	.string "被占了。$"
+	.string "上面显示“外出用餐”看来这台机器被\n"
+	.string "占了。$"
 
 CeladonCity_GameCorner_Text_SomeonesKeys::
 	.string "不知是谁的钥匙！他们还会回来的。$"

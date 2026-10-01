@@ -25,7 +25,7 @@ Melemele_House4_Man_Text_0:
 	.string "省下了一大笔路费呢！$"
 
 Melemele_House4_Woman_Text_0:
-	.string "我男朋友跟我说我们要去阿罗拉..\n"
-	.string "....\p"
+	.string "我男朋友跟我说我们要去阿罗拉...\n"
+	.string "...\p"
 	.string "我还以为是阿罗拉地区呢，没想到只\n"
 	.string "是关都沿海的这些小岛。$"

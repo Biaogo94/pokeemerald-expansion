@@ -26,6 +26,6 @@ SixIsland_GreenPath_Text_LeftRouteSign::
 	.string "绿之步道前方标志之林$"
 
 SixIsland_GreenPath_Text_RightRouteSign::
-	.string "绿之步道畅想绿色，保持自然的纯净\n"
-	.string "！$"
+	.string "绿之步道畅想绿色，保持自然的纯\n"
+	.string "净！$"
 

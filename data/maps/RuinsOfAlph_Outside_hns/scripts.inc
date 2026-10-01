@@ -97,12 +97,12 @@ RuinsOfAlph_Outside_Text_Scientist:
 	.string "吧。$"
 
 RuinsOfAlph_Outside_Text_SuperNerdStan_Seen:
-	.string "你想干什么？我正在研究呢--别来\n"
-	.string "打扰我！$"
+	.string "你想干什么？我正在研究呢--别来打\n"
+	.string "扰我！$"
 
 RuinsOfAlph_Outside_Text_SuperNerdStan_Beaten:
-	.string "对不起……我们对这里的真\n"
-	.string "相一无所知，\p"
+	.string "对不起……我们对这里的真相一无所\n"
+	.string "知，\p"
 	.string "这实在让我太焦躁了……$"
 
 RuinsOfAlph_Outside_Text_SuperNerdStan_After:
@@ -113,8 +113,7 @@ RuinsOfAlph_Outside_Text_SuperNerdStan_After:
 	.string "这里的一切全都是个谜……$"
 
 RuinsOfAlph_Outside_Text_PsychicNathan_Seen:
-	.string "唔……这里真是个不可思议\n"
-	.string "的地方。$"
+	.string "唔……这里真是个不可思议的地方。$"
 
 RuinsOfAlph_Outside_Text_PsychicNathan_Beaten:
 	.string "…$"
@@ -140,15 +139,13 @@ RuinsOfAlph_Outside_Text_Fisher1:
 
 RuinsOfAlph_Outside_Text_Fisher2:
 	.string "遗迹里隐藏着一个巨大的秘密！\p"
-	.string "……我是这么觉得的啦..\n"
-	.string "....$"
+	.string "……我是这么觉得的啦......$"
 
 RuinsOfAlph_Outside_Text_Youngster1:
 	.string "未知图腾有好多不同的形态，所以我\n"
 	.string "们把它们当作暗号来用呢。$"
 
 RuinsOfAlph_Outside_Text_Youngster2:
-	.string "A……H……E……A……D……\n"
-	.string "嗯……\p"
+	.string "A……H……E……A……D……嗯……\p"
 	.string "什么？\p"
 	.string "我正在解读这条讯息！$"

@@ -226,8 +226,7 @@ FuchsiaCity_Gym_Text_LassLinda_Before:
 	.string "上当了吧！哈哈哈！$"
 
 FuchsiaCity_Gym_Text_LassLinda_Beaten:
-	.string "呜呜……输了……\n"
-	.string "你还挺有一手的嘛……$"
+	.string "呜呜……输了……你还挺有一手的嘛……$"
 
 FuchsiaCity_Gym_Text_LassLinda_After:
 	.string "怎么样？我的变装很完美吧？$"

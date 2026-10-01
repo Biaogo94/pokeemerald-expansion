@@ -27,16 +27,14 @@ VictoryRoad_B1F_EventScript_Halle::
 	end
 
 VictoryRoad_B1F_Text_SamuelIntro:
-	.string "一想到我离宝可梦联盟越来越近了…\n"
-	.string "…\p"
+	.string "一想到我离宝可梦联盟越来越近了……\p"
 	.string "我开始有些怯场的感觉了……$"
 
 VictoryRoad_B1F_Text_SamuelDefeat:
 	.string "我什么也做不了……$"
 
 VictoryRoad_B1F_Text_SamuelPostBattle:
-	.string "宝可梦联盟又变得遥远了……好失望\n"
-	.string "……$"
+	.string "宝可梦联盟又变得遥远了……好失望……$"
 
 VictoryRoad_B1F_Text_ShannonIntro:
 	.string "想要通过宝可梦联盟的考验，你必须\n"
@@ -72,8 +70,8 @@ VictoryRoad_B1F_Text_MitchellPostBattle:
 	.string "和你的宝可梦身上散发出的力量。$"
 
 VictoryRoad_B1F_Text_HalleIntro:
-	.string "好了，别那么紧张！放松，放松一点\n"
-	.string "！$"
+	.string "好了，别那么紧张！放松，放松一\n"
+	.string "点！$"
 
 VictoryRoad_B1F_Text_HalleDefeat:
 	.string "哇啊！漂亮！$"
@@ -82,6 +80,6 @@ VictoryRoad_B1F_Text_HallePostBattle:
 	.string "尽管这里的确是冠军之路，\p"
 	.string "但它与你之前所经过的道路并无太大\n"
 	.string "不同。\p"
-	.string "试着去享受你之后将会遇到的一切吧\n"
-	.string "！$"
+	.string "试着去享受你之后将会遇到的一切\n"
+	.string "吧！$"
 

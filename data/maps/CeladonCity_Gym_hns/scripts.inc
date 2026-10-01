@@ -31,16 +31,13 @@ CeladonCity_Gym_EventScript_Erika_Defeated::
 	end
 
 CeladonCity_Gym_Text_ErikaBeforeBattle:
-	.string "莉佳：你好……天气真好呢\n"
-	.string "，对吧？让人感觉好舒服……\l"
-	.string ".\p"
-	.string "……我感觉自己都要打瞌睡\n"
-	.string "了……\p"
-	.string "我的名字叫莉佳。是玉虹道馆的馆主\n"
-	.string "。\p"
-	.string "……哎呀？你说你是一路从\n"
-	.string "城都地区赶来的？真好呢……\l"
-	.string ".\p"
+	.string "莉佳：你好……天气真好呢，对吧？让\n"
+	.string "人感觉好舒服…….\p"
+	.string "……我感觉自己都要打瞌睡了……\p"
+	.string "我的名字叫莉佳。是玉虹道馆的馆\n"
+	.string "主。\p"
+	.string "……哎呀？你说你是一路从城都地区赶\n"
+	.string "来的？真好呢…….\p"
 	.string "啊，对不起，我之前没察觉到你是想\n"
 	.string "向我挑战呀。\p"
 	.string "好吧，不过我可不会输给你哦。$"
@@ -48,8 +45,7 @@ CeladonCity_Gym_Text_ErikaBeforeBattle:
 CeladonCity_Gym_Text_ErikaBeaten:
 	.string "莉佳：啊！我甘拜下风……\p"
 	.string "你真是强得令人惊叹……\p"
-	.string "这枚彩虹徽章就交给你吧……\n"
-	.string ".$"
+	.string "这枚彩虹徽章就交给你吧…….$"
 
 CeladonCity_Gym_Text_PlayerReceivedRainbowBadge:
 	.string "{PLAYER}获得了彩虹徽章。$"
@@ -63,16 +59,14 @@ CeladonCity_Gym_Text_Erika_GiveTM:
 CeladonCity_Gym_Text_Erika_ExplainTM:
 	.string "这是“终极吸取”。\p"
 	.string "这是一个非常神奇的招式，能将给予\n"
-	.string "对手伤害的一半用来回复自己的\n"
-	.string "HP。\p"
+	.string "对手伤害的一半用来回复自己的HP。\p"
 	.string "如果你喜欢的话，请务必用用看！$"
 
 CeladonCity_Gym_Text_ErikaAfterBattle:
 	.string "莉佳：输掉对战还是会让人有些心有\n"
 	.string "不甘呢……\p"
 	.string "但知道世上还有如此强大的训练家，\n"
-	.string "也会激励我更加努力精进……\l"
-	.string ".$"
+	.string "也会激励我更加努力精进…….$"
 
 CeladonCity_Gym_Text_ErikaRematch:
 	.string "莉佳：哎呀，你好呀。\p"
@@ -86,8 +80,7 @@ CeladonCity_Gym_Text_ErikaRematchDefeat:
 	.string "莉佳：输掉对战果然还是会让人心有\n"
 	.string "不甘呢……\p"
 	.string "但知道世上还有如此强大的训练家，\n"
-	.string "也会激励我更加努力精进……\l"
-	.string ".$"
+	.string "也会激励我更加努力精进…….$"
 
 CeladonCity_Gym_EventScript_Michelle::
 	trainerbattle_single TRAINER_MICHELLE_HNS, CeladonCity_Gym_Text_LassMichelleSeen, CeladonCity_Gym_Text_LassMichelleBeaten

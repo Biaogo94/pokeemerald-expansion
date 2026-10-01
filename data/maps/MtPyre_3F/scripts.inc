@@ -40,8 +40,8 @@ MtPyre_3F_Text_WilliamDefeat:
 	.string "我沉浸在自怨自艾中……$"
 
 MtPyre_3F_Text_WilliamPostBattle:
-	.string "我的精神力量无疑上升了几倍，但是\n"
-	.string "……$"
+	.string "我的精神力量无疑上升了几倍，但\n"
+	.string "是……$"
 
 MtPyre_3F_Text_KaylaIntro:
 	.string "啊哈哈哈哈！\p"
@@ -60,8 +60,8 @@ MtPyre_3F_Text_GabrielleIntro:
 	.string "你来这儿做什么？$"
 
 MtPyre_3F_Text_GabrielleDefeat:
-	.string "好厉害！你真是个不同寻常的训练家\n"
-	.string "。$"
+	.string "好厉害！你真是个不同寻常的训练\n"
+	.string "家。$"
 
 MtPyre_3F_Text_GabriellePostBattle:
 	.string "已经不再属于这世界的宝可梦，现在\n"
@@ -71,8 +71,8 @@ MtPyre_3F_Text_GabriellePostBattle:
 	.string "这一点。$"
 
 MtPyre_3F_Text_GabrielleRegister:
-	.string "当你的宝可梦稍微成长时请让我看看\n"
-	.string "……\p"
+	.string "当你的宝可梦稍微成长时请让我看\n"
+	.string "看……\p"
 	.string "拿出你的宝可导航来吧。$"
 
 MtPyre_3F_Text_GabrielleRematchIntro:
@@ -80,8 +80,8 @@ MtPyre_3F_Text_GabrielleRematchIntro:
 	.string "是来让我看看你长大的宝可梦吗？$"
 
 MtPyre_3F_Text_GabrielleRematchDefeat:
-	.string "真的好厉害！你真是个非同寻常的人\n"
-	.string "。$"
+	.string "真的好厉害！你真是个非同寻常的\n"
+	.string "人。$"
 
 MtPyre_3F_Text_GabriellePostRematch:
 	.string "已经不再属于这世界的宝可梦，现在\n"

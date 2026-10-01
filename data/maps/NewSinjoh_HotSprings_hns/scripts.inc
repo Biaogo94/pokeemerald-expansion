@@ -40,8 +40,8 @@ NewSinjoh_HotSprings_Text_MualaniBefore:
 	.string "问我是本地人还是游客？真没礼貌！\p"
 	.string "非要问的话，我是本地人。\p"
 	.string "我的家族可是最早享用这片温泉的。\p"
-	.string "你看，我甚至有这块水滴石板为证呢\n"
-	.string "。$"
+	.string "你看，我甚至有这块水滴石板为证\n"
+	.string "呢。$"
 
 NewSinjoh_HotSprings_Text_MualaniBeforeBattle:
 	.string "等等……\p"
@@ -55,8 +55,8 @@ NewSinjoh_HotSprings_Text_MualaniDefeat:
 	.string "这是你应得的。$"
 
 NewSinjoh_HotSprings_Text_MualaniAfter:
-	.string "要割舍那块石板，对我来说确实不易\n"
-	.string "。\p"
+	.string "要割舍那块石板，对我来说确实不\n"
+	.string "易。\p"
 	.string "但世事变迁，我们自身也必须顺应改\n"
 	.string "变才行。\p"
 	.string "这块石板就归你了。$"
@@ -242,8 +242,8 @@ NewSinjoh_HotSprings_Text_PLATutorChoose:
 	.string "你想学哪个招式？$"
 
 NewSinjoh_HotSprings_Text_PLATutorConfirm:
-	.string "想要学习{STR_VAR_1}吗\n"
-	.string "？$"
+	.string "想要学习{STR_VAR_1}\n"
+	.string "吗？$"
 
 NewSinjoh_HotSprings_Text_PLATutorWhichMon:
 	.string "要让哪只宝可梦学习呢？$"

@@ -24,8 +24,7 @@ CeladonCity_PokemonCenter1F_Text_CooltrainerF:
 
 CeladonCity_PokemonCenter1F_Text_Pharmacist:
 	.string "火箭队的秘密基地就在游戏城地下。\p"
-	.string "……啊，等等。那是三年前\n"
-	.string "的事了。$"
+	.string "……啊，等等。那是三年前的事了。$"
 
 Celadon_Text_Eusine1:
 	.string "米那君：嗨！\p"

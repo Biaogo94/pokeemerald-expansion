@@ -744,8 +744,8 @@ PetalburgCity_Text_AreYouATrainer:
 
 PetalburgCity_Text_WellMaybeNot:
 	.string "…… …… ……\p"
-	.string "嗯，也不一定。衣服看起来挺干净的\n"
-	.string "……\p"
+	.string "嗯，也不一定。衣服看起来挺干净\n"
+	.string "的……\p"
 	.string "可能是个新人训练家，或者只个普通\n"
 	.string "的孩子。$"
 

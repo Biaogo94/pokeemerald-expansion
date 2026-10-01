@@ -10,8 +10,7 @@ SSAnne_1F_Corridor_EventScript_Sailor::
 	end
 
 SSAnne_1F_Corridor_Text_LeStrongSilentType::
-	.string "早上好！我是这\n"
-	.string "艘船上的服务生！\p"
+	.string "早上好！我是这艘船上的服务生！\p"
 	.string "很高兴能为您服务！\p"
 	.string "………………啊！您是沉默寡言的类型啊！$"
 

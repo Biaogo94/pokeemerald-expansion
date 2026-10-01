@@ -11,12 +11,12 @@ SecretBase_Text_Trainer0DeclineBattle:
 	.string "哎？啊，现在不行啊……$"
 
 SecretBase_Text_Trainer0Defeated::
-	.string "哇啊啊！你真强！我输掉的事……请\n"
-	.string "帮我保密！$"
+	.string "哇啊啊！你真强！我输掉的事……请帮\n"
+	.string "我保密！$"
 
 SecretBase_Text_Trainer0PostBattle:
-	.string "我的秘密基地怎么样？明天也来玩吧\n"
-	.string "。$"
+	.string "我的秘密基地怎么样？明天也来玩\n"
+	.string "吧。$"
 
 SecretBase_Text_Trainer0PreChampion:
 	.string "你已经做了秘密基地了吗？\p"
@@ -37,8 +37,8 @@ SecretBase_Text_Trainer5DeclineBattle:
 	.string "啊……现在不行吗，也罢。$"
 
 SecretBase_Text_Trainer5Defeated::
-	.string "唔……我们输了……别告诉别人啊！\n"
-	.string "这是一级机密！$"
+	.string "唔……我们输了……别告诉别人啊！这是\n"
+	.string "一级机密！$"
 
 SecretBase_Text_Trainer5PostBattle:
 	.string "下次来这附近的话，再来我这里转转\n"
@@ -72,8 +72,8 @@ SecretBase_Text_Trainer1PostBattle:
 SecretBase_Text_Trainer1PreChampion:
 	.string "这个地方非常受欢迎，经常会有人来\n"
 	.string "这里。\p"
-	.string "我一直在等它打开，我一定要得到它\n"
-	.string "！$"
+	.string "我一直在等它打开，我一定要得到\n"
+	.string "它！$"
 
 SecretBase_Text_Trainer6Intro:
 	.string "欢迎来到我的宝可梦研究所。\p"
@@ -87,8 +87,8 @@ SecretBase_Text_Trainer6DeclineBattle:
 	.string "啊，那么下次吧！$"
 
 SecretBase_Text_Trainer6Defeated::
-	.string "嗯……我还有很多不足，还得继续学\n"
-	.string "习啊。$"
+	.string "嗯……我还有很多不足，还得继续学习\n"
+	.string "啊。$"
 
 SecretBase_Text_Trainer6PostBattle:
 	.string "谢谢你和我对战，明天也来玩吧。$"
@@ -100,8 +100,8 @@ SecretBase_Text_Trainer6PreChampion:
 SecretBase_Text_Trainer2Intro:
 	.string "拥有一座宅邸当然好，但我更喜欢这\n"
 	.string "样的地方，\p"
-	.string "因为各种各样的人都会来我这里做客\n"
-	.string "。\p"
+	.string "因为各种各样的人都会来我这里做\n"
+	.string "客。\p"
 	.string "那么，来场对战怎么样？$"
 
 SecretBase_Text_Trainer2AcceptBattle:
@@ -122,12 +122,12 @@ SecretBase_Text_Trainer2PostBattle:
 SecretBase_Text_Trainer2PreChampion:
 	.string "拥有一座宅邸当然好，但我更喜欢这\n"
 	.string "样的地方，\p"
-	.string "因为各种各样的人都会来我这里做客\n"
-	.string "。$"
+	.string "因为各种各样的人都会来我这里做\n"
+	.string "客。$"
 
 SecretBase_Text_Trainer7Intro:
-	.string "我非常喜欢逛商店买家具和装饰物品\n"
-	.string "，\p"
+	.string "我非常喜欢逛商店买家具和装饰物\n"
+	.string "品，\p"
 	.string "也同样喜欢培育宝可梦。\p"
 	.string "如果你愿意的话，跟我的宝可梦对战\n"
 	.string "怎么样？$"
@@ -145,8 +145,8 @@ SecretBase_Text_Trainer7PostBattle:
 	.string "真高兴！现在我该去买东西了！$"
 
 SecretBase_Text_Trainer7PreChampion:
-	.string "我非常喜欢逛商店买家具和装饰物品\n"
-	.string "，\p"
+	.string "我非常喜欢逛商店买家具和装饰物\n"
+	.string "品，\p"
 	.string "也同样喜欢培育宝可梦。$"
 
 SecretBase_Text_Trainer3Intro:
@@ -158,15 +158,15 @@ SecretBase_Text_Trainer3AcceptBattle:
 	.string "我不会被你轻易打败的！$"
 
 SecretBase_Text_Trainer3DeclineBattle:
-	.string "哦……是因为你找来这个地方很累吗\n"
+	.string "哦……是因为你找来这个地方很累吗"
 	.string "？$"
 
 SecretBase_Text_Trainer3Defeated::
 	.string "我失败了……$"
 
 SecretBase_Text_Trainer3PostBattle:
-	.string "我失败了……你的秘密基地在哪儿？\n"
-	.string "我也会去拜访你的。$"
+	.string "我失败了……你的秘密基地在哪儿？我\n"
+	.string "也会去拜访你的。$"
 
 SecretBase_Text_Trainer3PreChampion:
 	.string "有些人把秘密基地建在别人很难找到\n"
@@ -179,8 +179,8 @@ SecretBase_Text_Trainer8Intro:
 	.string "不过同时，想对战吗？$"
 
 SecretBase_Text_Trainer8AcceptBattle:
-	.string "这里是我的秘密基地，我是不会输的\n"
-	.string "！$"
+	.string "这里是我的秘密基地，我是不会输\n"
+	.string "的！$"
 
 SecretBase_Text_Trainer8DeclineBattle:
 	.string "我随时愿意跟你对战。$"

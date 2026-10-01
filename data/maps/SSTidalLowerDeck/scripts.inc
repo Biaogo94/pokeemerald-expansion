@@ -21,8 +21,8 @@ SSTidalLowerDeck_Text_PhillipDefeat:
 
 SSTidalLowerDeck_Text_PhillipPostBattle:
 	.string "我们是清扫兄弟！\p"
-	.string "哥哥负责倒洗涤剂，弟弟负责擦地板\n"
-	.string "！$"
+	.string "哥哥负责倒洗涤剂，弟弟负责擦地\n"
+	.string "板！$"
 
 SSTidalLowerDeck_Text_LeonardIntro:
 	.string "这里是船体的底部，空间很大，正好\n"
@@ -33,6 +33,6 @@ SSTidalLowerDeck_Text_LeonardDefeat:
 
 SSTidalLowerDeck_Text_LeonardPostBattle:
 	.string "我们是清扫兄弟！\p"
-	.string "哥哥负责倒洗涤剂，弟弟负责擦地板\n"
-	.string "！$"
+	.string "哥哥负责倒洗涤剂，弟弟负责擦地\n"
+	.string "板！$"
 

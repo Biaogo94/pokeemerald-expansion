@@ -186,8 +186,8 @@ LavaridgeTown_Gym_1F_Text_GymGuideAdvice:
 	.string "釜炎镇的道馆馆主亚莎使用火属性宝\n"
 	.string "可梦，\p"
 	.string "她对宝可梦的激情比火山还要炙热。\p"
-	.string "别太接近她——你会被烧焦的！用水\n"
-	.string "浇灭她的火焰，加油吧！$"
+	.string "别太接近她——你会被烧焦的！用水浇\n"
+	.string "灭她的火焰，加油吧！$"
 
 LavaridgeTown_Gym_1F_Text_GymGuidePostVictory:
 	.string "异常火热的对战啊！$"
@@ -223,12 +223,12 @@ LavaridgeTown_Gym_B1F_Text_KeeganDefeat:
 	.string "玩火自焚了……$"
 
 LavaridgeTown_Gym_B1F_Text_KeeganPostBattle:
-	.string "你的技术不错……但我们的馆主亚莎\n"
-	.string "很强，\p"
+	.string "你的技术不错……但我们的馆主亚莎很\n"
+	.string "强，\p"
 	.string "你不小心的话会被烧焦的。$"
 
 LavaridgeTown_Gym_1F_Text_GeraldIntro:
-	.string "你的宝可梦能抵挡392度的高温吗\n"
+	.string "你的宝可梦能抵挡392度的高温吗"
 	.string "？$"
 
 LavaridgeTown_Gym_1F_Text_GeraldDefeat:
@@ -270,7 +270,7 @@ LavaridgeTown_Gym_B1F_Text_JeffDefeat:
 LavaridgeTown_Gym_B1F_Text_JeffPostBattle:
 	.string "那又怎么样？我说那又怎么样！我能\n"
 	.string "光着脚在热炭上走！\p"
-	.string "……不用试也知道你是不可能做到的\n"
+	.string "……不用试也知道你是不可能做到的"
 	.string "！$"
 
 LavaridgeTown_Gym_B1F_Text_EliIntro:
@@ -280,8 +280,8 @@ LavaridgeTown_Gym_B1F_Text_EliDefeat:
 	.string "呃，看来我无可挽回地失败了。$"
 
 LavaridgeTown_Gym_B1F_Text_EliPostBattle:
-	.string "我留在这儿是因为迷上了亚莎的力量\n"
-	.string "。\p"
+	.string "我留在这儿是因为迷上了亚莎的力\n"
+	.string "量。\p"
 	.string "呵呵呵呵。$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryIntro:
@@ -290,47 +290,45 @@ LavaridgeTown_Gym_1F_Text_FlanneryIntro:
 	.string "你坚持到这里！\p"
 	.string "爷爷托付我……我是说，\p"
 	.string "我是亚莎，是这个道馆的馆主！\p"
-	.string "那个……虽然我不久前才刚上任，但\n"
-	.string "你可别小看我！\p"
+	.string "那个……虽然我不久前才刚上任，但你\n"
+	.string "可别小看我！\p"
 	.string "我有爷爷传授给我的技巧，我会，那\n"
-	.string "个……让你见识一下我们在这片土地\l"
-	.string "上磨砺而出的火辣招式！$"
+	.string "个……让你见识一下我们在这片土地上\l"
+	.string "磨砺而出的火辣招式！$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryDefeat:
-	.string "唉……\n"
-	.string "大概是我太用力了……\p"
-	.string "我……我才刚当上道馆馆主\n"
-	.string "没多久。\p"
-	.string "我太想扮成另一个自己，\n"
-	.string "反而适得其反。\p"
-	.string "我得用我自己的方式来。\n"
-	.string "不然宝可梦们也会不知所措。\p"
-	.string "谢谢你教会我这个道理。\n"
-	.string "为此，这个给你。$"
+	.string "唉……大概是我太用力了……\p"
+	.string "我……我才刚当上道馆馆主没多久。\p"
+	.string "我太想扮成另一个自己，反而适得其\n"
+	.string "反。\p"
+	.string "我得用我自己的方式来。不然宝可梦\n"
+	.string "们也会不知所措。\p"
+	.string "谢谢你教会我这个道理。为此，这个\n"
+	.string "给你。$"
 
 LavaridgeTown_Gym_1F_Text_ReceivedHeatBadge:
 	.string "{PLAYER}从亚莎那里得到了\n"
 	.string "烈焰徽章。$"
 
 LavaridgeTown_Gym_1F_Text_ExplainHeatBadgeTakeThis:
-	.string "有了烈焰徽章，所有等级50以内的\n"
-	.string "宝可梦，即使是从别人那儿交换得来\l"
-	.string "的也会完全听你的。\p"
+	.string "有了烈焰徽章，所有等级50以内的宝\n"
+	.string "可梦，即使是从别人那儿交换得来的\l"
+	.string "也会完全听你的。\p"
 	.string "另外，宝可梦也能在对战外使用秘传\n"
 	.string "招式怪力了。\p"
 	.string "这是我的小小谢礼，请别客气，收下\n"
 	.string "吧！$"
 
 LavaridgeTown_Gym_1F_Text_ExplainOverheat:
-	.string "那个招式学习器50里装着的是过热\n"
+	.string "那个招式学习器50里装着的是过热"
 	.string "，\p"
 	.string "能对对手造成巨大的伤害。\p"
 	.string "但同时，使用它的宝可梦特攻会急剧\n"
 	.string "下降。这个招式不太适合持久战。$"
 
 LavaridgeTown_Gym_1F_Text_RegisteredFlannery:
-	.string "把道馆馆主亚莎登记到宝可导航里了\n"
-	.string "。$"
+	.string "把道馆馆主亚莎登记到宝可导航里\n"
+	.string "了。$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPostBattle:
 	.string "你的实力让我想起了某个人……\p"
@@ -347,8 +345,8 @@ LavaridgeTown_Gym_1F_Text_GymStatueCertified:
 
 LavaridgeTown_Gym_1F_Text_FlanneryPreRematch:
 	.string "亚莎：打输一次不会让我泄气。\p"
-	.string "我爱宝可梦，我爱对战，而且……我\n"
-	.string "爱这间道馆！\p"
+	.string "我爱宝可梦，我爱对战，而且……我爱\n"
+	.string "这间道馆！\p"
 	.string "让我们用炙热的招式开战吧！$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryRematchDefeat:
@@ -356,14 +354,14 @@ LavaridgeTown_Gym_1F_Text_FlanneryRematchDefeat:
 
 LavaridgeTown_Gym_1F_Text_FlanneryPostRematch:
 	.string "亚莎：我输了，但是我很满足。\p"
-	.string "像这样激烈的对战可不是每天都有的\n"
-	.string "。\p"
+	.string "像这样激烈的对战可不是每天都有\n"
+	.string "的。\p"
 	.string "有空的话再来一场吧！$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryRematchNeedTwoMons:
 	.string "亚莎：打输一次不会让我泄气。\p"
-	.string "我爱宝可梦，我爱对战，而且……我\n"
-	.string "爱这间道馆！\p"
+	.string "我爱宝可梦，我爱对战，而且……我爱\n"
+	.string "这间道馆！\p"
 	.string "让我们用炙热的招式开战吧！\p"
 	.string "啊，慢着，你只带了1只可以对战的\n"
 	.string "宝可梦？\p"

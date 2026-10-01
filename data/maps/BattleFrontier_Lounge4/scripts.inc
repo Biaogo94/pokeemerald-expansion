@@ -18,8 +18,8 @@ BattleFrontier_Lounge4_Text_WonderIfInterviewsAiring:
 	.string "的电视采访？$"
 
 BattleFrontier_Lounge4_Text_IfIOpenedRestaurantHere:
-	.string "在这儿开个饭馆的话肯定能挣大钱吧\n"
-	.string "。$"
+	.string "在这儿开个饭馆的话肯定能挣大钱\n"
+	.string "吧。$"
 
 BattleFrontier_Lounge4_Text_NeedBreatherAfterBattles:
 	.string "呼……\p"

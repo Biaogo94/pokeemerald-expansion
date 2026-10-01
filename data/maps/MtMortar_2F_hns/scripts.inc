@@ -45,5 +45,5 @@ MtMortar_2F_Text_SupernerdHughBeaten:
 MtMortar_2F_Text_SupernerdHughAfter:
 	.string "我正在调查擂钵山，但我的同伴不见\n"
 	.string "踪影了。\p"
-	.string "你有没有见过带着会用“怪力”的呆\n"
-	.string "呆兽的训练家？$"
+	.string "你有没有见过带着会用“怪力”的呆呆\n"
+	.string "兽的训练家？$"

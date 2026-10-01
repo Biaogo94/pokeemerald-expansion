@@ -101,12 +101,10 @@ Route35GoldenrodGate_Text_RandyWeirdTree:
 	.string "不知道现在挪开了没？$"
 
 Route35GoldenrodGate_Text_CantCarryMoreMon:
-	.string "你无法携带更多的宝可梦了……\n"
-	.string "..$"
+	.string "你无法携带更多的宝可梦了……..$"
 
 Route35GoldenrodGate_Text_RandyNeverMind:
-	.string "这样啊……那就算了吧..\n"
-	.string "....$"
+	.string "这样啊……那就算了吧......$"
 
 Route35GoldenrodGate_Text_ThanksForDelivery:
 	.string "谢谢你，小朋友！你帮我送到了啊！\p"
@@ -123,12 +121,11 @@ Route35GoldenrodGate_Text_PokefanF_TreeBlocking:
 	.string "它就发狂了。$"
 
 Route35GoldenrodGate_Text_PokefanF_Lullaby:
-	.string "我很喜欢收音机里放的宝可梦摇篮曲\n"
-	.string "。$"
+	.string "我很喜欢收音机里放的宝可梦摇篮\n"
+	.string "曲。$"
 
 Route35GoldenrodGate_Text_Fisher:
-	.string "不知道世界上到底有多少种宝可梦呢\n"
-	.string "。\p"
-	.string "3年前，大木博士说一共有150种\n"
-	.string "。\p"
+	.string "不知道世界上到底有多少种宝可梦\n"
+	.string "呢。\p"
+	.string "3年前，大木博士说一共有150种。\p"
 	.string "但最近我听说已经超过400种了！$"

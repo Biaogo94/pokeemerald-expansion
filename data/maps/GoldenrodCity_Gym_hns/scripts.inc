@@ -127,20 +127,19 @@ GoldenrodCity_Gym_Text_WhitneyBefore:
     .string "大家都在玩宝可梦，所以我也跟着玩\n"
     .string "啦！\p"
     .string "宝可梦真的是超级可爱呢！\p"
-    .string "你想挑战我吗？我可先警告你--我\n"
-    .string "超级厉害的哦！$"
+    .string "你想挑战我吗？我可先警告你--我超\n"
+    .string "级厉害的哦！$"
 
 GoldenrodCity_Gym_Text_WhitneyShouldntBeSoSerious:
     .string "呜呜……\p"
     .string "……哇啊啊啊！你好过分！\p"
-    .string "干嘛那么认真嘛！你……你\n"
-    .string "这个小屁孩！$"
+    .string "干嘛那么认真嘛！你……你这个小屁\n"
+    .string "孩！$"
 
 GoldenrodCity_Gym_Text_WhitneyYouMeanie:
     .string "哇啊啊啊！\p"
     .string "哇啊啊啊！\p"
-    .string "……呜呜，嗝……\n"
-    .string "……大坏蛋！$"
+    .string "……呜呜，嗝…………大坏蛋！$"
 
 GoldenrodCity_Gym_Text_WhitneyWhatDoYouWant:
     .string "……吸鼻涕……\p"
@@ -158,8 +157,8 @@ GoldenrodCity_Gym_Text_WhitneyPlainBadge:
     .string "对了，这个也送给你吧！$"
 
 GoldenrodCity_Gym_Text_WhitneyAttract:
-    .string "这是“着迷”！能充分发挥出宝可梦\n"
-    .string "的魅力呢。\p"
+    .string "这是“着迷”！能充分发挥出宝可梦的\n"
+    .string "魅力呢。\p"
     .string "是不是特别适合我这种可爱美少女？$"
 
 GoldenrodCity_Gym_Text_WhitneyGoodCry:
@@ -175,31 +174,28 @@ GoldenrodCity_Gym_Text_WhitneyRematch:
 GoldenrodCity_Gym_Text_WhitneyRematchDefeat:
     .string "哇啊啊啊！\p"
     .string "哇啊啊啊！\p"
-    .string "……呜呜，嗝……\n"
-    .string "……大坏蛋！$"
+    .string "……呜呜，嗝…………大坏蛋！$"
 
 GoldenrodCity_Gym_Text_LassCarrieSeen:
     .string "可别被我宝可梦可爱的外表骗了。\p"
     .string "它们可是能把你打得落花流水呢！$"
 
 GoldenrodCity_Gym_Text_LassCarrieBeaten:
-    .string "可恶……我还以为你很弱呢\n"
-    .string "......$"
+    .string "可恶……我还以为你很弱呢......$"
 
 GoldenrodCity_Gym_Text_LassCarrieAfter:
     .string "我的宝可梦会觉得我很可爱吗？$"
 
 GoldenrodCity_Gym_Text_LassBridgetSeen:
-    .string "比起强大的宝可梦，我更喜欢可爱的\n"
-    .string "。\p"
+    .string "比起强大的宝可梦，我更喜欢可爱\n"
+    .string "的。\p"
     .string "不过我的宝可梦既强大又可爱！$"
 
 GoldenrodCity_Gym_Text_LassBridgetBeaten:
     .string "哎呀，不行不行不行！$"
 
 GoldenrodCity_Gym_Text_LassBridgetAfter:
-    .string "我想赢过小茜，可是……真\n"
-    .string "打击人。\p"
+    .string "我想赢过小茜，可是……真打击人。\p"
     .string "不过我没事！就算输了，下次再加把\n"
     .string "劲就行了！$"
 
@@ -214,8 +210,7 @@ GoldenrodCity_Gym_Text_BeautyVictoriaSeen:
     .string "情！$"
 
 GoldenrodCity_Gym_Text_BeautyVictoriaBeaten:
-    .string "等等看……哎呀，已经结束\n"
-    .string "了？$"
+    .string "等等看……哎呀，已经结束了？$"
 
 GoldenrodCity_Gym_Text_BeautyVictoriaAfter:
     .string "哇，能打赢我，你还真有两下子！继\n"

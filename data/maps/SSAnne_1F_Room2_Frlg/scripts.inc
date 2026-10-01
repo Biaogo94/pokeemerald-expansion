@@ -30,8 +30,8 @@ SSAnne_1F_Room2_Text_AnnIntro::
 	.string "我从世界各地收集到了这些宝可梦！$"
 
 SSAnne_1F_Room2_Text_AnnDefeat::
-	.string "哦，不！我可是为了它们才环游世界\n"
-	.string "！$"
+	.string "哦，不！我可是为了它们才环游世\n"
+	.string "界！$"
 
 SSAnne_1F_Room2_Text_AnnPostBattle::
 	.string "你伤害了我可怜的宝可梦！\p"

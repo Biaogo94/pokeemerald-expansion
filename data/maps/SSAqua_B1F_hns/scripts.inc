@@ -82,8 +82,8 @@ SSAqua_B1F_Text_SailorJeffBeaten:
 	.string "输赢无所谓，我的休息时间结束了！$"
 
 SSAqua_B1F_Text_SailorJeffAfter:
-	.string "看来不认真起来的话，确实赢不了呢\n"
-	.string "。$"
+	.string "看来不认真起来的话，确实赢不了\n"
+	.string "呢。$"
 
 SSAqua_B1F_EventScript_Debra::
 	trainerbattle_single TRAINER_DEBRA_HNS, SSAqua_B1F_Text_PicnickerDebraSeen, SSAqua_B1F_Text_PicnickerDebraBeaten
@@ -97,8 +97,8 @@ SSAqua_B1F_Text_PicnickerDebraBeaten:
 	.string "哎呀！你也太强了吧！$"
 
 SSAqua_B1F_Text_PicnickerDebraAfter:
-	.string "金黄市、玉虹市……听说关\n"
-	.string "都地区有很多大城市呢。$"
+	.string "金黄市、玉虹市……听说关都地区有很\n"
+	.string "多大城市呢。$"
 
 SSAqua_B1F_EventScript_Fritz::
 	trainerbattle_single TRAINER_FRITZ_HNS, SSAqua_B1F_Text_JugglerFritzSeen, SSAqua_B1F_Text_JugglerFritzBeaten
@@ -141,8 +141,7 @@ SSAqua_B1F_Text_FisherJonahSeen:
 	.string "好无聊啊！来对战吧！$"
 
 SSAqua_B1F_Text_FisherJonahBeaten:
-	.string "我……我现在不无聊了..\n"
-	.string "....$"
+	.string "我……我现在不无聊了......$"
 
 SSAqua_B1F_Text_FisherJonahAfter:
 	.string "我打算去枯叶市的码头上钓鱼。$"

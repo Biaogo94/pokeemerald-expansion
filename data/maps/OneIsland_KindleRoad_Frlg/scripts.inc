@@ -85,8 +85,8 @@ OneIsland_KindleRoad_Text_SheaDefeat::
 	.string "呼……呼……$"
 
 OneIsland_KindleRoad_Text_SheaPostBattle::
-	.string "我输了是因为我跑步跑得没有力气了\n"
-	.string "……$"
+	.string "我输了是因为我跑步跑得没有力气\n"
+	.string "了……$"
 
 OneIsland_KindleRoad_Text_HughIntro::
 	.string "要穿着得体地去战斗！把那些多余的\n"

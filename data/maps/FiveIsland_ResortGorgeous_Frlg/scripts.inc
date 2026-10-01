@@ -60,8 +60,8 @@ FiveIsland_ResortGorgeous_Text_CelinaDefeat::
 	.string "输了……我觉得我出局了……$"
 
 FiveIsland_ResortGorgeous_Text_CelinaPostBattle::
-	.string "雪野？请稍微倾斜一下你的头部……\n"
-	.string "好了！这就是我想要的姿势！$"
+	.string "雪野？请稍微倾斜一下你的头部……好\n"
+	.string "了！这就是我想要的姿势！$"
 
 FiveIsland_ResortGorgeous_Text_RaynaIntro::
 	.string "唔……这鱼钓的，这儿真不安静……$"
@@ -70,7 +70,7 @@ FiveIsland_ResortGorgeous_Text_RaynaDefeat::
 	.string "呃……我的感觉，太烦闷了……$"
 
 FiveIsland_ResortGorgeous_Text_RaynaPostBattle::
-	.string "天空和海洋……它们都是变幻无常的\n"
+	.string "天空和海洋……它们都是变幻无常的"
 	.string "。\p"
 	.string "它们的这种特性使得人们很难征服它\n"
 	.string "们。$"

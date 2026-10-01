@@ -7,8 +7,8 @@ Route104_Text_PlantBerriesInSoilTakeThis:
 	.string "你可以随意取走生长在松软的土壤里\n"
 	.string "的树果，\p"
 	.string "但记住离开之前一定要在同一个地方\n"
-	.string "种下一枚树果，这是约定俗成的习惯\l"
-	.string "。\p"
+	.string "种下一枚树果，这是约定俗成的习\l"
+	.string "惯。\p"
 	.string "这个给你吧。$"
 
 Route104_Text_TrainersOftenMakeMonHoldBerries:
@@ -37,8 +37,8 @@ Route114_Text_LoveUsingBerryCrushShareBerry:
 	.string "这个给你怎么样？$"
 
 Route114_Text_TryBerryCrushWithFriends:
-	.string "我建议你和你的朋友一起玩树果粉碎\n"
-	.string "。$"
+	.string "我建议你和你的朋友一起玩树果粉\n"
+	.string "碎。$"
 
 Route114_Text_FunToThinkAboutBerries:
 	.string "该种什么树果？得到的树果是使用还\n"
@@ -57,8 +57,8 @@ Route120_Text_YesYouUnderstand:
 	.string "这个给你吧。$"
 
 Route120_Text_MakeYourOwnImpressions:
-	.string "啊……也对，有自己的想法才是最重\n"
-	.string "要的……\p"
+	.string "啊……也对，有自己的想法才是最重要\n"
+	.string "的……\p"
 	.string "这个给你吧。$"
 
 Route120_Text_BerryIsRareRaiseItWithCare:
@@ -177,8 +177,8 @@ Route104_PrettyPetalFlowerShop_Text_WailmerPailExplanation:
 	.string "着成长一样。$"
 
 Route104_PrettyPetalFlowerShop_Text_ImGrowingFlowers:
-	.string "我正在向姐姐们学习种花，总有一天\n"
-	.string "，我也会像她们那样优秀！\p"
+	.string "我正在向姐姐们学习种花，总有一\n"
+	.string "天，我也会像她们那样优秀！\p"
 	.string "给！这个送你！$"
 
 Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries:
@@ -190,11 +190,10 @@ Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries:
 
 SootopolisCity_Text_NameIsKiriHaveOneOfThese:
 	.string "你叫什么名字啊？\p"
-	.string "…… …… …… …… ……嗯，\n"
-	.string "真是个好名字\p"
+	.string "…… …… …… …… ……嗯，真是个好名字\p"
 	.string "我叫小桐。\p"
-	.string "爸爸妈妈希望我健康长大且热心助人\n"
-	.string "，所以给我起了这个名字。\p"
+	.string "爸爸妈妈希望我健康长大且热心助\n"
+	.string "人，所以给我起了这个名字。\p"
 	.string "这个给你一个吧。$"
 
 SootopolisCity_Text_GiveYouThisBerryToo:
@@ -202,8 +201,8 @@ SootopolisCity_Text_GiveYouThisBerryToo:
 	.string "喜欢它！$"
 
 SootopolisCity_Text_WhatKindOfWishInYourName:
-	.string "你的名字里会包含了什么样的期望呢\n"
-	.string "？$"
+	.string "你的名字里会包含了什么样的期望\n"
+	.string "呢？$"
 
 SootopolisCity_Text_LikeSeasonBornIn:
 	.string "春，夏，秋，冬……\p"
@@ -216,7 +215,6 @@ SootopolisCity_Text_ThenILoveAutumn:
 	.string "你喜欢什么季节？$"
 
 SootopolisCity_Text_OhDoesntMatter:
-	.string "啊……算了，没关系..\n"
-	.string "....\p"
-	.string "我想要了解的事情还有好多好多呢\n"
-	.string "......$"
+	.string "啊……算了，没关系......\p"
+	.string "我想要了解的事情还有好多好多呢.\n"
+	.string ".....$"

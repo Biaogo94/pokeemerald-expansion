@@ -203,7 +203,7 @@ BattleFrontier_Lounge3_Text_CantYouSeeWereBusyHere::
 	.string "等等？$"
 
 BattleFrontier_Lounge3_Text_YouLookToughExplainGambling::
-	.string "……嗯？我觉得你是个挺强的训练家\n"
+	.string "……嗯？我觉得你是个挺强的训练家"
 	.string "。\p"
 	.string "呵呵呵……听着，我有个小提议。\p"
 	.string "现在我们在对战开拓区有一组人，我\n"
@@ -294,8 +294,8 @@ BattleFrontier_Lounge3_Text_HowAboutEnteringEventForMe::
 	.string "替我参加吗？$"
 
 BattleFrontier_Lounge3_Text_SpotMeSomeBattlePoints::
-	.string "好的，太好了。那么，呃……能先给\n"
-	.string "我一些对战点数吗？\p"
+	.string "好的，太好了。那么，呃……能先给我\n"
+	.string "一些对战点数吗？\p"
 	.string "相信我，事后我会感谢你的。$"
 
 BattleFrontier_Lounge3_Text_HowMuchCanYouSpot::
@@ -370,8 +370,8 @@ BattleFrontier_Lounge3_Text_GetToBattlePike::
 	.string "未来就全靠你了！$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePyramid::
-	.string "马上就去对战金字塔的探索式对战吧\n"
-	.string "！\p"
+	.string "马上就去对战金字塔的探索式对战\n"
+	.string "吧！\p"
 	.string "决不能输！别放过这个机会！我们的\n"
 	.string "未来就全靠你了！$"
 
@@ -390,12 +390,12 @@ BattleFrontier_Lounge3_Text_HelloChampHeresYourPoints::
 
 BattleFrontier_Lounge3_Text_ObtainedBattlePoints::
 	.string "{PLAYER}获得了\n"
-	.string "{STR_VAR_1}BP的对战\l"
-	.string "点数。$"
+	.string "{STR_VAR_1}BP的对战点\l"
+	.string "数。$"
 
 BattleFrontier_Lounge3_Text_ThinkOfMeForAnotherChallenge::
-	.string "你还准备挑战什么的话别忘了叫上我\n"
-	.string "！$"
+	.string "你还准备挑战什么的话别忘了叫上\n"
+	.string "我！$"
 
 BattleFrontier_Lounge3_Text_NotInterested::
 	.string "你不感兴趣吗？！不要怕挑战啊！$"
@@ -410,12 +410,12 @@ BattleFrontier_Lounge3_Text_BackedWrongTrainer::
 
 BattleFrontier_Lounge3_Text_TrainerGoodButRattled::
 	.string "那边的训练家……\p"
-	.string "他的实力其实不错，可惜太容易紧张\n"
-	.string "，总是通不过对战巨蛋……$"
+	.string "他的实力其实不错，可惜太容易紧\n"
+	.string "张，总是通不过对战巨蛋……$"
 
 BattleFrontier_Lounge3_Text_KnowWinnerWhenISeeOne::
 	.string "嘻嘻！我一眼就能看出谁会是赢家！$"
 
 BattleFrontier_Lounge3_Text_ShouldBeTakingChallenges::
-	.string "那些训练家……他们在干什么？他们\n"
-	.string "应该去挑战啊。$"
+	.string "那些训练家……他们在干什么？他们应\n"
+	.string "该去挑战啊。$"

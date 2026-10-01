@@ -333,8 +333,8 @@ VerdanturfTown_BattleTentLobby_hns_Text_MonsReluctantToUseDislikedMoves:
 	.string "如果宝可梦不喜欢某个招式，它就会\n"
 	.string "很不情愿去用。\p"
 	.string "不管那个招式有多强大也一样。\p"
-	.string "比如，性格温和的宝可梦大概不\n"
-	.string "会喜欢去伤害对手。\p"
+	.string "比如，性格温和的宝可梦大概不会喜\n"
+	.string "欢去伤害对手。\p"
 	.string "如果它看起来无法发挥实力，很可能\n"
 	.string "是被迫使用了讨厌的招式。$"
 
@@ -345,15 +345,15 @@ VerdanturfTown_BattleTentLobby_hns_Text_GentleMonsScaryIfAngry:
 	.string "很可怕！$"
 
 VerdanturfTown_BattleTentLobby_hns_Text_AttractionRunsDeep:
-	.string "我对宝可梦的深情……这份\n"
-	.string "吸引力如此深沉……\p"
+	.string "我对宝可梦的深情……这份吸引力如此\n"
+	.string "深沉……\p"
 	.string "哎呀，你没看到吧？算了，没关系。\p"
 	.string "你想不想要这个招式学习器，让你的\n"
 	.string "宝可梦学会呢？$"
 
 VerdanturfTown_BattleTentLobby_hns_Text_AttractionMutual:
-	.string "我对宝可梦的深情……我相\n"
-	.string "信我们是心意相通、互相吸引的！\p"
+	.string "我对宝可梦的深情……我相信我们是心\n"
+	.string "意相通、互相吸引的！\p"
 	.string "它们对战时的表现完全符合我的心\n"
 	.string "意！$"
 

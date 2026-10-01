@@ -61,16 +61,16 @@ RockTunnel_1F_Text_OliverIntro::
 	.string "嗯哼。我也许在这里迷路了……$"
 
 RockTunnel_1F_Text_OliverDefeat::
-	.string "放松！我在做什么？出去的路是哪条\n"
-	.string "？$"
+	.string "放松！我在做什么？出去的路是哪\n"
+	.string "条？$"
 
 RockTunnel_1F_Text_OliverPostBattle::
-	.string "12号道路上那只沉睡的宝可梦让我\n"
-	.string "不得不绕道而行。$"
+	.string "12号道路上那只沉睡的宝可梦让我不\n"
+	.string "得不绕道而行。$"
 
 RockTunnel_1F_Text_LucasIntro::
-	.string "像你这种外行在我面前给我放尊重点\n"
-	.string "！$"
+	.string "像你这种外行在我面前给我放尊重\n"
+	.string "点！$"
 
 RockTunnel_1F_Text_LucasDefeat::
 	.string "我投降！$"

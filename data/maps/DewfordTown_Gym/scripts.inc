@@ -316,7 +316,7 @@ DewfordTown_Gym_Text_JocelynIntro:
 	.string "我就能对付你！$"
 
 DewfordTown_Gym_Text_JocelynDefeat:
-	.string "但……怎么会？怎么会这么快就输了\n"
+	.string "但……怎么会？怎么会这么快就输了"
 	.string "？$"
 
 DewfordTown_Gym_Text_JocelynPostBattle:
@@ -326,8 +326,8 @@ DewfordTown_Gym_Text_JocelynPostBattle:
 	.string "不，是成为宝可梦联盟冠军！$"
 
 DewfordTown_Gym_Text_LauraIntro:
-	.string "你胆敢无视我吗！把你打哭了别怪我\n"
-	.string "！$"
+	.string "你胆敢无视我吗！把你打哭了别怪\n"
+	.string "我！$"
 
 DewfordTown_Gym_Text_LauraDefeat:
 	.string "哇啊啊啊！我输了！$"
@@ -338,8 +338,8 @@ DewfordTown_Gym_Text_LauraPostBattle:
 	.string "的样子……$"
 
 DewfordTown_Gym_Text_LilithIntro:
-	.string "哼哼哼……你在黑暗中跌跌撞撞地摸\n"
-	.string "索吗？$"
+	.string "哼哼哼……你在黑暗中跌跌撞撞地摸索\n"
+	.string "吗？$"
 
 DewfordTown_Gym_Text_LilithDefeat:
 	.string "哎，你……真不想见到你！$"
@@ -368,12 +368,12 @@ DewfordTown_Gym_Text_CristianPostBattle:
 	.string "你赢了！去争取徽章吧！$"
 
 DewfordTown_Gym_Text_BrawlyIntro:
-	.string "我是藤树！武斗镇宝可梦道馆的馆主\n"
-	.string "！\p"
-	.string "我在这附近的险浪中翻腾……在漆黑\n"
-	.string "的洞窟中修行！\p"
-	.string "想挑战我那就把你的实力……全部展\n"
-	.string "现出来吧！$"
+	.string "我是藤树！武斗镇宝可梦道馆的馆\n"
+	.string "主！\p"
+	.string "我在这附近的险浪中翻腾……在漆黑的\n"
+	.string "洞窟中修行！\p"
+	.string "想挑战我那就把你的实力……全部展现\n"
+	.string "出来吧！$"
 
 DewfordTown_Gym_Text_BrawlyDefeat:
 	.string "喔喔！你一定会成为浪潮！\p"
@@ -385,21 +385,21 @@ DewfordTown_Gym_Text_ReceivedKnuckleBadge:
 	.string "拳击徽章。$"
 
 DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
-	.string "拳击徽章能让等级30以内的宝可梦\n"
-	.string "，即使是交换得来的也乖乖听话！\p"
+	.string "拳击徽章能让等级30以内的宝可梦，\n"
+	.string "即使是交换得来的也乖乖听话！\p"
 	.string "另外，你能在对战外使用秘传招式闪\n"
 	.string "光了。\p"
 	.string "喜欢的话，这个也给你吧。$"
 
 DewfordTown_Gym_Text_ExplainBulkUp:
 	.string "那个招式学习器08中是健美！\p"
-	.string "是能同时提升攻击和防御能力的招式\n"
-	.string "！\p"
+	.string "是能同时提升攻击和防御能力的招\n"
+	.string "式！\p"
 	.string "…… …… ……$"
 
 DewfordTown_Gym_Text_RegisteredBrawly:
-	.string "把道馆馆主藤树登记到宝可导航里了\n"
-	.string "。$"
+	.string "把道馆馆主藤树登记到宝可导航里\n"
+	.string "了。$"
 
 DewfordTown_Gym_Text_BrawlyPostBattle:
 	.string "你的才能有朝一日将成为巨浪，掀起\n"
@@ -415,8 +415,8 @@ DewfordTown_Gym_Text_GymStatueCertified:
 
 DewfordTown_Gym_Text_BrawlyPreRematch:
 	.string "藤树：海浪终会回到海滨。\p"
-	.string "像你这样有天赋的巨浪……我知道你\n"
-	.string "会回来！\p"
+	.string "像你这样有天赋的巨浪……我知道你会\n"
+	.string "回来！\p"
 	.string "让我看看这巨浪已经达到何种高度了\n"
 	.string "吧！$"
 
@@ -424,12 +424,12 @@ DewfordTown_Gym_Text_BrawlyRematchDefeat:
 	.string "喔！又让我湿透了！$"
 
 DewfordTown_Gym_Text_BrawlyPostRematch:
-	.string "藤树：对战是浩瀚无边，深不见底的\n"
-	.string "。就像是丰缘的大海一样！$"
+	.string "藤树：对战是浩瀚无边，深不见底\n"
+	.string "的。就像是丰缘的大海一样！$"
 
 DewfordTown_Gym_Text_BrawlyRematchNeedTwoMons:
 	.string "藤树：海浪终会回到海滨。\p"
-	.string "像你这样有天赋的巨浪………我知道\n"
-	.string "你会回来！\p"
+	.string "像你这样有天赋的巨浪………我知道你\n"
+	.string "会回来！\p"
 	.string "哦？你只有1只可以对战的宝可梦。\p"
 	.string "但我希望你至少带2只宝可梦来。$"

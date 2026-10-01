@@ -391,8 +391,8 @@ BattleFrontier_BattleArenaLobby_Text_OkayToSave_hns:
 	.string "存记录。这样可以吗？$"
 
 BattleFrontier_BattleArenaLobby_Text_WhichLevelMode_hns:
-	.string "对战竞技场提供两种挑战等级：50\n"
-	.string "级挑战和公开等级。您选择哪一种？$"
+	.string "对战竞技场提供两种挑战等级：50级\n"
+	.string "挑战和公开等级。您选择哪一种？$"
 
 BattleFrontier_BattleArenaLobby_Text_SelectThreeMons_hns:
 	.string "好的，那么请选择您要参赛的3只宝\n"
@@ -422,8 +422,8 @@ BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsLv50_hns:
 	.string "蛋{STR_VAR_1}。$"
 
 BattleFrontier_BattleArenaLobby_Text_GuideYouToArena_hns:
-	.string "那么现在就由我带您前往对战竞技场\n"
-	.string "。$"
+	.string "那么现在就由我带您前往对战竞技\n"
+	.string "场。$"
 
 BattleFrontier_BattleArenaLobby_Text_DidntSaveBeforeShuttingDown_hns:
 	.string "尊敬的挑战者！\p"
@@ -514,34 +514,33 @@ BattleFrontier_BattleArenaLobby_Text_ExplainBattleRules_hns:
 	.string "是无法被换下场的。$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainMindRules_hns:
-	.string "第1个判定标准是“心”。这一项用\n"
-	.string "来评估对战双方的积极程度。\p"
+	.string "第1个判定标准是“心”。这一项用来\n"
+	.string "评估对战双方的积极程度。\p"
 	.string "裁判会根据训练家指示使用攻击招式\n"
 	.string "的频率来进行评判。$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainSkillRules_hns:
-	.string "第2个判定标准是“技”。这一项用\n"
-	.string "来评估宝可梦招式运用的有效程度。\p"
-	.string "如果招式成功生效，“技”的评分就\n"
-	.string "会上升。\p"
+	.string "第2个判定标准是“技”。这一项用来\n"
+	.string "评估宝可梦招式运用的有效程度。\p"
+	.string "如果招式成功生效，“技”的评分就会\n"
+	.string "上升。\p"
 	.string "如果招式落空或失败，评分就会下\n"
 	.string "降。\p"
 	.string "若是攻击招式，击中时如果“效果绝\n"
-	.string "佳”，评分会上升;若“效果不好\l"
-	.string "”，评分则会下降。\p"
-	.string "使用“守住”或“看穿”等招式不会\n"
-	.string "增加“技”的评分。\p"
-	.string "如果对手使用了“守住”或“看穿”\n"
-	.string "导致你的招式未击中，评分并不会因\l"
-	.string "此降低。$"
+	.string "佳”，评分会上升;若“效果不好”，评\l"
+	.string "分则会下降。\p"
+	.string "使用“守住”或“看穿”等招式不会增加\n"
+	.string "“技”的评分。\p"
+	.string "如果对手使用了“守住”或“看穿”导致\n"
+	.string "你的招式未击中，评分并不会因此降\l"
+	.string "低。$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainBodyRules_hns:
-	.string "第3个判定标准是“体”。这一项基\n"
-	.string "于对战结束时所剩的HP多少进行判\l"
-	.string "定。\p"
+	.string "第3个判定标准是“体”。这一项基于\n"
+	.string "对战结束时所剩的HP多少进行判定。\p"
 	.string "评分会综合考量宝可梦在对战开始时\n"
-	.string "的HP，以及在结束时所剩余的HP\l"
-	.string "比例。$"
+	.string "的HP，以及在结束时所剩余的HP比\l"
+	.string "例。$"
 
 BattleFrontier_BattleArenaLobby_Text_CongratsOnDefeatingTycoon_hns:
 	.string "从竞技场主将手中夺得胜利，完成了\n"

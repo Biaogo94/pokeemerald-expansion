@@ -1,6 +1,6 @@
 MoveTutor_Text_ThisMoveCanOnlyBeLearnedOnce:
-	.string "这个招式只能教你1次，这样可以吗\n"
-	.string "？$"
+	.string "这个招式只能教你1次，这样可以\n"
+	.string "吗？$"
 
 MoveTutor_Text_SwaggerTeach:
 	.string "嗨！看我的宝可梦多完美！它比所有\n"
@@ -15,8 +15,8 @@ MoveTutor_Text_SwaggerDeclined:
 	.string "什么？不行？你就不能配合一下？$"
 
 MoveTutor_Text_SwaggerWhichMon:
-	.string "很好，想让哪只宝可梦学习虚张声势\n"
-	.string "？$"
+	.string "很好，想让哪只宝可梦学习虚张声\n"
+	.string "势？$"
 
 MoveTutor_Text_SwaggerTaught:
 	.string "我今后不会再虚张声势地培育我的宝\n"
@@ -26,8 +26,8 @@ MoveTutor_Text_RolloutTeach:
 	.string "你知道怎样从这儿朝着一个方向不变\n"
 	.string "地走出去很远吗？\p"
 	.string "我说不定可以滚动着走完这段路呢。\p"
-	.string "你觉得你的宝可梦也很想滚动，对吗\n"
-	.string "？\p"
+	.string "你觉得你的宝可梦也很想滚动，对\n"
+	.string "吗？\p"
 	.string "如果你想学滚动我可以教你。$"
 
 MoveTutor_Text_RolloutDeclined:
@@ -56,8 +56,8 @@ MoveTutor_Text_FuryCutterWhichMon:
 	.string "耶！把要学习的宝可梦交给我。$"
 
 MoveTutor_Text_FuryCutterTaught:
-	.string "当我连续击中对手时就会觉得很兴奋\n"
-	.string "！$"
+	.string "当我连续击中对手时就会觉得很兴\n"
+	.string "奋！$"
 
 MoveTutor_MimicTeach:
 	.string "啊，孩子！\p"
@@ -100,16 +100,16 @@ MoveTutor_Text_MetronomeTaught:
 	.string "我们使用它不是也很棒吗？$"
 
 MoveTutor_Text_SleepTalkTeach:
-	.string "嗯！我老伴依靠觉醒力量来保持清醒\n"
-	.string "。\p"
+	.string "嗯！我老伴依靠觉醒力量来保持清\n"
+	.string "醒。\p"
 	.string "她明明可以像我一样打个盹，然后说\n"
 	.string "梦话的。\p"
 	.string "我能让你的宝可梦学会梦话。有兴趣\n"
 	.string "吗？$"
 
 MoveTutor_Text_SleepTalkDeclined:
-	.string "哦，好吧……你也想用觉醒力量来保\n"
-	.string "持清醒……$"
+	.string "哦，好吧……你也想用觉醒力量来保持\n"
+	.string "清醒……$"
 
 MoveTutor_Text_SleepTalkWhichMon:
 	.string "啊，多有眼光的孩子呀！你想让我教\n"
@@ -121,8 +121,7 @@ MoveTutor_Text_SleepTalkTaught:
 	.string "错的。$"
 
 MoveTutor_Text_SubstituteTeach:
-	.string "当我在屋顶上看着这广阔的世界时…\n"
-	.string "…\p"
+	.string "当我在屋顶上看着这广阔的世界时……\p"
 	.string "我在想如果这个世界如果有不止一个\n"
 	.string "自己该多有趣啊，那样我就能体验各\l"
 	.string "种各样的人生了。\p"
@@ -136,7 +135,7 @@ MoveTutor_Text_SubstituteDeclined:
 	.string "个自己的。$"
 
 MoveTutor_Text_SubstituteWhichMon:
-	.string "嘿嘿……你想让哪只宝可梦学会替身\n"
+	.string "嘿嘿……你想让哪只宝可梦学会替身"
 	.string "？$"
 
 MoveTutor_Text_SubstituteTaught:
@@ -150,16 +149,16 @@ MoveTutor_Text_DynamicPunchTeach:
 	.string "我是一名格斗属性训练家，所以无论\n"
 	.string "我怎么努力尝试也不能在绿岭市道馆\l"
 	.string "获胜！\p"
-	.string "啊啊啊啊！打！打！打！打！打！打\n"
-	.string "！\p"
-	.string "什么，别那样看我！我只是在打地面\n"
-	.string "！\p"
+	.string "啊啊啊啊！打！打！打！打！打！\n"
+	.string "打！\p"
+	.string "什么，别那样看我！我只是在打地\n"
+	.string "面！\p"
 	.string "还是说你想让我教你的宝可梦学习爆\n"
 	.string "裂拳？$"
 
 MoveTutor_Text_DynamicPunchDeclined:
-	.string "可恶！你也来取笑我吗？打！打！打\n"
-	.string "！$"
+	.string "可恶！你也来取笑我吗？打！打！\n"
+	.string "打！$"
 
 MoveTutor_Text_DynamicPunchWhichMon:
 	.string "什么？你想学？你真是个好人啊！想\n"
@@ -175,8 +174,8 @@ MoveTutor_Text_DoubleEdgeTeach:
 	.string "已了。\p"
 	.string "但这也意味着会有很多同样被他吸引\n"
 	.string "的人做我的竞争对手。\p"
-	.string "他的魅力就像舍身冲撞一样有利有弊\n"
-	.string "。他根本都注意不到我。\p"
+	.string "他的魅力就像舍身冲撞一样有利有\n"
+	.string "弊。他根本都注意不到我。\p"
 	.string "那么，让我教你的宝可梦学习舍身冲\n"
 	.string "撞！$"
 
@@ -191,8 +190,8 @@ MoveTutor_Text_DoubleEdgeTaught:
 	.string "我不再为爱而活着！我要更加坚强！$"
 
 MoveTutor_Text_ExplosionTeach:
-	.string "我可没打算一直呆在这乡下一事无成\n"
-	.string "。\p"
+	.string "我可没打算一直呆在这乡下一事无\n"
+	.string "成。\p"
 	.string "等着瞧吧，总有一天我会闯进大城市\n"
 	.string "成为大明星。\p"
 	.string "说真的，我绝对会引发一场流行大爆\n"
@@ -217,8 +216,8 @@ MoveTutor_Text_HeadbuttTeach:
 	.string "问我在干什么？\p"
 	.string "我正在用头锤撞树呢。\p"
 	.string "你觉得你的宝可梦也想试试头锤吗？\p"
-	.string "如果你愿意的话，我可以把“头锤”\n"
-	.string "传授给它。可好玩了！$"
+	.string "如果你愿意的话，我可以把“头锤”传\n"
+	.string "授给它。可好玩了！$"
 	
 MoveTutor_Text_HeadbuttWhichMon:
 	.string "嘿嘿，好嘞！要是那只宝可梦长得像\n"

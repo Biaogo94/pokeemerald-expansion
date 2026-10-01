@@ -296,8 +296,8 @@ PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
 
 PlayersHouse_2F_Text_Notebook:
 	.string "{PLAYER}翻开笔记。\p"
-	.string "冒险须知第一条用START键打开\n"
-	.string "菜单。\p"
+	.string "冒险须知第一条用START键打开菜\n"
+	.string "单。\p"
 	.string "冒险须知第二条记录选项可以写下记\n"
 	.string "录。\p"
 	.string "后面是空白……$"

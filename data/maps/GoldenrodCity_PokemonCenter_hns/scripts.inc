@@ -212,8 +212,8 @@ GoldenrodCity_PokemonCenter_LassText:
 GoldenrodPokeCenter_LinkReceptionistPleaseAcceptGSBallText:
     .string "是{PLAYER}对吧？\p"
     .string "恭喜你！\p"
-    .string "作为特别赠礼，这颗GS球是专门送\n"
-    .string "给你的！\p"
+    .string "作为特别赠礼，这颗GS球是专门送给\n"
+    .string "你的！\p"
     .string "请收下吧！$"
 
 GoldenrodPokeCenter_LinkReceptionistPleaseDoComeAgainText:
@@ -240,7 +240,7 @@ GoldenrodCity_PokemonCenter_PokefanFTooBadText:
     .string "哎？你没有吗？真遗憾。$"
 
 GoldenrodCity_PokemonCenter_PokefanFAnotherTimeThenText:
-    .string "哎……好吧，那下次再说吧\n"
+    .string "哎……好吧，那下次再说吧"
     .string "。$"
 
 GoldenrodCity_PokemonCenter_PlayerGaveAwayTheEonMailText:

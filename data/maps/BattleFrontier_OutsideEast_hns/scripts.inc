@@ -252,8 +252,8 @@ BattleFrontier_OutsideEast_Text_RankingHallSign_hns:
 	.string "冲击吧！$"
 
 BattleFrontier_OutsideEast_Text_ExchangeCornerSign_hns:
-	.string "对战点数兑换处兑换你的对战点数吧\n"
-	.string "！$"
+	.string "对战点数兑换处兑换你的对战点数\n"
+	.string "吧！$"
 
 BattleFrontier_OutsideEast_Text_BattleTowerFeelsSpecial_hns:
 	.string "哇！好大啊！\p"
@@ -264,8 +264,8 @@ BattleFrontier_OutsideEast_Text_ConquerLeagueAndFrontier_hns:
 	.string "我的宏伟抱负就是制霸对战开拓区和\n"
 	.string "宝可梦联盟。\p"
 	.string "如果我的梦想实现了……\p"
-	.string "我……我就去问隔壁的美美\n"
-	.string "愿不愿意和我做朋友！$"
+	.string "我……我就去问隔壁的美美愿不愿意和\n"
+	.string "我做朋友！$"
 
 BattleFrontier_OutsideEast_Text_PyramidTooHarsh_hns:
 	.string "对战金字塔太残酷了！我根本到不了\n"
@@ -274,17 +274,16 @@ BattleFrontier_OutsideEast_Text_PyramidTooHarsh_hns:
 	.string "面爬上去……$"
 
 BattleFrontier_OutsideEast_Text_ThriveInDarkness_hns:
-	.string "我在黑暗中茁壮成长……是\n"
-	.string "的……有什么配得上我？非\l"
-	.string "对战金字塔莫属……\p"
+	.string "我在黑暗中茁壮成长……是的……有什么\n"
+	.string "配得上我？非对战金字塔莫属……\p"
 	.string "在彻头彻尾的绝望黑暗中漫步，你觉\n"
 	.string "得如何？$"
 
 BattleFrontier_OutsideEast_Text_PutTogetherUltimateTeam_hns:
 	.string "我一个星期没睡觉，但终于组建出了\n"
 	.string "究极队伍！\p"
-	.string "不夸张地说，我都不知道自己怎么输\n"
-	.string "。我们要横扫对战竞技场！$"
+	.string "不夸张地说，我都不知道自己怎么\n"
+	.string "输。我们要横扫对战竞技场！$"
 
 BattleFrontier_OutsideEast_Text_DidScottBringYouHere_hns:
 	.string "也是亚希达带你来的吗？那家伙到底\n"
@@ -370,14 +369,14 @@ BattleFrontier_OutsideEast_Text_EnoughBattlePointsForDoll_hns:
 	.string "这就去再换一个超大的毛绒玩偶吧！$"
 
 BattleFrontier_OutsideEast_Text_LikeToHaveNameRecordedHere_hns:
-	.string "噢，原来如此！这里就是排行大厅啊\n"
-	.string "！\p"
+	.string "噢，原来如此！这里就是排行大厅\n"
+	.string "啊！\p"
 	.string "我想作为超级冠军名垂青史，把名字\n"
 	.string "永远刻在这里供后人瞻仰。$"
 
 BattleFrontier_OutsideEast_Text_CanDoAnythingWithYou_hns:
-	.string "只要有你在我身边，我什么都做得到\n"
-	.string "。$"
+	.string "只要有你在我身边，我什么都做得\n"
+	.string "到。$"
 
 BattleFrontier_OutsideEast_Text_PowerOfOurLoveWillOvercome_hns:
 	.string "噢，亲爱的，你太棒了！\p"
@@ -404,8 +403,8 @@ BattleFrontier_OutsideEast_Text_OddTreeHereSeemsToWiggle_hns:
 
 BattleFrontier_OutsideEast_Text_OnceAnOddTreePastHere_hns:
 	.string "打扰一下，年轻人。你的记性好吗？\p"
-	.string "我总觉得过去这里曾经有棵奇怪的树\n"
-	.string "。$"
+	.string "我总觉得过去这里曾经有棵奇怪的\n"
+	.string "树。$"
 
 BattleFrontier_OutsideEast_Text_StickyMonWithLongTail_hns:
 	.string "我……我看见了！\p"

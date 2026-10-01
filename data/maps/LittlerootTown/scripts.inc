@@ -905,8 +905,8 @@ LittlerootTown_EventScript_GiveRunningShoes::
 	return
 
 LittlerootTown_Text_OurNewHomeLetsGoInside:
-	.string "妈妈：{PLAYER}，我们到了\n"
-	.string "，宝贝！\p"
+	.string "妈妈：{PLAYER}，我们到\n"
+	.string "了，宝贝！\p"
 	.string "跟我们的行李一起待在搬家卡车里一\n"
 	.string "定累了吧？\p"
 	.string "这里就是未白镇了。\p"
@@ -944,24 +944,24 @@ LittlerootTown_Text_ExplainRunningShoes:
 LittlerootTown_Text_ComeHomeIfAnythingHappens:
 	.string "…… …… …… ……\n"
 	.string "…… …… …… ……\p"
-	.string "要是知道你有了自己的宝可梦……爸\n"
-	.string "爸也一定会很高兴的。\p"
+	.string "要是知道你有了自己的宝可梦……爸爸\n"
+	.string "也一定会很高兴的。\p"
 	.string "……但是，路上小心，无论发生了什\n"
 	.string "么，家门永远为你敞开着。\p"
-	.string "去吧，向着自己的目标努力吧，宝贝\n"
-	.string "！$"
+	.string "去吧，向着自己的目标努力吧，宝\n"
+	.string "贝！$"
 
 LittlerootTown_Text_CanUsePCToStoreItems:
-	.string "打开电脑就可以存取道具和宝可梦了\n"
-	.string "。\p"
+	.string "打开电脑就可以存取道具和宝可梦\n"
+	.string "了。\p"
 	.string "科学的力量真伟大！$"
 
 LittlerootTown_Text_BirchSpendsDaysInLab:
 	.string "小田卷博士整天都泡在研究所里做研\n"
 	.string "究，然后又会突然跑到野外去实地调\l"
 	.string "查……\p"
-	.string "他到底什么时候能在家里待上几天呢\n"
-	.string "？$"
+	.string "他到底什么时候能在家里待上几天\n"
+	.string "呢？$"
 
 LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut:
 	.string "呃，呃，呃！\p"

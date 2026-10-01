@@ -107,15 +107,15 @@ Text_ReceivedFogBadge:
 	.string "{PLAYER}获得了魅影徽章。$"
 
 MortyText_FogBadgeSpeech:
-	.string "有了魅影徽章，50级以内的宝可梦\n"
-	.string "都会听从你的指挥。\p"
-	.string "此外，学会了“冲浪”的宝可梦，也\n"
-	.string "可以在任何时候使出冲浪了。\p"
+	.string "有了魅影徽章，50级以内的宝可梦都\n"
+	.string "会听从你的指挥。\p"
+	.string "此外，学会了“冲浪”的宝可梦，也可\n"
+	.string "以在任何时候使出冲浪了。\p"
 	.string "这个也请你收下吧。$"
 
 MortyText_ShadowBallSpeech:
-	.string "那是“暗影球”。在造成伤害的同\n"
-	.string "时，还有可能降低对手的特防。\p"
+	.string "那是“暗影球”。在造成伤害的同时，\n"
+	.string "还有可能降低对手的特防。\p"
 	.string "合适的话就拿去用吧。$"
 
 MortyFightDoneText:
@@ -143,8 +143,7 @@ Morty_RematchDefeatText:
 
 SageJeffreySeenText:
 	.string "我和我的宝可梦一起度过了春天。\p"
-	.string "接着是夏天、秋天和冬天……\n"
-	.string ".\p"
+	.string "接着是夏天、秋天和冬天…….\p"
 	.string "然后春天又一次来临。我们已经相伴\n"
 	.string "了许久。$"
 
@@ -170,12 +169,11 @@ MediumMarthaSeenText:
 	.string "胜者必将是我！$"
 
 MediumMarthaBeatenText:
-	.string "我……我……我输\n"
-	.string "了！$"
+	.string "我……我……我输了！$"
 
 MediumMarthaAfterBattleText:
-	.string "求胜心最强烈的人，才是最终的赢家\n"
-	.string "！$"
+	.string "求胜心最强烈的人，才是最终的赢\n"
+	.string "家！$"
 
 MediumGraceSeenText:
 	.string "被我们这里的黑暗走廊难住了吗？想\n"
@@ -195,8 +193,8 @@ EcruteakCity_GymGuideText:
 	.string "属性的宝可梦。\p"
 	.string "虽然松叶是幽灵属性的专家，但也要\n"
 	.string "当心他那只神秘的鹿。\p"
-	.string "据说那只宝可梦能引发诡异的噩梦。\n"
-	.string ".....$"
+	.string "据说那只宝可梦能引发诡异的噩梦"
+	.string "。.....$"
 
 EcruteakCity_GymGuideWinText:
 	.string "呼，{PLAYER}。你干得太棒\n"

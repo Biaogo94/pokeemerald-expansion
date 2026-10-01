@@ -480,8 +480,8 @@ LilycoveCity_Text_MayYouGoingToBattleFrontier:
 LilycoveCity_Text_BrendanShoppingLetsBattle:
 	.string "小悠：嗨，这不是{PLAYER}\n"
 	.string "吗！\p"
-	.string "我来帮爸爸跑腿买东西。……才没打\n"
-	.string "算买玩偶呢！\p"
+	.string "我来帮爸爸跑腿买东西。……才没打算\n"
+	.string "买玩偶呢！\p"
 	.string "总之，离上次我们见面已经有段时间\n"
 	.string "了，\p"
 	.string "要不要来场对战比比看谁培育的宝可\n"
@@ -500,14 +500,14 @@ LilycoveCity_Text_BrendanWontBeBeaten:
 
 LilycoveCity_Text_BrendanDefeat:
 	.string "唔……你的宝可梦培育得不错。\p"
-	.string "明明我才是前辈训练家……有点不甘\n"
-	.string "心啊。$"
+	.string "明明我才是前辈训练家……有点不甘心\n"
+	.string "啊。$"
 
 LilycoveCity_Text_BrendanGoingBackToLittleroot:
 	.string "小悠：我……我打算回未白镇了。\p"
-	.string "你也知道我在帮爸爸收集宝可梦图鉴\n"
-	.string "，现在进展得还挺不错，我要回去给\l"
-	.string "他看看。$"
+	.string "你也知道我在帮爸爸收集宝可梦图\n"
+	.string "鉴，现在进展得还挺不错，我要回去\l"
+	.string "给他看看。$"
 
 LilycoveCity_Text_BrendanYouGoingToCollectBadges:
 	.string "{PLAYER}，你接下来打算做\n"
@@ -522,8 +522,8 @@ LilycoveCity_Text_BrendanYouGoingToPokemonLeague:
 	.string "什么？\p"
 	.string "你变得这么强了，试试挑战宝可梦联\n"
 	.string "盟去吗？\p"
-	.string "呵呵，就算我——如果能再努力训练\n"
-	.string "一下，也许会比你更强的，\l"
+	.string "呵呵，就算我——如果能再努力训练一\n"
+	.string "下，也许会比你更强的，\l"
 	.string "{PLAYER}。\p"
 	.string "好了，无论如何，加油吧！$"
 
@@ -535,31 +535,30 @@ LilycoveCity_Text_BrendanYouGoingToBattleFrontier:
 	.string "既然你已经这么强了，考虑一下去对\n"
 	.string "战开拓区吧。\p"
 	.string "呵呵，如果我更努力训练的话，也许\n"
-	.string "就会比你更强了，{PLAYER}\l"
-	.string "。\p"
+	.string "就会比你更强了，\l"
+	.string "{PLAYER}。\p"
 	.string "可能我也该去对战开拓区看看。\p"
 	.string "好了，无论如何，加油吧！$"
 
 LilycoveCity_Text_MovedLootIntoHideoutToday:
 	.string "哼哼哼……\p"
-	.string "我们今天往基地里搬了不少战利品…\n"
-	.string "…\p"
-	.string "你……你是谁？！我只是在自言自语\n"
-	.string "而已！$"
+	.string "我们今天往基地里搬了不少战利品……\p"
+	.string "你……你是谁？！我只是在自言自语而\n"
+	.string "已！$"
 
 LilycoveCity_Text_ChanceToDoBigThings:
 	.string "我只不过是个小兵，根本不知道老大\n"
 	.string "在想什么……\p"
 	.string "但我知道，只要加入海洋队，我总有\n"
 	.string "机会做些大事的！\p"
-	.string "你……你是谁？！我只是在自言自语\n"
-	.string "而已！$"
+	.string "你……你是谁？！我只是在自言自语而\n"
+	.string "已！$"
 
 LilycoveCity_Text_DontGoNearCaveInCove:
 	.string "喂，说你呢！\p"
 	.string "别靠近海湾那儿的洞窟！\p"
-	.string "为什么？我凭啥要告诉你！我是大人\n"
-	.string "，所以你得听我的！$"
+	.string "为什么？我凭啥要告诉你！我是大\n"
+	.string "人，所以你得听我的！$"
 
 LilycoveCity_Text_IfWorldBecomesOurs:
 	.string "如果这广阔的世界都归属于我们海洋\n"
@@ -571,8 +570,8 @@ LilycoveCity_Text_WailmerLeapOutOfWater:
 
 LilycoveCity_Text_GetLostMessingUpTraining:
 	.string "嗯？你想干什么？\p"
-	.string "你打扰了我们训练了，所以你能不能\n"
-	.string "，那个，赶紧消失啊？$"
+	.string "你打扰了我们训练了，所以你能不\n"
+	.string "能，那个，赶紧消失啊？$"
 
 LilycoveCity_Text_ContestHallInTown:
 	.string "这个城镇里就有个宝可梦华丽大赛会\n"
@@ -599,16 +598,16 @@ LilycoveCity_Text_ImFromKanto:
 	.string "可梦吧？$"
 
 LilycoveCity_Text_TeamAquaBeenTrainingWailmer:
-	.string "海洋队一直在海湾训练他们的吼吼鲸\n"
-	.string "。\p"
+	.string "海洋队一直在海湾训练他们的吼吼\n"
+	.string "鲸。\p"
 	.string "他们挡着路，我们水手根本没法驾船\n"
 	.string "出海！$"
 
 LilycoveCity_Text_SomeonePuntedTeamAquaOut:
 	.string "喂，知道吗？\p"
 	.string "有人替我们赶走了海洋队！\p"
-	.string "海湾那边的那些吼吼鲸也因此离开了\n"
-	.string "，我们的船又能出海了。$"
+	.string "海湾那边的那些吼吼鲸也因此离开\n"
+	.string "了，我们的船又能出海了。$"
 
 LilycoveCity_Text_SomeoneStoleMyPokemon:
 	.string "刚才我在海边的民宿里听着潮声睡了\n"
@@ -617,13 +616,13 @@ LilycoveCity_Text_SomeoneStoleMyPokemon:
 	.string "是谁干的？海洋队？是海洋队吗？$"
 
 LilycoveCity_Text_MissingPokemonCameBack:
-	.string "我那失踪的宝可梦……在我没注意时\n"
-	.string "自己回来了！$"
+	.string "我那失踪的宝可梦……在我没注意时自\n"
+	.string "己回来了！$"
 
 LilycoveCity_Text_ImArtDealer:
 	.string "我是一名艺术品商人。\p"
-	.string "我的工作是买卖艺术品，尤其是绘画\n"
-	.string "。\p"
+	.string "我的工作是买卖艺术品，尤其是绘\n"
+	.string "画。\p"
 	.string "我听说这里的美术馆正在展出美妙绝\n"
 	.string "伦的艺术品……$"
 
@@ -648,15 +647,14 @@ LilycoveCity_Text_TeamAquaRenovatedCavern:
 
 LilycoveCity_Text_TeamAquaLotGoneForGood:
 	.string "那个海湾的洞窟……\p"
-	.string "一开始我没注意，但它现在已经空了\n"
-	.string "。\p"
-	.string "那些海洋队一定是全体卷铺盖跑路了\n"
-	.string "。$"
+	.string "一开始我没注意，但它现在已经空\n"
+	.string "了。\p"
+	.string "那些海洋队一定是全体卷铺盖跑路\n"
+	.string "了。$"
 
 LilycoveCity_Text_CitySign:
 	.string "水静市\p"
-	.string "“陆地尽头，\n"
-	.string "海洋开始的地方。”$"
+	.string "“陆地尽头，海洋开始的地方。”$"
 
 LilycoveCity_Text_ContestHallSign:
 	.string "宝可梦华丽大赛会场“训练家聚集的\n"
@@ -687,13 +685,13 @@ LilycoveCity_Text_HarborSign:
 
 LilycoveCity_Text_TrainerFanClubSign:
 	.string "宝可梦训练家俱乐部\p"
-	.string "牌子上潦草地写着一些训练家的名字\n"
-	.string "……$"
+	.string "牌子上潦草地写着一些训练家的名\n"
+	.string "字……$"
 
 LilycoveCity_Text_DepartmentStoreSign:
 	.string "水静百货\p"
 	.string "“满载着商品和快乐回家！”\p"
-	.string "“寻找你所需要的物品的最佳地点！\n"
+	.string "“寻找你所需要的物品的最佳地点！"
 	.string "”$"
 
 LilycoveCity_Text_MoveDeletersHouseSign:
@@ -704,8 +702,8 @@ LilycoveCity_Text_DoYouKnowAboutBerryBlender:
 	.string "你知道叫做树果混合器的机器吗？$"
 
 LilycoveCity_Text_FasterSpinBetterPokeblocks:
-	.string "大家必须齐心协力才能让它转得更快\n"
-	.string "。\p"
+	.string "大家必须齐心协力才能让它转得更\n"
+	.string "快。\p"
 	.string "听说转得越快，就能做出品质越好的\n"
 	.string "{POKEBLOCK}呢。$"
 
@@ -721,8 +719,8 @@ LilycoveCity_Text_HeardTowerCalledSkyPillar:
 	.string "叫做天空之柱。$"
 
 LilycoveCity_Text_SawTallTowerOnRoute131:
-	.string "我在130号水路的附近看到过一座\n"
-	.string "高高的塔，\p"
+	.string "我在130号水路的附近看到过一座高\n"
+	.string "高的塔，\p"
 	.string "那会不会是……？$"
 
 LilycoveCity_Text_JustArrivedAndSawRarePokemon:

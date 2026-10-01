@@ -119,12 +119,11 @@ GoldenrodCity_FlowerShop_Text_Owner1:
 	.string "有人说要是给它浇水，它就会跳起舞\n"
 	.string "来……\p"
 	.string "啊，想都别想！\p"
-	.string "虽然这里是花店，也确实有浇水壶。\n"
-	.string ".....\p"
+	.string "虽然这里是花店，也确实有浇水壶"
+	.string "。.....\p"
 	.string "但我可不能借给你！那太危险了！\p"
-	.string "嗯……不过要是你能打败道\n"
-	.string "馆馆主小茜的话，说不定还可以考虑\l"
-	.string "一下。$"
+	.string "嗯……不过要是你能打败道馆馆主小茜\n"
+	.string "的话，说不定还可以考虑一下。$"
 
 GoldenrodCity_FlowerShop_Text_Owner2:
 	.string "听说36号道路上有棵奇怪的树。\p"
@@ -134,13 +133,13 @@ GoldenrodCity_FlowerShop_Text_Owner2:
 	.string "你打败了小茜吗？！\p"
 	.string "既然这样，那就没什么好担心的了，\n"
 	.string "对吧？\p"
-	.string "那这个杰尼龟喷壶就先借给你用用吧\n"
-	.string "。......\p"
+	.string "那这个杰尼龟喷壶就先借给你用用\n"
+	.string "吧。......\p"
 	.string "哎呀，算了。直接送给你啦！$"
 
 GoldenrodCity_FlowerShop_Text_Owner3:
-	.string "那棵奇怪的树就在36号道路上。请\n"
-	.string "一定要小心哦！$"
+	.string "那棵奇怪的树就在36号道路上。请一\n"
+	.string "定要小心哦！$"
 
 GoldenrodCity_FlowerShop_Text_Owner4:
     .string "啦啦啦，啦啦啦。可爱的花儿，多喝\n"

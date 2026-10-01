@@ -137,8 +137,7 @@ SaffronCity_Text_Fisher:
 SaffronCity_Text_Fisher_ReturnedPart:
 	.string "嚼……嚼……\p"
 	.string "听说发电厂那边之前出了大乱子啊。\p"
-	.string "嚼……嚼……哈\n"
-	.string "啊，吃饱了！$"
+	.string "嚼……嚼……哈啊，吃饱了！$"
 
 SaffronCity_Text_Youngster1:
 	.string "第一次走进小巷子里，心里总有点发\n"

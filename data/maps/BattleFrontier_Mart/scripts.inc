@@ -52,8 +52,8 @@ BattleFrontier_Mart_Text_ChaperonGrandson:
 BattleFrontier_Mart_Text_ProteinMakeNiceGift:
 	.string "亲爱的，你觉得这个怎么样？这应该\n"
 	.string "是个不错的礼物吧？\p"
-	.string "这是……攻击……增强……剂？听上\n"
-	.string "去挺好吃的，不是吗？$"
+	.string "这是……攻击……增强……剂？听上去挺好\n"
+	.string "吃的，不是吗？$"
 
 BattleFrontier_Mart_Text_FacilitiesDontAllowItems:
 	.string "对战开拓区里的比赛都不允许在对战\n"

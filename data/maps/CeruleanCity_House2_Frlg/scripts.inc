@@ -33,8 +33,8 @@ CeruleanCity_House2_Text_RocketsStoleTMForDig::
 
 CeruleanCity_House2_Text_TeachDiglettDigWithoutTM::
 	.string "我想丢的东西就丢了吧。\p"
-	.string "我打算让地鼠不通过技能学会挖地洞\n"
-	.string "。$"
+	.string "我打算让地鼠不通过技能学会挖地\n"
+	.string "洞。$"
 
 CeruleanCity_House2_Text_TeamRocketTryingToDigIntoNoGood::
 	.string "火箭队一定想挖地洞来做见不得人的\n"

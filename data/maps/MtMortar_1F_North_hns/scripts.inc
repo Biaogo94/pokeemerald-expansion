@@ -49,7 +49,7 @@ MountMortar2_Text_PokemaniacMillerSeen:
 	.string "这次我可不会输！$"
 
 MountMortar2_Text_PokemaniacMillerBeaten:
-	.string "我居然输给了一个小鬼……\n"
+	.string "我居然输给了一个小鬼……"
 	.string "？$"
 
 MountMortar2_Text_PokemaniacMillerAfter:
@@ -69,5 +69,5 @@ MountMortar2_Text_SupernerdMarkusBeaten:
 MountMortar2_Text_SupernerdMarkusAfter:
 	.string "我是来擂钵山探险的，但跟搭档走散\n"
 	.string "了……\p"
-	.string "你有没有碰到带着学会“攀瀑”的海\n"
-	.string "刺龙的训练家？$"
+	.string "你有没有碰到带着学会“攀瀑”的海刺\n"
+	.string "龙的训练家？$"

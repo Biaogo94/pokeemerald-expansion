@@ -44,16 +44,15 @@ EventScript_CancelCut::
 	end
 
 Text_WantToCut:
-	.string "这棵树看起来可以用\n"
-	.string "“居合斩”砍倒！\p"
+	.string "这棵树看起来可以用“居合斩”砍倒！\p"
 	.string "要使用“居合斩”吗？$"
 
 Text_MonUsedFieldMove:
-	.string "{STR_VAR_1}使出了{STR_VAR_2}！$"
+	.string "{STR_VAR_1}使出了\n"
+	.string "{STR_VAR_2}！$"
 
 Text_CantCut:
-	.string "这棵树好像可以用\n"
-	.string "秘传招式砍断！$"
+	.string "这棵树好像可以用秘传招式砍断！$"
 
 @ Use rock smash from party menu
 EventScript_UseRockSmash::
@@ -218,12 +217,12 @@ EventScript_CancelSmash::
 	end
 
 Text_WantToSmash:
-	.string "好像可以用秘传招式击碎！\n"
-	.string "要使用碎岩吗？$"
+	.string "好像可以用秘传招式击碎！要使用碎\n"
+	.string "岩吗？$"
 
 Text_CantSmash:
-	.string "看起来很硬的岩石……\n"
-	.string "或许可以用秘传招式击碎？$"
+	.string "看起来很硬的岩石……或许可以用秘传\n"
+	.string "招式击碎？$"
 
 EventScript_StrengthBoulder::
 	lockall
@@ -268,22 +267,22 @@ EventScript_CancelStrength::
 	end
 
 Text_WantToStrength:
-	.string "这是一块巨石，但宝可梦\n"
-	.string "也许能把它推开。\p"
+	.string "这是一块巨石，但宝可梦也许能把它\n"
+	.string "推开。\p"
 	.string "要使用“怪力”吗？$"
 
 Text_MonUsedStrength:
-	.string "{STR_VAR_1}使用了“怪力”！\p"
-	.string "{STR_VAR_1}的怪力\n"
-	.string "让巨石可以移动了！$"
+	.string "{STR_VAR_1}使用了“怪\n"
+	.string "力”！\p"
+	.string "{STR_VAR_1}的怪力让巨\n"
+	.string "石可以移动了！$"
 
 Text_CantStrength:
-	.string "好大的岩石……\n"
-	.string "或许可以用秘传招式推动？$"
+	.string "好大的岩石……或许可以用秘传招式推\n"
+	.string "动？$"
 
 Text_StrengthActivated:
-	.string "使出了怪力后，\n"
-	.string "可以推动岩石了！$"
+	.string "使出了怪力后，可以推动岩石了！$"
 
 EventScript_UseWaterfall::
 	lockall
@@ -310,15 +309,14 @@ EventScript_EndWaterfall::
 	end
 
 Text_CantWaterfall:
-	.string "一堵水墙伴随着怒吼\n"
-	.string "倾泻而下。$"
+	.string "一堵水墙伴随着怒吼倾泻而下。$"
 
 Text_WantToWaterfall:
-	.string "好大的瀑布啊！\n"
-	.string "要使用攀瀑吗？$"
+	.string "好大的瀑布啊！要使用攀瀑吗？$"
 
 Text_MonUsedWaterfall:
-	.string "{STR_VAR_1}使出了攀瀑。$"
+	.string "{STR_VAR_1}使出了攀\n"
+	.string "瀑。$"
 
 EventScript_UseDive::
 	lockall
@@ -404,23 +402,22 @@ EventScript_UseCutGrass::
 	goto EventScript_CutGrassCommon
 
 Text_CantDive:
-	.string "这里的水很深。\n"
-	.string "好像可以用秘传招式潜下去。$"
+	.string "这里的水很深。好像可以用秘传招式\n"
+	.string "潜下去。$"
 
 Text_WantToDive:
-	.string "这里的水很深。\n"
-	.string "要使用潜水吗？$"
+	.string "这里的水很深。要使用潜水吗？$"
 
 Text_MonUsedDive:
-	.string "{STR_VAR_1}使出了潜水。$"
+	.string "{STR_VAR_1}使出了潜\n"
+	.string "水。$"
 
 Text_CantSurface:
-	.string "上方有亮光洒下。\n"
-	.string "好像可以从这里浮出水面。$"
+	.string "上方有亮光洒下。好像可以从这里浮\n"
+	.string "出水面。$"
 
 Text_WantToSurface:
-	.string "上方有亮光洒下。\n"
-	.string "要使用潜水吗？$"
+	.string "上方有亮光洒下。要使用潜水吗？$"
 
 EventScript_FailSweetScent::
 	msgbox Text_FailSweetScent, MSGBOX_SIGN
@@ -469,12 +466,13 @@ EventScript_EndRockClimb::
 	end
 
 Text_WantToRockClimb:
-	.string "岩石表面看起来非常粗糙……\n"
-	.string "要使用攀岩吗？$"
+	.string "岩石表面看起来非常粗糙……要使用攀\n"
+	.string "岩吗？$"
 
 Text_MonUsedRockClimb:
-	.string "{STR_VAR_1}使出了攀岩！$"
+	.string "{STR_VAR_1}使出了攀\n"
+	.string "岩！$"
 
 Text_CantRockClimb:
-	.string "岩石表面看起来非常粗糙……\n"
-	.string "或许可以用秘传招式攀爬？$"
+	.string "岩石表面看起来非常粗糙……或许可以\n"
+	.string "用秘传招式攀爬？$"

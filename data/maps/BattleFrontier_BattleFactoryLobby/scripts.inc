@@ -325,25 +325,25 @@ BattleFrontier_BattleFactoryLobby_EventScript_ExitRules::
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForSingleBattle:
 	.string "训练家的智慧将在此接受考验！\p"
 	.string "欢迎来到对战工厂！\p"
-	.string "我是您的交换式对战单打锦标赛向导\n"
-	.string "。$"
+	.string "我是您的交换式对战单打锦标赛向\n"
+	.string "导。$"
 
 BattleFrontier_BattleFactoryLobby_Text_TakeSinglesChallenge:
 	.string "要挑战交换式对战单打锦标赛吗？$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSinglesChallenge:
 	.string "交换式对战单打锦标赛是一种只能使\n"
-	.string "用租借的宝可梦进行单打对战的比赛\l"
-	.string "。\p"
+	.string "用租借的宝可梦进行单打对战的比\l"
+	.string "赛。\p"
 	.string "首先，您将获得3只专门为本次比赛\n"
 	.string "提供的租借宝可梦。\p"
 	.string "您需要用这些提供的租借宝可梦，进\n"
 	.string "行一场单打对战。\p"
 	.string "如果获胜，您可以将其中1只租借宝\n"
 	.string "可梦交换掉。\p"
-	.string "如此反复进行对战与交换——如果您\n"
-	.string "能连续获胜7次，我们将向您呈上对\l"
-	.string "战点数。\p"
+	.string "如此反复进行对战与交换——如果您能\n"
+	.string "连续获胜7次，我们将向您呈上对战\l"
+	.string "点数。\p"
 	.string "如果您要暂停挑战，请先写入记录。\p"
 	.string "请确保在退出前完好地写下了记录。\n"
 	.string "否则我们将视挑战为无效。$"
@@ -352,8 +352,8 @@ BattleFrontier_BattleFactoryLobby_Text_LookForwardToNextVisit:
 	.string "我们期待您的再次光临。$"
 
 BattleFrontier_BattleFactoryLobby_Text_WhichLevelMode:
-	.string "您要挑战哪个等级？Lv. 50级\n"
-	.string "还是自由等级？$"
+	.string "您要挑战哪个等级？Lv. 50级还是自\n"
+	.string "由等级？$"
 
 BattleFrontier_BattleFactoryLobby_Text_OkayToSaveBeforeChallenge:
 	.string "在挑战前需要先写入记录，可以吗？$"
@@ -394,8 +394,8 @@ BattleFrontier_BattleFactoryLobby_Text_MaxBattlePoints:
 
 BattleFrontier_BattleFactoryLobby_Text_WaitingForYouToResume:
 	.string "我们已经恭候多时了！\p"
-	.string "在继续您的挑战前，需要先写入记录\n"
-	.string "。$"
+	.string "在继续您的挑战前，需要先写入记\n"
+	.string "录。$"
 
 BattleFrontier_BattleFactoryLobby_Text_DidntSaveBeforeQuitting:
 	.string "非常遗憾，您上次在退出游戏前没有\n"
@@ -415,25 +415,25 @@ BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem:
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForDoubleBattle:
 	.string "训练家的智慧将在此接受考验！\p"
 	.string "欢迎来到对战工厂！\p"
-	.string "我是您的交换式对战双打锦标赛向导\n"
-	.string "。$"
+	.string "我是您的交换式对战双打锦标赛向\n"
+	.string "导。$"
 
 BattleFrontier_BattleFactoryLobby_Text_TakeDoublesChallenge:
 	.string "要挑战交换式对战双打锦标赛吗？$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainDoublesChallenge:
 	.string "交换式对战双打锦标赛是一种只能使\n"
-	.string "用租借的宝可梦进行双打对战的比赛\l"
-	.string "。\p"
+	.string "用租借的宝可梦进行双打对战的比\l"
+	.string "赛。\p"
 	.string "首先，您将获得3只专门为本次比赛\n"
 	.string "提供的租借宝可梦。\p"
 	.string "您需要用这些提供的租借宝可梦，进\n"
 	.string "行一场双打对战。\p"
 	.string "如果获胜，您可以将其中1只租借宝\n"
 	.string "可梦交换掉。\p"
-	.string "如此反复进行对战与交换——如果您\n"
-	.string "能连续获胜7次，我们将向您呈上对\l"
-	.string "战点数。\p"
+	.string "如此反复进行对战与交换——如果您能\n"
+	.string "连续获胜7次，我们将向您呈上对战\l"
+	.string "点数。\p"
 	.string "如果您在挑战途中想要暂停的话，\p"
 	.string "请确保在退出前完好地写下了记录。\n"
 	.string "否则我们将视挑战为无效。$"
@@ -461,12 +461,12 @@ BattleFrontier_BattleFactoryLobby_Text_NeedKnowledgeOfMonsMoves:
 	.string "么对战就会很容易是吗？\p"
 	.string "我认为要赢并不是那么简单的。\p"
 	.string "如果你不具备对宝可梦及他们的招式\n"
-	.string "的透彻的知识的话，想要赢是很难的\l"
-	.string "。$"
+	.string "的透彻的知识的话，想要赢是很难\l"
+	.string "的。$"
 
 BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon:
-	.string "我交换到了1只很弱的宝可梦……我\n"
-	.string "本以为那种不错……\p"
+	.string "我交换到了1只很弱的宝可梦……我本\n"
+	.string "以为那种不错……\p"
 	.string "结果他们把我打得一败涂地……$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedToCheckOpponentsMons:

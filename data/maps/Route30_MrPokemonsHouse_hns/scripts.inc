@@ -158,8 +158,8 @@ MrPokemonHouse_Text_Intro2:
 	.string "西。$"
 
 MrPokemonHouse_Text_GotEgg:
-	.string "{PLAYER}收下了不思议的蛋\n"
-	.string "。$"
+	.string "{PLAYER}收下了不思议的\n"
+	.string "蛋。$"
 
 MrPokemonHouse_Text_Intro3:
 	.string "我认识一对经营宝可梦培育屋的夫\n"
@@ -193,13 +193,12 @@ MrPokemonHouse_Text_OakIntro:
 	.string "大木：啊哈！原来你就是\n"
 	.string "{PLAYER}！\p"
 	.string "我是大木！是一名宝可梦研究员。\p"
-	.string "我正好来拜访我的老朋友宝可梦先生\n"
-	.string "。\p"
+	.string "我正好来拜访我的老朋友宝可梦先\n"
+	.string "生。\p"
 	.string "听说你在帮空木博士跑腿，所以我特\n"
 	.string "意在这里等你。\p"
 	.string "哦！这是什么？好罕见的宝可梦！\p"
-	.string "让我看看……嗯，原来如此\n"
-	.string "！\p"
+	.string "让我看看……嗯，原来如此！\p"
 	.string "我明白空木博士为什么会托付你一只\n"
 	.string "宝可梦来跑腿了。\p"
 	.string "对我和空木博士这样的研究员来说，\n"
@@ -209,8 +208,8 @@ MrPokemonHouse_Text_OakIntro:
 	.string "……啊！\p"
 	.string "你看起来很值得信赖。不知你愿不愿\n"
 	.string "意帮我一个忙？\p"
-	.string "看到了吗？这是最新型的宝可梦图鉴\n"
-	.string "。\p"
+	.string "看到了吗？这是最新型的宝可梦图\n"
+	.string "鉴。\p"
 	.string "只要是见过或捉到的宝可梦，它都会\n"
 	.string "自动记录相关资料。\p"
 	.string "这可是高科技的百科全书！\p"
@@ -218,8 +217,8 @@ MrPokemonHouse_Text_OakIntro:
 	.string "会的招式呢。$"
 
 MrPokemonHouse_Text_GetDex:
-	.string "{PLAYER}获得了宝可梦图鉴\n"
-	.string "！$"
+	.string "{PLAYER}获得了宝可梦图\n"
+	.string "鉴！$"
 
 MrPokemonHouse_Text_OakParting:
 	.string "去邂逅各种各样的宝可梦，完成那本\n"
@@ -230,10 +229,9 @@ MrPokemonHouse_Text_OakParting:
 	.string "{PLAYER}，就拜托你了！$"
 
 MrPokemonHouse_Text_GimmeTheScale:
-	.string "嗯？那片鳞片！那是……？\n"
-	.string "红色暴鲤龙的鳞片？！\p"
-	.string "太罕见了！我、好想得到它……\n"
-	.string "..\p"
+	.string "嗯？那片鳞片！那是……？红色暴鲤龙\n"
+	.string "的鳞片？！\p"
+	.string "太罕见了！我、好想得到它……..\p"
 	.string "{PLAYER}，你愿意跟我交换\n"
 	.string "吗？\p"
 	.string "我可以把从大木博士那里得到的学习\n"
@@ -251,8 +249,7 @@ MrPokemonHouse_Text_ForeignMagazines:
 	.string "连标题都看不懂……$"
 
 MrPokemonHouse_Text_BrokenComputer:
-	.string "一台大电脑。唔……好像坏\n"
-	.string "掉了。$"
+	.string "一台大电脑。唔……好像坏掉了。$"
 
 MrPokemonHouse_Text_StrangeCoins:
 	.string "堆成小山的奇怪硬币！\p"

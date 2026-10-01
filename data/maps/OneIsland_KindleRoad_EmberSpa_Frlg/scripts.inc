@@ -56,8 +56,8 @@ OneIsland_KindleRoad_EmberSpa_Text_WaterWarmsMeToCore::
 	.string "真是天堂般的感受！这些温暖的水涌\n"
 	.string "入我的心！\p"
 	.string "你也应该跳进来的。\p"
-	.string "到中间去，放松，去体会温暖和美好\n"
-	.string "！$"
+	.string "到中间去，放松，去体会温暖和美\n"
+	.string "好！$"
 
 OneIsland_KindleRoad_EmberSpa_Text_EnjoyBowlOfChowder::
 	.string "马上要进行的是沐浴中我最喜欢的一\n"
@@ -74,8 +74,8 @@ OneIsland_KindleRoad_EmberSpa_Text_HotSpringIsTherapeutic::
 	.string "据说，泡温泉有益于身体健康。$"
 
 OneIsland_KindleRoad_EmberSpa_Text_SeeHowSmoothMySkinIs::
-	.string "看看我的脸。我的皮肤是不是很光滑\n"
-	.string "？\p"
+	.string "看看我的脸。我的皮肤是不是很光\n"
+	.string "滑？\p"
 	.string "泡温泉使我看起来更年轻。$"
 
 OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion::

@@ -16,8 +16,7 @@ FortreeCity_House3_Text_MetStevenHadAmazingPokemon:
 	.string "哈，他带着一些奇妙的宝可梦，\p"
 	.string "它们不止是强大，还在训练中发挥到\n"
 	.string "了极致！\p"
-	.string "他也许比这城镇的道馆馆主还要强…\n"
-	.string "…$"
+	.string "他也许比这城镇的道馆馆主还要强……$"
 
 FortreeCity_House3_Text_OhYouHavePokedex:
 	.string "你拿着的那是什么？\p"

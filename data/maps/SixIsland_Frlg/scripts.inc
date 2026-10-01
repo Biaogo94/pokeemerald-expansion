@@ -23,8 +23,8 @@ SixIsland_Text_IslandSign::
 
 SixIsland_Text_ThatWayToWaterPathRuinValley::
 	.string "继续沿着这条路走就是水之步道。\p"
-	.string "在那里转一转的话就能找到遗迹山谷\n"
-	.string "。$"
+	.string "在那里转一转的话就能找到遗迹山\n"
+	.string "谷。$"
 
 SixIsland_Text_SkyAtNightIsFantastic::
 	.string "在离城市那么远的地方，夜晚的天空\n"

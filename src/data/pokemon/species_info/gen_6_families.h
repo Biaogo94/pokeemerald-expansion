@@ -168,7 +168,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .weight = 900,
         .description = COMPOUND_STRING(
             "性格温和，不爱争斗，但只要到了紧\n"
-            "要关头，就会用带刺的拳头击溃对手\n"
+            "要关头，就会用带刺的拳头击溃对手"
             "。"),
         .pokemonScale = 259,
         .pokemonOffset = 1,
@@ -1715,7 +1715,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .height = 6,
         .weight = 135,
         .description = COMPOUND_STRING(
-            "为了变强而开始离开群体，独自生活\n"
+            "为了变强而开始离开群体，独自生活"
             "。血气旺盛，很冲动。"),
         .pokemonScale = 422,
         .pokemonOffset = 12,
@@ -1981,7 +1981,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         FLABEBE_MISC_INFO(Orange, ORANGE, 0),
         .description = COMPOUND_STRING(
             "由于从花那里得到力量，因此相应地\n"
-            "会分出能量给花。它最喜欢的是橙花\n"
+            "会分出能量给花。它最喜欢的是橙花"
             "。"),
         .randomizerMode = MON_RANDOMIZER_INVALID,
     },
@@ -2079,7 +2079,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
     {
         FLOETTE_NORMAL_INFO(Yellow, YELLOW, 1),
         .description = COMPOUND_STRING(
-            "能够激发草属性的宝可梦的潜在能力\n"
+            "能够激发草属性的宝可梦的潜在能力"
             "。与黄花的波长很契合。"),
         .randomizerMode = MON_RANDOMIZER_INVALID,
     },
@@ -2098,7 +2098,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         FLOETTE_NORMAL_INFO(Blue, BLUE, 0),
         .description = COMPOUND_STRING(
             "能通过颜色的波长与花交换力量。这\n"
-            "个样子是能与蓝色的波长结合的个体\n"
+            "个样子是能与蓝色的波长结合的个体"
             "。"),
         .randomizerMode = MON_RANDOMIZER_INVALID,
     },
@@ -2230,7 +2230,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         FLORGES_MISC_INFO(Blue, 0),
         .description = COMPOUND_STRING(
             "过去蓝色的颜料价格十分昂贵，因此\n"
-            "画有蓝色个体的绘画拥有极高的价值\n"
+            "画有蓝色个体的绘画拥有极高的价值"
             "。"),
         .randomizerMode = MON_RANDOMIZER_INVALID,
     },
@@ -2331,7 +2331,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .weight = 310,
         .description = COMPOUND_STRING(
             "如果有水和阳光，就能用背上的叶子\n"
-            "制造能量，所以即使不吃食物也没事\n"
+            "制造能量，所以即使不吃食物也没事"
             "。"),
         .pokemonScale = 338,
         .pokemonOffset = 8,
@@ -2820,7 +2820,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .weight = 85,
         .description = COMPOUND_STRING(
             "一旦察觉到危险就会以最大输出释放\n"
-            "精神力量。它可不会在意对手的事情\n"
+            "精神力量。它可不会在意对手的事情"
             "。"),
         .pokemonScale = 422,
         .pokemonOffset = 12,
@@ -3140,7 +3140,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .weight = 530,
         .description = COMPOUND_STRING(
             "坚盾剑怪曾经用强大的灵力控制人和\n"
-            "宝可梦，建立了适合自己生活的国家\n"
+            "宝可梦，建立了适合自己生活的国家"
             "。"),
         .pokemonScale = 259,
         .pokemonOffset = 0,
@@ -3905,7 +3905,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .height = 22,
         .weight = 1000,
         .description = COMPOUND_STRING(
-            "虽然能用很多胳膊将对手耍得团团转\n"
+            "虽然能用很多胳膊将对手耍得团团转"
             "，但头部的龟足巨铠会相当忙。"),
         .frontPic = gMonFrontPic_BarbaracleMega,
         .frontPicSize = MON_COORDS_SIZE(64, 64),
@@ -4104,7 +4104,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .height = 21,
         .weight = 1003,
         .description = COMPOUND_STRING(
-            "会吐出能让细胞的再生力失控的液体\n"
+            "会吐出能让细胞的再生力失控的液体"
             "。除了自己，对谁都是剧毒。"),
         .frontPic = gMonFrontPic_DragalgeMega,
         .frontPicSize = MON_COORDS_SIZE(64, 64),
@@ -4504,7 +4504,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .height = 25,
         .weight = 2700,
         .description = COMPOUND_STRING(
-            "在1亿年前的世界里，以无敌而自豪\n"
+            "在1亿年前的世界里，以无敌而自豪"
             "，像国王一样行动的宝可梦。"),
         .pokemonScale = 257,
         .pokemonOffset = 10,
@@ -4914,7 +4914,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .weight = 57,
         .description = COMPOUND_STRING(
             "从出生开始，数亿年间一直都沉睡在\n"
-            "地底。挖掘洞窟的话，偶尔会挖出它\n"
+            "地底。挖掘洞窟的话，偶尔会挖出它"
             "。"),
         .pokemonScale = 530,
         .pokemonOffset = 13,
@@ -5129,7 +5129,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .height = 20,
         .weight = 1505,
         .description = COMPOUND_STRING(
-            "用伸缩的角进行攻击。威力相当于1\n"
+            "用伸缩的角进行攻击。威力相当于1"
             "00名职业拳击手出拳的力量。"),
         .pokemonScale = 261,
         .pokemonOffset = 1,
@@ -5362,7 +5362,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .weight = 30,
         .description = COMPOUND_STRING(
             "对于喜欢的钥匙绝对不放手，所以为\n"
-            "了防止盗窃，会让它拿着金库的钥匙\n"
+            "了防止盗窃，会让它拿着金库的钥匙"
             "。"),
         .pokemonScale = 682,
         .pokemonOffset = 24,
@@ -6034,7 +6034,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .height = 17,
         .weight = 390,
         .description = COMPOUND_STRING(
-            "身体特别大的南瓜精进化之后的样子\n"
+            "身体特别大的南瓜精进化之后的样子"
             "。身体的大小会遗传。"),
         .pokemonScale = 338,
         .pokemonOffset = 8,
@@ -7150,7 +7150,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .height = 11,
         .weight = 278,
         .description = COMPOUND_STRING(
-            "当体表的杂质剥落，沐浴在光芒中时\n"
+            "当体表的杂质剥落，沐浴在光芒中时"
             "，耀眼得无法直视。"),
         .pokemonScale = 365,
         .pokemonOffset = 12,
@@ -7375,7 +7375,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .height = 17,
         .weight = 1950,
         .description = COMPOUND_STRING(
-            "从背上的手臂里喷射出体内的水蒸气\n"
+            "从背上的手臂里喷射出体内的水蒸气"
             "。有着把整座山一下子吹飞的威力。"),
         .pokemonScale = 259,
         .pokemonOffset = 0,

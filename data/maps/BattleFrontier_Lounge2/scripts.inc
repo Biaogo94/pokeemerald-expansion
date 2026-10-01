@@ -113,8 +113,8 @@ BattleFrontier_Lounge2_EventScript_TriathleteF::
 	end
 
 BattleFrontier_Lounge2_Text_FrontierManiacIntro::
-	.string "嗨！我是对战开拓区消息最灵通的人\n"
-	.string "，\p"
+	.string "嗨！我是对战开拓区消息最灵通的\n"
+	.string "人，\p"
 	.string "你可以叫我开拓区迷。\p"
 	.string "只要看一眼我就知道你是个训练家，\n"
 	.string "对不？\p"
@@ -138,8 +138,8 @@ BattleFrontier_Lounge2_Text_FacilityIsHottest::
 BattleFrontier_Lounge2_Text_BattleTowerIsHottest::
 	.string "让我想想……\p"
 	.string "现在好像对战塔\n"
-	.string "{STR_VAR_1}是最热门的\l"
-	.string "。$"
+	.string "{STR_VAR_1}是最热门\l"
+	.string "的。$"
 
 BattleFrontier_Lounge2_Text_SalonMaidenIsThere::
 	.string "告诉你个秘密！\p"
@@ -198,13 +198,13 @@ BattleFrontier_Lounge2_Text_FactoryHeadIsThere::
 
 BattleFrontier_Lounge2_Text_FactoryHeadSilverMons::
 	.string "你跟工厂头目交过手了吗？\p"
-	.string "我想想……他对战时，只是使用3只\n"
-	.string "租借宝可梦。\p"
+	.string "我想想……他对战时，只是使用3只租\n"
+	.string "借宝可梦。\p"
 	.string "他和你在非常相似的条件下对战。$"
 
 BattleFrontier_Lounge2_Text_FactoryHeadGoldMons::
-	.string "你跟认真起来的工厂头目交过手了吗\n"
-	.string "？\p"
+	.string "你跟认真起来的工厂头目交过手了\n"
+	.string "吗？\p"
 	.string "当他认真起来时，仍然是使用3只租\n"
 	.string "借宝可梦。\p"
 	.string "他是和你在完全相同的条件下对战。$"
@@ -225,8 +225,8 @@ BattleFrontier_Lounge2_Text_PikeQueenSilverMons::
 	.string "可梦。$"
 
 BattleFrontier_Lounge2_Text_PikeQueenGoldMons::
-	.string "你跟认真起来的管道皇后交过手了吗\n"
-	.string "？\p"
+	.string "你跟认真起来的管道皇后交过手了\n"
+	.string "吗？\p"
 	.string "据说她非常生气的时候，通常都会用\n"
 	.string "这些宝可梦：\p"
 	.string "毒属性的牙蛇宝可梦，钢和地面属性\n"
@@ -274,8 +274,8 @@ BattleFrontier_Lounge2_Text_PalaceMavenSilverMons::
 BattleFrontier_Lounge2_Text_PalaceMavenGoldMons::
 	.string "你跟认真起来的宫殿守护者交过手了\n"
 	.string "吗？\p"
-	.string "据说他把精力全部集中到对战的时候\n"
-	.string "，通常会使用这些宝可梦：\p"
+	.string "据说他把精力全部集中到对战的时\n"
+	.string "候，通常会使用这些宝可梦：\p"
 	.string "火属性的传说宝可梦，一般属性的怕\n"
 	.string "麻烦宝可梦，还有水属性的极光宝可\l"
 	.string "梦。$"
@@ -292,8 +292,8 @@ BattleFrontier_Lounge2_Text_PyramidKingSilverMons::
 	.string "他检验对手实力的时候，通常都会用\n"
 	.string "这些宝可梦：\p"
 	.string "岩石属性的岩山宝可梦，冰属性的冰\n"
-	.string "山宝可梦，还有钢属性的黑金宝可梦\l"
-	.string "。$"
+	.string "山宝可梦，还有钢属性的黑金宝可\l"
+	.string "梦。$"
 
 BattleFrontier_Lounge2_Text_PyramidKingGoldMons::
 	.string "你跟认真起来的金字塔法老交过手了\n"
@@ -305,8 +305,8 @@ BattleFrontier_Lounge2_Text_PyramidKingGoldMons::
 	.string "属性的火焰宝可梦。$"
 
 BattleFrontier_Lounge2_Text_DoubleBattleAdvice1::
-	.string "确实，有些地方也可以进行双打对战\n"
-	.string "，\p"
+	.string "确实，有些地方也可以进行双打对\n"
+	.string "战，\p"
 	.string "不过在对战塔的双打对战间里，这可\n"
 	.string "是最基本的！\p"
 	.string "你可以在那里学习如何在对战开拓区\n"
@@ -322,10 +322,10 @@ BattleFrontier_Lounge2_Text_DoubleBattleAdvice3::
 	.string "去试着挑战其他地方的双打对战吧。$"
 
 BattleFrontier_Lounge2_Text_MultiBattleAdvice::
-	.string "对战沙龙里聚集了各种各样的训练家\n"
-	.string "。\p"
-	.string "想想吧——你可能会遇到你的朋友或\n"
-	.string "粉丝！要好好注意周围啊！$"
+	.string "对战沙龙里聚集了各种各样的训练\n"
+	.string "家。\p"
+	.string "想想吧——你可能会遇到你的朋友或粉\n"
+	.string "丝！要好好注意周围啊！$"
 
 BattleFrontier_Lounge2_Text_LinkMultiBattleAdvice::
 	.string "如果遇到了朋友，就去多人连线对战\n"
@@ -334,16 +334,16 @@ BattleFrontier_Lounge2_Text_LinkMultiBattleAdvice::
 	.string "有可能碰上很强的对手！$"
 
 BattleFrontier_Lounge2_Text_NewsGatheringPower::
-	.string "收集消息好厉害！老师果然非同一般\n"
-	.string "！$"
+	.string "收集消息好厉害！老师果然非同一\n"
+	.string "般！$"
 
 BattleFrontier_Lounge2_Text_AmazingPowersOfObservation::
-	.string "调查资料好厉害！老师果然非同一般\n"
-	.string "！$"
+	.string "调查资料好厉害！老师果然非同一\n"
+	.string "般！$"
 
 BattleFrontier_Lounge2_Text_AmazingPowerOfPersuasion::
-	.string "说服别人好厉害！老师果然非同一般\n"
-	.string "！$"
+	.string "说服别人好厉害！老师果然非同一\n"
+	.string "般！$"
 
 BattleFrontier_Lounge2_Text_ThisPlaceIsScaringMe::
 	.string "……这里是哪儿？好可怕……$"

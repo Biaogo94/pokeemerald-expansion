@@ -68,13 +68,12 @@ Route16_NorthEntrance_2F_Text_LongPathOverWater::
 Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
 	.string "嗨，还记得我吗？我是大木博士的助\n"
 	.string "手之一。\p"
-	.string "如果你的宝可梦图鉴已经收集了40\n"
-	.string "种数据 我就会给你奖励。\p"
+	.string "如果你的宝可梦图鉴已经收集了40种\n"
+	.string "数据 我就会给你奖励。\p"
 	.string "大木博士拜托我把护符金币给你。\p"
 	.string "那么，{PLAYER}让我来问问\n"
 	.string "你。\p"
-	.string "你至少已经取得了40种宝可梦了吗\n"
-	.string "？$"
+	.string "你至少已经取得了40种宝可梦了吗？$"
 
 Route16_NorthEntrance_2F_Text_GreatHereYouGo::
 	.string "太棒了！你已经拥有了\n"
@@ -87,8 +86,8 @@ Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide::
 	.string "护符金币。$"
 
 Route16_NorthEntrance_2F_Text_ExplainAmuletCoin::
-	.string "护符金币是一个由宝可梦携带的道具\n"
-	.string "。\p"
+	.string "护符金币是一个由宝可梦携带的道\n"
+	.string "具。\p"
 	.string "如果这只宝可梦赢得了战斗，你将会\n"
 	.string "得到更多钱！$"
 

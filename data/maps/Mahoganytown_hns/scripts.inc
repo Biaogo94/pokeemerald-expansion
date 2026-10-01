@@ -252,8 +252,8 @@ MahoganyTown_Text_RageCandyBarMerchantTryOne:
 	.string "看样子你是第一次来卡吉镇吧。\p"
 	.string "既然是新来的，那就该尝尝美味的愤\n"
 	.string "怒馒头！\p"
-	.string "现在只要300日元就能买到一个！\n"
-	.string "要来一个吗？$"
+	.string "现在只要300日元就能买到一个！要\n"
+	.string "来一个吗？$"
 
 MahoganyTown_Text_RageCandyBarMerchantSavorIt:
     .string "好嘞！好好品尝吧！$"

@@ -73,8 +73,8 @@ AbandonedShip_Corridors_B1F_Text_DoorIsLocked:
 	.string "门上写着“仓库”。$"
 
 AbandonedShip_Corridors_B1F_Text_InsertedStorageKey:
-	.string "{PLAYER}插入了仓库的钥匙\n"
-	.string "。\p"
+	.string "{PLAYER}插入了仓库的钥\n"
+	.string "匙。\p"
 	.string "插入的钥匙很快卡住了，不过门被打\n"
 	.string "开了。$"
 

@@ -246,8 +246,8 @@ ViridianCity_Text_ViridiansGymLeaderReturned::
 	.string "常青道馆的馆主回来了！$"
 
 ViridianCity_Text_WantToKnowAboutCaterpillarMons::
-	.string "你想知道两种虫属性宝可梦的区别吗\n"
-	.string "？$"
+	.string "你想知道两种虫属性宝可梦的区别\n"
+	.string "吗？$"
 
 ViridianCity_Text_OhOkayThen::
 	.string "噢，好吧！$"
@@ -295,8 +295,8 @@ ViridianCity_Text_WatchThatToLearnBasics::
 ViridianCity_Text_WeakenMonsFirstToCatch::
 	.string "我已经喝过咖啡了。喝咖啡可是我每\n"
 	.string "天的必修课！\p"
-	.string "但是我泡得太浓了。现在我头有点痛\n"
-	.string "……\p"
+	.string "但是我泡得太浓了。现在我头有点\n"
+	.string "痛……\p"
 	.string "顺便说一下，你完成了你的宝可梦图\n"
 	.string "鉴吗？\p"
 	.string "首先，要使宝可梦变弱，然后才能试\n"
@@ -305,8 +305,8 @@ ViridianCity_Text_WeakenMonsFirstToCatch::
 ViridianCity_Text_HowsTeachyTVHelping::
 	.string "我刚刚喝过咖啡了。喝咖啡可是我每\n"
 	.string "天的必修课！\p"
-	.string "但是我泡得太浓了，喝得我头都痛了\n"
-	.string "……\p"
+	.string "但是我泡得太浓了，喝得我头都痛\n"
+	.string "了……\p"
 	.string "顺便，我那台旧的教学电视机帮到你\n"
 	.string "了吗？$"
 
@@ -315,8 +315,8 @@ ViridianCity_Text_MyGrandsonOnTheShow::
 	.string "既然是他在教的话你就得好好学。$"
 
 ViridianCity_Text_TooBusyForTeachyTV::
-	.string "嗯……你忙得甚至抽不出时间来看教\n"
-	.string "学电视机了……\p"
+	.string "嗯……你忙得甚至抽不出时间来看教学\n"
+	.string "电视机了……\p"
 	.string "时间就是金钱，这两者都不应当被虚\n"
 	.string "耗……$"
 
@@ -332,8 +332,8 @@ ViridianCity_Text_MovesLimitedByPP::
 	.string "训练家贴士\p"
 	.string "宝可梦的技能受到它们的技能点 也\n"
 	.string "就是PP值的限制。\p"
-	.string "想要回复PP的话将你疲惫的宝可梦\n"
-	.string "放到宝可梦中心休息吧。$"
+	.string "想要回复PP的话将你疲惫的宝可梦放\n"
+	.string "到宝可梦中心休息吧。$"
 
 ViridianCity_Text_GymSign::
 	.string "常青市宝可梦道馆$"

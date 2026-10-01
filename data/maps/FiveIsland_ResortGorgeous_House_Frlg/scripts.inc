@@ -166,8 +166,7 @@ FiveIsland_ResortGorgeous_House_Text_MonYouCaughtForMeThankYou::
 	.string "真的很感谢你！\p"
 	.string "…… …… ……还有什么事吗？\p"
 	.string "你可以走了。\p"
-	.string "…… …… ……呃，好吧。我知道\n"
-	.string "了！\p"
+	.string "…… …… ……呃，好吧。我知道了！\p"
 	.string "庆介快给我出来！$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerYesMyLady::
@@ -182,13 +181,12 @@ FiveIsland_ResortGorgeous_House_Text_ButlerIShallDoAsYouBid::
 	.string "小姐。$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerPleaseAcceptThisAsHerThanks::
-	.string "管家：真的谢谢你让大小姐这么开心\n"
-	.string "。\p"
+	.string "管家：真的谢谢你让大小姐这么开\n"
+	.string "心。\p"
 	.string "请接受你应得的奖励吧……$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerBagAppearsToBeFull::
-	.string "管家：真不幸，你的背包好像满了…\n"
-	.string "…$"
+	.string "管家：真不幸，你的背包好像满了……$"
 
 FiveIsland_ResortGorgeous_House_Text_OhHowDisappointing::
 	.string "喔……太遗憾了！$"

@@ -106,12 +106,13 @@ EcruteakCity_Theater_Movement_KimonoGirlMoveBack:
 	step_end
 
 EcruteakCity_Theater_Text_Rocket1:
-	.string "火箭队手下：别跳那种严肃的舞蹈了\n"
-	.string "！给我来点像草裙舞那样的舞步啊！$"
+	.string "火箭队手下：别跳那种严肃的舞蹈\n"
+	.string "了！给我来点像草裙舞那样的舞步\l"
+	.string "啊！$"
 
 EcruteakCity_Theater_Text_KimonoRocket1:
-	.string "舞姬：……请您不要提出这\n"
-	.string "种强人所难的要求呀。$"
+	.string "舞姬：……请您不要提出这种强人所难\n"
+	.string "的要求呀。$"
 
 EcruteakCity_Theater_Text_Rocket2:
 	.string "火箭队手下：哈？！\p"
@@ -189,10 +190,8 @@ EcruteakCity_Theater_Text_RocketAfter:
 EcruteakCity_Theater_Text_KimonoRocket3:
 	.string "你就是{PLAYER}吧？刚才的\n"
 	.string "表现真是精彩。\p"
-	.string "温柔又坚强……也很擅长培\n"
-	.string "育宝可梦……\p"
-	.string "那位大人的眼光果然没错……\n"
-	.string ".\p"
+	.string "温柔又坚强……也很擅长培育宝可梦……\p"
+	.string "那位大人的眼光果然没错…….\p"
 	.string "呵呵呵！只是我自言自语罢了。别放\n"
 	.string "在心上。$"
 
@@ -393,22 +392,22 @@ EcruteakCity_Theater_Text_SurfGuyRocket:
 	.string "你是训练家对吧？请帮帮她吧！$"
 
 EcruteakCity_Theater_Text_SurfGuyGiveSurf:
-	.string "太精彩了！小小年纪居然如此有勇气\n"
-	.string "！\p"
-	.string "老夫真是大开眼界！这个就送给你吧\n"
-	.string "。\p"
+	.string "太精彩了！小小年纪居然如此有勇\n"
+	.string "气！\p"
+	.string "老夫真是大开眼界！这个就送给你\n"
+	.string "吧。\p"
 	.string "别客气--快收下吧！$"
 
 EcruteakCity_Theater_Text_SurfGuyGaveSurf:
-	.string "那是“冲浪”。只要学会这个招式，\n"
-	.string "宝可梦就能轻轻松松地在水面上前进\l"
+	.string "那是“冲浪”。只要学会这个招式，宝\n"
+	.string "可梦就能轻轻松松地在水面上前进\l"
 	.string "了。$"
 
 EcruteakCity_Theater_Text_SurfGuyAfter:
 	.string "舞姬们不仅舞跳得好，宝可梦对战的\n"
 	.string "实力也相当了得。\p"
-	.string "不过她们只在有正当理由时才会对战\n"
-	.string "。\p"
+	.string "不过她们只在有正当理由时才会对\n"
+	.string "战。\p"
 	.string "要是她们拿出真本事，不知道你能不\n"
 	.string "能赢过她们呢……$"
 
@@ -419,9 +418,8 @@ EcruteakCity_Theater_Text_BoyBefore:
 	.string "呀啊--！$"
 
 EcruteakCity_Theater_Text_Boy:
-	.string "本来该由我来英雄救美的……\n"
-	.string "借机接近舞姬小姐的计划全泡汤\l"
-	.string "了！$"
+	.string "本来该由我来英雄救美的……借机接近\n"
+	.string "舞姬小姐的计划全泡汤了！$"
 
 EcruteakCity_Theater_Text_Granny:
 	.string "那个人总是和他的可达鸭待在一起。\p"
@@ -431,14 +429,12 @@ EcruteakCity_Theater_Text_Granny:
 	.string "明星吗？$"
 
 EcruteakCity_Theater_Text_GrannyBefore:
-	.string "哎哟……好疼啊……\n"
-	.string "肚子痛得要命！\p"
+	.string "哎哟……好疼啊……肚子痛得要命！\p"
 	.string "要不是肚子这么痛，我才不会让那个\n"
 	.string "家伙那么嚣张……！$"
 
 EcruteakCity_Theater_Text_Gramps:
-	.string "舞姬小姐们真是太美丽了……\n"
-	.string ".\p"
+	.string "舞姬小姐们真是太美丽了…….\p"
 	.string "但她们必须经历严苛的修行，\p"
 	.string "而且还要学会恪守传统礼节，才能在\n"
 	.string "公众面前登台表演。\p"
@@ -446,8 +442,7 @@ EcruteakCity_Theater_Text_Gramps:
 	.string "到的。$"
 
 EcruteakCity_Theater_Text_GrampsBefore:
-	.string "哎哟……好痛啊……\n"
-	.string "我的腰痛又犯了！\p"
+	.string "哎哟……好痛啊……我的腰痛又犯了！\p"
 	.string "要不是腰这么痛，我才不会让那个家\n"
 	.string "伙那么嚣张……！$"
 
@@ -966,13 +961,11 @@ EcruteakCity_Theater_Text_ZukiSeenAgain:
 	.string "你准备好了吗，{PLAYER}？$"
 
 EcruteakCity_Theater_Text_ZukiNo:
-	.string "没关系的……我会在这里等\n"
-	.string "你准备好。$"
+	.string "没关系的……我会在这里等你准备好。$"
 
 EcruteakCity_Theater_Text_NaokoSeen:
 	.string "你真的很强呢。你在桐树林帮过我。\p"
-	.string "我是直子……那个有点路痴\n"
-	.string "的直子。\p"
+	.string "我是直子……那个有点路痴的直子。\p"
 	.string "在呆呆兽之井，钢铁先生遇到麻烦\n"
 	.string "时，我看到你打倒了火箭队。\p"
 	.string "请让我和我的宝可梦向你发起挑战\n"
@@ -1042,8 +1035,7 @@ EcruteakCity_Theater_Text_ZukiAfterAll:
 	.string "{PLAYER}，非常感谢你回应\n"
 	.string "了我们的期望！\p"
 	.string "如果这次经历让你有所收获，请去向\n"
-	.string "宝可梦爷爷和空木博士道谢吧..\l"
-	.string "....$"
+	.string "宝可梦爷爷和空木博士道谢吧......$"
 
 EcruteakCity_Theater_Text_KimonoGirlsBeforeBattle:
 	.string "准备好之后，就请和正中间的小玉搭\n"

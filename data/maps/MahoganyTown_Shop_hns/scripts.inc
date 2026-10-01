@@ -228,8 +228,8 @@ MahoganyTown_Pokemart:
 	end
 
 MahoganyTown_Shop_Text_Granny:
-	.string "请改天再来吧。本店……现\n"
-	.string "在已经打烊了。$"
+	.string "请改天再来吧。本店……现在已经打烊\n"
+	.string "了。$"
 
 MahoganyMart1F_Text_Pharmacist_Lance:
     .string "火箭队霸占了我的地下室！$"

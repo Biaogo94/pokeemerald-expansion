@@ -18,7 +18,7 @@ CeladonMansion2F_Text_Computer:
 	.string "{PLAYER}打开了电脑。\p"
 	.string "......\p"
 	.string "有人正在写一封电子邮件。\p"
-	.string "……真希望你能来关都看看\n"
+	.string "……真希望你能来关都看看"
 	.string "。\p"
 	.string "我想这里的巨大变化一定会让你大吃\n"
 	.string "一惊。\p"
@@ -66,21 +66,19 @@ CeladonMansion2F_Text_LilDill:
 	.string "梦 心金・魂银》。$"
 
 CeladonMansion2F_Text_InfiniteBacon:
-	.string "我们正致力于在\n"
-	.string "pokeemerald\l"
-	.string "expansion项目中\l"
+	.string "我们正致力于在pokeemerald-expansion项目中\n"
 	.string "重构这款游戏！$"
 
 CeladonMansion2F_Text_TixoRebel:
-	.string "你听说过“蛋化危机”吗？那是测试\n"
-	.string "阶段的一个漏洞，会随机把宝可梦变\l"
-	.string "成蛋！\p"
+	.string "你听说过“蛋化危机”吗？那是测试阶\n"
+	.string "段的一个漏洞，会随机把宝可梦变成\l"
+	.string "蛋！\p"
 	.string "修复这个漏洞的补丁就是我写的！$"
 
 CeladonMansion2F_Text_Phant:
 	.string "我最喜欢降级移植版了！\p"
-	.string "你玩过《宝可梦 剑/盾终极增强版\n"
-	.string " 英文版》吗？就是我翻译的哦！\p"
+	.string "你玩过《宝可梦 剑/盾终极增强版 \n"
+	.string "英文版》吗？就是我翻译的哦！\p"
 	.string "至于下一个降级版，我想做阿罗拉地\n"
 	.string "区的！$"
 
@@ -96,5 +94,5 @@ CeladonMansion2F_Text_DaniRaibow:
 	.string "病。\p"
 	.string "想听个笑话吗？\p"
 	.string "阿渡想教快龙学会“龙息”招式。\p"
-	.string "可是快龙使出“神速”跑得太快，根\n"
-	.string "本接不上这口气(学不会)！$"
+	.string "可是快龙使出“神速”跑得太快，根本\n"
+	.string "接不上这口气(学不会)！$"

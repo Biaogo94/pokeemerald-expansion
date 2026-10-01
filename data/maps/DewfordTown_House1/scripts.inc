@@ -27,7 +27,7 @@ DewfordTown_House1_Text_LifeGoesSlowlyOnIsland:
 	.string "我跟丈夫结婚后就离开了凯那市的港\n"
 	.string "口。\p"
 	.string "在小岛上的时光过得很缓慢，但被美\n"
-	.string "丽的大海环绕着——感觉真的很幸福\l"
+	.string "丽的大海环绕着——感觉真的很幸福"
 	.string "。$"
 
 DewfordTown_House1_Text_Zigzagoon:

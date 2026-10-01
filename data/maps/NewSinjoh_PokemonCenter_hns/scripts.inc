@@ -47,12 +47,12 @@ NewSinjoh_PokemonCenter_Text_Skiier:
 NewSinjoh_Text_Artist:
 	.string "我在这座隐秘的城镇里获得了极大的\n"
 	.string "灵感！\p"
-	.string "你不觉得这里的景色美得令人屏息吗\n"
-	.string "？$"
+	.string "你不觉得这里的景色美得令人屏息\n"
+	.string "吗？$"
 
 Text_ItemGiveaway:
-	.string "原来如此！你肯定也是一名艺术家吧\n"
-	.string "！\p"
+	.string "原来如此！你肯定也是一名艺术家\n"
+	.string "吧！\p"
 	.string "我刚好有多余的东西，可以帮你捕捉\n"
 	.string "生活中微小的细节！$"
 

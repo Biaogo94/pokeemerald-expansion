@@ -52,6 +52,6 @@ PokemonMansion_B1F_Text_IvanPostBattle::
 
 PokemonMansion_B1F_Text_MewtwoIsFarTooPowerful::
 	.string "日记：9月1号超梦太强大了。\p"
-	.string "我们不能控制它了，它越来越邪恶了\n"
-	.string "……$"
+	.string "我们不能控制它了，它越来越邪恶\n"
+	.string "了……$"
 

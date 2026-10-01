@@ -165,8 +165,8 @@ FourIsland_Text_IslandSign::
 
 FourIsland_Text_LoreleiHasReturned::
 	.string "科拿回来了。\p"
-	.string "莫非是因为都市生活的压力太大了吗\n"
-	.string "？$"
+	.string "莫非是因为都市生活的压力太大了\n"
+	.string "吗？$"
 
 FourIsland_Text_LoreleiMetLaprasAsChild::
 	.string "科拿已经回来了。\p"
@@ -193,8 +193,8 @@ FourIsland_Text_RivalAlreadyGotEggBeSmellingYa::
 	.string "个我们都认识的人。\p"
 	.string "要是好奇的话，你大可以自己去四处\n"
 	.string "转转看啊？\p"
-	.string "本少爷我可没闲工夫在这里浪费时间\n"
-	.string "。\p"
+	.string "本少爷我可没闲工夫在这里浪费时\n"
+	.string "间。\p"
 	.string "后会有期啦！$"
 
 FourIsland_Text_LoreleiHasLotsOfStuffedDolls::
@@ -207,10 +207,10 @@ FourIsland_Text_LoreleiHasLotsOfStuffedDolls::
 
 FourIsland_Text_MadeSlushieUsingIcefallCaveIce::
 	.string "啊，你发现我了！请别告诉科拿。\p"
-	.string "你知道科拿有许多许多的毛绒娃娃吗\n"
-	.string "？\p"
-	.string "每次她回四之岛，她的收藏都会增加\n"
-	.string "！$"
+	.string "你知道科拿有许多许多的毛绒娃娃\n"
+	.string "吗？\p"
+	.string "每次她回四之岛，她的收藏都会增\n"
+	.string "加！$"
 
 FourIsland_Text_LoreleisHouse::
 	.string "科拿的家$"

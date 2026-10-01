@@ -240,14 +240,13 @@ FourIsland_IcefallCave_Back_Text_OkayRocketWareHouseFiveIsland::
 	.string "宝可梦在五之岛的火箭队仓库里面。\p"
 	.string "就在哪里！我说了！我们现在能过去\n"
 	.string "吧！\p"
-	.string "……但是我怀疑你能不能进得了火箭\n"
-	.string "队仓库！\p"
+	.string "……但是我怀疑你能不能进得了火箭队\n"
+	.string "仓库！\p"
 	.string "呵呵呵呵！$"
 
 FourIsland_IcefallCave_Back_Text_ThankYouThisIsAwful::
 	.string "{PLAYER}，谢谢你。但情况\n"
 	.string "太糟糕了……\p"
 	.string "我在这片岛屿上出生和长大。\p"
-	.string "我没想到那些可恶的罪犯会来这里…\n"
-	.string "…$"
+	.string "我没想到那些可恶的罪犯会来这里……$"
 

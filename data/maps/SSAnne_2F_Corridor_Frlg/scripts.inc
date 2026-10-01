@@ -180,10 +180,10 @@ SSAnne_2F_Corridor_Text_RivalIntro::
 	.string "没想到会在这里遇见你！\n"
 	.string "{PLAYER}，你真的有被邀请\l"
 	.string "吗？\p"
-	.string "另外你的宝可梦图鉴收集得怎么样了\n"
-	.string "？\p"
-	.string "我已经收服40种了。不同的地方有\n"
-	.string "不同的宝可梦。\p"
+	.string "另外你的宝可梦图鉴收集得怎么样\n"
+	.string "了？\p"
+	.string "我已经收服40种了。不同的地方有不\n"
+	.string "同的宝可梦。\p"
 	.string "在草丛里仔细寻找它们吧！$"
 
 SSAnne_2F_Corridor_Text_RivalDefeat::
@@ -191,10 +191,10 @@ SSAnne_2F_Corridor_Text_RivalDefeat::
 	.string "你的宝可梦确实成长了！$"
 
 SSAnne_2F_Corridor_Text_RivalVictory::
-	.string "{PLAYER}..！\n"
-	.string "ふなよい　してるのか！\p"
-	.string "もっと　からだ\n"
-	.string "きたえた　ほうが　いいぜ！$"
+	.string "{PLAYER}..！ふなよい　し\n"
+	.string "てるのか！\p"
+	.string "もっと　からだきたえた　ほうが　\n"
+	.string "いいぜ！$"
 
 SSAnne_2F_Corridor_Text_RivalPostBattle::
 	.string "{RIVAL}：我听说这船上有个\n"

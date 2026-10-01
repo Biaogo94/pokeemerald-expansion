@@ -36,8 +36,8 @@ ViridianCity_House1_Text_PokefanM:
 	.string "更有乐趣哦。$"
 
 ViridianCity_House1_Text_Lass:
-	.string "它们是烈雀“雀宝”和小拉达“拉达\n"
-	.string "宝”。$"
+	.string "它们是烈雀“雀宝”和小拉达“拉达宝"
+	.string "”。$"
 
 ViridianCity_House1_Text_Speary:
 	.string "雀宝：啾啾！$"

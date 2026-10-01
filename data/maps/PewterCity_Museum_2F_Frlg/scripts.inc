@@ -59,8 +59,8 @@ PewterCity_Museum_1F_Text_BoughtColorTVForMoonLanding::
 	.string "色电视机。$"
 
 PewterCity_Museum_1F_Text_RunningSpaceExhibitThisMonth::
-	.string "这个月我们正在进行关于宇宙的展览\n"
-	.string "。$"
+	.string "这个月我们正在进行关于宇宙的展\n"
+	.string "览。$"
 
 PewterCity_Museum_1F_Text_AskedDaddyToCatchPikachu::
 	.string "我想要一只皮卡丘！它太可爱了！\p"

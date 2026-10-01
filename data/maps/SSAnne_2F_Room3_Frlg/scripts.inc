@@ -15,7 +15,7 @@ SSAnne_2F_Room3_Text_SeenMonsFerryPeople::
 
 SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown::
 	.string "小树可以用居合斩砍倒。\p"
-	.string "但记住！居合斩是一个秘传机的技巧\n"
-	.string "。\p"
+	.string "但记住！居合斩是一个秘传机的技\n"
+	.string "巧。\p"
 	.string "一旦学会，它是不能轻易被遗忘的。$"
 

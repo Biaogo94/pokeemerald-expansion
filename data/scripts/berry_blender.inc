@@ -8,8 +8,7 @@ BerryBlender_Text_Excellent:
 	.string "非常好！$"
 
 BerryBlender_Text_MadeOldTimerSad:
-	.string "哎呀……\n"
-	.string "你让老头子伤心了……$"
+	.string "哎呀……你让老头子伤心了……$"
 
 BerryBlender_Text_KnowHowToMakePokeblocks:
 	.string "你知道怎么做\n"
@@ -40,10 +39,10 @@ BerryBlender_Text_CanHaveOneOfMyBerries:
 	.string "{POKEBLOCK}了。$"
 
 BerryBlender_Text_DontHaveAnyBerriesToSpare:
-	.string "要是我有剩下的树果，\n"
-	.string "肯定会乐意给你一个……\p"
-	.string "但今天实在没有多余的。\n"
-	.string "我们改天再试吧。$"
+	.string "要是我有剩下的树果，肯定会乐意给\n"
+	.string "你一个……\p"
+	.string "但今天实在没有多余的。我们改天再\n"
+	.string "试吧。$"
 
 BerryBlender_Text_PokeblockCaseIsFull:
 	.string "但你的{POKEBLOCK}盒已\n"
@@ -74,8 +73,8 @@ BerryBlender_Text_Okay:
 
 BerryBlender_Text_ThatsTooBad:
 	.string "真遗憾……\p"
-	.string "不过只要你想要混合，\n"
-	.string "我们随时都在这里哦！$"
+	.string "不过只要你想要混合，我们随时都在\n"
+	.string "这里哦！$"
 
 BerryBlender_Text_KnowHowToMakePokeblocks2:
 	.string "你肯定知道怎么制作\n"
@@ -86,13 +85,10 @@ BerryBlender_Text_LetsBerryBlender2:
 	.string "让我们来树果混合吧！$"
 
 BerryBlender_Text_ExplainBerryBlending2:
-	.string "好的！\n"
-	.string "让我来为你说明！\p"
-	.string "当旋转的搅拌器箭头\n"
-	.string "到达你的标记时，\l"
-	.string "按下A键即可。\p"
-	.string "就这么简单。\n"
-	.string "很容易理解吧？$"
+	.string "好的！让我来为你说明！\p"
+	.string "当旋转的搅拌器箭头到达你的标记\n"
+	.string "时，按下A键即可。\p"
+	.string "就这么简单。很容易理解吧？$"
 
 BerryBlender_Text_DontHaveAnyBerries2:
 	.string "啊，请稍等一下……你没有树果呢。\p"
@@ -133,17 +129,15 @@ BerryBlender_Text_KnowHowToMakePokeblocks3:
 	.string "{POKEBLOCK}，对吧？$"
 
 BerryBlender_Text_LetsBerryBlender3:
-	.string "好呀，亲爱的！\n"
-	.string "我们开始吧！\p"
+	.string "好呀，亲爱的！我们开始吧！\p"
 	.string "让我们来树果混合吧！$"
 
 BerryBlender_Text_ExplainBerryBlending3:
 	.string "哎呀！\p"
 	.string "那我好好给你解释下。\p"
-	.string "当搅拌器的箭头转到\n"
-	.string "你的标记时，按下A键。\p"
-	.string "就这么简单。\n"
-	.string "是不是很容易？$"
+	.string "当搅拌器的箭头转到你的标记时，按\n"
+	.string "下A键。\p"
+	.string "就这么简单。是不是很容易？$"
 
 BerryBlender_Text_DontHaveAnyBerries3:
 	.string "你没有树果，对吧？\p"
@@ -167,13 +161,12 @@ BerryBlender_Text_DontHavePokeblockCase3:
 	.string "{POKEBLOCK}盒再回来。$"
 
 BerryBlender_Text_SetNewBlenderRecord:
-	.string "好吧！今天我要创造混合器\n"
-	.string "速度的新纪录！$"
+	.string "好吧！今天我要创造混合器速度的新\n"
+	.string "纪录！$"
 
 BerryBlender_Text_LookGoodAtBlendingJoinUs:
-	.string "哎呀！\n"
-	.string "你看起来很擅长混合呢。\l"
-	.string "要加入我们吗？$"
+	.string "哎呀！你看起来很擅长混合呢。要加\n"
+	.string "入我们吗？$"
 
 BerryBlender_Text_MakeDeliciousPokeblocks:
 	.string "我要制作美味的\n"
@@ -187,22 +180,22 @@ BerryBlender_Text_SaveGameBeforeBerryBlenderLink:
 	.string "以吗？$"
 
 BerryBlender_Text_SearchingForFriends:
-	.string "正在寻找你的朋友……\n"
-	.string "…… B键：取消$"
+	.string "正在寻找你的朋友………… B键：取消$"
 
 BerryBlender_Text_Player1Arrived:
 	.string "{STR_VAR_1}到了。$"
 
 BerryBlender_Text_Player1And2Arrived:
-	.string "{STR_VAR_1}和{STR_VAR_2}到了。$"
+	.string "{STR_VAR_1}和\n"
+	.string "{STR_VAR_2}到了。$"
 
 BerryBlender_Text_AllPlayersArrived:
-	.string "{STR_VAR_1}、{STR_VAR_2}和\n"
+	.string "{STR_VAR_1}、\n"
+	.string "{STR_VAR_2}和\l"
 	.string "{STR_VAR_3}到了。$"
 
 BerryBlender_Text_NoBerriesLink:
-	.string "你没有树果。\n"
-	.string "无法使用树果混合器。$"
+	.string "你没有树果。无法使用树果混合器。$"
 
 BerryBlender_Text_PokeblockCaseIsFullLink:
 	.string "你的{POKEBLOCK}盒已\n"
@@ -222,23 +215,21 @@ BerryBlender_Text_MakePokeblocksUsingBerryBlender:
 	.string "一起制作{POKEBLOCK}。$"
 
 BerryBlender_Text_DontHaveAnyBerriesHaveOne:
-	.string "哦？\n"
-	.string "你没有树果吗？\p"
+	.string "哦？你没有树果吗？\p"
 	.string "哎呀，这可不行啊。\p"
-	.string "如果你不介意是剩下的，\n"
-	.string "我可以给你一个我的树果。$"
+	.string "如果你不介意是剩下的，我可以给你\n"
+	.string "一个我的树果。$"
 
 BerryBlender_Text_UseItToMakePokeblocksTogether:
 	.string "我们可以用它在树果混合器里一起制\n"
 	.string "作{POKEBLOCK}。$"
 
 BerryBlender_Text_DontHaveAnyBerriesNoneToSpare:
-	.string "哎呀？\n"
-	.string "你身上没有树果吗？\p"
-	.string "要是我有剩下的，\n"
-	.string "一定乐意分你一颗……\p"
-	.string "可惜今天我也没多余的。\n"
-	.string "实在不好意思啊。$"
+	.string "哎呀？你身上没有树果吗？\p"
+	.string "要是我有剩下的，一定乐意分你一\n"
+	.string "颗……\p"
+	.string "可惜今天我也没多余的。实在不好意\n"
+	.string "思啊。$"
 
 BerryBlender_EventScript_BerryBlender1::
 	lockall

@@ -15,8 +15,8 @@ SixIsland_OutcastIsland_Text_RocketDefeat::
 	.string "……嗯？$"
 
 SixIsland_OutcastIsland_Text_RocketPostBattle::
-	.string "听着，你没有看见任何珍贵的宝可梦\n"
-	.string "，是吧？$"
+	.string "听着，你没有看见任何珍贵的宝可\n"
+	.string "梦，是吧？$"
 
 SixIsland_OutcastIsland_Text_TylorIntro::
 	.string "我一点也没有好运气。一场战斗没准\n"
@@ -37,8 +37,8 @@ SixIsland_OutcastIsland_Text_MymoDefeat::
 	.string "呼……呼……$"
 
 SixIsland_OutcastIsland_Text_MymoPostBattle::
-	.string "我只是游了一部分的路程……我被打\n"
-	.string "败了……$"
+	.string "我只是游了一部分的路程……我被打败\n"
+	.string "了……$"
 
 SixIsland_OutcastIsland_Text_NicoleIntro::
 	.string "在游泳时把宝可梦放出去不是那么简\n"
@@ -62,8 +62,8 @@ SixIsland_OutcastIsland_Text_AvaDefeat::
 	.string "的是，你只是一个人！$"
 
 SixIsland_OutcastIsland_Text_AvaPostBattle::
-	.string "美香：我喜欢大海胜过喜欢任何水池\n"
-	.string "。$"
+	.string "美香：我喜欢大海胜过喜欢任何水\n"
+	.string "池。$"
 
 SixIsland_OutcastIsland_Text_AvaNotEnoughMons::
 	.string "美香：你是在挑战我们吗？\p"
@@ -75,8 +75,8 @@ SixIsland_OutcastIsland_Text_GebIntro::
 	.string "作战！$"
 
 SixIsland_OutcastIsland_Text_GebDefeat::
-	.string "阿雅：哇，姐姐，这个人可真是厉害\n"
-	.string "！$"
+	.string "阿雅：哇，姐姐，这个人可真是厉\n"
+	.string "害！$"
 
 SixIsland_OutcastIsland_Text_GebPostBattle::
 	.string "阿雅：我骑在我姐姐肩膀上，因为我\n"

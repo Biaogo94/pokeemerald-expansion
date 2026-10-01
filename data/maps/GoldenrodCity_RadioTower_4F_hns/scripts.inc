@@ -91,8 +91,8 @@ GoldenrodCity_RadioTower_4F4_Text_Proton_Seen:
 	.string "兰斯：等等，先别急着走！\p"
 	.string "你不是在呆呆兽之井坏我们好事的那\n"
 	.string "家伙吗？\p"
-	.string "原来如此……看来你是存心\n"
-	.string "想要惹怒我啊。真是不知死活！\p"
+	.string "原来如此……看来你是存心想要惹怒我\n"
+	.string "啊。真是不知死活！\p"
 	.string "既然你这么想见识，那就让你好好尝\n"
 	.string "尝火箭队干部的怒火吧！$"
 
@@ -100,8 +100,8 @@ GoldenrodCity_RadioTower_4F4_Text_Proton_Beaten:
 	.string "呼……$"
 
 GoldenrodCity_RadioTower_4F4_Text_Proton_After:
-	.string "兰斯：这次算你赢了……但\n"
-	.string "你所做的一切，\p"
+	.string "兰斯：这次算你赢了……但你所做的一\n"
+	.string "切，\p"
 	.string "只会让火箭队的怒火更加猛烈！$"
 
 GoldenrodCity_RadioTower_4F4_Text_Fisher:
@@ -130,8 +130,8 @@ GoldenrodCity_RadioTower_4F4_Text_Meowth:
 
 GoldenrodCity_RadioTower_4F4_Text_GruntM10Seen:
 	.string "你打算去救台长？\p"
-	.string "别做梦了，因为我要在这里把你打倒\n"
-	.string "！$"
+	.string "别做梦了，因为我要在这里把你打\n"
+	.string "倒！$"
 
 GoldenrodCity_RadioTower_4F4_Text_GruntM10Beaten:
 	.string "怎么会！难以置信！$"

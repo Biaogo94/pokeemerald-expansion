@@ -112,8 +112,8 @@ NewSinjoh_KimonoHideout_Text_PlayerMeetsShizuko:
 	.string "助我们一臂之力。$"
 
 NewSinjoh_KimonoHideout_Text_PlayerMeetsYouko:
-	.string "洋子：请前往50号道路以北的神都\n"
-	.string "遗迹。\p"
+	.string "洋子：请前往50号道路以北的神都遗\n"
+	.string "迹。\p"
 	.string "去见见那里的研究员，并调查引发他\n"
 	.string "们前来的事件。\p"
 	.string "绝对不能让平庸之辈惊扰了那里的传\n"

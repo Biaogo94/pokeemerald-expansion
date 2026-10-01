@@ -303,8 +303,8 @@ BattleFrontier_OutsideWest_Text_BattleDomeSign:
 	.string "超级巨星！$"
 
 BattleFrontier_OutsideWest_Text_BattleFactorySign:
-	.string "这里是对战工厂！寻找！最强宝可梦\n"
-	.string "！$"
+	.string "这里是对战工厂！寻找！最强宝可\n"
+	.string "梦！$"
 
 BattleFrontier_OutsideWest_Text_BattlePikeSign:
 	.string "这里是对战管道！选择！3条道路！$"
@@ -344,8 +344,8 @@ BattleFrontier_OutsideWest_Text_ThenWhereWouldYouLikeToGo:
 	.string "那么您想去哪里？$"
 
 BattleFrontier_OutsideWest_Text_BestOutOfAllMyFriends:
-	.string "在朋友之中我是最强的，但在这儿…\n"
-	.string "…我根本不算什么！$"
+	.string "在朋友之中我是最强的，但在这儿……\n"
+	.string "我根本不算什么！$"
 
 BattleFrontier_OutsideWest_Text_CantFindBattleTower:
 	.string "我想去对战塔，但就算有地图，我也\n"
@@ -357,8 +357,8 @@ BattleFrontier_OutsideWest_Text_GotSeasickOnWayHere:
 	.string "不过，在路上，我晕船了……呜……$"
 
 BattleFrontier_OutsideWest_Text_OnlyToughTrainersBroughtHere:
-	.string "知道吗？并不是所有人都能到这里的\n"
-	.string "。\p"
+	.string "知道吗？并不是所有人都能到这里\n"
+	.string "的。\p"
 	.string "只有被认定是强大的训练家才能来到\n"
 	.string "这里。\p"
 	.string "所以很多训练家甚至对对战开拓区一\n"
@@ -372,8 +372,8 @@ BattleFrontier_OutsideWest_Text_SureWeCanChallengeWithNoMons:
 BattleFrontier_OutsideWest_Text_BigGuySaidIllLendYouMons:
 	.string "呃……大概不要紧吧。\p"
 	.string "我想是的……\p"
-	.string "记得那个吓人的大个子吗？他不是说\n"
-	.string "：“我会借给你宝可梦！”$"
+	.string "记得那个吓人的大个子吗？他不是\n"
+	.string "说：“我会借给你宝可梦！”$"
 
 BattleFrontier_OutsideWest_Text_WhosRaisingThoseRentalMons:
 	.string "那边的是对战工厂，在那儿你能借到\n"
@@ -383,8 +383,8 @@ BattleFrontier_OutsideWest_Text_WhosRaisingThoseRentalMons:
 
 BattleFrontier_OutsideWest_Text_ScaredOfPikeBecauseSeviper:
 	.string "我不敢进对战管道，我怕饭匙蛇……\p"
-	.string "但——但我既然已经到这儿来了我要\n"
-	.string "努力战胜一切！……哆嗦……$"
+	.string "但——但我既然已经到这儿来了我要努\n"
+	.string "力战胜一切！……哆嗦……$"
 
 BattleFrontier_OutsideWest_Text_LetsPlayRockPaperScissors:
 	.string "来，石头剪子布！1～2～3！\p"
@@ -439,15 +439,15 @@ BattleFrontier_OutsideWest_Text_SquareFilledWithToughPeople:
 
 BattleFrontier_OutsideWest_Text_MetOlderGirlAtPike:
 	.string "喀嚓喀嚓……\p"
-	.string "前阵子，我在对战管道\n"
-	.string "遇到了一位大姐姐。\p"
-	.string "她那双眼睛凶得很，\n"
-	.string "透着一股狠劲儿。\p"
+	.string "前阵子，我在对战管道遇到了一位大\n"
+	.string "姐姐。\p"
+	.string "她那双眼睛凶得很，透着一股狠劲\n"
+	.string "儿。\p"
 	.string "喀嚓喀嚓……\p"
-	.string "她气得大喊：“别再吃了！”\n"
-	.string "然后狠狠揍了我一顿。\p"
-	.string "那真是一次令人毛骨悚然的\n"
-	.string "可怕经历。\p"
+	.string "她气得大喊：“别再吃了！”然后狠狠\n"
+	.string "揍了我一顿。\p"
+	.string "那真是一次令人毛骨悚然的可怕经\n"
+	.string "历。\p"
 	.string "喀嚓喀嚓……$"
 
 BattleFrontier_OutsideWest_Text_LastTimeOurEyesMet:
@@ -471,10 +471,10 @@ BattleFrontier_OutsideWest_Text_DomeAceIsMine:
 
 BattleFrontier_OutsideWest_Text_FansOverThereUsedToBeTrainers:
 	.string "那边吵架的那些人……\p"
-	.string "真不敢相信那些人以前也都是训练家\n"
-	.string "，而且还挺厉害的。\p"
-	.string "他们以前非常强，同时也相当有名气\n"
-	.string "。\p"
+	.string "真不敢相信那些人以前也都是训练\n"
+	.string "家，而且还挺厉害的。\p"
+	.string "他们以前非常强，同时也相当有名\n"
+	.string "气。\p"
 	.string "但在一场锦标赛中，他们都被某个训\n"
 	.string "练家击倒了。\p"
 	.string "他们完全地失败了，同时开始对那个\n"

@@ -77,18 +77,16 @@ Route105_EventScript_AndresRematch::
 	end
 
 Route104_Text_DadPokenavCall:
-	.string "…… …… ………… …… ……\n"
-	.string "哔！\p"
+	.string "…… …… ………… …… ……哔！\p"
 	.string "爸爸：喂，{PLAYER}吗？\p"
-	.string "…… …… ……现在到哪儿了？你\n"
-	.string "那边风声很大啊。\p"
+	.string "…… …… ……现在到哪儿了？你那边风声\n"
+	.string "很大啊。\p"
 	.string "我刚刚从得文的兹伏奇社长那儿听说\n"
 	.string "了你拿到了宝可导航，就想着给你打\l"
 	.string "个电话。\p"
 	.string "听起来你过得不错，那我就放心了。\p"
 	.string "自己多保重啊。\p"
-	.string "…… …… ………… …… ……\n"
-	.string "咔哒！$"
+	.string "…… …… ………… …… ……咔哒！$"
 
 Route104_Text_RegisteredDadInPokenav:
 	.string "把爸爸千里登记到宝可导航里了。$"

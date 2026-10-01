@@ -25,8 +25,8 @@ SootopolisCity_House2_Text_DidYouKnowAboutMtPyreOrbs:
 
 SootopolisCity_House2_Text_YesTwoOrbsSideBySide:
 	.string "是的，并列的两块宝珠……\p"
-	.string "看着它们摆在那儿……心中就会充满\n"
-	.string "宁静……$"
+	.string "看着它们摆在那儿……心中就会充满宁\n"
+	.string "静……$"
 
 SootopolisCity_House2_Text_OughtToVisitAndSee:
 	.string "是吗？也许你该去……$"

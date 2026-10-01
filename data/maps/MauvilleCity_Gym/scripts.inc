@@ -271,8 +271,8 @@ MauvilleCity_Gym_Text_GymGuidePostVictory:
 	.string "哇，真让人吃惊！你打开了屏障！$"
 
 MauvilleCity_Gym_Text_KirkIntro:
-	.string "让我的电之魂粉碎你的梦想吧，哦—\n"
-	.string "—耶！$"
+	.string "让我的电之魂粉碎你的梦想吧，哦——\n"
+	.string "耶！$"
 
 MauvilleCity_Gym_Text_KirkDefeat:
 	.string "插上了电源，但电流过载了！$"
@@ -282,8 +282,8 @@ MauvilleCity_Gym_Text_KirkPostBattle:
 	.string "——耶！$"
 
 MauvilleCity_Gym_Text_ShawnIntro:
-	.string "我跟着铁旋训练，不会轻易输给你的\n"
-	.string "！$"
+	.string "我跟着铁旋训练，不会轻易输给你\n"
+	.string "的！$"
 
 MauvilleCity_Gym_Text_ShawnDefeat:
 	.string "电源被拔掉了……$"
@@ -300,8 +300,8 @@ MauvilleCity_Gym_Text_BenDefeat:
 	.string "输了一点也不好玩……$"
 
 MauvilleCity_Gym_Text_BenPostBattle:
-	.string "铁旋说他喜欢弄些开关控制的小机关\n"
-	.string "。$"
+	.string "铁旋说他喜欢弄些开关控制的小机\n"
+	.string "关。$"
 
 MauvilleCity_Gym_Text_VivianIntro:
 	.string "我的魅力和宝可梦的招式会让你大吃\n"
@@ -323,8 +323,8 @@ MauvilleCity_Gym_Text_AngeloDefeat:
 	.string "呀……眼睛花了……$"
 
 MauvilleCity_Gym_Text_AngeloPostBattle:
-	.string "紫堇市道馆的铁旋额头上总是闪着光\n"
-	.string "，我好兴奋！$"
+	.string "紫堇市道馆的铁旋额头上总是闪着\n"
+	.string "光，我好兴奋！$"
 
 MauvilleCity_Gym_Text_WattsonIntro:
 	.string "改造城市的计划我早就放弃啦。\p"
@@ -354,21 +354,21 @@ MauvilleCity_Gym_Text_ExplainDynamoBadgeTakeThis:
 
 MauvilleCity_Gym_Text_ExplainShockWave:
 	.string "招式学习器34里是“电击波”。\p"
-	.string "它是绝不会落空的可靠招式！\n"
-	.string "尽管放心交给它！\p"
+	.string "它是绝不会落空的可靠招式！尽管放\n"
+	.string "心交给它！\p"
 	.string "… … … … … …$"
 
 MauvilleCity_Gym_Text_RegisteredWattson:
-	.string "把道馆馆主铁旋登记到宝可导航里了\n"
-	.string "。$"
+	.string "把道馆馆主铁旋登记到宝可导航里\n"
+	.string "了。$"
 
 MauvilleCity_Gym_Text_WattsonPostBattle:
 	.string "能看到像你这样前途无量的年轻训练\n"
 	.string "家，我真高兴呀！$"
 
 MauvilleCity_Gym_Text_WattsonGoForthAndEndeavor:
-	.string "哇哈哈哈！年轻人，向前进，努力吧\n"
-	.string "！$"
+	.string "哇哈哈哈！年轻人，向前进，努力\n"
+	.string "吧！$"
 
 MauvilleCity_Gym_Text_GymStatue:
 	.string "紫堇市宝可梦道馆$"
@@ -389,8 +389,8 @@ MauvilleCity_Gym_Text_WattsonRematchDefeat:
 	.string "噢……我们的电池没电了……$"
 
 MauvilleCity_Gym_Text_WattsonPostRematch:
-	.string "铁旋：我们又要给我们的电池充电了\n"
-	.string "。\p"
+	.string "铁旋：我们又要给我们的电池充电\n"
+	.string "了。\p"
 	.string "等我们充好电，我们会很高兴接受你\n"
 	.string "的挑战。\p"
 	.string "所以，有时间的话再来吧，好吗？$"

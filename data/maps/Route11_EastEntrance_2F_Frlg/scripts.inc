@@ -99,8 +99,8 @@ Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30::
 
 Route11_EastEntrance_2F_Text_GreatHereYouGo::
 	.string "太棒了！你已经收集了\n"
-	.string "{STR_VAR_3}种宝可梦了\l"
-	.string "！\p"
+	.string "{STR_VAR_3}种宝可梦\l"
+	.string "了！\p"
 	.string "恭喜！这是奖励，拿去吧！$"
 
 Route11_EastEntrance_2F_Text_ReceivedItemfinderFromAide::

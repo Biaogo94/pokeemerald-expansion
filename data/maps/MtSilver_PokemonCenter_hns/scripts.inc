@@ -63,8 +63,8 @@ MtSilver_PokemonCenter_EventScript_Meara_WarpToSinjoh::
 	end
 
 MtSilver_PokemonCenter_Text_Meara1:
-	.string "我是来自……呃……\n"
-	.string "..深灰科学博物馆的研究员！\p"
+	.string "我是来自……呃……..深灰科学博物馆的\n"
+	.string "研究员！\p"
 	.string "这一带发现了异乎寻常的大量古代遗\n"
 	.string "物，所以我来这里调查。\p"
 	.string "你在山里有找到什么奇怪的东西吗？\p"

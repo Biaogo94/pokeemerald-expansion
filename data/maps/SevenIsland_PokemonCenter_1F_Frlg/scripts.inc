@@ -38,6 +38,6 @@ SevenIsland_PokemonCenter_1F_Text_DidYouRideSeagallopHere::
 	.string "不过我都不知道它们会航行到哪里。$"
 
 SevenIsland_PokemonCenter_1F_Text_CheckOutTrainerTower::
-	.string "如果你够自信，你可以去训练家之塔\n"
-	.string "。$"
+	.string "如果你够自信，你可以去训练家之\n"
+	.string "塔。$"
 

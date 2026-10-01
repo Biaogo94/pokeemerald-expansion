@@ -22,13 +22,13 @@ RustboroCity_CuttersHouse_EventScript_Lass::
 	end
 
 RustboroCity_CuttersHouse_Text_YouCanPutThisHMToGoodUse:
-	.string "那坚定的表情……敏捷的行动……还\n"
-	.string "有训练有素的宝可梦……\p"
+	.string "那坚定的表情……敏捷的行动……还有训\n"
+	.string "练有素的宝可梦……\p"
 	.string "你肯定是个经验丰富的训练家！\p"
 	.string "不，别急，不用说，我知道你想要什\n"
 	.string "么。\p"
-	.string "我想你会善加利用这个秘传学习器的\n"
-	.string "。\p"
+	.string "我想你会善加利用这个秘传学习器\n"
+	.string "的。\p"
 	.string "不用谦虚，这是你的了！$"
 
 RustboroCity_CuttersHouse_Text_ExplainCut:

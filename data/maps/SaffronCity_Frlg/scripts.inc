@@ -127,8 +127,8 @@ SaffronCity_Text_WhatDoYouWantGetLost::
 	.string "你想干什么？滚开！$"
 
 SaffronCity_Text_BossTakeTownForTeamRocket::
-	.string "老大说他会把这座城镇命名为火箭队\n"
-	.string "！$"
+	.string "老大说他会把这座城镇命名为火箭\n"
+	.string "队！$"
 
 SaffronCity_Text_DontGetDefiantOrIllHurtYou::
 	.string "不要惹我生气！否则我会狠狠地报复\n"
@@ -150,12 +150,12 @@ SaffronCity_Text_WeCanExploitMonsAroundWorld::
 	.string "富甲天下，哇哈哈哈！$"
 
 SaffronCity_Text_YouBeatTeamRocket::
-	.string "你一人就打败了火箭队？真难以想象\n"
-	.string "！$"
+	.string "你一人就打败了火箭队？真难以想\n"
+	.string "象！$"
 
 SaffronCity_Text_SafeToGoOutAgain::
-	.string "耶！火箭队被赶跑了！外面都安全喽\n"
-	.string "！$"
+	.string "耶！火箭队被赶跑了！外面都安全\n"
+	.string "喽！$"
 
 SaffronCity_Text_PeopleComingBackToSaffron::
 	.string "当火箭队来的时候，人们成群结队地\n"
@@ -203,8 +203,8 @@ SaffronCity_Text_FullHealCuresStatus::
 SaffronCity_Text_GreatBallImprovedCatchRate::
 	.string "训练家贴士\p"
 	.string "新的超级球提高了收服率。\p"
-	.string "试试用它去抓那些很难收服的宝可梦\n"
-	.string "。$"
+	.string "试试用它去抓那些很难收服的宝可\n"
+	.string "梦。$"
 
 SaffronCity_Text_SilphCoSign::
 	.string "西尔佛公司办公大楼$"
@@ -213,13 +213,12 @@ SaffronCity_Text_MrPsychicsHouse::
 	.string "超能先生的家$"
 
 SaffronCity_Text_SilphsLatestProduct::
-	.string "西尔佛的最新产品！即将开始销售…\n"
-	.string "…$"
+	.string "西尔佛的最新产品！即将开始销售……$"
 
 SaffronCity_Text_TrainerFanClubSign::
 	.string "宝可梦训练家迷俱乐部\p"
-	.string "许多训练家在这里留下了他们的名字\n"
-	.string "。$"
+	.string "许多训练家在这里留下了他们的名\n"
+	.string "字。$"
 
 SaffronCity_Text_HowCanClubNotRecognizeLance::
 	.string "这个俱乐部里面……没人有异议！\p"

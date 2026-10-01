@@ -14,7 +14,7 @@ LilycoveCity_House4_Text_MysteriesAtBottomOfSea:
 	.string "这是听别人说的，我并不知道……$"
 
 LilycoveCity_House4_Text_UnderwaterTrenchMossdeepSootopolis:
-	.string "绿岭市和琉璃市之间有个极深的海沟\n"
-	.string "。\p"
+	.string "绿岭市和琉璃市之间有个极深的海\n"
+	.string "沟。\p"
 	.string "这是我从别人那儿听说的。$"
 

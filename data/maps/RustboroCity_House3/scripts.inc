@@ -25,8 +25,8 @@ RustboroCity_House3_Text_IGivePerfectlySuitedNicknames:
 	.string "这是我，呃……创造力的表现！$"
 
 RustboroCity_House3_Text_NamingPikachuPekachu:
-	.string "但叫皮卡丘为猫卡球？这没什么意义\n"
-	.string "。\p"
+	.string "但叫皮卡丘为猫卡球？这没什么意\n"
+	.string "义。\p"
 	.string "我想最好起个容易让人理解的名字，\n"
 	.string "但是……$"
 

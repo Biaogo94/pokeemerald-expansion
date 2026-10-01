@@ -339,18 +339,18 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainSinglesChallenge_hns:
 	.string "打对战。\p"
 	.string "获胜后，您可以更换其中的1只租借\n"
 	.string "宝可梦。\p"
-	.string "重复进行对战与更换--如果能连胜\n"
-	.string "7场，就能赢得对战点数。\p"
+	.string "重复进行对战与更换--如果能连胜7\n"
+	.string "场，就能赢得对战点数。\p"
 	.string "若想中断挑战，请保存记录。\p"
-	.string "如果没有保存，挑战资格将会被取消\n"
-	.string "。$"
+	.string "如果没有保存，挑战资格将会被取\n"
+	.string "消。$"
 
 BattleFrontier_BattleFactoryLobby_Text_LookForwardToNextVisit_hns:
 	.string "期待您的下次光临。$"
 
 BattleFrontier_BattleFactoryLobby_Text_WhichLevelMode_hns:
-	.string "您想挑战哪个级别的比赛？50级还\n"
-	.string "是公开等级？$"
+	.string "您想挑战哪个级别的比赛？50级还是\n"
+	.string "公开等级？$"
 
 BattleFrontier_BattleFactoryLobby_Text_OkayToSaveBeforeChallenge_hns:
 	.string "在开始挑战前，需要保存记录。这样\n"
@@ -388,8 +388,8 @@ BattleFrontier_BattleFactoryLobby_Text_AwardBattlePoints_hnsForStreak_hns:
 BattleFrontier_BattleFactoryLobby_Text_MaxBattlePoints_hns:
 	.string "哎呀呀！\p"
 	.string "您的对战点数已经达到上限了。\p"
-	.string "请在消费一些对战点数后再来领取吧\n"
-	.string "。$"
+	.string "请在消费一些对战点数后再来领取\n"
+	.string "吧。$"
 
 BattleFrontier_BattleFactoryLobby_Text_WaitingForYouToResume_hns:
 	.string "我们一直在恭候您！\p"
@@ -428,8 +428,8 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainDoublesChallenge_hns:
 	.string "打对战。\p"
 	.string "获胜后，您可以更换其中的1只租借\n"
 	.string "宝可梦。\p"
-	.string "重复进行对战与更换--如果能连胜\n"
-	.string "7场，就能赢得对战点数。\p"
+	.string "重复进行对战与更换--如果能连胜7\n"
+	.string "场，就能赢得对战点数。\p"
 	.string "若想中断挑战，请保存记录。\p"
 	.string "如果没有保存就中断，挑战资格将会\n"
 	.string "被取消。$"
@@ -439,12 +439,12 @@ BattleFrontier_BattleFactoryLobby_Text_CongratsForDefeatingHead_hns:
 	.string "胜！$"
 
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePoints_hns:
-	.string "为了表彰你丰富的知识与敏锐的智慧\n"
-	.string "，特此授予你这些对战点数。$"
+	.string "为了表彰你丰富的知识与敏锐的智\n"
+	.string "慧，特此授予你这些对战点数。$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExchangeMonsAndSave_hns:
-	.string "现在将用租借宝可梦换回你的宝可梦\n"
-	.string "。\p"
+	.string "现在将用租借宝可梦换回你的宝可\n"
+	.string "梦。\p"
 	.string "需要保存对战数据，请稍候。$"
 
 BattleFrontier_BattleFactoryLobby_Text_RecordLastMatch_hns:
@@ -456,12 +456,12 @@ BattleFrontier_BattleFactoryLobby_Text_NeedKnowledgeOfMonsMoves_hns:
 	.string "你是不是觉得这里不需要自己培育宝\n"
 	.string "可梦，挑战起来就很轻松？\p"
 	.string "想要赢可没那么容易哦。\p"
-	.string "要是对宝可梦和招式没有彻底的了解\n"
-	.string "，是很难一路赢下去的。$"
+	.string "要是对宝可梦和招式没有彻底的了\n"
+	.string "解，是很难一路赢下去的。$"
 
 BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon_hns:
-	.string "我换了只很弱的宝可梦……\n"
-	.string "我本来还以为它很强呢……\p"
+	.string "我换了只很弱的宝可梦……我本来还以\n"
+	.string "为它很强呢……\p"
 	.string "结果被打得落花流水……$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedToCheckOpponentsMons_hns:
@@ -508,8 +508,8 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNumberRules_hns:
 	.string "可梦。$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNotesRules_hns:
-	.string "交换宝可梦时有2个关键点需要注意\n"
-	.string "。\p"
+	.string "交换宝可梦时有2个关键点需要注\n"
+	.string "意。\p"
 	.string "第一，交换时你无法查看即将换来的\n"
 	.string "宝可梦的能力。\p"
 	.string "第二，你队伍中的宝可梦是按照你租\n"
@@ -519,5 +519,5 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNotesRules_hns:
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainOpenLvRules_hns:
 	.string "在自由等级中，租借宝可梦和对手训\n"
-	.string "练家的宝可梦等级全部都是100级\l"
+	.string "练家的宝可梦等级全部都是100级"
 	.string "。$"

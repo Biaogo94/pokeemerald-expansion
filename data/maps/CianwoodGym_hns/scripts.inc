@@ -153,8 +153,8 @@ CianwoodGym_Text_GetStormBadge:
 	.string "{PLAYER}获得了打击徽章。$"
 
 CianwoodGym_Text_ChuckBadgeSpeech:
-	.string "拥有打击徽章，等级70以内的宝可\n"
-	.string "梦包括交换来的都会听你的话。\p"
+	.string "拥有打击徽章，等级70以内的宝可梦\n"
+	.string "包括交换来的都会听你的话。\p"
 	.string "而且在战斗外也可以让宝可梦使用\n"
 	.string "“飞翔”招式了。\p"
 	.string "来，把这个也收下吧！$"
@@ -167,8 +167,8 @@ CianwoodGym_Text_ChuckTMSpeech:
 CianwoodGym_Text_ChuckAfter:
 	.string "哇哈哈哈！和你对战真是痛快！\p"
 	.string "不过输了就是输了！\p"
-	.string "从现在起，我要进行一天24小时不\n"
-	.string "间断的特训！$"
+	.string "从现在起，我要进行一天24小时不间\n"
+	.string "断的特训！$"
 
 CianwoodGym_Text_ChuckRematch:
 	.string "哇哈哈哈！城都的冠军！\p"
@@ -207,8 +207,7 @@ CianwoodGym_Text_BlackbeltLaoBeaten:
 	.string "太令人震惊了！$"
 
 CianwoodGym_Text_BlackbeltLaoAfter:
-	.string "格斗属性宝可梦很怕超能力……\n"
-	.string "..$"
+	.string "格斗属性宝可梦很怕超能力……..$"
 
 
 CianwoodGym_EventScript_Nob::
@@ -237,7 +236,6 @@ CianwoodGym_Text_BlackbeltLungBeaten:
 	.string "被粉碎的居然是我？！$"
 
 CianwoodGym_Text_BlackbeltLungAfter:
-	.string "我的宝可梦输了……我..\n"
-	.string "……我的自尊心全碎了……\l"
-	.string "..$"
+	.string "我的宝可梦输了……我..……我的自尊心\n"
+	.string "全碎了……..$"
 

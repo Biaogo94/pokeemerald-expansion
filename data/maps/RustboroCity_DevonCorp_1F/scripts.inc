@@ -88,8 +88,8 @@ RustboroCity_DevonCorp_1F_Text_StaffGotRobbed:
 	.string "裹抢走了。$"
 
 RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct:
-	.string "哎，那是跑步鞋！那也是我们的产品\n"
-	.string "！\p"
+	.string "哎，那是跑步鞋！那也是我们的产\n"
+	.string "品！\p"
 	.string "每次看到别人使用我们的发明，我都\n"
 	.string "会很高兴。$"
 
@@ -112,8 +112,8 @@ RustboroCity_DevonCorp_1F_Text_YoureAlwaysWelcomeHere:
 	.string "您好！随时欢迎您来参观！$"
 
 RustboroCity_DevonCorp_1F_Text_RocksMetalDisplay:
-	.string "玻璃箱子里展示着岩石和金属的样品\n"
-	.string "，\p"
+	.string "玻璃箱子里展示着岩石和金属的样\n"
+	.string "品，\p"
 	.string "上面有张卡片上写了些什么……\p"
 	.string "“得文公司创立时仅仅是一家以采石\n"
 	.string "为业的小公司，\p"

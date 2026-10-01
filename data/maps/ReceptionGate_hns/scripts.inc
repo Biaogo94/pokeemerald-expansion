@@ -71,8 +71,8 @@ VictoryRoadGate_Text_Officer:
 
 VictoryRoadGate_Text_Kimono:
     .string "抱歉啊小朋友，在有人解决掉那只传\n"
-    .string "说中的宝可梦之前，这里暂时封路了\l"
-    .string "......$"
+    .string "说中的宝可梦之前，这里暂时封路\l"
+    .string "了......$"
 
 VictoryRoadGate_Text_NotEnoughBadges:
     .string "你还没有集齐城都地区的全部道馆徽\n"

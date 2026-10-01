@@ -303,8 +303,7 @@ Route110_TrickHousePuzzle3_EventScript_Alan::
 
 Route110_TrickHousePuzzle3_Text_WroteSecretCodeLockOpened:
 	.string "{PLAYER}在门上写下密码。\p"
-	.string "“戏法大王令人仰慕”…… …… \n"
-	.string "…… ……\p"
+	.string "“戏法大王令人仰慕”…… …… …… ……\p"
 	.string "锁“咔嗒”一声开了！$"
 
 Route110_TrickHousePuzzle3_Text_JustinIntro:
@@ -326,8 +325,8 @@ Route110_TrickHousePuzzle3_Text_MarthaDefeat:
 	.string "你……你真讨厌！$"
 
 Route110_TrickHousePuzzle3_Text_MarthaPostBattle:
-	.string "我知道我很弱！而且我还没有方向感\n"
-	.string "！$"
+	.string "我知道我很弱！而且我还没有方向\n"
+	.string "感！$"
 
 Route110_TrickHousePuzzle3_Text_AlanIntro:
 	.string "我不明白，大家来这个稀奇古怪的房\n"

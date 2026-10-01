@@ -127,8 +127,8 @@ TwoIsland_House_Text_TeachMonMoveForMushroom::
 	.string "一个技能。$"
 
 TwoIsland_House_Text_WantMeToTeachMove::
-	.string "嗯……嗯……没错！你的身上有蘑菇\n"
-	.string "的香味！\p"
+	.string "嗯……嗯……没错！你的身上有蘑菇的香\n"
+	.string "味！\p"
 	.string "你想让我教给你宝可梦一个技能吗？$"
 
 TwoIsland_House_Text_TutorWhichMon::
@@ -152,8 +152,8 @@ TwoIsland_House_Text_HandedOverOneBigMushroom::
 	.string "{PLAYER}给了一个大蘑菇。$"
 
 TwoIsland_House_Text_NeedMushroomOrTwoToLearnMove::
-	.string "如果你想让你的宝可梦学习一个技能\n"
-	.string "，就给我一个或两个蘑菇。$"
+	.string "如果你想让你的宝可梦学习一个技\n"
+	.string "能，就给我一个或两个蘑菇。$"
 
 TwoIsland_House_Text_CantTeachAnEgg::
 	.string "哼？我不能教给一颗蛋什么技能。$"

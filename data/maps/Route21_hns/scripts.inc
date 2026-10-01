@@ -33,15 +33,15 @@ Route21_Text_SwimmermSethAfterBattle:
 	.string "家伙。$"
 
 Route21_Text_SwimmerfNikkiSeen:
-	.string "如果我赢了，你可得帮我涂防晒油哦\n"
-	.string "！$"
+	.string "如果我赢了，你可得帮我涂防晒油\n"
+	.string "哦！$"
 
 Route21_Text_SwimmerfNikkiBeaten:
 	.string "真担心会被晒伤啊……$"
 
 Route21_Text_SwimmerfNikkiAfterBattle:
-	.string "我可得留心别被大太阳晒出斑点才行\n"
-	.string "。$"
+	.string "我可得留心别被大太阳晒出斑点才\n"
+	.string "行。$"
 
 Route21_Text_FisherArnoldSeen:
 	.string "钓鱼钓腻了。来对战吧！$"

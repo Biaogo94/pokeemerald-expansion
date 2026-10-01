@@ -49,8 +49,7 @@ Route50_EventScript_WesselAfter::
 
 Route50_Text_WesselBefore:
 	.string "太不可思议了，是霹雳电球！\p"
-	.string "但它看起来居然像是……木\n"
-	.string "头做的？\p"
+	.string "但它看起来居然像是……木头做的？\p"
 	.string "看来我关于这条道路上栖息着许多钢\n"
 	.string "属性宝可梦的假说，又一次被推翻\l"
 	.string "了。\p"
@@ -111,15 +110,14 @@ Route50_Text_FinleyBefore:
 Route50_Text_FinleyBeforeBattle:
 	.string "我知道是舞姬们让你来收集这些石板\n"
 	.string "的。\p"
-	.string "她们说你很有能耐……但你\n"
-	.string "能够战胜我的龙宝可梦吗？$"
+	.string "她们说你很有能耐……但你能够战胜我\n"
+	.string "的龙宝可梦吗？$"
 
 Route50_Text_FinleyDefeat:
 	.string "我的龙宝可梦们表现得很不错。$"
 
 Route50_Text_FinleyAfter:
-	.string "也许你甚至有实力战胜阿渡……\n"
-	.string "..$"
+	.string "也许你甚至有实力战胜阿渡……..$"
 
 Route50_EventScript_Item_ULtraBall::
     finditem ITEM_ULTRA_BALL

@@ -254,12 +254,12 @@ SlateportCity_OceanicMuseum_1F_Text_CanLearnForNefariousDeeds:
 	.string "我觉得在这里我会做出些坏事来……$"
 
 SlateportCity_OceanicMuseum_1F_Text_RustboroBungled:
-	.string "如果不是那些蠢货在卡那兹市搞砸了\n"
-	.string "，我们怎么会到这儿来！$"
+	.string "如果不是那些蠢货在卡那兹市搞砸\n"
+	.string "了，我们怎么会到这儿来！$"
 
 SlateportCity_OceanicMuseum_1F_Text_DidntHaveMoney:
-	.string "我没带够¥50，从接待员那儿混进\n"
-	.string "来花了不少时间。$"
+	.string "我没带够¥50，从接待员那儿混进来\n"
+	.string "花了不少时间。$"
 
 SlateportCity_OceanicMuseum_1F_Text_LearnAboutSeaForBattling:
 	.string "我想了解大海，把那些知识融入我的\n"
@@ -281,26 +281,26 @@ SlateportCity_OceanicMuseum_1F_Text_WantSeaPokemon:
 SlateportCity_OceanicMuseum_1F_Text_RememberMeTakeThis:
 	.string "哎呀！你在这儿干什么？\p"
 	.string "我？我是之前被你狠狠教训过的海洋\n"
-	.string "队队员，记得吗？就在卡绿隧道那里\l"
-	.string "？\p"
+	.string "队队员，记得吗？就在卡绿隧道那\l"
+	.string "里？\p"
 	.string "这个给你！原谅我吧！$"
 
 SlateportCity_OceanicMuseum_1F_Text_HopeINeverSeeYouAgain:
-	.string "比起我来，这个招式学习器更适合你\n"
-	.string "。\p"
+	.string "比起我来，这个招式学习器更适合\n"
+	.string "你。\p"
 	.string "希望下次不要再见面了！啊哈哈哈！$"
 
 SlateportCity_OceanicMuseum_1F_Text_YouHaveToTakeThis:
-	.string "啊噢，拜托了！拿着这个，放我走吧\n"
-	.string "！$"
+	.string "啊噢，拜托了！拿着这个，放我走\n"
+	.string "吧！$"
 
 SlateportCity_OceanicMuseum_1F_Text_WhirlpoolExperiment:
 	.string "蓝色的液体在玻璃容器中盘旋着。\p"
 	.string "“利用风力人工制造漩涡的实验”。$"
 
 SlateportCity_OceanicMuseum_1F_Text_WaterfallExperiment:
-	.string "一个红色的球在玻璃容器里上下跳动\n"
-	.string "。\p"
+	.string "一个红色的球在玻璃容器里上下跳\n"
+	.string "动。\p"
 	.string "“利用球的浮力模拟攀瀑的实验”。$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanSoilDisplay:
@@ -317,7 +317,7 @@ SlateportCity_OceanicMuseum_1F_Text_BeachSandDisplay:
 	.string "最后成为海滩上松散的沙粒”。$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact1:
-	.string "“海洋小常识 1为什么海水是蓝的\n"
+	.string "“海洋小常识 1为什么海水是蓝的"
 	.string "？\p"
 	.string "光分成多种颜色。\p"
 	.string "穿过海水时，大部分光失去了颜色。\p"
@@ -325,7 +325,7 @@ SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact1:
 	.string "去就成了蓝色。”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact2:
-	.string "“海洋小常识 2为什么海水是咸的\n"
+	.string "“海洋小常识 2为什么海水是咸的"
 	.string "？\p"
 	.string "“海水中溶解的盐以钠离子和氯离子\n"
 	.string "的形式存在。\p"
@@ -336,21 +336,20 @@ SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact2:
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact3:
 	.string "“海洋小常识 3大陆和海洋哪个更\n"
 	.string "大？\p"
-	.string "海洋占据星球上70%的地表，剩下\n"
-	.string "的是大陆。\p"
-	.string "因此海洋的面积是大陆的两倍以上。\n"
-	.string "”$"
+	.string "海洋占据星球上70%的地表，剩下的\n"
+	.string "是大陆。\p"
+	.string "因此海洋的面积是大陆的两倍以上"
+	.string "。”$"
 
 SlateportCity_OceanicMuseum_1F_Text_FossilDisplay:
 	.string "有波浪形突起的化石。\p"
 	.string "“洋底的泥土经过潮汐的冲刷，\p"
 	.string "表面留下了凹凸不平的痕迹。\p"
-	.string "泥土变成化石后，就形成了波纹石。\n"
-	.string "”$"
+	.string "泥土变成化石后，就形成了波纹石"
+	.string "。”$"
 
 SlateportCity_OceanicMuseum_1F_Text_DepthMeasuringMachine:
 	.string "半球型的玻璃罩下面有奇怪的机器在\n"
 	.string "运转。\p"
-	.string "也许是用来测量什么东西的深度的…\n"
-	.string "…$"
+	.string "也许是用来测量什么东西的深度的……$"
 

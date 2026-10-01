@@ -133,23 +133,20 @@ Route31_Text_BugCatcherWade1_After:
 	.string "里。$"
 
 Route31_Text_SleepyMan:
-	.string "……呼噜噜……嗯\n"
-	.string "？\p"
+	.string "……呼噜噜……嗯？\p"
 	.string "今天为了找宝可梦，走得太远了。\p"
 	.string "脚好酸，好困啊……\p"
 	.string "如果我是野生宝可梦，肯定一下就被\n"
 	.string "捉住了吧……\p"
-	.string "……呼--呼--....\n"
-	.string "..$"
+	.string "……呼--呼--......$"
 
 Route31_Text_SleepyManGotMail:
-	.string "……呼--……嗯\n"
+	.string "……呼--……嗯"
 	.string "？\p"
 	.string "那是什么？你有邮件要给我吗？$"
 
 Route31_Text_SleepyManFail:
-	.string "……呼--呼--....\n"
-	.string "..$"
+	.string "……呼--呼--......$"
 
 Route31_Text_HandOverMailMon:
 	.string "{PLAYER}交出了携带邮件的\n"
@@ -168,8 +165,7 @@ Route31_Text_DescribeRest:
 	.string "……唔……睡觉！\p"
 	.string "“睡一觉就能恢复体力”，所以才叫\n"
 	.string "“睡觉”，明白吗？\p"
-	.string "这是一个在睡眠中恢复HP的招式\n"
-	.string "哦。$"
+	.string "这是一个在睡眠中恢复HP的招式哦。$"
 
 Route31_Text_WrongMail:
 	.string "这封邮件不是给我的。$"
@@ -186,8 +182,8 @@ Route31_Text_CantTakeLastMon:
 	.string "你接下来要用什么去战斗呢？$"
 
 Route31_Text_Youngster:
-	.string "我在黑暗穴抓到了一只很棒的宝可梦\n"
-	.string "。\p"
+	.string "我在黑暗穴抓到了一只很棒的宝可\n"
+	.string "梦。\p"
 	.string "我打算好好培育它，再去挑战阿速。\p"
 	.string "他就是桔梗道馆的馆主哦。$"
 

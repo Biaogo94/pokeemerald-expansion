@@ -60,10 +60,8 @@ MountMortar4_Text_KiyoWin:
 	.string "哇啊啊啊！我甘拜下风！$"
 
 MountMortar4_Text_KiyoTyrogueReward:
-	.string "我……我居然输得这么彻\n"
-	.string "底……\p"
-	.string "看来我的修行还远远不够……\n"
-	.string "..\p"
+	.string "我……我居然输得这么彻底……\p"
+	.string "看来我的修行还远远不够……..\p"
 	.string "但输了就是输了，我认输。\p"
 	.string "作为击败我的证明，我送你一只稀有\n"
 	.string "的格斗属性宝可梦吧。$"

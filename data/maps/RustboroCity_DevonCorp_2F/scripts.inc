@@ -292,10 +292,10 @@ RustboroCity_DevonCorp_2F_Text_IMadePokenav:
 
 RustboroCity_DevonCorp_2F_Text_WowThatsAPokenav:
 	.string "哇！那是宝可导航！\p"
-	.string "因为我们社长想要了解宝可梦的感受\n"
-	.string "，才会有这东西的构想。\p"
-	.string "你要我向你详细讲解一下它的功能吗\n"
-	.string "？\p"
+	.string "因为我们社长想要了解宝可梦的感\n"
+	.string "受，才会有这东西的构想。\p"
+	.string "你要我向你详细讲解一下它的功能\n"
+	.string "吗？\p"
 	.string "啊，不，不，我想你会在试用我们的\n"
 	.string "宝可导航时慢慢摸索出来的。$"
 
@@ -310,21 +310,21 @@ RustboroCity_DevonCorp_2F_Text_DevelopDeviceToResurrectFossils:
 	.string "现在运转良好！$"
 
 RustboroCity_DevonCorp_2F_Text_WantToBringFossilBackToLife:
-	.string "什么！你拿着的……是宝可梦化石吗\n"
+	.string "什么！你拿着的……是宝可梦化石吗"
 	.string "？\p"
 	.string "你想复活那只宝可梦吗？\p"
 	.string "用我新开发的化石重生器就能做到。$"
 
 RustboroCity_DevonCorp_2F_Text_OhIsThatSo:
 	.string "是吗？\p"
-	.string "告诉你，得文的技术知识是最优秀的\n"
-	.string "。$"
+	.string "告诉你，得文的技术知识是最优秀\n"
+	.string "的。$"
 
 RustboroCity_DevonCorp_2F_Text_TwoFossilsPickOne:
 	.string "啊，真令人吃惊！你不是有1个，而\n"
 	.string "是有2个化石？\p"
-	.string "但我的机器一次只能复活1只宝可梦\n"
-	.string "，\p"
+	.string "但我的机器一次只能复活1只宝可\n"
+	.string "梦，\p"
 	.string "你想复活其中1只吗？$"
 
 RustboroCity_DevonCorp_2F_Text_HandedFossilToResearcher:

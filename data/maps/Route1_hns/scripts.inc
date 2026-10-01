@@ -25,8 +25,7 @@ Route1_Text_SchoolboyDanny_Seen:
 	.string "训练家相遇，第一件事当然是对战！$"
 
 Route1_Text_SchoolboyDanny_Beaten:
-	.string "呜呜……我的负场又增加了\n"
-	.string "......$"
+	.string "呜呜……我的负场又增加了......$"
 
 Route1_Text_SchoolboyDanny_AfterBattle:
 	.string "对于训练家来说，相遇即对战是理所\n"

@@ -34,6 +34,6 @@ MagmaHideout_3F_1R_Text_Grunt16Defeat:
 
 MagmaHideout_3F_1R_Text_Grunt16PostBattle:
 	.string "听好了——熔岩队才是正确的！\p"
-	.string "别听海洋队的，别相信他们说的鬼话\n"
-	.string "！$"
+	.string "别听海洋队的，别相信他们说的鬼\n"
+	.string "话！$"
 

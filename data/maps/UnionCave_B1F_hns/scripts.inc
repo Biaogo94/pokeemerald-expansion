@@ -38,8 +38,8 @@ UnionCave_B1F_Text_HikerPhillipBeaten:
 
 UnionCave_B1F_Text_HikerPhillipAfter:
 	.string "我已经迷路很久了……\p"
-	.string "待在这里倒无所谓，但我肚子真--\n"
-	.string "的好饿啊！$"
+	.string "待在这里倒无所谓，但我肚子真--的\n"
+	.string "好饿啊！$"
 
 UnionCave_B1F_Text_HikerLeonardSeen:
 	.string "哎呀真稀奇！竟然有客人来！$"
@@ -64,8 +64,8 @@ UnionCave_B1F_Text_PokemaniacAndrewAfter:
 	.string "不着北了。$"
 
 UnionCave_B1F_Text_PokemaniacCalvinSeen:
-	.string "我大老远跑到这里来进行宝可梦研究\n"
-	.string "。\p"
+	.string "我大老远跑到这里来进行宝可梦研\n"
+	.string "究。\p"
 	.string "就让我在实战中展现一下我的研究成\n"
 	.string "果吧！$"
 

@@ -48,6 +48,5 @@ PacifidlogTown_Text_SkyPillarTooScary:
 
 PacifidlogTown_Text_TownSign:
 	.string "暮水镇\p"
-	.string "“朝阳微笑着\n"
-	.string "洒落水面的地方。”$"
+	.string "“朝阳微笑着洒落水面的地方。”$"
 

@@ -2,6 +2,8 @@
 from pathlib import Path
 import re
 
+from tools.i18n.extractor import scan_repository
+
 ROOT = Path(__file__).resolve().parents[3]
 
 
@@ -85,3 +87,35 @@ def test_nature_names_remain_current_official_simplified_names():
     for enum_name, official_name in expected.items():
         match = re.search(rf"\[{enum_name}\]\s*=\s*\{{(.*?)\n\s*\}},", text, re.S)
         assert match and f'.name = COMPOUND_STRING("{official_name}")' in match.group(1)
+
+
+def test_dialogue_breaks_do_not_orphan_punctuation_or_split_ascii_tokens():
+    punctuation = "，。！？、；：）》”’』】"
+    orphan_pattern = re.compile(r"\\[nl][" + re.escape(punctuation) + r"]")
+    split_ascii = re.compile(r"[A-Za-z0-9]\\[nl][A-Za-z0-9]")
+    too_many_full_width = []
+    orphaned_punctuation = []
+    split_tokens = []
+
+    for entry in scan_repository(str(ROOT)):
+        if not entry.file.startswith(("./data/maps/", "./data/text/", "./data/scripts/")):
+            continue
+        if entry.file.endswith("/debug.inc"):
+            continue
+
+        for line_number, line in enumerate(re.split(r"\\[nlp]", entry.source), 1):
+            visible = re.sub(r"\{[^}]*\}", "", line).replace("$", "")
+            full_width_count = sum("\u3400" <= char <= "\u9fff" for char in visible)
+            if full_width_count > 16:
+                too_many_full_width.append((entry.file, entry.label, line_number, visible))
+
+        orphan_match = orphan_pattern.search(entry.source)
+        if orphan_match:
+            orphaned_punctuation.append((entry.file, entry.label, orphan_match.group()))
+        split_match = split_ascii.search(entry.source)
+        if split_match:
+            split_tokens.append((entry.file, entry.label, split_match.group()))
+
+    assert too_many_full_width == []
+    assert orphaned_punctuation == []
+    assert split_tokens == []

@@ -29,6 +29,6 @@ SSAnne_2F_Room4_Text_DawnDefeat::
 	.string "别着急！$"
 
 SSAnne_2F_Room4_Text_DawnPostBattle::
-	.string "哦，我非常喜欢你强大的宝可梦！哦\n"
-	.string "，我为他们而嫉妒你！$"
+	.string "哦，我非常喜欢你强大的宝可梦！\n"
+	.string "哦，我为他们而嫉妒你！$"
 

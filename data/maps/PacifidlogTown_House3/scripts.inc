@@ -37,12 +37,12 @@ PacifidlogTown_House3_Text_WillingToTradeIt:
 	.string "啊，看来你想要它！毕竟，它是无可\n"
 	.string "估价的！\p"
 	.string "但你如果愿意用\n"
-	.string "{STR_VAR_1}跟我换的话\l"
-	.string "，我也可以考虑。$"
+	.string "{STR_VAR_1}跟我换的\l"
+	.string "话，我也可以考虑。$"
 
 PacifidlogTown_House3_Text_ItsSubtlyDifferentThankYou:
-	.string "呀，这个是{STR_VAR_1}\n"
-	.string "？\p"
+	.string "呀，这个是\n"
+	.string "{STR_VAR_1}？\p"
 	.string "虽然跟{STR_VAR_2}有点\n"
 	.string "像，但它们还是有不同之处。\p"
 	.string "谢谢！$"
@@ -57,8 +57,7 @@ PacifidlogTown_House3_Text_NotDesperateOrAnything:
 	.string "也好，我也不是急着想交换的。$"
 
 PacifidlogTown_House3_Text_ReallyWantedToGetBagon:
-	.string "我知道我也能自己去找一只，但是…\n"
-	.string "…\p"
+	.string "我知道我也能自己去找一只，但是……\p"
 	.string "我真的很想要一只其他训练家捕捉的\n"
 	.string "宝贝龙……$"
 

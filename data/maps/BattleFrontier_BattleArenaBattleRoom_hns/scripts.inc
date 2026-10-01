@@ -549,8 +549,8 @@ BattleFrontier_BattleArenaBattleRoom_Text_NowFaceTycoon_hns:
 	.string "场主将！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_PreparedForTycoon_hns:
-	.string "与竞技场主将的对战！你准备好了吗\n"
-	.string "？$"
+	.string "与竞技场主将的对战！你准备好了\n"
+	.string "吗？$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_MakeWayForGreta_hns:
 	.string "裁判：竞技场主将！黄瓜香登场！$"
@@ -560,13 +560,11 @@ BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureChallenger_hns:
 	.string "……咦，你就是挑战者吗？$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_IsThatRight_hns:
-	.string "是这样吗？唔……哼嗯..\n"
-	.string "....$"
+	.string "是这样吗？唔……哼嗯......$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_YouLookWeakTakeThingsEasy_hns:
-	.string "该怎么说呢……直白点讲，\n"
-	.string "你看起来挺弱的。你真的有把握对付\l"
-	.string "我吗？\p"
+	.string "该怎么说呢……直白点讲，你看起来挺\n"
+	.string "弱的。你真的有把握对付我吗？\p"
 	.string "嗯……\p"
 	.string "嘛，算了！一开始我就先放点水吧！$"
 
@@ -575,10 +573,10 @@ BattleFrontier_BattleArenaBattleRoom_Text_IgniteMyPassionForBattle_hns:
 	.string "战热情！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureToughAfterAll_hns:
-	.string "黄瓜香：哎呀，等等！你其实很强嘛\n"
-	.string "！\p"
-	.string "我中意你！把你的开拓通行证拿来吧\n"
-	.string "。$"
+	.string "黄瓜香：哎呀，等等！你其实很强\n"
+	.string "嘛！\p"
+	.string "我中意你！把你的开拓通行证拿来\n"
+	.string "吧。$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReceivedGutsSymbol_hns:
 	.string "开拓通行证上被印上了毅力象征！$"
@@ -594,8 +592,7 @@ BattleFrontier_BattleArenaBattleRoom_Text_GretaLookingForwardToSeeingAgain_hns:
 	.string "待能再次见到你呢！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SoAreYouReady_hns:
-	.string "……那么，准\n"
-	.string "备好了吗？$"
+	.string "……那么，准备好了吗？$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WontAllowHalfheartedEffort_hns:
 	.string "我可不会手下留情！做好被狠狠痛扁\n"

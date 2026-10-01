@@ -130,8 +130,8 @@ ViridianCity_Gym_Text_GiovanniPostBattle::
 	.string "在今天，火箭队永远地解散了。\p"
 	.string "对我自己而言，我会倾其一生去再次\n"
 	.string "修炼。\p"
-	.string "也许我们将来可能会再见吧！永别了\n"
-	.string "！$"
+	.string "也许我们将来可能会再见吧！永别\n"
+	.string "了！$"
 
 ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis::
 	.string "绿色徽章能使任何级别的宝可梦无理\n"
@@ -191,8 +191,8 @@ ViridianCity_Gym_Text_KiyoDefeat::
 	.string "啊哈！$"
 
 ViridianCity_Gym_Text_KiyoPostBattle::
-	.string "如果我的宝可梦像我一样擅长空手道\n"
-	.string "……$"
+	.string "如果我的宝可梦像我一样擅长空手\n"
+	.string "道……$"
 
 ViridianCity_Gym_Text_WarrenIntro::
 	.string "我的风格是靠真正的实力取胜。$"
@@ -201,12 +201,12 @@ ViridianCity_Gym_Text_WarrenDefeat::
 	.string "我失去控制了！$"
 
 ViridianCity_Gym_Text_WarrenPostBattle::
-	.string "馆主会因为我就这样输了而责骂我的\n"
-	.string "……$"
+	.string "馆主会因为我就这样输了而责骂我\n"
+	.string "的……$"
 
 ViridianCity_Gym_Text_TakashiIntro::
-	.string "我是空手道之王！你的命运取决于我\n"
-	.string "！$"
+	.string "我是空手道之王！你的命运取决于\n"
+	.string "我！$"
 
 ViridianCity_Gym_Text_TakashiDefeat::
 	.string "啊！$"
@@ -237,8 +237,8 @@ ViridianCity_Gym_Text_SamuelPostBattle::
 
 ViridianCity_Gym_Text_GymGuyAdvice::
 	.string "呦！未来的冠军！\p"
-	.string "实际上连我也不知道常青馆主的身份\n"
-	.string "。\p"
+	.string "实际上连我也不知道常青馆主的身\n"
+	.string "份。\p"
 	.string "但是有件事情是确定的。他是所有道\n"
 	.string "馆馆主之中最难对付的！\p"
 	.string "而且，我听说这儿的训练家都喜欢使\n"

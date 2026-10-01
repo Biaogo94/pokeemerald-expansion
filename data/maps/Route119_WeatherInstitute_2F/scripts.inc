@@ -234,16 +234,16 @@ Route119_WeatherInstitute_2F_Text_Grunt5Defeat:
 
 Route119_WeatherInstitute_2F_Text_Grunt5PostBattle:
 	.string "哼，那又怎么样？我们想要的……\p"
-	.string "我们真正想要的并不在这里……咿嘻\n"
-	.string "嘻嘻嘻……$"
+	.string "我们真正想要的并不在这里……咿嘻嘻\n"
+	.string "嘻嘻……$"
 
 Route119_WeatherInstitute_2F_Text_ShellyIntro:
 	.string "啊哈哈哈哈！\p"
 	.string "竟敢插手我们海洋队的行动吗？\p"
 	.string "你是无畏，还是无知，或是两者兼有\n"
 	.string "呢？\p"
-	.string "太可爱了，太可恶了！我这就打倒你\n"
-	.string "，小家伙！$"
+	.string "太可爱了，太可恶了！我这就打倒\n"
+	.string "你，小家伙！$"
 
 Route119_WeatherInstitute_2F_Text_ShellyDefeat:
 	.string "啊哈哈哈哈！你强得让人反胃！$"
@@ -263,8 +263,8 @@ Route119_WeatherInstitute_2F_Text_WeHaveToHurryToMtPyre:
 	.string "什么？！\p"
 	.string "我们不能再在这里浪费时间了！我们\n"
 	.string "也得赶紧去送神山了！\p"
-	.string "啊哈哈哈哈！熔岩队，你们给我等着\n"
-	.string "！$"
+	.string "啊哈哈哈哈！熔岩队，你们给我等\n"
+	.string "着！$"
 
 Route119_WeatherInstitute_2F_Text_ThanksPleaseTakePokemon:
 	.string "谢谢！多亏你救了我们！\p"
@@ -279,10 +279,10 @@ Route119_WeatherInstitute_2F_Text_PlayerReceivedCastform:
 	.string "{PLAYER}得到了漂浮泡泡！$"
 
 Route119_WeatherInstitute_2F_Text_PokemonChangesWithWeather:
-	.string "这种宝可梦能根据天气状况改变形态\n"
-	.string "。\p"
-	.string "研究所里面还有不少，这只就给你了\n"
-	.string "。$"
+	.string "这种宝可梦能根据天气状况改变形\n"
+	.string "态。\p"
+	.string "研究所里面还有不少，这只就给你\n"
+	.string "了。$"
 
 Route119_WeatherInstitute_2F_Text_ChangingWeatherRidiculous:
 	.string "我研究降雨数十年，但如果说想要随\n"

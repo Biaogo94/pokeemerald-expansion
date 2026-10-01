@@ -120,8 +120,7 @@ SootopolisCity_Gym_B1F_Text_OliviaPostBattle:
 	.string "练呢？$"
 
 SootopolisCity_Gym_B1F_Text_TiffanyIntro:
-	.string "优雅地滑过冰面，道路却没有交叉…\n"
-	.string "…\p"
+	.string "优雅地滑过冰面，道路却没有交叉……\p"
 	.string "能做到这一点的训练家才拥有最高雅\n"
 	.string "的美丽！$"
 
@@ -140,8 +139,8 @@ SootopolisCity_Gym_B1F_Text_BethanyDefeat:
 	.string "呀！$"
 
 SootopolisCity_Gym_B1F_Text_BethanyPostBattle:
-	.string "真希望我能在说“呀”之前就忘记这\n"
-	.string "场注定的失败！$"
+	.string "真希望我能在说“呀”之前就忘记这场\n"
+	.string "注定的失败！$"
 
 SootopolisCity_Gym_B1F_Text_AnnikaIntro:
 	.string "我的稀有宝可梦也会和我一起战斗。$"

@@ -332,8 +332,8 @@ LilycoveCity_ContestHall_Text_ManWhoWonEarlierHadPokeblocks:
 
 LilycoveCity_ContestHall_Text_IsntThisPlaceHumongous:
 	.string "哇，这儿好大！\p"
-	.string "空气中充满了紧张感……一点也不像\n"
-	.string "是华丽大赛会场。$"
+	.string "空气中充满了紧张感……一点也不像是\n"
+	.string "华丽大赛会场。$"
 
 LilycoveCity_ContestHall_Text_GiveItBestSmartAppeal:
 	.string "主持人：好了，聪明宝可梦和训练家\n"
@@ -347,8 +347,8 @@ LilycoveCity_ContestHall_Text_AreYouEnjoyingThisContest:
 
 LilycoveCity_ContestHall_Text_EnteredWrongContest:
 	.string "啊呀啊呀啊呀……我参加错了，\p"
-	.string "我让我强大的宝可梦参加了聪明大赛\n"
-	.string "……\p"
+	.string "我让我强大的宝可梦参加了聪明大\n"
+	.string "赛……\p"
 	.string "好吧，用你聪慧的碎岩让他们大吃一\n"
 	.string "惊吧。$"
 
@@ -361,8 +361,8 @@ LilycoveCity_ContestHall_Text_RaisedMonToBeSmart:
 
 LilycoveCity_ContestHall_Text_IfMonPullsSmartMoveNext:
 	.string "就是现在！\p"
-	.string "如果下面我的宝可梦使用聪明的招式\n"
-	.string "，观众的兴奋点会达到巅峰！$"
+	.string "如果下面我的宝可梦使用聪明的招\n"
+	.string "式，观众的兴奋点会达到巅峰！$"
 
 LilycoveCity_ContestHall_Text_DontAppreciateCuteLeechLife:
 	.string "哎，宝贝，不！\p"
@@ -384,10 +384,10 @@ LilycoveCity_ContestHall_Text_PokemonSmarterThanTrainers:
 	.string "要聪明。$"
 
 LilycoveCity_ContestHall_Text_StillLoveSmartnessContests:
-	.string "无论人们说什么，我都喜欢聪明大赛\n"
-	.string "。\p"
-	.string "那智慧的绿色……它非常……非常…\n"
-	.string "…美妙。$"
+	.string "无论人们说什么，我都喜欢聪明大\n"
+	.string "赛。\p"
+	.string "那智慧的绿色……它非常……非常……美\n"
+	.string "妙。$"
 
 LilycoveCity_ContestHall_Text_AreYouEnteringBeautyContest:
 	.string "主持人：你也要参加漂亮部门吗？加\n"
@@ -399,16 +399,16 @@ LilycoveCity_ContestHall_Text_EveryPokemonPristineBeauty:
 	.string "哎，我都忘了要为它们计分了！$"
 
 LilycoveCity_ContestHall_Text_EyesWillBeGluedToMyBeauty:
-	.string "这么漂亮的宝可梦……没有什么能比\n"
-	.string "得上它，\p"
+	.string "这么漂亮的宝可梦……没有什么能比得\n"
+	.string "上它，\p"
 	.string "大家的目光都会聚集在它的美丽上。$"
 
 LilycoveCity_ContestHall_Text_OverdidGrooming:
 	.string "哇啊啊啊！\p"
 	.string "参加大赛前我非常细心地为我的宝可\n"
 	.string "梦梳洗……\p"
-	.string "但我做得好像过头了……我的宝可梦\n"
-	.string "的服装看上去很乱……\p"
+	.string "但我做得好像过头了……我的宝可梦的\n"
+	.string "服装看上去很乱……\p"
 	.string "我该怎么办？$"
 
 LilycoveCity_ContestHall_Text_JudgeWontSeeAuroraBeam:
@@ -417,8 +417,8 @@ LilycoveCity_ContestHall_Text_JudgeWontSeeAuroraBeam:
 
 LilycoveCity_ContestHall_Text_PokemonLooksLikeYoungerMe:
 	.string "这只漂亮的宝可梦和我小时候很像。\p"
-	.string "我这么说的时候，老公把咖啡都喷了\n"
-	.string "。\p"
+	.string "我这么说的时候，老公把咖啡都喷\n"
+	.string "了。\p"
 	.string "这句话很奇怪吗？$"
 
 LilycoveCity_ContestHall_Text_WinBeautyContestMakesMeHappy:
@@ -482,8 +482,8 @@ LilycoveCity_ContestHall_Text_BeautyContestStage:
 	.string "漂亮部门会场美丽宝可梦的诱惑！$"
 
 LilycoveCity_ContestHall_Text_CuteContestStage:
-	.string "可爱部门会场迷醉于可爱的宝可梦吧\n"
-	.string "！$"
+	.string "可爱部门会场迷醉于可爱的宝可梦\n"
+	.string "吧！$"
 
 LilycoveCity_ContestHall_Text_SmartContestStage:
 	.string "聪明部门会场聪明的宝可梦，深刻的\n"

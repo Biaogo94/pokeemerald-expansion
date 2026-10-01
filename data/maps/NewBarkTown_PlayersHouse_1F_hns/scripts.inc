@@ -186,8 +186,8 @@ NewBarkTown_PlayersHouse_1F_Text_WithdrawSuccess:
 	.string "妈妈：给你，拿好哦！$"
 
 NewBarkTown_PlayersHouse_1F_Text_NoMoneyToDeposit:
-	.string "妈妈：宝贝，你现在没有钱可以存呢\n"
-	.string "。$"
+	.string "妈妈：宝贝，你现在没有钱可以存\n"
+	.string "呢。$"
 
 NewBarkTown_PlayersHouse_1F_Text_NoMoneyToWithdraw:
 	.string "妈妈：亲爱的，妈妈这里还没帮你存\n"
@@ -307,8 +307,8 @@ NewBarkTown_PlayersHouse_1F_Text_ElmsLookingForYou:
 	.string "给你！$"
 
 NewBarkTown_PlayersHouse_1F_Text_ObtainedPokeGear:
-	.string "{PLAYER}获得了宝可梦齿轮\n"
-	.string "。$"
+	.string "{PLAYER}获得了宝可梦齿\n"
+	.string "轮。$"
 
 NewBarkTown_PlayersHouse_1F_Text_ExplainPokeGear:
 	.string "妈妈：电话号码都储存在内存里面。\p"
@@ -334,16 +334,16 @@ NewBarkTown_PlayersHouse_1F_Text_MomsFriend:
 	.string "嗨，{PLAYER}！\p"
 	.string "我来串门啦！\p"
 	.string "你听说了吗？\p"
-	.string "我女儿一心想去当空木博士的助手呢\n"
-	.string "。\p"
+	.string "我女儿一心想去当空木博士的助手\n"
+	.string "呢。\p"
 	.string "她真的很喜欢宝可梦！$"
 
 NewBarkTown_PlayersHouse_1F_Text_MomLeaving:
 	.string "妈妈：哇，好可爱的宝可梦。是从哪\n"
 	.string "里得到的？\p"
 	.string "……\p"
-	.string "所以，你准备出发去冒险了……听起\n"
-	.string "来真的很有挑战性呢……\p"
+	.string "所以，你准备出发去冒险了……听起来\n"
+	.string "真的很有挑战性呢……\p"
 	.string "路上一定要小心。\p"
 	.string "宝可梦是你的伙伴。你们必须像团队\n"
 	.string "一样互相合作。\p"

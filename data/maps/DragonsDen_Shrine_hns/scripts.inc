@@ -177,10 +177,10 @@ DragonsDen_Shrine_EventScript_ElderQuizFinish::
 
 DragonsDen_Shrine_Text_ElderGreeting:
     .string "唔……欢迎来到这里。\p"
-    .string "不必说明你的来意。是小椿让你来的\n"
-    .string "，对吧？\p"
-    .string "那孩子真是让人操心……虽\n"
-    .string "然很抱歉，但我必须测试一下你。\p"
+    .string "不必说明你的来意。是小椿让你来\n"
+    .string "的，对吧？\p"
+    .string "那孩子真是让人操心……虽然很抱歉，\n"
+    .string "但我必须测试一下你。\p"
     .string "别担心，只要回答几个问题就行。准\n"
     .string "备好了吗？$"
 
@@ -210,15 +210,14 @@ DragonsDen_Shrine_Text_RightAnswer:
     .string "哦，我明白了……$"
 
 DragonsDen_Shrine_Text_PassedTest:
-    .string "嗯……我明白了……\n"
-    .string ".\p"
+    .string "嗯……我明白了…….\p"
     .string "你深深地关爱着宝可梦。\p"
     .string "非常值得赞赏。\p"
     .string "这份信念才是最重要的！\p"
     .string "{PLAYER}，绝不要丢掉这份\n"
     .string "信念。\p"
-    .string "它会指引你在宝可梦联盟中勇往直前\n"
-    .string "。$"
+    .string "它会指引你在宝可梦联盟中勇往直\n"
+    .string "前。$"
 
 DragonsDen_Shrine_EventScript_ClairEnter::
 	clearflag FLAG_HIDE_DRAGONS_DEN_SHRINE_CLAIR
@@ -335,8 +334,8 @@ DragonsDen_Shrine_Movement_ClairLeave:
 
 DragonsDen_Shrine_Text_ClairYouPassed:
     .string "怎么样了？\p"
-    .string "不过我想问了也是白问。你失败了吧\n"
-    .string "？\p"
+    .string "不过我想问了也是白问。你失败了\n"
+    .string "吧？\p"
     .string "................................................\p"
     .string "……什么？你合格了？！$"
 
@@ -352,8 +351,7 @@ DragonsDen_Shrine_Text_MustIInformLance:
     .string "这孩子无论在技术还是心灵上，都无\n"
     .string "可挑剔！\p"
     .string "认输吧，把升龙徽章交出来！\p"
-    .string "……还是说，要我把这件事\n"
-    .string "告诉阿渡？$"
+    .string "……还是说，要我把这件事告诉阿渡？$"
 
 DragonsDen_Shrine_Text_IUnderstand:
     .string "我、我知道了……$"
@@ -404,8 +402,8 @@ DragonsDen_Shrine_Text_Elder2:
 
 DragonsDen_Shrine_Text_Elder3:
     .string "你认识年轻的阿渡少爷吗？\p"
-    .string "他和长老年轻时的模样简直一模一样\n"
-    .string "。\p"
+    .string "他和长老年轻时的模样简直一模一\n"
+    .string "样。\p"
     .string "真不愧是血脉相承啊。$"
 
 DragonsDen_Shrine_EventScript_ElderChooseDratini::
@@ -446,8 +444,7 @@ DragonsDen_Shrine_EventScript_ElderAlreadyGotDratini::
 	end
 
 DragonsDen_Shrine_Text_TakeThisDratini:
-    .string "嗯……很高兴能在这里见到\n"
-    .string "你。\p"
+    .string "嗯……很高兴能在这里见到你。\p"
     .string "你来得正好。\p"
     .string "我有样东西要交给你。\p"
     .string "收下这只迷你龙吧，就当作是我认可\n"
@@ -459,6 +456,6 @@ DragonsDen_Shrine_Text_SymbolicDragon:
     .string "只宝可梦。$"
 
 DragonsDen_Shrine_Text_ClairsGrandfather:
-    .string "小椿似乎从你身上学到了宝贵的一课\n"
-    .string "。\p"
+    .string "小椿似乎从你身上学到了宝贵的一\n"
+    .string "课。\p"
     .string "我作为她的祖父，向你表示感谢。$"

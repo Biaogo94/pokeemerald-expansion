@@ -148,8 +148,8 @@ MossdeepCity_StevensHouse_EventScript_DiveItemBall::
 	end
 
 MossdeepCity_StevensHouse_Text_YouveEarnedHMDive:
-	.string "大吾：{PLAYER}{KUN}\n"
-	.string "……\p"
+	.string "大吾：{PLAYER}\n"
+	.string "{KUN}……\p"
 	.string "如你所见这里没什么东西，但这就是\n"
 	.string "我家。\p"
 	.string "感谢你一直以来的帮助。\p"
@@ -190,13 +190,11 @@ MossdeepCity_StevensHouse_Text_LetterFromSteven:
 	.string "这是一封信。\p"
 	.string "… … … … … …\p"
 	.string "致{PLAYER}{KUN}……\p"
-	.string "我决定出门旅行，\n"
-	.string "寻找并磨练自我。\p"
+	.string "我决定出门旅行，寻找并磨练自我。\p"
 	.string "我暂时不打算回家。\p"
 	.string "有一件事想拜托你。\p"
 	.string "希望你能收下桌上的精灵球。\p"
-	.string "里面是我的最爱——\n"
-	.string "一只铁哑铃。\p"
+	.string "里面是我的最爱——一只铁哑铃。\p"
 	.string "就拜托你了。\p"
 	.string "愿我们有朝一日再会。\p"
 	.string "——大吾·石$"

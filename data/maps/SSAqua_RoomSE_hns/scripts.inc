@@ -25,8 +25,8 @@ SSAqua_RoomSE_Text_PokefanmColinBeaten:
     .string "你好强！$"
 
 SSAqua_RoomSE_Text_PokefanmColinAfter:
-    .string "你一个人在旅行吗？妈妈不担心你吗\n"
-    .string "？$"
+    .string "你一个人在旅行吗？妈妈不担心你\n"
+    .string "吗？$"
 
 SSAqua_RoomSE_Text_TwinsMegandpeg1Seen:
     .string "你以为我是小宝宝吗？太不公平了！$"

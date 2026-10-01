@@ -203,22 +203,19 @@ BattleFrontier_Lounge3_Text_CantYouSeeWereBusyHere_hns::
 	.string "等会儿再说吗？$"
 
 BattleFrontier_Lounge3_Text_YouLookToughExplainGambling_hns::
-	.string "……嗯？我看你像个厉害的\n"
-	.string "训练家。\p"
-	.string "嘿嘿……听着，我有个提议\n"
-	.string "。\p"
+	.string "……嗯？我看你像个厉害的训练家。\p"
+	.string "嘿嘿……听着，我有个提议。\p"
 	.string "我们在这里建了个小团体，拿对战开\n"
 	.string "拓区里发生的事来玩个小游戏。\p"
 	.string "规则非常简单。\p"
 	.string "首先，我们选出对战开拓区里的一个\n"
 	.string "设施。\p"
 	.string "然后，我们各自挑选一名去挑战该设\n"
-	.string "施的训练家，并押上我们的对战点数\l"
-	.string "。\p"
+	.string "施的训练家，并押上我们的对战点\l"
+	.string "数。\p"
 	.string "谁押的训练家战绩最好，谁就能拿走\n"
 	.string "奖池里所有的对战点数。\p"
-	.string "听起来很简单吧？所以说呢……\n"
-	.string "..$"
+	.string "听起来很简单吧？所以说呢……..$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerSingle_hns::
 	.string "我正在寻找一位准备去挑战对战塔单\n"
@@ -297,9 +294,8 @@ BattleFrontier_Lounge3_Text_HowAboutEnteringEventForMe_hns::
 	.string "我去参加那场比赛如何？$"
 
 BattleFrontier_Lounge3_Text_SpotMeSomeBattlePoints_hns::
-	.string "太好了，简直完美！那个，呃...\n"
-	.string "...能不能借我一点你的对战点数\l"
-	.string "？\p"
+	.string "太好了，简直完美！那个，呃......\n"
+	.string "能不能借我一点你的对战点数？\p"
 	.string "相信我，事成之后我绝对会好好感谢\n"
 	.string "你的！$"
 
@@ -341,14 +337,14 @@ BattleFrontier_Lounge3_Text_GetToBattleDomeDouble_hns::
 	.string "搞砸了！我们两个的未来都靠你了！$"
 
 BattleFrontier_Lounge3_Text_GetToBattleFactorySingle_hns::
-	.string "立刻前往对战工厂的交换单打锦标赛\n"
-	.string "！\p"
+	.string "立刻前往对战工厂的交换单打锦标\n"
+	.string "赛！\p"
 	.string "这可是一场绝不能输的战斗！千万别\n"
 	.string "搞砸了！我们两个的未来都靠你了！$"
 
 BattleFrontier_Lounge3_Text_GetToBattleFactoryDouble_hns::
-	.string "立刻前往对战工厂的交换双打锦标赛\n"
-	.string "！\p"
+	.string "立刻前往对战工厂的交换双打锦标\n"
+	.string "赛！\p"
 	.string "这可是一场绝不能输的战斗！千万别\n"
 	.string "搞砸了！我们两个的未来都靠你了！$"
 
@@ -378,31 +374,30 @@ BattleFrontier_Lounge3_Text_GetToBattlePyramid_hns::
 	.string "搞砸了！我们两个的未来都靠你了！$"
 
 BattleFrontier_Lounge3_Text_NiceTryCantReturnPoints_hns::
-	.string "唉，是你啊……你尽力了。\n"
-	.string ".....\p"
+	.string "唉，是你啊……你尽力了。.....\p"
 	.string "虽然很遗憾，但我没法退还你的对战\n"
 	.string "点数了……\p"
 	.string "就当是激励我们下次更加努力吧！$"
 
 BattleFrontier_Lounge3_Text_HelloChampHeresYourPoints_hns::
 	.string "噢，太棒了！你好啊，大赢家！\p"
-	.string "我就知道你能行！我就知道你办得到\n"
-	.string "！我们都是大赢家啦！\p"
+	.string "我就知道你能行！我就知道你办得\n"
+	.string "到！我们都是大赢家啦！\p"
 	.string "这是还你的对战点数，当然，还有我\n"
 	.string "的一点额外心意！$"
 
 BattleFrontier_Lounge3_Text_ObtainedBattlePoints_hns::
 	.string "{PLAYER}获得了\n"
-	.string "{STR_VAR_1}点对战点数\l"
-	.string "。$"
+	.string "{STR_VAR_1}点对战点\l"
+	.string "数。$"
 
 BattleFrontier_Lounge3_Text_ThinkOfMeForAnotherChallenge_hns::
 	.string "要是你还想再次挑战，可一定要想着\n"
 	.string "我啊！$"
 
 BattleFrontier_Lounge3_Text_NotInterested_hns::
-	.string "没兴趣？！你可不能这么害怕冒险啊\n"
-	.string "！$"
+	.string "没兴趣？！你可不能这么害怕冒险\n"
+	.string "啊！$"
 
 BattleFrontier_Lounge3_Text_Oh_hns::
 	.string "噢……$"
@@ -421,5 +416,5 @@ BattleFrontier_Lounge3_Text_KnowWinnerWhenISeeOne_hns::
 	.string "嘻嘻！谁能赢，我一眼就能看出来！$"
 
 BattleFrontier_Lounge3_Text_ShouldBeTakingChallenges_hns::
-	.string "那些训练家……他们到底在\n"
-	.string "做什么啊？明明应该去接受挑战的。$"
+	.string "那些训练家……他们到底在做什么啊？\n"
+	.string "明明应该去接受挑战的。$"

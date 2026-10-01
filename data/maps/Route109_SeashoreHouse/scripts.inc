@@ -126,8 +126,8 @@ Route109_SeashoreHouse_Text_BagFull:
 	.string "时替你保管的。$"
 
 Route109_SeashoreHouse_Text_WantToBuySodaPop:
-	.string "想买劲爽汽水吗？宝可梦都很喜欢它\n"
-	.string "！\p"
+	.string "想买劲爽汽水吗？宝可梦都很喜欢\n"
+	.string "它！\p"
 	.string "只卖¥300一瓶！来买吧！$"
 
 Route109_SeashoreHouse_Text_HereYouGo:

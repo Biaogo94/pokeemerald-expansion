@@ -741,13 +741,13 @@ Route110_TrickHouseEntrance_Text_TheyCallMeTrickMaster:
 	.string "看！\p"
 	.string "我是丰缘地区最伟大的谜题之人！人\n"
 	.string "称……\p"
-	.string "戏法大王！哇哈哈哈！很高兴见到你\n"
-	.string "！$"
+	.string "戏法大王！哇哈哈哈！很高兴见到\n"
+	.string "你！$"
 
 Route110_TrickHouseEntrance_Text_ComeToChallengeTrickHouse:
 	.string "你想挑战我的戏法屋，对吗？\p"
-	.string "所以你才会来这里，对吗？当然没错\n"
-	.string "！\p"
+	.string "所以你才会来这里，对吗？当然没\n"
+	.string "错！\p"
 	.string "我接受你的挑战！\p"
 	.string "现在就从那边的卷轴进去，开始挑战\n"
 	.string "吧！\p"
@@ -762,14 +762,13 @@ Route110_TrickHouseEntrance_Text_GoInHoleBehindScroll:
 
 Route110_TrickHouseEntrance_Text_LeavingOnJourneyNote:
 	.string "卷轴上贴着一张纸条……\p"
-	.string "“外出旅行。不要来找我。戏法大王\n"
+	.string "“外出旅行。不要来找我。戏法大王"
 	.string "”$"
 
 Route110_TrickHouseEntrance_Text_NextTimeUseThisTrick:
-	.string "下次，我就要这样，这样，再那样…\n"
-	.string "…\p"
-	.string "噢呵呵呵……就算对我来说，困难的\n"
-	.string "程度也是非常华丽的。$"
+	.string "下次，我就要这样，这样，再那样……\p"
+	.string "噢呵呵呵……就算对我来说，困难的程\n"
+	.string "度也是非常华丽的。$"
 
 Route110_TrickHouseEntrance_Text_InMidstOfDevisingNewChallenges:
 	.string "哈？什么？！啊，是你！\p"
@@ -800,13 +799,13 @@ Route110_TrickHousePuzzle_Text_FoundAScroll:
 	.string "{PLAYER}发现卷轴。$"
 
 Route110_TrickHousePuzzle_Text_MemorizedSecretCode:
-	.string "{PLAYER}记下了卷轴上的字\n"
-	.string "。$"
+	.string "{PLAYER}记下了卷轴上的\n"
+	.string "字。$"
 
 Route110_TrickHousePuzzle_Text_SecretCodeWrittenOnIt:
 	.string "上面写有密码。$"
 
 Route110_TrickHouseEntrance_Text_DoorLockedWriteSecretCodeHere:
 	.string "门锁着。\p"
-	.string "……仔细一看，上面写着：“在此写\n"
-	.string "下密码。”$"
+	.string "……仔细一看，上面写着：“在此写下\n"
+	.string "密码。”$"

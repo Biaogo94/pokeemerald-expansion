@@ -66,25 +66,25 @@ Route10_PokemonCenter_1F_Text_EveryTypeStrongerThanOthers::
 	.string "对的，也比其它一些属性弱。$"
 
 Route10_PokemonCenter_1F_Text_NuggetUselessSoldFor5000::
-	.string "一个金珠实在没什么用，因此我以5\n"
-	.string "000元的价格把它卖了。$"
+	.string "一个金珠实在没什么用，因此我以5000元\n"
+	.string "的价格把它卖了。$"
 
 Route10_PokemonCenter_1F_Text_HeardGhostsHauntLavender::
 	.string "我听说那个幽灵经常出没于紫苑镇。$"
 
 Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20Mons::
-	.string "哦…… {PLAYER}我一直在\n"
-	.string "找你。\p"
+	.string "哦…… {PLAYER}我一直在找\n"
+	.string "你。\p"
 	.string "是我 你经常会看到的大木博士的助\n"
 	.string "手之一。\p"
-	.string "如果你的宝可梦图鉴已经收集了20\n"
-	.string "个不同的宝可梦的数据，我就会把大\l"
-	.string "木博士的奖励给你。\p"
+	.string "如果你的宝可梦图鉴已经收集了20个\n"
+	.string "不同的宝可梦的数据，我就会把大木\l"
+	.string "博士的奖励给你。\p"
 	.string "他委托我给你这个不变之石。\p"
 	.string "那么，{PLAYER} 让我问问\n"
 	.string "你吧。\p"
-	.string "你的宝可梦图鉴已经收集到20个宝\n"
-	.string "可梦的数据吗？$"
+	.string "你的宝可梦图鉴已经收集到20个宝可\n"
+	.string "梦的数据吗？$"
 
 Route10_PokemonCenter_1F_Text_GreatHereYouGo::
 	.string "太棒了！你已经收集了\n"

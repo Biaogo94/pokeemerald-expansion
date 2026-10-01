@@ -330,8 +330,8 @@ BattleFrontier_Lounge7_Text_TeachWhichMove:
 
 BattleFrontier_Lounge7_Text_MoveWillBeXBattlePoints:
 	.string "{STR_VAR_1}，是吗？那\n"
-	.string "要付给我{STR_VAR_2}\l"
-	.string "BP的对战点数，如何？$"
+	.string "要付给我{STR_VAR_2}BP\l"
+	.string "的对战点数，如何？$"
 
 BattleFrontier_Lounge7_Text_TeachMoveToWhichMon:
 	.string "好，好，现在告诉我要教给哪只宝可\n"
@@ -384,13 +384,13 @@ BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful:
 	.string "力。\p"
 	.string "实际上，她们的宝可梦招式在时间的\n"
 	.string "淘洗中愈趋完美。\p"
-	.string "但是……在某些方面，我却难以抑制\n"
-	.string "地感受到……\p"
+	.string "但是……在某些方面，我却难以抑制地\n"
+	.string "感受到……\p"
 	.string "时间太残酷了……$"
 
 BattleFrontier_Lounge7_Text_SoftboiledDesc::
-	.string "最多可以恢复使用者最大体力的一半\n"
-	.string "。$"
+	.string "最多可以恢复使用者最大体力的一\n"
+	.string "半。$"
 
 BattleFrontier_Lounge7_Text_SeismicTossDesc::
 	.string "给予对手与自己等级相同的伤害。$"
@@ -421,8 +421,8 @@ BattleFrontier_Lounge7_Text_SwordsDanceDesc::
 	.string "战斗的舞蹈，可以大大提升攻击。$"
 
 BattleFrontier_Lounge7_Text_DefenseCurlDesc::
-	.string "蜷曲身体隐藏起弱点，可以提升防御\n"
-	.string "。$"
+	.string "蜷曲身体隐藏起弱点，可以提升防\n"
+	.string "御。$"
 
 BattleFrontier_Lounge7_Text_SnoreDesc::
 	.string "只有睡着时才可以使用的声音攻击。$"

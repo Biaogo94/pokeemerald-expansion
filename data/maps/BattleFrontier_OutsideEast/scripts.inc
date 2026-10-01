@@ -248,8 +248,8 @@ BattleFrontier_OutsideEast_Text_BattlePyramidSign:
 	.string "对战！$"
 
 BattleFrontier_OutsideEast_Text_RankingHallSign:
-	.string "对战开拓区排名大厅关注最新的纪录\n"
-	.string "！$"
+	.string "对战开拓区排名大厅关注最新的纪\n"
+	.string "录！$"
 
 BattleFrontier_OutsideEast_Text_ExchangeCornerSign:
 	.string "对战点数兑换服务区兑换你的对战点\n"
@@ -264,8 +264,8 @@ BattleFrontier_OutsideEast_Text_ConquerLeagueAndFrontier:
 	.string "我的目标是征服整个对战开拓区和宝\n"
 	.string "可梦联盟。\p"
 	.string "如果成功了的话……\p"
-	.string "我……我就去求我家隔壁的咪咪跟我\n"
-	.string "做朋友！$"
+	.string "我……我就去求我家隔壁的咪咪跟我做\n"
+	.string "朋友！$"
 
 BattleFrontier_OutsideEast_Text_PyramidTooHarsh:
 	.string "对战金字塔实在是太难了！我想我是\n"
@@ -274,8 +274,8 @@ BattleFrontier_OutsideEast_Text_PyramidTooHarsh:
 	.string "试试从外面爬上去……$"
 
 BattleFrontier_OutsideEast_Text_ThriveInDarkness:
-	.string "我是在黑暗中长大的……是的……哪\n"
-	.string "里最适合我？必然是对战金字塔……\p"
+	.string "我是在黑暗中长大的……是的……哪里最\n"
+	.string "适合我？必然是对战金字塔……\p"
 	.string "在黑暗中探索的时候你是不是也会陷\n"
 	.string "入完全的绝望？$"
 
@@ -288,8 +288,7 @@ BattleFrontier_OutsideEast_Text_PutTogetherUltimateTeam:
 BattleFrontier_OutsideEast_Text_DidScottBringYouHere:
 	.string "你也是亚希达带来的吗？那家伙到底\n"
 	.string "是什么人？\p"
-	.string "他好像总能发现天才训练家，不过…\n"
-	.string "…\p"
+	.string "他好像总能发现天才训练家，不过……\p"
 	.string "我从来没见过他跟别人对战。$"
 
 BattleFrontier_OutsideEast_Text_BelieveInYouBuddy:
@@ -320,14 +319,14 @@ BattleFrontier_OutsideEast_Text_FastOnBikeAndBattles:
 	.string "眨眼之间我就可以赢得对战！$"
 
 BattleFrontier_OutsideEast_Text_BetterThanDaddyAtPokemon:
-	.string "对于宝可梦，我比爸爸还要更胜一筹\n"
-	.string "。$"
+	.string "对于宝可梦，我比爸爸还要更胜一\n"
+	.string "筹。$"
 
 BattleFrontier_OutsideEast_Text_GoRackUpSomeWinsForDaddy:
-	.string "去吧，小甜心！为了爸爸取得胜利吧\n"
-	.string "！\p"
-	.string "你和你妈妈一样，绝对能够主导对战\n"
-	.string "！$"
+	.string "去吧，小甜心！为了爸爸取得胜利\n"
+	.string "吧！\p"
+	.string "你和你妈妈一样，绝对能够主导对\n"
+	.string "战！$"
 
 BattleFrontier_OutsideEast_Text_HeardPrettyGirlAtBattleArena:
 	.string "这一路过来可真不容易！但我可是听\n"
@@ -354,8 +353,8 @@ BattleFrontier_OutsideEast_Text_LegendOfBattlePyramid:
 
 BattleFrontier_OutsideEast_Text_GotWipedOut:
 	.string "可恶！我以前从来没输过！\p"
-	.string "但一到这里我就被毫不留情地打败了\n"
-	.string "！\p"
+	.string "但一到这里我就被毫不留情地打败\n"
+	.string "了！\p"
 	.string "然后还被人说我根本没有才能？！可\n"
 	.string "恶！$"
 
@@ -393,8 +392,8 @@ BattleFrontier_OutsideEast_Text_FrontierNotExclusivelyForToughTrainers:
 	.string "似乎很多拥有特别能力的人也在被邀\n"
 	.string "请的行列。\p"
 	.string "那个亚希达……\p"
-	.string "他建造这个地方一定有着远大的目标\n"
-	.string "……$"
+	.string "他建造这个地方一定有着远大的目\n"
+	.string "标……$"
 
 BattleFrontier_OutsideEast_Text_OddTreeHereSeemsToWiggle:
 	.string "打扰一下，年轻人，你的视力还可以\n"
@@ -409,7 +408,7 @@ BattleFrontier_OutsideEast_Text_OnceAnOddTreePastHere:
 
 BattleFrontier_OutsideEast_Text_StickyMonWithLongTail:
 	.string "我……我看见了！\p"
-	.string "是一只举着长长尾巴的小小的宝可梦\n"
-	.string "！\p"
+	.string "是一只举着长长尾巴的小小的宝可\n"
+	.string "梦！\p"
 	.string "刚才它藏在一块大石头底下，还一直\n"
 	.string "偷偷地盯着我看！$"

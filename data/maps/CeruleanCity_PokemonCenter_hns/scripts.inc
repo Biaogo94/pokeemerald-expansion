@@ -21,7 +21,6 @@ CeruleanCity_PokemonCenter1F_Text_SuperNerd:
 	.string "一些。$"
 
 CeruleanCity_PokemonCenter1F_Text_GymGuide:
-	.string "磁悬浮列车的时速超过550公里。\n"
-	.string "转瞬之间就能穿梭于关都与城都之\l"
-	.string "间。\p"
+	.string "磁悬浮列车的时速超过550公里。转\n"
+	.string "瞬之间就能穿梭于关都与城都之间。\p"
 	.string "去城都真的变得非常方便呢。$"

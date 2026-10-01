@@ -458,8 +458,8 @@ BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor7thOpponent:
 	.string "接下来是第7位对手，准备好了吗？$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordYourBattle:
-	.string "要将您的对战记录到开拓通行证上吗\n"
-	.string "？$"
+	.string "要将您的对战记录到开拓通行证上\n"
+	.string "吗？$"
 
 BattleFrontier_BattleTowerLobby_Text_BattleRecordedOnPass:
 	.string "{PLAYER}的对战已被记录到\n"
@@ -492,16 +492,15 @@ BattleFrontier_BattleTowerBattleRoom_Text_GreetingsImAnabel:
 	.string "管理者……\p"
 	.string "我听说过关于你的传言……\p"
 	.string "坦率而言，这些传言并不吸引人……\p"
-	.string "我来找你的原因……有且只有一个…\n"
-	.string "…$"
+	.string "我来找你的原因……有且只有一个……$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_LetMeSeeYourTalent:
 	.string "让我见识你的全部才能吧……$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognized:
 	.string "莉拉：呵呵呵，干得好……\p"
-	.string "拿来你的开拓通行证吧……我认可你\n"
-	.string "的才能了。$"
+	.string "拿来你的开拓通行证吧……我认可你的\n"
+	.string "才能了。$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReceivedAbilitySymbol:
 	.string "能力象征被印在了开拓通行证上！$"
@@ -511,14 +510,13 @@ BattleFrontier_BattleTowerBattleRoom_Text_UntilNextTime:
 	.string "你对自己在宝可梦对战方面的才能充\n"
 	.string "满自信，对吗？\p"
 	.string "那就继续战斗，继续取胜吧。\p"
-	.string "我在这里等着你，等着下一次见面…\n"
-	.string "…$"
+	.string "我在这里等着你，等着下一次见面……$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelYouCameBack:
 	.string "莉拉：你果然回来见我了……\p"
 	.string "…… …… ……\p"
-	.string "不断连续取得胜利来到我面前……与\n"
-	.string "你对战我不必手下留情……\p"
+	.string "不断连续取得胜利来到我面前……与你\n"
+	.string "对战我不必手下留情……\p"
 	.string "已经太久了……\p"
 	.string "太久不曾有人能让我心无旁骛地对战\n"
 	.string "了……$"
@@ -527,15 +525,15 @@ BattleFrontier_BattleTowerBattleRoom_Text_LetsBeginShallWe:
 	.string "让我们开始吧？$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelCongratsYourPassPlease:
-	.string "莉拉：呵呵，恭喜你……你的开拓通\n"
-	.string "行证……$"
+	.string "莉拉：呵呵，恭喜你……你的开拓通行\n"
+	.string "证……$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AbilitySymbolTookGoldenShine:
 	.string "能力象征闪耀着金色的光芒！$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_WishICouldBattleYouAgain:
 	.string "真是令人愉悦啊……\p"
-	.string "以前从来没有这么酣畅淋漓地对战过\n"
-	.string "……\p"
+	.string "以前从来没有这么酣畅淋漓地对战\n"
+	.string "过……\p"
 	.string "希望以后还能和你对战……$"
 

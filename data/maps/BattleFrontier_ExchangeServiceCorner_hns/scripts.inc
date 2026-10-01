@@ -94,8 +94,8 @@ BattleFrontier_ExchangeServiceCorner_Text_WelcomePleaseChoosePrize_hns:
 
 BattleFrontier_ExchangeServiceCorner_Text_WishIHadAllDolls_hns:
 	.string "哇，它们太棒了！真想全部拥有！可\n"
-	.string "爱的靠垫！大毛绒玩偶！小毛绒玩偶\l"
-	.string "！真希望我能全部带回家！$"
+	.string "爱的靠垫！大毛绒玩偶！小毛绒玩\l"
+	.string "偶！真希望我能全部带回家！$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GetYouAnythingYouWant_hns:
 	.string "包在妈妈身上！\p"
@@ -109,13 +109,13 @@ BattleFrontier_ExchangeServiceCorner_Text_ItemsWillGetMonTougher_hns:
 
 BattleFrontier_ExchangeServiceCorner_Text_GoGetYourOwnDoll_hns:
 	.string "哈？你发什么呆地看着我？\p"
-	.string "我很讨厌你那样盯着我的毛绒玩偶看\n"
-	.string "。\p"
+	.string "我很讨厌你那样盯着我的毛绒玩偶\n"
+	.string "看。\p"
 	.string "想要的话，自己去拿一个啊！对吧，\n"
 	.string "迷唇娃？$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MoreBattlePointsForRecord_hns:
 	.string "你知道吗？\p"
-	.string "只要在任何对战设施里连胜延长纪录\n"
-	.string "，他们给你的对战点数就会越来越多\l"
-	.string "。$"
+	.string "只要在任何对战设施里连胜延长纪\n"
+	.string "录，他们给你的对战点数就会越来越\l"
+	.string "多。$"

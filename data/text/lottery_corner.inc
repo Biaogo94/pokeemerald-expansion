@@ -3,8 +3,8 @@ LilycoveCity_DepartmentStore_1F_Text_LotteryCornerDrawTicket:
 	.string "莅临本百货商场的顾客都可以抽取一\n"
 	.string "张宝可梦彩票。\p"
 	.string "如果彩票号码与你的宝可梦中任何一\n"
-	.string "只的ID完全吻合，就能获得豪华大\l"
-	.string "奖哦。\p"
+	.string "只的ID完全吻合，就能获得豪华大奖\l"
+	.string "哦。\p"
 	.string "你想抽取一张宝可梦彩票吗？$"
 
 LilycoveCity_DepartmentStore_1F_Text_ComeBackTomorrow:
@@ -18,12 +18,12 @@ LilycoveCity_DepartmentStore_1F_Text_PleasePickTicket:
 	.string "{PAUSE 0x0F}\l"
 	.string "{PAUSE 0x0F}\l"
 	.string "{PAUSE 0x0F}\l"
-	.string "{PAUSE 0x0F}....\l"
-	.string "..{PAUSE 0x0F}\l"
+	.string "{PAUSE 0x0F}......\l"
 	.string "{PAUSE 0x0F}\l"
 	.string "{PAUSE 0x0F}\l"
-	.string "{PAUSE 0x0F}....\l"
-	.string "..{PAUSE 0x0F}\l"
+	.string "{PAUSE 0x0F}\l"
+	.string "{PAUSE 0x0F}......\l"
+	.string "{PAUSE 0x0F}\l"
 	.string "{PAUSE 0x0F}\l"
 	.string "{PAUSE 0x0F}\l"
 	.string "{PAUSE 0x0F}$"
@@ -31,8 +31,8 @@ LilycoveCity_DepartmentStore_1F_Text_PleasePickTicket:
 LilycoveCity_DepartmentStore_1F_Text_TicketNumberIsXPleaseWait:
 	.string "彩票的号码是\n"
 	.string "{STR_VAR_1}，\p"
-	.string "我需要对照一下您的宝可梦的ID，\n"
-	.string "请稍候。$"
+	.string "我需要对照一下您的宝可梦的ID，请\n"
+	.string "稍候。$"
 
 LilycoveCity_DepartmentStore_1F_Text_TicketMatchesPartyMon:
 	.string "恭喜！\p"
@@ -48,16 +48,19 @@ LilycoveCity_DepartmentStore_1F_Text_NoNumbersMatched:
 	.string "很遗憾，没有找到相符的号码。$"
 
 LilycoveCity_DepartmentStore_1F_Text_TwoDigitsMatched:
-	.string "有2个数字相同，恭喜您获得三等奖\n"
-	.string "！奖品是{STR_VAR_1}！$"
+	.string "有2个数字相同，恭喜您获得三等\n"
+	.string "奖！奖品是\l"
+	.string "{STR_VAR_1}！$"
 
 LilycoveCity_DepartmentStore_1F_Text_ThreeDigitsMatched:
-	.string "有3个数字相同，恭喜您获得二等奖\n"
-	.string "！奖品是{STR_VAR_1}！$"
+	.string "有3个数字相同，恭喜您获得二等\n"
+	.string "奖！奖品是\l"
+	.string "{STR_VAR_1}！$"
 
 LilycoveCity_DepartmentStore_1F_Text_FourDigitsMatched:
-	.string "有4个数字相同，恭喜您获得一等奖\n"
-	.string "！奖品是{STR_VAR_1}！$"
+	.string "有4个数字相同，恭喜您获得一等\n"
+	.string "奖！奖品是\l"
+	.string "{STR_VAR_1}！$"
 
 LilycoveCity_DepartmentStore_1F_Text_AllFiveDigitsMatched:
 	.string "啊，天哪，5个数字完全相同！\p"

@@ -70,8 +70,8 @@ PetalburgCity_Mart_Text_WeakWillGrowStronger:
 
 PetalburgCity_Mart_Text_RepelIsUseful:
 	.string "你用过除虫喷雾吗？它能赶走野生宝\n"
-	.string "可梦，当你急着赶路的时候会很有用\l"
-	.string "。$"
+	.string "可梦，当你急着赶路的时候会很有\l"
+	.string "用。$"
 
 PetalburgCity_Mart_Text_TakeSomeAntidotesWithYou:
 	.string "你带着解毒药吗？\p"

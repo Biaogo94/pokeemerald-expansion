@@ -1,6 +1,6 @@
 LilycoveCity_ContestLobby_Text_InterviewRequest:
-	.string "啊，你好！你刚参加过华丽大赛对吧\n"
-	.string "？从你的宝可梦就能看出来呢。\p"
+	.string "啊，你好！你刚参加过华丽大赛对\n"
+	.string "吧？从你的宝可梦就能看出来呢。\p"
 	.string "我是一名记者，正在做一篇关于宝可\n"
 	.string "梦华丽大赛的报道。\p"
 	.string "可以请你回答几个问题吗？？$"
@@ -12,17 +12,16 @@ LilycoveCity_ContestLobby_Text_DescribeContest:
 
 LilycoveCity_ContestLobby_Text_WhatImageWhenYouHearX:
 	.string "原来如此。真是很有启发的回答。\p"
-	.string "让我对这场华丽大赛有了很好的了解\n"
-	.string "。\p"
+	.string "让我对这场华丽大赛有了很好的了\n"
+	.string "解。\p"
 	.string "最后还有一个问题。\p"
-	.string "当你听到“{STR_VAR_2}\n"
-	.string "”这个词时，脑海中会浮现什么画面\l"
-	.string "？$"
+	.string "当你听到“{STR_VAR_2}”\n"
+	.string "这个词时，脑海中会浮现什么画面？$"
 
 LilycoveCity_ContestLobby_Text_ThatsAllForInterview:
 	.string "我明白了！\p"
-	.string "原来你是这样理解“\n"
-	.string "{STR_VAR_2}”的啊。\p"
+	.string "原来你是这样理解\n"
+	.string "“{STR_VAR_2}”的啊。\p"
 	.string "非常感谢！你给了我很多灵感。\p"
 	.string "现在我应该能写出一篇精彩的华丽大\n"
 	.string "赛报道了。\p"
@@ -39,8 +38,7 @@ LilycoveCity_ContestLobby_Text_LookingForwardToNextContest:
 	.string "现。$"
 
 gTVBravoTrainerText00::
-	.string "太好了！现在是BRAVO训练家时\n"
-	.string "间！\p"
+	.string "太好了！现在是BRAVO训练家时间！\p"
 	.string "今天我们所要介绍的主角就是\n"
 	.string "{STR_VAR_1}。\p"
 	.string "现在，这只宝可梦在\n"
@@ -52,9 +50,9 @@ gTVBravoTrainerText01::
 	.string "{STR_VAR_1}的\l"
 	.string "{STR_VAR_2}！\p"
 	.string "昵称是{STR_VAR_2}……\p"
-	.string "光是昵称就散发着一种“\n"
-	.string "{STR_VAR_3}”的气氛啊\l"
-	.string "！$"
+	.string "光是昵称就散发着一种\n"
+	.string "“{STR_VAR_3}”的气氛\l"
+	.string "啊！$"
 
 gTVBravoTrainerText02::
 	.string "那么，当训练家\n"
@@ -66,8 +64,8 @@ gTVBravoTrainerText02::
 gTVBravoTrainerText03::
 	.string "赛后采访时，\n"
 	.string "{STR_VAR_1}带着笑容高\l"
-	.string "兴地答道：“\l"
-	.string "{STR_VAR_2}！”\p"
+	.string "兴地答道：\l"
+	.string "“{STR_VAR_2}！”\p"
 	.string "当然了，因为\n"
 	.string "{STR_VAR_1}的宝可梦在\l"
 	.string "华丽大赛中获得了第\l"
@@ -78,8 +76,8 @@ gTVBravoTrainerText03::
 gTVBravoTrainerText04::
 	.string "赛后采访时，\n"
 	.string "{STR_VAR_1}带着苦涩淡\l"
-	.string "淡地答道：“\l"
-	.string "{STR_VAR_2}！”\p"
+	.string "淡地答道：\l"
+	.string "“{STR_VAR_2}！”\p"
 	.string "当然了，因为\n"
 	.string "{STR_VAR_1}的宝可梦在\l"
 	.string "华丽大赛中获得了第\l"
@@ -92,8 +90,8 @@ gTVBravoTrainerText05::
 	.string "想象中的{STR_VAR_2}是\l"
 	.string "什么样子吗？\p"
 	.string "很想知道吧！当然，我们问了！\p"
-	.string "答案完美地用一句话概括：“\n"
-	.string "{STR_VAR_3}！”\p"
+	.string "答案完美地用一句话概括：\n"
+	.string "“{STR_VAR_3}！”\p"
 	.string "这就是{STR_VAR_1}心目\n"
 	.string "中{STR_VAR_2}代表的意\l"
 	.string "义！$"
@@ -124,13 +122,13 @@ BattleFrontier_BattleTowerLobby_Text_InterviewRequest::
 BattleFrontier_BattleTowerLobby_Text_HowDidBattleTowerTurnOut::
 	.string "你愿意？真的？太感谢了！这个……\p"
 	.string "今天在对战塔的战况如何？\p"
-	.string "你对对战结果满意吗？还是不太开心\n"
-	.string "？$"
+	.string "你对对战结果满意吗？还是不太开\n"
+	.string "心？$"
 
 BattleFrontier_BattleTowerLobby_Text_SorryWeDisturbedYou::
 	.string "哦……很抱歉打扰你了。\p"
-	.string "下次来对战塔时请接受我们的采访吧\n"
-	.string "。$"
+	.string "下次来对战塔时请接受我们的采访\n"
+	.string "吧。$"
 
 BattleFrontier_BattleTowerLobby_Text_ObviousYouHadGreatBattle::
 	.string "啊，当然啦！\p"
@@ -171,8 +169,8 @@ BravoTrainerBattleTower_Text_Intro::
 	.string "厉害的{STR_VAR_2}。$"
 
 BravoTrainerBattleTower_Text_NewRecord::
-	.string "在{STR_VAR_1}的比赛中\n"
-	.string "，这对组合创造了\l"
+	.string "在{STR_VAR_1}的比赛\n"
+	.string "中，这对组合创造了\l"
 	.string "{STR_VAR_2}连胜的新纪\l"
 	.string "录！Bravo，训练家！$"
 
@@ -196,14 +194,14 @@ BravoTrainerBattleTower_Text_Won::
 	.string "Bravo，训练家！\p"
 	.string "居然连{STR_VAR_1}都打\n"
 	.string "败了……难以置信！令人震惊！\p"
-	.string "我们采访了训练家对荣耀时刻的感想\n"
-	.string "。$"
+	.string "我们采访了训练家对荣耀时刻的感\n"
+	.string "想。$"
 
 BravoTrainerBattleTower_Text_LostFinal::
 	.string "连胜之后，这对组合终于还是败给了\n"
 	.string "{STR_VAR_1}的\l"
-	.string "{STR_VAR_2}，止步于此\l"
-	.string "。\p"
+	.string "{STR_VAR_2}，止步于\l"
+	.string "此。\p"
 	.string "虽败犹荣，训练家！\p"
 	.string "不过还是要给予肯定。我们很少能见\n"
 	.string "到像{STR_VAR_1}和\l"
@@ -214,8 +212,8 @@ BravoTrainerBattleTower_Text_LostFinal::
 
 BravoTrainerBattleTower_Text_Satisfied::
 	.string "他们的回答是：“我很满意！”\p"
-	.string "多么令人振奋的回答！Bravo，\n"
-	.string "训练家！\p"
+	.string "多么令人振奋的回答！Bravo，训练\n"
+	.string "家！\p"
 	.string "能对战到完全满意不是非常厉害吗？\p"
 	.string "训练家的这些话让我完全明白了这种\n"
 	.string "满意的感觉：$"
@@ -246,18 +244,18 @@ BravoTrainerBattleTower_Text_Response::
 	.string "“{STR_VAR_1}。”$"
 
 BravoTrainerBattleTower_Text_ResponseSatisfied::
-	.string "“{STR_VAR_1}。”这不\n"
-	.string "是很棒吗？\p"
+	.string "“{STR_VAR_1}。”这不是\n"
+	.string "很棒吗？\p"
 	.string "完美表达了{STR_VAR_2}\n"
 	.string "此刻的喜悦心情。\p"
 	.string "最后和{STR_VAR_3}的那\n"
-	.string "场对战……确实配得上“\l"
-	.string "{STR_VAR_1}”这个评价\l"
-	.string "！$"
+	.string "场对战……确实配得上\l"
+	.string "“{STR_VAR_1}”这个评\l"
+	.string "价！$"
 
 BravoTrainerBattleTower_Text_ResponseUnsatisfied::
-	.string "“{STR_VAR_1}。”这也\n"
-	.string "太贴切了吧？\p"
+	.string "“{STR_VAR_1}。”这也太\n"
+	.string "贴切了吧？\p"
 	.string "最后和{STR_VAR_3}的那\n"
 	.string "场对战……除了\l"
 	.string "{STR_VAR_1}”之外简直\l"
@@ -266,9 +264,10 @@ BravoTrainerBattleTower_Text_ResponseUnsatisfied::
 	.string "直扑面而来呢！$"
 
 BravoTrainerBattleTower_Text_Outro::
-	.string "精彩！精彩！{STR_VAR_1}！\p"
-	.string "还有{STR_VAR_2}也\n"
-	.string "同样精彩！\p"
+	.string "精彩！精彩！\n"
+	.string "{STR_VAR_1}！\p"
+	.string "还有{STR_VAR_2}也同样\n"
+	.string "精彩！\p"
 	.string "期待看到{STR_VAR_1}未\n"
 	.string "来再创佳绩！\p"
 	.string "本期节目就到这里！下次再见！$"
@@ -327,8 +326,8 @@ SlateportCity_PokemonFanClub_Text_HereIfYouGetUrgeToTellMe:
 	.string "欢迎！$"
 
 SlateportCity_PokemonFanClub_Text_EnjoyDoingInterviews:
-	.string "我超爱这份工作——通过采访了解训\n"
-	.string "练家和宝可梦的故事。$"
+	.string "我超爱这份工作——通过采访了解训练\n"
+	.string "家和宝可梦的故事。$"
 
 SlateportCity_PokemonFanClub_Text_InterviewRequest:
 	.string "你好，你和你的\n"
@@ -348,10 +347,10 @@ SlateportCity_PokemonFanClub_Text_ThatsAllForInterview2:
 	.string "哇……真是精彩的分享。\p"
 	.string "你和{STR_VAR_1}感情真\n"
 	.string "的很好呢。\p"
-	.string "这段采访一定能做成很棒的电视节目\n"
-	.string "。\p"
-	.string "我保证会把它制作成精彩的专题报道\n"
-	.string "。记得关注收看哦！\p"
+	.string "这段采访一定能做成很棒的电视节\n"
+	.string "目。\p"
+	.string "我保证会把它制作成精彩的专题报\n"
+	.string "道。记得关注收看哦！\p"
 	.string "就这样啦。再见！$"
 
 gTVFanClubOpinionsText00::
@@ -367,16 +366,16 @@ gTVFanClubOpinionsText00::
 	.string "{STR_VAR_1}！\p"
 	.string "现在来听听{STR_VAR_1}\n"
 	.string "想对{STR_VAR_2}\l"
-	.string "{STR_VAR_3}所说的话吧\l"
-	.string "！\p"
+	.string "{STR_VAR_3}所说的话\l"
+	.string "吧！\p"
 	.string "我会把这些传达喜爱的话语通过电视\n"
 	.string "大声传播！\p"
 	.string "呼哈！\p"
 	.string "让我们喊出来吧！$"
 
 gTVFanClubOpinionsText01::
-	.string "我们问{STR_VAR_1}：“\n"
-	.string "当你第一次看到\l"
+	.string "我们问{STR_VAR_1}：\n"
+	.string "“当你第一次看到\l"
 	.string "{STR_VAR_2}时，脑海中\l"
 	.string "冒出的第一个念头是什么？”\p"
 	.string "“{STR_VAR_3}！”\p"
@@ -385,15 +384,16 @@ gTVFanClubOpinionsText01::
 	.string "时光呢？$"
 
 gTVFanClubOpinionsText02::
-	.string "我们问{STR_VAR_1}：“\n"
-	.string "如果把你的{STR_VAR_2}\l"
-	.string "比作一样东西，会是什么呢……”\p"
+	.string "我们问{STR_VAR_1}：\n"
+	.string "“如果把你的\l"
+	.string "{STR_VAR_2}比作一样东\l"
+	.string "西，会是什么呢……”\p"
 	.string "…… …… …… ……\p"
 	.string "“{STR_VAR_3}！”\p"
 	.string "天呐！这比喻太新颖了！\p"
 	.string "能真切感受到训练家对\n"
-	.string "{STR_VAR_2}的真情实感\l"
-	.string "！$"
+	.string "{STR_VAR_2}的真情实\l"
+	.string "感！$"
 
 gTVFanClubOpinionsText03::
 	.string "接下来……究竟\n"
@@ -407,11 +407,11 @@ gTVFanClubOpinionsText03::
 	.string "的喜爱简直要冲破屏幕了！$"
 
 gTVFanClubOpinionsText04::
-	.string "嗯？还有更多精彩内容！来一起看看\n"
-	.string "！\p"
+	.string "嗯？还有更多精彩内容！来一起看\n"
+	.string "看！\p"
 	.string "让我瞧瞧……\p"
-	.string "我们问{STR_VAR_1}：“\n"
-	.string "宝可梦对你来说意味着什么？”\p"
+	.string "我们问{STR_VAR_1}：\n"
+	.string "“宝可梦对你来说意味着什么？”\p"
 	.string "…… …… ……\p"
 	.string "“{STR_VAR_3}！”\p"
 	.string "太棒了！\p"
@@ -429,9 +429,9 @@ gTVFanClubText00::
 	.string "现在正在直播！\p"
 	.string "今天我们的节目首先从宝可梦调查角\n"
 	.string "开始。\p"
-	.string "在训练家与宝可梦编织的无数故事中\n"
-	.string "，今天又有什么精彩内容等着我们呢\l"
-	.string "？\p"
+	.string "在训练家与宝可梦编织的无数故事\n"
+	.string "中，今天又有什么精彩内容等着我们\l"
+	.string "呢？\p"
 	.string "让我看看……\p"
 	.string "就这封吧！\p"
 	.string "让我们从这封信开始读起！\p"
@@ -451,24 +451,24 @@ gTVFanClubText03::
 	.string "好信值得反复品味！$"
 
 gTVFanClubText04::
-	.string "那句“{STR_VAR_3}”的\n"
-	.string "确有着很强的感染力啊！\p"
+	.string "那句“{STR_VAR_3}”的确\n"
+	.string "有着很强的感染力啊！\p"
 	.string "这封信充满了真挚的而深切的情感！$"
 
 gTVFanClubText05::
-	.string "特别是这个“\n"
-	.string "{STR_VAR_3}”！\p"
-	.string "我觉得这个“\n"
-	.string "{STR_VAR_3}”真是用得\l"
+	.string "特别是这个\n"
+	.string "“{STR_VAR_3}”！\p"
+	.string "我觉得这个\n"
+	.string "“{STR_VAR_3}”真是用得\l"
 	.string "妙极了！$"
 
 gTVFanClubText06::
-	.string "顺便说句题外话，“\n"
-	.string "{STR_VAR_3}”真是句经\l"
+	.string "顺便说句题外话，\n"
+	.string "“{STR_VAR_3}”真是句经\l"
 	.string "典台词。\p"
-	.string "我最近聊天常常提到“\n"
-	.string "{STR_VAR_3}”这个词呢\l"
-	.string "。$"
+	.string "我最近聊天常常提到\n"
+	.string "“{STR_VAR_3}”这个词\l"
+	.string "呢。$"
 
 gTVFanClubText07::
 	.string "如果要给这封信打分，我将会给它\n"
@@ -510,8 +510,8 @@ SlateportCity_OceanicMuseum_1F_Text_BetterWriteUpStory:
 	.string "得赶快把稿子写出来！$"
 
 gTVRecentHappeningsText00::
-	.string "观众朋友们好！欢迎收看《近期见闻\n"
-	.string "》。\p"
+	.string "观众朋友们好！欢迎收看《近期见\n"
+	.string "闻》。\p"
 	.string "对于宝可梦训练家来说，每天都是崭\n"
 	.string "新的故事篇章。\p"
 	.string "我们想为您呈现这些精彩的宝可梦故\n"
@@ -530,29 +530,29 @@ gTVRecentHappeningsText01::
 	.string "样！$"
 
 gTVRecentHappeningsText02::
-	.string "“{STR_VAR_3}。”为故\n"
-	.string "事增添了深度和层次感。$"
+	.string "“{STR_VAR_3}。”为故事\n"
+	.string "增添了深度和层次感。$"
 
 gTVRecentHappeningsText03::
-	.string "“{STR_VAR_3}。”让故\n"
-	.string "事场景跃然眼前，使我们能清晰想象\l"
-	.string "故事发生的环境。$"
+	.string "“{STR_VAR_3}。”让故事\n"
+	.string "场景跃然眼前，使我们能清晰想象故\l"
+	.string "事发生的环境。$"
 
 gTVRecentHappeningsText04::
-	.string "在这其中“{STR_VAR_3}\n"
-	.string "”的部分表现得尤为生动传神。$"
+	.string "在这其中“{STR_VAR_3}”\n"
+	.string "的部分表现得尤为生动传神。$"
 
 gTVRecentHappeningsText05::
 	.string "{STR_VAR_1}讲述了一个\n"
 	.string "精彩绝伦的宝可梦冒险故事。\p"
 	.string "而现在，{STR_VAR_1}的\n"
 	.string "故事也已经深深地刻进您心底了吧。\p"
-	.string "今天的节目就到这里，我们下期再见\n"
-	.string "。$"
+	.string "今天的节目就到这里，我们下期再\n"
+	.string "见。$"
 
 gTVMassOutbreakText00::
-	.string "大家好！现在是《宝可梦新闻》时间\n"
-	.string "。\p"
+	.string "大家好！现在是《宝可梦新闻》时\n"
+	.string "间。\p"
 	.string "我们刚刚收到一则关于罕见现象的报\n"
 	.string "道。\p"
 	.string "据报告显示在\n"
@@ -567,12 +567,14 @@ gTVMassOutbreakText00::
 	.string "内容。$"
 
 gTV3CheersForPokeblocksText00::
-	.string "主持人：祝愿各位心情愉快，\n"
-	.string "《为{POKEBLOCK}欢呼3次》开始啦！\p"
-	.string "今天要品鉴的是{STR_VAR_1}\n"
-	.string "一行人混合的{POKEBLOCK}。\p"
-	.string "事不宜迟，让我把它喂给美食家\n"
-	.string "宝可梦吞吞兽吧。\p"
+	.string "主持人：祝愿各位心情愉快，《为\n"
+	.string "{POKEBLOCK}欢呼3次》\l"
+	.string "开始啦！\p"
+	.string "今天要品鉴的是\n"
+	.string "{STR_VAR_1}一行人混合\l"
+	.string "的{POKEBLOCK}。\p"
+	.string "事不宜迟，让我把它喂给美食家宝可\n"
+	.string "梦吞吞兽吧。\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …$"
 
@@ -595,7 +597,7 @@ gTV3CheersForPokeblocksText03::
 	.string "溶食兽：咕比！咕比比！\p"
 	.string "主持人：嗯……太\n"
 	.string "{STR_VAR_1}了。溶食兽\l"
-	.string "说味道“{STR_VAR_2}！\l"
+	.string "说味道“{STR_VAR_2}！"
 	.string "”\p"
 	.string "看起来{STR_VAR_3}的操\n"
 	.string "作失误影响了混合质量……$"
@@ -607,8 +609,8 @@ gTV3CheersForPokeblocksText04::
 	.string "次能够表现得更好！$"
 
 gTV3CheersForPokeblocksText05::
-	.string "下次再见！\n"
-	.string "我们的口号是“为{POKEBLOCK}欢呼3次”！$"
+	.string "下次再见！我们的口号是“为\n"
+	.string "{POKEBLOCK}欢呼3次”！$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_WhatsYourOpinionOfTrainer::
 	.string "嗨，你好啊！\p"
@@ -668,8 +670,8 @@ gTVTrainerFanClubSpecialText00::
 	.string "提问：“用一个词来形容\n"
 	.string "{STR_VAR_1}，你会选择\l"
 	.string "什么？”\p"
-	.string "得到的回答是：“\n"
-	.string "{STR_VAR_3}”。\p"
+	.string "得到的回答是：\n"
+	.string "“{STR_VAR_3}”。\p"
 	.string "感谢{STR_VAR_2}！真是\n"
 	.string "极具洞察力的评价！\p"
 	.string "“{STR_VAR_3}的\n"
@@ -707,8 +709,8 @@ gTVTrainerFanClubSpecialText04::
 	.string "{STR_VAR_3}分！这个分\l"
 	.string "数实在糟糕。\p"
 	.string "{STR_VAR_2}大概认为\n"
-	.string "{STR_VAR_1}只是个跟班\l"
-	.string "。$"
+	.string "{STR_VAR_1}只是个跟\l"
+	.string "班。$"
 
 gTVTrainerFanClubSpecialText05::
 	.string "以上就是本期全部内容！\p"
@@ -722,8 +724,8 @@ gTVTrainerFanClubSpecialText05::
 	.string "{STR_VAR_1}！$"
 
 gTVNameRaterText00::
-	.string "那么现在，让我们开始……姓名鉴定\n"
-	.string "师秀！\p"
+	.string "那么现在，让我们开始……姓名鉴定师\n"
+	.string "秀！\p"
 	.string "我将通过您为宝可梦取的昵称来预测\n"
 	.string "它的命运。\p"
 	.string "我会给出建议，而且都是实用的好建\n"
@@ -761,8 +763,8 @@ gTVNameRaterText04::
 
 gTVNameRaterText05::
 	.string "是个预示未来成就的出色昵称。\p"
-	.string "我很期待这只宝可梦未来的发展前景\n"
-	.string "。$"
+	.string "我很期待这只宝可梦未来的发展前\n"
+	.string "景。$"
 
 gTVNameRaterText06::
 	.string "是个能让宝可梦健康强壮的昵称。\p"
@@ -781,37 +783,38 @@ gTVNameRaterText08::
 
 gTVNameRaterText09::
 	.string "昵称{STR_VAR_1}的根基\n"
-	.string "在于“{STR_VAR_3}”这\l"
-	.string "个字。\p"
-	.string "它依托于第一个字“\n"
-	.string "{STR_VAR_2}”，构成了\l"
+	.string "在于“{STR_VAR_3}”这个\l"
+	.string "字。\p"
+	.string "它依托于第一个字\n"
+	.string "“{STR_VAR_2}”，构成了\l"
 	.string "极具存在感的昵称。$"
 
 gTVNameRaterText10::
 	.string "昵称{STR_VAR_1}的形态\n"
 	.string "非常优美悦目。\p"
-	.string "“{STR_VAR_2}”和“\n"
-	.string "{STR_VAR_3}”两个字相\l"
+	.string "“{STR_VAR_2}”和\n"
+	.string "“{STR_VAR_3}”两个字相\l"
 	.string "得益彰——堪称绝妙！$"
 
 gTVNameRaterText11::
 	.string "昵称{STR_VAR_1}蕴含着\n"
 	.string "流畅优雅的韵律。\p"
-	.string "从第一个字“\n"
-	.string "{STR_VAR_2}”到“\l"
-	.string "{STR_VAR_3}”一气呵成\l"
-	.string "，妙不可言。$"
+	.string "从第一个字\n"
+	.string "“{STR_VAR_2}”到\l"
+	.string "“{STR_VAR_3}”一气呵\l"
+	.string "成，妙不可言。$"
 
 gTVNameRaterText12::
-	.string "让我们再看看其他优秀的昵称范例吧\n"
-	.string "？$"
+	.string "让我们再看看其他优秀的昵称范例\n"
+	.string "吧？$"
 
 gTVNameRaterText13::
 	.string "试试这个例子。取训练家名字\n"
-	.string "{STR_VAR_1}中的一部分\l"
-	.string "，就能得到{STR_VAR_2}\l"
-	.string "{STR_VAR_3}这个好昵称\l"
-	.string "。$"
+	.string "{STR_VAR_1}中的一部\l"
+	.string "分，就能得到\l"
+	.string "{STR_VAR_2}\l"
+	.string "{STR_VAR_3}这个好昵\l"
+	.string "称。$"
 
 gTVNameRaterText14::
 	.string "{STR_VAR_2}\n"
@@ -822,8 +825,8 @@ gTVNameRaterText15::
 	.string "可以用宝可梦种类名\n"
 	.string "{STR_VAR_2}作为基础，\l"
 	.string "组合出{STR_VAR_1}\l"
-	.string "{STR_VAR_3}这样的昵称\l"
-	.string "。$"
+	.string "{STR_VAR_3}这样的昵\l"
+	.string "称。$"
 
 gTVNameRaterText16::
 	.string "{STR_VAR_1}\n"
@@ -835,16 +838,16 @@ gTVNameRaterText17::
 	.string "例如，不要用\n"
 	.string "{STR_VAR_2}的名字来组\l"
 	.string "合{STR_VAR_1}\l"
-	.string "{STR_VAR_3}这样的昵称\l"
-	.string "。这是不可取的。$"
+	.string "{STR_VAR_3}这样的昵\l"
+	.string "称。这是不可取的。$"
 
 gTVNameRaterText18::
 	.string "我必须说{STR_VAR_1}是\n"
 	.string "个相当好的昵称。\p"
 	.string "希望训练家能继续用爱心对待\n"
 	.string "{STR_VAR_1}。\p"
-	.string "今天的节目就到这里。期待下次再见\n"
-	.string "。$"
+	.string "今天的节目就到这里。期待下次再\n"
+	.string "见。$"
 
 gTVPokemonAnglerText00::
 	.string "{STR_VAR_2}垂钓特辑\p"
@@ -866,8 +869,8 @@ gTVPokemonAnglerText00::
 	.string "{STR_VAR_2}的法则。\p"
 	.string "主持人：原来如此……\p"
 	.string "啊！{STR_VAR_1}终于钓\n"
-	.string "到了稀有的{STR_VAR_2}\l"
-	.string "！\p"
+	.string "到了稀有的\l"
+	.string "{STR_VAR_2}！\p"
 	.string "这位训练家激动得都快哭出来了！\p"
 	.string "看到这么兴奋的表情，我也想去垂钓\n"
 	.string "了！\p"
@@ -901,21 +904,20 @@ gTVPokemonAnglerText01::
 gTVPokemonTodayFailedText00::
 	.string "大家好！\p"
 	.string "欢迎收看《今日宝可梦》！\p"
-	.string "大姐姐：嗨！今天大家都精神饱满吗\n"
-	.string "？\p"
+	.string "大姐姐：嗨！今天大家都精神饱满\n"
+	.string "吗？\p"
 	.string "今天我们要关注的是\n"
 	.string "{STR_VAR_1}的宝可梦\l"
 	.string "{STR_VAR_2}！\p"
 	.string "大哥哥：没错！这就是今天的主题！$"
 
 gTVPokemonTodayFailedText01::
-	.string "哦！说到{STR_VAR_1}…\n"
-	.string "…\p"
+	.string "哦！说到{STR_VAR_1}……\p"
 	.string "大姐姐，我亲眼见到这位训练家了！\p"
 	.string "大姐姐：哦？看到什么了？\p"
 	.string "大哥哥：我去\n"
-	.string "{STR_VAR_2}旅行的时候\l"
-	.string "，\p"
+	.string "{STR_VAR_2}旅行的时\l"
+	.string "候，\p"
 	.string "正好遇见{STR_VAR_1}在\n"
 	.string "试图捕捉{STR_VAR_3}，\l"
 	.string "但是……$"
@@ -962,8 +964,8 @@ gTVPokemonTodayFailedText06::
 gTVPokemonTodaySuccessfulText00::
 	.string "大家好！\p"
 	.string "欢迎收看《今日宝可梦》！\p"
-	.string "大姐姐：嗨！今天大家都精神饱满吗\n"
-	.string "？\p"
+	.string "大姐姐：嗨！今天大家都精神饱满\n"
+	.string "吗？\p"
 	.string "今天我们要关注\n"
 	.string "{STR_VAR_1}的宝可梦\l"
 	.string "{STR_VAR_2}！\p"
@@ -1073,9 +1075,9 @@ SmartShopper_Text_RandomComment1::
 	.string "可是必需品！$"
 
 SmartShopper_Text_RandomComment2::
-	.string "记者：说到{STR_VAR_2}\n"
-	.string "，我最近也买了\l"
-	.string "{STR_VAR_3}个。\p"
+	.string "记者：说到\n"
+	.string "{STR_VAR_2}，我最近也\l"
+	.string "买了{STR_VAR_3}个。\p"
 	.string "毕竟{STR_VAR_2}确实是\n"
 	.string "个好东西！$"
 
@@ -1098,8 +1100,8 @@ SmartShopper_Text_SecondItem::
 	.string "量购买了{STR_VAR_2}，\l"
 	.string "有{STR_VAR_3}个。\p"
 	.string "记者：真精明，\n"
-	.string "{STR_VAR_2}也是好东西\l"
-	.string "。$"
+	.string "{STR_VAR_2}也是好东\l"
+	.string "西。$"
 
 SmartShopper_Text_ThirdItem::
 	.string "店员：而且，这位训练家还买了\n"
@@ -1111,9 +1113,9 @@ SmartShopper_Text_DuringSale::
 	.string "次精明的购物。$"
 
 SmartShopper_Text_OutroNormal::
-	.string "记者：嗯……\n"
-	.string "{STR_VAR_1}听起来真是\l"
-	.string "个精打细算的购物达人呢！\p"
+	.string "记者：嗯……{STR_VAR_1}\n"
+	.string "听起来真是个精打细算的购物达人\l"
+	.string "呢！\p"
 	.string "{STR_VAR_1}采购的总金\n"
 	.string "额竟然达到了……\p"
 	.string "¥{STR_VAR_2}？！真是\n"
@@ -1138,7 +1140,7 @@ SmartShopper_Text_ClerkMax::
 	.string "从没想过会有顾客需要这么多\n"
 	.string "{STR_VAR_2}。简直闻所\l"
 	.string "未闻！\p"
-	.string "记者：大概卖出了100或200个\n"
+	.string "记者：大概卖出了100或200个"
 	.string "？\p"
 	.string "店员：哦不，比这还要多得多！\p"
 	.string "记者：天哪！\n"
@@ -1183,8 +1185,8 @@ gTVWorldOfMastersText02::
 	.string "的特殊地位。\p"
 	.string "鼓励各位训练家高手来挑战这项优秀\n"
 	.string "纪录。\p"
-	.string "今天的节目就到这里。下次节目再见\n"
-	.string "！$"
+	.string "今天的节目就到这里。下次节目再\n"
+	.string "见！$"
 
 gTVTodaysRivalTrainerText00::
 	.string "今日《劲敌训练家》！\p"
@@ -1246,22 +1248,22 @@ gTVTodaysRivalTrainerText04::
 
 gTVTodaysRivalTrainerText05::
 	.string "我们的劲敌在对战开拓区收集了\n"
-	.string "{STR_VAR_1}BP的对战\l"
-	.string "点数。$"
+	.string "{STR_VAR_1}BP的对战点\l"
+	.string "数。$"
 
 gTVTodaysRivalTrainerText06::
 	.string "那么，你和{STR_VAR_1}\n"
 	.string "相比表现如何呢？\p"
 	.string "冒险仍在继续！\p"
 	.string "各位训练家！\p"
-	.string "让我们继续前进，超越我们的劲敌吧\n"
-	.string "！$"
+	.string "让我们继续前进，超越我们的劲敌\n"
+	.string "吧！$"
 
 TrendWatcher_Text_Intro::
 	.string "武斗流行快讯网！\p"
-	.string "MC：哟！大家还好吗？我们将为大\n"
-	.string "家带来武斗镇最新潮、最热门的绝对\l"
-	.string "实况！\p"
+	.string "MC：哟！大家还好吗？我们将为大家\n"
+	.string "带来武斗镇最新潮、最热门的绝对实\l"
+	.string "况！\p"
 	.string "今天的特邀嘉宾是这位老爷爷，他可\n"
 	.string "是号称无所不知的武斗通哦。\p"
 	.string "老爷爷：很高兴能来。\p"
@@ -1270,16 +1272,15 @@ TrendWatcher_Text_Intro::
 	.string "什么呢？\p"
 	.string "老爷爷：{STR_VAR_1}\n"
 	.string "{STR_VAR_2}。\p"
-	.string "MC：您是说\n"
-	.string "{STR_VAR_1}\l"
+	.string "MC：您是说{STR_VAR_1}\n"
 	.string "{STR_VAR_2}吗？\p"
 	.string "老爷爷：不是。\p"
 	.string "{STR_VAR_1}\n"
 	.string "{STR_VAR_2}根本就完全\l"
 	.string "没有流行起来嘛。\p"
 	.string "你想听听这是怎么回事吗？\p"
-	.string "MC：呃，不用了。我们想知道的是\n"
-	.string "当下正在流行的东西……$"
+	.string "MC：呃，不用了。我们想知道的是当\n"
+	.string "下正在流行的东西……$"
 
 @ Identical to below, may have been different in other languages
 TrendWatcher_Text_MaleTaughtMePhrase::
@@ -1300,12 +1301,11 @@ TrendWatcher_Text_PhraseWasHopeless::
 	.string "{STR_VAR_2}节”！\p"
 	.string "什么“{STR_VAR_1}\n"
 	.string "{STR_VAR_2}大赛”！\p"
-	.string "我可是拼了命地教大家，然而..\n"
-	.string "....\p"
-	.string "也许“{STR_VAR_1}”这\n"
-	.string "部分就是不太对劲吧……\p"
-	.string "MC：呃，打扰一下，老哥，我需要\n"
-	.string "知道的是现在流行什么……$"
+	.string "我可是拼了命地教大家，然而......\p"
+	.string "也许“{STR_VAR_1}”这部\n"
+	.string "分就是不太对劲吧……\p"
+	.string "MC：呃，打扰一下，老哥，我需要知\n"
+	.string "道的是现在流行什么……$"
 
 @ Identical to below, may have been different in other languages
 TrendWatcher_Text_MaleTellMeBigger::
@@ -1321,13 +1321,11 @@ TrendWatcher_Text_FemaleTellMeBigger::
 	.string "行语！$"
 
 TrendWatcher_Text_Outro::
-	.string "MC：……呃……\n"
-	.string "各位走在时尚前沿的潮人朋友们，你\l"
-	.string "们都听到了！\p"
+	.string "MC：……呃……各位走在时尚前沿的潮人\n"
+	.string "朋友们，你们都听到了！\p"
 	.string "{STR_VAR_1}\n"
-	.string "{STR_VAR_2}....\l"
-	.string "..呃……在武斗镇根本就\l"
-	.string "没火起来！\p"
+	.string "{STR_VAR_2}......呃……\l"
+	.string "在武斗镇根本就没火起来！\p"
 	.string "节目时间到了，咱们下期再会！\p"
 	.string "老爷爷：{STR_VAR_1}\n"
 	.string "{STR_VAR_2}！$"
@@ -1348,8 +1346,8 @@ gTVHoennTreasureInvestigatorsText01::
 	.string "我最近在{STR_VAR_3}附\n"
 	.string "近看到{STR_VAR_2}。\p"
 	.string "这位训练家找到了\n"
-	.string "{STR_VAR_1}让我好羡慕\l"
-	.string "。\p"
+	.string "{STR_VAR_1}让我好羡\l"
+	.string "慕。\p"
 	.string "……干得漂亮，\n"
 	.string "{STR_VAR_2}！\p"
 	.string "观众们，快打开探宝器开始寻宝吧！\p"
@@ -1362,8 +1360,8 @@ gTVHoennTreasureInvestigatorsText02::
 	.string "我最近在渡轮上看到\n"
 	.string "{STR_VAR_2}。\p"
 	.string "这位训练家找到了\n"
-	.string "{STR_VAR_1}让我好羡慕\l"
-	.string "。\p"
+	.string "{STR_VAR_1}让我好羡\l"
+	.string "慕。\p"
 	.string "……干得漂亮，\n"
 	.string "{STR_VAR_2}！\p"
 	.string "观众们，快打开探宝器开始寻宝吧！\p"
@@ -1392,8 +1390,8 @@ gTVFindThatGamerText01::
 	.string "{STR_VAR_2}游戏，最好\l"
 	.string "像{STR_VAR_1}一样看好\l"
 	.string "自己的代币。\p"
-	.string "这里是游戏城现场报道——让你感受\n"
-	.string "这里的激情！\p"
+	.string "这里是游戏城现场报道——让你感受这\n"
+	.string "里的激情！\p"
 	.string "今天的节目就到这里！$"
 
 gTVFindThatGamerText02::
@@ -1410,8 +1408,8 @@ gTVFindThatGamerText03::
 	.string "{STR_VAR_2}游戏，最好\l"
 	.string "像{STR_VAR_1}一样看好\l"
 	.string "自己的代币。\p"
-	.string "这里是游戏城现场报道——让你感受\n"
-	.string "这里的激情！\p"
+	.string "这里是游戏城现场报道——让你感受这\n"
+	.string "里的激情！\p"
 	.string "今天的节目就到这里！$"
 
 gTVBreakingNewsText00::
@@ -1445,8 +1443,8 @@ gTVBreakingNewsText04::
 	.string "我得承认有点羡慕\n"
 	.string "{STR_VAR_1}。我也想这\l"
 	.string "样欢呼。\p"
-	.string "……现场直播就在这样欢快的一幕中\n"
-	.string "到此结束！$"
+	.string "……现场直播就在这样欢快的一幕中到\n"
+	.string "此结束！$"
 
 gTVBreakingNewsText05::
 	.string "{STR_VAR_1}未能捕获稀\n"
@@ -1502,33 +1500,34 @@ gTVBreakingNewsText10::
 gTVBreakingNewsText11::
 	.string "我得说我为{STR_VAR_1}\n"
 	.string "感到难过。这让我也想尖叫。\p"
-	.string "……现场直播就在这样忧郁的一幕中\n"
-	.string "到此结束！$"
+	.string "……现场直播就在这样忧郁的一幕中到\n"
+	.string "此结束！$"
 
 gTVSecretBaseVisitText00::
 	.string "观众朋友们好！又到了我们的秘密基\n"
 	.string "地探访时间！\p"
 	.string "今天我们要参观的是\n"
-	.string "{STR_VAR_1}的秘密基地\l"
-	.string "。\p"
+	.string "{STR_VAR_1}的秘密基\l"
+	.string "地。\p"
 	.string "{STR_VAR_1}是如何打造\n"
 	.string "这个秘密基地的呢？\p"
 	.string "让我们一探究竟！…… …… ……$"
 
 gTVSecretBaseVisitText01::
 	.string "哇！太惊艳了！\p"
-	.string "这个{STR_VAR_2}……完\n"
-	.string "全出乎意料！$"
+	.string "这个{STR_VAR_2}……完全\n"
+	.string "出乎意料！$"
 
 gTVSecretBaseVisitText02::
 	.string "哇！太特别了！\p"
-	.string "这里竟然一件家具和装饰物品都没有\n"
-	.string "！\p"
+	.string "这里竟然一件家具和装饰物品都没\n"
+	.string "有！\p"
 	.string "普通人可不敢做这么大胆的设计！\p"
 	.string "看似简单，却充满野性，是的，狂野\n"
 	.string "十足！\p"
-	.string "向您致敬，{STR_VAR_1}\n"
-	.string "。只有您能做到这样！$"
+	.string "向您致敬，\n"
+	.string "{STR_VAR_1}。只有您能\l"
+	.string "做到这样！$"
 
 gTVSecretBaseVisitText03::
 	.string "哦！我明白了！完全明白了！\p"
@@ -1537,8 +1536,8 @@ gTVSecretBaseVisitText03::
 
 gTVSecretBaseVisitText04::
 	.string "哦！我明白了！完全明白了！\p"
-	.string "这个空间故意保持没有任何装饰物品\n"
-	.string "！\p"
+	.string "这个空间故意保持没有任何装饰物\n"
+	.string "品！\p"
 	.string "传达出强烈的信息！$"
 
 gTVSecretBaseVisitText05::
@@ -1593,8 +1592,8 @@ gTVSecretBaseVisitText10::
 gTVSecretBaseVisitText11::
 	.string "哇哦！不得不佩服\n"
 	.string "{STR_VAR_1}。\p"
-	.string "这位训练家的宝可梦培养得非常均衡\n"
-	.string "。\p"
+	.string "这位训练家的宝可梦培养得非常均\n"
+	.string "衡。\p"
 	.string "充分证明了{STR_VAR_1}\n"
 	.string "作为训练家的用心。\p"
 	.string "那只{STR_VAR_2}会使用\n"
@@ -1617,11 +1616,11 @@ gTVSecretBaseVisitText12::
 	.string "真是受益匪浅！$"
 
 gTVSecretBaseVisitText13::
-	.string "不得不说，这真是个超棒的秘密基地\n"
-	.string "！\p"
+	.string "不得不说，这真是个超棒的秘密基\n"
+	.string "地！\p"
 	.string "观众们，如果有机会，一定要参观\n"
-	.string "{STR_VAR_1}的秘密基地\l"
-	.string "。\p"
+	.string "{STR_VAR_1}的秘密基\l"
+	.string "地。\p"
 	.string "下次节目再见！$"
 
 gTVPokemonLotteryWinnerFlashReportText00::
@@ -1636,17 +1635,17 @@ gTVPokemonLotteryWinnerFlashReportText00::
 	.string "{STR_VAR_2}奖并带走了\l"
 	.string "{STR_VAR_3}！\p"
 	.string "{STR_VAR_1}！恭喜你！\p"
-	.string "观众朋友们，别光看着，快来参与吧\n"
-	.string "！\p"
-	.string "水静百货全体员工期待您的下次光临\n"
-	.string "！\p"
+	.string "观众朋友们，别光看着，快来参与\n"
+	.string "吧！\p"
+	.string "水静百货全体员工期待您的下次光\n"
+	.string "临！\p"
 	.string "这里是水静百货现场直播，为您提供\n"
 	.string "丰缘地区最丰富的商品选择！$"
 
 gTVThePokemonBattleSeminarText00::
 	.string "宝可梦对战研讨会！\p"
-	.string "我们通过分析对战来学习他人的经验\n"
-	.string "。\p"
+	.string "我们通过分析对战来学习他人的经\n"
+	.string "验。\p"
 	.string "今天的研究案例是\n"
 	.string "{STR_VAR_1}的对战。\p"
 	.string "{STR_VAR_1}的\n"
@@ -1657,8 +1656,8 @@ gTVThePokemonBattleSeminarText01::
 	.string "它使出了招式\n"
 	.string "{STR_VAR_3}攻击\l"
 	.string "{STR_VAR_2}……\p"
-	.string "嗯……{STR_VAR_1}！这\n"
-	.string "样做是不对的！$"
+	.string "嗯……{STR_VAR_1}！这样\n"
+	.string "做是不对的！$"
 
 gTVThePokemonBattleSeminarText02::
 	.string "除了这个注定失败的招式外，训练家\n"
@@ -1699,8 +1698,8 @@ gTVTrainerFanClubText00::
 	.string "粉丝：我们超爱\n"
 	.string "{STR_VAR_1}！\p"
 	.string "主持人：你们喜欢\n"
-	.string "{STR_VAR_1}的哪些方面\l"
-	.string "？！$"
+	.string "{STR_VAR_1}的哪些方\l"
+	.string "面？！$"
 
 gTVTrainerFanClubText01::
 	.string "粉丝：那投掷精灵球的帅气姿势！$"
@@ -1720,8 +1719,8 @@ gTVTrainerFanClubText05::
 	.string "度！$"
 
 gTVTrainerFanClubText06::
-	.string "粉丝：训练家骑自行车时惊人的技巧\n"
-	.string "！$"
+	.string "粉丝：训练家骑自行车时惊人的技\n"
+	.string "巧！$"
 
 gTVTrainerFanClubText07::
 	.string "粉丝：训练家购买物品时令人印象深\n"
@@ -1751,14 +1750,13 @@ gTVTrainerFanClubText11::
 	.string "粉丝：{STR_VAR_3}！\p"
 	.string "粉丝：{STR_VAR_2}！\p"
 	.string "粉丝：{STR_VAR_3}！\p"
-	.string "主持人：没错，当有人说“\n"
-	.string "{STR_VAR_1}”……\p"
+	.string "主持人：没错，当有人说\n"
+	.string "“{STR_VAR_1}”……\p"
 	.string "就要回应“{STR_VAR_2}\n"
 	.string "{STR_VAR_3}！”\p"
 	.string "这口号多么独特啊！难怪大家都成了\n"
 	.string "{STR_VAR_1}的粉丝！\p"
-	.string "电视机前的你也一起来！预备——起\n"
-	.string "！\p"
+	.string "电视机前的你也一起来！预备——起！\p"
 	.string "主持人：当我说\n"
 	.string "{STR_VAR_1}你们喊……\p"
 	.string "粉丝：{STR_VAR_2}！\p"
@@ -1798,8 +1796,8 @@ TVSpotTheCuties_Text_RibbonsMid::
 
 TVSpotTheCuties_Text_RibbonsHigh::
 	.string "{STR_VAR_2}戴着不可思\n"
-	.string "议的{STR_VAR_3}个奖章\l"
-	.string "！\p"
+	.string "议的{STR_VAR_3}个奖\l"
+	.string "章！\p"
 	.string "这展现了{STR_VAR_1}作\n"
 	.string "为收藏家的极致追求！$"
 
@@ -1814,8 +1812,8 @@ TVSpotTheCuties_Text_RibbonChampion::
 	.string "堂获此殊荣。\p"
 	.string "完美衬托出{STR_VAR_2}\n"
 	.string "的英勇气质。\p"
-	.string "{STR_VAR_2}与冠军奖章\n"
-	.string "！这搭配效果绝佳！$"
+	.string "{STR_VAR_2}与冠军奖\n"
+	.string "章！这搭配效果绝佳！$"
 
 TVSpotTheCuties_Text_RibbonCool::
 	.string "帅气奖章格外耀眼。\p"
@@ -1823,8 +1821,8 @@ TVSpotTheCuties_Text_RibbonCool::
 	.string "华丽大赛获此殊荣。\p"
 	.string "完美衬托出{STR_VAR_2}\n"
 	.string "的酷炫气质。\p"
-	.string "{STR_VAR_2}与帅气奖章\n"
-	.string "！这组合效果绝佳！$"
+	.string "{STR_VAR_2}与帅气奖\n"
+	.string "章！这组合效果绝佳！$"
 
 TVSpotTheCuties_Text_RibbonBeauty::
 	.string "美丽奖章格外耀眼。\p"
@@ -1832,8 +1830,8 @@ TVSpotTheCuties_Text_RibbonBeauty::
 	.string "华丽大赛获此殊荣。\p"
 	.string "完美衬托出{STR_VAR_2}\n"
 	.string "的优雅气质。\p"
-	.string "{STR_VAR_2}与美丽奖章\n"
-	.string "！这组合效果绝佳！$"
+	.string "{STR_VAR_2}与美丽奖\n"
+	.string "章！这组合效果绝佳！$"
 
 TVSpotTheCuties_Text_RibbonCute::
 	.string "可爱奖章格外耀眼。\p"
@@ -1841,8 +1839,8 @@ TVSpotTheCuties_Text_RibbonCute::
 	.string "华丽大赛获此殊荣。\p"
 	.string "完美衬托出{STR_VAR_2}\n"
 	.string "的甜美特质。\p"
-	.string "{STR_VAR_2}与可爱奖章\n"
-	.string "！这组合效果绝佳！$"
+	.string "{STR_VAR_2}与可爱奖\n"
+	.string "章！这组合效果绝佳！$"
 
 TVSpotTheCuties_Text_RibbonSmart::
 	.string "聪明奖章格外耀眼。\p"
@@ -1850,8 +1848,8 @@ TVSpotTheCuties_Text_RibbonSmart::
 	.string "华丽大赛获此殊荣。\p"
 	.string "完美衬托出{STR_VAR_2}\n"
 	.string "的机智特质。\p"
-	.string "{STR_VAR_2}与聪明奖章\n"
-	.string "！这组合效果绝佳！$"
+	.string "{STR_VAR_2}与聪明奖\n"
+	.string "章！这组合效果绝佳！$"
 
 TVSpotTheCuties_Text_RibbonTough::
 	.string "强壮奖章格外耀眼。\p"
@@ -1859,8 +1857,8 @@ TVSpotTheCuties_Text_RibbonTough::
 	.string "华丽大赛获此殊荣。\p"
 	.string "完美衬托出{STR_VAR_2}\n"
 	.string "的刚毅气质。\p"
-	.string "{STR_VAR_2}与强壮奖章\n"
-	.string "！这组合效果绝佳！$"
+	.string "{STR_VAR_2}与强壮奖\n"
+	.string "章！这组合效果绝佳！$"
 
 TVSpotTheCuties_Text_RibbonWinning::
 	.string "成功奖章格外耀眼。\p"
@@ -1868,8 +1866,8 @@ TVSpotTheCuties_Text_RibbonWinning::
 	.string "的出色表现获此殊荣。\p"
 	.string "完美衬托出{STR_VAR_2}\n"
 	.string "的王者风范。\p"
-	.string "{STR_VAR_2}与成功奖章\n"
-	.string "！这组合效果绝佳！$"
+	.string "{STR_VAR_2}与成功奖\n"
+	.string "章！这组合效果绝佳！$"
 
 TVSpotTheCuties_Text_RibbonVictory::
 	.string "胜利奖章格外耀眼。\p"
@@ -1877,8 +1875,8 @@ TVSpotTheCuties_Text_RibbonVictory::
 	.string "的卓越战绩获此殊荣。\p"
 	.string "完美衬托出{STR_VAR_2}\n"
 	.string "的无敌气势。\p"
-	.string "{STR_VAR_2}与胜利奖章\n"
-	.string "！这组合效果绝佳！$"
+	.string "{STR_VAR_2}与胜利奖\n"
+	.string "章！这组合效果绝佳！$"
 
 TVSpotTheCuties_Text_RibbonArtist::
 	.string "肖像奖章格外耀眼。\p"
@@ -1886,8 +1884,8 @@ TVSpotTheCuties_Text_RibbonArtist::
 	.string "模特获此殊荣。\p"
 	.string "完美衬托出{STR_VAR_2}\n"
 	.string "的明星魅力。\p"
-	.string "{STR_VAR_2}与肖像奖章\n"
-	.string "！这组合效果绝佳！$"
+	.string "{STR_VAR_2}与肖像奖\n"
+	.string "章！这组合效果绝佳！$"
 
 TVSpotTheCuties_Text_RibbonEffort::
 	.string "努力奖章格外耀眼。\p"
@@ -1895,8 +1893,8 @@ TVSpotTheCuties_Text_RibbonEffort::
 	.string "力的表现获此殊荣。\p"
 	.string "完美衬托出{STR_VAR_2}\n"
 	.string "的坚韧品质。\p"
-	.string "{STR_VAR_2}与努力奖章\n"
-	.string "！这组合效果绝佳！$"
+	.string "{STR_VAR_2}与努力奖\n"
+	.string "章！这组合效果绝佳！$"
 
 TVSpotTheCuties_Text_Outro::
 	.string "……呼……\p"
@@ -2039,12 +2037,12 @@ gTVPokemonNewsBattleFrontierText17::
 gTVPokemonNewsBattleFrontierText18::
 	.string "让我们期待{STR_VAR_1}\n"
 	.string "与忠实的宝可梦创造更多的纪录吧！\p"
-	.string "以上就是本期宝可梦新闻的全部内容\n"
-	.string "！$"
+	.string "以上就是本期宝可梦新闻的全部内\n"
+	.string "容！$"
 
 gTVWhatsNo1InHoennTodayText00::
-	.string "今日丰缘No.1！又到了这个激动\n"
-	.string "人心的时刻！\p"
+	.string "今日丰缘No.1！又到了这个激动人心\n"
+	.string "的时刻！\p"
 	.string "观众朋友们大家好！今天的你全力以\n"
 	.string "赴了吗？\p"
 	.string "让我们看看今天表现最出色的训练家\n"
@@ -2059,8 +2057,7 @@ gTVWhatsNo1InHoennTodayText01::
 	.string "在玩的时候，有人听到\n"
 	.string "{STR_VAR_1}喃喃自语\l"
 	.string "道：“对我来说，转盘根本就没在动\l"
-	.string "嘛……”这可真有意思不是\l"
-	.string "吗？$"
+	.string "嘛……”这可真有意思不是吗？$"
 
 gTVWhatsNo1InHoennTodayText02::
 	.string "{STR_VAR_1}在一天之\n"
@@ -2087,8 +2084,8 @@ gTVWhatsNo1InHoennTodayText04::
 	.string "器！\p"
 	.string "到最后连{STR_VAR_1}自\n"
 	.string "己都开始头晕了。\p"
-	.string "训练家走路摇摇晃晃，活像只晃晃斑\n"
-	.string "！$"
+	.string "训练家走路摇摇晃晃，活像只晃晃\n"
+	.string "斑！$"
 
 gTVWhatsNo1InHoennTodayText05::
 	.string "{STR_VAR_1}今天种下了\n"
@@ -2109,8 +2106,8 @@ gTVWhatsNo1InHoennTodayText06::
 
 gTVWhatsNo1InHoennTodayText07::
 	.string "{STR_VAR_1}今天获得了\n"
-	.string "{STR_VAR_2}BP的对战\l"
-	.string "点数！\p"
+	.string "{STR_VAR_2}BP的对战点\l"
+	.string "数！\p"
 	.string "后来看到{STR_VAR_1}纠\n"
 	.string "结于该兑换给力的道具还是精美的装\l"
 	.string "饰物品。\p"
@@ -2121,21 +2118,21 @@ gTVWhatsNo1InHoennTodayText08::
 	.string "{STR_VAR_1}！你就是今\n"
 	.string "日的No.1训练家！\p"
 	.string "观众们，向{STR_VAR_1}\n"
-	.string "学习吧！你们也能成为每日No.1\l"
+	.string "学习吧！你们也能成为每日No.1"
 	.string "！$"
 
 TVSecretBaseSecrets_Text_Intro::
 	.string "秘密基地探秘！\p"
-	.string "训练家们在秘密基地里都做些什么呢\n"
-	.string "？\p"
+	.string "训练家们在秘密基地里都做些什么\n"
+	.string "呢？\p"
 	.string "今天我们要探访\n"
-	.string "{STR_VAR_1}的秘密基地\l"
-	.string "。\p"
+	.string "{STR_VAR_1}的秘密基\l"
+	.string "地。\p"
 	.string "哦？{STR_VAR_2}好像来\n"
 	.string "拜访了。\p"
 	.string "让我们偷偷看看！\p"
-	.string "{STR_VAR_2}会做什么呢\n"
-	.string "？$"
+	.string "{STR_VAR_2}会做什么\n"
+	.string "呢？$"
 
 TVSecretBaseSecrets_Text_WhatWillPlayerDoNext1::
 	.string "{STR_VAR_2}接下来会做\n"
@@ -2169,8 +2166,8 @@ TVSecretBaseSecrets_Text_PlayerHugeFanOfBase::
 
 TVSecretBaseSecrets_Text_Outro::
 	.string "观众们可能也想看看\n"
-	.string "{STR_VAR_1}的秘密基地\l"
-	.string "。\p"
+	.string "{STR_VAR_1}的秘密基\l"
+	.string "地。\p"
 	.string "下次我们将探访另一个秘密基地！感\n"
 	.string "谢收看！$"
 
@@ -2277,8 +2274,7 @@ TVSecretBaseSecrets_Text_DeclinedBattle::
 TVSecretBaseSecrets_Text_UsedPoster::
 	.string "访客正盯着海报看！\p"
 	.string "很喜欢这张海报吗？\p"
-	.string "……但是……访客的眼神有点吓人…\n"
-	.string "…$"
+	.string "……但是……访客的眼神有点吓人……$"
 
 TVSecretBaseSecrets_Text_UsedNoteMat::
 	.string "访客踩上了音符地毯！\p"
@@ -2380,8 +2376,8 @@ gTVSafariFanClubText01::
 	.string "色。\p"
 	.string "要知道，之前\n"
 	.string "{STR_VAR_1}抓到了\l"
-	.string "{STR_VAR_2}只宝可梦呢\l"
-	.string "！$"
+	.string "{STR_VAR_2}只宝可梦\l"
+	.string "呢！$"
 
 gTVSafariFanClubText02::
 	.string "那位训练家很会巧用\n"
@@ -2455,8 +2451,8 @@ ContestLiveUpdates_Text_Intro::
 	.string "是最棒的！\p"
 	.string "观众：{STR_VAR_3}！干\n"
 	.string "得漂亮！\p"
-	.string "主持人：来听听粉丝们的赛后感想吧\n"
-	.string "！$"
+	.string "主持人：来听听粉丝们的赛后感想\n"
+	.string "吧！$"
 
 ContestLiveUpdates_Text_WonBothRounds::
 	.string "观众：那只{STR_VAR_2}\n"
@@ -2496,8 +2492,8 @@ ContestLiveUpdates_Text_GotNervous::
 ContestLiveUpdates_Text_StartledFoes::
 	.string "观众：{STR_VAR_2}的招\n"
 	.string "式展示连我都吓了一跳！\p"
-	.string "{STR_VAR_2}，你太棒了\n"
-	.string "！$"
+	.string "{STR_VAR_2}，你太棒\n"
+	.string "了！$"
 
 ContestLiveUpdates_Text_UsedCombo::
 	.string "观众：{STR_VAR_2}的组\n"
@@ -2509,24 +2505,24 @@ ContestLiveUpdates_Text_ExcitingAppeal::
 	.string "的表演让我心跳加速！$"
 
 ContestLiveUpdates_Text_WasCool::
-	.string "{STR_VAR_2}！你好帅气\n"
-	.string "！$"
+	.string "{STR_VAR_2}！你好帅\n"
+	.string "气！$"
 
 ContestLiveUpdates_Text_WasBeautiful::
-	.string "{STR_VAR_2}！你好美丽\n"
-	.string "！$"
+	.string "{STR_VAR_2}！你好美\n"
+	.string "丽！$"
 
 ContestLiveUpdates_Text_WasCute::
-	.string "{STR_VAR_2}！你好可爱\n"
-	.string "！$"
+	.string "{STR_VAR_2}！你好可\n"
+	.string "爱！$"
 
 ContestLiveUpdates_Text_WasSmart::
-	.string "{STR_VAR_2}！你好聪明\n"
-	.string "！$"
+	.string "{STR_VAR_2}！你好聪\n"
+	.string "明！$"
 
 ContestLiveUpdates_Text_WasTough::
-	.string "{STR_VAR_2}！你好强壮\n"
-	.string "！$"
+	.string "{STR_VAR_2}！你好强\n"
+	.string "壮！$"
 
 ContestLiveUpdates_Text_VeryExcitingAppeal::
 	.string "观众：冠军{STR_VAR_2}\n"
@@ -2562,8 +2558,8 @@ ContestLiveUpdates_Text_GotStartled::
 	.string "观众：当{STR_VAR_2}被\n"
 	.string "其他宝可梦的表演吓到时，我差点哭\l"
 	.string "出来。\p"
-	.string "{STR_VAR_2}你太坚强了\n"
-	.string "！好样的！$"
+	.string "{STR_VAR_2}你太坚强\n"
+	.string "了！好样的！$"
 
 ContestLiveUpdates_Text_MoveWonderful::
 	.string "观众：天啊……\n"
@@ -2593,21 +2589,21 @@ ContestLiveUpdates_Text_FailedToAppeal::
 	.string "演。$"
 
 ContestLiveUpdates_Text_LastInBothRounds::
-	.string "它在第1轮评审和第2轮评审中都排\n"
-	.string "名垫底。\p"
+	.string "它在第1轮评审和第2轮评审中都排名\n"
+	.string "垫底。\p"
 	.string "希望{STR_VAR_1}能重新\n"
 	.string "训练{STR_VAR_2}，洗刷\l"
 	.string "这次惨败的耻辱。$"
 
 ContestLiveUpdates_Text_NotExcitingEnough::
-	.string "它没能抓住观众情绪做出恰当的表演\n"
-	.string "。\p"
+	.string "它没能抓住观众情绪做出恰当的表\n"
+	.string "演。\p"
 	.string "希望{STR_VAR_1}学会把\n"
 	.string "握观众心理，下次能点燃全场热情。$"
 
 ContestLiveUpdates_Text_LostAfterWinningRound1::
-	.string "虽然第1轮评审获得第1，但第2轮\n"
-	.string "评审表演完全失败。\p"
+	.string "虽然第1轮评审获得第1，但第2轮评\n"
+	.string "审表演完全失败。\p"
 	.string "遭遇了耻辱性的逆转败北。\p"
 	.string "相信{STR_VAR_1}正在研\n"
 	.string "究如何提升表演效果。$"
@@ -2648,13 +2644,13 @@ ContestLiveUpdates_Text_Outro::
 	.string "{STR_VAR_2}！\p"
 	.string "主持人：准备好了吗？大家一起！\p"
 	.string "观众：{STR_VAR_1}！\n"
-	.string "{STR_VAR_2}！恭喜夺冠\l"
-	.string "！你们是最棒的！$"
+	.string "{STR_VAR_2}！恭喜夺\l"
+	.string "冠！你们是最棒的！$"
 
 gTVPokemonBattleUpdateText00::
 	.string "《宝可梦对战快报》！\p"
-	.string "为您带来最新最热的宝可梦对战实况\n"
-	.string "！$"
+	.string "为您带来最新最热的宝可梦对战实\n"
+	.string "况！$"
 
 gTVPokemonBattleUpdateText01::
 	.string "训练家{STR_VAR_1}与\n"
@@ -2690,9 +2686,9 @@ gTVPokemonBattleUpdateText05::
 
 gTVPokemonBattleUpdateText06::
 	.string "对战中{STR_VAR_1}队伍\n"
-	.string "的{STR_VAR_2}表现出色\l"
-	.string "，凭借{STR_VAR_3}大放\l"
-	.string "异彩！$"
+	.string "的{STR_VAR_2}表现出\l"
+	.string "色，凭借{STR_VAR_3}大\l"
+	.string "放异彩！$"
 
 gTVPokemonBattleUpdateText07::
 	.string "{STR_VAR_2}队伍的\n"
@@ -2707,8 +2703,8 @@ gTVPokemonBattleUpdateText07::
 GabbyAndTy_Text_GabbyPreFirstBattle:
 	.string "玛莉：哇！我们在这个地方发现了一\n"
 	.string "位实力强劲的训练家！\p"
-	.string "好，摄像机准备！让我们开始采访吧\n"
-	.string "！$"
+	.string "好，摄像机准备！让我们开始采访\n"
+	.string "吧！$"
 
 GabbyAndTy_Text_GabbyIntro:
 	.string "玛莉：啊！是{PLAYER}！你\n"
@@ -2721,8 +2717,8 @@ GabbyAndTy_Text_GabbyDefeatFirstTime:
 	.string "位惊人的训练家！$"
 
 GabbyAndTy_Text_WhoAreYouInterview:
-	.string "玛莉：太棒了！太棒了！你到底是谁\n"
-	.string "？！\p"
+	.string "玛莉：太棒了！太棒了！你到底是\n"
+	.string "谁？！\p"
 	.string "我就知道发现你的时候一定会有什么\n"
 	.string "惊喜！\p"
 	.string "哦，让我解释一下。我们四处旅行采\n"
@@ -2731,7 +2727,7 @@ GabbyAndTy_Text_WhoAreYouInterview:
 	.string "访吗？$"
 
 GabbyAndTy_Text_QuoteFromLastInterview:
-	.string "玛莉：“{STR_VAR_1}！\n"
+	.string "玛莉：“{STR_VAR_1}！"
 	.string "”\p"
 	.string "记得吗？这是你上次对战结束时给我\n"
 	.string "们的经典台词。\p"
@@ -2792,8 +2788,8 @@ GabbyAndTy_Text_GabbyNotEnoughMons:
 GabbyAndTy_Text_GiveUsAnInterviewThisTime:
 	.string "玛莉：哇，你真是太厉害了！\p"
 	.string "比起上次见面，你变得强多了！\p"
-	.string "我们当初发现你是个潜力股果然没错\n"
-	.string "！\p"
+	.string "我们当初发现你是个潜力股果然没\n"
+	.string "错！\p"
 	.string "那么这次你愿意接受我们的采访吗？$"
 
 GabbyAndTy_Text_GabbyDefeat:
@@ -2836,9 +2832,9 @@ gTVInSearchOfTrainersText00::
 	.string "我们！$"
 
 gTVInSearchOfTrainersText01::
-	.string "虽然之前与{PLAYER}对战过\n"
-	.string "，但可以确定这位训练家的实力比之\l"
-	.string "前进步显著。\p"
+	.string "虽然之前与{PLAYER}对战\n"
+	.string "过，但可以确定这位训练家的实力比\l"
+	.string "之前进步显著。\p"
 	.string "当初发现这位训练家时我就知道是特\n"
 	.string "别的存在！$"
 
@@ -2858,22 +2854,21 @@ gTVInSearchOfTrainersText03::
 	.string "{STR_VAR_1}与\n"
 	.string "{STR_VAR_3}的配合天衣\l"
 	.string "无缝！\p"
-	.string "看着它们——\n"
-	.string "{STR_VAR_1}和\l"
-	.string "{STR_VAR_3}——在激战\l"
+	.string "看着它们——{STR_VAR_1}\n"
+	.string "和{STR_VAR_3}——在激战\l"
 	.string "中无私地互相支援……\p"
 	.string "真是令人叹为观止的景象！\p"
 	.string "{STR_VAR_2}是训练家最\n"
 	.string "后使用的招式。\p"
 	.string "{STR_VAR_2}这招正是\n"
 	.string "{STR_VAR_1}与\l"
-	.string "{STR_VAR_3}友谊的见证\l"
-	.string "！$"
+	.string "{STR_VAR_3}友谊的见\l"
+	.string "证！$"
 
 gTVInSearchOfTrainersText04::
 	.string "……这次遭遇让我失去了自信。\p"
-	.string "我们连一次攻击都没使出就被击败了\n"
-	.string "……呜呜……抽泣……\p"
+	.string "我们连一次攻击都没使出就被击败\n"
+	.string "了……呜呜……抽泣……\p"
 	.string "尽管如此，{PLAYER}的对战\n"
 	.string "仍然值得一看。\p"
 	.string "我推荐有信心的训练家来挑战\n"
@@ -2898,20 +2893,20 @@ gTVInSearchOfTrainersText07::
 	.string "虽然最终落败，但确实进行了势均力\n"
 	.string "敌的战斗。\p"
 	.string "不过如果连和我对战都吃力，\n"
-	.string "{PLAYER}你还要继续努力啊\l"
-	.string "！$"
+	.string "{PLAYER}你还要继续努力\l"
+	.string "啊！$"
 
 gTVInSearchOfTrainersText08::
 	.string "对战结束后，我们请\n"
 	.string "{PLAYER}用一句话总结。\p"
-	.string "训练家回答：“\n"
-	.string "{STR_VAR_1}”。\p"
+	.string "训练家回答：\n"
+	.string "“{STR_VAR_1}”。\p"
 	.string "{PLAYER}的宝可梦\n"
 	.string "{STR_VAR_2}与\l"
-	.string "{STR_VAR_3}……还有“\l"
-	.string "{STR_VAR_1}”……\p"
-	.string "嗯！意味深长！这句话蕴含深刻意义\n"
-	.string "！\p"
+	.string "{STR_VAR_3}……还有\l"
+	.string "“{STR_VAR_1}”……\p"
+	.string "嗯！意味深长！这句话蕴含深刻意\n"
+	.string "义！\p"
 	.string "不愧是优秀训练家，说的话也充满智\n"
 	.string "慧。\p"
 	.string "今天节目就到这里！下期再见！$"
@@ -2933,8 +2928,8 @@ ContestLadyShow_Text_Won::
 	.string "主持人：打扰了！感谢接受电视直播\n"
 	.string "采访！\p"
 	.string "恭喜您获得本次大赛冠军！\p"
-	.string "今天取得辉煌胜利的关键因素是什么\n"
-	.string "？\p"
+	.string "今天取得辉煌胜利的关键因素是什\n"
+	.string "么？\p"
 	.string "大姐姐：我和\n"
 	.string "{STR_VAR_2}今天已经全\l"
 	.string "力以赴！\p"
@@ -2943,8 +2938,8 @@ ContestLadyShow_Text_Won::
 	.string "主持人：有什么特别的人想分享这份\n"
 	.string "喜悦吗？让我们现场连线！\p"
 	.string "大姐姐：嘿，你在看吗？\p"
-	.string "{STR_VAR_3}！看到了吗\n"
-	.string "？我们做到了！谢谢你！$"
+	.string "{STR_VAR_3}！看到了\n"
+	.string "吗？我们做到了！谢谢你！$"
 
 ContestLadyShow_Text_Lost::
 	.string "主持人：打扰一下！感谢接受我们的\n"
@@ -2957,25 +2952,25 @@ ContestLadyShow_Text_Lost::
 	.string "主持人：恕我直言，这只宝可梦的毛\n"
 	.string "色似乎还不够完美。\p"
 	.string "大姐姐：{STR_VAR_3}，\n"
-	.string "对不起……下次我一定会做得更好…\l"
-	.string "………抽泣……哇啊啊！\p"
+	.string "对不起……下次我一定会做得更好…………\l"
+	.string "抽泣……哇啊啊！\p"
 	.string "观众：快看！那女孩好可怜！\p"
 	.string "主持人：呃……糟糕……\p"
-	.string "呃……今天的节目就到这里！感谢您\n"
-	.string "的收看！$"
+	.string "呃……今天的节目就到这里！感谢您的\n"
+	.string "收看！$"
 
 ContestLadyShow_Text_LostBadly::
 	.string "主持人：打扰一下！感谢接受我们的\n"
 	.string "现场采访！\p"
 	.string "您对本次华丽大赛的表现有何评价？\p"
-	.string "大姐姐：全都搞砸了……不知道为什\n"
-	.string "么{STR_VAR_2}完全吸引\l"
-	.string "不到人气……\p"
+	.string "大姐姐：全都搞砸了……不知道为什么\n"
+	.string "{STR_VAR_2}完全吸引不\l"
+	.string "到人气……\p"
 	.string "主持人：恕我直言，这只宝可梦的毛\n"
 	.string "色确实有所欠缺。\p"
-	.string "大姐姐：…… …… …… ………\n"
-	.string "…抽泣……哇啊啊！\p"
+	.string "大姐姐：…… …… …… …………抽泣……哇啊\n"
+	.string "啊！\p"
 	.string "观众：快看！那女孩哭得好伤心！\p"
 	.string "主持人：呃……不妙……\p"
-	.string "呃……今天的节目时间到了！感谢您\n"
-	.string "的收看！$"
+	.string "呃……今天的节目时间到了！感谢您的\n"
+	.string "收看！$"

@@ -167,15 +167,14 @@ SproutTower_Text_ElderLecturesRival:
 	.string "但我有一言相劝：你应该对自己的宝\n"
 	.string "可梦更好一些。\p"
 	.string "你的对战方式实在太残酷了。\p"
-	.string "宝可梦可不是战斗的工具……\n"
-	.string ".$"
+	.string "宝可梦可不是战斗的工具…….$"
 
 SproutTower_Text_RivalOnlyCaresStrong:
 	.string "……哼！\p"
 	.string "自称是什么长老，实力不过如此。\p"
 	.string "这也难怪。\p"
-	.string "成天把“要善待宝可梦”挂在嘴边的\n"
-	.string "蠢货，我怎么可能会输给他们。\p"
+	.string "成天把“要善待宝可梦”挂在嘴边的蠢\n"
+	.string "货，我怎么可能会输给他们。\p"
 	.string "我只在乎能打赢的强力宝可梦。\p"
 	.string "弱小的宝可梦，我根本不屑一顾。$"
 

@@ -461,18 +461,17 @@ VioletCity_Text_ElmName:
 VioletCity_Text_Elm_Call:
 	.string "空木博士：喂，是{PLAYER}\n"
 	.string "吗？我们关于那颗蛋有了新发现！\p"
-	.string "我的助手现在在桔梗市的宝可梦中心\n"
-	.string "。\p"
+	.string "我的助手现在在桔梗市的宝可梦中\n"
+	.string "心。\p"
 	.string "你能去和他见个面吗？$"
 
 VioletCity_Text_Kimono_Girl1:
-	.string "哎呀呀……\n"
-	.string "那颗蛋一定是……！$"
+	.string "哎呀呀……那颗蛋一定是……！$"
 
 VioletCity_Text_Kimono_Girl2:
 	.string "原来如此……\p"
-	.string "是从宝可梦爷爷那里交给了空木博士\n"
-	.string "，然后空木博士又交给了你啊。\p"
+	.string "是从宝可梦爷爷那里交给了空木博\n"
+	.string "士，然后空木博士又交给了你啊。\p"
 	.string "我明白了……$"
 
 VioletCity_Text_Kimono_Girl3:

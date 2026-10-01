@@ -1038,8 +1038,8 @@ Route104_Text_TMsAreOneTimeUse:
 Route104_Text_DontNeedThisTakeIt:
 	.string "这间花店最近开始卖小树，\p"
 	.string "我太兴奋了，买了太多的东西。\p"
-	.string "这个白色香草我不需要了，你想要吗\n"
-	.string "？$"
+	.string "这个白色香草我不需要了，你想要\n"
+	.string "吗？$"
 
 Route104_Text_FlowerShopSellingSaplings:
 	.string "这间花店最近开始卖小树，\p"
@@ -1054,8 +1054,8 @@ Route104_Text_RouteSignPetalburg:
 	.string "{RIGHT_ARROW}橙华市$"
 
 Route104_Text_RouteSignRustboro:
-	.string "104号道路{UP_ARROW}\n"
-	.string "卡那兹市$"
+	.string "104号道路{UP_ARROW}卡\n"
+	.string "那兹市$"
 
 Route104_Text_PrettyPetalFlowShop:
 	.string "圣橙华花店$"
@@ -1063,8 +1063,8 @@ Route104_Text_PrettyPetalFlowShop:
 Route104_Text_TrainerTipsDoubleBattles:
 	.string "有用的公告牌！\p"
 	.string "在丰缘地区中，一些结伴的训练家会\n"
-	.string "向别人发起2对2的挑战，称作双打\l"
-	.string "对战。\p"
+	.string "向别人发起2对2的挑战，称作双打对\l"
+	.string "战。\p"
 	.string "在双打对战中，训练家要派出2只宝\n"
 	.string "可梦，即列表左边的和最上边的。一\l"
 	.string "定要注意宝可梦的排列顺序。$"
@@ -1087,8 +1087,8 @@ Route104_Text_MayHowsYourPokedex:
 	.string "何？$"
 
 Route104_Text_MayMinesDecentLetsBattle:
-	.string "我这边已经很充实了。所以……要不\n"
-	.string "要来场对战？$"
+	.string "我这边已经很充实了。所以……要不要\n"
+	.string "来场对战？$"
 
 Route104_Text_MayHaventRaisedPokemon:
 	.string "小遥：哎——为什么？\p"

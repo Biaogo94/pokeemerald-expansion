@@ -79,8 +79,7 @@ Route28_Text_Scientist:
 	.string "可梦实力很强，我的队伍需要休息一\l"
 	.string "下……\p"
 	.string "..................\p"
-	.string "听不清你在说什么……老大\n"
-	.string "......？\p"
+	.string "听不清你在说什么……老大......？\p"
 	.string "我要去一趟宝可梦中心。\p"
 	.string "等我找到笛子再打给您。$"
 

@@ -63,8 +63,8 @@ SilphCo_4F_Text_RodneyDefeat::
 
 SilphCo_4F_Text_RodneyPostBattle::
 	.string "这些门都是用电子锁锁定的。\p"
-	.string "看来需要一把卡片钥匙来打开这些门\n"
-	.string "。$"
+	.string "看来需要一把卡片钥匙来打开这些\n"
+	.string "门。$"
 
 SilphCo_4F_Text_Grunt2Intro::
 	.string "发现入侵者！$"

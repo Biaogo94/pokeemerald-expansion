@@ -422,13 +422,12 @@ MtPyre_Summit_EventScript_Grunt4::
 	end
 
 MtPyre_Summit_Text_Grunt1Intro:
-	.string "不！熔岩队的家伙们赶在我们前头了\n"
-	.string "！\p"
+	.string "不！熔岩队的家伙们赶在我们前头\n"
+	.string "了！\p"
 	.string "我们不能落后！$"
 
 MtPyre_Summit_Text_Grunt1Defeat:
-	.string "我还以为是熔岩队的人折回来找事…\n"
-	.string "…$"
+	.string "我还以为是熔岩队的人折回来找事……$"
 
 MtPyre_Summit_Text_Grunt1PostBattle:
 	.string "哼，算你厉害……可我们人多势众！$"
@@ -437,12 +436,11 @@ MtPyre_Summit_Text_Grunt2Intro:
 	.string "哈！你来得真不巧！\p"
 	.string "要是早点来，你只要对付熔岩队那群\n"
 	.string "软脚虾就行了！\p"
-	.string "但现在，你遇到的可是我们精英部队\n"
-	.string "！$"
+	.string "但现在，你遇到的可是我们精英部\n"
+	.string "队！$"
 
 MtPyre_Summit_Text_Grunt2Defeat:
-	.string "呃……我应该等你先对付熔岩队的…\n"
-	.string "…$"
+	.string "呃……我应该等你先对付熔岩队的……$"
 
 MtPyre_Summit_Text_Grunt2PostBattle:
 	.string "你明明什么也不知道！为什么总是要\n"
@@ -454,12 +452,12 @@ MtPyre_Summit_Text_Grunt3Intro:
 	.string "会在这里？$"
 
 MtPyre_Summit_Text_Grunt3Defeat:
-	.string "如果你想阻挠谁的话，找熔岩队去啊\n"
-	.string "……$"
+	.string "如果你想阻挠谁的话，找熔岩队去\n"
+	.string "啊……$"
 
 MtPyre_Summit_Text_Grunt3PostBattle:
-	.string "呵，无所谓！至少我们争取到了时间\n"
-	.string "！\p"
+	.string "呵，无所谓！至少我们争取到了时\n"
+	.string "间！\p"
 	.string "老大肯定已经拿到想要的东西了！$"
 
 MtPyre_Summit_Text_Grunt4Intro:
@@ -473,25 +471,25 @@ MtPyre_Summit_Text_Grunt4Defeat:
 	.string "以考虑考虑……$"
 
 MtPyre_Summit_Text_Grunt4PostBattle:
-	.string "老大和我们手下之间可是紧密相连的\n"
-	.string "。$"
+	.string "老大和我们手下之间可是紧密相连\n"
+	.string "的。$"
 
 MtPyre_Summit_Text_ArchieWeGotTheOrbLetsGo:
 	.string "水梧桐：虽然被熔岩队的赤焰松抢先\n"
-	.string "了一步，但我们想要的东西也到手了\l"
-	.string "！\p"
-	.string "在送神山上所供奉的朱红色宝珠……\n"
-	.string "如今已在我水梧桐手中！\p"
-	.string "呵呵呵……如今我们可以实现我们的\n"
-	.string "最终目标了！\p"
+	.string "了一步，但我们想要的东西也到手\l"
+	.string "了！\p"
+	.string "在送神山上所供奉的朱红色宝珠……如\n"
+	.string "今已在我水梧桐手中！\p"
+	.string "呵呵呵……如今我们可以实现我们的最\n"
+	.string "终目标了！\p"
 	.string "好了，伙计们！我们撤！$"
 
 MtPyre_Summit_Text_BothOrbsTakenMagmaLeftThis:
 	.string "不……怎么会这样……\p"
 	.string "不光是靛蓝色宝珠，连朱红色宝珠都\n"
 	.string "被抢走了……\p"
-	.string "靛蓝色宝珠和朱红色宝珠绝不能分离\n"
-	.string "。它们是一体的。\p"
+	.string "靛蓝色宝珠和朱红色宝珠绝不能分\n"
+	.string "离。它们是一体的。\p"
 	.string "那些人抢走两块宝珠想要干什么？\p"
 	.string "…… …… ……\n"
 	.string "…… …… ……\p"
@@ -522,24 +520,22 @@ MtPyre_Summit_Text_GroudonKyogreAwakened:
 MtPyre_Summit_Text_ThoseTwoMenReturnedOrbs:
 	.string "那两个抢走宝珠的人主动回来归还了\n"
 	.string "它们。\p"
-	.string "那两个人……或许终究并非那么邪恶\n"
-	.string "……$"
+	.string "那两个人……或许终究并非那么邪恶……$"
 
 MtPyre_Summit_Text_SuperAncientPokemonTaughtUs:
 	.string "大地，海洋，还有天空的化身……\p"
-	.string "据说这就是那些超古代宝可梦的身份\n"
-	.string "……\p"
-	.string "我们人类与宝可梦的生命都是一样的\n"
-	.string "，而我们的世界也拥有着生命……\p"
-	.string "超古代宝可梦是这么告诉过我们的…\n"
-	.string "…$"
+	.string "据说这就是那些超古代宝可梦的身\n"
+	.string "份……\p"
+	.string "我们人类与宝可梦的生命都是一样\n"
+	.string "的，而我们的世界也拥有着生命……\p"
+	.string "超古代宝可梦是这么告诉过我们的……$"
 
 MtPyre_Summit_Text_WillYouHearOutMyTale:
 	.string "送神山是逝去宝可梦们的灵魂安息的\n"
 	.string "地方……\p"
 	.string "在这里可以俯瞰整个丰缘地区……\p"
-	.string "宝可梦游离的灵魂必能在此得到安息\n"
-	.string "……\p"
+	.string "宝可梦游离的灵魂必能在此得到安\n"
+	.string "息……\p"
 	.string "你的到来会是巧合吗……\p"
 	.string "想听个故事吗？一个关于丰缘地区的\n"
 	.string "古老传说？$"
@@ -548,10 +544,8 @@ MtPyre_Summit_Text_GroudonKyogreTale:
 	.string "很久很久以前……\p"
 	.string "由于大地之宝可梦和海洋之宝可梦的\n"
 	.string "激烈冲突，世界陷入了混乱之中……\p"
-	.string "大地之宝可梦召唤高山，创造大陆…\n"
-	.string "…\p"
-	.string "海洋之宝可梦掀起巨浪，开辟海洋…\n"
-	.string "…\p"
+	.string "大地之宝可梦召唤高山，创造大陆……\p"
+	.string "海洋之宝可梦掀起巨浪，开辟海洋……\p"
 	.string "它们无休止的激战持续肆虐。\p"
 	.string "世界被无情的烈焰与残酷的风暴所吞\n"
 	.string "没。\p"
@@ -582,10 +576,8 @@ MtPyre_Summit_Text_HoennTrioTale:
 	.string "很久很久以前……\p"
 	.string "由于大地之宝可梦和海洋之宝可梦的\n"
 	.string "激烈冲突，世界陷入了混乱之中……\p"
-	.string "大地之宝可梦召唤高山，创造大陆…\n"
-	.string "…\p"
-	.string "海洋之宝可梦掀起巨浪，开辟海洋…\n"
-	.string "…\p"
+	.string "大地之宝可梦召唤高山，创造大陆……\p"
+	.string "海洋之宝可梦掀起巨浪，开辟海洋……\p"
 	.string "它们无休止的激战持续肆虐。\p"
 	.string "世界被无情的烈焰与残酷的风暴所吞\n"
 	.string "没。\p"

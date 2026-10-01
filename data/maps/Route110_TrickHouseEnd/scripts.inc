@@ -252,31 +252,31 @@ Route110_TrickHouseEnd_Text_YouveMadeItToMe:
 
 Route110_TrickHouseEnd_Text_AllNightToPlantTrees:
 	.string "我用了整整一个晚上种起那些树……\p"
-	.string "你几乎与我一样伟大，不过你还差一\n"
-	.string "、二、三、四、五、六个档次！$"
+	.string "你几乎与我一样伟大，不过你还差\n"
+	.string "一、二、三、四、五、六个档次！$"
 
 Route110_TrickHouseEnd_Text_AllNightToMakeMaze:
 	.string "我用了整整一个晚上造起迷宫……\p"
-	.string "你几乎与我一样伟大，不过你还差一\n"
-	.string "、二、三、四、五个档次！$"
+	.string "你几乎与我一样伟大，不过你还差\n"
+	.string "一、二、三、四、五个档次！$"
 
 Route110_TrickHouseEnd_Text_AllNightToPreparePanels:
 	.string "我用了整整一个晚上准备好墙上的隔\n"
 	.string "板……\p"
-	.string "你几乎与我一样伟大，不过你还差一\n"
-	.string "、二、三、四个档次！$"
+	.string "你几乎与我一样伟大，不过你还差\n"
+	.string "一、二、三、四个档次！$"
 
 Route110_TrickHouseEnd_Text_AllNightToShoveBoulders:
 	.string "我用了整整一个晚上把那些大石头推\n"
 	.string "到合适的地方……\p"
-	.string "你几乎与我一样伟大，不过你还差一\n"
-	.string "、二、三个档次！$"
+	.string "你几乎与我一样伟大，不过你还差\n"
+	.string "一、二、三个档次！$"
 
 Route110_TrickHouseEnd_Text_AllNightToMakeMechadolls:
 	.string "我用了整整一个晚上制造机械娃娃，\n"
 	.string "设计问题……\p"
-	.string "你几乎与我一样伟大，不过你还差一\n"
-	.string "、二个档次！$"
+	.string "你几乎与我一样伟大，不过你还差\n"
+	.string "一、二个档次！$"
 
 Route110_TrickHouseEnd_Text_AllNightToInstallDoors:
 	.string "我用了整整一个晚上装好那些门……\p"
@@ -291,8 +291,8 @@ Route110_TrickHouseEnd_Text_AllNightPolishingFloors:
 	.string "你比我还要伟大！也许……$"
 
 Route110_TrickHouseEnd_Text_FountainOfIdeasRunDry:
-	.string "我……我该怎么办？我对谜题的灵感\n"
-	.string "已经枯竭了……\p"
+	.string "我……我该怎么办？我对谜题的灵感已\n"
+	.string "经枯竭了……\p"
 	.string "也许我该去环游全国来寻找灵感……$"
 
 Route110_TrickHouseEnd_Text_DefeatedMePreferWhichTent:
@@ -304,8 +304,8 @@ Route110_TrickHouseEnd_Text_DefeatedMePreferWhichTent:
 	.string "作为拥有紧迫感的你和拥有天才的头\n"
 	.string "脑的我两个人之间友谊的证明，希望\l"
 	.string "你能收下这件纪念品！\p"
-	.string "其实，这里有两个——红色帐篷和蓝\n"
-	.string "色帐篷。你喜欢哪一个？$"
+	.string "其实，这里有两个——红色帐篷和蓝色\n"
+	.string "帐篷。你喜欢哪一个？$"
 
 Route110_TrickHouseEnd_Text_NoRoomInPC:
 	.string "什么？你的电脑里没有空间了？我该\n"
@@ -333,8 +333,8 @@ Route110_TrickHouseEnd_Text_NoRoomForThis:
 Route110_TrickHouseEnd_Text_MakeNewTricksToStumpYou:
 	.string "别把那种傻瓜似的笑挂在脸上！你要\n"
 	.string "胜利还早呢！\p"
-	.string "我还要设计新的谜题挑战你，我会的\n"
-	.string "！想嘲笑我，等你通过了再说吧！\p"
+	.string "我还要设计新的谜题挑战你，我会\n"
+	.string "的！想嘲笑我，等你通过了再说吧！\p"
 	.string "下次再来进行新的挑战吧！$"
 
 Route110_TrickHouseEnd_Text_YoureIgnoringMe:

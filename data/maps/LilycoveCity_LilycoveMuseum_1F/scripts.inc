@@ -165,8 +165,8 @@ LilycoveCity_LilycoveMuseum_1F_Text_WelcomeToLilycoveMuseum:
 
 LilycoveCity_LilycoveMuseum_1F_Text_ImCuratorHaveYouViewedOurPaintings:
 	.string "我是这个美术馆的馆长，\p"
-	.string "很高兴能在这里看到你这样的年轻人\n"
-	.string "。\p"
+	.string "很高兴能在这里看到你这样的年轻\n"
+	.string "人。\p"
 	.string "你看过我们的展品了吗？$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_NotDisturbYouTakeYourTime:
@@ -200,8 +200,8 @@ LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfLegendaryPokemon:
 	.string "是画家凭借想象画出来的。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfGrassPokemon:
-	.string "画着草属性宝可梦在微风中轻轻摇摆\n"
-	.string "。\p"
+	.string "画着草属性宝可梦在微风中轻轻摇\n"
+	.string "摆。\p"
 	.string "看上去它们非常喜欢轻风的抚摸。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBerries:
@@ -213,8 +213,8 @@ LilycoveCity_LilycoveMuseum_Text_BirdPokemonSculptureReplica:
 	.string "描绘了一只古代鸟类宝可梦。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_BigPokeBallCarvedFromStone:
-	.string "用一块黑色石头雕刻成的巨大精灵球\n"
-	.string "，\p"
+	.string "用一块黑色石头雕刻成的巨大精灵\n"
+	.string "球，\p"
 	.string "显然是过去节庆时使用的。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_StoneTabletWithAncientText:
@@ -259,8 +259,8 @@ LilycoveCity_LilycoveMuseum_1F_Text_AimToSeeGreatPaintings:
 
 LilycoveCity_LilycoveMuseum_1F_Text_MuseumTouristDestination:
 	.string "美术馆已经成为一个旅游景点，\p"
-	.string "这对水静市来说也是好消息……不，\n"
-	.string "是对整个丰缘地区都是好消息！\p"
-	.string "我听说——楼上的画全部属于同一个\n"
-	.string "训练家。$"
+	.string "这对水静市来说也是好消息……不，是\n"
+	.string "对整个丰缘地区都是好消息！\p"
+	.string "我听说——楼上的画全部属于同一个训\n"
+	.string "练家。$"
 

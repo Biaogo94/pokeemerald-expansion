@@ -9,5 +9,4 @@ BattleFrontier_ShowCaughtBannedSpeciesEnd:
 
 
 BattleFrontier_DoYouWantToSeeTheListOfCaughtBannedSpecies:
-	.string "要查看无法参加的\n"
-	.string "宝可梦名单吗？$"
+	.string "要查看无法参加的宝可梦名单吗？$"

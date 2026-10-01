@@ -71,8 +71,8 @@ BattleTowerOutsideYoungsterText:
 	.string "里面一定有各种各样的宝可梦吧！$"
 
 BattleTowerOutsideBeautyText:
-	.string "在对战帐篷里，只能使用3只宝可梦\n"
-	.string "。\p"
+	.string "在对战帐篷里，只能使用3只宝可\n"
+	.string "梦。\p"
 	.string "要决定派哪3只出场可真让人纠结啊\n"
 	.string "......$"
 
@@ -82,8 +82,8 @@ BattleTowerOutsideSailorText:
 	.string "我一定要连赢到底，必须的！$"
 
 BattleTowerOutsideSignText:
-	.string "{UP_ARROW} 训练家之丘\n"
-	.string " 入口\p"
+	.string "{UP_ARROW} 训练家之丘 \n"
+	.string "入口\p"
 	.string "“热血沸腾的训练家们啊，勇攀高峰\n"
 	.string "吧！”\p"
 	.string "{RIGHT_ARROW} 对战\n"
@@ -211,8 +211,8 @@ TrainerHill_Courtyard_ExchangeServiceCorner_Text_WelcomePleaseChoosePrize:
 
 TrainerHill_Courtyard_ExchangeServiceCorner_Text_WishIHadAllDolls:
 	.string "哇，它们太棒了！真想全部拥有！可\n"
-	.string "爱的靠垫！大毛绒玩偶！小毛绒玩偶\l"
-	.string "！真希望我能全部带回家！$"
+	.string "爱的靠垫！大毛绒玩偶！小毛绒玩\l"
+	.string "偶！真希望我能全部带回家！$"
 
 TrainerHill_Courtyard_ExchangeServiceCorner_Text_GetYouAnythingYouWant:
 	.string "包在妈妈身上！\p"
@@ -226,13 +226,13 @@ TrainerHill_Courtyard_ExchangeServiceCorner_Text_ItemsWillGetMonTougher:
 
 TrainerHill_Courtyard_ExchangeServiceCorner_Text_GoGetYourOwnDoll:
 	.string "哈？你发什么呆地看着我？\p"
-	.string "我很讨厌你那样盯着我的毛绒玩偶看\n"
-	.string "。\p"
+	.string "我很讨厌你那样盯着我的毛绒玩偶\n"
+	.string "看。\p"
 	.string "想要的话，自己去拿一个啊！对吧，\n"
 	.string "迷唇娃？$"
 
 TrainerHill_Courtyard_ExchangeServiceCorner_Text_MoreBattlePointsForRecord:
 	.string "你知道吗？\p"
-	.string "只要在任何对战设施里连胜延长纪录\n"
-	.string "，他们给你的对战点数就会越来越多\l"
-	.string "。$"
+	.string "只要在任何对战设施里连胜延长纪\n"
+	.string "录，他们给你的对战点数就会越来越\l"
+	.string "多。$"

@@ -81,16 +81,15 @@ Route9_Text_PicnickerEdnaSeen:
 	.string "大家都不应该把垃圾留在这里。$"
 
 Route9_Text_PicnickerEdnaBeaten:
-	.string "呜呜……我输了……\n"
-	.string ".$"
+	.string "呜呜……我输了…….$"
 
 Route9_Text_PicnickerEdnaAfter:
 	.string "节约能源固然重要，但保护环境更加\n"
 	.string "不可或缺。$"
 
 Route9_Text_HikerTimSeen:
-	.string "她翻过白银山走过来，当她走过来。\n"
-	.string ".....\p"
+	.string "她翻过白银山走过来，当她走过来"
+	.string "。.....\p"
 	.string "白银山是在城都对吧？$"
 
 Route9_Text_HikerTimBeaten:

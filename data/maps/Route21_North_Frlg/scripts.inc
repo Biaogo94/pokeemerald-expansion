@@ -15,8 +15,8 @@ Route21_North_Text_WadeIntro::
 	.string "我收服了好多好多！你想不想要呢？$"
 
 Route21_North_Text_WadeDefeat::
-	.string "呵呵，鲤鱼王不仅仅是以等级区分的\n"
-	.string "，懂吗？$"
+	.string "呵呵，鲤鱼王不仅仅是以等级区分\n"
+	.string "的，懂吗？$"
 
 Route21_North_Text_WadePostBattle::
 	.string "我只想抓鲤鱼王！$"

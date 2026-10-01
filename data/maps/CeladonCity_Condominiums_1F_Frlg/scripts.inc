@@ -80,8 +80,8 @@ CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
 	.string "你好哦，甜心。我的茶好喝吗？\p"
 	.string "对了亲爱的。你是不是从真新镇来的\n"
 	.string "吗？\p"
-	.string "一个从真新镇来的小女孩，叫奈奈美\n"
-	.string "，她每天都要喝茶。\p"
+	.string "一个从真新镇来的小女孩，叫奈奈\n"
+	.string "美，她每天都要喝茶。\p"
 	.string "她经常去玉虹百货大楼买茶叶。$"
 
 CeladonCity_Condominiums_1F_Text_Clefairy::

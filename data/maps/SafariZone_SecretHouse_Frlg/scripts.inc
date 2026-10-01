@@ -41,12 +41,12 @@ SafariZone_SecretHouse_Text_ExplainSurf::
 	.string "HM03是冲浪。\p"
 	.string "宝可梦能够使用它载着你在水面上前\n"
 	.string "进。\p"
-	.string "还有，这个HM不是一次性的，所以\n"
-	.string "你可以反复使用它。\p"
+	.string "还有，这个HM不是一次性的，所以你\n"
+	.string "可以反复使用它。\p"
 	.string "你非常幸运，赢得了这个令人难以置\n"
 	.string "信的奖品！$"
 
 SafariZone_SecretHouse_Text_DontHaveRoomForPrize::
-	.string "你没有空间来接受这份这巨大的奖品\n"
-	.string "！$"
+	.string "你没有空间来接受这份这巨大的奖\n"
+	.string "品！$"
 

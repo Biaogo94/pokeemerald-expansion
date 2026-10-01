@@ -638,8 +638,8 @@ BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreToFullHealth:
 	.string "我来帮您的宝可梦回复体力……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge:
-	.string "愿您享受接下来的选择式对战的挑战\n"
-	.string "……$"
+	.string "愿您享受接下来的选择式对战的挑\n"
+	.string "战……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreOneMon:
 	.string "哦，您是个幸运的人。我现在心情还\n"
@@ -708,13 +708,11 @@ BattleFrontier_BattlePikeRoomNormal_Text_ThatsEnough:
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForKirlia:
 	.string "我必须向你道歉……\p"
-	.string "我的奇鲁莉安\n"
-	.string "是胆小性格……$"
+	.string "我的奇鲁莉安是胆小性格……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForDusclops:
 	.string "我必须向你道歉……\p"
-	.string "我的夜巨人\n"
-	.string "是胆小性格……$"
+	.string "我的夜巨人是胆小性格……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_AttacksWhenStartled:
 	.string "一旦受到了惊吓就会无视警告胡乱攻\n"
@@ -722,8 +720,8 @@ BattleFrontier_BattlePikeRoomNormal_Text_AttacksWhenStartled:
 	.string "您和您的宝可梦还好吗？$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeHopeMonsAreFine:
-	.string "我为所发生的一切道歉……我希望您\n"
-	.string "的宝可梦没事。$"
+	.string "我为所发生的一切道歉……我希望您的\n"
+	.string "宝可梦没事。$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_Silence:
 	.string "... ... ... ... ... ...\n"
@@ -740,24 +738,24 @@ BattleFrontier_BattlePikeRoomNormal_Text_RestoreToFullHealth:
 	.string "梦回复体力…………$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge2:
-	.string "愿您享受接下来的选择式对战的挑战\n"
-	.string "……$"
+	.string "愿您享受接下来的选择式对战的挑\n"
+	.string "战……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ImThePikeQueen:
-	.string "我叫小蓟……我就是这里的法则……\n"
-	.string "因为我就是管道皇后……\p"
+	.string "我叫小蓟……我就是这里的法则……因为\n"
+	.string "我就是管道皇后……\p"
 	.string "你已经知道了吧，想要前进，你必须\n"
 	.string "击败我……\p"
-	.string "……我可不是个喜欢闲聊的人。快点\n"
-	.string "，来吧……$"
+	.string "……我可不是个喜欢闲聊的人。快点，\n"
+	.string "来吧……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_HopeYouDidntUseUpLuck:
-	.string "你的运气……我希望你没有在这里把\n"
-	.string "它用尽……$"
+	.string "你的运气……我希望你没有在这里把它\n"
+	.string "用尽……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyShowMeFrontierPass:
-	.string "小蓟：…… …… ……让我看看你\n"
-	.string "的开拓通行证……$"
+	.string "小蓟：…… …… ……让我看看你的开拓通\n"
+	.string "行证……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ReceivedLuckSymbol:
 	.string "运气象征被印在了开拓通行证上！$"
@@ -768,8 +766,8 @@ BattleFrontier_BattlePikeRoomNormal_Text_AllThereIsDisappear:
 BattleFrontier_BattlePikeRoomNormal_Text_LucyYouAgain:
 	.string "小蓟：……你又一次……\p"
 	.string "…… …… ……\p"
-	.string "……我脚踏花朵，历经暴雨才抵达了\n"
-	.string "我现在的位置……\p"
+	.string "……我脚踏花朵，历经暴雨才抵达了我\n"
+	.string "现在的位置……\p"
 	.string "我对我再次输给同样的对手可没什么\n"
 	.string "特殊兴致……\p"
 	.string "…… …… ……好……我来吧……$"
@@ -785,8 +783,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_LuckSymbolTookGoldenShine:
 	.string "运气象征闪耀着金色的光芒！$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_IWontForget:
-	.string "……你，我不会忘记的…………永远\n"
-	.string "……$"
+	.string "……你，我不会忘记的…………永远……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomNoHeal:
 	.string "欢迎您……\p"

@@ -220,24 +220,22 @@ EverGrandeCity_ChampionsRoom_Movement_BirchArrives:
 	step_end
 
 EverGrandeCity_ChampionsRoom_Text_IntroSpeech:
-	.string "米可利：欢迎，{PLAYER}{KUN}。\p"
-	.string "琉璃市的那起事件……\n"
-	.string "你独自一人平息了那场危机，\l"
-	.string "干得实在漂亮。\p"
+	.string "米可利：欢迎，{PLAYER}\n"
+	.string "{KUN}。\p"
+	.string "琉璃市的那起事件……你独自一人平息\n"
+	.string "了那场危机，干得实在漂亮。\p"
 	.string "哎呀！\p"
-	.string "说你一个人平息了危机，\n"
-	.string "这可不公平。\p"
-	.string "你是与宝可梦齐心协力，\n"
-	.string "才克服了那个艰难的局面。\p"
-	.string "我们训练家通过赠送道具、\n"
-	.string "传授新的对战技巧来培育宝可梦。\l"
-	.string "但我们自己也在宝可梦身上\n"
-	.string "学到许多东西。\p"
-	.string "而在这里，你的成就将与其他\n"
-	.string "志同道合者一较高下。\l"
-	.string "现在！\p"
-	.string "在丰缘地区，谁能与宝可梦\n"
-	.string "舞出最优雅的姿态？\p"
+	.string "说你一个人平息了危机，这可不公\n"
+	.string "平。\p"
+	.string "你是与宝可梦齐心协力，才克服了那\n"
+	.string "个艰难的局面。\p"
+	.string "我们训练家通过赠送道具、传授新的\n"
+	.string "对战技巧来培育宝可梦。但我们自己\l"
+	.string "也在宝可梦身上学到许多东西。\p"
+	.string "而在这里，你的成就将与其他志同道\n"
+	.string "合者一较高下。现在！\p"
+	.string "在丰缘地区，谁能与宝可梦舞出最优\n"
+	.string "雅的姿态？\p"
 	.string "现在就在这里展示给我看吧！$"
 
 EverGrandeCity_ChampionsRoom_Text_Defeat:
@@ -255,19 +253,19 @@ EverGrandeCity_ChampionsRoom_Text_PostBattleSpeech:
 	.string "染所得的，轻盈而坚定的优雅。\p"
 	.string "甚至连我都为你出色的表现而深深地\n"
 	.string "着迷！\p"
-	.string "此刻你已站上宝可梦联盟光荣的顶峰\n"
-	.string "，\p"
+	.string "此刻你已站上宝可梦联盟光荣的顶\n"
+	.string "峰，\p"
 	.string "我宣布你已成为丰缘地区的新……$"
 
 EverGrandeCity_ChampionsRoom_Text_MayAdvice:
-	.string "小遥：{PLAYER}{KUN}\n"
-	.string "！\p"
+	.string "小遥：{PLAYER}\n"
+	.string "{KUN}！\p"
 	.string "挑战冠军前给你几个建议……$"
 
 EverGrandeCity_ChampionsRoom_Text_MayItsAlreadyOver:
 	.string "小遥：咦？什么？\p"
-	.string "{PLAYER}{KUN}……难\n"
-	.string "道说……已经结束了？$"
+	.string "{PLAYER}{KUN}……难道\n"
+	.string "说……已经结束了？$"
 
 EverGrandeCity_ChampionsRoom_Text_BrendanAdvice:
 	.string "小悠：{PLAYER}！\p"
@@ -282,9 +280,8 @@ EverGrandeCity_ChampionsRoom_Text_BirchArriveRatePokedex:
 	.string "{RIVAL}？\p"
 	.string "早就告诉你{PLAYER}\n"
 	.string "{KUN}不用我们担心！\p"
-	.string "…… …… …… ……\n"
-	.string "{PLAYER}{KUN}，你终\l"
-	.string "于做到了。\p"
+	.string "…… …… …… ……{PLAYER}\n"
+	.string "{KUN}，你终于做到了。\p"
 	.string "当我听说你在橙华道馆打败了你的父\n"
 	.string "亲，我就预感你可能有机会……\p"
 	.string "但是没想到你现在真的成为了冠军！\p"
@@ -294,8 +291,8 @@ EverGrandeCity_ChampionsRoom_Text_BirchArriveRatePokedex:
 
 EverGrandeCity_ChampionsRoom_Text_BirchCongratulations:
 	.string "小田卷博士：总之恭喜你！\p"
-	.string "现在，昂首挺胸地走进最后的房间吧\n"
-	.string "！$"
+	.string "现在，昂首挺胸地走进最后的房间\n"
+	.string "吧！$"
 
 EverGrandeCity_ChampionsRoom_Text_WallaceComeWithMe:
 	.string "米可利：{PLAYER}\n"
@@ -308,21 +305,21 @@ EverGrandeCity_ChampionsRoom_Text_WallaceWaitOutside:
 	.string "米可利：我很抱歉，不过……\p"
 	.string "从这里开始，只有成为冠军的训练家\n"
 	.string "才能进入。\p"
-	.string "请你和小田卷博士一起在外面等候吧\n"
-	.string "。$"
+	.string "请你和小田卷博士一起在外面等候\n"
+	.string "吧。$"
 
 EverGrandeCity_ChampionsRoom_Text_MayCongratulations:
 	.string "小遥：哎……\p"
 	.string "…… …… …… ……\n"
 	.string "…… …… …… ……\p"
-	.string "我开玩笑啦！没关系！毕竟是规定嘛\n"
-	.string "！\p"
+	.string "我开玩笑啦！没关系！毕竟是规定\n"
+	.string "嘛！\p"
 	.string "{PLAYER}{KUN}！真的\n"
 	.string "恭喜你！$"
 
 EverGrandeCity_ChampionsRoom_Text_BrendanCongratulations:
-	.string "小悠：什么？！…… …… ………\n"
-	.string "… …… …… ……\p"
+	.string "小悠：什么？！…… …… ………… …… …… \n"
+	.string "……\p"
 	.string "既然是规定，那也没办法。\p"
 	.string "{PLAYER}，去吧！恭喜你！$"
 

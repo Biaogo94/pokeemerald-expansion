@@ -31,8 +31,8 @@ Route114_FossilManiacsHouse_EventScript_Bookshelf::
 	end
 
 Route114_FossilManiacsHouse_Text_HaveThisToDigLikeMyBrother:
-	.string "我哥哥是化石迷……他是喜欢化石的\n"
-	.string "好人……\p"
+	.string "我哥哥是化石迷……他是喜欢化石的好\n"
+	.string "人……\p"
 	.string "他也喜欢挖洞……这个洞是他自己挖\n"
 	.string "的……\p"
 	.string "给你这个，你也可以挖洞就像我哥哥\n"
@@ -46,7 +46,7 @@ Route114_FossilManiacsHouse_Text_RocksFillDisplayCase:
 	.string "不同形状的石头在这里展示……$"
 
 Route114_FossilManiacsHouse_Text_CrammedWithBooks:
-	.string "地层的组成……雨后大陆的形状……\n"
-	.string "石头，土壤，还有岩石是怎样的……\p"
+	.string "地层的组成……雨后大陆的形状……石\n"
+	.string "头，土壤，还有岩石是怎样的……\p"
 	.string "这些全塞满了书。$"
 

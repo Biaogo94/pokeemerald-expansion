@@ -327,8 +327,7 @@ VermilionCity_Text_Teacher:
 
 VermilionCity_Text_MachopOwner:
 	.string "我的宝可梦正在整备土地准备施工。\p"
-	.string "但我根本没钱启动这个工程……\n"
-	.string "..$"
+	.string "但我根本没钱启动这个工程……..$"
 
 VermilionCity_Text_Machop1:
 	.string "腕力：果哦！果果果！$"
@@ -339,12 +338,11 @@ VermilionCity_Text_Machop2:
 
 VermilionCity_Text_SuperNerd:
 	.string "关都一共有8座道馆。\p"
-	.string "那栋大建筑就是枯叶市的宝可梦道馆\n"
-	.string "。$"
+	.string "那栋大建筑就是枯叶市的宝可梦道\n"
+	.string "馆。$"
 
 VermilionCity_Text_SnorlaxSleeping:
-	.string "卡比兽正香甜地打着呼噜……\n"
-	.string ".$"
+	.string "卡比兽正香甜地打着呼噜…….$"
 
 VermilionCity_Text_RadioNearSnorlax:
 	.string "把宝可梦齿轮放到了睡着的卡比兽身\n"
@@ -497,8 +495,8 @@ VermilionCity_Text_StevenIntro:
 	.string "你好！我叫大吾。是来自丰缘地区的\n"
 	.string "冠军。\p"
 	.string "我们以前……见过面吗？\p"
-	.string "不可能吧。不过跟我对战过的训练家\n"
-	.string "，眼神看起来都差不多。\p"
+	.string "不可能吧。不过跟我对战过的训练\n"
+	.string "家，眼神看起来都差不多。\p"
 	.string "尤其是那些曾与我展开过恶战的训练\n"
 	.string "家。\p"
 	.string "我来关都是为了公事。最近有很多丰\n"
@@ -511,8 +509,8 @@ VermilionCity_Text_StevenIntro:
 	.string "请你多加留意，尽量收服遇见的丰缘\n"
 	.string "宝可梦。\p"
 	.string "甚至有训练家报告称，看到一只像喷\n"
-	.string "气机一样在空中翱翔的宝可梦...\l"
-	.string "...那家伙到底是什么颜色来着？$"
+	.string "气机一样在空中翱翔的宝可梦......\l"
+	.string "那家伙到底是什么颜色来着？$"
 
 VermilionCity_Text_StevenOutro:
 	.string "啊，对了。\p"
@@ -567,12 +565,12 @@ VermilionCity_Movement_SamsonLeave:
 VermilionCity_Text_Samson:
 	.string "哇啊！\p"
 	.string "抱歉啊小朋友，我赶时间！\p"
-	.string "13号道路前往群岛的渡轮马上就要\n"
-	.string "开了，我必须赶上它才行！\p"
+	.string "13号道路前往群岛的渡轮马上就要开\n"
+	.string "了，我必须赶上它才行！\p"
 	.string "呼……呼……\p"
 	.string "我可是一路从月见山跑过来的。\p"
 	.string "看到这个小玩意儿了吗？\p"
-	.string "我是在礼品店买到这个奇妙纪念物的\n"
-	.string "。\p"
+	.string "我是在礼品店买到这个奇妙纪念物\n"
+	.string "的。\p"
 	.string "这可是我去群岛的凭证。\p"
 	.string "好啦，回头见！$"

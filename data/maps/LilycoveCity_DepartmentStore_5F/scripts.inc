@@ -155,5 +155,5 @@ LilycoveCity_DepartmentStore_5F_Text_SellManyCuteMatsHere:
 	.string "我该买哪个？也许可以都买下来……$"
 
 LilycoveCity_DepartmentStore_5F_Text_ClosedRooftopForWeather:
-	.string "我想他们因为天气异常而关闭了顶楼\n"
-	.string "。$"
+	.string "我想他们因为天气异常而关闭了顶\n"
+	.string "楼。$"

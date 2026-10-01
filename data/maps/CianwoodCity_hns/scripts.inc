@@ -91,8 +91,8 @@ CianwoodCity_EventScript_ChucksWifeAlreadyHasFly::
 CianwoodCity_Text_ChucksWifeEasierToFly:
 	.string "你是一路渡海过来的吗？\p"
 	.string "那可真不容易啊。\p"
-	.string "要是你的宝可梦学会“飞翔”的话，\n"
-	.string "就会轻松得多了……$"
+	.string "要是你的宝可梦学会“飞翔”的话，就\n"
+	.string "会轻松得多了……$"
 
 CianwoodCity_Text_ChucksWifeBeatChuck:
 	.string "不过要是没有这个城市的道馆徽章，\n"
@@ -124,8 +124,8 @@ CianwoodCity_EventScript_Youngster::
 	end
 
 CianwoodCity_Text_Youngster:
-	.string "如果使用“飞翔”，就能瞬间回到浅\n"
-	.string "黄市了。$"
+	.string "如果使用“飞翔”，就能瞬间回到浅黄\n"
+	.string "市了。$"
 
 CianwoodCity_EventScript_PokefanM::
 	lock
@@ -138,8 +138,8 @@ CianwoodCity_EventScript_PokefanM::
 CianwoodCity_Text_PokefanM:
 	.string "小镇北边的岩石是可以打碎的。\p"
 	.string "里面可能藏着什么东西呢。\p"
-	.string "让你的宝可梦使用“碎岩”就能把它\n"
-	.string "们击碎。$"
+	.string "让你的宝可梦使用“碎岩”就能把它们\n"
+	.string "击碎。$"
 
 CianwoodCity_EventScript_Lass::
 	lock
@@ -277,8 +277,7 @@ CianwoodCity_Text_EusineSuicune:
 	.string "在城镇与道路上以惊人的速度疾驰而\n"
 	.string "去。\p"
 	.string "真是太美妙了……\p"
-	.string "好想近距离看一眼水君啊……\n"
-	.string "..\p"
+	.string "好想近距离看一眼水君啊……..\p"
 	.string "我决定了。\p"
 	.string "为了赢得水君的认可，我要以训练家\n"
 	.string "的身份与你对战！\p"

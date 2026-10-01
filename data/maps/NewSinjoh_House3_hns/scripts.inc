@@ -34,8 +34,7 @@ NewSinjoh_HauntedHouse_EventScript_TooEarly::
     end
 
 NewSinjoh_HauntedHouse_Text_TooEarlyNoReaction:
-    .string "你感觉到了一股奇异的气息……\n"
-    .string "..\p"
+    .string "你感觉到了一股奇异的气息……..\p"
     .string "但并没有任何反应。$"
 
 NewSinjoh_HauntedHouse_EventScript_StartScary::
@@ -135,8 +134,7 @@ NewSinjoh_House3_Movement_CameraPanRight:
     step_end
 
 NewSinjoh_HauntedHouse_Text_StartScary:
-    .string "你感觉到了一股奇异的气息……\n"
-    .string "..\p"
+    .string "你感觉到了一股奇异的气息……..\p"
     .string "似乎有谁正在注视着你？$"
 
 NewSinjoh_HauntedHouse_EventScript_Log1::
@@ -152,8 +150,7 @@ NewSinjoh_HauntedHouse_EventScript_Log3::
     end
 
 NewSinjoh_HauntedHouse_Text_Log1:
-  	.string "调查日志 9：1975年9月20\n"
-  	.string "日\p"
+	.string "调查日志 9：1975年9月20日\p"
   	.string "白昼越来越短了，寒风也愈发刺骨。\p"
   	.string "村民们非常热情好客。\p"
   	.string "他们允许我整个冬天都暂住在这间小\n"
@@ -164,26 +161,23 @@ NewSinjoh_HauntedHouse_Text_Log1:
   	.string "他们身边了。$"
 
 NewSinjoh_HauntedHouse_Text_Log2:
-    .string "调查日志 10：1975年10月\n"
-    .string "20日\p"
+    .string "调查日志 10：1975年10月20日\p"
     .string "我的心思变得愈发阴暗沉重。\p"
     .string "也许是因为换季的缘故吧。\p"
     .string "村民们依旧待我如家人一般。\p"
     .string "但我心中的负罪感，让我无法坦然接\n"
     .string "受这份善意。\p"
     .string "我现在几乎不出小屋的门了。\p"
-    .string "而每当我想起家人时……他\n"
-    .string "们的面容竟渐渐变了样……\l"
-    .string "我脑海中浮现的，只有在遗迹中丧命\l"
-    .string "的那些宝可梦的面孔……\p"
+    .string "而每当我想起家人时……他们的面容竟\n"
+    .string "渐渐变了样……我脑海中浮现的，只有\l"
+    .string "在遗迹中丧命的那些宝可梦的面孔……\p"
     .string "有时我甚至觉得，那些宝可梦就在我\n"
     .string "身边。我在倒影中看到它们，感受到\l"
     .string "它们的注视。\p"
     .string "等到春天，一切都会好起来的。$"
 
 NewSinjoh_HauntedHouse_Text_Log3:
-    .string "调查日志 10：1975年11月\n"
-    .string "1日\p"
+    .string "调查日志 10：1975年11月1日\p"
     .string "我在这里并不是孤身一人。或许从来\n"
     .string "都不是。\p"
     .string "那些宝可梦就在我身边……\p"
@@ -194,10 +188,9 @@ NewSinjoh_HauntedHouse_Text_Log3:
     .string "以离开。\p"
     .string "可如今的我已一无所有。\p"
     .string "我之前写过家人，但我唯一能记起的\n"
-    .string "家人，却只有那些宝可梦……\l"
-    .string ".\p"
+    .string "家人，却只有那些宝可梦…….\p"
     .string "食物快吃完了，但愧疚感彻底盖过了\n"
     .string "饥饿。\p"
-    .string "我想，我还是在这里多待一阵子吧。\n"
-    .string ".....$"
+    .string "我想，我还是在这里多待一阵子吧"
+    .string "。.....$"
   

@@ -59,16 +59,14 @@ CeladonCity_House1_Text_ChefEatathon:
 	.string "目前无法为您提供服务，非常抱歉。$"
 
 CeladonCity_House1_Text_Fisher1Snarfle:
-	.string "……呼噜，嚼嚼……\n"
-	.string ".$"
+	.string "……呼噜，嚼嚼…….$"
 
 CeladonCity_House1_Text_Fisher1Concentration:
 	.string "别跟我说话！\p"
 	.string "会让我分心的！$"
 
 CeladonCity_House1_Text_Fisher2GulpChew:
-	.string "……咕嘟……嚼嚼\n"
-	.string "......$"
+	.string "……咕嘟……嚼嚼......$"
 
 CeladonCity_House1_Text_Fisher2Quantity:
 	.string "比起品质，我更看重分量！\p"

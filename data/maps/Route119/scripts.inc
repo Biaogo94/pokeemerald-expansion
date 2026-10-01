@@ -476,17 +476,18 @@ Route119_EventScript_ScottWonAtFortreeGymCall::
 	end
 
 Route119_Text_MayIntro:
-	.string "小遥：{PLAYER}{KUN}\n"
-	.string "！你去哪儿了？我找你很久了！\p"
+	.string "小遥：{PLAYER}\n"
+	.string "{KUN}！你去哪儿了？我找你很\l"
+	.string "久了！\p"
 	.string "让我来看看你变强了多少！\p"
-	.string "准备好宝可梦了吗？你肯定没问题的\n"
-	.string "，接招吧！$"
+	.string "准备好宝可梦了吗？你肯定没问题\n"
+	.string "的，接招吧！$"
 
 Route119_Text_MayDefeat:
 	.string "呜哇！{PLAYER}{KUN}\n"
 	.string "变得好强！\p"
-	.string "我之前还担心你会不会训练得不够呢\n"
-	.string "。$"
+	.string "我之前还担心你会不会训练得不够\n"
+	.string "呢。$"
 
 Route119_Text_MayPresentForYou:
 	.string "小遥：看来完全不用担心嘛！保持这\n"
@@ -527,12 +528,12 @@ Route119_Text_BrendanExplainFly:
 Route119_Text_ScottWayToGoBeSeeingYou:
 	.string "亚希达：哈哈哈哈！干得漂亮，\n"
 	.string "{PLAYER}{KUN}！\p"
-	.string "我刚刚遇到了个骑着自行车的训练家\n"
-	.string "。\p"
+	.string "我刚刚遇到了个骑着自行车的训练\n"
+	.string "家。\p"
 	.string "你刚刚打败了那个训练家对吧？不用\n"
 	.string "想都知道是你。\p"
-	.string "那孩子气得脸红红的，好像很不甘心\n"
-	.string "。\p"
+	.string "那孩子气得脸红红的，好像很不甘\n"
+	.string "心。\p"
 	.string "我们看起来很有缘呢。你现在要去茵\n"
 	.string "郁市道馆是吗？\p"
 	.string "相信你一定会表现出色。好了，回头\n"
@@ -540,18 +541,16 @@ Route119_Text_ScottWayToGoBeSeeingYou:
 
 
 Route119_Text_ScottYouWonAtFortreeGym:
-	.string "…… …… ………… …… ……\n"
-	.string "哔！\p"
+	.string "…… …… ………… …… ……哔！\p"
 	.string "亚希达：嗨，{PLAYER}\n"
 	.string "{KUN}，是我！\p"
-	.string "你果然如我所料，赢下了茵郁市道馆\n"
-	.string "。\p"
-	.string "你的实力……或许正是我一直在找的\n"
-	.string "训练家。\p"
+	.string "你果然如我所料，赢下了茵郁市道\n"
+	.string "馆。\p"
+	.string "你的实力……或许正是我一直在找的训\n"
+	.string "练家。\p"
 	.string "记住我是你的头号粉丝，我会一直默\n"
 	.string "默为你加油的。继续加油！\p"
-	.string "…… …… ………… …… ……\n"
-	.string "咔哒！$"
+	.string "…… …… ………… …… ……咔哒！$"
 
 Route119_Text_StayAwayFromWeatherInstitute:
 	.string "我们在这里放哨。\p"
@@ -587,7 +586,7 @@ Route119_Text_WeatherInstitute:
 
 Route119_Text_TrainerTipsDecoration:
 	.string "有用的公告牌！\p"
-	.string "秘密基地里面最多只能放16个装饰\n"
-	.string "物品和家具。\p"
+	.string "秘密基地里面最多只能放16个装饰物\n"
+	.string "品和家具。\p"
 	.string "用你最喜欢的物品装扮出你自己的秘\n"
 	.string "密基地吧。$"

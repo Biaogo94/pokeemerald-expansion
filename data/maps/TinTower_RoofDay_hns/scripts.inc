@@ -286,8 +286,8 @@ TinTower_RoofDay_EventScript_KuniAfter::
 	end
 
 TinTower_RoofDay_Text_Kimono_AfterNotCaught:
-	.string "你不仅唤来了凤王，甚至还击败了它\n"
-	.string "......\p"
+	.string "你不仅唤来了凤王，甚至还击败了\n"
+	.string "它......\p"
 	.string "我们已经没有什么好嘱咐的了。旅途\n"
 	.string "中请多保重……$"
 
@@ -571,8 +571,7 @@ TinTower_RoofDay_Text_Kimono_Opening::
 TinTower_RoofDay_Text_Kimono_Closing1::
 	.string "那的确是凤王……自\p"
 	.string "古以来守护天空的宝可梦……\p"
-	.string "无数人反复尝试，却始终无缘相见\n"
-	.string "……\p"
+	.string "无数人反复尝试，却始终无缘相见……\p"
 	.string "{PLAYER}，你的心与透明铃\n"
 	.string "铛完全共鸣，终于\p"
 	.string "让它现身……{PLAYER}，你\n"

@@ -372,8 +372,9 @@ OldaleTown_Text_FinishedSketchingFootprints:
 	.string "但怎么看都是我自己的脚印……$"
 
 OldaleTown_Text_MayLetsGoBack:
-	.string "小遥：{PLAYER}{KUN}\n"
-	.string "！来这边！我们快回去吧！$"
+	.string "小遥：{PLAYER}\n"
+	.string "{KUN}！来这边！我们快回去\l"
+	.string "吧！$"
 
 OldaleTown_Text_BrendanLetsGoBack:
 	.string "小悠：我要先回爸爸的研究所了，\n"

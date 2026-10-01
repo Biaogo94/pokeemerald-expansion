@@ -552,10 +552,10 @@ Route25_BillsHouse_Text_GrampsZigzagoon:
 	.string "家伙呢。$"
 
 Route25_BillsHouse_Text_GrampsPonyta:
-	.string "你知道一种长着火焰鬃毛的宝可梦吗\n"
-	.string "？\p"
-	.string "听说它跑起来比大多数列车还要快呢\n"
-	.string "。$"
+	.string "你知道一种长着火焰鬃毛的宝可梦\n"
+	.string "吗？\p"
+	.string "听说它跑起来比大多数列车还要快\n"
+	.string "呢。$"
 
 Route25_BillsHouse_Text_GrampsFarfetchd:
 	.string "正辉跟我提过一种总是拿着一根大葱\n"
@@ -565,13 +565,13 @@ Route25_BillsHouse_Text_GrampsFarfetchd:
 Route25_BillsHouse_Text_GrampsSlowpoke:
 	.string "你知道那种总是呆呆地发愣的宝可梦\n"
 	.string "吗？\p"
-	.string "听说它的尾巴经常在黑市上被贩卖呢\n"
-	.string "。$"
+	.string "听说它的尾巴经常在黑市上被贩卖\n"
+	.string "呢。$"
 
 Route25_BillsHouse_Text_TeleporterUnlocked:
 	.string "哦，还有一件事！\p"
-	.string "正辉的传送机，就是那边那个大机器\n"
-	.string "。\p"
+	.string "正辉的传送机，就是那边那个大机\n"
+	.string "器。\p"
 	.string "他其实一直没能把它彻底搞好。\p"
 	.string "不过它对宝可梦好像会有些奇妙的作\n"
 	.string "用。\p"
@@ -586,8 +586,7 @@ Route25_BillsHouse_Text_ExcitedToSee:
 	.string "你愿意给我看吗？那真是太好了！$"
 
 Route25_BillsHouse_Text_YouDontHaveIt:
-	.string "你身上没有吗？那可真遗憾……\n"
-	.string "..$"
+	.string "你身上没有吗？那可真遗憾……..$"
 
 Route25_BillsHouse_Text_ShownPokemon:
 	.string "啊，这就是{STR_VAR_1}\n"
@@ -602,8 +601,8 @@ Route25_BillsHouse_Text_ComeAgain:
 	.string "有空再来玩啊。$"
 
 Route25_BillsHouse_Text_ShownAll:
-	.string "谢谢你给我看了这么多可爱的宝可梦\n"
-	.string "。\p"
+	.string "谢谢你给我看了这么多可爱的宝可\n"
+	.string "梦。\p"
 	.string "我真的很开心。活了这么大把年纪，\n"
 	.string "真是一件幸事啊。\p"
 	.string "传送机你想用的时候随时都可以用。$"

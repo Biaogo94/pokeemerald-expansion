@@ -601,10 +601,10 @@ OneIsland_PokemonCenter_1F_Text_CelioPCsCantLinkWithYours::
 	.string "岛上的电脑跟你的电脑 连接不上。$"
 
 OneIsland_PokemonCenter_1F_Text_BillLetMeHelpYou::
-	.string "正辉：喔，这样？好吧，让我看看吧\n"
-	.string "。\p"
-	.string "……等下……我想我们能把它弄好。\n"
-	.string "让我来帮忙，好吗？$"
+	.string "正辉：喔，这样？好吧，让我看看\n"
+	.string "吧。\p"
+	.string "……等下……我想我们能把它弄好。让我\n"
+	.string "来帮忙，好吗？$"
 
 OneIsland_PokemonCenter_1F_Text_CanYouDeliverThisMeteoritePlayer::
 	.string "{PLAYER}，你可以在这里等\n"
@@ -615,8 +615,8 @@ OneIsland_PokemonCenter_1F_Text_CanYouDeliverThisMeteoritePlayer::
 	.string "他有很多珍贵的石头和宝石。\p"
 	.string "作为共同的研究狂，我们一直保持着\n"
 	.string "联系，哈哈。\p"
-	.string "所以，能请你帮我把这陨石交给他吗\n"
-	.string "？$"
+	.string "所以，能请你帮我把这陨石交给他\n"
+	.string "吗？$"
 
 OneIsland_PokemonCenter_1F_Text_AcceptedMeteoriteFromBill::
 	.string "{PLAYER}从正辉手上接过陨\n"
@@ -662,12 +662,12 @@ OneIsland_PokemonCenter_1F_Text_UsualPCServicesUnavailable::
 	.string "电脑服务现在不能使用……$"
 
 OneIsland_PokemonCenter_1F_Text_BillOhHeyPlayer::
-	.string "正辉：噢，这边！{PLAYER}\n"
-	.string "！$"
+	.string "正辉：噢，这边！\n"
+	.string "{PLAYER}！$"
 
 OneIsland_PokemonCenter_1F_Text_BillWeGotItDone::
-	.string "正辉：这儿有什么使你陶醉的东西吗\n"
-	.string "？还是已经感觉腻了吗？\p"
+	.string "正辉：这儿有什么使你陶醉的东西\n"
+	.string "吗？还是已经感觉腻了吗？\p"
 	.string "这边的事都处理好了。这些电脑都能\n"
 	.string "正常运作了！$"
 
@@ -696,8 +696,8 @@ OneIsland_PokemonCenter_1F_Text_CelioPromiseIllShowYouAroundSometime::
 	.string "这些岛上逛逛。$"
 
 OneIsland_PokemonCenter_1F_Text_CelioImModifyingMyNetworkMachine::
-	.string "锦辉：你好！你看来跟平时一样的忙\n"
-	.string "。\p"
+	.string "锦辉：你好！你看来跟平时一样的\n"
+	.string "忙。\p"
 	.string "我？\p"
 	.string "嗯，我最近在调整我的网络服务器。\p"
 	.string "我弄好了之后，我希望你是第一个试\n"
@@ -711,8 +711,8 @@ OneIsland_PokemonCenter_1F_Text_CelioCaughtMoreMonMaybeICanBeUseful::
 
 OneIsland_PokemonCenter_1F_Text_YoullBeTradingFromTrainersFarAway::
 	.string "我正在调整 我的网络服务器。\p"
-	.string "我正在把它设定成可以远距离的传送\n"
-	.string "。\p"
+	.string "我正在把它设定成可以远距离的传\n"
+	.string "送。\p"
 	.string "我完成后，你可以跟远方的训练家 \n"
 	.string "交换宝可梦。$"
 
@@ -727,8 +727,8 @@ OneIsland_PokemonCenter_1F_Text_NeedsSpecialGemstone::
 OneIsland_PokemonCenter_1F_Text_TryingToFindGem::
 	.string "我甚至在读书的时候 也一直试着找\n"
 	.string "到它。\p"
-	.string "结果，我不能兼顾好研究和读书的事\n"
-	.string "……\p"
+	.string "结果，我不能兼顾好研究和读书的\n"
+	.string "事……\p"
 	.string "如果我找正辉的话，我相信研究一定\n"
 	.string "会很顺利。\p"
 	.string "不过，这次我想靠自己来完成。$"
@@ -747,8 +747,8 @@ OneIsland_PokemonCenter_1F_Text_MayIAskOneMoreFavor::
 	.string "嗯……我可以请你帮我另一个忙吗？$"
 
 OneIsland_PokemonCenter_1F_Text_PleaseINeedYourHelp::
-	.string "这……这不是什么奇怪的事，请你一\n"
-	.string "定要帮我，拜托了。$"
+	.string "这……这不是什么奇怪的事，请你一定\n"
+	.string "要帮我，拜托了。$"
 
 OneIsland_PokemonCenter_1F_Text_AnotherGemstoneInSeviiIslands::
 	.string "当我研究宝石时，我发现了很重要的\n"
@@ -762,8 +762,8 @@ OneIsland_PokemonCenter_1F_Text_AnotherGemstoneInSeviiIslands::
 	.string "渡轮票跟城镇地图吗$"
 
 OneIsland_PokemonCenter_1F_Text_ReturnedTriPassForRainbowPass::
-	.string "{PLAYER}归还了三岛通行证\n"
-	.string "，并得到了彩虹通行证。$"
+	.string "{PLAYER}归还了三岛通行\n"
+	.string "证，并得到了彩虹通行证。$"
 
 OneIsland_PokemonCenter_1F_Text_ObtainedExtraMapPage::
 	.string "得到了城镇地图的补充页！$"
@@ -775,16 +775,16 @@ OneIsland_PokemonCenter_1F_Text_PassLetYouGetToAllIslands::
 	.string "你我什么都做不到。$"
 
 OneIsland_PokemonCenter_1F_Text_HandedSapphireToCelio::
-	.string "{PLAYER}把蓝宝石交给锦辉\n"
-	.string "。$"
+	.string "{PLAYER}把蓝宝石交给锦\n"
+	.string "辉。$"
 
 OneIsland_PokemonCenter_1F_Text_ThankYouGiveMeTime::
 	.string "锦辉：那么这就是能跟红宝石凑成一\n"
 	.string "对的宝石……\p"
 	.string "{PLAYER}，你为此付出了很\n"
 	.string "多努力，对吧？\p"
-	.string "你不用告诉我。我知道这一定不简单\n"
-	.string "。\p"
+	.string "你不用告诉我。我知道这一定不简\n"
+	.string "单。\p"
 	.string "非常的感谢你！\p"
 	.string "现在是我回报你的时候了！请给我一\n"
 	.string "点时间。$"
@@ -800,8 +800,8 @@ OneIsland_PokemonCenter_1F_Text_ManagedToLinkWithHoennThankYou::
 	.string "{PLAYER}，我做到了！\p"
 	.string "我成功跟丰缘的训练家联系上了！\p"
 	.string "终于，这个服务器可以正常运作了！\p"
-	.string "{PLAYER}，这都是因为有你\n"
-	.string "！\p"
+	.string "{PLAYER}，这都是因为有\n"
+	.string "你！\p"
 	.string "感谢你，我的梦想终于成真了……$"
 
 OneIsland_PokemonCenter_1F_Text_WishYouBestOfLuck::
@@ -821,8 +821,8 @@ OneIsland_PokemonCenter_1F_Text_BillsFirstMonWasAbra::
 	.string "宝可梦？\p"
 	.string "正辉是个怪兽狂，所以他每一种都喜\n"
 	.string "欢。\p"
-	.string "不过，听说他的第一只宝可梦是凯西\n"
-	.string "。$"
+	.string "不过，听说他的第一只宝可梦是凯\n"
+	.string "西。$"
 
 OneIsland_PokemonCenter_1F_Text_BillsHometownInGoldenrod::
 	.string "说起来，{PLAYER}，你是从\n"

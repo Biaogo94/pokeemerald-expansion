@@ -224,11 +224,11 @@ LilycoveCity_LilycoveMuseum_2F_Text_ThisIsExhibitHall:
 LilycoveCity_LilycoveMuseum_2F_Text_ExplainExhibitHall:
 	.string "正如你所见，现在这里一幅展出的画\n"
 	.string "也没有。\p"
-	.string "我不想在这里展出所谓的古典艺术品\n"
-	.string "，\p"
+	.string "我不想在这里展出所谓的古典艺术\n"
+	.string "品，\p"
 	.string "那些都可以在一楼观赏到。\p"
-	.string "我想展出的是与它们完全不同的作品\n"
-	.string "，\p"
+	.string "我想展出的是与它们完全不同的作\n"
+	.string "品，\p"
 	.string "毕竟，并不只有古老才能称为艺术！\p"
 	.string "这个展厅我希望能展出一些……\p"
 	.string "描绘那些看起来准备向辉煌的生活跃\n"
@@ -259,8 +259,8 @@ LilycoveCity_LilycoveMuseum_2F_Text_ItsYouPlayer:
 
 LilycoveCity_LilycoveMuseum_2F_Text_PaintingsAttractedMoreGuests:
 	.string "这些画作真的很棒！\p"
-	.string "每一幅都完美无瑕！这是最优秀的画\n"
-	.string "！\p"
+	.string "每一幅都完美无瑕！这是最优秀的\n"
+	.string "画！\p"
 	.string "这些绘画为美术馆吸引了很多客人，\p"
 	.string "我真心感谢你，{PLAYER}，\n"
 	.string "我的梦想成真了！$"
@@ -301,13 +301,13 @@ LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsSurprisedMe:
 	.string "亮就好了。$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsRatherAmusing:
-	.string "唔……时兴的宝可梦绘画就在这儿展\n"
-	.string "出啊。\p"
+	.string "唔……时兴的宝可梦绘画就在这儿展出\n"
+	.string "啊。\p"
 	.string "看来这些绘画确实很有趣。$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ThesePaintingsOfYourPokemon:
-	.string "哇，是吗？这些画的都是你的宝可梦\n"
-	.string "？\p"
+	.string "哇，是吗？这些画的都是你的宝可\n"
+	.string "梦？\p"
 	.string "对于一个训练家来说，最大的荣耀莫\n"
 	.string "过于此了吧？$"
 

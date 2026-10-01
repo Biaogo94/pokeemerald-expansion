@@ -84,8 +84,8 @@ TrainerHill_Roof_hns_Text_HaveTheMostMarvelousGift:
 	.string "为酬谢！$"
 
 TrainerHill_Roof_hns_Text_FullUpBeBackLaterForThis:
-	.string "哎呀，你的背包已经装得满满当当了\n"
-	.string "！等整理好了再来拿吧！$"
+	.string "哎呀，你的背包已经装得满满当当\n"
+	.string "了！等整理好了再来拿吧！$"
 
 TrainerHill_Roof_hns_Text_GotHereMarvelouslyQuickly:
 	.string "哎呀，等等！难道你用极快的速度赶\n"
@@ -96,12 +96,12 @@ TrainerHill_Roof_hns_Text_GotHereMarvelouslyQuickly:
 	.string "计时板上的成绩！$"
 
 TrainerHill_Roof_hns_Text_YouWerentVeryQuick:
-	.string "不过，哎呀……你赶到这里\n"
-	.string "的时间并不算快呢。$"
+	.string "不过，哎呀……你赶到这里的时间并不\n"
+	.string "算快呢。$"
 
 TrainerHill_Roof_hns_Text_ArriveZippierNextTime:
 	.string "要是你下次能来得更快些，我想我会\n"
 	.string "更加开心的。\p"
-	.string "到那时，我很乐意与你组成双打拍档\n"
-	.string "！\p"
+	.string "到那时，我很乐意与你组成双打拍\n"
+	.string "档！\p"
 	.string "期待下次再会，朋友！$"

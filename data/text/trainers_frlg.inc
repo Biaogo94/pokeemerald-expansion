@@ -15,8 +15,8 @@ Route3_Text_GregRematchIntro::
 	.string "吧！$"
 
 Route3_Text_SallyRematchIntro::
-	.string "你看我的那种眼神......真是\n"
-	.string "让我太感兴趣了！$"
+	.string "你看我的那种眼神......真是让我太\n"
+	.string "感兴趣了！$"
 
 Route3_Text_CalvinRematchIntro::
 	.string "喂！你怎么回事啊？你竟然还是没有\n"
@@ -43,8 +43,8 @@ Route6_Text_NancyRematchIntro::
 	.string "了！$"
 
 Route6_Text_KeigoRematchIntro::
-	.string "我正想找一只不是虫属性的好宝可梦\n"
-	.string "，可是......$"
+	.string "我正想找一只不是虫属性的好宝可\n"
+	.string "梦，可是......$"
 
 Route6_Text_JeffRematchIntro::
 	.string "咦？你还想再和我较量一场吗？$"
@@ -79,8 +79,8 @@ Route8_Text_AndreaRematchIntro::
 	.string "~！$"
 
 Route8_Text_MeganRematchIntro::
-	.string "我们像这样傻站着可能看起来挺蠢的\n"
-	.string "，但我随时都能对战！$"
+	.string "我们像这样傻站着可能看起来挺蠢\n"
+	.string "的，但我随时都能对战！$"
 
 Route8_Text_RichRematchIntro::
 	.string "我可是个随性狂放的游戏老手！现在\n"
@@ -112,14 +112,13 @@ Route9_Text_ChrisRematchIntro::
 	.string "可梦呢。$"
 
 Route9_Text_DrewRematchIntro::
-	.string "我想穿过岩山隧道去紫苑镇....\n"
-	.string "..\p"
-	.string "可一路上总是被大家拦下来对战..\n"
-	.string "....$"
+	.string "我想穿过岩山隧道去紫苑镇......\p"
+	.string "可一路上总是被大家拦下来对战...\n"
+	.string "...$"
 
 Route9_Text_CaitlinRematchIntro::
-	.string "今天你休想小看我！我们来动真格的\n"
-	.string "！$"
+	.string "今天你休想小看我！我们来动真格\n"
+	.string "的！$"
 
 Route9_Text_JeremyRematchIntro::
 	.string "哇哈哈哈！太棒了！我正闲得发慌\n"
@@ -144,8 +143,7 @@ Route10_Text_MarkRematchIntro::
 	.string "狂？想看看我的收藏吗？$"
 
 Route10_Text_ClarkRematchIntro::
-	.string "哈--阿嚏--！喷嚏完全停不下来\n"
-	.string "啦！$"
+	.string "哈--阿嚏--！喷嚏完全停不下来啦！$"
 
 Route10_Text_HermanRematchIntro::
 	.string "嗨，小朋友！我给你看过我的宝可梦\n"
@@ -153,7 +151,7 @@ Route10_Text_HermanRematchIntro::
 
 Route10_Text_HeidiRematchIntro::
 	.string "我又去挑战宝可梦道馆了。\p"
-	.string "......不过还是老样子输掉了\n"
+	.string "......不过还是老样子输掉了"
 	.string "。$"
 
 Route10_Text_TrentRematchIntro::
@@ -185,13 +183,12 @@ Route11_Text_DillonRematchIntro::
 
 Route11_Text_DirkRematchIntro::
 	.string "哇哈哈哈！我可从来没输过！\p"
-	.string "......就算输过，我也早就忘\n"
-	.string "得一干二净啦！$"
+	.string "......就算输过，我也早就忘得一干\n"
+	.string "二净啦！$"
 
 Route11_Text_DarianRematchIntro::
 	.string "我以前从来没赢过......\p"
-	.string "也许我注定就是这个命吧.....\n"
-	.string ".$"
+	.string "也许我注定就是这个命吧......$"
 
 Route11_Text_YasuRematchIntro::
 	.string "我可是全班最厉害的。每天早晚我都\n"
@@ -213,8 +210,8 @@ Route12_Text_ChipRematchIntro::
 	.string "待。$"
 
 Route12_Text_JustinRematchIntro::
-	.string "还是找不到月之石......你找\n"
-	.string "到了吗？$"
+	.string "还是找不到月之石......你找到了\n"
+	.string "吗？$"
 
 Route12_Text_LucaRematchIntro::
 	.string "电属性一直都是我的专长。\p"
@@ -222,13 +219,13 @@ Route12_Text_LucaRematchIntro::
 	.string "通。$"
 
 Route12_Text_HankRematchIntro::
-	.string "钓鱼狂 vs 宝可梦少年！再战一\n"
-	.string "轮，开打！$"
+	.string "钓鱼狂 vs 宝可梦少年！再战一轮，\n"
+	.string "开打！$"
 
 Route12_Text_ElliotRematchIntro::
 	.string "我很喜欢钓鱼，别误会啊。但我真希\n"
-	.string "望能多接点活儿.........\l"
-	.string "...可要戒掉钓鱼实在太难了！$"
+	.string "望能多接点活儿............可要戒\l"
+	.string "掉钓鱼实在太难了！$"
 
 Route12_Text_AndrewRematchIntro::
 	.string "钓上来了什么？\p"
@@ -239,8 +236,8 @@ Route12_Text_JesRematchIntro::
 	.string "婚。$"
 
 Route12_Text_GiaRematchIntro::
-	.string "吉亚：喂，杰斯......我都已\n"
-	.string "经等了好久啦。\p"
+	.string "吉亚：喂，杰斯......我都已经等了\n"
+	.string "好久啦。\p"
 	.string "如果我们今天赢了，我就嫁给你！$"
 
 Route13_Text_SebastianRematchIntro::
@@ -267,12 +264,12 @@ Route13_Text_PerryRematchIntro::
 
 Route13_Text_LolaRematchIntro::
 	.string "哎呀，你又来啦？\p"
-	.string "好啊，小可爱，我就再陪你玩一局吧\n"
-	.string "。$"
+	.string "好啊，小可爱，我就再陪你玩一局\n"
+	.string "吧。$"
 
 Route13_Text_SheilaRematchIntro::
-	.string "你就不能把和我对战过的事给忘了吗\n"
-	.string "？$"
+	.string "你就不能把和我对战过的事给忘了\n"
+	.string "吗？$"
 
 Route13_Text_JaredRematchIntro::
 	.string "你瞅啥呢？！$"
@@ -299,12 +296,12 @@ Route14_Text_MarlonRematchIntro::
 	.string "了！一定要试试看哦。$"
 
 Route14_Text_DonaldRematchIntro::
-	.string "关于生着双翼的幻影传说.....\n"
-	.string ".你应该听说过吧？$"
+	.string "关于生着双翼的幻影传说......你应\n"
+	.string "该听说过吧？$"
 
 Route14_Text_BennyRematchIntro::
-	.string "虽然我提不起什么劲，但行吧。来战\n"
-	.string "！$"
+	.string "虽然我提不起什么劲，但行吧。来\n"
+	.string "战！$"
 
 Route14_Text_LukasRematchIntro::
 	.string "嘿！我记得你！\p"
@@ -333,8 +330,8 @@ Route15_Text_KindraRematchIntro::
 	.string "战！$"
 
 Route15_Text_BeckyRematchIntro::
-	.string "你看起来挺好对付的，我觉得我能赢\n"
-	.string "。\p"
+	.string "你看起来挺好对付的，我觉得我能\n"
+	.string "赢。\p"
 	.string "让我再试一次吧！$"
 
 Route15_Text_EdwinRematchIntro::
@@ -371,13 +368,12 @@ Route15_Text_YazminRematchIntro::
 	.string "还想再和我的宝可梦对战吗？$"
 
 Route15_Text_MyaRematchIntro::
-	.string "玛亚：嗨，我们真有缘呢，总能遇到\n"
-	.string "！\p"
+	.string "玛亚：嗨，我们真有缘呢，总能遇\n"
+	.string "到！\p"
 	.string "能再帮我陪弟弟特训一下吗？$"
 
 Route15_Text_RonRematchIntro::
-	.string "罗恩：我姐姐变得更厉害了....\n"
-	.string "..$"
+	.string "罗恩：我姐姐变得更厉害了......$"
 
 Route16_Text_LaoRematchIntro::
 	.string "你想干嘛？$"
@@ -390,8 +386,8 @@ Route16_Text_LukeRematchIntro::
 	.string "你的！$"
 
 Route16_Text_HideoRematchIntro::
-	.string "喂，等等！不要叫了我之后又跑掉啊\n"
-	.string "！$"
+	.string "喂，等等！不要叫了我之后又跑掉\n"
+	.string "啊！$"
 
 Route16_Text_CamronRematchIntro::
 	.string "我现在肚子饿得发慌，脾气暴躁！真\n"
@@ -421,8 +417,8 @@ Route17_Text_VirgilRematchIntro::
 	.string "你出来散步吗？$"
 
 Route17_Text_BillyRematchIntro::
-	.string "我们是骑行族！公路可是我们的天下\n"
-	.string "，小子！$"
+	.string "我们是骑行族！公路可是我们的天\n"
+	.string "下，小子！$"
 
 Route17_Text_NikolasRematchIntro::
 	.string "今天霹雳电球可要狠狠电你一顿了！$"
@@ -451,12 +447,12 @@ Route18_Text_WiltonRematchIntro::
 	.string "但找起来可真不容易啊......$"
 
 Route18_Text_RamiroRematchIntro::
-	.string "咕噜咕噜咕--！我学的鸟叫声是不\n"
-	.string "是更像了？$"
+	.string "咕噜咕噜咕--！我学的鸟叫声是不是\n"
+	.string "更像了？$"
 
 Route18_Text_JacobRematchIntro::
-	.string "我之前就警告过你，这里是我的地盘\n"
-	.string "！\p"
+	.string "我之前就警告过你，这里是我的地\n"
+	.string "盘！\p"
 	.string "别再让我看到你在这附近晃悠。$"
 
 Route19_Text_RichardRematchIntro::
@@ -472,8 +468,8 @@ Route19_Text_MatthewRematchIntro::
 	.string "的那种吧。$"
 
 Route19_Text_DouglasRematchIntro::
-	.string "海平面的那一头有什么呢？你见过吗\n"
-	.string "？$"
+	.string "海平面的那一头有什么呢？你见过\n"
+	.string "吗？$"
 
 Route19_Text_DavidRematchIntro::
 	.string "我又尝试潜水去抓宝可梦了，但还是\n"
@@ -498,9 +494,9 @@ Route19_Text_AxleRematchIntro::
 	.string "了！$"
 
 Route19_Text_ConnieRematchIntro::
-	.string "我和朋友一起游到了这里.....\n"
-	.string ".我都累坏了......真的还要\l"
-	.string "再对战一次吗？$"
+	.string "我和朋友一起游到了这里......我都\n"
+	.string "累坏了......真的还要再对战一次\l"
+	.string "吗？$"
 
 Route19_Text_LiaRematchIntro::
 	.string "莉亚：你知道我弟弟才刚当上训练家\n"
@@ -548,16 +544,16 @@ Route20_Text_MissyRematchIntro::
 	.string "之前所说，真是不容易啊。$"
 
 Route20_Text_MelissaRematchIntro::
-	.string "西边的红莲岛上有一座宝可梦研究所\n"
-	.string "。\p"
+	.string "西边的红莲岛上有一座宝可梦研究\n"
+	.string "所。\p"
 	.string "我爸爸就在那里工作。$"
 
 Route21_North_Text_RonaldRematchIntro::
 	.string "你想知道鱼儿有没有上钩吗？$"
 
 Route21_North_Text_WadeRematchIntro::
-	.string "我又大丰收了！想再跟我比试一次吗\n"
-	.string "？$"
+	.string "我又大丰收了！想再跟我比试一次\n"
+	.string "吗？$"
 
 Route21_North_Text_SpencerRematchIntro::
 	.string "大海洗涤了我的身心！$"
@@ -598,8 +594,8 @@ Route25_Text_DanRematchIntro::
 	.string "上的盛大派对。$"
 
 Route25_Text_FlintRematchIntro::
-	.string "我可是个帅气的男人。我有女朋友啦\n"
-	.string "！\p"
+	.string "我可是个帅气的男人。我有女朋友\n"
+	.string "啦！\p"
 	.string "这次我一定要让她看看我有多帅气！$"
 
 Route25_Text_KelseyRematchIntro::
@@ -607,8 +603,8 @@ Route25_Text_KelseyRematchIntro::
 	.string "也很棒哦！$"
 
 Route25_Text_ChadRematchIntro::
-	.string "我有一种预感......我知道一\n"
-	.string "定要再跟你对战一次！$"
+	.string "我有一种预感......我知道一定要再\n"
+	.string "跟你对战一次！$"
 
 Route25_Text_HaleyRematchIntro::
 	.string "我的朋友有好多可爱的宝可梦。真是\n"
@@ -623,8 +619,8 @@ Route25_Text_NobRematchIntro::
 	.string "的收藏了吗？$"
 
 Route25_Text_WayneRematchIntro::
-	.string "你又要去见正辉吗？先来和我对战吧\n"
-	.string "！$"
+	.string "你又要去见正辉吗？先来和我对战\n"
+	.string "吧！$"
 
 Route24_Text_ShaneRematchIntro::
 	.string "我在草丛里看到你神勇的表现了！$"
@@ -633,8 +629,8 @@ Route24_Text_EthanRematchIntro::
 	.string "好！看我把你打得落花流水！$"
 
 Route24_Text_ReliRematchIntro::
-	.string "你看起来总是那么忙碌......\n"
-	.string "不觉得累吗？$"
+	.string "你看起来总是那么忙碌......不觉得\n"
+	.string "累吗？$"
 
 Route24_Text_TimmyRematchIntro::
 	.string "你肯定非常喜欢来金球桥吧。$"
@@ -648,23 +644,22 @@ Route24_Text_CaleRematchIntro::
 	.string "大家都叫这里金球桥！\p"
 	.string "既然你已经赢过我们了，就不能再接\n"
 	.string "受桥上的试炼了......\p"
-	.string "......不过，随时欢迎再来和\n"
-	.string "我们切磋！$"
+	.string "......不过，随时欢迎再来和我们切\n"
+	.string "磋！$"
 
 OneIsland_TreasureBeach_Text_AmaraRematchIntro::
-	.string "仰躺着随波起伏......不知不\n"
-	.string "觉时间就溜走了......$"
+	.string "仰躺着随波起伏......不知不觉时间\n"
+	.string "就溜走了......$"
 
 OneIsland_KindleRoad_Text_MariaRematchIntro::
 	.string "天气真棒！可不能扫了兴致呢。$"
 
 OneIsland_KindleRoad_Text_AbigailRematchIntro::
-	.string "晒伤的地方开始痛起来了.....\n"
-	.string ".$"
+	.string "晒伤的地方开始痛起来了......$"
 
 OneIsland_KindleRoad_Text_FinnRematchIntro::
-	.string "火鸟之山投下了一片巨大的阴影..\n"
-	.string "....$"
+	.string "火鸟之山投下了一片巨大的阴影...\n"
+	.string "...$"
 
 OneIsland_KindleRoad_Text_GarrettRematchIntro::
 	.string "我有种强烈的预感，这次一定能赢！$"
@@ -723,8 +718,8 @@ ThreeIsland_BondBridge_Text_TishaRematchIntro::
 	.string "离我远点！$"
 
 ThreeIsland_BondBridge_Text_JoyRematchIntro::
-	.string "乔伊：我们变强了！变强了好多好多\n"
-	.string "！$"
+	.string "乔伊：我们变强了！变强了好多好\n"
+	.string "多！$"
 
 ThreeIsland_BondBridge_Text_MegRematchIntro::
 	.string "梅格：今天你可赢不了我们！$"
@@ -743,8 +738,8 @@ FiveIsland_ResortGorgeous_Text_CelinaRematchIntro::
 	.string "挡着我的视线！$"
 
 FiveIsland_ResortGorgeous_Text_RaynaRematchIntro::
-	.string "一点进展都没有......还是找\n"
-	.string "不到合适的角度......$"
+	.string "一点进展都没有......还是找不到合\n"
+	.string "适的角度......$"
 
 FiveIsland_ResortGorgeous_Text_JackiRematchIntro::
 	.string "哦，你愿意再给我一次机会与你一较\n"
@@ -756,8 +751,8 @@ FiveIsland_ResortGorgeous_Text_GillianRematchIntro::
 	.string "到时候你一定要来玩哦。$"
 
 FiveIsland_ResortGorgeous_Text_DestinRematchIntro::
-	.string "我很擅长跑步。而且现在跑得更快了\n"
-	.string "！$"
+	.string "我很擅长跑步。而且现在跑得更快\n"
+	.string "了！$"
 
 FiveIsland_ResortGorgeous_Text_TobyRematchIntro::
 	.string "我说，朋友！让我们好好享受这段时\n"
@@ -771,8 +766,8 @@ FiveIsland_MemorialPillar_Text_MiloRematchIntro::
 
 FiveIsland_MemorialPillar_Text_ChazRematchIntro::
 	.string "我是鸟使者三兄弟的老二。\p"
-	.string "我最喜欢的是翅膀。再来对战一次吧\n"
-	.string "！$"
+	.string "我最喜欢的是翅膀。再来对战一次\n"
+	.string "吧！$"
 
 FiveIsland_MemorialPillar_Text_HaroldRematchIntro::
 	.string "我是鸟使者三兄弟的老幺。\p"
@@ -813,12 +808,10 @@ SixIsland_WaterPath_Text_EdwardRematchIntro::
 SixIsland_WaterPath_Text_SamirRematchIntro::
 	.string "你已经看腻我这样的游泳选手了吗？\n"
 	.string "哎呀，别嫌弃嘛！\p"
-	.string "再和我\n"
-	.string "对战一场吧！$"
+	.string "再和我对战一场吧！$"
 
 SixIsland_WaterPath_Text_DeniseRematchIntro::
-	.string "唉……我男朋友又忙起来了。\n"
-	.string "……$"
+	.string "唉……我男朋友又忙起来了。……$"
 
 SixIsland_WaterPath_Text_EarlRematchIntro::
 	.string "快告诉我，这附近的山到底都在哪儿\n"
@@ -868,8 +861,8 @@ SevenIsland_SevaultCanyon_Entrance_Text_MasonRematchIntro::
 	.string "对不对？$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasRematchIntro::
-	.string "这座岛也太大了吧......巡逻\n"
-	.string "起来真是一件苦差事......$"
+	.string "这座岛也太大了吧......巡逻起来真\n"
+	.string "是一件苦差事......$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelineRematchIntro::
 	.string "我绝不原谅虐待宝可梦的家伙！$"
@@ -913,8 +906,8 @@ SevenIsland_SevaultCanyon_Text_LexRematchIntro::
 	.string "必定能赢！$"
 
 SevenIsland_SevaultCanyon_Text_NyaRematchIntro::
-	.string "妮娅：我不会拖雷克斯导师的后腿的\n"
-	.string "！我们赢定了！$"
+	.string "妮娅：我不会拖雷克斯导师的后腿\n"
+	.string "的！我们赢定了！$"
 
 SevenIsland_TanobyRuins_Text_BrandonRematchIntro::
 	.string "关于这间石室，你有什么新发现吗？$"

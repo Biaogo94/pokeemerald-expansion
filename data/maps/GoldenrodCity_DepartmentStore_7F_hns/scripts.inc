@@ -95,13 +95,13 @@ GoldenrodDeptStore_Text_RoofSuperNerdQuitBotheringMe:
 GoldenrodDeptStore_Text_RoofPokefanM:
     .string "有件东西我特别想买，可是手头的钱\n"
     .string "不够……\p"
-    .string "也许我该把采到的树果拿去卖掉..\n"
-    .string "....$"
+    .string "也许我该把采到的树果拿去卖掉...\n"
+    .string "...$"
 
 GoldenrodDeptStore_Text_RoofTeacher:
     .string "哇，所有东西都好便宜啊！\p"
-    .string "我买得太多，背包都塞得满满当当了\n"
-    .string "！$"
+    .string "我买得太多，背包都塞得满满当当\n"
+    .string "了！$"
 
 GoldenrodDeptStore_Text_RoofBugCatcher:
     .string "我的宝可梦每到关键时刻总会陷入麻\n"

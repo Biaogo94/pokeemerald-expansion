@@ -45,10 +45,9 @@ VerdanturfTown_Mart_Text_XSpecialIsCrucial:
 	.string "场战斗中有效。$"
 
 VerdanturfTown_Mart_Text_NoStrategyGuidesForBattleTent:
-	.string "他们不打算卖什么对战帐篷战术指南\n"
-	.string "……\p"
-	.string "看来必须用自己的智慧来夺取胜利…\n"
-	.string "…$"
+	.string "他们不打算卖什么对战帐篷战术指\n"
+	.string "南……\p"
+	.string "看来必须用自己的智慧来夺取胜利……$"
 
 VerdanturfTown_Mart_Text_NestBallOnWeakenedPokemon:
 	.string "巢穴球对弱小的宝可梦非常管用，\p"

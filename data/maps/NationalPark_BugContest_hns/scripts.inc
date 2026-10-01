@@ -171,8 +171,8 @@ NationalParkBugContest_Text_ContestantBelinda:
 	.string "我。$"
 
 NationalParkBugContest_Text_Contestant2A:
-	.string "艾德：我的派拉斯特会用“蘑菇孢\n"
-	.string "子”让宝可梦睡着。$"
+	.string "艾德：我的派拉斯特会用“蘑菇孢子”\n"
+	.string "让宝可梦睡着。$"
 
 NationalParkBugContest_Text_ContestantShaun:
 	.string "肖恩：我不在乎拿不拿优胜。\p"
@@ -196,8 +196,8 @@ NationalParkBugContest_Text_Contestant9A:
 	.string "如快点去抓虫宝可梦。$"
 
 NationalParkBugContest_Text_Contestant10A:
-	.string "基普：我可是好好研究过虫宝可梦的\n"
-	.string "。\p"
+	.string "基普：我可是好好研究过虫宝可梦\n"
+	.string "的。\p"
 	.string "这次赢的人一定是我。$"
 
 NationalParkBugContest_Text_Sign_RelaxationSquare:

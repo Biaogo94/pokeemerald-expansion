@@ -35,6 +35,5 @@ BattleFrontier_BattlePikeRoomFinal_EventScript_TurnPlayerNorth_hns::
 	end
 
 BattleFrontier_BattlePikeRoomFinal_Text_CongratsThisWayPlease_hns:
-	.string "恭喜……那么，请走这边。\n"
-	.string ".....$"
+	.string "恭喜……那么，请走这边。.....$"
 

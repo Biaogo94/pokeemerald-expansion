@@ -5,7 +5,7 @@ ALIGNED(4) static const u8 sText_PleaseStartOver[] = _("请重新再试一次。
 ALIGNED(4) static const u8 sText_WirelessSearchCanceled[] = _("无线连接系统搜索已取消。");
 ALIGNED(4) static const u8 sText_AwaitingCommunucation2[] = _("正在等待其他玩家连接。"); // Unused
 ALIGNED(4) static const u8 sText_AwaitingCommunication[] = _("{STR_VAR_1}！正在等待\n其他玩家连接。");
-ALIGNED(4) static const u8 sText_AwaitingLinkPressStart[] = _("{STR_VAR_1}！等待连接\n！所有玩家准备完毕后请按STAR\lT键。");
+ALIGNED(4) static const u8 sText_AwaitingLinkPressStart[] = _("{STR_VAR_1}！等待连接！所有玩家准备完毕后请按START键。");
 ALIGNED(4) static const u8 sJPText_SingleBattle[] = _("举办单打对战");
 ALIGNED(4) static const u8 sJPText_DoubleBattle[] = _("举办双打对战");
 ALIGNED(4) static const u8 sJPText_MultiBattle[] = _("举办多人对战");
@@ -94,7 +94,7 @@ ALIGNED(4) static const u8 sText_AreTheseMembersOK[] = _("{STR_VAR_1}！以现�
 ALIGNED(4) static const u8 sText_CancelModeWithTheseMembers[] = _("要放弃以当前成员进行\n{STR_VAR_1}模式吗？");
 ALIGNED(4) static const u8 sText_AnOKWasSentToPlayer[] = _("OK联络已发送给\n{STR_VAR_1}！");
 ALIGNED(4) static const u8 sText_OtherTrainerUnavailableNow[] = _("对方训练家现在好像不方便……\p");
-ALIGNED(4) static const u8 sText_CantTransmitTrainerTooFar[] = _(" 无法与距离太远的训练家进行连接\n。\p");
+ALIGNED(4) static const u8 sText_CantTransmitTrainerTooFar[] = _(" 无法与距离太远的训练家进行连接。\p");
 ALIGNED(4) static const u8 sText_TrainersNotReadyYet[] = _("对方训练家尚未准备好。\p");
 
 static const u8 *const sCantTransmitToTrainerTexts[] = {
@@ -325,7 +325,7 @@ static const u8 *const sShowTrainerCardDeclinedTexts[GENDER_COUNT] = {
 };
 
 ALIGNED(4) static const u8 sText_IfYouWantToDoSomethingMale[] = _("如果还想到什么事，就尽管找我。\p");
-ALIGNED(4) static const u8 sText_IfYouWantToDoSomethingFemale[] = _("如果还有什么事的话，就再来找我吧\n！\p");
+ALIGNED(4) static const u8 sText_IfYouWantToDoSomethingFemale[] = _("如果还有什么事的话，就再来找我吧！\p");
 
 static const u8 *const sIfYouWantToDoSomethingTexts[GENDER_COUNT] = {
     sText_IfYouWantToDoSomethingMale,
@@ -358,7 +358,7 @@ ALIGNED(4) static const u8 sText_YoureToughMale[] = _("哦！水平不错嘛！\
 ALIGNED(4) static const u8 sText_UsedGoodMoveMale[] = _("居然使出了这招？看来你很懂嘛！\p");
 ALIGNED(4) static const u8 sText_BattleSurpriseMale[] = _("真厉害！原来还有这种战法啊！\p");
 ALIGNED(4) static const u8 sText_SwitchedMonsMale[] = _("真没想到你会在这种情况下派出这只\n宝可梦！\p");
-ALIGNED(4) static const u8 sText_YoureToughFemale[] = _("这只宝可梦被你培育得实在是太好了\n！\p");
+ALIGNED(4) static const u8 sText_YoureToughFemale[] = _("这只宝可梦被你培育得实在是太好了！\p");
 ALIGNED(4) static const u8 sText_UsedGoodMoveFemale[] = _("这就对了！这里就该出这招嘛！！\p");
 ALIGNED(4) static const u8 sText_BattleSurpriseFemale[] = _("好厉害！原来还有这种战法啊！\p");
 ALIGNED(4) static const u8 sText_SwitchedMonsFemale[] = _("替换宝可梦的时机可谓绝妙啊！\p");
@@ -379,12 +379,12 @@ static const u8 *const sBattleReactionTexts[GENDER_COUNT][4] = {
 };
 
 ALIGNED(4) static const u8 sText_LearnedSomethingMale[] = _("哦，我明白了！真是受益匪浅！\p");
-ALIGNED(4) static const u8 sText_ThatsFunnyMale[] = _("别说搞笑的事了！笑得我肚子都疼了\n！\p");
+ALIGNED(4) static const u8 sText_ThatsFunnyMale[] = _("别说搞笑的事了！笑得我肚子都疼了！\p");
 ALIGNED(4) static const u8 sText_RandomChatMale1[] = _("哦？还有这种事啊。\p");
 ALIGNED(4) static const u8 sText_RandomChatMale2[] = _("嗯……什么？原来是这样啊。\p");
 ALIGNED(4) static const u8 sText_LearnedSomethingFemale[] = _("是这样吗？我以前都不知道。\p");
 ALIGNED(4) static const u8 sText_ThatsFunnyFemale[] = _("啊哈哈！是那样吗？\p");
-ALIGNED(4) static const u8 sText_RandomChatFemale1[] = _("对，就是这个意思！我就是想说这个\n。\p");
+ALIGNED(4) static const u8 sText_RandomChatFemale1[] = _("对，就是这个意思！我就是想说这个。\p");
 ALIGNED(4) static const u8 sText_RandomChatFemale2[] = _("也就是说……对！就是这样！\p");
 
 static const u8 *const sChatReactionTexts[GENDER_COUNT][4] = {
@@ -404,7 +404,7 @@ static const u8 *const sChatReactionTexts[GENDER_COUNT][4] = {
 
 ALIGNED(4) static const u8 sText_ShowedTrainerCardMale1[] = _("我正在给对方看训练家卡以示问候。\p");
 ALIGNED(4) static const u8 sText_ShowedTrainerCardMale2[] = _("今后也请多指教！\p");
-ALIGNED(4) static const u8 sText_ShowedTrainerCardFemale1[] = _("我正在给对方看训练家卡以示问候呢\n。\p");
+ALIGNED(4) static const u8 sText_ShowedTrainerCardFemale1[] = _("我正在给对方看训练家卡以示问候呢。\p");
 ALIGNED(4) static const u8 sText_ShowedTrainerCardFemale2[] = _("今后也请多指教！\p");
 
 static const u8 *const sTrainerCardReactionTexts[GENDER_COUNT][2] = {
@@ -448,7 +448,7 @@ ALIGNED(4) static const u8 sText_TradingBoardInfo[] = _("这个交换公告板�
 ALIGNED(4) static const u8 sText_ThankYouForRegistering[] = _("我们已经登记了您的宝可梦放在交换\n公告板用来交换。\p感谢使用这项服务！\p"); // unused
 ALIGNED(4) static const u8 sText_NobodyHasRegistered[] = _("没人登记宝可梦在交换公告板用来交\n换。\p"); // unused
 ALIGNED(4) static const u8 sText_ChooseRequestedMonType[] = _("请选择你想用于交换的宝可梦类型。");
-ALIGNED(4) static const u8 sText_WhichMonWillYouOffer[] = _("您想用队伍中的哪只宝可梦作为交换\n？\p");
+ALIGNED(4) static const u8 sText_WhichMonWillYouOffer[] = _("您想用队伍中的哪只宝可梦作为交换？\p");
 ALIGNED(4) static const u8 sText_RegistrationCanceled[] = _("登记已取消。\p");
 ALIGNED(4) static const u8 sText_RegistrationCompleted[] = _("登记完成。\p");
 ALIGNED(4) static const u8 sText_TradeCanceled[] = _("交换已取消。\p");
@@ -491,7 +491,7 @@ ALIGNED(4) static const u8 sText_ChooseLeaderBeautyContest[] = _("美丽华丽�
 ALIGNED(4) static const u8 sText_ChooseLeaderCuteContest[] = _("可爱华丽大赛！请选择组长。");
 ALIGNED(4) static const u8 sText_ChooseLeaderSmartContest[] = _("聪明华丽大赛！请选择组长。");
 ALIGNED(4) static const u8 sText_ChooseLeaderToughContest[] = _("强壮华丽大赛！请选择组长。");
-ALIGNED(4) static const u8 sText_ChooseLeaderBattleTowerLv50[] = _("对战塔Lv. 50级！请选择组长\n。");
+ALIGNED(4) static const u8 sText_ChooseLeaderBattleTowerLv50[] = _("对战塔Lv. 50级！请选择组长。");
 ALIGNED(4) static const u8 sText_ChooseLeaderBattleTowerOpenLv[] = _("对战塔自由等级！请选择组长。");
 
 static const u8 *const sChooseTrainerTexts[NUM_LINK_GROUP_TYPES] =
@@ -576,7 +576,7 @@ static const u8 *const sCardColorTexts[] = {
     sText_ItsGoldCard
 };
 
-ALIGNED(4) static const u8 sText_TrainerCardInfoPage1[] = _("这是{DYNAMIC 0} \n{DYNAMIC 1}的训练家卡\l……{DYNAMIC 2}\p图鉴：{DYNAMIC 3}时间\n：{DYNAMIC 4}：\l{DYNAMIC 5}\p");
+ALIGNED(4) static const u8 sText_TrainerCardInfoPage1[] = _("这是{DYNAMIC 0} \n{DYNAMIC 1}的训练家卡\l……{DYNAMIC 2}\p图鉴：{DYNAMIC 3}时间：{DYNAMIC 4}：\l{DYNAMIC 5}\p");
 ALIGNED(4) static const u8 sText_TrainerCardInfoPage2[] = _(" 对战：胜：\n{DYNAMIC 0} 负：\l{DYNAMIC 2}交换次数：\l{DYNAMIC 3}\p“{DYNAMIC 4} {DYNAMIC 5}\n{DYNAMIC 6} {DYNAMIC 7}”\p");
 ALIGNED(4) static const u8 sText_GladToMeetYouMale[] = _("{DYNAMIC 1}：很高兴认\n识你！{PAUSE 60}");
 ALIGNED(4) static const u8 sText_GladToMeetYouFemale[] = _("{DYNAMIC 1}：很高兴认\n识你！{PAUSE 60}");

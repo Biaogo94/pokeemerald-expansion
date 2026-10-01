@@ -232,8 +232,8 @@ Copycat_Text_Male_2:
 Copycat_Text_Worried:
 	.string "模仿少女：你说什么？\p"
 	.string "我不该擅自替你做决定？\p"
-	.string "可我真的好担心啊……万一\n"
-	.string "被别人捡走了怎么办？$"
+	.string "可我真的好担心啊……万一被别人捡走\n"
+	.string "了怎么办？$"
 
 Copycat_Text_GiveDoll:
 	.string "模仿少女：太棒啦！这是我的皮皮玩\n"
@@ -246,8 +246,8 @@ Copycat_Text_GivePass:
 	.string "票就给你吧！$"
 
 Copycat_Text_ExplainPass:
-	.string "模仿少女：那是磁悬浮列车的乘车票\n"
-	.string "。\p"
+	.string "模仿少女：那是磁悬浮列车的乘车\n"
+	.string "票。\p"
 	.string "当时铁路公司要建车站，拆了我们家\n"
 	.string "老房子，那个叔叔给我的。$"
 
@@ -259,8 +259,8 @@ Copycat_Text_Male_3:
 	.string "动真的有那么好玩吗？$"
 
 Copycat_Text_ItsAScream:
-	.string "模仿少女：那当然！简直太有意思了\n"
-	.string "！$"
+	.string "模仿少女：那当然！简直太有意思\n"
+	.string "了！$"
 
 Copycat_Text_Dodrio1:
 	.string "嘟嘟利：唧唧--！$"

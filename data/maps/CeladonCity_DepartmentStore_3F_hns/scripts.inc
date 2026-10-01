@@ -55,8 +55,8 @@ CeladonDeptStore3F_Text_GameboyKid2:
 	.string "我不太擅长玩老虎机，以前代币总是\n"
 	.string "攒不够……\p"
 	.string "……咦？\p"
-	.string "换过来的多边兽变成了另一种宝可梦\n"
-	.string "！？$"
+	.string "换过来的多边兽变成了另一种宝可\n"
+	.string "梦！？$"
 
 CeladonDeptStore3F_Text_SuperNerd:
 	.string "招式学习器专柜售卖一些罕见的招式\n"

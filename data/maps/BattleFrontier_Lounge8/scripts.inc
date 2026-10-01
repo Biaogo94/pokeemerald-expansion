@@ -15,8 +15,8 @@ BattleFrontier_Lounge8_EventScript_NinjaBoy::
 
 BattleFrontier_Lounge8_Text_WhatATrainerNeeds:
 	.string "训练家所需要的一切……\p"
-	.string "知识……战术……运气……毅力……\n"
-	.string "精神……英勇……还有能力……\p"
+	.string "知识……战术……运气……毅力……精神……英\n"
+	.string "勇……还有能力……\p"
 	.string "我可是拥有这一切！在这里我必定是\n"
 	.string "战无不胜的！\p"
 	.string "嗯？宝可梦？那是什么？$"

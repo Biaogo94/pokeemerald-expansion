@@ -41,17 +41,15 @@ sText_MysteryGiftOldSeaMapForYou:
 	.string "这里有一张寄给你的古航海图。$"
 
 sText_MysteryGiftOldSeaMapUseAtPort:
-	.string "这个看起来是可以在\n"
-	.string "水静市港口使用的。\p"
-	.string "为什么不试一下\n"
-	.string "看看它到底是什么？$"
+	.string "这个看起来是可以在水静市港口使用\n"
+	.string "的。\p"
+	.string "为什么不试一下看看它到底是什么？$"
 
 sText_MysteryGiftOldSeaMapThankYou:
-	.string "感谢使用神秘\n"
-	.string "礼物系统。$"
+	.string "感谢使用神秘礼物系统。$"
 
 sText_MysteryGiftOldSeaMapBagFull:
-	.string "哦，抱歉，{PLAYER}。\n"
-	.string "您的背包里放重要物品的口袋满了。\p"
-	.string "请存一些东西到电脑\n"
-	.string "然后回来拿这个吧。$"
+	.string "哦，抱歉，{PLAYER}。您的\n"
+	.string "背包里放重要物品的口袋满了。\p"
+	.string "请存一些东西到电脑然后回来拿这个\n"
+	.string "吧。$"

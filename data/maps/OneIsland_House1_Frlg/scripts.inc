@@ -15,6 +15,6 @@ OneIsland_House1_Text_GazeUponVolcanoOnSunnyDays::
 	.string "这是我日常做的事。$"
 
 OneIsland_House1_Text_LastTimeMtEmberErupted::
-	.string "让我想想……上一次灯火山爆发是什\n"
-	.string "么时候？$"
+	.string "让我想想……上一次灯火山爆发是什么\n"
+	.string "时候？$"
 

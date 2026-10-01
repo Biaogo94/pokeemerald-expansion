@@ -533,8 +533,8 @@ BattleFrontier_BattleArenaBattleRoom_Text_SaveAndShutDown:
 	.string "要写入记录并且暂停吗？$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_RetireFromChallenge:
-	.string "要结束三回合定胜负锦标赛的挑战吗\n"
-	.string "？$"
+	.string "要结束三回合定胜负锦标赛的挑战\n"
+	.string "吗？$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SavingPleaseWait:
 	.string "正在写入记录……请稍等。$"
@@ -563,9 +563,8 @@ BattleFrontier_BattleArenaBattleRoom_Text_IsThatRight:
 	.string "没有搞错吗？哈……哈哈……$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_YouLookWeakTakeThingsEasy:
-	.string "但该怎么说呢……老实说，我觉得你\n"
-	.string "好像非常弱哎。你确定你招架得住吗\l"
-	.string "？\p"
+	.string "但该怎么说呢……老实说，我觉得你好\n"
+	.string "像非常弱哎。你确定你招架得住吗？\p"
 	.string "哈……\p"
 	.string "那么，好吧！我们慢慢来！$"
 
@@ -574,8 +573,8 @@ BattleFrontier_BattleArenaBattleRoom_Text_IgniteMyPassionForBattle:
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureToughAfterAll:
 	.string "哦，等一下！你还挺强的！\p"
-	.string "我喜欢你！把你的开拓通行证给我吧\n"
-	.string "！$"
+	.string "我喜欢你！把你的开拓通行证给我\n"
+	.string "吧！$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReceivedGutsSymbol:
 	.string "毅力象征被印在了开拓通行证上！$"

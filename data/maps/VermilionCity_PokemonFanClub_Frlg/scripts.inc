@@ -127,10 +127,9 @@ VermilionCity_PokemonFanClub_Text_PikachuTwiceAsCute::
 	.string "我的皮卡丘有你那一只两倍的可爱！$"
 
 VermilionCity_PokemonFanClub_Text_AdoreMySeel::
-	.string "我非常喜欢我的小海狮！它太可爱啦\n"
-	.string "！\p"
-	.string "当我抱着它时，它会叫着，“咕呜。\n"
-	.string "”$"
+	.string "我非常喜欢我的小海狮！它太可爱\n"
+	.string "啦！\p"
+	.string "当我抱着它时，它会叫着，“咕呜。”$"
 
 VermilionCity_PokemonFanClub_Text_SeelFarMoreAttractive::
 	.string "噢，天哪！\p"
@@ -154,14 +153,14 @@ VermilionCity_PokemonFanClub_Text_DidYouComeToHearAboutMyMons::
 VermilionCity_PokemonFanClub_Text_ChairmansStory::
 	.string "好！听好了！\p"
 	.string "我最喜爱的烈焰马……\p"
-	.string "它真是漂亮……可爱……聪明……异\n"
-	.string "乎寻常……你这样认为吗？对……它\l"
-	.string "很出色……友好……好喜欢它！\p"
-	.string "抱着它……睡觉时……感到温暖……\n"
-	.string "亲切……迷人…………哎！看这时间\l"
-	.string "！我让你呆太久了！\p"
-	.string "谢谢你一直在听我说！我要给你这个\n"
-	.string "！$"
+	.string "它真是漂亮……可爱……聪明……异乎寻\n"
+	.string "常……你这样认为吗？对……它很出色……\l"
+	.string "友好……好喜欢它！\p"
+	.string "抱着它……睡觉时……感到温暖……亲切……\n"
+	.string "迷人…………哎！看这时间！我让你呆太\l"
+	.string "久了！\p"
+	.string "谢谢你一直在听我说！我要给你这\n"
+	.string "个！$"
 
 VermilionCity_PokemonFanClub_Text_ReceivedBikeVoucherFromChairman::
 	.string "{PLAYER}从主席那里得到了\n"
@@ -177,8 +176,8 @@ VermilionCity_PokemonFanClub_Text_ExplainBikeVoucher::
 	.string "我希望你喜欢骑车！$"
 
 VermilionCity_PokemonFanClub_Text_ComeBackToHearStory::
-	.string "噢。当你想听我的故事时就再回来吧\n"
-	.string "！$"
+	.string "噢。当你想听我的故事时就再回来\n"
+	.string "吧！$"
 
 VermilionCity_PokemonFanClub_Text_DidntComeToSeeAboutMonsAgain::
 	.string "你好，{PLAYER}！\p"

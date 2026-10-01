@@ -897,8 +897,7 @@ Route110_TrickHousePuzzle5_Movement_MechadollShake:
 
 Route110_TrickHousePuzzle5_Text_WroteSecretCodeLockOpened:
 	.string "{PLAYER}在门上写下密码。\p"
-	.string "“戏法大王是天才”…… …… …\n"
-	.string "… ……\p"
+	.string "“戏法大王是天才”…… …… …… ……\p"
 	.string "锁“咔嗒”一声开了！$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Intro:
@@ -908,8 +907,8 @@ Route110_TrickHousePuzzle5_Text_Mechadoll1Intro:
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz1:
 	.string "机械娃娃1问答。\p"
-	.string "下列宝可梦中哪一个不能在110号\n"
-	.string "道路找到？$"
+	.string "下列宝可梦中哪一个不能在110号道\n"
+	.string "路找到？$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz2:
 	.string "机械娃娃1问答。\p"
@@ -956,18 +955,18 @@ Route110_TrickHousePuzzle5_Text_Mechadoll3Intro:
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz1:
 	.string "机械娃娃3问答。\p"
-	.string "买3个港湾邮件或买1个灼伤药哪样\n"
-	.string "花钱更多？$"
+	.string "买3个港湾邮件或买1个灼伤药哪样花\n"
+	.string "钱更多？$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz2:
 	.string "机械娃娃3问答。\p"
-	.string "卖出1个超级球并买入1个伤药，还\n"
-	.string "剩多少钱？$"
+	.string "卖出1个超级球并买入1个伤药，还剩\n"
+	.string "多少钱？$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz3:
 	.string "机械娃娃3问答。\p"
-	.string "买1个除虫喷雾和1个劲爽汽水花的\n"
-	.string "钱比1个厉害伤药多吗？$"
+	.string "买1个除虫喷雾和1个劲爽汽水花的钱\n"
+	.string "比1个厉害伤药多吗？$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Intro:
 	.string "咔嗒、噼啪……机械娃娃4就是我！\p"

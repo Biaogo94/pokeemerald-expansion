@@ -217,8 +217,8 @@ BattleFrontier_BattlePyramidTop_Text_ReachedSummitUpYouGo:
 	.string "很荣幸能在这里见到你！你已经来到\n"
 	.string "了对战金字塔最顶层。\p"
 	.string "这就是金字塔的观景台。\p"
-	.string "这个地方只为征服了金字塔的人开放\n"
-	.string "。\p"
+	.string "这个地方只为征服了金字塔的人开\n"
+	.string "放。\p"
 	.string "来吧！继续向前吧！$"
 
 BattleFrontier_BattlePyramidTop_Text_PlayerConqueredPyramid:
@@ -232,15 +232,15 @@ BattleFrontier_BattlePyramidTop_Text_ChiefBeatYouHere:
 	.string "我们的首领已经率先征服了金字塔。\p"
 	.string "不过，年轻的探险家，你是一位训练\n"
 	.string "家！\p"
-	.string "用实力从首领手中夺取巅峰的荣耀吧\n"
-	.string "！\p"
+	.string "用实力从首领手中夺取巅峰的荣耀\n"
+	.string "吧！\p"
 	.string "当你准备好时，请再度迈出这勇敢的\n"
 	.string "一步！$"
 
 BattleFrontier_BattlePyramidTop_Text_ExplorationsAreGrandestAdventure:
 	.string "年轻的冒险家……\p"
-	.string "你不觉得探索才是最为伟大的冒险吗\n"
-	.string "？\p"
+	.string "你不觉得探索才是最为伟大的冒险\n"
+	.string "吗？\p"
 	.string "凭借你的智慧！\p"
 	.string "你的实力！\p"
 	.string "你的宝可梦！\p"
@@ -272,8 +272,8 @@ BattleFrontier_BattlePyramidTop_Text_LookForwardToNextMeeting:
 	.string "会！$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonYouveReturned:
-	.string "神代：……你终于回来了，年轻的探\n"
-	.string "险家……\p"
+	.string "神代：……你终于回来了，年轻的探险\n"
+	.string "家……\p"
 	.string "你对冒险的热情似乎源于你的内心深\n"
 	.string "处……\p"
 	.string "对……你简直就像是年轻时期的我自\n"
@@ -290,12 +290,12 @@ BattleFrontier_BattlePyramidTop_Text_MyCourageIsOffMeter:
 	.string "我已感受到澎湃的勇气即将满溢！$"
 
 BattleFrontier_BattlePyramidTop_Text_EverythingYouHave:
-	.string "倾尽你的一切吧！我已做好万全准备\n"
-	.string "！$"
+	.string "倾尽你的一切吧！我已做好万全准\n"
+	.string "备！$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonRemarkableHaveThis:
-	.string "神代：哈哈哈！精彩绝伦！壮阔至极\n"
-	.string "！\p"
+	.string "神代：哈哈哈！精彩绝伦！壮阔至\n"
+	.string "极！\p"
 	.string "年轻的探险家！\p"
 	.string "你完全超越了我！来！我希望你收下\n"
 	.string "这个！$"

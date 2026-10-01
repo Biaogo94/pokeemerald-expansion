@@ -75,13 +75,13 @@ Route10_PowerPlantBackRoom_Text_ManagerIWontForgiveCulprit:
 
 Route10_PowerPlantBackRoom_Text_ManagerThatsThePart:
 	.string "所长：啊！没错！\p"
-	.string "这就是我心爱的发电机上缺少的零件\n"
-	.string "！被你找到了吗？$"
+	.string "这就是我心爱的发电机上缺少的零\n"
+	.string "件！被你找到了吗？$"
 
 Route10_PowerPlantBackRoom_Text_ManagerTakeThisTM:
 	.string "哇哈哈！太感谢了！\p"
-	.string "来！收下这个招式学习器作为谢礼吧\n"
-	.string "！$"
+	.string "来！收下这个招式学习器作为谢礼\n"
+	.string "吧！$"
 
 Route10_PowerPlantBackRoom_Text_ManagerTM07IsZapCannon:
 	.string "所长：那个招式学习器是“打雷”。\p"

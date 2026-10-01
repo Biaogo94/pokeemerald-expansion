@@ -44,8 +44,8 @@ CeladonCity_Restaurant_Text_TakingBreakRightNow::
 	.string "抱歉，我们正在休息呢。$"
 
 CeladonCity_Restaurant_Text_OftenGoToDrugstore::
-	.string "我的宝可梦比较弱，所以我常去药店\n"
-	.string "。$"
+	.string "我的宝可梦比较弱，所以我常去药\n"
+	.string "店。$"
 
 CeladonCity_Restaurant_Text_PsstBasementUnderGameCorner::
 	.string "嘿！我听说这个游戏厅下面有个地下\n"
@@ -62,8 +62,8 @@ CeladonCity_Restaurant_Text_TakeThisImBusted::
 	.string "给你！我再也用不着它了！$"
 
 CeladonCity_Restaurant_Text_ReceivedCoinCaseFromMan::
-	.string "{PLAYER}获得了一个代币盒\n"
-	.string "。$"
+	.string "{PLAYER}获得了一个代币\n"
+	.string "盒。$"
 
 CeladonCity_Restaurant_Text_MakeRoomForThis::
 	.string "把背包腾出点地方来！$"

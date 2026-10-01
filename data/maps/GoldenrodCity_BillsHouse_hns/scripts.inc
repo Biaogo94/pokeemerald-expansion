@@ -83,8 +83,8 @@ BillHouse_Text_EeveeMayEvolve:
     .string "新且未知的进化方式。$"
 
 BillHouse_Text_PartyFull:
-    .string "哇，等等。你的同行宝可梦已经满了\n"
-    .string "。$"
+    .string "哇，等等。你的同行宝可梦已经满\n"
+    .string "了。$"
 
 BillHouse_Text_NoEevee:
     .string "哎呀……这下该怎么办呢？$"
@@ -97,8 +97,8 @@ BillHouse_Text_PopWontWork:
 BillHouse_Text_MomBeforeEcruteak:
     .string "哎呀，你在收集宝可梦吗？我儿子正\n"
     .string "辉可是这方面的专家。\p"
-    .string "他刚刚被叫去圆朱市的宝可梦中心了\n"
-    .string "。\p"
+    .string "他刚刚被叫去圆朱市的宝可梦中心\n"
+    .string "了。\p"
     .string "我丈夫则是不请自去，一溜烟跑去了\n"
     .string "满金游戏城……$"
 

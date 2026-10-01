@@ -145,8 +145,8 @@ Route43_Text_FisherMarvinAfter:
     .string "它比高级球还要有效得多呢。$"
 
 Route43_Text_CamperSpencerSeen:
-    .string "我和我的宝可梦能一起做好多事--\n"
-    .string "真是太开心啦！$"
+    .string "我和我的宝可梦能一起做好多事--真\n"
+    .string "是太开心啦！$"
 
 Route43_Text_CamperSpencerBeaten:
     .string "输掉可一点都不好玩……$"

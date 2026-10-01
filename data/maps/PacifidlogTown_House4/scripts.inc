@@ -30,8 +30,8 @@ PacifidlogTown_House4_EventScript_No::
 PacifidlogTown_House4_Text_PeopleSawHighFlyingPokemon:
 	.string "有人说看到一只宝可梦从丰缘地区上\n"
 	.string "空飞过。\p"
-	.string "它总是在天空中飞吗？它不用休息吗\n"
-	.string "？$"
+	.string "它总是在天空中飞吗？它不用休息\n"
+	.string "吗？$"
 
 PacifidlogTown_House4_Text_SkyPokemon:
 	.string "空中的宝可梦！空中的宝可梦！$"

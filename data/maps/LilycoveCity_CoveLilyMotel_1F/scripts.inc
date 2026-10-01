@@ -81,8 +81,8 @@ LilycoveCity_CoveLilyMotel_1F_Text_GuestsDoubledByMascot:
 	.string "了吧？$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_NoGuestsWithTeamAqua:
-	.string "啊，抱歉，抱歉！我看电视看入迷了\n"
-	.string "！\p"
+	.string "啊，抱歉，抱歉！我看电视看入迷\n"
+	.string "了！\p"
 	.string "自从海洋队来城里以后，都没什么游\n"
 	.string "客来了。$"
 
@@ -93,17 +93,16 @@ LilycoveCity_CoveLilyMotel_1F_Text_MonFoundLostItem:
 	.string "真吃惊！你说宝可梦可以找到别人掉\n"
 	.string "下的东西？\p"
 	.string "如果我们也有那么聪明的宝可梦……\p"
-	.string "我们就能找出客人们遗落的东西了…\n"
-	.string "…$"
+	.string "我们就能找出客人们遗落的东西了……$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_HeardAquaHideoutBusted:
-	.string "啊，抱歉，抱歉！我看电视看入迷了\n"
-	.string "！\p"
+	.string "啊，抱歉，抱歉！我看电视看入迷\n"
+	.string "了！\p"
 	.string "我听说有人到捣毁了海洋队的基地，\p"
 	.string "多亏如此，我们刚刚接到了一个大团\n"
 	.string "体订房预约，\p"
-	.string "是一个公司，叫做……呃……游戏什\n"
-	.string "么的……$"
+	.string "是一个公司，叫做……呃……游戏什么\n"
+	.string "的……$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_HouseSittingMonCaughtBurglar:
 	.string "好家伙！看门的宝可梦捉到了窃贼？\p"
@@ -111,10 +110,10 @@ LilycoveCity_CoveLilyMotel_1F_Text_HouseSittingMonCaughtBurglar:
 	.string "我们的客人会更有安全感。$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_BetterGetWorkingOnGuestsDinner:
-	.string "啊，抱歉，抱歉！我看电视看入迷了\n"
-	.string "。\p"
-	.string "嗯，没错，刚刚来了一个团队的客人\n"
-	.string "，\p"
+	.string "啊，抱歉，抱歉！我看电视看入迷\n"
+	.string "了。\p"
+	.string "嗯，没错，刚刚来了一个团队的客\n"
+	.string "人，\p"
 	.string "他们以游戏狂想家之名订的房间，我\n"
 	.string "想他们一定是制作游戏的人。\p"
 	.string "啊——噢，我得赶紧去准备晚饭了！$"

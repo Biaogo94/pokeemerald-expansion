@@ -104,8 +104,8 @@ EcruteakCity_PokemonCenter1F_Text_Bill1:
 EcruteakCity_PokemonCenter1F_Text_Bill2:
 	.string "我刚刚完成了宝可梦储存系统的最终\n"
 	.string "调整。\p"
-	.string "你知道用来存放宝可梦的那台电脑吗\n"
-	.string "？\p"
+	.string "你知道用来存放宝可梦的那台电脑\n"
+	.string "吗？\p"
 	.string "那可是我亲自开发的哦！\p"
 	.string "现在这里的也安装好了，城都和关都\n"
 	.string "的所有宝可梦中心都可以使用我的电\l"

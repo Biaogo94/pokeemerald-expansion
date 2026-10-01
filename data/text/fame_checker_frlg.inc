@@ -46,8 +46,8 @@ gFameCheckerFlavorText_ProfOak4:: @ 0x81AD2B9
 	.string "{SHADOW LIGHT_GRAY}\l"
 	.string "听说大木那家伙对你很感兴趣啊，孩\l"
 	.string "子。\p"
-	.string "那个老骨头当年可是又强壮又英俊呢\n"
-	.string "。\p"
+	.string "那个老骨头当年可是又强壮又英俊\n"
+	.string "呢。\p"
 	.string "不过那是几十年前的事了。现在已经\n"
 	.string "完全没有当年的风采喽。$"
 
@@ -92,10 +92,10 @@ gFameCheckerFlavorText_Daisy2:: @ 0x81AD516
 	.string "{FONT_MALE}\n"
 	.string "{COLOR DARK_GRAY}\l"
 	.string "{SHADOW LIGHT_GRAY}\l"
-	.string "她温柔地给宝可梦梳理毛发....\l"
-	.string "..简直就像个小天使。\p"
-	.string "那个小女孩的名字......好像\n"
-	.string "是叫奈奈美吧。$"
+	.string "她温柔地给宝可梦梳理毛发......简\l"
+	.string "直就像个小天使。\p"
+	.string "那个小女孩的名字......好像是叫奈\n"
+	.string "奈美吧。$"
 
 gFameCheckerFlavorText_Daisy3:: @ 0x81AD5A7
 	.string "{COLOR BLUE}\n"
@@ -157,8 +157,8 @@ gFameCheckerFlavorText_Brock2:: @ 0x81AD840
 	.string "{COLOR DARK_GRAY}\l"
 	.string "{SHADOW LIGHT_GRAY}\l"
 	.string "这里认真的宝可梦训练家可不多。\p"
-	.string "他们大多像捕虫少年一样，你知道的\n"
-	.string "，纯粹是当成爱好。\p"
+	.string "他们大多像捕虫少年一样，你知道\n"
+	.string "的，纯粹是当成爱好。\p"
 	.string "但深灰道馆的小刚可绝不是那样，一\n"
 	.string "点儿也不像。$"
 
@@ -171,8 +171,8 @@ gFameCheckerFlavorText_Brock3:: @ 0x81AD908
 	.string "{SHADOW LIGHT_GRAY}\l"
 	.string "小刚很酷，他可不只是实力强悍。大\l"
 	.string "家都喜欢而且敬佩他。\p"
-	.string "我也想成为一名像他那样的道馆馆主\n"
-	.string "。$"
+	.string "我也想成为一名像他那样的道馆馆\n"
+	.string "主。$"
 
 gFameCheckerFlavorText_Brock4:: @ 0x81AD99A
 	.string "{COLOR BLUE}\n"
@@ -181,8 +181,8 @@ gFameCheckerFlavorText_Brock4:: @ 0x81AD99A
 	.string "{FONT_MALE}\n"
 	.string "{COLOR DARK_GRAY}\l"
 	.string "{SHADOW LIGHT_GRAY}\l"
-	.string "你好，我正在月见山地下发掘化石呢\l"
-	.string "。\p"
+	.string "你好，我正在月见山地下发掘化石\l"
+	.string "呢。\p"
 	.string "有时候，深灰道馆的小刚也会来帮我\n"
 	.string "的忙。$"
 
@@ -233,8 +233,8 @@ gFameCheckerFlavorText_Misty3:: @ 0x81ADBD9
 	.string "{SHADOW LIGHT_GRAY}\l"
 	.string "这一带经常能见到强劲的训练家和水\l"
 	.string "属性宝可梦。\p"
-	.string "据说华蓝道馆的小霞也在这里修行呢\n"
-	.string "。$"
+	.string "据说华蓝道馆的小霞也在这里修行\n"
+	.string "呢。$"
 
 gFameCheckerFlavorText_Misty4:: @ 0x81ADC72
 	.string "{COLOR BLUE}\n"
@@ -353,8 +353,8 @@ gFameCheckerFlavorText_Erika3:: @ 0x81AE15B
 	.string "{COLOR DARK_GRAY}\l"
 	.string "{SHADOW LIGHT_GRAY}\l"
 	.string "我们道馆只使用草属性宝可梦。\p"
-	.string "至于原因嘛......因为我们还\n"
-	.string "会用它们来插花呢！$"
+	.string "至于原因嘛......因为我们还会用它\n"
+	.string "们来插花呢！$"
 
 gFameCheckerFlavorText_Erika4:: @ 0x81AE1E5
 	.string "{COLOR BLUE}\n"
@@ -455,8 +455,8 @@ gFameCheckerFlavorText_Sabrina1:: @ 0x81AE656
 	.string "{COLOR DARK_GRAY}\l"
 	.string "{SHADOW LIGHT_GRAY}\l"
 	.string "你知道金黄市的那位年轻女馆主吗？\p"
-	.string "她使用的是超能力属性宝可梦，对吧\n"
-	.string "？$"
+	.string "她使用的是超能力属性宝可梦，对\n"
+	.string "吧？$"
 
 gFameCheckerFlavorText_Sabrina2:: @ 0x81AE6D7
 	.string "{COLOR BLUE}\n"
@@ -609,8 +609,8 @@ gFameCheckerFlavorText_Lorelei4:: @ 0x81AEDAA
 	.string "{FONT_FEMALE}\n"
 	.string "{COLOR DARK_GRAY}\l"
 	.string "{SHADOW LIGHT_GRAY}\l"
-	.string "你知道科拿有好多好多的毛绒玩偶吗\l"
-	.string "？\p"
+	.string "你知道科拿有好多好多的毛绒玩偶\l"
+	.string "吗？\p"
 	.string "她每次回4之岛的时候，收藏的玩偶\n"
 	.string "就会变得更多呢！$"
 
@@ -685,9 +685,8 @@ gFameCheckerFlavorText_Bruno5:: @ 0x81AF19A
 	.string "{FONT_MALE}\n"
 	.string "{COLOR DARK_GRAY}\l"
 	.string "{SHADOW LIGHT_GRAY}\l"
-	.string "即使是强如希巴......从前也\l"
-	.string "曾和一个叫藤树的家伙一起修行过呢\l"
-	.string "。$"
+	.string "即使是强如希巴......从前也曾和一\l"
+	.string "个叫藤树的家伙一起修行过呢。$"
 
 gFameCheckerFlavorText_Agatha0:: @ 0x81AF200
 	.string "{COLOR BLUE}\n"
@@ -737,8 +736,8 @@ gFameCheckerFlavorText_Agatha4:: @ 0x81AF3BE
 	.string "{SHADOW LIGHT_GRAY}\l"
 	.string "听说大木那家伙对你很感兴趣啊，孩\l"
 	.string "子。\p"
-	.string "那个老骨头当年可是又强壮又英俊呢\n"
-	.string "。\p"
+	.string "那个老骨头当年可是又强壮又英俊\n"
+	.string "呢。\p"
 	.string "不过那是几十年前的事了。现在已经\n"
 	.string "完全没有当年的风采喽。$"
 
@@ -796,8 +795,8 @@ gFameCheckerFlavorText_Lance3:: @ 0x81AF6BA
 	.string "{SHADOW LIGHT_GRAY}\l"
 	.string "有位常客名叫阿渡，偶尔会来这里。\p"
 	.string "他每次都只买披风。\p"
-	.string "我很好奇......他家里是不是\n"
-	.string "有一堆一模一样的披风呢？$"
+	.string "我很好奇......他家里是不是有一堆\n"
+	.string "一模一样的披风呢？$"
 
 gFameCheckerFlavorText_Lance4:: @ 0x81AF758
 	.string "{COLOR BLUE}\n"
@@ -970,8 +969,7 @@ gFameCheckerFlavorText_Giovanni1:: @ 0x81AFF23
 	.string "{FONT_MALE}\n"
 	.string "{COLOR DARK_GRAY}\l"
 	.string "{SHADOW LIGHT_GRAY}\l"
-	.string "那些占领我们大楼的暴徒....\l"
-	.string "..\p"
+	.string "那些占领我们大楼的暴徒......\p"
 	.string "他们的老大说他在寻找强大的宝可\n"
 	.string "梦。$"
 
@@ -1014,8 +1012,7 @@ gFameCheckerFlavorText_Giovanni5:: @ 0x81B0106
 	.string "{FONT_MALE}\n"
 	.string "{COLOR DARK_GRAY}\l"
 	.string "{SHADOW LIGHT_GRAY}\l"
-	.string "你......你不是坂木的孩子\l"
-	.string "吧？\p"
+	.string "你......你不是坂木的孩子吧？\p"
 	.string "不对，不可能。坂木的孩子长着一头\n"
 	.string "红发呢。$"
 
@@ -1129,8 +1126,8 @@ gFameCheckerPersonQuote_Erika:: @ 0x81B0510
 	.string "我真的感到非常欣慰。\p"
 	.string "只要意识到这点，就会激励我更加努\n"
 	.string "力精进呢。\p"
-	.string "请一定要再来找我玩哦。呼...\n"
-	.string "...呼......$"
+	.string "请一定要再来找我玩哦。呼......\n"
+	.string "呼......$"
 
 gFameCheckerPersonName_Koga:: @ 0x81B05C2
 	.string "{COLOR BLUE}\n"
@@ -1163,8 +1160,8 @@ gFameCheckerPersonQuote_Sabrina:: @ 0x81B0675
 	.string "{COLOR DARK_GRAY}\l"
 	.string "{SHADOW LIGHT_GRAY}\l"
 	.string "你对宝可梦倾注的爱意......\p"
-	.string "那是连我的超能力也无法战胜的力量\n"
-	.string "。$"
+	.string "那是连我的超能力也无法战胜的力\n"
+	.string "量。$"
 
 gFameCheckerPersonName_Blaine:: @ 0x81B06FB
 	.string "{COLOR BLUE}\n"
@@ -1286,10 +1283,10 @@ gFameCheckerPersonQuote_MrFuji:: @ 0x81B0B0E
 	.string "{FONT_MALE}\n"
 	.string "{COLOR DARK_GRAY}\l"
 	.string "{SHADOW LIGHT_GRAY}\l"
-	.string "与其仅祈愿你自己的宝可梦获得幸福\l"
-	.string "......\p"
-	.string "......老夫能否拜托你，祈愿\n"
-	.string "所有宝可梦都能得到幸福呢？$"
+	.string "与其仅祈愿你自己的宝可梦获得幸\l"
+	.string "福......\p"
+	.string "......老夫能否拜托你，祈愿所有宝\n"
+	.string "可梦都能得到幸福呢？$"
 
 gFameCheckerPersonName_Giovanni:: @ 0x81B0BA6
 	.string "{COLOR BLUE}\n"
@@ -1911,8 +1908,8 @@ PokemonJournal_Text_SpecialFeatureErika::
 PokemonJournal_Text_SpecialFeatureKoga::
 	.string "《宝可梦周刊》\p"
 	.string "浅红道馆馆主阿桔特辑！\p"
-	.string "据说阿桔对医药有着极为深厚的造诣\n"
-	.string "。\p"
+	.string "据说阿桔对医药有着极为深厚的造\n"
+	.string "诣。\p"
 	.string "他甚至会亲自配药来为自己的宝可梦\n"
 	.string "调理身体。$"
 
@@ -1932,8 +1929,8 @@ PokemonJournal_Text_SpecialFeatureLorelei::
 	.string "《宝可梦周刊》\p"
 	.string "四天王科拿特辑！\p"
 	.string "以沉着冷静、精于算计的对战风格闻\n"
-	.string "名的科拿，其实有着令人意外的秘密\l"
-	.string "！$"
+	.string "名的科拿，其实有着令人意外的秘\l"
+	.string "密！$"
 
 PokemonJournal_Text_SpecialFeatureBruno::
 	.string "《宝可梦周刊》\p"
@@ -1958,12 +1955,12 @@ PokemonJournal_Text_SpecialFeatureProfOak::
 	.string "《宝可梦周刊》\p"
 	.string "宝可梦研究巨擘--大木博士特辑！\p"
 	.string "据报道，大木博士如今与孙女奈奈美\n"
-	.string "以及孙子{RIVAL}生活在一起\l"
-	.string "。$"
+	.string "以及孙子{RIVAL}生活在一\l"
+	.string "起。$"
 
 PokemonJournal_Text_SpecialFeatureDaisyOak::
-	.string "这是一份很多年前的《宝可梦周刊》\n"
-	.string "......\p"
+	.string "这是一份很多年前的《宝可梦周刊"
+	.string "》......\p"
 	.string "《宝可梦周刊》华丽大赛特辑！\p"
 	.string "春季宝可梦华丽大赛的总冠军是来自\n"
 	.string "真新镇的大木奈奈美！$"

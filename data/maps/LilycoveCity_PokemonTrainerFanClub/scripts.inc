@@ -591,13 +591,13 @@ LilycoveCity_PokemonTrainerFanClub_Text_TrainersPowerIsOutOfTheOrdinary:
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsBestNoOneWantsToListen:
 	.string "可恶……我一直在提醒大家\n"
-	.string "{STR_VAR_1}才是最棒的\l"
-	.string "……\p"
+	.string "{STR_VAR_1}才是最棒\l"
+	.string "的……\p"
 	.string "但没人肯听我的……$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_HearingAboutToughNewTrainer:
-	.string "我听说出现了一个很强的新人训练家\n"
-	.string "，\p"
+	.string "我听说出现了一个很强的新人训练\n"
+	.string "家，\p"
 	.string "据说这个训练家的实力足以打败道馆\n"
 	.string "馆主们。\p"
 	.string "你知道这个新人训练家吗？$"
@@ -631,8 +631,8 @@ LilycoveCity_PokemonTrainerFanClub_Text_YouveSurpassedYourFather:
 	.string "是我说的，所以这毫无疑问！$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YourFatherNeverGaveUpSoKeepOnBattling:
-	.string "即使遇到挫折，你的父亲也不会放弃\n"
-	.string "，\p"
+	.string "即使遇到挫折，你的父亲也不会放\n"
+	.string "弃，\p"
 	.string "我相信这点。\p"
 	.string "就算你输了，也不要气馁！坚持战斗\n"
 	.string "下去！$"
@@ -641,8 +641,8 @@ LilycoveCity_PokemonTrainerFanClub_Text_LongWayToGoComparedToNorman:
 	.string "尽管人们都说你比较强，\p"
 	.string "但千里的对战更有活力，更有激情，\n"
 	.string "更富于表现力……\p"
-	.string "要赶上你父亲，你还有很长的路要走\n"
-	.string "。$"
+	.string "要赶上你父亲，你还有很长的路要\n"
+	.string "走。$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouAndNormanAreDifferent:
 	.string "你所散发出来的气息和千里越发相似\n"
@@ -652,8 +652,8 @@ LilycoveCity_PokemonTrainerFanClub_Text_YouAndNormanAreDifferent:
 	.string "自己去发掘。$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_WeDiscussStrongestTrainers:
-	.string "这里的所有人都非常喜欢宝可梦对战\n"
-	.string "，\p"
+	.string "这里的所有人都非常喜欢宝可梦对\n"
+	.string "战，\p"
 	.string "我们互相讨论所有训练家之中谁比较\n"
 	.string "强。\p"
 	.string "如果你出名了，我们也可能成为你的\n"
@@ -687,8 +687,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_WishThereWasTrainerLikeThat:
 	.string "沉着……\p"
 	.string "强大……\p"
 	.string "而且很友善……\p"
-	.string "不知道是不是真的有这样的训练家…\n"
-	.string "…$"
+	.string "不知道是不是真的有这样的训练家……$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_WantToBeStrongLikeYou:
 	.string "哇！是{PLAYER}！太棒了！\p"
@@ -702,8 +701,8 @@ LilycoveCity_PokemonTrainerFanClub_Text_OnlyOneWhoCheersForYou:
 	.string "我相信你，{PLAYER}！$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsWickedlyCool:
-	.string "{STR_VAR_1}非常优秀…\n"
-	.string "…真想和我的英雄握一握手。$"
+	.string "{STR_VAR_1}非常优秀……\n"
+	.string "真想和我的英雄握一握手。$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_NeverGoingToStopBeingTrainersFan:
 	.string "就算只有我一个……\p"
@@ -738,8 +737,8 @@ LilycoveCity_PokemonTrainerFanClub_Text_YoureMaybeStrongerThanTrainer:
 LilycoveCity_PokemonTrainerFanClub_Text_YouChangedMyMind:
 	.string "你让我改主意了！你真的很强，不是\n"
 	.string "吗？\p"
-	.string "告诉我你是怎么变得这么强的，好吗\n"
-	.string "？$"
+	.string "告诉我你是怎么变得这么强的，好\n"
+	.string "吗？$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouBattleAttractivelyInToughSituation:
 	.string "情况越严重，你的对战就越吸引人。\p"
@@ -768,8 +767,8 @@ LilycoveCity_PokemonTrainerFanClub_Text_YouImpressive:
 
 LilycoveCity_PokemonTrainerFanClub_Text_OnlyIRecognizeYourTrueWorth:
 	.string "要是我早认识到你的能力多好。\p"
-	.string "我怀疑其他人无法理解那内在的潜能\n"
-	.string "。$"
+	.string "我怀疑其他人无法理解那内在的潜\n"
+	.string "能。$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_HaventRealizedPotential:
 	.string "是的，我在你眼中看到了力量，\p"

@@ -109,14 +109,12 @@ Route17_Text_BikerJoelSeen:
 	.string "哇，那辆自行车真帅！$"
 
 Route17_Text_BikerJoelBeaten:
-	.string "但你不光是看起来帅而已……\n"
-	.string ".$"
+	.string "但你不光是看起来帅而已…….$"
 
 Route17_Text_BikerJoelAfterBattle:
 	.string "我看起来很酷，但实力太弱，所以根\n"
 	.string "本算不上真帅。\p"
-	.string "我必须更加努力特训才行……\n"
-	.string ".$"
+	.string "我必须更加努力特训才行…….$"
 
 Route17_Text_BikerGlennSeen:
 	.string "喂！想来一场速度的对决吗？$"
@@ -165,8 +163,8 @@ Route17_Text_JoelPostRematch:
 	.string "继续特训的！$"
 
 Route17_Text_CharlesRegister:
-	.string "小鬼，你跟我一样是个芳心纵火犯啊\n"
-	.string "！把你的号码告诉我吧！$"
+	.string "小鬼，你跟我一样是个芳心纵火犯\n"
+	.string "啊！把你的号码告诉我吧！$"
 
 Route17_Text_CharlesRematchIntro:
 	.string "我可不仅是公路之星，还是个芳心纵\n"

@@ -672,32 +672,31 @@ AzaleaTown_Gym_Text_BugsyIntro:
 	.string "输给任何人的。\p"
 	.string "我的研究总有一天会让我成为虫属性\n"
 	.string "宝可梦的权威！\p"
-	.string "就让你见识一下我平时的钻研成果吧\n"
-	.string "。$"
+	.string "就让你见识一下我平时的钻研成果\n"
+	.string "吧。$"
 
 AzaleaTown_Gym_Text_BugsyBeaten:
 	.string "哇--好厉害！你真是宝可梦的高手\n"
 	.string "啊！\p"
 	.string "我的研究还远远不够呢。\p"
-	.string "好吧，我认输了。把这个徽章拿去吧\n"
-	.string "。$"
+	.string "好吧，我认输了。把这个徽章拿去\n"
+	.string "吧。$"
 
 AzaleaTown_Gym_Text_ReceivedHiveBadge:
 	.string "{PLAYER}获得了昆虫徽章。$"
 
 AzaleaTown_Gym_Text_HiveBadgeSpeech:
 	.string "你知道昆虫徽章的效果吗？\p"
-	.string "有了它，包括交换来的在内，30级\n"
-	.string "以下的宝可梦都会听你的话，\p"
+	.string "有了它，包括交换来的在内，30级以\n"
+	.string "下的宝可梦都会听你的话，\p"
 	.string "而且在战斗外也可以使用学会的“居\n"
 	.string "合斩”了。\p"
 	.string "还有，我也把这个送给你吧。$"
 
 AzaleaTown_Gym_Text_FuryCutterSpeech:
-	.string "招式学习器89里面是“急速折返\n"
-	.string "”。\p"
-	.string "“急速折返”能在给予伤害的同时，\n"
-	.string "在同一回合内替换宝可梦出场！\p"
+	.string "招式学习器89里面是“急速折返”。\p"
+	.string "“急速折返”能在给予伤害的同时，在\n"
+	.string "同一回合内替换宝可梦出场！\p"
 	.string "很厉害吧？这可是我的重大发现！$"
 
 AzaleaTown_Gym_Text_BugsyAdvice:
@@ -709,8 +708,8 @@ AzaleaTown_Gym_Text_BugsyRematch:
 	.string "哇，你现在已经是城都冠军了！\p"
 	.string "你的实力真的很令人惊叹！\p"
 	.string "我也一直在忙着做研究呢。\p"
-	.string "我已经准备好向你展示我的新发现了\n"
-	.string "。\p"
+	.string "我已经准备好向你展示我的新发现\n"
+	.string "了。\p"
 	.string "想和我再来对战一次吗？$"
 
 AzaleaTown_Gym_Text_BugsyRematchDefeat:
@@ -749,8 +748,8 @@ AzaleaTown_Gym_Text_BugCatcherJoshBeaten:
 	.string "呃啊啊啊！$"
 
 AzaleaTown_Gym_Text_BugCatcherJoshAfter:
-	.string "看来我得教它们更厉害的招式才行\n"
-	.string "......$"
+	.string "看来我得教它们更厉害的招式才行.\n"
+	.string ".....$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay1Seen:
 	.string "艾咪：嗨！你想要挑战馆主？别做梦\n"
@@ -785,9 +784,8 @@ AzaleaTown_Gym_Text_GymGuide:
 	.string "的了解可是货真价实的。\p"
 	.string "如果没有我的建议，挑战会很艰难\n"
 	.string "哦。\p"
-	.string "让我想想……阿笔的蓑衣虫\n"
-	.string "宝可梦学会了能弥补其岩石属性弱点\l"
-	.string "的招式。\p"
+	.string "让我想想……阿笔的蓑衣虫宝可梦学会\n"
+	.string "了能弥补其岩石属性弱点的招式。\p"
 	.string "对了，可别忘了那些棘手的要害击\n"
 	.string "中！祝你好运！$"
 

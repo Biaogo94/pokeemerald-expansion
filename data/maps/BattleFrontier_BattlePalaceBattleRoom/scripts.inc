@@ -441,8 +441,8 @@ BattleFrontier_BattlePalaceBattleRoom_Movement_SpenserEnter:
 	step_end
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetMeRestoreYourMons:
-	.string "太精彩了……让我帮您的宝可梦回复\n"
-	.string "体力。$"
+	.string "太精彩了……让我帮您的宝可梦回复体\n"
+	.string "力。$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor2ndOpponent:
 	.string "下面是第2个对手，准备好了吗？$"
@@ -522,8 +522,8 @@ BattleFrontier_BattlePalaceBattleRoom_Text_SpenserAwaitNextTime:
 	.string "会。$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack:
-	.string "郁金：哇哈哈哈！你又一路赢过来了\n"
-	.string "？\p"
+	.string "郁金：哇哈哈哈！你又一路赢过来\n"
+	.string "了？\p"
 	.string "你和你的宝可梦之间的牵绊看来已然\n"
 	.string "坚不可摧。\p"
 	.string "很好！\p"
@@ -543,13 +543,13 @@ BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable:
 BattleFrontier_BattlePalaceBattleRoom_Text_HurryWithFrontierPass:
 	.string "唉，真是的，明明应该再保持点风度\n"
 	.string "的……\p"
-	.string "嘎啊，来！把您的开拓通行证拿来吧\n"
-	.string "！$"
+	.string "嘎啊，来！把您的开拓通行证拿来\n"
+	.string "吧！$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpiritsSymbolTookGoldenShine:
 	.string "精神象征闪耀着金色的光芒！$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserComeSeeMeAgain:
 	.string "郁金：哇哈哈哈！\p"
-	.string "记得常来！我和我的伙伴会等着你的\n"
-	.string "！$"
+	.string "记得常来！我和我的伙伴会等着你\n"
+	.string "的！$"

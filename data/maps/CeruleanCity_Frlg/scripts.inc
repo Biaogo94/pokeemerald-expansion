@@ -389,19 +389,19 @@ CeruleanCity_Text_OhRightLittlePresentAsFavor::
 	.string "所以呐，我要送你一个小小的礼物。$"
 
 CeruleanCity_Text_ExplainFameCheckerSmellYa::
-	.string "虽然这个东西废话很多……但是东西\n"
-	.string "本身倒不坏。\p"
+	.string "虽然这个东西废话很多……但是东西本\n"
+	.string "身倒不坏。\p"
 	.string "我不需要它是因为我才不喜欢和别人\n"
 	.string "唠唠叨叨的。\p"
-	.string "现在我可是真的要走了，有缘再会了\n"
-	.string "！$"
+	.string "现在我可是真的要走了，有缘再会\n"
+	.string "了！$"
 
 CeruleanCity_Text_GruntIntro::
-	.string "嘿！给我站住！这里可不是你的院子\n"
-	.string "！\p"
+	.string "嘿！给我站住！这里可不是你的院\n"
+	.string "子！\p"
 	.string "……什么？我是干什么的\p"
-	.string "我是路过打酱油的！……你不相信我\n"
-	.string "？{PLAY_BGM}\l"
+	.string "我是路过打酱油的！……你不相信我？\n"
+	.string "{PLAY_BGM}\l"
 	.string "{MUS_RG_ENCOUNTER_ROCKET}$"
 
 CeruleanCity_Text_GruntDefeat::
@@ -409,8 +409,8 @@ CeruleanCity_Text_GruntDefeat::
 	.string "开的！$"
 
 CeruleanCity_Text_OkayIllReturnStolenTM::
-	.string "……我懂了。我会把我偷的技能交出\n"
-	.string "来的。$"
+	.string "……我懂了。我会把我偷的技能交出来\n"
+	.string "的。$"
 
 CeruleanCity_Text_RecoveredTM28FromGrunt::
 	.string "{PLAYER}从火箭队队员那里\n"
@@ -425,8 +425,8 @@ CeruleanCity_Text_MakeRoomForThisCantRun::
 
 CeruleanCity_Text_TrainerLifeIsToughIsntIt::
 	.string "你也是一个训练家对不对？\p"
-	.string "收集，战斗……这是一条艰辛的路啊\n"
-	.string "，可不是吗？$"
+	.string "收集，战斗……这是一条艰辛的路啊，\n"
+	.string "可不是吗？$"
 
 CeruleanCity_Text_YouCanCutDownSmallTrees::
 	.string "你知道用居合斩能砍倒细小的树吗？\p"
@@ -495,8 +495,8 @@ CeruleanCity_Text_ThisIsCeruleanCave::
 	.string "里面。\p"
 	.string "只有那些特别的训练家才能够被允许\n"
 	.string "入内。\p"
-	.string "如果你成为了宝可梦联盟的联盟冠军\n"
-	.string "。\p"
+	.string "如果你成为了宝可梦联盟的联盟冠\n"
+	.string "军。\p"
 	.string "才有足够的实力进去挑战。$"
 
 CeruleanCity_Text_CitySign::

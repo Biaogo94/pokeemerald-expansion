@@ -149,8 +149,8 @@ SlowpokeWell_B1F_Text_GruntM2After:
 
 SlowpokeWell_B1F_Text_GruntF1Seen:
 	.string "不要割尾巴？\p"
-	.string "行啊，有本事把我们全都打倒试试看\n"
-	.string "！$"
+	.string "行啊，有本事把我们全都打倒试试\n"
+	.string "看！$"
 
 SlowpokeWell_B1F_Text_GruntF1Beaten:
 	.string "你这个臭小鬼！$"

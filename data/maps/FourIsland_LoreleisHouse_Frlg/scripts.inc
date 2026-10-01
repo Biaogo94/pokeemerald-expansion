@@ -38,8 +38,8 @@ FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
 	.string "如果在我所出生的岛上发生了什么事\n"
 	.string "情……\p"
 	.string "而在宝可梦联盟的我是全然不知的。\p"
-	.string "我想知道……我会不会为了这样的原\n"
-	.string "因不负责任地跑回家……$"
+	.string "我想知道……我会不会为了这样的原因\n"
+	.string "不负责任地跑回家……$"
 
 FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
 	.string "科拿：那么，你会在这儿设法解决掉\n"
@@ -56,6 +56,6 @@ FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow::
 	.string "也是我唯一能做的了。$"
 
 FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore::
-	.string "胖嘟嘟的宝可梦娃娃被打扮得很漂亮\n"
-	.string "！$"
+	.string "胖嘟嘟的宝可梦娃娃被打扮得很漂\n"
+	.string "亮！$"
 

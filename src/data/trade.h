@@ -51,8 +51,8 @@ static const u8 sText_Summary2[] = _("查看能力");
 static const u8 sText_Trade2[] = _("交换");
 static const u8 sText_CommunicationStandby[] = _("{BACKGROUND WHITE}\n{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}\l正在等待连接……请稍等片刻。");
 static const u8 sText_TheTradeHasBeenCanceled[] = _("{BACKGROUND WHITE}\n{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}\l宝可梦交换已中止。");
-static const u8 sText_OnlyPkmnForBattle[] = _("最后1只同行的宝可梦不能用来交换\n。");
-static const u8 sText_WaitingForYourFriend[] = _("{BACKGROUND WHITE}\n{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}\l正在等待对方的回复……请稍等片刻\l。");
+static const u8 sText_OnlyPkmnForBattle[] = _("最后1只同行的宝可梦不能用来交换。");
+static const u8 sText_WaitingForYourFriend[] = _("{BACKGROUND WHITE}\n{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}\l正在等待对方的回复……请稍等片刻。");
 static const u8 sText_YourFriendWantsToTrade[] = _("对方想要交换宝可梦。");
 
 static const struct OamData sOamData_MenuText =

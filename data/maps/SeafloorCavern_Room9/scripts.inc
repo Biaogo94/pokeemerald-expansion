@@ -226,35 +226,34 @@ SeafloorCavern_Room9_Text_ArchieSoItWasYou:
 
 SeafloorCavern_Room9_Text_ArchieBeholdKyogre:
 	.string "水梧桐：看吧！\p"
-	.string "这超古代宝可梦——盖欧卡，它沉睡\n"
-	.string "的姿态是多么美丽！\p"
+	.string "这超古代宝可梦——盖欧卡，它沉睡的\n"
+	.string "姿态是多么美丽！\p"
 	.string "我等这一天等了太久了……$"
 
 SeafloorCavern_Room9_Text_ArchieYouMustDisappear:
 	.string "水梧桐：你能追到这里来确实让我惊\n"
 	.string "讶。\p"
 	.string "但一切都结束了。\p"
-	.string "为了实现我的梦想，你必须在此消失\n"
-	.string "！$"
+	.string "为了实现我的梦想，你必须在此消\n"
+	.string "失！$"
 
 SeafloorCavern_Room9_Text_ArchieDefeat:
 	.string "什么？！居然输给区区一个小鬼？！$"
 
 SeafloorCavern_Room9_Text_ArchieWithThisRedOrb:
 	.string "水梧桐：呵呵呵……\p"
-	.string "该说真不愧是你吗……我承认你确实\n"
-	.string "有两下子。\p"
+	.string "该说真不愧是你吗……我承认你确实有\n"
+	.string "两下子。\p"
 	.string "但是！我拥有这个！\p"
-	.string "只要用朱红色宝珠，我可以让盖欧卡\n"
-	.string "……$"
+	.string "只要用朱红色宝珠，我可以让盖欧\n"
+	.string "卡……$"
 
 SeafloorCavern_Room9_Text_RedOrbShinesByItself:
 	.string "朱红色宝珠开始自己发出光芒了！$"
 
 SeafloorCavern_Room9_Text_ArchieWhereDidKyogreGo:
 	.string "水梧桐：什么？！\p"
-	.string "我什么都没做！朱红色宝珠怎么会…\n"
-	.string "…\p"
+	.string "我什么都没做！朱红色宝珠怎么会……\p"
 	.string "盖欧卡去哪了？$"
 
 SeafloorCavern_Room9_Text_ArchieAMessageFromOutside:
@@ -264,9 +263,9 @@ SeafloorCavern_Room9_Text_ArchieAMessageFromOutside:
 SeafloorCavern_Room9_Text_ArchieWhatRainingTooHard:
 	.string "水梧桐：是我，怎么了？\p"
 	.string "嗯……下暴雨了？\p"
-	.string "很好……意料之中。这就是我们唤醒\n"
-	.string "盖欧卡的目的，为实现海洋队扩张大\l"
-	.string "海的愿景。\p"
+	.string "很好……意料之中。这就是我们唤醒盖\n"
+	.string "欧卡的目的，为实现海洋队扩张大海\l"
+	.string "的愿景。\p"
 	.string "什么？！\p"
 	.string "雨量远远超出预期？你们也陷入危险\n"
 	.string "了？\p"
@@ -290,10 +289,10 @@ SeafloorCavern_Room9_Text_MaxieWhatHaveYouWrought:
 	.string "所有的陆地都将被海水淹没……$"
 
 SeafloorCavern_Room9_Text_ArchieDontGetAllHighAndMighty:
-	.string "水梧桐：什——什么？！少在这里装\n"
-	.string "腔作势！\p"
-	.string "难道不是你们熔岩队激怒了固拉多吗\n"
-	.string "？\p"
+	.string "水梧桐：什——什么？！少在这里装腔\n"
+	.string "作势！\p"
+	.string "难道不是你们熔岩队激怒了固拉多\n"
+	.string "吗？\p"
 	.string "只要我有朱红色宝珠，我应该还能控\n"
 	.string "制盖欧卡……\p"
 	.string "我应该能的……$"

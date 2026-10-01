@@ -27,8 +27,8 @@ CeladonDept6_EventScript_Directory::
 
 
 CeladonDeptStore6F_Text_Vending:
-	.string "是自动售货机！来看看有什么饮料吧\n"
-	.string "。$"
+	.string "是自动售货机！来看看有什么饮料\n"
+	.string "吧。$"
 
 CeladonDeptStore6F_Text_Clang:
 	.string "匡啷！\p"
@@ -38,12 +38,10 @@ CeladonDeptStore6F_Text_VendingNoMoney:
 	.string "哎呀，身上的钱不够……$"
 
 CeladonDeptStore6F_Text_VendingNoSpace:
-	.string "背包里已经装不下更多东西了...\n"
-	.string "...$"
+	.string "背包里已经装不下更多东西了......$"
 
 CeladonDeptStore6F_Text_SuperNerd:
-	.string "带抽奖轮盘的自动售货机……\n"
-	.string ".\p"
+	.string "带抽奖轮盘的自动售货机…….\p"
 	.string "现在已经见不到了呢。$"
 
 CeladonDeptStore6F_Text_Youngster:

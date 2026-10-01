@@ -31,8 +31,8 @@ SSAnne_Deck_Text_ScrubbingDecksHardWork::
 
 SSAnne_Deck_Text_FeelSeasick::
 	.string "呃……我不舒服……\p"
-	.string "我晕船，所以我出来呼吸点新鲜空气\n"
-	.string "……$"
+	.string "我晕船，所以我出来呼吸点新鲜空\n"
+	.string "气……$"
 
 SSAnne_Deck_Text_EdmondIntro::
 	.string "嗨，朋友！\p"
@@ -52,6 +52,6 @@ SSAnne_Deck_Text_TrevorDefeat::
 	.string "我只是一时大意！$"
 
 SSAnne_Deck_Text_TrevorPostBattle::
-	.string "我老爸说一共有100种宝可梦。我\n"
-	.string "感觉应该不止这么多。$"
+	.string "我老爸说一共有100种宝可梦。我感\n"
+	.string "觉应该不止这么多。$"
 

@@ -77,8 +77,8 @@ AzaleaTown_House1_EventScript_Farfetchd::
 
 CharcoalKiln_Text_Boss1:
 	.string "镇上的呆呆兽全都消失了。\p"
-	.string "森林的守护神可能在生我们的气..\n"
-	.string "....\p"
+	.string "森林的守护神可能在生我们的气...\n"
+	.string "...\p"
 	.string "这恐怕是不祥之兆。我们还是待在屋\n"
 	.string "里吧。$"
 

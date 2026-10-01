@@ -63,8 +63,7 @@ SlateportCity_SternsShipyard_1F_EventScript_Briney::
 	end
 
 SlateportCity_SternsShipyard_1F_Text_CantMakeHeadsOrTails:
-	.string "唔……如果这个放这里，那个放那里\n"
-	.string "……\p"
+	.string "唔……如果这个放这里，那个放那里……\p"
 	.string "那么这个东西放哪里？那个装置又该\n"
 	.string "怎么办？\p"
 	.string "啊啊啊！完全理不清头绪！$"
@@ -74,8 +73,8 @@ SlateportCity_SternsShipyard_1F_Text_MeetDockDeliverToStern:
 	.string "楠木馆长雇我来设计一艘渡轮。\p"
 	.string "啊！那个……那是得文的物品吗？\p"
 	.string "但是，呃……这样不行……\p"
-	.string "楠木馆长出去了，他说有些事要处理\n"
-	.string "。\p"
+	.string "楠木馆长出去了，他说有些事要处\n"
+	.string "理。\p"
 	.string "可以请你帮忙找找楠木馆长，把包裹\n"
 	.string "交给他吗？$"
 
@@ -115,8 +114,7 @@ SlateportCity_SternsShipyard_1F_Text_DecidedToHelpDock:
 	.string "们一定能造出一了不起的船！$"
 
 SlateportCity_SternsShipyard_1F_Text_SeaIsLikeLivingThing:
-	.string "季节，天气，月亮在天空中的位置…\n"
-	.string "…\p"
+	.string "季节，天气，月亮在天空中的位置……\p"
 	.string "这些，还有其他很多东西都会对大海\n"
 	.string "产生影响。\p"
 	.string "是的！大海就好像生物一样！$"

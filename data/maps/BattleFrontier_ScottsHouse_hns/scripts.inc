@@ -210,8 +210,8 @@ BattleFrontier_ScottsHouse_EventScript_Scott_hnsFaceAwayWest_hns::
 	return
 
 BattleFrontier_ScottsHouse_Text_WelcomeToBattleFrontier_hns:
-	.string "亚希达：哎呀，欢迎欢迎！嘿嘿..\n"
-	.string "……地方有点窄，别介意啊。\p"
+	.string "亚希达：哎呀，欢迎欢迎！嘿嘿..……\n"
+	.string "地方有点窄，别介意啊。\p"
 	.string "不管怎样，{PLAYER}\n"
 	.string "{KUN}，让我正式欢迎你来到对\l"
 	.string "战开拓区。\p"
@@ -220,8 +220,8 @@ BattleFrontier_ScottsHouse_Text_WelcomeToBattleFrontier_hns:
 	.string "成了现实。$"
 
 BattleFrontier_ScottsHouse_Text_HowMuchEffortItTookToMakeReal_hns:
-	.string "回想起来，那真是一段漫长的旅途啊\n"
-	.string "......\p"
+	.string "回想起来，那真是一段漫长的旅途\n"
+	.string "啊......\p"
 	.string "我独自离开家乡，踏上寻找强大训练\n"
 	.string "家的旅程。\p"
 	.string "没有人能想象为了将它实现，我付出\n"
@@ -238,8 +238,8 @@ BattleFrontier_ScottsHouse_Text_HaveThisAsMementoOfOurPathsCrossing_hns:
 
 BattleFrontier_ScottsHouse_Text_ObtainedXBattlePoints_hns:
 	.string "{PLAYER}获得了\n"
-	.string "{STR_VAR_1}点对战点数\l"
-	.string "。$"
+	.string "{STR_VAR_1}点对战点\l"
+	.string "数。$"
 
 BattleFrontier_ScottsHouse_Text_ExplainBattlePoints_hns:
 	.string "亚希达：你可以在开拓区通行证上查\n"
@@ -253,8 +253,8 @@ BattleFrontier_ScottsHouse_Text_ExpectingGreatThings_hns:
 	.string "我非常期待你的精彩表现哦！$"
 
 BattleFrontier_ScottsHouse_Text_WhyIGoSeekingTrainers_hns:
-	.string "亚希达：每个训练家都是独特的个体\n"
-	.string "，各自过着属于自己的人生。\p"
+	.string "亚希达：每个训练家都是独特的个\n"
+	.string "体，各自过着属于自己的人生。\p"
 	.string "但是，一旦站上对战场地，他们是谁\n"
 	.string "就都不重要了。\p"
 	.string "大家全都是平等的！\p"
@@ -274,14 +274,13 @@ BattleFrontier_ScottsHouse_Text_HaveYouMetFrontierBrain_hns:
 	.string "他们也一定会大吃一惊的！$"
 
 BattleFrontier_ScottsHouse_Text_MayFindWildMonsInFrontier_hns:
-	.string "亚希达：你并不只是为了对战而特训\n"
-	.string "，对吧？\p"
-	.string "我记得你好像也在收集宝可梦图鉴呢\n"
-	.string "。\p"
+	.string "亚希达：你并不只是为了对战而特\n"
+	.string "训，对吧？\p"
+	.string "我记得你好像也在收集宝可梦图鉴\n"
+	.string "呢。\p"
 	.string "那，你猜怎么着？\p"
 	.string "在对战开拓区的某个角落，你也许会\n"
-	.string "遇到野生宝可梦哦……呼呼\l"
-	.string "呼！$"
+	.string "遇到野生宝可梦哦……呼呼呼！$"
 
 BattleFrontier_ScottsHouse_Text_YouveCollectedAllSilverSymbols_hns:
 	.string "亚希达：在对战开拓区玩得开心吗？\p"
@@ -298,8 +297,8 @@ BattleFrontier_ScottsHouse_Text_YouveCollectedAllSilverSymbols_hns:
 BattleFrontier_ScottsHouse_Text_YouveCollectedAllGoldSymbols_hns:
 	.string "亚希达：希望你在对战开拓区一切都\n"
 	.string "过得开心。\p"
-	.string "……等等……天哪\n"
-	.string "，我简直不敢相信自己的眼睛！\p"
+	.string "……等等……天哪，我简直不敢相信自己\n"
+	.string "的眼睛！\p"
 	.string "你的开拓区通行证！你竟然集齐了全\n"
 	.string "部的金色象征？！\p"
 	.string "这简直强得令人难以置信！你真是太\n"
@@ -313,8 +312,8 @@ BattleFrontier_ScottsHouse_Text_YouveCollectedAllGoldSymbols_hns:
 BattleFrontier_ScottsHouse_Text_SoGladIBroughtYouHere_hns:
 	.string "不得不说，我在识别人才训练家方面\n"
 	.string "确实很有天赋呢。\p"
-	.string "真庆幸我有先见之明把你带到了这里\n"
-	.string "！$"
+	.string "真庆幸我有先见之明把你带到了这\n"
+	.string "里！$"
 
 BattleFrontier_ScottsHouse_Text_BerryPocketStuffed_hns:
 	.string "你的树果口袋好像已经装满了。$"
@@ -333,8 +332,8 @@ BattleFrontier_ScottsHouse_Text_Beat100TrainersInARow_hns:
 	.string "收下这个！$"
 
 BattleFrontier_ScottsHouse_Text_ExpectingToHearEvenGreaterThings_hns:
-	.string "我今后会期待听到你更加惊人的传闻\n"
-	.string "！$"
+	.string "我今后会期待听到你更加惊人的传\n"
+	.string "闻！$"
 
 BattleFrontier_ScottsHouse_Text_ComeBackForThisLater_hns:
 	.string "哎呀，既然你带的东西太多了，那就\n"

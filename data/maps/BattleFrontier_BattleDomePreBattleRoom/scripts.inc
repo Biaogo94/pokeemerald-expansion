@@ -279,8 +279,8 @@ BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForRound2:
 	.string "了吗？$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForSemifinals:
-	.string "接下来您将参加半决赛。准备好了吗\n"
-	.string "？$"
+	.string "接下来您将参加半决赛。准备好了\n"
+	.string "吗？$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForFinals:
 	.string "接下来您将参加决赛。准备好了吗？$"
@@ -354,15 +354,15 @@ BattleFrontier_BattleDomePreBattleRoom_Text_RecordLastMatch:
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilver:
 	.string "恭喜您成功进入决赛！\p"
-	.string "在决赛中，您将挑战的人是——巨蛋\n"
-	.string "超级巨星石南。\p"
+	.string "在决赛中，您将挑战的人是——巨蛋超\n"
+	.string "级巨星石南。\p"
 	.string "准备好了吗？$"
 
 @ Identical to ReadyForTuckerSilver
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGold:
 	.string "恭喜您成功进入决赛！\p"
-	.string "在决赛中，您将挑战的人是——巨蛋\n"
-	.string "超级巨星石南。\p"
+	.string "在决赛中，您将挑战的人是——巨蛋超\n"
+	.string "级巨星石南。\p"
 	.string "准备好了吗？$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilverShort:

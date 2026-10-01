@@ -67,14 +67,14 @@ BattleFrontier_Lounge5_Text_NatureGirlAttackHighSupportLow_hns::
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighAttackLow_hns::
 	.string "嗯嗯……\p"
 	.string "它说它很懂得照顾自己！但要是受了\n"
-	.string "很痛很痛的伤，它就会全力反击回去\l"
-	.string "！$"
+	.string "很痛很痛的伤，它就会全力反击回\l"
+	.string "去！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighDefenseLow_hns::
 	.string "嗯嗯……\p"
 	.string "它说它很懂得照顾自己！它说不管受\n"
-	.string "没受很痛的伤，它都总是在担心自己\l"
-	.string "！$"
+	.string "没受很痛的伤，它都总是在担心自\l"
+	.string "己！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighSupportLow_hns::
 	.string "嗯嗯……\p"
@@ -90,8 +90,8 @@ BattleFrontier_Lounge5_Text_NatureGirlSupportHighAttackLow_hns::
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighDefenseLow_hns::
 	.string "嗯嗯……\p"
 	.string "它说它喜欢耍小花招！但要是受了很\n"
-	.string "痛很痛的伤，它就会先顾着保护自己\l"
-	.string "！$"
+	.string "痛很痛的伤，它就会先顾着保护自\l"
+	.string "己！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighSupportLow_hns::
 	.string "嗯嗯……\p"

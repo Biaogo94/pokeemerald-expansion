@@ -296,8 +296,8 @@ VermilionCity_Text_CitySign::
 
 VermilionCity_Text_SnorlaxBlockingRoute12::
 	.string "通知\p"
-	.string "12号道路被一只熟睡着的宝可梦堵\n"
-	.string "死了。\p"
+	.string "12号道路被一只熟睡着的宝可梦堵死\n"
+	.string "了。\p"
 	.string "请从岩山隧道绕道至紫苑镇。\p"
 	.string "枯叶警察局$"
 
@@ -327,8 +327,8 @@ VermilionCity_Text_FlashedSSTicket::
 
 VermilionCity_Text_DontHaveNeededSSTicket::
 	.string "{FONT_NORMAL}\n"
-	.string "{PLAYER}没有带着要的船票\l"
-	.string "。\p"
+	.string "{PLAYER}没有带着要的船\l"
+	.string "票。\p"
 	.string "{FONT_MALE}对不起！\p"
 	.string "想登船必须得有票。$"
 
@@ -341,8 +341,8 @@ VermilionCity_Text_BoardSeagallopTriPass::
 
 VermilionCity_Text_Seagallop7Departing::
 	.string "好，万事俱备了。\p"
-	.string "海烈焰马号将以7被的高速马上起航\n"
-	.string "。$"
+	.string "海烈焰马号将以7被的高速马上起\n"
+	.string "航。$"
 
 VermilionCity_Text_BoardSeagallopRainbowPass::
 	.string "啊，你带着彩虹通行证。\p"
@@ -376,14 +376,14 @@ VermilionCity_Text_Seagallop12Departing::
 	.string "航。$"
 
 VermilionCity_Text_Route2AideHasPackageForYou::
-	.string "你好啊，{PLAYER}！\n"
-	.string "最近过得怎么样？\p"
+	.string "你好啊，{PLAYER}！最近过\n"
+	.string "得怎么样？\p"
 	.string "我是大木博士的助手。\p"
 	.string "你见过另一位助手了吗？\p"
 	.string "他有一份大木博士托付给你的包裹，\n"
 	.string "{PLAYER}。\p"
 	.string "他说会在2号道路附近找你。\n"
 	.string "{PLAYER}。\p"
-	.string "如果你现在在2号道路一带，\n"
-	.string "请帮忙找找他。$"
+	.string "如果你现在在2号道路一带，请帮忙\n"
+	.string "找找他。$"
 

@@ -37,8 +37,8 @@ CeladonCity_DepartmentStore_4F_Items::
 
 CeladonCity_DepartmentStore_4F_Text_GettingPokeDollAsPresent::
 	.string "我在为我女朋友挑礼物。\p"
-	.string "我觉得皮皮玩偶不错。这东西很流行\n"
-	.string "。$"
+	.string "我觉得皮皮玩偶不错。这东西很流\n"
+	.string "行。$"
 
 CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll::
 	.string "告诉你个有用的信息。\p"

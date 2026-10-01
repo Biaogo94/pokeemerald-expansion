@@ -61,9 +61,8 @@ Route5_PokemonDayCare_Text_DontHaveEnoughMoney::
 	.string "你的钱不够。$"
 
 Route5_PokemonDayCare_Text_WantMeToTakeALookAtYours::
-	.string "きみの\n"
-	.string "みてみるかね？$"
+	.string "きみのみてみるかね？$"
 
 Route5_PokemonDayCare_Text_CantAcceptMonWithHM::
-	.string "わるいけど　ひでんのわざを　もった\n"
-	.string "ポケモンは　あずかれないなぁ$"
+	.string "わるいけど　ひでんのわざを　もっ\n"
+	.string "たポケモンは　あずかれないなぁ$"

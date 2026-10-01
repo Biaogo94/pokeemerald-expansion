@@ -139,13 +139,13 @@ Route113_Text_AshCanBeFashionedIntoGlass:
 
 Route113_Text_FunWalkingThroughAsh:
 	.string "在布满火山灰的草丛里走真好玩，\p"
-	.string "回头看看走过的地方——哇，都干干\n"
-	.string "净净了！$"
+	.string "回头看看走过的地方——哇，都干干净\n"
+	.string "净了！$"
 
 Route113_Text_RouteSign111:
 	.string "113号道路\n"
-	.string "{RIGHT_ARROW}111\l"
-	.string "号道路$"
+	.string "{RIGHT_ARROW}111号\l"
+	.string "道路$"
 
 Route113_Text_RouteSignFallarbor:
 	.string "113号道路\n"
@@ -155,8 +155,8 @@ Route113_Text_TrainerTipsRegisterKeyItems:
 	.string "有用的公告牌！\p"
 	.string "可以将背包中的某个重要物品登录到\n"
 	.string "SELECT键上，\p"
-	.string "按下SELECT键就可以方便地使\n"
-	.string "用登录的物品了。$"
+	.string "按下SELECT键就可以方便地使用登录\n"
+	.string "的物品了。$"
 
 Route113_Text_GlassWorkshopSign:
 	.string "琉璃工坊“将火山灰变成玻璃”$"

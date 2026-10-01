@@ -18,16 +18,16 @@ DayCare_Text_DoYouWantEgg::
 
 DayCare_Text_YourMonIsDoingFine::
 	.string "哎呀，是你啊！见到你真高兴。你的\n"
-	.string "{STR_VAR_1}精神得很呢\l"
-	.string "。$"
+	.string "{STR_VAR_1}精神得很\l"
+	.string "呢。$"
 
 DayCare_Text_IllKeepIt::
 	.string "这样啊，那我就自己留着了。谢谢你\n"
 	.string "啦！$"
 
 DayCare_Text_YouHaveNoRoomForIt::
-	.string "你的同行宝可梦已经满了.....\n"
-	.string ".腾出空位后再来吧。$"
+	.string "你的同行宝可梦已经满了......腾出\n"
+	.string "空位后再来吧。$"
 
 DayCare_Text_ReceivedEgg::
 	.string "{PLAYER}从培育屋爷爷那里\n"
@@ -111,8 +111,8 @@ DayCare_Text_TookBackMon::
 	.string "领回了{STR_VAR_1}。$"
 
 DayCare_Text_YouHaveJustOneMon::
-	.string "哎呀？可是你身上只有一只宝可梦呀\n"
-	.string "。\p"
+	.string "哎呀？可是你身上只有一只宝可梦\n"
+	.string "呀。\p"
 	.string "下次再来吧。$"
 
 DayCare_Text_TakeYourMonBack::

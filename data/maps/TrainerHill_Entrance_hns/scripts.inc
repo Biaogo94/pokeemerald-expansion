@@ -288,10 +288,10 @@ TrainerHill_Entrance_hns_Text_HereToGetMoney:
 
 TrainerHill_Entrance_hns_Text_Money:
 	.string "每次登上顶楼，都能赚到一笔奖金。\p"
-	.string "我听说只要在10分钟以内通关，最\n"
-	.string "多能拿到1.000.000¥呢！\p"
-	.string "但要是花的时间太长，奖励就会减少\n"
-	.string "......$"
+	.string "我听说只要在10分钟以内通关，最多\n"
+	.string "能拿到1.000.000¥呢！\p"
+	.string "但要是花的时间太长，奖励就会减\n"
+	.string "少......$"
 
 TrainerHill_Entrance_hns_Text_StillGettingReady:
 	.string "这里是训练家之丘，在这里可以体验\n"
@@ -306,18 +306,16 @@ TrainerHill_Entrance_hns_Text_WelcomeToTrainerHill:
 
 TrainerHill_Entrance_hns_Text_SaveGameBeforeEnter:
 	.string "你是第一次来这里吗？\p"
-	.string "在进入之前，请先记录一下游戏进度\n"
-	.string "。$"
+	.string "在进入之前，请先记录一下游戏进\n"
+	.string "度。$"
 
 TrainerHill_Entrance_hns_Text_TrainersUpToFloorX:
-	.string "我看看……现在驻留在此的\n"
-	.string "训练家……\p"
+	.string "我看看……现在驻留在此的训练家……\p"
 	.string "分布到了第{STR_VAR_1}\n"
 	.string "层。$"
 
 TrainerHill_Entrance_hns_Text_TrainersInEveryRoom:
-	.string "我看看……现在驻留在此的\n"
-	.string "训练家……\p"
+	.string "我看看……现在驻留在此的训练家……\p"
 	.string "似乎每一个房间里都聚集了训练家。$"
 
 TrainerHill_Entrance_hns_Text_LikeToChallengeTrainers:
@@ -358,8 +356,8 @@ TrainerHill_Entrance_hns_Text_ExplainTrainerHill:
 	.string "这是一场竞速挑战，记录你从这个柜\n"
 	.string "台出发到达顶楼主人那里所花费的时\l"
 	.string "间。\p"
-	.string "最快的时间会记录在计时榜上--不\n"
-	.string "妨试着和朋友们一决高下吧。\p"
+	.string "最快的时间会记录在计时榜上--不妨\n"
+	.string "试着和朋友们一决高下吧。\p"
 	.string "在途中的训练家对战中，将无法获得\n"
 	.string "经验值与金钱。$"
 

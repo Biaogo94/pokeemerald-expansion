@@ -245,12 +245,11 @@ LakeOfRage_Text_Dragonite:
 LakeOfRage_Text_LanceForcedToEvolve:
     .string "这座湖里除了暴鲤龙就再没有别的宝\n"
     .string "可梦了……\p"
-    .string "看来是鲤鱼王被强迫进化了啊...\n"
-    .string "...$"
+    .string "看来是鲤鱼王被强迫进化了啊......$"
 
 LakeOfRage_Text_LanceIntro1:
-    .string "你也是因为听到了传闻才来这里的吗\n"
-    .string "？\p"
+    .string "你也是因为听到了传闻才来这里的\n"
+    .string "吗？\p"
     .string "你是{PLAYER}？我是阿渡，\n"
     .string "和你一样是个宝可梦训练家。$"
 
@@ -271,12 +270,12 @@ LakeOfRage_Text_LanceRadioSignal:
     .string "看来愤怒之湖的鲤鱼王是被强行促使\n"
     .string "进化的。\p"
     .string "罪魁祸首是来自卡吉镇的神秘电波。\p"
-    .string "我们在那里等你，{PLAYER}\n"
-    .string "。$"
+    .string "我们在那里等你，\n"
+    .string "{PLAYER}。$"
 
 LakeOfRage_Text_LanceRefused:
-    .string "这样啊……好吧，如果你改\n"
-    .string "变了主意，请一定要来帮帮我们。$"
+    .string "这样啊……好吧，如果你改变了主意，\n"
+    .string "请一定要来帮帮我们。$"
 
 LakeOfRage_Text_LanceAskHelp:
     .string "阿渡：嗯？你决定来帮我们了吗？$"
@@ -403,8 +402,8 @@ LakeOfRage_Text_MeetWesley:
     .string "到我最喜欢哪一天吗？$"
 
 LakeOfRage_Text_WesleyGivesGift:
-    .string "很高兴认识你。请收下这个纪念品吧\n"
-    .string "。$"
+    .string "很高兴认识你。请收下这个纪念品\n"
+    .string "吧。$"
 
 LakeOfRage_Text_WesleyGaveGift:
     .string "卫利：黑带可以增强格斗属性招式的\n"

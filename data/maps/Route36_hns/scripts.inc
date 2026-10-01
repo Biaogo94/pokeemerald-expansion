@@ -236,8 +236,8 @@ Route36_Text_UseSquirtbottle:
 	.string "要使用杰尼龟喷壶吗？$"
 
 Route36_Text_UsedSquirtbottle:
-	.string "{PLAYER}使用了杰尼龟喷壶\n"
-	.string "。$"
+	.string "{PLAYER}使用了杰尼龟喷\n"
+	.string "壶。$"
 
 Route36_Text_SudowoodoAttacked:
 	.string "奇怪的树好像很讨厌杰尼龟喷壶！\p"
@@ -264,8 +264,9 @@ Route36_Text_OddTree:
 
 Route36_Text_Lass1:
 	.string "晚上走这条路可要当心！\p"
-	.string "我看到过一只长得像卡蒂狗的宝可梦\n"
-	.string "，但它身上散发着非常恐怖的气息。$"
+	.string "我看到过一只长得像卡蒂狗的宝可\n"
+	.string "梦，但它身上散发着非常恐怖的气\l"
+	.string "息。$"
 
 Route36_Text_Lass2_ClearedSudowoodo:
 	.string "那棵奇怪的树消失得无影无踪了。\p"
@@ -293,8 +294,8 @@ Route36_Text_SchoolboyAlanAfter:
 	.string "看来光死读书还是远远不够的啊。$"
 
 Route36_Text_MeetArthur:
-	.string "阿木：你是谁？我是星期家族的阿木\n"
-	.string "。\p"
+	.string "阿木：你是谁？我是星期家族的阿\n"
+	.string "木。\p"
 	.string "要是你能猜出我最喜欢星期几，我就\n"
 	.string "送你一件礼物。$"
 
@@ -327,8 +328,8 @@ Route36_Text_Tips1:
 	.string "差异会变得越发明显。$"
 
 Route36_Text_Tips2:
-	.string "宝可梦指南使用“挖洞”可以瞬间回\n"
-	.string "到任何地方的入口。\p"
+	.string "宝可梦指南使用“挖洞”可以瞬间回到\n"
+	.string "任何地方的入口。\p"
 	.string "在探索洞窟等迷宫时非常方便。$"
 
 Route36_Text_AlanRegister:

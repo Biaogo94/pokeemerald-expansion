@@ -31,8 +31,8 @@ RustboroCity_House1_EventScript_Hiker::
 	end
 
 RustboroCity_House1_Text_IllTradeIfYouWant:
-	.string "嗯？我的宝可梦很可爱？那是当然的\n"
-	.string "。\p"
+	.string "嗯？我的宝可梦很可爱？那是当然\n"
+	.string "的。\p"
 	.string "但你如果真的想要，我也可以考虑跟\n"
 	.string "你交换。\p"
 	.string "愿意的话，我用我的\n"

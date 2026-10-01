@@ -55,13 +55,13 @@ BattleFrontier_Lounge5_Text_NatureGirlAttackHighAttackLow::
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighDefenseLow::
 	.string "嗯嗯……\p"
-	.string "它说它想去战斗！但如果它受伤太重\n"
-	.string "，它会更多照顾自己的！$"
+	.string "它说它想去战斗！但如果它受伤太\n"
+	.string "重，它会更多照顾自己的！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighSupportLow::
 	.string "嗯嗯……\p"
-	.string "它说它想去战斗！但如果它受伤太重\n"
-	.string "，它会避开战斗的！$"
+	.string "它说它想去战斗！但如果它受伤太\n"
+	.string "重，它会避开战斗的！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighAttackLow::
 	.string "嗯嗯……\p"
@@ -71,8 +71,8 @@ BattleFrontier_Lounge5_Text_NatureGirlDefenseHighAttackLow::
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighDefenseLow::
 	.string "嗯嗯……\p"
 	.string "它说它会照顾自己更多一些！它说就\n"
-	.string "算受伤很重，它还是会更多照顾自己\l"
-	.string "！$"
+	.string "算受伤很重，它还是会更多照顾自\l"
+	.string "己！$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighSupportLow::
 	.string "嗯嗯……\p"

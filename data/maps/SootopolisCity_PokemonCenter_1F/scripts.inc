@@ -48,8 +48,8 @@ SootopolisCity_PokemonCenter_1F_Text_WallaceToughestInHoenn:
 	.string "练家，\p"
 	.string "而这城镇道馆的训练家是米可利的老\n"
 	.string "师。\p"
-	.string "但四天王……据说比米可利的老师还\n"
-	.string "要强。\p"
+	.string "但四天王……据说比米可利的老师还要\n"
+	.string "强。\p"
 	.string "那么他们会有多强呢？$"
 
 SootopolisCity_PokemonCenter_1F_Text_EveryoneTakenRefuge:
@@ -57,8 +57,8 @@ SootopolisCity_PokemonCenter_1F_Text_EveryoneTakenRefuge:
 	.string "就算是我也不想出门冒险。$"
 
 SootopolisCity_PokemonCenter_1F_Text_AlwaysBeFriendsWithPokemon:
-	.string "无论何时，无论何地，无论发生什么\n"
-	.string "，我都会和宝可梦在一起。\p"
+	.string "无论何时，无论何地，无论发生什\n"
+	.string "么，我都会和宝可梦在一起。\p"
 	.string "和宝可梦交朋友是我的乐趣！$"
 
 SootopolisCity_PokemonCenter_1F_Text_ArentPokemonOurFriends:

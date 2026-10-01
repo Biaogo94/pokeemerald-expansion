@@ -545,8 +545,8 @@ MtChimney_Text_MeteoriteWillActivateVolcano:
 	.string "蕴含在陨石中的能量……\p"
 	.string "用这机器放大的话，烟囱山的火山活\n"
 	.string "动瞬间就会加剧……\p"
-	.string "这能量会在火山口深处积聚，然后…\n"
-	.string "…呵呵呵……$"
+	.string "这能量会在火山口深处积聚，然后……\n"
+	.string "呵呵呵……$"
 
 MtChimney_Text_MaxieIntro:
 	.string "赤焰松：嗯？你是谁？\p"
@@ -558,10 +558,10 @@ MtChimney_Text_MaxieIntro:
 	.string "哼！你莫非还想妨碍我们熔岩队吗？\p"
 	.string "听好了！远古时代，生物都是依赖陆\n"
 	.string "地生存繁衍的。\p"
-	.string "因此陆地至关重要！它是万物的摇篮\n"
-	.string "！\p"
-	.string "也正因此熔岩队才会致力于拓展大地\n"
-	.string "。\p"
+	.string "因此陆地至关重要！它是万物的摇\n"
+	.string "篮！\p"
+	.string "也正因此熔岩队才会致力于拓展大\n"
+	.string "地。\p"
 	.string "这是为了人类和宝可梦长远发展！\p"
 	.string "为此，我们才需要在这座山里沉睡的\n"
 	.string "力量……\p"
@@ -577,8 +577,8 @@ MtChimney_Text_MaxieYouHaventSeenLastOfMagma:
 	.string "赤焰松：哼，罢了。这次暂且撤退。\p"
 	.string "但别以为我们熔岩队会就此罢休。\p"
 	.string "呵呵呵……\p"
-	.string "哪怕没有陨石，只要能得到那个宝珠\n"
-	.string "……哼哼哼……$"
+	.string "哪怕没有陨石，只要能得到那个宝\n"
+	.string "珠……哼哼哼……$"
 
 MtChimney_Text_TabithaIntro:
 	.string "嘿嘿嘿！\p"
@@ -673,8 +673,8 @@ MtChimney_Text_ArchieThankYou:
 	.string "{PLAYER}，后会有期！$"
 
 MtChimney_Text_MagmaOutnumbersUs:
-	.string "可恶……熔岩队比我们人多！我们阻\n"
-	.string "止不了他们！$"
+	.string "可恶……熔岩队比我们人多！我们阻止\n"
+	.string "不了他们！$"
 
 MtChimney_Text_LessHabitatForWaterPokemon:
 	.string "如果任他们拓展陆地，水属性宝可梦\n"
@@ -703,14 +703,14 @@ MtChimney_Text_OhFineThen:
 	.string "啊，那就算了。$"
 
 MtChimney_Text_MetoriteFittedOnMachine:
-	.string "一台神秘的机器上嵌着一块陨石..\n"
-	.string "....\p"
+	.string "一台神秘的机器上嵌着一块陨石...\n"
+	.string "...\p"
 	.string "这台机器似乎正在将能量储存在陨石\n"
 	.string "中。$"
 
 MtChimney_Text_RemoveTheMeteorite:
-	.string "一个奇异的机器上面安装了一块陨石\n"
-	.string "……\p"
+	.string "一个奇异的机器上面安装了一块陨\n"
+	.string "石……\p"
 	.string "要拿走陨石吗？$"
 
 MtChimney_Text_PlayerRemovedMeteorite:
@@ -718,8 +718,8 @@ MtChimney_Text_PlayerRemovedMeteorite:
 	.string "器上拿了下来。$"
 
 MtChimney_Text_PlayerLeftMeteorite:
-	.string "{PLAYER}把陨石留在了原处\n"
-	.string "。$"
+	.string "{PLAYER}把陨石留在了原\n"
+	.string "处。$"
 
 MtChimney_Text_MachineMakesNoResponse:
 	.string "是一台奇异的机器……什么反应也没\n"
@@ -771,13 +771,12 @@ MtChimney_Text_SheilaIntro:
 	.string "宝可梦战斗！$"
 
 MtChimney_Text_SheilaDefeat:
-	.string "你战斗的方式……好像烟囱山的喷发\n"
-	.string "一般！$"
+	.string "你战斗的方式……好像烟囱山的喷发一\n"
+	.string "般！$"
 
 MtChimney_Text_SheilaPostBattle:
 	.string "正如我说的，我终于到达了烟囱山，\n"
-	.string "如果只是看看风景就真是太可惜了…\l"
-	.string "…\p"
+	.string "如果只是看看风景就真是太可惜了……\p"
 	.string "我想来几场对战，再买些煎饼当作纪\n"
 	.string "念品。$"
 

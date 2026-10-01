@@ -252,22 +252,22 @@ Route35NationalParkGate_Text_TakePartInFuture:
 	.string "好的。期待你下次的参与！$"
 
 Route35NationalParkGate_Text_FirstMonCantBattle:
-	.string "哎呀……你同行队伍排在首\n"
-	.string "位的宝可梦无法战斗。\p"
+	.string "哎呀……你同行队伍排在首位的宝可梦\n"
+	.string "无法战斗。\p"
 	.string "请把它换成你想派出的宝可梦，然后\n"
 	.string "再来找我吧。$"
 
 Route35NationalParkGate_Text_MakeRoom:
-	.string "哎呀……你的同行队伍和电\n"
-	.string "脑盒子全都满了。\p"
+	.string "哎呀……你的同行队伍和电脑盒子全都\n"
+	.string "满了。\p"
 	.string "这样就没有空间存放你捕获的虫属性\n"
 	.string "宝可梦了。\p"
 	.string "请整理出同行队伍或电脑盒子的空位\n"
 	.string "后再来找我吧。$"
 
 Route35NationalParkGate_Text_EggAsFirstMon:
-	.string "哎呀……你同行队伍排在首\n"
-	.string "位的是一颗蛋呢。\p"
+	.string "哎呀……你同行队伍排在首位的是一颗\n"
+	.string "蛋呢。\p"
 	.string "请把它换成你想派出的宝可梦，然后\n"
 	.string "再来找我吧。$"
 
@@ -333,8 +333,8 @@ Route35NationalParkGate_Text_YoungsterWonders:
 	.string "下一次捕虫大赛是什么时候呀？$"
 
 Route35NationalParkGate_Text_ContestExplanation:
-	.string "捕虫大赛会在周二、周四和周六举办\n"
-	.string "。\p"
+	.string "捕虫大赛会在周二、周四和周六举\n"
+	.string "办。\p"
 	.string "只要参加就能获得奖品，\p"
 	.string "而且比赛结束时留下的虫属性宝可梦\n"
 	.string "也能直接带走哦。$"

@@ -116,23 +116,23 @@ PokemonLeague_WillsRoom_Text_Before:
     .string "输掉是绝不可能的！$"
 
 PokemonLeague_WillsRoom_Text_Beaten:
-    .string "我……我居然……\n"
-    .string "不敢相信……$"
+    .string "我……我居然……不敢相信……$"
 
 PokemonLeague_WillsRoom_Text_Defeat:
     .string "即使被击败了，我也不会改变前进的\n"
     .string "方向。\p"
     .string "我会继续战斗，直到立于所有训练家\n"
     .string "之巅！\p"
-    .string "去吧，{PLAYER}，继续前进\n"
-    .string "，去见识四天王真正的可怕之处吧。$"
+    .string "去吧，{PLAYER}，继续前\n"
+    .string "进，去见识四天王真正的可怕之处\l"
+    .string "吧。$"
 
 PokemonLeague_WillsRoom_Text_RematchBefore:
     .string "一树：啊，欢迎回来。\p"
     .string "我早已预见到了这次重逢。\p"
-    .string "我和我的超能力宝可梦都已脱胎换骨\n"
-    .string "，研发出了全新的战术。\p"
+    .string "我和我的超能力宝可梦都已脱胎换\n"
+    .string "骨，研发出了全新的战术。\p"
     .string "准备迎接一场策略与力量皆大幅升级\n"
     .string "的决战吧。\p"
-    .string "让我看看你的预见力是否能与我匹敌\n"
-    .string "。$"
+    .string "让我看看你的预见力是否能与我匹\n"
+    .string "敌。$"

@@ -1393,8 +1393,7 @@ SootopolisCity_Text_GymSign:
 
 SootopolisCity_Text_CitySign:
 	.string "琉璃市\p"
-	.string "“历史沉眠的\n"
-	.string "神秘之城。”$"
+	.string "“历史沉眠的神秘之城。”$"
 
 SootopolisCity_Text_DoorIsClosed:
 	.string "这扇门上着锁。$"
@@ -1418,8 +1417,8 @@ SootopolisCity_Text_WhatIsThatGreenPokemon:
 
 SootopolisCity_Text_WhereDidLegendariesGo:
 	.string "固拉多和盖欧卡……它们去哪儿了？\p"
-	.string "它们会在其他地方引发干旱或洪水吗\n"
-	.string "？$"
+	.string "它们会在其他地方引发干旱或洪水\n"
+	.string "吗？$"
 
 SootopolisCity_Text_TwoPokemonArentAngry:
 	.string "不知怎么，我感觉那两只宝可梦并没\n"
@@ -1460,16 +1459,16 @@ SootopolisCity_Text_GreenOneSettlesThings:
 SootopolisCity_Text_SeeingLegendWithOwnEyes:
 	.string "在古老的传说中，大地和海洋是因宝\n"
 	.string "可梦间的一场大战而形成的。\p"
-	.string "现在，我亲眼见证着这个传说的发生\n"
-	.string "！\p"
+	.string "现在，我亲眼见证着这个传说的发\n"
+	.string "生！\p"
 	.string "哇！我从没想过我能见证这么大的事\n"
 	.string "件！$"
 
 SootopolisCity_Text_SawLegendWithOwnEyes:
 	.string "在古老的传说中，大地和海洋是因宝\n"
 	.string "可梦间的一场大战而形成的。\p"
-	.string "现在，我亲眼见证了这个传说的发生\n"
-	.string "！\p"
+	.string "现在，我亲眼见证了这个传说的发\n"
+	.string "生！\p"
 	.string "哇！我从没想过我能见证这么大的事\n"
 	.string "件！$"
 
@@ -1507,8 +1506,8 @@ SootopolisCity_Text_LeadSuperiorTrainerToCave:
 	.string "米可利告诉我，当一个拥有着坚定的\n"
 	.string "意志\p"
 	.string "与非凡的天赋的人，一个了解多种\p"
-	.string "宝可梦的训练家出现时……我将带他\n"
-	.string "进入神殿。$"
+	.string "宝可梦的训练家出现时……我将带他进\n"
+	.string "入神殿。$"
 
 SootopolisCity_Text_AwakenedPokemonClash:
 	.string "哦，偶滴天……\p"
@@ -1517,8 +1516,7 @@ SootopolisCity_Text_AwakenedPokemonClash:
 
 SootopolisCity_Text_CaveOfOriginSleepsToo:
 	.string "这里是觉醒神殿……\p"
-	.string "现在危机过去了，这里也该沉睡了…\n"
-	.string "…$"
+	.string "现在危机过去了，这里也该沉睡了……$"
 
 SootopolisCity_Text_SootopolisSkyBeautiful:
 	.string "琉璃市是在火山口中建起的城市。\p"
@@ -1555,8 +1553,7 @@ SootopolisCity_Text_YouBroughtFlyingMon:
 	.string "哇，你好厉害耶！$"
 
 SootopolisCity_Text_GroudonPleaseStop:
-	.string "赤焰松：固……固拉多……求求你住\n"
-	.string "手！\p"
+	.string "赤焰松：固……固拉多……求求你住手！\p"
 	.string "我见识到你的强大力量了！\p"
 	.string "再这样下去的话，不只是琉璃市，整\n"
 	.string "个丰缘地区都会被毁灭的！$"
@@ -1564,15 +1561,16 @@ SootopolisCity_Text_GroudonPleaseStop:
 SootopolisCity_Text_AfterAllOurScheming:
 	.string "赤焰松：原来超古代宝可梦不止固拉\n"
 	.string "多和盖欧卡……\p"
-	.string "我们费尽心机，拼命挣扎也徒劳无功\n"
-	.string "，而那只宝可梦轻描淡写地就让一切\l"
-	.string "都重回正轨，仿佛什么都不曾发生…\l"
-	.string "…\p"
+	.string "我们费尽心机，拼命挣扎也徒劳无\n"
+	.string "功，而那只宝可梦轻描淡写地就让一\l"
+	.string "切都重回正轨，仿佛什么都不曾发\l"
+	.string "生……\p"
 	.string "呵……呵～哈哈哈哈……$"
 
 SootopolisCity_Text_KyogreCalmDown:
-	.string "水梧桐：盖欧卡！怎么了？！看这里\n"
-	.string "！朱红色宝珠！冷静下来！盖欧卡！\p"
+	.string "水梧桐：盖欧卡！怎么了？！看这\n"
+	.string "里！朱红色宝珠！冷静下来！盖欧\l"
+	.string "卡！\p"
 	.string "…… …… ……\n"
 	.string "…… …… ……\p"
 	.string "不行……一点反应也没有！$"
@@ -1580,18 +1578,16 @@ SootopolisCity_Text_KyogreCalmDown:
 SootopolisCity_Text_TryingMeaninglessToPokemon:
 	.string "水梧桐：盖欧卡和固拉多都消失得无\n"
 	.string "影无踪，\p"
-	.string "丰缘地区的天气也已经恢复正常了…\n"
-	.string "…\p"
+	.string "丰缘地区的天气也已经恢复正常了……\p"
 	.string "哈哈……哈哈哈……\p"
 	.string "也许我们拼命追求的一切对宝可梦而\n"
-	.string "言什么都不算，根本渺小得不值一提\l"
-	.string "……$"
+	.string "言什么都不算，根本渺小得不值一\l"
+	.string "提……$"
 
 SootopolisCity_Text_InvolvedWithCrisisComeWithMe:
 	.string "大吾：那两只战斗的宝可梦……固拉\n"
 	.string "多……还有盖欧卡……\p"
-	.string "那两只超古代宝可梦从长眠中觉醒…\n"
-	.string "…\p"
+	.string "那两只超古代宝可梦从长眠中觉醒……\p"
 	.string "现在正宣泄着它们那失控的能量互相\n"
 	.string "攻击……\p"
 	.string "……{PLAYER}{KUN}。\p"
@@ -1605,20 +1601,19 @@ SootopolisCity_Text_DoesThisMakeYourFearPokemon:
 	.string "{KUN}。\p"
 	.string "看到固拉多和盖欧卡，让你觉得宝可\n"
 	.string "梦很可怕吗？\p"
-	.string "但事实绝非如此，宝可梦其实是更…\n"
-	.string "…\p"
-	.string "……我何必多此一问？你早就心中有\n"
-	.string "数了。$"
+	.string "但事实绝非如此，宝可梦其实是更……\p"
+	.string "……我何必多此一问？你早就心中有数\n"
+	.string "了。$"
 
 SootopolisCity_Text_HereWereAreHelpWallace:
 	.string "大吾：到了！\p"
-	.string "在这里面你能找到一个叫米可利的人\n"
-	.string "，\p"
+	.string "在这里面你能找到一个叫米可利的\n"
+	.string "人，\p"
 	.string "我相信你一定能成为他的助力……$"
 
 SootopolisCity_Text_KnowWhatsNeededToHelpHim:
-	.string "大吾：我相信你一定能成为他的助力\n"
-	.string "……$"
+	.string "大吾：我相信你一定能成为他的助\n"
+	.string "力……$"
 
 SootopolisCity_Text_NeverBeenToSkyPillar:
 	.string "大吾：天空之柱……\p"
@@ -1630,10 +1625,10 @@ SootopolisCity_Text_SoThatsRayquaza:
 	.string "地逃离了……$"
 
 SootopolisCity_Text_MaxieArchieLeft:
-	.string "大吾：看来赤焰松和水梧桐都离开了\n"
-	.string "。\p"
-	.string "也许他们是去送神山归还那些宝珠了\n"
-	.string "……$"
+	.string "大吾：看来赤焰松和水梧桐都离开\n"
+	.string "了。\p"
+	.string "也许他们是去送神山归还那些宝珠\n"
+	.string "了……$"
 
 SootopolisCity_Text_HaventYouScaledSkyPillar:
 	.string "米可利：哦？{PLAYER}\n"
@@ -1652,8 +1647,8 @@ SootopolisCity_Text_AquaMagmaDidntMeanHarm:
 SootopolisCity_Text_ThankYouForHelpAcceptThis:
 	.string "米可利：{PLAYER}\n"
 	.string "{KUN}……我的眼光果然没错。\p"
-	.string "多亏了你的努力，琉璃市……不，整\n"
-	.string "个丰缘地区都得救了。\p"
+	.string "多亏了你的努力，琉璃市……不，整个\n"
+	.string "丰缘地区都得救了。\p"
 	.string "我代表所有人向你致谢。\p"
 	.string "这是我的谢礼，请你收下它。$"
 
