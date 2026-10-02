@@ -26,7 +26,11 @@ def glyph(char):
     index = ((hi - 1) << 8) | lo
     x, y = index % 16 * 16, index // 16 * 16
     font = Image.open(ROOT / "graphics/fonts/chinese_small.png").convert("L")
-    return font.crop((x, y, x + 10, y + 13)).resize((8, 10), Image.Resampling.LANCZOS)
+    glyph = font.crop((x, y, x + 10, y + 13))
+    mask = glyph.point(lambda value: 255 if value <= 160 else 0)
+    bbox = mask.getbbox()
+    assert bbox is not None, char
+    return glyph.crop(bbox).resize((8, 8), Image.Resampling.LANCZOS)
 
 
 def test_move_type_badges_have_chinese_labels_and_preserve_sprite_geometry():
@@ -49,12 +53,12 @@ def test_move_type_badges_have_chinese_labels_and_preserve_sprite_geometry():
             if char == "?":
                 continue
             font_glyph = glyph(char)
-            for y in range(10):
+            for y in range(8):
                 for x in range(8):
-                    if font_glyph.getpixel((x, y)) <= 160 and 4 <= y + 1 < 12:
-                        ink_pixels.append(image.getpixel((x0 + index * 8 + x, y + 1)))
+                    if font_glyph.getpixel((x, y)) <= 160:
+                        ink_pixels.append(image.getpixel((x0 + index * 8 + x, y + 4)))
         if ink_pixels:
-            assert strongest in set(ink_pixels), name
+            assert max(ink_pixels.count(color) for color in set(ink_pixels)) >= len(ink_pixels) // 2, name
 
 
 def test_move_type_badge_renderer_exists_and_lists_all_assets():

@@ -31,7 +31,6 @@ LABELS = [
     ((185, 187), '经验', [(185, 186), (186, 187)]),          # EXP
     ((202, 206), '效果', [(202, 204), (204, 206)]),          # EFFECT
     ((208, 216), '说明', [(208, 212), (212, 216)]),          # DESCRIPTION
-    ((224, 232), '取消', [(224, 228), (228, 232)]),          # CANCEL
     ((176, 179), '取消', [(176, 177), (178, 179)]),          # CANCEL (egg)
     ((192, 196), '招式', [(193, 193), (194, 194)]),          # MOVES page title
 ]
@@ -47,8 +46,12 @@ def glyph_9x7(char):
         hi -= 1
     idx = ((hi - 1) << 8) | lo
     x, y = (idx % 16) * 16, (idx // 16) * 16
-    ink = FONT.crop((x, y, x + 10, y + 13))  # 10x13 ink region
-    small = ink.resize((9, 7), Image.LANCZOS)
+    ink = FONT.crop((x, y, x + 10, y + 13))
+    mask = ink.point(lambda value: 255 if value <= 160 else 0)
+    bbox = mask.getbbox()
+    if bbox is None:
+        raise ValueError(f'empty glyph: {char}')
+    small = ink.crop(bbox).resize((9, 7), Image.Resampling.LANCZOS)
     px = small.load()
     return [[1 if px[i, j] <= 160 else 0 for i in range(9)] for j in range(7)]
 
@@ -85,6 +88,20 @@ def stamp(im, span, char, ink):
                 px[x_start + i, y_start + j] = ink
 
 
+def stamp_centered_label(im, span, label, ink):
+    t0, t1 = span
+    width = (t1 - t0 + 1) * 8
+    x_start = (t0 % 16) * 8 + (width - len(label) * 9) // 2
+    y_start = (t0 // 16) * 8
+    px = im.load()
+    for char_index, char in enumerate(label):
+        glyph = glyph_9x7(char)
+        for y in range(7):
+            for x in range(9):
+                if glyph[y][x]:
+                    px[x_start + char_index * 9 + x, y_start + y] = ink
+
+
 for sheet in SHEETS:
     im = Image.open(sheet)
     assert im.size == (128, 120)
@@ -93,5 +110,8 @@ for sheet in SHEETS:
         assert ink is not None, (sheet, t0)
         for char, (s0, s1) in zip(label, subspans):
             stamp(im, (s0, s1), char, ink)
+    bg, ink = tile_span(im, 224, 232)
+    assert ink is not None, (sheet, 224)
+    stamp_centered_label(im, (224, 232), '训练家备忘录', ink)
     im.save(sheet)
     print(f'{sheet}: {len(LABELS)} banners redrawn')

@@ -92,6 +92,7 @@ def test_summary_page_wraps_move_descriptions_to_fit_pixel_width():
 def test_summary_graphic_page_title_is_localized():
     renderer = read("tools/i18n/draw_summary_labels.py")
     assert "((192, 196), '招式', [(193, 193), (194, 194)])" in renderer
+    assert "stamp_centered_label(im, (224, 232), '训练家备忘录', ink)" in renderer
 
 
 def test_nature_names_remain_current_official_simplified_names():

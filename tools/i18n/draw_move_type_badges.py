@@ -29,7 +29,14 @@ def glyph_for(char, charmap, sheet):
     hi -= hi > 0x06
     index = ((hi - 1) << 8) | lo
     x, y = index % 16 * 16, index // 16 * 16
-    return sheet.crop((x, y, x + 10, y + 13)).resize((8, 10), Image.Resampling.LANCZOS)
+    # Remove the font cell's blank top/bottom rows before fitting its ink into
+    # the badge's 8px-high text cell.
+    glyph = sheet.crop((x, y, x + 10, y + 13))
+    mask = glyph.point(lambda value: 255 if value <= 160 else 0)
+    bbox = mask.getbbox()
+    if bbox is None:
+        raise ValueError(f"empty glyph: {char}")
+    return glyph.crop(bbox).resize((8, 8), Image.Resampling.LANCZOS)
 
 
 def draw_badge(path, label, charmap, font):
@@ -53,10 +60,10 @@ def draw_badge(path, label, charmap, font):
     x0 = (32 - 8 * len(label)) // 2
     for index, char in enumerate(label):
         glyph = glyph_for(char, charmap, font)
-        for y in range(10):
+        for y in range(8):
             for x in range(8):
-                if glyph.getpixel((x, y)) <= 160 and 4 <= y + 1 < 12:
-                    pixels[x0 + index * 8 + x, y + 1] = ink
+                if glyph.getpixel((x, y)) <= 160:
+                    pixels[x0 + index * 8 + x, y + 4] = ink
     image.save(path, optimize=False)
 
 
